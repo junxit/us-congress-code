@@ -1,0 +1,25 @@
+---
+identifier: /us/usc/t16/s410oo–1
+title: 16
+chapter: 1
+section: 410oo–1
+---
+
+# § 410oo–1. Establishment
+
+- **(a)** *In general* In order to provide for the benefit, inspiration, and education of the American people, there is hereby established the Natchez National Historical Park (hereinafter in this subchapter referred to as the “park”) in the State of Mississippi.
+- **(b)** *Area included* The park shall consist of the historic districts established under this subchapter and the following properties:
+  - **(1)** The lands and structures known as Melrose, together with all personal property located on such lands.
+  - **(2)** The lands and improvements thereon known as, or associated with, Fort Rosalie.
+  - **(3)** The lands and structures known as the William Johnson House, together with all personal property located on such lands, and the building adjacent thereto which bears a common wall.
+- **(c)** *Boundaries; map* The Secretary shall prepare a map of the lands included within the park. Such map shall be on file and available for public inspection in the offices of the National Park Service at the park and at the Department of the Interior in the District of Columbia. The Secretary may from time to time make minor revisions in the boundary of the park in accordance with section 460l–9(c) of this title.
+
+## Source credit
+
+(Pub. L. 100–479, § 2, Oct. 7, 1988, 102 Stat. 2324; Pub. L. 101–399, § 1(a), Sept. 28, 1990, 104 Stat. 860.)
+
+## Notes
+
+### Amendments
+
+1990—Subsec. (b)(3). Pub. L. 101–399 added par. (3).

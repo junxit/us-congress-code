@@ -1,0 +1,14 @@
+---
+identifier: /us/usc/t21/s19
+title: 21
+chapter: 1
+section: 19
+---
+
+# § 19. Repealed. May 29, 1928, ch. 901, § 1(100), 45 Stat. 993
+
+## Notes
+
+### removalDescription
+
+Section, act May 23, 1908, ch. 192, 35 Stat. 261, related to report to Congress of expenditures in enforcing food and drug laws.

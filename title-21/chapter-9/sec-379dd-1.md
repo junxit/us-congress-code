@@ -1,0 +1,14 @@
+---
+identifier: /us/usc/t21/s379dd–1
+title: 21
+chapter: 9
+section: 379dd–1
+---
+
+# § 379dd–1. Location of Foundation
+
+The Foundation shall, if practicable, be located not more than 20 miles from the District of Columbia.
+
+## Source credit
+
+(June 25, 1938, ch. 675, § 771, as added Pub. L. 110–85, title VI, § 601(b), Sept. 27, 2007, 121 Stat. 897.)

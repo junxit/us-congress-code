@@ -1,0 +1,14 @@
+---
+identifier: /us/usc/t16/s410ff–4
+title: 16
+chapter: 1
+section: 410ff–4
+---
+
+# § 410ff–4. Federal or federally assisted undertakings with respect to lands and waters within, adjacent to, or related to park
+
+The head of any Federal agency having direct or indirect jurisdiction over a proposed Federal or federally assisted undertaking with respect to the lands and waters within or adjacent or related to the park, and the head of any Federal agency having authority to license or permit any undertaking with respect to such lands and waters, shall, prior to the approval of the expenditure of any Federal funds on such undertaking or prior to the issuance of any license or permit, as the case may be, afford the Secretary a reasonable opportunity to comment with regard to such undertaking and shall give due consideration to any comments made by the Secretary and to the effect of such undertaking on the purposes for which the park is established.
+
+## Source credit
+
+(Pub. L. 96–199, title II, § 205, Mar. 5, 1980, 94 Stat. 76.)

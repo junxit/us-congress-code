@@ -1,0 +1,14 @@
+---
+identifier: /us/usc/t16/s426l
+title: 16
+chapter: 1
+section: 426l
+---
+
+# § 426l. Redesignation; availability of appropriations
+
+Stones River National Military Park is redesignated as the Stones River National Battlefield, and any remaining balance of funds appropriated for the purpose of the Stones River National Military Park shall be available for the purpose of Stones River National Battlefield.
+
+## Source credit
+
+(Pub. L. 86–443, § 2, Apr. 22, 1960, 74 Stat. 82.)

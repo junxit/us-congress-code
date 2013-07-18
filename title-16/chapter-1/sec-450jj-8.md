@@ -1,0 +1,14 @@
+---
+identifier: /us/usc/t16/s450jj–8
+title: 16
+chapter: 1
+section: 450jj–8
+---
+
+# § 450jj–8. Repealed. Pub. L. 102–355, § 1(2), Aug. 26, 1992, 106 Stat. 947
+
+## Notes
+
+### removalDescription
+
+Section, act May 17, 1954, ch. 204, § 9, as added Aug. 24, 1984, Pub. L. 98–398, title II, § 201(a), 98 Stat. 1471, related to approval of development and management plan for East Saint Louis, Illinois, portion of Jefferson National Expansion Memorial, and transmission by Secretary of notice of approval of plan to Congressional committees.

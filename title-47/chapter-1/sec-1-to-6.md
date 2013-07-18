@@ -1,0 +1,42 @@
+---
+identifier: /us/usc/t47/s1 to 6
+title: 47
+chapter: 1
+section: 1 to 6
+---
+
+# § 1 to 6. Repealed. July 16, 1947, ch. 256, § 1, 61 Stat. 327
+
+## Notes
+
+### removalDescription
+
+Section 1, R.S. § 5263, related to use of public domain.
+
+### removalDescription
+
+Section 2, R.S. § 5264, related to use of materials from public lands.
+
+### removalDescription
+
+Section 3, R.S. § 5266; acts June 19, 1934, ch. 652, § 601, 48 Stat. 1101; Mar. 6, 1943, ch. 10, § 6, 57 Stat. 12, related to Government priority in transmission of messages.
+
+### removalDescription
+
+Section 4, R.S. § 5267; act June 19, 1934, ch. 652, § 601, 48 Stat. 1101, related to purchase of lines.
+
+### removalDescription
+
+Section 5, R.S. § 5268; act June 19, 1934, ch. 652, § 601, 48 Stat. 1101, related to acceptance of obligations to be filed.
+
+### removalDescription
+
+Section 6, R.S. § 5265; act June 19, 1934, ch. 652, § 601, 48 Stat. 1101, provided that rights were not transferable.
+
+### Effective Date of Repeal
+
+Section 3 of act July 16, 1947, provided that: “This Act [repealing sections 1 to 6 and 8 of this title] shall take effect on the tenth day following the enactment date thereof [July 16, 1947].”
+
+### Authority of Federal Communications Commission; Effect of Repeal
+
+Section 2 of act July 16, 1947, provided that: “Nothing in this Act [repealing sections 1 to 6 and 8 of this title] shall limit the authority of the Federal Communications Commission under the provisions of the Communications Act of 1934, as amended [chapter 5 of this title], to prescribe charges, classifications, regulations, and practices, including priorities, applicable to Government communications.”

@@ -1,0 +1,14 @@
+---
+identifier: /us/usc/t16/s291b
+title: 16
+chapter: 1
+section: 291b
+---
+
+# § 291b. Administration, protection, development, and maintenance
+
+The Secretary of the Interior shall administer, protect, develop, and maintain the George Rogers Clark National Historical Park in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented.
+
+## Source credit
+
+(Pub. L. 89–517, § 3, July 23, 1966, 80 Stat. 325.)

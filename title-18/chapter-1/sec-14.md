@@ -1,0 +1,14 @@
+---
+identifier: /us/usc/t18/s14
+title: 18
+chapter: 1
+section: 14
+---
+
+# § 14. Repealed. Pub. L. 107–273, div. B, title IV, § 4004(a), Nov. 2, 2002, 116 Stat. 1812]
+
+## Notes
+
+### removalDescription
+
+Section, act June 25, 1948, ch. 645, 62 Stat. 686; Aug. 5, 1953, ch. 325, 67 Stat. 366; Pub. L. 87–845, § 3(a), Oct. 18, 1962, 76A Stat. 698; Pub. L. 90–357, § 59, June 22, 1968, 82 Stat. 248; Pub. L. 101–647, title XXXV, § 3519(c), Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XXXIII, § 330010(9), Sept. 13, 1994, 108 Stat. 2143, listed Title 18 sections applicable to and within Canal Zone.

@@ -1,0 +1,14 @@
+---
+identifier: /us/usc/t16/s90d–1
+title: 16
+chapter: 1
+section: 90d–1
+---
+
+# § 90d–1. Contracts, leases, permits, or licenses for occupation or use of Federal lands in the park or recreation areas; continuation of privileges for original or extended term
+
+Where any Federal lands included in the park or recreation areas are legally occupied or utilized on October 2, 1968, for any purpose, pursuant to a contract, lease, permit, or license issued or authorized by any department, establishment, or agency of the United States, the Secretary shall permit the persons holding such privileges to continue in the exercise thereof, subject to the terms and conditions thereof, for the remainder of the term of the contract, lease, permit, or license or for such longer period of time as the Secretary deems appropriate.
+
+## Source credit
+
+(Pub. L. 90–544, title V, § 502, Oct. 2, 1968, 82 Stat. 929.)

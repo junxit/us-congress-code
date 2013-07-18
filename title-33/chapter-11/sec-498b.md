@@ -1,0 +1,14 @@
+---
+identifier: /us/usc/t33/s498b
+title: 33
+chapter: 11
+section: 498b
+---
+
+# § 498b. Repealed. Pub. L. 100–17, title I, § 135(c), Apr. 2, 1987, 101 Stat. 174
+
+## Notes
+
+### removalDescription
+
+Section, act June 27, 1930, ch. 640, § 1, 46 Stat. 821, provided that, in case of any bridge authorized prior to Mar. 23, 1906, by Act of Congress, where Congress has specifically reserved the right to alter, amend, or repeal such Act, regulation of all tolls be subject to sections 491 to 494 and 495 to 498 of this title.

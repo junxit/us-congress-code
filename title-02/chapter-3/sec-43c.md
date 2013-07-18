@@ -1,0 +1,14 @@
+---
+identifier: /us/usc/t2/s43c
+title: 2
+chapter: 3
+section: 43c
+---
+
+# § 43c. Repealed. Pub. L. 89–147, § 4, Aug. 28, 1965, 79 Stat. 584
+
+## Notes
+
+### removalDescription
+
+Section, Pub. L. 86–628, § 105(c), July 12, 1960, 74 Stat. 461, restricted payment of travel or subsistence expenses of Senators and Representatives to specifically authorized trips, official participation in funeral services of deceased Members, and official trips originating in Senator’s State or Representative’s district when Congress was not in session.

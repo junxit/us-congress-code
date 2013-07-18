@@ -1,0 +1,14 @@
+---
+identifier: /us/usc/t16/s693c
+title: 16
+chapter: 6
+section: 693c
+---
+
+# § 693c. Administration by Secretary of Agriculture of the Robert S. Kerr Center
+
+The area designated as the Robert S. Kerr Memorial Arboretum and Nature Center shall be administered, protected, and developed within and as a part of the Ouachita National Forest by the Secretary of Agriculture in accordance with the laws, rules, and regulations applicable to national forests in such manner as in his judgment will best provide for the purposes of sections 693b to 693d of this title and to provide for such management, utilization, and disposal of the natural resources as in his judgment will promote or is compatible with and does not significantly impair the purposes for which the Robert S. Kerr Memorial Arboretum and Nature Center is established.
+
+## Source credit
+
+(Pub. L. 90–327, § 2, June 4, 1968, 82 Stat. 169.)

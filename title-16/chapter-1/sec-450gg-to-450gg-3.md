@@ -1,0 +1,14 @@
+---
+identifier: /us/usc/t16/s450gg to 450gg–3
+title: 16
+chapter: 1
+section: 450gg to 450gg–3
+---
+
+# § 450gg to 450gg–3. Repealed. Pub. L. 91–660, § 5, Jan. 8, 1971, 84 Stat. 1969
+
+## Notes
+
+### removalDescription
+
+Sections, act July 2, 1948, ch. 806, §§ 1–4, 62 Stat. 1220, provided for establishment of the Pensacola National Monument, maintenance of a museum for relics and records of Pensacola and its harbor defenses, and the transfer of title to the land and jurisdiction of the area to the State of Florida, upon determination by Secretary of the Interior that the area would be more suitably administered as a State historical park.

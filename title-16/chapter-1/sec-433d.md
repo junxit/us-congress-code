@@ -1,0 +1,14 @@
+---
+identifier: /us/usc/t16/s433d
+title: 16
+chapter: 1
+section: 433d
+---
+
+# § 433d. Repealed. Pub. L. 92–568, § 3(2), Oct. 26, 1972, 86 Stat. 1182
+
+## Notes
+
+### removalDescription
+
+Section, act June 2, 1936, ch. 477, § 4, 49 Stat. 1394, provided that members of Perry’s Victory Memorial Commission created by act Mar. 3, 1919, ch. 116, 40 Stat. 1322, act as a board of advisors, and also provided for number of members, method of filling vacancies, and travel expenses but no compensation for the members.

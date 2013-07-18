@@ -1,0 +1,14 @@
+---
+identifier: /us/usc/t2/s190h
+title: 2
+chapter: 6
+section: 190h
+---
+
+# § 190h. Repealed. S. Res. 9, § 2, Nov. 5, 1975
+
+## Notes
+
+### removalDescription
+
+Section, Pub. L. 91–510, title II, § 242(a), Oct. 26, 1970, 84 Stat. 1171, provided that each meeting conducted by Senate Committee on Appropriations be open to the public except when testimony to be taken might relate to a matter of national security, tend to reflect adversely on character or reputation of witness or other individual, or divulge matters deemed confidential under other provisions of law or regulations.

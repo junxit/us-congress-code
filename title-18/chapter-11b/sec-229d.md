@@ -1,0 +1,21 @@
+---
+identifier: /us/usc/t18/s229D
+title: 18
+chapter: 11B
+section: 229D
+---
+
+# § 229D. Injunctions
+
+The United States may obtain in a civil action an injunction against—
+
+- **(1)** the conduct prohibited under section 229 or 229C of this title; or
+- **(2)** the preparation or solicitation to engage in conduct prohibited under section 229 or 229D 11 So in original. of this title.
+
+## Source credit
+
+(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–869.)
+
+## Notes
+
+1 So in original.
