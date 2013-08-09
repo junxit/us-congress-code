@@ -7,7 +7,7 @@ section: 677x
 
 # § 677x. Citizenship status unaffected
 
-Nothing in this subchapter, shall affect the status of the members of the tribe as citizens of the United States.
+Nothing in this subchapter shall affect the status of the members of the tribe as citizens of the United States.
 
 ## Source credit
 
