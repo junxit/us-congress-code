@@ -230,7 +230,7 @@ Pub. L. 105–100, title I, § 162, Nov. 19, 1997, 111 Stat. 2188, provided in p
 
 ### Construction of 2009 Amendment
 
-Pub. L. 111–3, title I, § 114(b), Feb. 4, 2009, 123 Stat. 35, provided that: “Nothing in the amendments made by this section [amending this section] shall be construed as— “(1) changing any income eligibility level for children under title XXI of the Social Security Act [this subchapter]; or “(2) changing the flexibility provided States under such title to establish the income eligibility level for targeted low-income children under a State child health plan and the methodologies used by the State to determine income or assets under such plan.”
+Pub. L. 111–3, title I, § 114(b), Feb. 4, 2009, 123 Stat. 35, provided that: “Nothing in the amendments made by this section [amending this section] shall be construed as— “(1) changing any income eligibility level for children under title XXI of the Social Security Act [42 U.S.C. 1397aa et seq.]; or “(2) changing the flexibility provided States under such title to establish the income eligibility level for targeted low-income children under a State child health plan and the methodologies used by the State to determine income or assets under such plan.”
 
 ### Payment Error Rate Measurement Requirements
 

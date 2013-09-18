@@ -66,10 +66,6 @@ section: 3796gg
 
 ## Notes
 
-### Amendment of Section
-
-For effective date of amendment by Pub. L. 113–4, see Effective Date of 2013 Amendment note below.
-
 ### References in Text
 
 The Public Health Service Act, referred to in subsec. (c)(2)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables. This chapter, referred to in subsec. (d)(4), was in the original “this title”, meaning title I of Pub. L. 90–351, as added by Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.

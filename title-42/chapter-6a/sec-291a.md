@@ -32,4 +32,4 @@ A prior section 291a, act July 1, 1944, ch. 373, title VI, § 611, as added Aug.
 
 ### Effective Date of 1970 Amendment
 
-Pub. L. 91–296, title I, § 101(b), June 30, 1970, 84 Stat. 337, provided that: “The amendments made by subsection (a) [amending this section] shall take effect with respect to appropriations made under such section 601 [this section] for fiscal years beginning after June 30, 1970.” Pub. L. 91–296, title I, § 102(a), June 30, 1970, 84 Stat. 337, provided that the amendment made by that section is effective with respect to appropriations made under this section for fiscal years beginning after June 30, 1970.
+Pub. L. 91–296, title I, § 101(b), June 30, 1970, 84 Stat. 337, provided that: “The amendments made by subsection (a) [amending this section] shall take effect with respect to appropriations made under such section 601 [42 U.S.C. 291a] for fiscal years beginning after June 30, 1970.” Pub. L. 91–296, title I, § 102(a), June 30, 1970, 84 Stat. 337, provided that the amendment made by that section is effective with respect to appropriations made under this section for fiscal years beginning after June 30, 1970.

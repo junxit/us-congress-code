@@ -31,10 +31,6 @@ section: 280b–1b
 
 ## Notes
 
-### Amendment of Section
-
-For effective date of amendment by Pub. L. 113–4, see Effective Date of 2013 Amendment note below.
-
 ### Codification
 
 Section was formerly classified to section 280b–1c of this title. Pub. L. 110–206, which directed the renumbering of “the section 393B (42 U.S.C. 280b–1c)” of act July 1, 1944, “relating to the use of allotments for rape prevention education” as section 393A and the transfer of that section so as to appear after section 393 of that Act, was executed by renumbering section 393C of that Act as 393A and transferring the renumbered provisions to this section, to reflect the probable intent of Congress and the renumbering of section 393B as 393C by section 2(1) of Pub. L. 110–202.

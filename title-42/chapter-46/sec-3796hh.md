@@ -70,10 +70,6 @@ section: 3796hh
 
 2 So in original. The comma probably should not appear.
 
-### Amendment of Section
-
-For effective date of amendment by Pub. L. 113–4, see Effective Date of 2013 Amendment note below.
-
 ### References in Text
 
 January 5, 2006, referred to in subsec. (c)(5), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 109–162, which enacted par. (5) of subsec. (c), to reflect the probable intent of Congress.

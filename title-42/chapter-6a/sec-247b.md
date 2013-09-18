@@ -102,7 +102,7 @@ Pub. L. 94–63, title VI, § 608, July 29, 1975, 89 Stat. 352, provided that: �
 
 ### Effective Date of 1972 Amendment
 
-Pub. L. 92–449, title I, § 102, Sept. 30, 1972, 86 Stat. 750, provided that: “The amendment made by section 101 of this title [amending this section] shall apply to grants made under section 317 of the Public Health Service Act [this section] after June 30, 1972, except that subsection (d) of such section as amended by section 101 [subsec. (d) of this section] shall take effect on the date of enactment of this Act [Sept. 30, 1972].”
+Pub. L. 92–449, title I, § 102, Sept. 30, 1972, 86 Stat. 750, provided that: “The amendment made by section 101 of this title [amending this section] shall apply to grants made under section 317 of the Public Health Service Act [42 U.S.C. 247b] after June 30, 1972, except that subsection (d) of such section as amended by section 101 shall take effect on the date of enactment of this Act [Sept. 30, 1972].”
 
 ### Rule of Construction Regarding Access to Immunizations
 
