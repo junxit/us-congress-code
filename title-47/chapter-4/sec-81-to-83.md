@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t47/s81 to 83
+identifier: 
 title: 47
 chapter: 4
 section: 81 to 83

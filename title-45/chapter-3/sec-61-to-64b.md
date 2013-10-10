@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t45/s61 to 64b
+identifier: 
 title: 45
 chapter: 3
 section: 61 to 64b

@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t27/s11 to 40
+identifier: 
 title: 27
 chapter: 2
 section: 11 to 40

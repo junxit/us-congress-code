@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t42/s300ll to 300ll–9
+identifier: 
 title: 42
 chapter: 6A
 section: 300ll to 300ll–9

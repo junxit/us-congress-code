@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t29/s49m, 49n
+identifier: 
 title: 29
 chapter: 4B
 section: 49m, 49n

@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t16/s66 to 77
+identifier: 
 title: 16
 chapter: 1
 section: 66 to 77

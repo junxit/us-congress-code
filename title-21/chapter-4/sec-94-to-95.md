@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t21/s94 to 95
+identifier: 
 title: 21
 chapter: 4
 section: 94 to 95

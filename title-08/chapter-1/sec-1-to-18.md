@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t8/s1 to 18
+identifier: 
 title: 8
 chapter: 1
 section: 1 to 18

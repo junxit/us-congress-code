@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t24/s3 to 5
+identifier: 
 title: 24
 chapter: 1
 section: 3 to 5

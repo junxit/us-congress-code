@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t43/s19 to 21
+identifier: 
 title: 43
 chapter: 1
 section: 19 to 21

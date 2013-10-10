@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t25/s407a to 407c
+identifier: 
 title: 25
 chapter: 12
 section: 407a to 407c

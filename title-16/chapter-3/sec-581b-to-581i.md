@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t16/s581b to 581i
+identifier: 
 title: 16
 chapter: 3
 section: 581b to 581i

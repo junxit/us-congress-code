@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t30/s4f to 4o
+identifier: 
 title: 30
 chapter: 1
 section: 4f to 4o

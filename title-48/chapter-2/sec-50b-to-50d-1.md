@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t48/s50b to 50d–1
+identifier: 
 title: 48
 chapter: 2
 section: 50b to 50d–1

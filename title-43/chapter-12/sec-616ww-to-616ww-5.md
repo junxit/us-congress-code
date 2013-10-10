@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t43/s616ww to 616ww–5
+identifier: 
 title: 43
 chapter: 12
 section: 616ww to 616ww–5

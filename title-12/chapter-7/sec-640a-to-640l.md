@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t12/s640a to 640l
+identifier: 
 title: 12
 chapter: 7
 section: 640a to 640l

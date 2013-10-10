@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t43/s616ii to 616mm
+identifier: 
 title: 43
 chapter: 12
 section: 616ii to 616mm

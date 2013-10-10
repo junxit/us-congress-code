@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t20/s241aa, 241bb
+identifier: 
 title: 20
 chapter: 13
 section: 241aa, 241bb

@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t48/s4, 5
+identifier: 
 title: 48
 chapter: 1
 section: 4, 5

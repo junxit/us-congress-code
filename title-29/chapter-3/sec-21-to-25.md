@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t29/s21 to 25
+identifier: 
 title: 29
 chapter: 3
 section: 21 to 25

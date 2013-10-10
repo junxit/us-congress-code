@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t48/s29 to 38
+identifier: 
 title: 48
 chapter: 2
 section: 29 to 38

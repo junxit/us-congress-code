@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t20/s241cc to 241ff
+identifier: 
 title: 20
 chapter: 13
 section: 241cc to 241ff

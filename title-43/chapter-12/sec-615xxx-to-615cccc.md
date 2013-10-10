@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t43/s615xxx to 615cccc
+identifier: 
 title: 43
 chapter: 12
 section: 615xxx to 615cccc

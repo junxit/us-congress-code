@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t16/s450b to 450e
+identifier: 
 title: 16
 chapter: 1
 section: 450b to 450e

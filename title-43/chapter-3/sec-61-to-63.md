@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t43/s61 to 63
+identifier: 
 title: 43
 chapter: 3
 section: 61 to 63

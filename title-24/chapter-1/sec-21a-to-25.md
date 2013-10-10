@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t24/s21a to 25
+identifier: 
 title: 24
 chapter: 1
 section: 21a to 25

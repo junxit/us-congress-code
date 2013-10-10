@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t24/s26 to 28
+identifier: 
 title: 24
 chapter: 1
 section: 26 to 28

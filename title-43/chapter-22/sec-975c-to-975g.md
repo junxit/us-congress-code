@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t43/s975c to 975g
+identifier: 
 title: 43
 chapter: 22
 section: 975c to 975g

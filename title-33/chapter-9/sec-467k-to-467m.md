@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t33/s467k to 467m
+identifier: 
 title: 33
 chapter: 9
 section: 467k to 467m

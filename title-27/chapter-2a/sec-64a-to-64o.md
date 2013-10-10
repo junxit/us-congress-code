@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t27/s64a to 64o
+identifier: 
 title: 27
 chapter: 2A
 section: 64a to 64o

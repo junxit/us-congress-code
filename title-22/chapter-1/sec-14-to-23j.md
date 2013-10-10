@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t22/s14 to 23j
+identifier: 
 title: 22
 chapter: 1
 section: 14 to 23j

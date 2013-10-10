@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t7/s150aa to 150jj
+identifier: 
 title: 7
 chapter: 7B
 section: 150aa to 150jj

@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t33/s466h to 466l
+identifier: 
 title: 33
 chapter: 9
 section: 466h to 466l

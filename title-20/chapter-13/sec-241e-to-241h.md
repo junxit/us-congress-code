@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t20/s241e to 241h
+identifier: 
 title: 20
 chapter: 13
 section: 241e to 241h

@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t2/s190i to 190k
+identifier: 
 title: 2
 chapter: 6
 section: 190i to 190k

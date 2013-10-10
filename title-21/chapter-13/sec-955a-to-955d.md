@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t21/s955a to 955d
+identifier: 
 title: 21
 chapter: 13
 section: 955a to 955d

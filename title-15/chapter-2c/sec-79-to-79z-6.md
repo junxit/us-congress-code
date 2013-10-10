@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t15/s79 to 79z–6
+identifier: 
 title: 15
 chapter: 2C
 section: 79 to 79z–6

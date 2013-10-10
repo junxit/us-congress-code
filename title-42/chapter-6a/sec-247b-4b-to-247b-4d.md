@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t42/s247b–4b to 247b–4d
+identifier: 
 title: 42
 chapter: 6A
 section: 247b–4b to 247b–4d

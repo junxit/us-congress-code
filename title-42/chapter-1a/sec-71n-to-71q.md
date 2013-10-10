@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t42/s71n to 71q
+identifier: 
 title: 42
 chapter: 1A
 section: 71n to 71q

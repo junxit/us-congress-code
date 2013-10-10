@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t2/s61f–2 to 61f–6
+identifier: 
 title: 2
 chapter: 4
 section: 61f–2 to 61f–6

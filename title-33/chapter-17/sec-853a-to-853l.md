@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t33/s853a to 853l
+identifier: 
 title: 33
 chapter: 17
 section: 853a to 853l

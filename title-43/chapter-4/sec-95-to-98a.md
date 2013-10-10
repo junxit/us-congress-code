@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t43/s95 to 98a
+identifier: 
 title: 43
 chapter: 4
 section: 95 to 98a

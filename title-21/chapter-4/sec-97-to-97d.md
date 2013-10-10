@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t21/s97 to 97d
+identifier: 
 title: 21
 chapter: 4
 section: 97 to 97d

@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t50/s46 to 46b
+identifier: 
 title: 50
 chapter: 4B
 section: 46 to 46b

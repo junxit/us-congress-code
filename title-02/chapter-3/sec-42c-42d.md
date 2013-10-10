@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t2/s42c, 42d
+identifier: 
 title: 2
 chapter: 3
 section: 42c, 42d

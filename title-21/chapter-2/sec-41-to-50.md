@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t21/s41 to 50
+identifier: 
 title: 21
 chapter: 2
 section: 41 to 50

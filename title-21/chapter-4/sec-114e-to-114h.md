@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t21/s114e to 114h
+identifier: 
 title: 21
 chapter: 4
 section: 114e to 114h

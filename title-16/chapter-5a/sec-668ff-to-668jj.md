@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t16/s668ff to 668jj
+identifier: 
 title: 16
 chapter: 5A
 section: 668ff to 668jj

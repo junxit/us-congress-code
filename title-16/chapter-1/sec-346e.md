@@ -11,7 +11,8 @@ In order to facilitate the administration of Zion National Park and Yosemite Nat
 
 - **(1)** avoid undue degradation of natural or cultural resources within the park;
 - **(2)** enhance service to the public; or
-- **(3)** provide a cost saving to the Federal Government. The Secretary is authorized to enter into cooperative agreements with State or local governments or private entities to undertake the authority granted under this section. The Secretary is encouraged to identify and utilize funding sources to supplement any Federal funding used for these facilities.
+- **(3)** provide a cost saving to the Federal Government.
+The Secretary is authorized to enter into cooperative agreements with State or local governments or private entities to undertake the authority granted under this section. The Secretary is encouraged to identify and utilize funding sources to supplement any Federal funding used for these facilities.
 
 ## Source credit
 

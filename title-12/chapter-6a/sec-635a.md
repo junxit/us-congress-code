@@ -112,9 +112,7 @@ section: 635a
     - **(A)** the sum of the interest and fees collected by the Bank; exceeds
     - **(B)** the sum of—
       - **(I)** 11 So in original. Probably should be “(i)”. the funds set aside to cover expected losses on transactions financed by the Bank; and
-    - **(ii)** the costs incurred to cover the administrative expenses of the Bank.
-  - **(3)** *Limitation* The aggregate of the amounts used in accordance with paragraph (1) for fiscal years 2012, 2013, and 2014 shall not exceed $20,000,000.
-  - **(4)** *Subject to appropriations* The authority provided by paragraph (1) may be exercised only to such extent and in such amounts as are provided in advance in appropriations Acts.
+- **(ii)** the costs incurred to cover the administrative expenses of the Bank.
 
 ## Source credit
 

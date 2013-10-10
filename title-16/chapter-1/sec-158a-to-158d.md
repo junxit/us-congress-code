@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t16/s158a to 158d
+identifier: 
 title: 16
 chapter: 1
 section: 158a to 158d

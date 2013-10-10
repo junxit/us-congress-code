@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t20/s18 to 27
+identifier: 
 title: 20
 chapter: 2
 section: 18 to 27

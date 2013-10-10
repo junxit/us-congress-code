@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t42/s64a to 64c
+identifier: 
 title: 42
 chapter: 1
 section: 64a to 64c

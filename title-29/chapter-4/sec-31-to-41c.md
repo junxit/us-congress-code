@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t29/s31 to 41c
+identifier: 
 title: 29
 chapter: 4
 section: 31 to 41c

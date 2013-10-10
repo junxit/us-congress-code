@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t2/s122b to 122g
+identifier: 
 title: 2
 chapter: 4
 section: 122b to 122g

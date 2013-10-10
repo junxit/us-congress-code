@@ -72,6 +72,8 @@ section: 32
   - **(2)** *Requirements for tables* The tables prescribed under paragraph (1) shall reflect the provisions of subsections (a) and (b) and shall have income brackets of not greater than $50 each—
     - **(A)** for earned income between $0 and the amount of earned income at which the credit is phased out under subsection (b), and
     - **(B)** for adjusted gross income between the dollar amount at which the phaseout begins under subsection (b) and the amount of adjusted gross income at which the credit is phased out under subsection (b).
+- **(g)** *Repealed. Pub. L. 111–226, title II, § 219(a)(2), Aug. 10, 2010, 124 Stat. 2403]*
+- **(h)** *Repealed. Pub. L. 107–16, title III, § 303(c), June 7, 2001, 115 Stat. 55]*
 - **(i)** *Denial of credit for individuals having excessive investment income*
   - **(1)** *In general* No credit shall be allowed under subsection (a) for the taxable year if the aggregate amount of disqualified income of the taxpayer for the taxable year exceeds $2,200.
   - **(2)** *Disqualified income* For purposes of paragraph (1), the term “disqualified income” means—

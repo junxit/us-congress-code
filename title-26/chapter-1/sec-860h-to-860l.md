@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t26/s860H to 860L
+identifier: 
 title: 26
 chapter: 1
 section: 860H to 860L

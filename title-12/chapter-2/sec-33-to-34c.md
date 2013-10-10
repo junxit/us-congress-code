@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t12/s33 to 34c
+identifier: 
 title: 12
 chapter: 2
 section: 33 to 34c

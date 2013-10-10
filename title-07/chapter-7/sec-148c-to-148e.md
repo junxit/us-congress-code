@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t7/s148c to 148e
+identifier: 
 title: 7
 chapter: 7
 section: 148c to 148e

@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t20/s3, 4
+identifier: 
 title: 20
 chapter: 1
 section: 3, 4

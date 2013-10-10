@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t22/s23k, 23l
+identifier: 
 title: 22
 chapter: 1
 section: 23k, 23l

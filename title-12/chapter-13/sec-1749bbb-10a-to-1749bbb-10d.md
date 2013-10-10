@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t12/s1749bbb–10a to 1749bbb–10d
+identifier: 
 title: 12
 chapter: 13
 section: 1749bbb–10a to 1749bbb–10d

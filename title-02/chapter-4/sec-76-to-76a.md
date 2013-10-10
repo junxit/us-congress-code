@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t2/s76 to 76a
+identifier: 
 title: 2
 chapter: 4
 section: 76 to 76a

@@ -94,6 +94,7 @@ section: 56
     - **(B)** is secured by property which, at the time such indebtedness was incurred, was—
       - **(i)** the principal residence (within the meaning of section 121) of the taxpayer, or
       - **(ii)** a qualified dwelling used by the taxpayer (or any member of his family (within the meaning of section 267(c)(4))).
+- **(f)** *Repealed. Pub. L. 101–508, title XI, § 11801(a)(3), Nov. 5, 1990, 104 Stat. 1388–520]*
 - **(g)** *Adjustments based on adjusted current earnings*
   - **(1)** *In general* The alternative minimum taxable income of any corporation for any taxable year shall be increased by 75 percent of the excess (if any) of—
     - **(A)** the adjusted current earnings of the corporation, over

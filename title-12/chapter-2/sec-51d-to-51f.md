@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t12/s51d to 51f
+identifier: 
 title: 12
 chapter: 2
 section: 51d to 51f

@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t16/s423j to 423l
+identifier: 
 title: 16
 chapter: 1
 section: 423j to 423l

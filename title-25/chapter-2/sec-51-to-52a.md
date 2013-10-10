@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t25/s51 to 52a
+identifier: 
 title: 25
 chapter: 2
 section: 51 to 52a

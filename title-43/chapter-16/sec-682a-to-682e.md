@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t43/s682a to 682e
+identifier: 
 title: 43
 chapter: 16
 section: 682a to 682e

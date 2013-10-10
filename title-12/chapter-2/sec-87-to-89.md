@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t12/s87 to 89
+identifier: 
 title: 12
 chapter: 2
 section: 87 to 89

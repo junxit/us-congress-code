@@ -15,6 +15,7 @@ In accordance with regulations prescribed by the Secretary—
 - **(4)** the plan administrator shall notify—
   - **(A)** in the case of a qualifying event described in paragraph (1), (2), or (4) of section 300bb–3 of this title, any qualified beneficiary with respect to such event, and
   - **(B)** in the case of a qualifying event described in paragraph (3) or (5) of section 300bb–3 of this title where the covered employee notifies the plan administrator under paragraph (3), any qualified beneficiary with respect to such event,
+For purposes of paragraph (4), any notification shall be made within 14 days of the date on which the plan administrator is notified under paragraph (2) or (3), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
 
 ## Source credit
 

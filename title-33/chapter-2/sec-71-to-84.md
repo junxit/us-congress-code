@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t33/s71 to 84
+identifier: 
 title: 33
 chapter: 2
 section: 71 to 84

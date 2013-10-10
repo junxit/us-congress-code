@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t19/s5, 5a
+identifier: 
 title: 19
 chapter: 1
 section: 5, 5a

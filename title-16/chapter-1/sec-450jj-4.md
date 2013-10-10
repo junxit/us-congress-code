@@ -11,7 +11,8 @@ Where appropriate in the discretion of the Secretary of the Interior, he may tra
 
 - **(1)** the continuation of existing uses of the land which are compatible with the Memorial,
 - **(2)** the protection of the important historical resources of the leased area, and
-- **(3)** the retention by the Secretary of such access and development rights as the Secretary deems necessary to provide for appropriate visitor use and resource management. In transferring any lands or interest in lands under this section, the Secretary shall take into account the views of the Commission established under section 450jj–6 of this title.
+- **(3)** the retention by the Secretary of such access and development rights as the Secretary deems necessary to provide for appropriate visitor use and resource management.
+In transferring any lands or interest in lands under this section, the Secretary shall take into account the views of the Commission established under section 450jj–6 of this title.
 
 ## Source credit
 

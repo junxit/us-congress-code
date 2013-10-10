@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t2/s44 to 46
+identifier: 
 title: 2
 chapter: 3
 section: 44 to 46

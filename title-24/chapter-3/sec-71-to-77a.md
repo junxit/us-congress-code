@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t24/s71 to 77a
+identifier: 
 title: 24
 chapter: 3
 section: 71 to 77a

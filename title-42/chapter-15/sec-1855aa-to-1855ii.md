@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t42/s1855aa to 1855ii
+identifier: 
 title: 42
 chapter: 15
 section: 1855aa to 1855ii

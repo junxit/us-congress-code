@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t45/s22 to 43a
+identifier: 
 title: 45
 chapter: 1
 section: 22 to 43a

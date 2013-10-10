@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t24/s45 to 46b
+identifier: 
 title: 24
 chapter: 2
 section: 45 to 46b

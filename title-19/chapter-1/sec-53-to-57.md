@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t19/s53 to 57
+identifier: 
 title: 19
 chapter: 1
 section: 53 to 57

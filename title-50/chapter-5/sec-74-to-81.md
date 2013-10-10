@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t50/s74 to 81
+identifier: 
 title: 50
 chapter: 5
 section: 74 to 81

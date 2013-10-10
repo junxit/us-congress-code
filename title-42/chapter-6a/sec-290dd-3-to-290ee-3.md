@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t42/s290dd–3 to 290ee–3
+identifier: 
 title: 42
 chapter: 6A
 section: 290dd–3 to 290ee–3

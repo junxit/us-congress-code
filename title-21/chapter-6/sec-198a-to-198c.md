@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t21/s198a to 198c
+identifier: 
 title: 21
 chapter: 6
 section: 198a to 198c

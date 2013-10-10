@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t16/s450gg to 450gg–3
+identifier: 
 title: 16
 chapter: 1
 section: 450gg to 450gg–3

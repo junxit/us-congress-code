@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t16/s410pp to 410pp–8
+identifier: 
 title: 16
 chapter: 1
 section: 410pp to 410pp–8

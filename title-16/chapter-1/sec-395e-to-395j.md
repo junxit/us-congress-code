@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t16/s395e to 395j
+identifier: 
 title: 16
 chapter: 1
 section: 395e to 395j

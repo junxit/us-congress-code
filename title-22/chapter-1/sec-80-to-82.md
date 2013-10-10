@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t22/s80 to 82
+identifier: 
 title: 22
 chapter: 1
 section: 80 to 82

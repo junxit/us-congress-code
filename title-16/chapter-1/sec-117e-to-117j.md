@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t16/s117e to 117j
+identifier: 
 title: 16
 chapter: 1
 section: 117e to 117j

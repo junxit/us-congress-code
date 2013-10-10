@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t16/s486a to 486w
+identifier: 
 title: 16
 chapter: 2
 section: 486a to 486w

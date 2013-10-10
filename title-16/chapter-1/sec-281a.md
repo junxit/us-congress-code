@@ -21,7 +21,8 @@ To implement this purpose the Secretary of the Interior may designate as the Nez
 - **(10)** Big Hole National Battlefield, Montana;
 - **(11)** Bear’s Paw Battleground, Montana;
 - **(12)** Canyon Creek, Montana; and
-- **(13)** Hasotino Village, Idaho; each as described in the National Park Service document entitled “Nez Perce National Historical Park Additions Study”, dated 1990 and Old Chief Joseph’s Gravesite and Cemetery, Oregon, as depicted on the map entitled “Nez Perce Additions”, numbered 429–20–018, and dated September, 1991. Lands added to the Big Hole National Battlefield, Montana, pursuant to paragraph (10) shall become part of, and be placed under the administrative jurisdiction of, the Big Hole National Battlefield, but may be interpreted in accordance with the purposes of this subchapter.
+- **(13)** Hasotino Village, Idaho;
+each as described in the National Park Service document entitled “Nez Perce National Historical Park Additions Study”, dated 1990 and Old Chief Joseph’s Gravesite and Cemetery, Oregon, as depicted on the map entitled “Nez Perce Additions”, numbered 429–20–018, and dated September, 1991. Lands added to the Big Hole National Battlefield, Montana, pursuant to paragraph (10) shall become part of, and be placed under the administrative jurisdiction of, the Big Hole National Battlefield, but may be interpreted in accordance with the purposes of this subchapter.
 
 ## Source credit
 

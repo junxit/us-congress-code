@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t16/s19 to 19c
+identifier: 
 title: 16
 chapter: 1
 section: 19 to 19c

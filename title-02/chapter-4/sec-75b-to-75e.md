@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t2/s75b to 75e
+identifier: 
 title: 2
 chapter: 4
 section: 75b to 75e

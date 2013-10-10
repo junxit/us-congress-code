@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t20/s61 to 64
+identifier: 
 title: 20
 chapter: 3
 section: 61 to 64

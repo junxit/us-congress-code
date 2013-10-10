@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t8/s61 to 65
+identifier: 
 title: 8
 chapter: 4
 section: 61 to 65

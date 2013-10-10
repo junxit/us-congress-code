@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t2/s29b, 29c
+identifier: 
 title: 2
 chapter: 2
 section: 29b, 29c

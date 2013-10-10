@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t50/s160a to 160f
+identifier: 
 title: 50
 chapter: 9
 section: 160a to 160f

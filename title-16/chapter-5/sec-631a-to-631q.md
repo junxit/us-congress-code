@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t16/s631a to 631q
+identifier: 
 title: 16
 chapter: 5
 section: 631a to 631q

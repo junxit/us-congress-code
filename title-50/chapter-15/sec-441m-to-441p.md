@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t50/s441m to 441p
+identifier: 
 title: 50
 chapter: 15
 section: 441m to 441p

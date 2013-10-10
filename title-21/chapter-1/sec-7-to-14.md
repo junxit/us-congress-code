@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t21/s7 to 14
+identifier: 
 title: 21
 chapter: 1
 section: 7 to 14

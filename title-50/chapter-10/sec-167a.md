@@ -16,10 +16,11 @@ section: 167a
   - **(6)** *Terms and conditions* An agreement under paragraph (1) (and any extension or renewal of an agreement) shall contain such terms and conditions as the Secretary may consider appropriate.
   - **(7)** *Prior agreements* This subsection shall not in any manner affect or diminish the rights and obligations of the Secretary and private parties under agreements to dispose of helium produced from Federal lands in existence on October 9, 1996, except to the extent that such agreements are renewed or extended after October 9, 1996.
 - **(b)** *Storage, transportation, and sale* The Secretary may store, transport, and sell helium only in accordance with this chapter.
+- **(c)** *Extraction of helium from deposits on Federal land* All amounts received by the Secretary from the sale or disposition of helium on Federal land shall be credited to the Helium Production Fund established under section 167d(e) of this title.
 
 ## Source credit
 
-(Mar. 3, 1925, ch. 426, § 3, as added Pub. L. 86–777, § 2, Sept. 13, 1960, 74 Stat. 918; amended Pub. L. 104–273, § 3, Oct. 9, 1996, 110 Stat. 3315.)
+(Mar. 3, 1925, ch. 426, § 3, as added Pub. L. 86–777, § 2, Sept. 13, 1960, 74 Stat. 918; amended Pub. L. 104–273, § 3, Oct. 9, 1996, 110 Stat. 3315; Pub. L. 113–40, § 3, Oct. 2, 2013, 127 Stat. 535.)
 
 ## Notes
 
@@ -29,4 +30,4 @@ A prior section 3 of act Mar. 3, 1925, related to disposal of helium by sale, us
 
 ### Amendments
 
-1996—Pub. L. 104–273 amended section generally. Prior to amendment, section enumerated various aspects of Secretary’s authority, including provisions in subsec. (a) relating to conserving, producing, buying, and selling helium, in subsec. (b) relating to helium on public domain, and in subsec. (c) relating to contract price for helium.
+2013—Subsec. (c). Pub. L. 113–40 added subsec. (c). 1996—Pub. L. 104–273 amended section generally. Prior to amendment, section enumerated various aspects of Secretary’s authority, including provisions in subsec. (a) relating to conserving, producing, buying, and selling helium, in subsec. (b) relating to helium on public domain, and in subsec. (c) relating to contract price for helium.

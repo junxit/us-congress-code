@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t20/s15aa to 15jj
+identifier: 
 title: 20
 chapter: 2
 section: 15aa to 15jj

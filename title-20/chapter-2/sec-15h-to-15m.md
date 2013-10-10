@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t20/s15h to 15m
+identifier: 
 title: 20
 chapter: 2
 section: 15h to 15m

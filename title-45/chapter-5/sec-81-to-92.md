@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t45/s81 to 92
+identifier: 
 title: 45
 chapter: 5
 section: 81 to 92

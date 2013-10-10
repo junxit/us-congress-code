@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t29/s42–1 to 42b
+identifier: 
 title: 29
 chapter: 4
 section: 42–1 to 42b

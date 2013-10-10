@@ -39,7 +39,7 @@ Pub. L. 99–359, § 2(a), July 8, 1986, 100 Stat. 764, provided that: “The Co
 
 ### Effectiveness of State Exemption in Effect on July 8, 1986
 
-Pub. L. 99–359, § 2(c), July 8, 1986, 100 Stat. 764, provided that: “Any law in effect on the date of the enactment of this Act [July 8, 1986]— “(1) adopted pursuant to section 3(a)(2) of the Uniform Time Act of 1966 [15 U.S.C. 260a(a)(2)] by a State with parts thereof in more than one time zone, or “(2) adopted pursuant to section 3(a)(1) of such Act by a State that lies entirely within one time zone, shall be held and considered to remain in effect as the exercise by that State of the exemption permitted by such Act [see 15 U.S.C. 260a(a)] unless that State, by law, provides that such exemption shall not apply.”
+Pub. L. 99–359, § 2(c), July 8, 1986, 100 Stat. 764, provided that: “Any law in effect on the date of the enactment of this Act [July 8, 1986]—“(1) adopted pursuant to section 3(a)(2) of the Uniform Time Act of 1966 [15 U.S.C. 260a(a)(2)] by a State with parts thereof in more than one time zone, or “(2) adopted pursuant to section 3(a)(1) of such Act by a State that lies entirely within one time zone, shall be held and considered to remain in effect as the exercise by that State of the exemption permitted by such Act [see 15 U.S.C. 260a(a)] unless that State, by law, provides that such exemption shall not apply.”
 
 ### Adjustment by General Rules or Interim Action With Respect to Hours of Operation of Daytime Standard Amplitude Modulation Broadcast Stations
 

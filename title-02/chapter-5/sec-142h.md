@@ -11,7 +11,8 @@ Effective October 1, 1988, and to continue thereafter, the Disbursing Officer of
 
 - **(1)** disburse funds appropriated for the Biomedical Ethics Board;
 - **(2)** compute and disburse the basic pay for all personnel of the Biomedical Ethics Board; and
-- **(3)** provide financial management services and support to the Biomedical Ethics Board, in the same manner as provided with respect to the Office of Technology Assessment under section 142f of this title.
+- **(3)** provide financial management services and support to the Biomedical Ethics Board,
+in the same manner as provided with respect to the Office of Technology Assessment under section 142f of this title.
 
 ## Source credit
 

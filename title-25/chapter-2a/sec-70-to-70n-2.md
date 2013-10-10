@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t25/s70 to 70n–2
+identifier: 
 title: 25
 chapter: 2A
 section: 70 to 70n–2

@@ -1,5 +1,5 @@
 ---
-identifier: /us/usc/t16/s568c to 568e
+identifier: 
 title: 16
 chapter: 3
 section: 568c to 568e

@@ -16,13 +16,13 @@ section: 42
     - **(ii)** at the election of the taxpayer—
       - **(I)** the month in which the taxpayer and the housing credit agency enter into an agreement with respect to such building (which is binding on such agency, the taxpayer, and all successors in interest) as to the housing credit dollar amount to be allocated to such building, or
       - **(II)** in the case of any building to which subsection (h)(4)(B) applies, the month in which the tax-exempt obligations are issued.
-  - **(B)** *11 So in original. No subpar. (A) has been enacted. Method of prescribing percentages* The percentages prescribed by the Secretary for any month shall be percentages which will yield over a 10-year period amounts of credit under subsection (a) which have a present value equal to—
-    - **(i)** 70 percent of the qualified basis of a new building which is not federally subsidized for the taxable year, and
-    - **(ii)** 30 percent of the qualified basis of a building not described in clause (i).
-  - **(C)** *Method of discounting* The present value under subparagraph (B) shall be determined—
-    - **(i)** as of the last day of the 1st year of the 10-year period referred to in subparagraph (B),
-    - **(ii)** by using a discount rate equal to 72 percent of the average of the annual Federal mid-term rate and the annual Federal long-term rate applicable under section 1274(d)(1) to the month applicable under clause (i) or (ii) of subparagraph (A) 1 and compounded annually, and
-    - **(iii)** by assuming that the credit allowable under this section for any year is received on the last day of such year.
+    - **(B)** *11 So in original. No subpar. (A) has been enacted. Method of prescribing percentages* The percentages prescribed by the Secretary for any month shall be percentages which will yield over a 10-year period amounts of credit under subsection (a) which have a present value equal to—
+      - **(i)** 70 percent of the qualified basis of a new building which is not federally subsidized for the taxable year, and
+      - **(ii)** 30 percent of the qualified basis of a building not described in clause (i).
+    - **(C)** *Method of discounting* The present value under subparagraph (B) shall be determined—
+      - **(i)** as of the last day of the 1st year of the 10-year period referred to in subparagraph (B),
+      - **(ii)** by using a discount rate equal to 72 percent of the average of the annual Federal mid-term rate and the annual Federal long-term rate applicable under section 1274(d)(1) to the month applicable under clause (i) or (ii) of subparagraph (A) 1 and compounded annually, and
+      - **(iii)** by assuming that the credit allowable under this section for any year is received on the last day of such year.
   - **(2)** *Temporary minimum credit rate for non-federally subsidized new buildings* In the case of any new building—
     - **(A)** which is placed in service by the taxpayer after the date of the enactment of this paragraph with respect to housing credit dollar amount allocations made before January 1, 2014, and
     - **(B)** which is not federally subsidized for the taxable year,
