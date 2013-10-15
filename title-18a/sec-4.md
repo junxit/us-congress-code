@@ -1,0 +1,13 @@
+---
+identifier: 
+title: 18a
+section: 4
+---
+
+# § 4. Definition of term “appropriate court”
+
+The term “appropriate court” as used in the agreement on detainers shall mean with respect to the United States, the courts of the United States, and with respect to the District of Columbia, the courts of the District of Columbia, in which indictments, informations, or complaints, for which disposition is sought, are pending.
+
+## Source credit
+
+(Pub. L. 91–538, § 4, Dec. 9, 1970, 84 Stat. 1402.)

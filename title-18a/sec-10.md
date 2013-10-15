@@ -1,0 +1,13 @@
+---
+identifier: /us/usc/t18a/pl/96/456/s10
+title: 18a
+section: 10
+---
+
+# § 10. Identification of information related to the national defense
+
+In any prosecution in which the United States must establish that material relates to the national defense or constitutes classified information, the United States shall notify the defendant, within the time before trial specified by the court, of the portions of the material that it reasonably expects to rely upon to establish the national defense or classified information element of the offense.
+
+## Source credit
+
+(Pub. L. 96–456, § 10, Oct. 15, 1980, 94 Stat. 2029.)
