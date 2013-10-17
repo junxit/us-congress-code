@@ -16,3 +16,9 @@ section: 121g
 ## Source credit
 
 (Pub. L. 108–199, div. H, § 151, Jan. 23, 2004, 118 Stat. 448.)
+
+## Notes
+
+### Codification
+
+Section is from the Miscellaneous Appropriations and Offsets Act, 2004, which is division H of the Consolidated Appropriations Act, 2004.
