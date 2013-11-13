@@ -52,17 +52,26 @@ section: 280g
       - **(ii)** must be renewed by the parent or guardian each subsequent school year in accordance with this subsection.
     - **(D)** *Backup medication* The State must require that backup medication, if provided by a student’s parent or guardian, be kept at a student’s school in a location to which the student has immediate access in the event of an asthma or anaphylaxis emergency.
     - **(E)** *Maintenance of information* The State must require that information described in subparagraphs (A)(iii) and (A)(iv) be kept on file at the student’s school in a location easily accessible in the event of an asthma or anaphylaxis emergency.
+    - **(F)** *School personnel administration of epinephrine* In determining the preference (if any) to be given to a State under this subsection, the Secretary shall give additional preference to a State that provides to the Secretary the certification described in subparagraph (G) and that requires that each public elementary school and secondary school in the State—
+      - **(i)** permits trained personnel of the school to administer epinephrine to any student of the school reasonably believed to be having an anaphylactic reaction;
+      - **(ii)** maintains a supply of epinephrine in a secure location that is easily accessible to trained personnel of the school for the purpose of administration to any student of the school reasonably believed to be having an anaphylactic reaction; and
+      - **(iii)** has in place a plan for having on the premises of the school during all operating hours of the school one or more individuals who are trained personnel of the school.
+    - **(G)** *Civil liability protection law* The certification required in subparagraph (F) shall be a certification made by the State attorney general that the State has reviewed any applicable civil liability protection law to determine the application of such law with regard to elementary and secondary school trained personnel who may administer epinephrine to a student reasonably believed to be having an anaphylactic reaction and has concluded that such law provides adequate civil liability protection applicable to such trained personnel. For purposes of the previous sentence, the term “civil liability protection law” means a State law offering legal protection to individuals who give aid on a voluntary basis in an emergency to an individual who is ill, in peril, or otherwise incapacitated.
   - **(2)** *Rule of construction* Nothing in this subsection creates a cause of action or in any other way increases or diminishes the liability of any person under any other law.
   - **(3)** *Definitions* For purposes of this subsection:
     - **(A)** The terms “elementary school” and “secondary school” have the meaning given to those terms in section 7801 of title 20.
     - **(B)** The term “health care practitioner” means a person authorized under law to prescribe drugs subject to section 353(b) of title 21.
     - **(C)** The term “medication” means a drug as that term is defined in section 321 of title 21 and includes inhaled bronchodilators and auto-injectable epinephrine.
     - **(D)** The term “self-administration” means a student’s discretionary use of his or her prescribed asthma or anaphylaxis medication, pursuant to a prescription or written direction from a health care practitioner.
+    - **(E)** The term “trained personnel” means, with respect to an elementary or secondary school, an individual—
+      - **(i)** who has been designated by the principal (or other appropriate administrative staff) of the school to administer epinephrine on a voluntary basis outside their scope of employment;
+      - **(ii)** who has received training in the administration of epinephrine; and
+      - **(iii)** whose training in the administration of epinephrine meets appropriate medical standards and has been documented by appropriate administrative staff of the school.
 - **(e)** *Authorization of appropriations* For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title III, § 399L, as added Pub. L. 106–310, div. A, title V, § 501, Oct. 17, 2000, 114 Stat. 1113; amended Pub. L. 108–377, § 3(a), Oct. 30, 2004, 118 Stat. 2203.)
+(July 1, 1944, ch. 373, title III, § 399L, as added Pub. L. 106–310, div. A, title V, § 501, Oct. 17, 2000, 114 Stat. 1113; amended Pub. L. 108–377, § 3(a), Oct. 30, 2004, 118 Stat. 2203; Pub. L. 113–48, § 2, Nov. 13, 2013, 127 Stat. 575.)
 
 ## Notes
 
@@ -78,7 +87,7 @@ A prior section 399L of act July 1, 1944, was renumbered section 399F and is cla
 
 ### Amendments
 
-2004—Subsecs. (d), (e). Pub. L. 108–377 added subsec. (d) and redesignated former subsec. (d) as (e).
+2013—Subsec. (d)(1)(F), (G). Pub. L. 113–48, § 2(1), added subpars. (F) and (G). Subsec. (d)(3)(E). Pub. L. 113–48, § 2(2), added subpar. (E). 2004—Subsecs. (d), (e). Pub. L. 108–377 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 ### Effective Date of 2004 Amendment
 
