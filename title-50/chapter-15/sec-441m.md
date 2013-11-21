@@ -1,0 +1,14 @@
+---
+identifier: /us/usc/t50/s441m
+title: 50
+chapter: 15
+section: 441m
+---
+
+# § 441m. Transferred
+
+## Notes
+
+### Codification
+
+Section 441m, comprising section 1021 of the National Security Act of 1947, act July 26, 1947, ch. 343, was editorially reclassified as section 3221 of this title.
