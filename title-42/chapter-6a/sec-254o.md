@@ -45,7 +45,7 @@ section: 254o
     - **(A)** Any obligation of an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) for payment of damages may be released by a discharge in bankruptcy under title 11 only if such discharge is granted after the expiration of the 7-year period beginning on the first date that payment of such damages is required, and only if the bankruptcy court finds that nondischarge of the obligation would be unconscionable.
     - **(B)**
       - **(i)** Subparagraph (A) shall apply to any financial obligation of an individual under the provision of law specified in clause (ii) to the same extent and in the same manner as such subparagraph applies to any obligation of an individual under the Scholarship or Loan Repayment Program (or contract thereunder) for payment of damages.
-      - **(ii)** The provision of law referred to in clause (i) is subsection (f) of section 234 22 See References in Text note below. of this title, as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484.
+      - **(ii)** The provision of law referred to in clause (i) is subsection (f) of section 234 1 of this title, as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484.
 - **(e)** *Inapplicability of Federal and State statute of limitations on actions for collection* Notwithstanding any other provision of Federal or State law, there shall be no limitation on the period within which suit may be filed, a judgment may be enforced, or an action relating to an offset or garnishment, or other action, may be initiated or taken by the Secretary, the Attorney General, or the head of another Federal agency, as the case may be, for the repayment of the amount due from an individual under this section.
 - **(f)** *Effective date* The amendment made by section 313(a)(4) of the Health Care Safety Net Amendments of 2002 (Public Law 107–251) shall apply to any obligation for which a discharge in bankruptcy has not been granted before the date that is 31 days after October 26, 2002.
 
@@ -56,8 +56,6 @@ section: 254o
 ## Notes
 
 1 See References in Text note below.
-
-2 See References in Text note below.
 
 ### References in Text
 
