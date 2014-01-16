@@ -31,7 +31,7 @@ section: 284g
 
 ## Notes
 
-### Prior Provisions
+### Codification
 
 Another section 409C of act July 1, 1944, was renumbered section 409G and is classified to section 284k of this title.
 

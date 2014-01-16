@@ -11,7 +11,7 @@ section: 46d–4
 
 ### removalDescription
 
-Section, Pub. L. 90–57, July 28, 1967, 81 Stat. 130, authorized payment from contingent fund of Senate of charges for long distance telephone calls by Senators. See section 58 of this title.
+Section, Pub. L. 90–57, July 28, 1967, 81 Stat. 130, authorized payment from contingent fund of Senate of charges for long distance telephone calls by Senators. See section 6314 of this title.
 
 ### Effective Date of Repeal
 

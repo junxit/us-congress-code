@@ -23,7 +23,7 @@ Section 87, act Mar. 3, 1901, ch. 830, § 1, 31 Stat. 968, related to requiring 
 
 ### removalDescription
 
-Section 88, act Mar. 3, 1901, ch. 830, § 1, 31 Stat. 968, prescribed age limits of twelve and eighteen for service as pages in House of Representatives but made the restriction inapplicable to chief pages, riding pages, and telephone pages. See section 88b–1(b) of this title.
+Section 88, act Mar. 3, 1901, ch. 830, § 1, 31 Stat. 968, prescribed age limits of twelve and eighteen for service as pages in House of Representatives but made the restriction inapplicable to chief pages, riding pages, and telephone pages. See section 4901(b) of this title.
 
 ### removalDescription
 

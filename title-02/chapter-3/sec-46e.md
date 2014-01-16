@@ -11,7 +11,7 @@ section: 46e
 
 ### removalDescription
 
-Section, acts July 1, 1946, ch. 530, 60 Stat. 392; Aug. 2, 1946, ch. 753, title I, § 102, 60 Stat. 814, authorized the payment of charges for telegrams by Senators. See section 58 of this title.
+Section, acts July 1, 1946, ch. 530, 60 Stat. 392; Aug. 2, 1946, ch. 753, title I, § 102, 60 Stat. 814, authorized the payment of charges for telegrams by Senators. See section 6314 of this title.
 
 ### Effective Date of Repeal
 

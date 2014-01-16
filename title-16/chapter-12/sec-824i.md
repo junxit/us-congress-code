@@ -15,7 +15,7 @@ section: 824i
     - **(D)** such increase in transmission capacity as may be necessary to carry out the purposes of any order under subparagraph (A) or (B).
   - **(2)** Any State regulatory authority may apply to the Commission for an order for any action referred to in subparagraph (A), (B), (C), or (D) of paragraph (1). No such order may be issued by the Commission with respect to a Federal power marketing agency upon application of a State regulatory authority.
 - **(b)** *Notice, hearing and determination by Commission* Upon receipt of an application under subsection (a) of this section, the Commission shall—
-  - **(1)** issue notice to each affected State regulatory authority, each affected electric utility, each affected Federal power marketing agency, each affected owner or operator of a cogeneration facility or of a small power production facility, and to the public.
+  - **(1)** issue notice to each affected State regulatory authority, each affected electric utility, each affected Federal power marketing agency, each affected owner or operator of a cogeneration facility or of a small power production facility, and to the public.11 So in original. The period probably should be a comma.
   - **(2)** afford an opportunity for an evidentiary hearing, and
   - **(3)** make a determination with respect to the matters referred to in subsection (c) of this section.
 - **(c)** *Necessary findings* No order may be issued by the Commission under subsection (a) of this section unless the Commission determines that such order—
@@ -35,6 +35,8 @@ section: 824i
 (June 10, 1920, ch. 285, pt. II, § 210, as added Pub. L. 95–617, title II, § 202, Nov. 9, 1978, 92 Stat. 3135; amended Pub. L. 96–294, title VI, § 643(a)(2), June 30, 1980, 94 Stat. 770.)
 
 ## Notes
+
+1 So in original. The period probably should be a comma.
 
 ### Amendments
 

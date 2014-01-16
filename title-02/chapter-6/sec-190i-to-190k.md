@@ -15,7 +15,7 @@ Section 190i, Pub. L. 91–510, title II, § 243, Oct. 26, 1970, 84 Stat. 1173, 
 
 ### removalDescription
 
-Section 190j, Pub. L. 91–510, title II, § 252(a), Oct. 26, 1970, 84 Stat. 1173; Aug. 1, 1946, ch. 724, § 302(d), as added Aug. 30, 1954, ch. 1073, § 1, as added Sept. 20, 1977, Pub. L. 95–110, § 1, 91 Stat. 884, related to cost estimates in reports of Senate committees accompanying certain legislative measures and to other Senate committee operations. See Standing Rules of the Senate.
+Section 190j, Pub. L. 91–510, title II, § 252(a), Oct. 26, 1970, 84 Stat. 1173; Aug. 1, 1946, ch. 724, § 302(d), as added Pub. L. 95–110, § 1, Sept. 20, 1977, 91 Stat. 884, related to cost estimates in reports of Senate committees accompanying certain legislative measures and to other Senate committee operations. See Standing Rules of the Senate.
 
 ### removalDescription
 

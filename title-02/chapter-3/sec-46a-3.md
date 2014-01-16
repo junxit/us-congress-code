@@ -11,7 +11,7 @@ section: 46a–3
 
 ### removalDescription
 
-Section, Pub. L. 90–417, § 106, July 23, 1968, 82 Stat. 413, placed limits on the availability of the stationery allowance for Senators. See section 58 of this title.
+Section, Pub. L. 90–417, § 106, July 23, 1968, 82 Stat. 413, placed limits on the availability of the stationery allowance for Senators. See section 6314 of this title.
 
 ### Effective Date of Repeal
 

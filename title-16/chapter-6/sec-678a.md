@@ -15,10 +15,6 @@ Subject to the conditions herein provided, mining locations may be made under th
 
 ## Notes
 
-### References in Text
-
-The general mining laws of the United States, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-
 ### Change of Name
 
 “Custer State Park Game Sanctuary” changed to “Norbeck Wildlife Preserve” by act Oct. 6, 1949. Harney National Forest abolished and its lands transferred to and consolidated with those of Black Hills National Forest by Public Land Order No. 1016 of Oct. 4, 1954, 19 F.R. 6500.

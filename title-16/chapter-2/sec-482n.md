@@ -12,9 +12,3 @@ On and after May 24, 1949, mining locations made under the mining laws of the Un
 ## Source credit
 
 (May 24, 1949, ch. 136, § 1, 63 Stat. 75.)
-
-## Notes
-
-### References in Text
-
-The mining laws of the United States, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.

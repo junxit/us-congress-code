@@ -24,7 +24,7 @@ section: 300m
       - **(i)** demonstrates, to the satisfaction of the Secretary, the manner in which the State will use such waiver to expand the level of screening and follow-up services provided immediately prior to the date on which the waiver is granted; and
       - **(ii)** provides assurances, satisfactory to the Secretary, that the State will, on an annual basis, demonstrate, through such documentation as the Secretary may require, that the State has used such waiver as described in clause (i);
     - **(D)** the State involved submits to the Secretary—
-      - **(i)** assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal year expenditures for the services and activities described in paragraphs (1) and (2) of section 300k(a) of this title for the period for which the waiver is granted, and for the period for which any extension of such wavier is granted, at a level that is not less than—
+      - **(i)** assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal year expenditures for the services and activities described in paragraphs (1) and (2) of section 300k(a) of this title for the period for which the waiver is granted, and for the period for which any extension of such wavier 11 So in original. Probably should be “waiver”. is granted, at a level that is not less than—
         - **(I)** the level of the State fiscal year expenditures for such services and activities for the fiscal year preceding the first fiscal year for which the waiver is granted; or
         - **(II)** at the option of the State and upon approval by the Secretary, the average level of the State expenditures for such services and activities for the 3-fiscal year period preceding the first fiscal year for which the waiver is granted; and
       - **(ii)** a plan, satisfactory to the Secretary, for maintaining the level of activities carried out under the waiver after the expiration of the waiver and any extension of such waiver;
@@ -43,7 +43,7 @@ section: 300m
         - **(I)** the level of the State fiscal year expenditures for such services and activities for the fiscal year preceding the first fiscal year for which the waiver is granted; or
         - **(II)** at the option of the State and upon approval by the Secretary, the average level of the State expenditures for such services and activities for the 3-fiscal year period preceding the first fiscal year for which the waiver is granted.
   - **(3)** *Reporting requirements* The Secretary shall include as part of the evaluations and reports required under section 300n–4 of this title, the following:
-    - **(A)** A description of the total amount of dollars leveraged annually from Non-Federal 11 So in original. Probably should be “non-Federal”. entities in States receiving a waiver under paragraph (1) and how these amounts were used.
+    - **(A)** A description of the total amount of dollars leveraged annually from Non-Federal 22 So in original. Probably should be “non-Federal”. entities in States receiving a waiver under paragraph (1) and how these amounts were used.
     - **(B)** With respect to States receiving a waiver under paragraph (1), a description of the percentage of the grant that is expended on providing each of the services or activities described in—
       - **(i)** paragraphs (1) and (2) of section 300k(a) of this title; and
       - **(ii)** paragraphs (3) through (6) of section 300k(a) of this title.
@@ -64,7 +64,9 @@ section: 300m
 
 ## Notes
 
-1 So in original. Probably should be “non-Federal”.
+1 So in original. Probably should be “waiver”.
+
+2 So in original. Probably should be “non-Federal”.
 
 ### Prior Provisions
 

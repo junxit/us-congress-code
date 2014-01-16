@@ -5,10 +5,10 @@ chapter: 4
 section: 61
 ---
 
-# § 61. Limit on rate of compensation of Senate officers and employees
+# § 61. Transferred
 
-No officer or employee of the Senate shall receive pay for any services performed by him at any rate higher than that provided for the office or employment to which he has been regularly appointed.
+## Notes
 
-## Source credit
+### Codification
 
-(Aug. 5, 1882, ch. 390, § 1, 22 Stat. 270.)
+Section 61 was editorially reclassified as section 4574 of this title.

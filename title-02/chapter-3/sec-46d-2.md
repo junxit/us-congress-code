@@ -11,7 +11,7 @@ section: 46d–2
 
 ### removalDescription
 
-Section, Pub. L. 89–90, § 101, July 27, 1965, 79 Stat. 268, provided for computation of long-distance telephone calls for Senators, wide area telephone service contracts, and effective date of changes. See section 58 of this title.
+Section, Pub. L. 89–90, § 101, July 27, 1965, 79 Stat. 268, provided for computation of long-distance telephone calls for Senators, wide area telephone service contracts, and effective date of changes. See section 6314 of this title.
 
 ### Effective Date of Repeal
 

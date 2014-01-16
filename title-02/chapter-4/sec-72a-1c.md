@@ -11,7 +11,7 @@ section: 72a–1c
 
 ### removalDescription
 
-Section, Pub. L. 94–59, title I, § 108, July 25, 1975, 89 Stat. 276; Pub. L. 94–440, title I, § 102, Oct. 1, 1976, 90 Stat. 1443, authorized Senators to hire staff assistance in connection with their committee memberships. See section 72a–1e of this title.
+Section, Pub. L. 94–59, title I, § 108, July 25, 1975, 89 Stat. 276; Pub. L. 94–440, title I, § 102, Oct. 1, 1976, 90 Stat. 1443, authorized Senators to hire staff assistance in connection with their committee memberships. See section 4332 of this title.
 
 ### Effective Date of Repeal
 

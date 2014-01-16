@@ -11,8 +11,8 @@ section: 72a–4
 
 ### removalDescription
 
-Section, Pub. L. 85–75, July 1, 1957, 71 Stat. 246, provided for computation of salaries and wages paid out of Senate contingent-expense items. See section 61–1(b), (c) of this title.
+Section, Pub. L. 85–75, July 1, 1957, 71 Stat. 246, provided for computation of salaries and wages paid out of Senate contingent-expense items. See section 4575(b), (c) of this title.
 
 ### Effective Date of Repeal
 
-Repeal effective Aug. 1, 1967, see section 105(k) of Pub. L. 90–57, set out as an Effective Date note under section 61–1 of this title.
+Repeal effective Aug. 1, 1967, see section 105(k) of Pub. L. 90–57, set out as an Effective Date note under section 4575 of this title.
