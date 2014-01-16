@@ -7,7 +7,7 @@ section: 98h–6
 
 # § 98h–6. Development of domestic sources
 
-- **(a)** *Purchase of materials of domestic origin; processing of materials in domestic facilities* Subject to subsection (c) of this section and to the extent the President determines such action is required for the national defense, the President shall encourage the development of domestic sources for materials determined pursuant to section 98b(a) of this title to be strategic and critical materials—
+- **(a)** *Purchase of materials of domestic origin; processing of materials in domestic facilities* Subject to subsection (c) of this section and to the extent the President determines such action is required for the national defense, the President shall encourage the development and appropriate conservation of domestic sources for materials determined pursuant to section 98b(a) of this title to be strategic and critical materials—
   - **(1)** by purchasing, or making a commitment to purchase, strategic and critical materials of domestic origin when such materials are needed for the stockpile; and
   - **(2)** by contracting with domestic facilities, or making a commitment to contract with domestic facilities, for the processing or refining of strategic and critical materials in the stockpile when processing or refining is necessary to convert such materials into a form more suitable for storage and subsequent disposition.
 - **(b)** *Terms and conditions of contracts and commitments* A contract or commitment made under subsection (a) of this section may not exceed five years from the date of the contract or commitment. Such purchases and commitments to purchase may be made for such quantities and on such terms and conditions, including advance payments, as the President considers to be necessary.
@@ -21,4 +21,10 @@ section: 98h–6
 
 ## Source credit
 
-(June 7, 1939, ch. 190, § 15, as added Pub. L. 101–189, div. C, title XXXIII, § 3312(a), Nov. 29, 1989, 103 Stat. 1687.)
+(June 7, 1939, ch. 190, § 15, as added Pub. L. 101–189, div. C, title XXXIII, § 3312(a), Nov. 29, 1989, 103 Stat. 1687; amended Pub. L. 113–66, div. A, title XIV, § 1411(c), Dec. 26, 2013, 127 Stat. 934.)
+
+## Notes
+
+### Amendments
+
+2013—Subsec. (a). Pub. L. 113–66 inserted “and appropriate conservation” after “development” in introductory provisions.

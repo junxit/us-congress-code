@@ -106,17 +106,13 @@ section: 300gg–4
 
 3 So in original. No subsecs. (g) to (i) have been enacted.
 
-### Enactment of Section
-
-For delayed effective date of section, see Effective Date note below.
-
 ### References in Text
 
 The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§ 1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables. Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsecs. (c)(3)(A) and (l)(3)(B)(iv), is section 264 of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title. Section 300gg–21(a) of this title, referred to in subsec. (e), was in the original a reference to section 2735(a) of act July 1, 1944, and was translated as if it referred to section 2722(a) of that act to reflect the probable intent of Congress because of the renumbering of section 2735 as 2722 by Pub. L. 111–148, title I, § 1563(c)(12)(D), formerly § 1562(c)(12)(D), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 269, 911. The act July 1, 1944, does not contain a section 2735.
 
 ### Codification
 
-The text of section 300gg–1 of this title, which was amended and transferred to subsecs. (b) to (f) of this section by Pub. L. 111–148, § 1201(3), was based on act July 1, 1944, ch. 373, title XXVII, § 2702, as added Pub. L. 104–191, title I, § 102(a), Aug. 21, 1996, 110 Stat. 1961; amended Pub. L. 110–233, title I, § 102(a)(1)–(3), May 21, 2008, 122 Stat. 888, 890. For text of section 300gg–1 prior to amendment and transfer by Pub. L. 111–148, see Prior Provisions note under section 300gg–1 of this title.
+The text of section 300gg–1 of this title, which was amended and transferred to subsecs. (b) to (f) of this section by Pub. L. 111–148, § 1201(3), was based on act July 1, 1944, ch. 373, title XXVII, § 2702, as added Pub. L. 104–191, title I, § 102(a), Aug. 21, 1996, 110 Stat. 1961; amended Pub. L. 110–233, title I, § 102(a)(1)–(3), May 21, 2008, 122 Stat. 888, 890.
 
 ### Prior Provisions
 

@@ -41,8 +41,8 @@ section: 690c
       - **(ii)** payable or available over a multiyear period determined appropriate by the Administrator (not to exceed 10 years).
     - **(B)** *Exception* The Administrator may, in the discretion of the Administrator and based upon a showing of special circumstances and good cause, consider an applicant to have satisfied the requirements of subparagraph (A) if the applicant has—
       - **(i)** a viable plan that reasonably projects the capacity of the applicant to raise the amount (in cash or in-kind) required under subparagraph (A); and
-      - **(ii)** binding commitments in an amount equal to not less than 20 percent of the total amount required under paragraph (A).
-    - **(C)** *Limitation* The total amount of a 11 So in original. The article probably should not appear. in-kind contributions by a company shall be not more than 50 percent of the total contributions by a company.
+      - **(ii)** binding commitments in an amount equal to not less than 20 percent of the total amount required under paragraph 11 So in original. Probably should be “subparagraph”. (A).
+    - **(C)** *Limitation* The total amount of a 22 So in original. The article probably should not appear. in-kind contributions by a company shall be not more than 50 percent of the total contributions by a company.
 - **(e)** *Final approval; designation* The Administrator shall, with respect to each applicant conditionally approved under subsection (c)—
   - **(1)** grant final approval to the applicant to operate as a Renewable Fuel Capital Investment company under this part and designate the applicant as such a company, if the applicant—
     - **(A)** satisfies the requirements of subsection (d) on or before the expiration of the time period described in that subsection; and
@@ -55,4 +55,6 @@ section: 690c
 
 ## Notes
 
-1 So in original. The article probably should not appear.
+1 So in original. Probably should be “subparagraph”.
+
+2 So in original. The article probably should not appear.

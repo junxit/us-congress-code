@@ -115,17 +115,13 @@ section: 300gg–3
 
 3 So in original. Probably should be followed by the word “Program”.
 
-### Amendment of Section
-
-For delayed effective date of amendment and renumbering by section 1201(2) of Pub. L. 111–148, see Effective Date of 2010 Amendment note below.
-
 ### References in Text
 
 Subsection (a) of this section, referred to in subsecs. (b)(1)(B) and (c)(3)(A), (B), was struck out, and a new subsec. (a) was added, by Pub. L. 111–148, title I, § 1201(2)(A), Mar. 23, 2010, 124 Stat. 154, and as so amended, subsec. (a) no longer contains paragraphs. The Social Security Act, referred to in subsecs. (c)(1)(C), (D) and (f)(3)(A)(i), (B)(i)(I), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of this title. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables. Section 311(b)(1)(C) of the Children’s Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (f)(3)(B)(ii), is section 311(b)(1)(C) of Pub. L. 111–3, which is set out as a note under section 1181 of Title 29, Labor.
 
 ### Codification
 
-Section was classified to section 300gg of this title prior to amendment and renumbering by Pub. L. 111–148. For text of section 300gg prior to amendment and renumbering, see Prior Provisions note under section 300gg of this title. Section 242(a)(3) of Pub. L. 112–40 amended section 2701 of act July 1, 1944, “as in effect for plan years beginning before January 1, 2014”, which was classified to section 300gg of this title prior to amendment and renumbering by Pub. L. 111–148. Section 242(a)(4) of Pub. L. 112–40 made identical amendment to section 2704 of act July 1, 1944, “as in effect for plan years beginning on or after January 1, 2014”, which is set out as this section. See 2011 Amendment note below. For effective date of renumbering by section 1201(2) of Pub. L. 111–148, see Effective Date of 2010 Amendment note below.
+Section was classified to section 300gg of this title prior to amendment and renumbering by Pub. L. 111–148. Section 242(a)(3) of Pub. L. 112–40 amended section 2701 of act July 1, 1944, “as in effect for plan years beginning before January 1, 2014”, which was classified to section 300gg of this title prior to amendment and renumbering by Pub. L. 111–148. Section 242(a)(4) of Pub. L. 112–40 made identical amendment to section 2704 of act July 1, 1944, “as in effect for plan years beginning on or after January 1, 2014”, which is set out as this section. See 2011 Amendment note below. For effective date of renumbering by section 1201(2) of Pub. L. 111–148, see Effective Date of 2010 Amendment note below.
 
 ### Prior Provisions
 

@@ -45,7 +45,7 @@ section: 694b
   - **(3)** Each surety participating under the authority of paragraph (3) of subsection (a) of this section shall be audited at least once every three years by examiners selected and approved by the Administration.
 - **(h)** *Administrative provisions* The Administration shall administer this part on a prudent and economically justifiable basis and establish such fee or fees for small business concerns and premium or premiums for sureties as it deems reasonable and necessary, to be payable at such time and under such conditions as may be determined by the Administration.
 - **(i)** *Powers of Administration respecting loans* The provisions of section 693 of this title shall apply in the administration of this section.
-- **(j)** For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guarantee application.
+- **(j)** *Administration not to deny liability based on information provided as part of application* For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guarantee application.
 
 ## Source credit
 
