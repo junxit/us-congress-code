@@ -13,3 +13,9 @@ section: 458aaa–18
 ## Source credit
 
 (Pub. L. 93–638, title V, § 519, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 731.)
+
+## Notes
+
+### References in Text
+
+This subchapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.

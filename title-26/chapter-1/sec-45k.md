@@ -159,4 +159,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 ### Inflation Adjusted Items for Certain Tax Years
 
-Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following: 2012—Internal Revenue Notice 2013–25 2011—Internal Revenue Notice 2012–30. 2010—Internal Revenue Notice 2011–30. 2009—Internal Revenue Notice 2010–31. 2008—Internal Revenue Notice 2009–32. 2007—Internal Revenue Notice 2008–44. 2006—Internal Revenue Notice 2007–38.
+Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following: 2012—Internal Revenue Notice 2013–25. 2011—Internal Revenue Notice 2012–30. 2010—Internal Revenue Notice 2011–30. 2009—Internal Revenue Notice 2010–31. 2008—Internal Revenue Notice 2009–32. 2007—Internal Revenue Notice 2008–44. 2006—Internal Revenue Notice 2007–38.

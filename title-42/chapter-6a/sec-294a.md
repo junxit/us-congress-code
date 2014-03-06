@@ -74,3 +74,7 @@ A prior section 294a, act July 1, 1944, ch. 373, title VII, § 762, as added Pub
 ### Amendments
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) which related to authority for provision of financial assistance, requirements for centers, and allocations and costs.
+
+### Waiver of Requirements
+
+Pub. L. 113–76, div. H, title II, Jan. 17, 2014, 128 Stat. 363, provided in part: “That for any program operating under section 751 of the PHS [Public Health Service] Act [42 U.S.C. 294a] on or before January 1, 2009, the Secretary may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section”.

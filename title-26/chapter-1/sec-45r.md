@@ -77,6 +77,10 @@ section: 45R
 
 ## Notes
 
+### Inflation Adjusted Items for Certain Years
+
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
+
 ### References in Text
 
 The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables. The Patient Protection and Affordable Care Act, referred to in subsec. (h), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Subtitle A (§§ 1001 to 1004) of title I of the Act enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of Title 42, The Public Health and Welfare, redesignated sections 300gg–4 to 300gg–7 of Title 42 as sections 300gg–25 to 300gg–28, respectively, of Title 42, and section 300gg–13 of Title 42 as section 300gg–9 of Title 42, amended former sections 300gg–11 and 300gg–12 and sections 300gg–21 to 300gg–23 of Title 42, and enacted provisions set out as a note under section 300gg–11 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42 and Tables.

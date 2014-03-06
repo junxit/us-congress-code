@@ -18,7 +18,7 @@ section: 3
       - **(ii)** who have made or are contemplating making a protected disclosure about the rights and remedies against retaliation for protected disclosures.
   - **(2)** The Whistleblower Protection Ombudsman shall not act as a legal representative, agent, or advocate of the employee or former employee.
   - **(3)** For the purposes of this section, the requirement of the designation of a Whistleblower Protection Ombudsman under paragraph (1)(C) shall not apply to—
-    - **(A)** any agency that is an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))[50 U.S.C. 3003(4)]); or
+    - **(A)** any agency that is an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)) [50 U.S.C. 3003(4)]); or
     - **(B)** as determined by the President, any executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counter intelligence activities.
 - **(e)** The annual rate of basic pay for an Inspector General (as defined under section 12(3)) shall be the rate payable for level III of the Executive Schedule under section 5314 of title 5, United States Code, plus 3 percent.
 - **(f)** An Inspector General (as defined under section 8G(a)(6) or 12(3)) may not receive any cash award or cash bonus, including any cash award under chapter 45 of title 5, United States Code.
