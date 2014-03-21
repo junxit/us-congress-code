@@ -8,7 +8,7 @@ section: 1359bb
 # § 1359bb. Flexible marketing allotments for sugar
 
 - **(a)** *Sugar estimates*
-  - **(1)** *In general* Not later than August 1 before the beginning of each of the 2008 through 2012 crop years for sugarcane and sugar beets, the Secretary shall estimate—
+  - **(1)** *In general* Not later than August 1 before the beginning of each of the 2008 through 2018 crop years for sugarcane and sugar beets, the Secretary shall estimate—
     - **(A)** the quantity of sugar that will be subject to human consumption in the United States during the crop year;
     - **(B)** the quantity of sugar that would provide for reasonable carryover stocks;
     - **(C)** the quantity of sugar that will be available from carry-in stocks for human consumption in the United States during the crop year;
@@ -38,7 +38,7 @@ section: 1359bb
 
 ## Source credit
 
-(Feb. 16, 1938, ch. 30, title III, § 359b, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 188; amended Pub. L. 110–234, title I, § 1403(b), May 22, 2008, 122 Stat. 982; Pub. L. 110–246, § 4(a), title I, § 1403(b), June 18, 2008, 122 Stat. 1664, 1710.)
+(Feb. 16, 1938, ch. 30, title III, § 359b, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 188; amended Pub. L. 110–234, title I, § 1403(b), May 22, 2008, 122 Stat. 982; Pub. L. 110–246, § 4(a), title I, § 1403(b), June 18, 2008, 122 Stat. 1664, 1710; Pub. L. 113–79, title I, § 1301(b)(1), Feb. 7, 2014, 128 Stat. 688.)
 
 ## Notes
 
@@ -52,7 +52,7 @@ A prior section 1359bb, act Feb. 16, 1938, ch. 30, title III, § 359b, as added 
 
 ### Amendments
 
-2008—Pub. L. 110–246, § 1403(b), amended section generally, substituting provisions relating to sugar estimates for 2008 through 2012 crop years, establishment of allotments, coverage of allotments, and prohibition against marketing in excess of allotments, for provisions relating to sugar estimates for 2002 through 2007 crop years, establishment of allotments, and prohibition against marketing in excess of allotments.
+2014—Subsec. (a)(1). Pub. L. 113–79 substituted “2018” for “2012”. 2008—Pub. L. 110–246, § 1403(b), amended section generally, substituting provisions relating to sugar estimates for 2008 through 2012 crop years, establishment of allotments, coverage of allotments, and prohibition against marketing in excess of allotments, for provisions relating to sugar estimates for 2002 through 2007 crop years, establishment of allotments, and prohibition against marketing in excess of allotments.
 
 ### Effective Date of 2008 Amendment
 

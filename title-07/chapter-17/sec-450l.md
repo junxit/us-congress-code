@@ -7,11 +7,11 @@ section: 450l
 
 # § 450l. Expiration of dairy farmer indemnity program
 
-The authority granted under sections 450j to 450l of this title shall expire on September 30, 2012.
+The authority granted under sections 450j to 450l of this title shall expire on September 30, 2018.
 
 ## Source credit
 
-(Pub. L. 90–484, § 3, Aug. 13, 1968, 82 Stat. 750; Pub. L. 91–524, title II, § 204(a), Nov. 30, 1970, 84 Stat. 1361; Pub. L. 93–86, § 1(5)(A), Aug. 10, 1973, 87 Stat. 223; Pub. L. 95–113, title II, § 205(2), Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–98, title I, § 105, Dec. 22, 1981, 95 Stat. 1220; Pub. L. 99–198, title I, § 152, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 101–624, title I, § 110, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 107–171, title I, § 1503(b), May 13, 2002, 116 Stat. 207; Pub. L. 110–234, title I, § 1505, May 22, 2008, 122 Stat. 994; Pub. L. 110–246, § 4(a), title I, § 1505, June 18, 2008, 122 Stat. 1664, 1723.)
+(Pub. L. 90–484, § 3, Aug. 13, 1968, 82 Stat. 750; Pub. L. 91–524, title II, § 204(a), Nov. 30, 1970, 84 Stat. 1361; Pub. L. 93–86, § 1(5)(A), Aug. 10, 1973, 87 Stat. 223; Pub. L. 95–113, title II, § 205(2), Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–98, title I, § 105, Dec. 22, 1981, 95 Stat. 1220; Pub. L. 99–198, title I, § 152, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 101–624, title I, § 110, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 107–171, title I, § 1503(b), May 13, 2002, 116 Stat. 207; Pub. L. 110–234, title I, § 1505, May 22, 2008, 122 Stat. 994; Pub. L. 110–246, § 4(a), title I, § 1505, June 18, 2008, 122 Stat. 1664, 1723; Pub. L. 113–79, title I, § 1425, Feb. 7, 2014, 128 Stat. 695.)
 
 ## Notes
 
@@ -25,7 +25,7 @@ The following Acts authorized indemnity payments for the periods ending as indic
 
 ### Amendments
 
-2008—Pub. L. 110–246, § 1505, substituted “2012” for “2007”. 2002—Pub. L. 107–171 substituted “2007” for “1995”. 1990—Pub. L. 101–624 substituted “1995” for “1990”. 1985—Pub. L. 99–198 substituted “1990” for “1985”. 1981—Pub. L. 97–98 substituted “1985” for “1981”. 1977—Pub. L. 95–113 substituted “September 30, 1981” for “June 30, 1977”. 1973—Pub. L. 93–86 substituted “1977” for “1973”. 1970—Pub. L. 91–524 substituted “1973” for “1970”.
+2014—Pub. L. 113–79 substituted “2018” for “2012”. 2008—Pub. L. 110–246, § 1505, substituted “2012” for “2007”. 2002—Pub. L. 107–171 substituted “2007” for “1995”. 1990—Pub. L. 101–624 substituted “1995” for “1990”. 1985—Pub. L. 99–198 substituted “1990” for “1985”. 1981—Pub. L. 97–98 substituted “1985” for “1981”. 1977—Pub. L. 95–113 substituted “September 30, 1981” for “June 30, 1977”. 1973—Pub. L. 93–86 substituted “1977” for “1973”. 1970—Pub. L. 91–524 substituted “1973” for “1970”.
 
 ### Effective Date of 2008 Amendment
 

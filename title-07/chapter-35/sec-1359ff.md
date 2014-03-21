@@ -22,7 +22,7 @@ section: 1359ff
 - **(c)** *Proportionate shares of certain allotments*
   - **(1)** *Definition of seed*
     - **(A)** *In general* In this subsection, the term “seed” means only those varieties of seed that are dedicated to the production of sugarcane from which is produced sugar for human consumption.
-    - **(B)** *Exclusion* The term “seed” does not include seed of a high-fiber cane variety dedicated to other uses, as determined by the Secretary 11 So in original. Probably should be followed by a period.
+    - **(B)** *Exclusion* The term “seed” does not include seed of a high-fiber cane variety dedicated to other uses, as determined by the Secretary.
   - **(2)** *In general*
     - **(A)** *States affected* In any case in which a State allotment is established under section 1359cc(f) of this title and there are in excess of 250 sugarcane producers in the State (other than Puerto Rico), the Secretary shall make a determination under subparagraph (B).
     - **(B)** *Determination* The Secretary shall determine, for each State allotment described in subparagraph (A), whether the production of sugarcane, in the absence of proportionate shares, will be greater than the quantity needed to enable processors to fill the allotment and provide a normal carryover inventory of sugar.
@@ -45,11 +45,9 @@ section: 1359ff
 
 ## Source credit
 
-(Feb. 16, 1938, ch. 30, title III, § 359f, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 198; amended Pub. L. 110–234, title I, § 1403(f), May 22, 2008, 122 Stat. 986; Pub. L. 110–246, § 4(a), title I, § 1403(f), June 18, 2008, 122 Stat. 1664, 1714.)
+(Feb. 16, 1938, ch. 30, title III, § 359f, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 198; amended Pub. L. 110–234, title I, § 1403(f), May 22, 2008, 122 Stat. 986; Pub. L. 110–246, § 4(a), title I, § 1403(f), June 18, 2008, 122 Stat. 1664, 1714; Pub. L. 113–79, title I, § 1609(a), Feb. 7, 2014, 128 Stat. 709.)
 
 ## Notes
-
-1 So in original. Probably should be followed by a period.
 
 ### Codification
 
@@ -61,7 +59,7 @@ A prior section 1359ff, act Feb. 16, 1938, ch. 30, title III, § 359f, as added 
 
 ### Amendments
 
-2008—Subsec. (c). Pub. L. 110–246, § 1403(f), added par. (1), redesignated former pars. (1) to (7) as (2) to (8), respectively, in par. (3), substituted “paragraph (2)” for “paragraph (1)”, “quantity of sugar produced from sugarcane” for “quantity of sugarcane”, and “paragraph (8)” for “paragraph (7)”, in par. (6)(C), substituted “acreage of sugarcane for sugar” for “acreage of sugarcane”, in par. (8), substituted “the amount of sugar from sugarcane” for “the amount of sugarcane”, and struck out former par. (8) which related to petition to modify allocations to allow delivery to another sugarcane processing company if a processing facility was closed and the growers that had delivered sugarcane to the facility prior to closure had elected to deliver their sugarcane to another company.
+2014—Subsec. (c)(1)(B). Pub. L. 113–79 inserted period at end. 2008—Subsec. (c). Pub. L. 110–246, § 1403(f), added par. (1), redesignated former pars. (1) to (7) as (2) to (8), respectively, in par. (3), substituted “paragraph (2)” for “paragraph (1)”, “quantity of sugar produced from sugarcane” for “quantity of sugarcane”, and “paragraph (8)” for “paragraph (7)”, in par. (6)(C), substituted “acreage of sugarcane for sugar” for “acreage of sugarcane”, in par. (8), substituted “the amount of sugar from sugarcane” for “the amount of sugarcane”, and struck out former par. (8) which related to petition to modify allocations to allow delivery to another sugarcane processing company if a processing facility was closed and the growers that had delivered sugarcane to the facility prior to closure had elected to deliver their sugarcane to another company.
 
 ### Effective Date of 2008 Amendment
 
