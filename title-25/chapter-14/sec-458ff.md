@@ -17,10 +17,6 @@ section: 458ff
 
 ## Notes
 
-### References in Text
-
-This subchapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
-
 ### Amendments
 
 1998—Subsec. (c). Pub. L. 105–277 inserted “450c(d),” after “sections”.

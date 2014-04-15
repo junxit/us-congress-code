@@ -11,7 +11,7 @@ None of the funds made available to the Forest Service in this Act or any other 
 
 ## Source credit
 
-(Pub. L. 113–76, div. G, title III, Jan. 17, 2014, 128 Stat. 326.)
+(Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1025.)
 
 ## Notes
 
@@ -21,4 +21,4 @@ Section 8316(b) of title 7, referred to in text, was in the original “section 
 
 ### Similar Provisions
 
-Provisions similar to this section were contained in the following prior appropriation acts: Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1025. Pub. L. 111–88, div. A, title III, Oct. 30, 2009, 123 Stat. 2944. Pub. L. 111–8, div. E, title III, Mar. 11, 2009, 123 Stat. 733. Pub. L. 110–161, div. F, title III, Dec. 26, 2007, 121 Stat. 2133.
+Provisions similar to this section were contained in the following prior appropriation acts: Pub. L. 111–88, div. A, title III, Oct. 30, 2009, 123 Stat. 2944. Pub. L. 111–8, div. E, title III, Mar. 11, 2009, 123 Stat. 733. Pub. L. 110–161, div. F, title III, Dec. 26, 2007, 121 Stat. 2133.

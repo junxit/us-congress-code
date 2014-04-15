@@ -218,7 +218,7 @@ section: 45
 
 3 So in original. The period probably should be “, or”.
 
-### Inflation Adjusted Items for Certain Tax Years
+### Inflation Adjusted Items for Certain Years
 
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
 
@@ -274,6 +274,6 @@ Pub. L. 106–170, title V, § 507(d), Dec. 17, 1999, 113 Stat. 1923, provided t
 
 Section applicable to taxable years ending after Dec. 31, 1992, see section 1914(e) of Pub. L. 102–486, set out as an Effective Date of 1992 Amendment note under section 38 of this title.
 
-### Inflation Adjusted Items for Certain Tax Years
+### Inflation Adjusted Items for Certain Years
 
-Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following: 2013—Internal Revenue Notice 2013–33. 2012—Internal Revenue Notice 2012–35. 2011—Internal Revenue Notice 2011–40. 2010—Internal Revenue Notice 2010–37. 2009—Internal Revenue Notice 2009–40. 2008—Internal Revenue Notice 2008–48. 2007—Internal Revenue Notice 2007–40. 2006—Internal Revenue Notice 2006–51. 2005—Internal Revenue Notice 2005–37. 2004—Internal Revenue Notice 2004–29. 2003—Internal Revenue Notice 2003–29. 2002—Internal Revenue Notice 2002–39. 2001—Internal Revenue Notice 2001–33. 2000—Internal Revenue Notice 2000–52. 1999—Internal Revenue Notice 99–26. 1998—Internal Revenue Notice 98–27. 1997—Internal Revenue Notice 97–30. 1996—Internal Revenue Notice 96–25.
+Provisions relating to inflation adjustment of items in this section for certain years were contained in the following: 2013—Internal Revenue Notice 2013–33. 2012—Internal Revenue Notice 2012–35. 2011—Internal Revenue Notice 2011–40. 2010—Internal Revenue Notice 2010–37. 2009—Internal Revenue Notice 2009–40. 2008—Internal Revenue Notice 2008–48. 2007—Internal Revenue Notice 2007–40. 2006—Internal Revenue Notice 2006–51. 2005—Internal Revenue Notice 2005–37. 2004—Internal Revenue Notice 2004–29. 2003—Internal Revenue Notice 2003–29. 2002—Internal Revenue Notice 2002–39. 2001—Internal Revenue Notice 2001–33. 2000—Internal Revenue Notice 2000–52. 1999—Internal Revenue Notice 99–26. 1998—Internal Revenue Notice 98–27. 1997—Internal Revenue Notice 97–30. 1996—Internal Revenue Notice 96–25.

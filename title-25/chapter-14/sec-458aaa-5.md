@@ -42,7 +42,3 @@ section: 458aaa–5
 ## Notes
 
 1 So in original.
-
-### References in Text
-
-Part A of this subchapter, referred to in subsec. (g)(2), (3), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§ 450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.

@@ -29,10 +29,6 @@ section: 458aaa–13
 
 ## Notes
 
-### References in Text
-
-Part A of this subchapter, referred to in subsec. (a)(2), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§ 450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables. This subchapter, referred to in subsec. (a)(2), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
-
 ### Change of Name
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
