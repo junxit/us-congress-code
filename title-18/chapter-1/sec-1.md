@@ -17,6 +17,10 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+### Short Title of 2014 Amendment
+
+Pub. L. 113–104, § 1, May 20, 2014, 128 Stat. 1156, provided that: “This Act [amending section 117 of this title] may be cited as the ‘Kilah Davenport Child Protection Act of 2013’.”
+
 ### Short Title of 2013 Amendment
 
 Pub. L. 113–47, § 1, Oct. 31, 2013, 127 Stat. 572, provided that: “This Act [enacting provisions set out as a note under section 3551 of this title] may be cited as the ‘United States Parole Commission Extension Act of 2013’.” Pub. L. 113–12, § 1, June 3, 2013, 127 Stat. 448, provided that: “This Act [amending section 704 of this title] may be cited as the ‘Stolen Valor Act of 2013’.” Pub. L. 112–269, § 1, Jan. 14, 2013, 126 Stat. 2442, provided that: “This Act [amending section 1831 of this title and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Foreign and Economic Espionage Penalty Enhancement Act of 2012’.” Pub. L. 112–258, § 1, Jan. 10, 2013, 126 Stat. 2414, provided that: “This Act [amending section 2710 of this title] may be cited as the ‘Video Privacy Protection Act Amendments Act of 2012’.” Pub. L. 112–257, § 1, Jan. 10, 2013, 126 Stat. 2413, provided that: “This Act [amending section 3056 of this title] may be cited as the ‘Former Presidents Protection Act of 2012’.”
