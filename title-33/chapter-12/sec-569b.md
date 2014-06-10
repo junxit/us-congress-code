@@ -11,7 +11,7 @@ Contracts for architect and engineering services, and surveying and mapping serv
 
 ## Source credit
 
-(Pub. L. 98–63, title I, § 101, July 30, 1983, 97 Stat. 311.)
+(Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 311.)
 
 ## Notes
 
