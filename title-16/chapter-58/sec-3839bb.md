@@ -54,11 +54,11 @@ section: 3839bb
     - **(D)** *Area included* The area proposed to be included in a grazing management district shall be determined by the Secretary on the basis of an application by farmers or ranchers.
     - **(E)** *Authorization* The Secretary may use authority under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, to operate, on a demonstration basis, a grazing management district.
     - **(F)** *Activities* The activities of a grazing management district shall be scientifically sound activities, as determined by the Secretary in consultation with a technical advisory committee composed of ranchers, farmers, and technical experts.
-- **(e)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2012.
+- **(e)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2018.
 
 ## Source credit
 
-(Pub. L. 99–198, title XII, § 1240M, as added Pub. L. 104–127, title III, § 335, Apr. 4, 1996, 110 Stat. 1002; amended Pub. L. 107–171, title II, § 2502(a), May 13, 2002, 116 Stat. 264; Pub. L. 110–234, title II, § 2601, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, § 4(a), title II, § 2601, June 18, 2008, 122 Stat. 1664, 1796.)
+(Pub. L. 99–198, title XII, § 1240M, as added Pub. L. 104–127, title III, § 335, Apr. 4, 1996, 110 Stat. 1002; amended Pub. L. 107–171, title II, § 2502(a), May 13, 2002, 116 Stat. 264; Pub. L. 110–234, title II, § 2601, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, § 4(a), title II, § 2601, June 18, 2008, 122 Stat. 1664, 1796; Pub. L. 113–79, title II, § 2501, Feb. 7, 2014, 128 Stat. 751.)
 
 ## Notes
 
@@ -72,7 +72,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 ### Amendments
 
-2008—Subsec. (e). Pub. L. 110–246, § 2601, substituted “2012” for “2007”. 2002—Pub. L. 107–171 amended section catchline and text generally. Prior to amendment, section required the Secretary to establish conservation farm option pilot programs for producers of wheat, feed grains, cotton, and rice.
+2014—Subsec. (e). Pub. L. 113–79 substituted “2018” for “2012”. 2008—Subsec. (e). Pub. L. 110–246, § 2601, substituted “2012” for “2007”. 2002—Pub. L. 107–171 amended section catchline and text generally. Prior to amendment, section required the Secretary to establish conservation farm option pilot programs for producers of wheat, feed grains, cotton, and rice.
 
 ### Effective Date of 2008 Amendment
 
