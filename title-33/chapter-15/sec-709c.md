@@ -1,11 +1,11 @@
 ---
-identifier: /us/usc/t33/s3027
+identifier: /us/usc/t33/s709c
 title: 33
 chapter: 15
-section: 3027
+section: 709c
 ---
 
-# § 3027. Emergency communication of risk
+# § 709c. Emergency communication of risk
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Affected government* The term “affected government” means a State, local, or tribal government with jurisdiction over an area that will be affected by a flood.
