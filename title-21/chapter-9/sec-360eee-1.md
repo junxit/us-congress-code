@@ -38,7 +38,7 @@ section: 360eee–1
 - **(b)** *Manufacturer requirements*
   - **(1)** *Product tracing*
     - **(A)** *In general* Beginning not later than January 1, 2015, a manufacturer shall—
-      - **(i)** prior to, or at the time of, each transaction in which such manufacturer transfers ownership of a product, provide the subsequent owner with transaction history, transaction information, and a transaction statement, in a single document in an paper or electronic format; and
+      - **(i)** prior to, or at the time of, each transaction in which such manufacturer transfers ownership of a product, provide the subsequent owner with transaction history, transaction information, and a transaction statement, in a single document in an 22 So in original. Probably should be “a”. paper or electronic format; and
       - **(ii)** capture the transaction information (including lot level information), transaction history, and transaction statement for each transaction and maintain such information, history, and statement for not less than 6 years after the date of the transaction.
     - **(B)** *Requests for information* Upon a request by the Secretary or other appropriate Federal or State official, in the event of a recall or for the purpose of investigating a suspect product or an illegitimate product, a manufacturer shall, not later than 1 business day, and not to exceed 48 hours, after receiving the request, or in other such reasonable time as determined by the Secretary, based on the circumstances of the request, provide the applicable transaction information, transaction history, and transaction statement for the product.
     - **(C)** *Electronic format*
@@ -304,6 +304,8 @@ section: 360eee–1
 ## Notes
 
 1 So in original. Probably should be “title”.
+
+2 So in original. Probably should be “a”.
 
 ### Amendments
 

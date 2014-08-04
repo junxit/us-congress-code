@@ -12,7 +12,7 @@ section: 360bbb–3
   - **(2)** *Approval status of product* An authorization under paragraph (1) may authorize an emergency use of a product that—
     - **(A)** is not approved, licensed, or cleared for commercial distribution under section 355, 360(k), or 360e of this title or section 351 of the Public Health Service Act [42 U.S.C. 262] (referred to in this section as an “unapproved product”); or
     - **(B)** is approved, licensed, or cleared under such a provision, but which use is not under such provision an approved, licensed, or cleared use of the product (referred to in this section as an “unapproved use of an approved product”).
-  - **(3)** *Relation to other uses* An emergency use authorized under paragraph (1) for a product is in addition to any other use that is authorized for the product under a section of this chapter or the Public Health Service Act referred to in paragraph (2)(A).
+  - **(3)** *Relation to other uses* An emergency use authorized under paragraph (1) for a product is in addition to any other use that is authorized for the product under a section of this chapter or the Public Health Service Act [42 U.S.C. 201 et seq.] referred to in paragraph (2)(A).
   - **(4)** *Definitions* For purposes of this section:
     - **(A)** The term “biological product” has the meaning given such term in section 351 of the Public Health Service Act [42 U.S.C. 262].
     - **(B)** The term “emergency use” has the meaning indicated for such term in paragraph (1).

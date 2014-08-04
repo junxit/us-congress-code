@@ -81,7 +81,7 @@ section: 353b
   - **(1)** *In general* The Secretary shall implement the list described in subsection (a)(6) through regulations.
   - **(2)** *Advisory committee on compounding* Before issuing regulations to implement subsection (a)(6), the Secretary shall convene and consult an advisory committee on compounding. The advisory committee shall include representatives from the National Association of Boards of Pharmacy, the United States Pharmacopeia, pharmacists with current experience and expertise in compounding, physicians with background and knowledge in compounding, and patient and public health advocacy organizations.
   - **(3)** *Interim list*
-    - **(A)** *In general* Before the effective date of the regulations finalized to implement subsection (a)(6), the Secretary may designate drugs, categories of drugs, or conditions as described such subsection by—
+    - **(A)** *In general* Before the effective date of the regulations finalized to implement subsection (a)(6), the Secretary may designate drugs, categories of drugs, or conditions as described such 11 So in original. subsection by—
       - **(i)** publishing a notice of such substances, drugs, categories of drugs, or conditions proposed for designation, including the rationale for such designation, in the Federal Register;
       - **(ii)** providing a period of not less than 60 calendar days for comment on the notice; and
       - **(iii)** publishing a notice in the Federal Register designating such drugs, categories of drugs, or conditions.
@@ -89,7 +89,7 @@ section: 353b
       - **(i)** the date that is 5 years after November 27, 2013; or
       - **(ii)** the effective date of the final regulations issued to implement subsection (a)(6).
   - **(4)** *Updates* The Secretary shall review, and update as necessary, the regulations containing the lists of drugs, categories of drugs, or conditions described in subsection (a)(6) regularly, but not less than once every 4 years. Nothing in the previous sentence prohibits submissions to the Secretary, before or during any 4-year period described in such sentence, requesting updates to such lists.
-- **(d)** *11 So in original. Two subsecs. (d) have been enacted. Definitions* In this section:
+- **(d)** *22 So in original. Two subsecs. (d) have been enacted. Definitions* In this section:
   - **(1)** The term “compounding” includes the combining, admixing, mixing, diluting, pooling, reconstituting, or otherwise altering of a drug or bulk drug substance to create a drug.
   - **(2)** The term “essentially a copy of an approved drug” means—
     - **(A)** a drug that is identical or nearly identical to an approved drug, or a marketed drug not subject to section 353(b) of this title and not subject to approval in an application submitted under section 355 of this title, unless, in the case of an approved drug, the drug appears on the drug shortage list in effect under section 356e of this title at the time of compounding, distribution, and dispensing; or
@@ -103,7 +103,7 @@ section: 353b
     - **(B)** An outsourcing facility is not required to be a licensed pharmacy.
     - **(C)** An outsourcing facility may or may not obtain prescriptions for identified individual patients.
   - **(5)** The term “sterile drug” means a drug that is intended for parenteral administration, an ophthalmic or oral inhalation drug in aqueous format, or a drug that is required to be sterile under Federal or State law.
-- **(d)** *1 Obligation to pay fees* Payment of the fee under section 379j–62 of this title, as described in subsection (a)(9), shall not relieve an outsourcing facility that is licensed as a pharmacy in any State that requires pharmacy licensing fees of its obligation to pay such State fees.
+- **(d)** *2 Obligation to pay fees* Payment of the fee under section 379j–62 of this title, as described in subsection (a)(9), shall not relieve an outsourcing facility that is licensed as a pharmacy in any State that requires pharmacy licensing fees of its obligation to pay such State fees.
 
 ## Source credit
 
@@ -111,7 +111,9 @@ section: 353b
 
 ## Notes
 
-1 So in original. Two subsecs. (d) have been enacted.
+1 So in original.
+
+2 So in original. Two subsecs. (d) have been enacted.
 
 ### Prior Provisions
 

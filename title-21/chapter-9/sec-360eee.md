@@ -98,7 +98,7 @@ In this part:
     - **(xvii)** the distribution of a medical gas (as defined in section 360ddd of this title); or
     - **(xviii)** the distribution or sale of any licensed product under section 262 of title 42 that meets the definition of a device under section 321(h) of this title.
 - **(25)** *Transaction history* The term “transaction history” means a statement in paper or electronic form, including the transaction information for each prior transaction going back to the manufacturer of the product.
-- **(26)** *Transaction information* The term“transaction information” means—
+- **(26)** *Transaction information* The term “transaction information” means—
   - **(A)** the proprietary or established name or names of the product;
   - **(B)** the strength and dosage form of the product;
   - **(C)** the National Drug Code number of the product;
