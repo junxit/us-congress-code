@@ -125,7 +125,7 @@ Pub. L. 109–435, title VI, § 603(d), Dec. 20, 2006, 120 Stat. 3241, provided 
 
 ### Effective Date of 2002 Amendment
 
-Pub. L. 107–252, title VIII, § 812(b), Oct. 29, 2002, 116 Stat. 1727, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 180 days after the appointment of all members of the Election Assistance Commission under section 203 [42 U.S.C. 15323].”
+Pub. L. 107–252, title VIII, § 812(b), Oct. 29, 2002, 116 Stat. 1727, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 180 days after the appointment of all members of the Election Assistance Commission under section 203 [52 U.S.C. 20923].”
 
 ### Effective Date of 2000 Amendment
 

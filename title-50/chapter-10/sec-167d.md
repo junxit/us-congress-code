@@ -85,7 +85,7 @@ section: 167d
   - **(2)** *Excess funds* Amounts in the Helium Production Fund in excess of amounts the Secretary determines to be necessary to carry out paragraph (1) shall be paid to the general fund of the Treasury and used to reduce the annual Federal budget deficit.
   - **(3)** *Retirement of public debt* Out of amounts paid to the general fund of the Treasury under paragraph (2), the Secretary of the Treasury shall use $51,000,000 to retire public debt.
   - **(4)** *Report* Not later than 1 year after October 2, 2013, and annually thereafter, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report describing all expenditures by the Bureau of Land Management to carry out this chapter.
-- **(f)** *Minimum Quantity* The Secretary shall offer for sale or auction during each fiscal year under subsections (a), (b), and (c) a quantity of crude helium that is the lesser of—
+- **(f)** *Minimum quantity* The Secretary shall offer for sale or auction during each fiscal year under subsections (a), (b), and (c) a quantity of crude helium that is the lesser of—
   - **(1)** the quantity of crude helium offered for sale by the Secretary during fiscal year 2012; or
   - **(2)** the maximum total production capacity of the Federal Helium System.
 

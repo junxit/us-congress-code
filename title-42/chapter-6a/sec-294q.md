@@ -112,7 +112,7 @@ section: 294q
 
 ## Source credit
 
-(Pub. L. 111–148, title V, § 5101, title X, § 10501(a), Mar. 23, 2010, 124 Stat. 592, 993.)
+(Pub. L. 111–148, title V, § 5101, title X, § 10501(a), Mar. 23, 2010, 124 Stat. 592, 993; Pub. L. 113–128, title V, § 512(y), July 22, 2014, 128 Stat. 1716.)
 
 ## Notes
 
@@ -123,6 +123,10 @@ section: 294q
 3 See References in Text note below.
 
 4 See 2010 Amendment note below.
+
+### Amendment of Subsection (d)(3)(D)
+
+Pub. L. 113–128, title V, §§ 506, 512(y), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (d)(3)(D) of this section is amended by striking “other health care workforce programs, including those supported through the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.),” and inserting “other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act,”. See 2014 Amendment note below.
 
 ### References in Text
 
@@ -138,7 +142,11 @@ Prior sections 294q to 294q–3 were omitted in the general amendment of this su
 
 ### Amendments
 
-2010—Subsec. (c)(2)(B)(i)(II). Pub. L. 111–148, § 10501(a)(1), inserted “, including representatives of small business and self-employed individuals” after “employers”. Subsec. (d)(4)(A)(iv), (v). Pub. L. 111–148, § 10501(a)(2), added cl. (iv) and redesignated former cl. (iv) as (v). Subsec. (i)(2)(A), (C). Pub. L. 111–148, § 10501(a)(3), which directed insertion of “optometrists, ophthalmologists,” after “occupational therapists,” in subpar. (B) of subsec. (i)(2), was executed by making the insertion in subpars. (A) and (C). The words “occupational therapists,” do not appear in subpar. (B).
+2014—Subsec. (d)(3)(D). Pub. L. 113–128 substituted “other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act,” for “other health care workforce programs, including those supported through the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.),”. 2010—Subsec. (c)(2)(B)(i)(II). Pub. L. 111–148, § 10501(a)(1), inserted “, including representatives of small business and self-employed individuals” after “employers”. Subsec. (d)(4)(A)(iv), (v). Pub. L. 111–148, § 10501(a)(2), added cl. (iv) and redesignated former cl. (iv) as (v). Subsec. (i)(2)(A), (C). Pub. L. 111–148, § 10501(a)(3), which directed insertion of “optometrists, ophthalmologists,” after “occupational therapists,” in subpar. (B) of subsec. (i)(2), was executed by making the insertion in subpars. (A) and (C). The words “occupational therapists,” do not appear in subpar. (B).
+
+### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 ### Purpose
 

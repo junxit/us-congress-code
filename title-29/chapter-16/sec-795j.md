@@ -7,17 +7,24 @@ section: 795j
 
 # § 795j. Eligibility
 
-An individual shall be eligible under this part to receive supported employment services authorized under this chapter if—
+An individual, including a youth with a disability, shall be eligible under this subchapter to receive supported employment services authorized under this chapter if—
 
-- **(1)** the individual is eligible for vocational rehabilitation services;
-- **(2)** the individual is determined to be an individual with a most significant disability; and
-- **(3)** a comprehensive assessment of rehabilitation needs of the individual described in section 705(2)(B) of this title, including an evaluation of rehabilitation, career, and job needs, identifies supported employment as the appropriate employment outcome for the individual.
+- **(1)** the individual is eligible for vocational rehabilitation services under subchapter I;
+- **(2)** the individual is determined to be an individual with a most significant disability;
+- **(3)** for purposes of activities carried out with funds described in section 795h(d) of this title, the individual is a youth with a disability, as defined in section 705(42) of this title; 11 See References in Text note below. and
+- **(4)** a comprehensive assessment of the rehabilitation needs of the individual described in section 705(2)(B) of this title, including an evaluation of rehabilitation, career, and job needs, identifies supported employment as the appropriate employment outcome for the individual.
 
 ## Source credit
 
-(Pub. L. 93–112, title VI, § 624, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1215; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(15)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414.)
+(Pub. L. 93–112, title VI, § 605, formerly § 624, as added Pub. L. 105–220, title IV, § 409, Aug. 7, 1998, 112 Stat. 1215; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(15)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered § 605 and amended Pub. L. 113–128, title IV, § 461(3), (7), July 22, 2014, 128 Stat. 1679, 1680.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Section 705(42) of this title, referred to in par. (3), was in the original “section (7)(42)”, and was translated as meaning section 7(42) of the Rehabilitation Act of 1973, which is classified to section 705(42) of this title, to reflect the probable intent of Congress.
 
 ### Prior Provisions
 
@@ -25,4 +32,4 @@ Provisions similar to this section were contained in section 795m of this title 
 
 ### Amendments
 
-1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
+2014—Pub. L. 113–128, § 461(7)(A), in introductory provisions, inserted “, including a youth with a disability,” after “An individual” and substituted “this subchapter” for “this part”. Par. (1). Pub. L. 113–128, § 461(7)(B), inserted “under subchapter I” after “rehabilitation services”. Pars. (3), (4). Pub. L. 113–128, § 461(7)(C)–(F), added par. (3), redesignated former par. (3) as (4), and, in par. (4), substituted “assessment of the rehabilitation needs” for “assessment of rehabilitation needs”. 1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.

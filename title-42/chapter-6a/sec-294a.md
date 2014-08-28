@@ -63,9 +63,13 @@ section: 294a
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title VII, § 751, as added Pub. L. 105–392, title I, § 103, Nov. 13, 1998, 112 Stat. 3541; amended Pub. L. 111–148, title V, § 5403(a), Mar. 23, 2010, 124 Stat. 644.)
+(July 1, 1944, ch. 373, title VII, § 751, as added Pub. L. 105–392, title I, § 103, Nov. 13, 1998, 112 Stat. 3541; amended Pub. L. 111–148, title V, § 5403(a), Mar. 23, 2010, 124 Stat. 644; Pub. L. 113–128, title V, § 512(z)(2), July 22, 2014, 128 Stat. 1716.)
 
 ## Notes
+
+### Amendment of Subsection (c)(1)(A)
+
+Pub. L. 113–128, title V, §§ 506, 512(z)(2), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (c)(1)(A) of this section is amended by striking “the applicable one-stop delivery system under section 2864(c) of title 29,” and inserting “the applicable one-stop delivery system under section 3151(e) of title 29,”. See 2014 Amendment note below.
 
 ### Prior Provisions
 
@@ -73,7 +77,11 @@ A prior section 294a, act July 1, 1944, ch. 373, title VII, § 762, as added Pub
 
 ### Amendments
 
-2010—Pub. L. 111–148 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) which related to authority for provision of financial assistance, requirements for centers, and allocations and costs.
+2014—Subsec. (c)(1)(A). Pub. L. 113–128 substituted “the applicable one-stop delivery system under section 3151(e) of title 29,” for “the applicable one-stop delivery system under section 2864(c) of title 29,”. 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) which related to authority for provision of financial assistance, requirements for centers, and allocations and costs.
+
+### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 ### Waiver of Requirements
 
