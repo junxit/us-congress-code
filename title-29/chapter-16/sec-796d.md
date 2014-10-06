@@ -54,7 +54,7 @@ section: 796d
   - **(2)** *Authorities* The Council may, consistent with the State plan described in section 796c of this title, unless prohibited by State law—
     - **(A)** in order to improve services provided to individuals with disabilities, work with centers for independent living to coordinate services with public and private entities;
     - **(B)** conduct resource development activities to support the activities described in this subsection or to support the provision of independent living services by centers for independent living; and
-    - **(C)** perform such other functions, consistent with the purpose of this chapter and comparable to other functions described in this subsection, as the Council determines to be appropriate.
+    - **(C)** perform such other functions, consistent with the purpose of this part and comparable to other functions described in this subsection, as the Council determines to be appropriate.
   - **(3)** *Limitation* The Council shall not provide independent living services directly to individuals with significant disabilities or manage such services.
 - **(d)** *Hearings and forums* The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.
 - **(e)** *Plan*

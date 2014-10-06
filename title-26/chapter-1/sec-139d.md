@@ -23,7 +23,7 @@ section: 139D
 
 ## Source credit
 
-(Pub. L. 111–148, title IX, § 9021(a), Mar. 23, 2010, 124 Stat. 873.)
+(Added Pub. L. 111–148, title IX, § 9021(a), Mar. 23, 2010, 124 Stat. 873.)
 
 ## Notes
 

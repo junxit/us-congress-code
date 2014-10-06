@@ -37,7 +37,7 @@ section: 45F
     - **(A)** the applicable recapture percentage, and
     - **(B)** the aggregate decrease in the credits allowed under section 38 for all prior taxable years which would have resulted if the qualified child care expenditures of the taxpayer described in subsection (c)(1)(A) with respect to such facility had been zero.
   - **(2)** *Applicable recapture percentage*
-    - **(A)** *In general* For purposes of this subsection, the applicable recapture percentage shall be determined from the following table: The applicable If the recapture eventrecapture occurs in:percentage is: Years 1–3100 Year 485 Year 570 Year 655 Year 740 Year 825 Years 9 and 1010 Years 11 and thereafter0.
+    - **(A)** *In general* For purposes of this subsection, the applicable recapture percentage shall be determined from the following table: If the recapture event occurs in:The applicable recapture percentage is: Years 1–3100 Year 485 Year 570 Year 655 Year 740 Year 825 Years 9 and 1010 Years 11 and thereafter0.
     - **(B)** *Years* For purposes of subparagraph (A), year 1 shall begin on the first day of the taxable year in which the qualified child care facility is placed in service by the taxpayer.
   - **(3)** *Recapture event defined* For purposes of this subsection, the term “recapture event” means—
     - **(A)** *Cessation of operation* The cessation of the operation of the facility as a qualified child care facility.
