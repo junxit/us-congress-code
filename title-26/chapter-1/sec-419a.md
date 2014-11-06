@@ -68,7 +68,7 @@ section: 419A
       - **(ii)** to which no employer normally contributes more than 10 percent of the total contributions contributed under the plan by all employers.
   - **(7)** *Adjustments for existing excess reserves*
     - **(A)** *Increase in account limit* The account limit for any of the first 4 taxable years to which this section applies shall be increased by the applicable percentage of any existing excess reserves.
-    - **(B)** *Applicable percentage* For purposes of subparagraph (A)— The applicable In the case of:percentage is: The first taxable year to which this section applies80 The second taxable year to which this section applies60 The third taxable year to which this section applies40 The fourth taxable year to which this section applies20.
+    - **(B)** *Applicable percentage* For purposes of subparagraph (A)— In the case of:Theapplicable percentage is: The first taxable year to which this section applies80 The second taxable year to which this section applies60 The third taxable year to which this section applies40 The fourth taxable year to which this section applies20.
     - **(C)** *Existing excess reserve* For purposes of computing the increase under subparagraph (A) for any taxable year, the term “existing excess reserve” means the excess (if any) of—
       - **(i)** the amount of assets set aside at the close of the first taxable year ending after July 18, 1984, for purposes described in subsection (a), over
       - **(ii)** the account limit determined under this section (without regard to this paragraph) for the taxable year for which such increase is being computed.
