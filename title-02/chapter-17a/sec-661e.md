@@ -9,7 +9,7 @@ section: 661e
 
 - **(a)** *In general* This subchapter shall not apply to the credit or insurance activities of the Federal Deposit Insurance Corporation, National Credit Union Administration, Resolution Trust Corporation, Pension Benefit Guaranty Corporation, National Flood Insurance, National Insurance Development Fund, Crop Insurance, or Tennessee Valley Authority.
 - **(b)** *Study* The Director and the Director of the Congressional Budget Office shall each study whether the accounting for Federal deposit insurance programs should be on a cash basis on the same basis as loan guarantees, or on a different basis. Each Director shall report findings and recommendations to the President and the Congress on or before May 31, 1991.
-- **(c)** *Access to data* For the purposes of subsection (b) of this section, the Office of Management and Budget and the Congressional Budget Office shall have access to all agency data that may facilitate these studies.
+- **(c)** *Access to data* For the purposes of subsection (b), the Office of Management and Budget and the Congressional Budget Office shall have access to all agency data that may facilitate these studies.
 
 ## Source credit
 
@@ -23,4 +23,4 @@ A prior section 506 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, a
 
 ### Amendments
 
-1997—Pub. L. 105–33 struck out subsec. (a) designation and heading, redesignated pars. (1) to (3) of former subsec. (a) as subsecs. (a) to (c), respectively, inserted subsec. headings, and substituted “subsection (b) of this section” for “paragraph (2)” in subsec. (c).
+1997—Pub. L. 105–33 struck out subsec. (a) designation and heading, redesignated pars. (1) to (3) of former subsec. (a) as subsecs. (a) to (c), respectively, inserted subsec. headings, and substituted “subsection (b)” for “paragraph (2)” in subsec. (c).
