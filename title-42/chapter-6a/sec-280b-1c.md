@@ -11,7 +11,7 @@ section: 280b–1c
 - **(b)** *Certain activities* Activities under subsection (a) of this section may include—
   - **(1)** the conduct of research into identifying effective strategies for the prevention of traumatic brain injury;
   - **(2)** the implementation of public information and education programs for the prevention of such injury and for broadening the awareness of the public concerning the public health consequences of such injury; and
-  - **(3)** the implementation of a national education and awareness campaign regarding such injury (in conjunction with the program of the Secretary regarding health-status goals for 2010, commonly referred to as Healthy People 2010), including—
+  - **(3)** the implementation of a national education and awareness campaign regarding such injury (in conjunction with the program of the Secretary regarding health-status goals for 2020, commonly referred to as Healthy People 2020), including—
     - **(A)** the national dissemination of information on—
       - **(i)** incidence and prevalence; and
       - **(ii)** information relating to traumatic brain injury and the sequelae of secondary conditions arising from traumatic brain injury upon discharge from hospitals and emergency departments; and
@@ -21,7 +21,7 @@ section: 280b–1c
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title III, § 393B, formerly § 393A, as added Pub. L. 104–166, § 1, July 29, 1996, 110 Stat. 1445; amended Pub. L. 106–310, div. A, title XIII, § 1301(a), Oct. 17, 2000, 114 Stat. 1137; renumbered § 393B and amended Pub. L. 110–206, §§ 2(2), 3(a), Apr. 28, 2008, 122 Stat. 714.)
+(July 1, 1944, ch. 373, title III, § 393B, formerly § 393A, as added Pub. L. 104–166, § 1, July 29, 1996, 110 Stat. 1445; amended Pub. L. 106–310, div. A, title XIII, § 1301(a), Oct. 17, 2000, 114 Stat. 1137; renumbered § 393B and amended Pub. L. 110–206, §§ 2(2), 3(a), Apr. 28, 2008, 122 Stat. 714; Pub. L. 113–196, § 2(a), Nov. 26, 2014, 128 Stat. 2052.)
 
 ## Notes
 
@@ -35,4 +35,4 @@ Prior sections 393B of act July 1, 1944, were renumbered sections 393A and 393C 
 
 ### Amendments
 
-2008—Subsec. (b)(3)(A)(ii). Pub. L. 110–206, § 3(a), substituted “from hospitals and emergency departments” for “from hospitals and trauma centers”. 2000—Subsec. (b)(3). Pub. L. 106–310, § 1301(a)(1), added par. (3). Subsec. (d). Pub. L. 106–310, § 1301(a)(2), substituted “anoxia due to trauma” for “anoxia due to near drowning” and inserted “, after consultation with States and other appropriate public or nonprofit private entities” after “Secretary determines necessary”.
+2014—Subsec. (b)(3). Pub. L. 113–196 substituted “2020, commonly referred to as Healthy People 2020” for “2010, commonly referred to as Healthy People 2010” in introductory provisions. 2008—Subsec. (b)(3)(A)(ii). Pub. L. 110–206, § 3(a), substituted “from hospitals and emergency departments” for “from hospitals and trauma centers”. 2000—Subsec. (b)(3). Pub. L. 106–310, § 1301(a)(1), added par. (3). Subsec. (d). Pub. L. 106–310, § 1301(a)(2), substituted “anoxia due to trauma” for “anoxia due to near drowning” and inserted “, after consultation with States and other appropriate public or nonprofit private entities” after “Secretary determines necessary”.
