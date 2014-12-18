@@ -19,7 +19,7 @@ section: 262r
   - **(6)** the report required by section 2018(c) of the International Narcotics Act of 1986 (title II of Public Law 99–570), discussing the actions taken and progress made in encouraging the multilateral development banks to finance drug eradication and crop substitution programs;
   - **(7)** a description of the progress made by the United States Executive Director of the International Monetary Fund with respect to the goals of section 286kk of this title;
   - **(8)** a description of the status of procedures in the multilateral development banks specifically designed to increase the productive role of the poor in the economies of the nations which are borrowers from such banks;
-  - **(9)** in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than section 262e of this title), including the information required to be reported pursuant to section 262d(c) of this title, and, for the fiscal year 1990, the report described in section 262p–4h of this title;
+  - **(9)** in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than section 262e of this title), including the information required to be reported pursuant to section 262d(c) 11 See References in Text note below. of this title, and, for the fiscal year 1990, the report described in section 262p–4h of this title;
   - **(10)** in consultation with the Secretary of State and the Administrator of the Agency for International Development, an assessment of the progress being made to implement the objectives of title XIII; and
   - **(11)** a report on—
     - **(A)** the progress made in transforming government-owned enterprises into privately owned enterprises as described in section 262p–4g(b) of this title;
@@ -41,13 +41,15 @@ section: 262r
 
 ## Notes
 
+1 See References in Text note below.
+
 1 So in original. Probably should be followed by a comma.
 
 2 So in original.
 
 ### References in Text
 
-Section 2018(c) of the International Narcotics Act of 1986, referred to in subsec. (b)(6), means section 2018(c) of Pub. L. 99–570, known as the International Narcotics Control Act of 1986, which is set out as a note under section 2291 of this title. This title and titles VII, XIII, XVIII, and XIX, referred to in subsecs. (b)(9), (10) and (c), are titles XVII, VII, XIII, XVIII, and XIX, respectively, of Pub. L. 95–118. Title VII enacted sections 262d and 262e of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as a note under section 262c of this title. Title XIII is classified to sections 262m to 262m–7 of this title. Title XVII is classified to sections 262r to 262r–5 of this title. Title XVIII is classified to sections 262s to 262s–2 of this title. Title XIX is classified to section 262t of this title. For complete classification of these titles to the Code, see Tables. Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 2018(c) of the International Narcotics Act of 1986, referred to in subsec. (b)(6), means section 2018(c) of Pub. L. 99–570, known as the International Narcotics Control Act of 1986, which is set out as a note under section 2291 of this title. This title and titles VII, XIII, XVIII, and XIX, referred to in subsecs. (b)(9), (10) and (c), are titles XVII, VII, XIII, XVIII, and XIX, respectively, of Pub. L. 95–118. Title VII enacted sections 262d and 262e of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as a note under section 262c of this title. Title XIII is classified to sections 262m to 262m–7 of this title. Title XVII is classified to sections 262r to 262r–5 of this title. Title XVIII is classified to sections 262s to 262s–2 of this title. Title XIX is classified to section 262t of this title. For complete classification of these titles to the Code, see Tables. Section 262d(c) of this title, referred to in subsec. (b)(9), was repealed by Pub. L. 113–188, title XVI, § 1601(b), Nov. 26, 2014, 128 Stat. 2025. Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 ### Amendments
 
