@@ -64,6 +64,6 @@ Pub. L. 111–5, div. B, title I, § 1131(c), Feb. 17, 2009, 123 Stat. 325, prov
 
 Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 115(d) of Pub. L. 110–343, set out as an Effective Date of 2008 Amendment note under section 38 of this title.
 
-### Inflation Adjusted Items for Certain Tax Years
+### Inflation Adjusted Items for Certain Years
 
-Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following: 2013—Internal Revenue Notice 2013–34. 2012—Internal Revenue Notice 2012—42. 2011—Internal Revenue Notice 2011–50. 2010—Internal Revenue Notice 2010–75.
+Provisions relating to inflation adjustment of items in this section for certain years were contained in the following: 2014—Internal Revenue Notice 2014–40. 2013—Internal Revenue Notice 2013–34. 2012—Internal Revenue Notice 2012—42. 2011—Internal Revenue Notice 2011–50. 2010—Internal Revenue Notice 2010–75.
