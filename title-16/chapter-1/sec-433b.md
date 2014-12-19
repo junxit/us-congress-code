@@ -7,13 +7,19 @@ section: 433b
 
 # § 433b. Administration, protection, and development
 
-The administration, protection and development of the aforesaid peace memorial shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
+The administration, protection and development of the aforesaid peace memorial shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 11 See References in Text note below. of this title, as amended.
 
 ## Source credit
 
 (June 2, 1936, ch. 477, § 2, 49 Stat. 1394; Pub. L. 92–568, § 1, Oct. 26, 1972, 86 Stat. 1181.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 
 ### Change of Name
 

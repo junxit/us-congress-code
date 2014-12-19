@@ -39,7 +39,7 @@ section: 410ddd
   - **(1)** financial and other assistance to establish links between the New Bedford Whaling National Historical Park and the North Slope Borough Cultural Center, located in Barrow, Alaska; and
   - **(2)** appropriate assistance and funding for the North Slope Borough Cultural Center.
 - **(e)** *Administration of park*
-  - **(1)** *In general* The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, 4, and 461 to 467 of this title.
+  - **(1)** *In general* The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4)22 See References in Text note below. and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467).2
   - **(2)** *Cooperative agreements*
     - **(A)** The Secretary may consult and enter into cooperative agreements with interested entities and individuals to provide for the preservation, development, interpretation, and use of the park.
     - **(B)** Any payment made by the Secretary pursuant to a cooperative agreement under this paragraph shall be subject to an agreement that conversion, use, or disposal of the project so assisted for purposes contrary to the purposes of this section, as determined by the Secretary, shall result in a right of the United States to reimbursement of all funds made available to such project or the proportion of the increased value of the project attributable to such funds as determined at the time of such conversion, use, or disposal, whichever is greater.
@@ -50,7 +50,7 @@ section: 410ddd
     - **(B)** For the purposes of this paragraph, the Secretary is authorized to accept from non-Federal sources, and to utilize for purposes of this section, any money so contributed. With the approval of the Secretary, any donation of property, services, or goods from a non-Federal source may be considered as a contribution of funds from a non-Federal source for the purposes of this paragraph.
   - **(4)** *Acquisition of real property* For the purposes of the park, the Secretary may acquire only by donation such lands, interests in lands, and improvements thereon within the park as are needed for essential visitor contact and interpretive facilities.
   - **(5)** *Other property, funds, and services* The Secretary may accept donated funds, property, and services to carry out this section.
-- **(f)** *General management plan* Not later than the end of the second fiscal year beginning after November 12, 1996, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a general management plan for the park and shall implement such plan as soon as practically possible. The plan shall be prepared in accordance with section 1a–7(b) of this title and other applicable law.
+- **(f)** *General management plan* Not later than the end of the second fiscal year beginning after November 12, 1996, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a general management plan for the park and shall implement such plan as soon as practically possible. The plan shall be prepared in accordance with section 100502 of title 54 and other applicable law.
 - **(g)** *Authorization of appropriations*
   - **(1)** *In general* Except as provided in paragraph (2), there are authorized to be appropriated such sums as may be necessary to carry out annual operations and maintenance with respect to the park and to carry out the activities under subsection (d) of this section.
   - **(2)** *Exceptions* In carrying out this section—
@@ -65,6 +65,16 @@ section: 410ddd
 ## Notes
 
 1 So in original. The word “and” probably should not appear.
+
+2 See References in Text note below.
+
+### References in Text
+
+The Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4), referred to in subsec. (e)(1), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Short Title of 1916 Act note set out under section 100101 of Title 54 and Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54. The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467), referred to in subsec. (e)(1), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the “Historic Sites, Buildings and Antiquities Act”, which enacted sections 461 to 467 of this title. The Act was repealed and restated as sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, and section 1866(a) of Title 18, Crimes and Criminal Procedure, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+### Codification
+
+In subsec. (f), “section 100502 of title 54” substituted for “section 12(b) of the Act of August 18, 1970 (16 U.S.C. 1a–7(b))” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 ### Amendments
 

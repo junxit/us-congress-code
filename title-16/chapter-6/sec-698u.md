@@ -11,7 +11,7 @@ section: 698u
   - **(1)** of the 400,000 square miles of tallgrass prairie that once covered the North American Continent, less than 1 percent remains, primarily in the Flint Hills of Kansas;
   - **(2)** in 1991, the National Park Service conducted a special resource study of the Spring Hill Ranch, located in the Flint Hills of Kansas;
   - **(3)** the study concludes that the Spring Hill Ranch—
-    - **(A)** is a nationally significant example of the once vast tallgrass ecosystem, and includes buildings listed on the National Register of Historic Places pursuant to section 470a of this title that represent outstanding examples of Second Empire and other 19th Century architectural styles; and
+    - **(A)** is a nationally significant example of the once vast tallgrass ecosystem, and includes buildings listed on the National Register of Historic Places pursuant to section 302101 of title 54 that represent outstanding examples of Second Empire and other 19th Century architectural styles; and
     - **(B)** is suitable and feasible as a potential addition to the National Park System; and
   - **(4)** the National Park Trust, which owns the Spring Hill Ranch, has agreed to permit the National Park Service—
     - **(A)** to acquire a portion of the ranch, as specified in sections 698u to 698u–7 of this title; and
@@ -27,6 +27,10 @@ section: 698u
 (Pub. L. 104–333, div. I, title X, § 1002, Nov. 12, 1996, 110 Stat. 4204; Pub. L. 106–176, title I, § 122(1), Mar. 10, 2000, 114 Stat. 29.)
 
 ## Notes
+
+### Codification
+
+In subsec. (a)(3)(A), “section 302101 of title 54” substituted for “section 470a of this title” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 ### Amendments
 

@@ -25,7 +25,7 @@ section: 45f
     - **(B)** his reasons why all of such property authorized to be acquired and not so acquired as of the date of such report, if any, have not been acquired; and
     - **(C)** his schedule of a timetable for the acquisition of such property referred to in subparagraph (B).
 - **(d)** *Administration; statutory authorities applicable; leases or permits: renewals or extensions, review; termination*
-  - **(1)** The area added to the park by this section shall be administered in accordance with this section and the provisions of law generally applicable to units of the National Park System including sections 1, 2, 3, 4, 41, and 43 of this title. Any other statutory authority available to the Secretary for the conservation and management of wildlife, wildlife habitat, and natural resources may be utilized to the extent he finds such authority will further the purposes of this section.
+  - **(1)** The area added to the park by this section shall be administered in accordance with this section and the provisions of law generally applicable to units of the National Park System including sections 1, 2, 3, 4, 41,11 See References in Text note below. and 43 of this title. Any other statutory authority available to the Secretary for the conservation and management of wildlife, wildlife habitat, and natural resources may be utilized to the extent he finds such authority will further the purposes of this section.
   - **(2)**
     - **(A)** Except in the case of a lease or permit which the Secretary determines to be incompatible with the administration of the park pursuant to this section, any lease or permit on Federal land within the area added to the park under this section which is in effect immediately before November 10, 1978, shall continue in effect pursuant to its terms and conditions following the expansion of the park under this section.
     - **(B)** In the case of a lease or permit which is continued under subparagraph (A), upon notice to the Secretary by the lessee or permittee of his intention to seek renewal or extension of such lease or permit, the lease or permit shall be reviewed by the Secretary, and may be renewed or extended for an additional period of five years. Any such lease or permit shall be reviewed at the end of such renewal or extension period and may also be renewed or extended in the same manner for additional five-year periods thereafter. Any renewals or extensions of leases or permits shall be granted only to those persons who were lessees or permittees of record on November 10, 1978, and to their heirs, successors, and assigns, and any such lease or permit shall provide that the lease or permit may be terminated by the Secretary at any time if the Secretary determines that such lease or permit is incompatible with the administration of the park pursuant to this section or that the land is needed for park purposes.
@@ -47,9 +47,11 @@ section: 45f
 
 ## Notes
 
+1 See References in Text note below.
+
 ### References in Text
 
-This section, referred to in text, other than as appearing with a reference to a subsection of this section, means section 314 of Pub. L. 95–625, which in addition to enacting this section, repealed sections 45a–3 and 688 of this title, enacted provisions set out as a note under section 688 of this title, and amended provisions set out as a note under section 45a–1 of this title.
+This section, referred to in text, other than as appearing with a reference to a subsection of this section, means section 314 of Pub. L. 95–625, which in addition to enacting this section, repealed sections 45a–3 and 688 of this title, enacted provisions set out as a note under section 688 of this title, and amended provisions set out as a note under section 45a–1 of this title. Sections 1, 2, 3, and 4 of this title, referred to in subsec. (d)(1), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 
 ### Codification
 
@@ -65,4 +67,4 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 ### “Secretary” Defined
 
-Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
+Pub. L. 95–625, § 2, Nov. 10, 1978, 92 Stat. 3470, provided that: “As used in this Act [see Tables for classification], except as otherwise specifically provided, the term ‘Secretary’ means the Secretary of the Interior.”

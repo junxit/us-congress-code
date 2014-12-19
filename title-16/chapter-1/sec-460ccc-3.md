@@ -12,7 +12,7 @@ section: 460ccc–3
   - **(2)** The management plan described in paragraph (1) shall be developed with full public participation and shall include—
     - **(A)** an implementation plan for a continuing program of interpretation and public education about the resources and values of the conservation area;
     - **(B)** a proposal for administrative and public facilities to be developed, expanded, or improved for the conservation area including the Red Rock Canyon visitors center, to accommodate visitors to the conservation area;
-    - **(C)** a cultural resources management plan for the conservation area prepared in consultation with the Nevada State Historic Preservation Officer, with emphasis on the preservation of the resources in the conservation area and the interpretive, educational, and long-term scientific uses of these resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act (16 U.S.C. 470 et seq.) within the conservation area;
+    - **(C)** a cultural resources management plan for the conservation area prepared in consultation with the Nevada State Historic Preservation Officer, with emphasis on the preservation of the resources in the conservation area and the interpretive, educational, and long-term scientific uses of these resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act 11 See References in Text note below. within the conservation area;
     - **(D)** a wildlife resource management plan for the conservation area prepared in consultation with appropriate departments of the State of Nevada and using previous studies of the area; and
     - **(E)** a recreation management plan, including nonmotorized dispersed recreation opportunities for the conservation area in consultation with appropriate departments of the State of Nevada.
 - **(b)** *Wilderness study areas* Subject to section 460ccc–5 of this title, nothing in this subchapter is intended to alter the requirements of section 1782 of title 43, or section 5(a) of the National Forest and Public Lands of Nevada Enhancement Act of 1988 (102 Stat. 2751), as those requirements apply to the lands within, or adjacent to the conservation area as of November 16, 1990.
@@ -23,9 +23,11 @@ section: 460ccc–3
 
 ## Notes
 
+1 See References in Text note below.
+
 ### References in Text
 
-The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2)(C), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables. The National Historic Preservation Act, referred to in subsec. (a)(2)(C), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see section 470 of this title and Tables. Section 5(a) of the National Forest and Public Lands of Nevada Enhancement Act of 1988, referred to in subsec. (b), is section 5(a) of Pub. L. 100–550, Oct. 28, 1988, 102 Stat. 2751, which is not classified to the Code.
+The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2)(C), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables. The National Historic Preservation Act, referred to in subsec. (a)(2)(C), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title prior to the enactment of Title 54, National Park Service and Related Programs. See 54 U.S.C. 300101 et seq. Section 5(a) of the National Forest and Public Lands of Nevada Enhancement Act of 1988, referred to in subsec. (b), is section 5(a) of Pub. L. 100–550, Oct. 28, 1988, 102 Stat. 2751, which is not classified to the Code.
 
 ### Amendments
 

@@ -7,7 +7,7 @@ section: 410vv–2
 
 # § 410vv–2. Administration
 
-- **(a)** *In general* The Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall administer the park in accordance with this subchapter, and laws generally applicable to units of the National Park System, including, but not limited to sections 1, 2, 3, and 4 of this title.
+- **(a)** *In general* The Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall administer the park in accordance with this subchapter, and laws generally applicable to units of the National Park System, including, but not limited to sections 1, 2, 3, and 4 11 See References in Text note below. of this title.
 - **(b)** *Acquisition of lands*
   - **(1)** Except as provided in paragraph (2), the Secretary is authorized to acquire lands or interests therein within the park only by donation.
   - **(2)** If the Secretary determines that lands within the protection zone are being used, or there is an imminent threat that such lands will be used, for a purpose that is incompatible with the purposes of this subchapter, the Secretary may acquire such lands or interests therein by means other than donation.
@@ -22,6 +22,12 @@ section: 410vv–2
 (Pub. L. 102–350, § 4, Aug. 26, 1992, 106 Stat. 934; Pub. L. 105–277, div. A, § 101(e) [title I, § 143], Oct. 21, 1998, 112 Stat. 2681–231, 2681–267.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 
 ### Amendments
 

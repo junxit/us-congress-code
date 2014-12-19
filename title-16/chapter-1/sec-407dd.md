@@ -12,8 +12,14 @@ section: 407dd
 - **(c)** *Public materials* In coordination with the National Constitution Center, the Secretary shall develop and make available to the public interpretive and educational materials related to sites within the National Park System as referred to in subsection (a) of this section.
 - **(d)** *Cooperative agreements* The Secretary may enter into cooperative agreements with the owners or administrators of historic sites closely associated with the Constitution, pursuant to which the Secretary may provide technical assistance in the preservation and interpretation of such sites.
 - **(e)** *Research and education* The Secretary shall contract with the National Constitution Center and other qualified institutions of higher learning for research and other activities including the distribution of interpretive and educational materials as appropriate in order to carry out the provisions of this subchapter.
-- **(f)** *Maintenance of historic integrity* Nothing in this section may be construed to alter or waive the requirement that the Secretary maintain the historic integrity of units of the National Park System, including compliance with section 470f of this title.
+- **(f)** *Maintenance of historic integrity* Nothing in this section may be construed to alter or waive the requirement that the Secretary maintain the historic integrity of units of the National Park System, including compliance with section 306108 of title 54.
 
 ## Source credit
 
 (Pub. L. 100–433, § 5, Sept. 16, 1988, 102 Stat. 1641.)
+
+## Notes
+
+### Codification
+
+In subsec. (f), “section 306108 of title 54” substituted for “section 470f of this title” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.

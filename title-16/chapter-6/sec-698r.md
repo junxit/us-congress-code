@@ -8,8 +8,8 @@ section: 698r
 # § 698r. Administration
 
 - **(a)** *In general* The Preserve shall be administered by the Secretary in accordance with sections 698q to 698t of this title and in accordance with the laws generally applicable to units of the National Park System, including—
-  - **(1)** sections 1, 2, 3, and 4 of this title; and
-  - **(2)** sections 461 to 467 of this title.
+  - **(1)** sections 1, 2, 3, and 4 11 See References in Text note below. of this title; and
+  - **(2)** sections 461 to 467 1 of this title.
 - **(b)** *Hunting and fishing*
   - **(1)** *In general* Subject to paragraphs (2) and (3), the Secretary shall permit hunting, trapping, and fishing on lands and waters under the jurisdiction of the Secretary within the Preserve in accordance with applicable Federal and State laws.
   - **(2)** *Time and place restrictions* Subject to such terms and conditions as the Secretary considers necessary in furtherance of sections 698q to 698t of this title, and after consultation with the Department of Conservation and Natural Resources of the State of Alabama and owners of lands adjacent to the Preserve, the Secretary may designate zones where, and establish periods when, the activities described in paragraph (1) will not be permitted within the Preserve for reasons of public safety, administration, fish and wildlife habitat, or public use and enjoyment.
@@ -30,3 +30,11 @@ section: 698r
 ## Source credit
 
 (Pub. L. 102–427, § 3, Oct. 21, 1992, 106 Stat. 2179.)
+
+## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a)(1), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs. Sections 461 to 467 of this title, referred to in subsec. (a)(2), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.

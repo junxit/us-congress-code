@@ -11,4 +11,4 @@ section: 6a
 
 ### removalDescription
 
-Section, act July 10, 1935, ch. 375, § 4, 49 Stat. 478, related to acceptance of gifts or bequests of money. See section 19g of this title.
+Section, act July 10, 1935, ch. 375, § 4, 49 Stat. 478, related to acceptance of gifts or bequests of money.

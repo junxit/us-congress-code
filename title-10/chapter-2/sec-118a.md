@@ -11,7 +11,7 @@ section: 118a
   - **(1)** The Secretary of Defense shall every four years conduct a comprehensive examination of the quality of life of the members of the armed forces (to be known as the “quadrennial quality of life review”). The review shall include examination of the programs, projects, and activities of the Department of Defense, including the morale, welfare, and recreation activities.
   - **(2)** The quadrennial quality of life review shall be designed to result in determinations, and to foster policies and actions, that reflect the priority given the quality of life of members of the armed forces as a primary concern of the Department of Defense leadership.
 - **(b)** *Conduct of Review.—* Each quadrennial quality of life review shall be conducted so as—
-  - **(1)** to assess quality of life priorities and issues consistent with the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 404a); 11 See References in Text note below.
+  - **(1)** to assess quality of life priorities and issues consistent with the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 3043);
   - **(2)** to identify actions that are needed in order to provide members of the armed forces with the quality of life reasonably necessary to encourage the successful execution of the full range of missions that the members are called on to perform under the national security strategy; and
   - **(3)** to identify other actions that have the potential for improving the quality of life of the members of the armed forces.
 - **(c)** *Considerations.—* The Secretary shall consider addressing the following matters as part of the quadrennial quality of life review:
@@ -37,15 +37,13 @@ section: 118a
 
 ## Source credit
 
-(Added Pub. L. 107–314, div. A, title V, § 581(a)(1), Dec. 2, 2002, 116 Stat. 2559.)
+(Added Pub. L. 107–314, div. A, title V, § 581(a)(1), Dec. 2, 2002, 116 Stat. 2559; amended Pub. L. 113–291, div. A, title X, § 1071(c)(2), Dec. 19, 2014, 128 Stat. 3508.)
 
 ## Notes
 
-1 See References in Text note below.
+### Amendments
 
-### References in Text
-
-The National Security Act of 1947, referred to in subsec. (b)(1), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 108 of the Act is now classified to section 3043 of Title 50. For complete classification of this Act to the Code, see Tables.
+2014—Subsec. (b)(1). Pub. L. 113–291 substituted “(50 U.S.C. 3043)” for “(50 U.S.C. 404a)”.
 
 ### First Quadrennial Quality of Life Review
 

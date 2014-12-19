@@ -5,10 +5,10 @@ chapter: 1
 section: 19jj–4
 ---
 
-# § 19jj–4. Donations
+# § 19jj–4. Repealed. Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272
 
-The Secretary may accept donations of money or services for expenditure or employment to meet expected, immediate, or ongoing response costs. Such donations may be expended or employed at any time after their acceptance, without further congressional action.
+## Notes
 
-## Source credit
+### removalDescription
 
-(Pub. L. 101–337, § 5, July 27, 1990, 104 Stat. 381.)
+Section, Pub. L. 101–337, § 5, July 27, 1990, 104 Stat. 381, related to donations. See section 100725 of Title 54, National Park Service and Related Programs.

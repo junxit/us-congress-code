@@ -20,3 +20,9 @@ section: 460ooo–6
 ## Source credit
 
 (Pub. L. 106–538, § 7, Dec. 6, 2000, 114 Stat. 2567.)
+
+## Notes
+
+### Land Exchange and Conservation in Arizona
+
+For provisions relating to land exchange and conservation in southeastern Arizona, see section 539p of this title.

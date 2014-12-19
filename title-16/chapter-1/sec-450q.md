@@ -7,13 +7,19 @@ section: 450q
 
 # § 450q. Administration, protection, and development
 
-The administration, protection, and development of the aforesaid national historic site shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
+The administration, protection, and development of the aforesaid national historic site shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 11 See References in Text note below. of this title, as amended.
 
 ## Source credit
 
 (Aug. 29, 1935, ch. 801, § 3, 49 Stat. 958; Pub. L. 88–197, § 1, Dec. 11, 1963, 77 Stat. 349.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 
 ### Change of Name
 

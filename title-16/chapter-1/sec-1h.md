@@ -5,10 +5,10 @@ chapter: 1
 section: 1h
 ---
 
-# § 1h. Sums provided by private entities for utility services
+# § 1h. Repealed. Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272
 
-Notwithstanding any other provision of law, in fiscal year 2003 and thereafter, sums provided to the National Park Service by private entities for utility services shall be credited to the appropriate account and remain available until expended.
+## Notes
 
-## Source credit
+### removalDescription
 
-(Pub. L. 108–7, div. F, title I, Feb. 20, 2003, 117 Stat. 227.)
+Section, Pub. L. 108–7, div. F, title I, Feb. 20, 2003, 117 Stat. 227, related to sums provided by private entities for utility services. See section 103103 of Title 54, National Park Service and Related Programs.

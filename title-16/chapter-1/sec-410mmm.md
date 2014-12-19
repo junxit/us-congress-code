@@ -15,7 +15,7 @@ section: 410mmm
   - **(2)** *Boundaries* The Historical Park shall be comprised of all property owned by the United States in the Edison National Historic Site as well as all property authorized to be acquired by the Secretary of the Interior (referred to in this section as the “Secretary”) for inclusion in the Edison National Historic Site before March 30, 2009, as generally depicted on the map entitled the “Thomas Edison National Historical Park”, numbered 403/80,000, and dated April 2008.
   - **(3)** *Map* The map of the Historical Park shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 - **(c)** *Administration*
-  - **(1)** *In general* The Secretary shall administer the Historical Park in accordance with this section and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+  - **(1)** *In general* The Secretary shall administer the Historical Park in accordance with this section and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 11 See References in Text note below. of this title and sections 461 to 467 1 of this title.
   - **(2)** *Acquisition of property*
     - **(A)** *Real property* The Secretary may acquire land or interests in land within the boundaries of the Historical Park, from willing sellers only, by donation, purchase with donated or appropriated funds, or exchange.
     - **(B)** *Personal property* The Secretary may acquire personal property associated with, and appropriate for, interpretation of the Historical Park.
@@ -30,6 +30,12 @@ section: 410mmm
 
 ## Notes
 
+1 See References in Text note below.
+
+### References in Text
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c)(1), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs. Sections 461 to 467 of this title, referred to in subsec. (c)(1), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.
+
 ### Codification
 
-Section is comprised of section 7110 of Pub. L. 111–11. Subsec. (c)(4) of section 7110 of Pub. L. 111–11 repealed Pub. L. 87–628, which enacted provisions listed in a table of National Historic Sites set out under section 461 of this title.
+Section is comprised of section 7110 of Pub. L. 111–11. Subsec. (c)(4) of section 7110 of Pub. L. 111–11 repealed Pub. L. 87–628, which enacted provisions listed in a table of National Historic Sites set out under section 320101 of Title 54, National Park Service and Related Programs.

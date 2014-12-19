@@ -27,7 +27,7 @@ Section 54, acts Aug. 18, 1890, ch. 797, § 2, 26 Stat. 320; Aug. 7, 1946, ch. 7
 
 ### removalDescription
 
-Section 55, R.S. § 1666, authorized Secretary of War to abolish useless or unnecessary arsenals. See section 4532 of Title 10, Armed Forces.
+Section 55, R.S. § 1666, authorized Secretary of War to abolish useless or unnecessary arsenals.
 
 ### removalDescription
 

@@ -7,7 +7,7 @@ section: 450ee–1
 
 # § 450ee–1. Administration
 
-The property acquired by the Secretary of the Interior under this joint resolution shall constitute the Fort Sumter National Monument and shall be a public national memorial commemorating historical events at or near Fort Sumter. The Director of the National Park Service under the direction of the Secretary of the Interior shall have the supervision, management, and control of such national monument, and shall maintain and preserve it for the benefit and enjoyment of the people of the United States, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
+The property acquired by the Secretary of the Interior under this joint resolution shall constitute the Fort Sumter National Monument and shall be a public national memorial commemorating historical events at or near Fort Sumter. The Director of the National Park Service under the direction of the Secretary of the Interior shall have the supervision, management, and control of such national monument, and shall maintain and preserve it for the benefit and enjoyment of the people of the United States, subject to the provisions of sections 1, 2, 3, and 4 11 See References in Text note below. of this title, as amended.
 
 ## Source credit
 
@@ -15,9 +15,11 @@ The property acquired by the Secretary of the Interior under this joint resoluti
 
 ## Notes
 
+1 See References in Text note below.
+
 ### References in Text
 
-This joint resolution, referred to in text, means act Apr. 28, 1948, which is classified to sections 450ee and 450ee–1 of this title.
+This joint resolution, referred to in text, means act Apr. 28, 1948, which is classified to sections 450ee and 450ee–1 of this title. Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 
 ### Transfer of Functions
 

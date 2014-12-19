@@ -7,7 +7,7 @@ section: 410b
 
 # § 410b. Administration, protection, and development
 
-The administration, protection, and development of the aforesaid park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended: Provided, That the provisions of the Federal Power Act [16 U.S.C. 791a et seq.] shall not apply to this park: Provided further, That nothing in sections 410 to 410c of this title shall be construed to lessen any existing rights of the Seminole Indians which are not in conflict with the purposes for which the Everglades National Park is created.
+The administration, protection, and development of the aforesaid park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 11 See References in Text note below. of this title, as amended: Provided, That the provisions of the Federal Power Act [16 U.S.C. 791a et seq.] shall not apply to this park: Provided further, That nothing in sections 410 to 410c of this title shall be construed to lessen any existing rights of the Seminole Indians which are not in conflict with the purposes for which the Everglades National Park is created.
 
 ## Source credit
 
@@ -15,9 +15,11 @@ The administration, protection, and development of the aforesaid park shall be e
 
 ## Notes
 
+1 See References in Text note below.
+
 ### References in Text
 
-The Federal Power Act, referred to in text, was in the original the “Act approved June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs. The Federal Power Act, referred to in text, was in the original the “Act approved June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 ### Amendments
 

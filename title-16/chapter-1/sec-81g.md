@@ -7,13 +7,19 @@ section: 81g
 
 # § 81g. Administration, protection, and development
 
-The administration, protection, and development of the aforesaid national park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
+The administration, protection, and development of the aforesaid national park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 11 See References in Text note below. of this title, as amended.
 
 ## Source credit
 
 (July 3, 1930, ch. 837, § 5, 46 Stat. 856; June 5, 1936, ch. 525, § 2, 49 Stat. 1483.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 
 ### Codification
 

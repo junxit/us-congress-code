@@ -14,7 +14,7 @@ section: 430vv
     - **(A)** *In general* The Secretary shall prepare a legal description of the land and interests in land designated as the Park by paragraph (2).
     - **(B)** *Availability of map and legal description* A map with the legal description shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 - **(b)** *Administration*
-  - **(1)** *In general* The Secretary shall manage the Park for the purpose of preserving and interpreting the Battles of the River Raisin in accordance with sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+  - **(1)** *In general* The Secretary shall manage the Park for the purpose of preserving and interpreting the Battles of the River Raisin in accordance with sections 1, 2, 3, and 4 11 See References in Text note below. of this title and sections 461 to 467 of this title.
   - **(2)** *General management plan*
     - **(A)** *In general* Not later than 3 years after the date on which funds are made available, the Secretary shall complete a general management plan for the Park that, among other things, defines the role and responsibility of the Secretary with regard to the interpretation and the preservation of the site.
     - **(B)** *Consultation* The Secretary shall consult with and solicit advice and recommendations from State, county, local, and civic organizations and leaders, and other interested parties in the preparation of the management plan.
@@ -29,3 +29,11 @@ section: 430vv
 ## Source credit
 
 (Pub. L. 111–11, title VII, § 7003, Mar. 30, 2009, 123 Stat. 1188.)
+
+## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs. Sections 461 to 467 of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.

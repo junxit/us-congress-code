@@ -7,7 +7,7 @@ section: 430ll
 
 # § 430ll. Designation
 
-- **(a)** *Administration, protection, and development* The lands acquired under section 430kk of this title shall be set aside as a public park for the benefit and enjoyment of the people of the United States, and shall be designated as the Wilson’s Creek National Battlefield. The National Park Service, under the direction of the Secretary of the Interior, shall administer, protect, and develop the park, subject to the provisions of sections 1, 2, 3, and 4 of this title.
+- **(a)** *Administration, protection, and development* The lands acquired under section 430kk of this title shall be set aside as a public park for the benefit and enjoyment of the people of the United States, and shall be designated as the Wilson’s Creek National Battlefield. The National Park Service, under the direction of the Secretary of the Interior, shall administer, protect, and develop the park, subject to the provisions of sections 1, 2, 3, and 4 11 See References in Text note below. of this title.
 - **(b)** *Improvements* In order to provide for the proper development and maintenance of the park, the Secretary of the Interior shall construct and maintain therein such roads, trails, markers, buildings, and other improvements, and such facilities for the care and accommodation of visitors, as he may deem necessary.
 
 ## Source credit
@@ -15,6 +15,12 @@ section: 430ll
 (Pub. L. 86–434, § 2, Apr. 22, 1960, 74 Stat. 76; Pub. L. 91–554, § 1(a), Dec. 16, 1970, 84 Stat. 1441.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 
 ### Amendments
 

@@ -5,17 +5,10 @@ chapter: 1
 section: 1a–14
 ---
 
-# § 1a–14. National Park System advisory committees
-
-- **(a)** *Charter* The provisions of section 14(b) of the Federal Advisory Committee Act (5 U.S.C. Appendix; 86 Stat. 776) are hereby waived with respect to any advisory commission or advisory committee established by law in connection with any national park system unit during the period such advisory commission or advisory committee is authorized by law.
-- **(b)** *Members* In the case of any advisory commission or advisory committee established in connection with any national park system unit, any member of such Commission or Committee may serve after the expiration of his or her term until a successor is appointed.
-
-## Source credit
-
-(Pub. L. 102–525, title III, § 301, Oct. 26, 1992, 106 Stat. 3441.)
+# § 1a–14. Repealed. Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272
 
 ## Notes
 
-### References in Text
+### removalDescription
 
-Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (a), is section 14(b) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section, Pub. L. 102–525, title III, § 301, Oct. 26, 1992, 106 Stat. 3441, related to National Park System advisory committees. See section 100906(b), (c) of Title 54, National Park Service and Related Programs.

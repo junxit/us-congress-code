@@ -7,7 +7,7 @@ section: 410eee–3
 
 # § 410eee–3. Administration
 
-- **(a)** *In general* The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, 4, and 461 to 467 of this title.
+- **(a)** *In general* The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, 4,11 See References in Text note below. and 461 to 467 1 of this title.
 - **(b)** *Cooperative agreements*
   - **(1)** The Secretary may consult and enter into cooperative agreements with interested entities and individuals to provide for the preservation, development, interpretation, and use of the park.
   - **(2)** Any payment made by the Secretary pursuant to a cooperative agreement under this paragraph shall be subject to an agreement that conversion, use, or disposal of the project so assisted for purposes contrary to the purposes of this subchapter, as determined by the Secretary, shall result in a right of the United States to reimbursement of all funds made available to such a project or the proportion of the increased value of the project attributable to such funds as determined at the time of such conversion, use, or disposal, whichever is greater.
@@ -20,6 +20,12 @@ section: 410eee–3
 (Pub. L. 105–342, § 5, Nov. 2, 1998, 112 Stat. 3201.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs. Sections 461 to 467 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.
 
 ### Codification
 

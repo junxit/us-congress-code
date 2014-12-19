@@ -8,7 +8,7 @@ section: 410bbb–2
 # § 410bbb–2. Administration
 
 - **(a)** *In general*
-  - **(1)** The Secretary shall administer the historical park in accordance with this subchapter and with provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title. The Secretary shall manage the historical park in such a manner as will preserve and perpetuate knowledge and understanding of the history of jazz and its continued evolution as a true American art form.
+  - **(1)** The Secretary shall administer the historical park in accordance with this subchapter and with provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 11 See References in Text note below. of this title and sections 461 to 467 1 of this title. The Secretary shall manage the historical park in such a manner as will preserve and perpetuate knowledge and understanding of the history of jazz and its continued evolution as a true American art form.
   - **(2)** To minimize operational costs associated with the management and administration of the historical park and to avoid duplication of effort, the Secretary shall, to the maximum extent practicable, utilize the facilities, administrative staff and other services of the Jean Lafitte National Historical Park and Preserve.
 - **(b)** *Donations* The Secretary may accept and retain donations of funds, property, or services from individuals, foundations, corporations, or other public entities for the purposes of providing services, programs, and facilities that further the purposes of this subchapter.
 - **(c)** *Interpretive center* The Secretary is authorized to construct, operate, and maintain an interpretive center in the historical park on lands identified by the Secretary pursuant to section 410bbb–1(b)(1) of this title. Programs at the center shall include, but need not be limited to, live jazz interpretive and educational programs, and shall provide visitors with information about jazz-related programs, performances, and opportunities.
@@ -22,3 +22,11 @@ section: 410bbb–2
 ## Source credit
 
 (Pub. L. 103–433, title XII, § 1204, Oct. 31, 1994, 108 Stat. 4520.)
+
+## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a)(1), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs. Sections 461 to 467 of this title, referred to in subsec. (a)(1), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.

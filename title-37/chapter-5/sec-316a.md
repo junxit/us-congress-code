@@ -20,11 +20,11 @@ section: 316a
   - **(3)** The aggregate amount recouped under section 303a(e) of this title in connection with receipt of incentive pay under this section.
   - **(4)** The languages for which incentive pay was paid under this section, including the total amount paid for each such language.
   - **(5)** The effectiveness of incentive pay under this section in assisting the Department of Defense in securing proficiency in foreign languages of strategic interest to the Department of Defense, including a description of how recipients of pay under this section are assigned and utilized following completion of the program of study.
-- **(g)** *Termination of Authority.—* No incentive pay may be paid under this section after December 31, 2014.
+- **(g)** *Termination of Authority.—* No incentive pay may be paid under this section after December 31, 2015.
 
 ## Source credit
 
-(Added Pub. L. 110–417, [div. A], title VI, § 619(b)(1), Oct. 14, 2008, 122 Stat. 4488; amended Pub. L. 112–81, div. A, title X, § 1065(b), Dec. 31, 2011, 125 Stat. 1588; Pub. L. 113–66, div. A, title VI, § 616, Dec. 26, 2013, 127 Stat. 781.)
+(Added Pub. L. 110–417, [div. A], title VI, § 619(b)(1), Oct. 14, 2008, 122 Stat. 4488; amended Pub. L. 112–81, div. A, title X, § 1065(b), Dec. 31, 2011, 125 Stat. 1588; Pub. L. 113–66, div. A, title VI, § 616, Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, § 615(5), Dec. 19, 2014, 128 Stat. 3401.)
 
 ## Notes
 
@@ -34,4 +34,4 @@ A prior section 316a, added Pub. L. 102–190, div. A, title VI, § 636(a), Dec.
 
 ### Amendments
 
-2013—Subsec. (g). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”. 2011—Subsec. (f). Pub. L. 112–81 substituted “April 1, 2012” for “January 1, 2010” in introductory provisions.
+2014—Subsec. (g). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”. 2013—Subsec. (g). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”. 2011—Subsec. (f). Pub. L. 112–81 substituted “April 1, 2012” for “January 1, 2010” in introductory provisions.

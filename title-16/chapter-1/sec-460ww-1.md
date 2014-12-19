@@ -7,10 +7,10 @@ section: 460ww–1
 
 # § 460ww–1. Administration
 
-- **(a)** *In general* The recreation area shall be administered by the Secretary in accordance with this Act and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title.
-- **(b)** *Hunting and fishing; fish stocking* The Secretary shall permit hunting, trapping and fishing on lands and waters within the recreation area in accordance with applicable Federal and State laws. The Secretary may, after consultation with the State of West Virginia Department of Natural Resources, designate zones where, and establish periods when, such activities will not be permitted for reasons of public safety, administration, fish and wildlife habitat or public use and enjoyment subject to such terms and conditions as he deems necessary in the furtherance of this Act. The Secretary shall permit the State of West Virginia to undertake or continue fish stocking activities carried out by the State in consultation with the Secretary on waters within the boundaries of the recreation area. Nothing in this Act shall be construed as affecting the jurisdiction or responsibilities of the State of West Virginia with respect to fish and wildlife 11 So in original. Probably should be followed by a period.
+- **(a)** *In general* The recreation area shall be administered by the Secretary in accordance with this Act and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 11 See References in Text note below. of this title.
+- **(b)** *Hunting and fishing; fish stocking* The Secretary shall permit hunting, trapping and fishing on lands and waters within the recreation area in accordance with applicable Federal and State laws. The Secretary may, after consultation with the State of West Virginia Department of Natural Resources, designate zones where, and establish periods when, such activities will not be permitted for reasons of public safety, administration, fish and wildlife habitat or public use and enjoyment subject to such terms and conditions as he deems necessary in the furtherance of this Act. The Secretary shall permit the State of West Virginia to undertake or continue fish stocking activities carried out by the State in consultation with the Secretary on waters within the boundaries of the recreation area. Nothing in this Act shall be construed as affecting the jurisdiction or responsibilities of the State of West Virginia with respect to fish and wildlife 22 So in original. Probably should be followed by a period.
 - **(c)** *Cooperative agreements with State* In administering the recreation area the Secretary is authorized to enter into cooperative agreements with the State of West Virginia, or any political subdivision thereof, for the rendering, on a reimbursable basis, of rescue, firefighting, and law enforcement services and cooperative assistance by nearby law enforcement and fire preventive agencies.
-- **(d)** *Application of other provisions* The provisions of section 1278(a) of this title,22 So in original. The comma probably should not appear. shall apply to the recreation area in the same manner and to the same extent as such provisions apply to river segments referred to in such provisions.
+- **(d)** *Application of other provisions* The provisions of section 1278(a) of this title,33 So in original. The comma probably should not appear. shall apply to the recreation area in the same manner and to the same extent as such provisions apply to river segments referred to in such provisions.
 - **(e)** *Recreational access*
   - **(1)** *Existing public roads* The Secretary may enter into a cooperative agreement with the State of West Virginia under which the Secretary shall be authorized to maintain and improve existing public roads and public rights-of-way within the boundaries of the national recreation area to the extent necessary to facilitate and improve reasonable access to the recreation area at existing access points where such actions would not unreasonably diminish the scenic and natural values of the area.
   - **(2)** *Facilities adjacent to dam* In order to accommodate visitation to the recreation area, the Secretary shall construct such facilities as necessary to enhance and improve access, vehicle parking and related facilities, and provide river access for whitewater recreation and for other recreational activities, immediately downstream of the Summersville Dam, to the extent that such facilities are not provided pursuant to section 460ww–4 of this title and such facilities are within the boundaries of the recreation area. Such construction shall be subject to the memorandum of understanding referred to in subsection (f) of this section.
@@ -27,13 +27,15 @@ section: 460ww–1
 
 ## Notes
 
-1 So in original. Probably should be followed by a period.
+1 See References in Text note below.
 
-2 So in original. The comma probably should not appear.
+2 So in original. Probably should be followed by a period.
+
+3 So in original. The comma probably should not appear.
 
 ### References in Text
 
-This Act, referred to in subsecs. (a) and (b), is Pub. L. 100–534, Oct. 26, 1988, 102 Stat. 2699, known as the West Virginia National Interest River Conservation Act of 1987, which enacted this subchapter and sections 460m–26 to 460m–29 of this title, amended sections 460m–15 and 1274 of this title, and enacted provisions set out as notes under sections 460m–15 and 1274 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 460m–15 of this title and Tables.
+This Act, referred to in subsecs. (a) and (b), is Pub. L. 100–534, Oct. 26, 1988, 102 Stat. 2699, known as the West Virginia National Interest River Conservation Act of 1987, which enacted this subchapter and sections 460m–26 to 460m–29 of this title, amended sections 460m–15 and 1274 of this title, and enacted provisions set out as notes under sections 460m–15 and 1274 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 460m–15 of this title and Tables. Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 
 ### Amendments
 

@@ -7,13 +7,19 @@ section: 396b
 
 # § 396b. Establishment; boundaries; administration
 
-Effective July 1, 1961, the detached portion of the Hawaii National Park which lies on the island of Maui is established as a separate unit of the national park system to be known as Haleakala̅ National Park. The park so established shall be administered in accordance with sections 1, 2, 3, and 4 of this title, as amended and supplemented, and in accordance with any other applicable provision of law relating to the Maui portion of Hawaii National Park.
+Effective July 1, 1961, the detached portion of the Hawaii National Park which lies on the island of Maui is established as a separate unit of the national park system to be known as Haleakala̅ National Park. The park so established shall be administered in accordance with sections 1, 2, 3, and 4 11 See References in Text note below. of this title, as amended and supplemented, and in accordance with any other applicable provision of law relating to the Maui portion of Hawaii National Park.
 
 ## Source credit
 
 (Pub. L. 86–744, § 1, Sept. 13, 1960, 74 Stat. 881; Pub. L. 106–510, § 3(b)(1), Nov. 13, 2000, 114 Stat. 2363.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 
 ### Amendments
 

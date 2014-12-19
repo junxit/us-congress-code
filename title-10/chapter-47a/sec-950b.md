@@ -11,7 +11,7 @@ section: 950b
 - **(b)** *Submittal of Matters by Accused to Convening Authority.—*
   - **(1)** The accused may submit to the convening authority matters for consideration by the convening authority with respect to the findings and the sentence of the military commission under this chapter.
   - **(2)**
-    - **(A)** Except as provided in subparagraph (B), a submittal under paragraph (1) shall be made in writing within 20 days after the accused has been give 11 So in original. Probably should read “given”. an authenticated record of trial under section 949o(c) of this title.
+    - **(A)** Except as provided in subparagraph (B), a submittal under paragraph (1) shall be made in writing within 20 days after the accused has been given an authenticated record of trial under section 949o(c) of this title.
     - **(B)** If the accused shows that additional time is required for the accused to make a submittal under paragraph (1), the convening authority may, for good cause, extend the applicable period under subparagraph (A) for not more than an additional 20 days.
   - **(3)** The accused may waive the accused’s right to make a submittal to the convening authority under paragraph (1). Such a waiver shall be made in writing, and may not be revoked. For the purposes of subsection (c)(2), the time within which the accused may make a submittal under this subsection shall be deemed to have expired upon the submittal of a waiver under this paragraph to the convening authority.
 - **(c)** *Action by Convening Authority.—*
@@ -38,12 +38,14 @@ section: 950b
 
 ## Source credit
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2599.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2599; amended Pub. L. 113–291, div. A, title X, § 1071(f)(10), Dec. 19, 2014, 128 Stat. 3510.)
 
 ## Notes
-
-1 So in original. Probably should read “given”.
 
 ### Prior Provisions
 
 A prior section 950b, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2618, related to review by the convening authority, prior to the general amendment of this chapter by Pub. L. 111–84.
+
+### Amendments
+
+2014—Subsec. (b)(2)(A). Pub. L. 113–291 substituted “given” for “give”.

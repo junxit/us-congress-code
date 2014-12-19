@@ -7,7 +7,7 @@ section: 460bb–3
 
 # § 460bb–3. Administration
 
-- **(a)** *Provisions applicable; utilization of authorities for conservation and management of wildlife and natural resources; provisions applicable to Muir Woods National Monument and Fort Point National Historic Site* The Secretary shall administer the lands, waters and interests therein acquired for the recreation area in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented, and the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter. Notwithstanding their inclusion within the boundaries of the recreation area, the Muir Woods National Monument and Fort Point National Historic Site shall continue to be administered as distinct and identifiable units of the national park system in accordance with the laws applicable to such monument and historic site.
+- **(a)** *Provisions applicable; utilization of authorities for conservation and management of wildlife and natural resources; provisions applicable to Muir Woods National Monument and Fort Point National Historic Site* The Secretary shall administer the lands, waters and interests therein acquired for the recreation area in accordance with the provisions of sections 1, 2, 3, and 4 11 See References in Text note below. of this title, as amended and supplemented, and the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter. Notwithstanding their inclusion within the boundaries of the recreation area, the Muir Woods National Monument and Fort Point National Historic Site shall continue to be administered as distinct and identifiable units of the national park system in accordance with the laws applicable to such monument and historic site.
 - **(b)** *Federal-State cooperative agreements for police and fire protection* The Secretary may enter into cooperative agreements with any Federal agency, the State of California, or any political subdivision thereof, for the rendering, on a reimbursable basis, of rescue, firefighting, and law enforcement and fire preventive assistance.
 - **(c)** *Water resource developments* The authority of the Army to undertake or contribute to water resource developments, including shore erosion control, beach protection, and navigation improvements on land and/or waters within the recreation area shall be exercised in accordance with plans which are mutually acceptable to the Secretary and the Secretary of the Army and which are consistent with both the purpose of this subchapter and the purpose of existing statutes dealing with water and related resource development.
 - **(d)** *Transportation system; study for coordinated public and private system* The Secretary, in cooperation with the State of California and affected political subdivisions thereof, local and regional transit agencies, and the Secretaries of Transportation and of the Army, shall make a study for a coordinated public and private transportation system to and within the recreation area and other units of the national park system in Marin and San Francisco Counties.
@@ -19,6 +19,12 @@ section: 460bb–3
 (Pub. L. 92–589, § 4, Oct. 27, 1972, 86 Stat. 1302; Pub. L. 95–625, title III, § 317(f), Nov. 10, 1978, 92 Stat. 3486; Pub. L. 99–395, §§ 1, 2(a), Aug. 27, 1986, 100 Stat. 836; Pub. L. 100–348, § 6, June 27, 1988, 102 Stat. 657.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 
 ### Amendments
 

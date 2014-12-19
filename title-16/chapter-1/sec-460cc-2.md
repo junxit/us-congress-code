@@ -7,7 +7,7 @@ section: 460cc–2
 
 # § 460cc–2. Administration
 
-- **(a)** *Provisions applicable; utilization of authorities for conservation and management of wildlife and natural resources; Jamaica Bay Unit* The Secretary shall administer the recreation area in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented. In the administration of the recreation area the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter: Provided, That the Secretary shall administer and protect the islands and waters within the Jamaica Bay Unit with the primary aim of conserving the natural resources, fish, and wildlife located therein and shall permit no development or use of this area which is incompatible with this purpose.
+- **(a)** *Provisions applicable; utilization of authorities for conservation and management of wildlife and natural resources; Jamaica Bay Unit* The Secretary shall administer the recreation area in accordance with the provisions of sections 1, 2, 3, and 4 11 See References in Text note below. of this title, as amended and supplemented. In the administration of the recreation area the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter: Provided, That the Secretary shall administer and protect the islands and waters within the Jamaica Bay Unit with the primary aim of conserving the natural resources, fish, and wildlife located therein and shall permit no development or use of this area which is incompatible with this purpose.
 - **(b)** *William Fitts Ryan Visitor Center; designation*
   - **(1)** The Secretary shall designate the principal visitor center within the recreation area as the “William Fitts Ryan Visitor Center” in commemoration of the leadership and contributions which Representative William Fitts Ryan made with respect to the creation and establishment of this public recreation area. To inform the public of the contributions of Representative Ryan to the creation of the recreation area, the Secretary shall provide such signs, markers, maps, interpretive materials, literature, and programs as he deems appropriate. Not later than December 31, 1980, the Secretary shall take such additional actions as he deems appropriate to recognize and commemorate the contributions of Representative Ryan to the recreation area.
   - **(2)** The portion of the Staten Island Unit of the recreation area known as Miller Field is hereby designated as “World War Veterans Park at Miller Field”. Any reference to such Miller Field in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to “World War Veterans Park at Miller Field”.
@@ -24,6 +24,12 @@ section: 460cc–2
 (Pub. L. 92–592, § 3, Oct. 27, 1972, 86 Stat. 1309; Pub. L. 96–344, § 11(1), Sept. 8, 1980, 94 Stat. 1136; Pub. L. 97–232, § 1, Aug. 9, 1982, 96 Stat. 259; Pub. L. 106–132, § 1, Dec. 7, 1999, 113 Stat. 1681.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 
 ### Amendments
 

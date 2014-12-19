@@ -7,7 +7,7 @@ section: 272d
 
 # § 272d. Administration, protection, and development; report to President
 
-- **(a)** *In general* The Secretary shall administer, protect and develop the park in accordance with the provisions of the law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title.
+- **(a)** *In general* The Secretary shall administer, protect and develop the park in accordance with the provisions of the law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 11 See References in Text note below. of this title.
 - **(b)** *Lost Spring Canyon Addition*
   - **(1)** *Withdrawal* Subject to valid existing rights, all Federal land in the Lost Spring Canyon Addition is appropriated and withdrawn from entry, location, selection, leasing, or other disposition under the public land laws (including the mineral leasing laws).
   - **(2)** *Effect* The inclusion of the Lost Spring Canyon Addition in the park shall not affect the operation or maintenance by the Northwest Pipeline Corporation (or its successors or assigns) of the natural gas pipeline and related facilities located in the Lost Spring Canyon Addition on October 30, 1998.
@@ -17,6 +17,12 @@ section: 272d
 (Pub. L. 92–155, § 5, Nov. 12, 1971, 85 Stat. 422; Pub. L. 105–329, § 2(d), Oct. 30, 1998, 112 Stat. 3061.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 
 ### Amendments
 

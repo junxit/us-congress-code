@@ -8,7 +8,7 @@ section: 657q
 # § 657q. Consolidation of contract requirements
 
 - **(a)** *Definitions* In this section—
-  - **(1)** the term “Chief Acquisition Officer” means the employee of a Federal agency designated as the Chief Acquisition Officer for the Federal agency under section 1702(a) of title 41;
+  - **(1)** the term “Chief Acquisition Officer” means the employee of a Federal agency appointed or designated as the Chief Acquisition Officer for the Federal agency under section section 1702(a) of title 41;
   - **(2)** the term “consolidation of contract requirements”, with respect to contract requirements of a Federal agency, means a use of a solicitation to obtain offers for a single contract or a multiple award contract—
     - **(A)** to satisfy 2 or more requirements of the Federal agency for goods or services that have been provided to or performed for the Federal agency under 2 or more separate contracts lower in cost than the total cost of the contract for which the offers are solicited; or
     - **(B)** to satisfy requirements of the Federal agency for construction projects to be performed at 2 or more discrete sites; and
@@ -32,13 +32,9 @@ section: 657q
 
 ## Source credit
 
-(Pub. L. 85–536, § 2[44], as added Pub. L. 111–240, title I, § 1313(a)(2), Sept. 27, 2010, 124 Stat. 2538; amended Pub. L. 112–239, div. A, title XVI, § 1671(a), (b), (c)(2), Jan. 2, 2013, 126 Stat. 2084, 2085.)
+(Pub. L. 85–536, § 2[44], as added Pub. L. 111–240, title I, § 1313(a)(2), Sept. 27, 2010, 124 Stat. 2538; amended Pub. L. 112–239, div. A, title XVI, § 1671(a), (b), (c)(2), Jan. 2, 2013, 126 Stat. 2084, 2085; Pub. L. 113–291, div. A, title VIII, § 822(b), Dec. 19, 2014, 128 Stat. 3436.)
 
 ## Notes
-
-### Codification
-
-In subsec. (a)(1), “section 1702(a) of title 41” substituted for “section 16(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(a))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts. In subsec. (a)(3), “section 1702(c) of title 41” substituted for “section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 ### Prior Provisions
 
@@ -46,4 +42,4 @@ A prior section 2[44] of Pub. L. 85–536 was renumbered section 2[47] and is se
 
 ### Amendments
 
-2013—Subsec. (a)(2). Pub. L. 112–239, § 1671(a), substituted “or a multiple award contract—” and subpars. (A) and (B) for “or a multiple award contract to satisfy 2 or more requirements of the Federal agency for goods or services that have been provided to or performed for the Federal agency under 2 or more separate contracts lower in cost than the total cost of the contract for which the offers are solicited; and”. Subsec. (c)(1)(E). Pub. L. 112–239, § 1671(b), substituted “ensures” for “certifies to the head of the Federal agency”. Subsec. (c)(4). Pub. L. 112–239, § 1671(c)(2), struck out par. (4). Prior to amendment, text read as follows: “(A) In general.—The Department of Defense and each military department shall comply with this section until after the date described in subparagraph (C). “(B) Rule.—After the date described in subparagraph (C), contracting by the Department of Defense or a military department shall be conducted in accordance with section 2382 of title 10. “(C) Date.—The date described in this subparagraph is the date on which the Administrator determines the Department of Defense or a military department is in compliance with the Government-wide contracting goals under section 644 of this title.”
+2014—Subsec. (a)(1). Pub. L. 113–291, § 822(b)(1), inserted “appointed or” before “designated” and substituted “section 1702(a) of title 41” for “section 16(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(a))”. Subsec. (a)(3). Pub. L. 113–291, § 822(b)(2), substituted “section 1702(c) of title 41” for “section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))”. 2013—Subsec. (a)(2). Pub. L. 112–239, § 1671(a), substituted “or a multiple award contract—” and subpars. (A) and (B) for “or a multiple award contract to satisfy 2 or more requirements of the Federal agency for goods or services that have been provided to or performed for the Federal agency under 2 or more separate contracts lower in cost than the total cost of the contract for which the offers are solicited; and”. Subsec. (c)(1)(E). Pub. L. 112–239, § 1671(b), substituted “ensures” for “certifies to the head of the Federal agency”. Subsec. (c)(4). Pub. L. 112–239, § 1671(c)(2), struck out par. (4). Prior to amendment, text read as follows: “(A) In general.—The Department of Defense and each military department shall comply with this section until after the date described in subparagraph (C). “(B) Rule.—After the date described in subparagraph (C), contracting by the Department of Defense or a military department shall be conducted in accordance with section 2382 of title 10. “(C) Date.—The date described in this subparagraph is the date on which the Administrator determines the Department of Defense or a military department is in compliance with the Government-wide contracting goals under section 644 of this title.”

@@ -10,8 +10,8 @@ section: 410hhh–5
 - **(a)** *In general* The Secretary shall administer the national park and the preserve in accordance with—
   - **(1)** this subchapter; and
   - **(2)** all laws generally applicable to units of the National Park System, including—
-    - **(A)** sections 1, 2, 3, and 4 of this title; and
-    - **(B)** sections 461 to 467 of this title.
+    - **(A)** sections 1, 2, 3, and 4 11 See References in Text note below. of this title; and
+    - **(B)** sections 461 to 467 1 of this title.
 - **(b)** *Grazing*
   - **(1)** *Acquired State or private land* With respect to former State or private land on which grazing is authorized to occur on November 22, 2000, and which is acquired for the national monument, or the national park and preserve, or the wildlife refuge, the Secretary, in consultation with the lessee, may permit the continuation of grazing on the land by the lessee at the time of acquisition, subject to applicable law (including regulations).
   - **(2)** *Federal land* Where grazing is permitted on land that is Federal land as of November 22, 2000, and that is located within the boundaries of the national monument or the national park and preserve, the Secretary is authorized to permit the continuation of such grazing activities unless the Secretary determines that grazing would harm the resources or values of the national park or the preserve.
@@ -44,6 +44,8 @@ section: 410hhh–5
 
 1 See References in Text note below.
 
+1 See References in Text note below.
+
 ### References in Text
 
-The Reclamation Project Authorization Act of 1972, referred to in subsec. (d)(2), is Pub. L. 92–514, Oct. 20, 1972, 86 Stat. 964. Title I of the Act was classified generally to subchapter XXXI (§ 615aaa et seq.) of chapter 12 of Title 43, Public Lands, prior to its omission from the Code. See Codification notes under sections 615aaa to 615iii of Title 43. The Wilderness Act, referred to in subsec. (f)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables. The Colorado Wilderness Act of 1993, referred to in subsec. (f)(2), is Pub. L. 103–77, Aug. 13, 1993, 107 Stat. 756. For complete classification of this Act to the Code, see Short Title note set out under section 539i of this title and Tables.
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a)(2)(A), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs. Sections 461 to 467 of this title, referred to in subsec. (a)(2)(B), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54. The Reclamation Project Authorization Act of 1972, referred to in subsec. (d)(2), is Pub. L. 92–514, Oct. 20, 1972, 86 Stat. 964. Title I of the Act was classified generally to subchapter XXXI (§ 615aaa et seq.) of chapter 12 of Title 43, Public Lands, prior to its omission from the Code. See Codification notes under sections 615aaa to 615iii of Title 43. The Wilderness Act, referred to in subsec. (f)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables. The Colorado Wilderness Act of 1993, referred to in subsec. (f)(2), is Pub. L. 103–77, Aug. 13, 1993, 107 Stat. 756. For complete classification of this Act to the Code, see Short Title note set out under section 539i of this title and Tables.

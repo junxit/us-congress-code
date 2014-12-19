@@ -7,7 +7,7 @@ section: 410hh–2
 
 # § 410hh–2. Administration; hunting and subsistence uses; admission fees
 
-Subject to valid existing rights, the Secretary shall administer the lands, waters, and interests therein added to existing areas or established by the foregoing sections of this subchapter as new areas of the National Park System, pursuant to the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented, and, as appropriate, under section 3201 of this title and the other applicable provisions of this Act: Provided, however, That hunting shall be permitted in areas designated as national preserves under the provisions of this Act. Subsistence uses by local residents shall be allowed in national preserves and, where specifically permitted by this Act, in national monuments and parks. Lands, waters, and interests therein withdrawn or reserved for the former Katmai and Glacier Bay National Monuments are hereby incorporated within and made a part of Katmai National Park or Glacier Bay National Park, as appropriate. Any funds available for the purposes of such monuments are hereby made available for the purposes of Katmai National Park and Preserve or Glacier Bay National Park and Preserve, as appropriate. Notwithstanding any other provision of law, no fees shall be charged for entrance or admission to any unit of the National Park System located in Alaska.
+Subject to valid existing rights, the Secretary shall administer the lands, waters, and interests therein added to existing areas or established by the foregoing sections of this subchapter as new areas of the National Park System, pursuant to the provisions of sections 1, 2, 3, and 4 11 See References in Text note below. of this title, as amended and supplemented, and, as appropriate, under section 3201 of this title and the other applicable provisions of this Act: Provided, however, That hunting shall be permitted in areas designated as national preserves under the provisions of this Act. Subsistence uses by local residents shall be allowed in national preserves and, where specifically permitted by this Act, in national monuments and parks. Lands, waters, and interests therein withdrawn or reserved for the former Katmai and Glacier Bay National Monuments are hereby incorporated within and made a part of Katmai National Park or Glacier Bay National Park, as appropriate. Any funds available for the purposes of such monuments are hereby made available for the purposes of Katmai National Park and Preserve or Glacier Bay National Park and Preserve, as appropriate. Notwithstanding any other provision of law, no fees shall be charged for entrance or admission to any unit of the National Park System located in Alaska.
 
 ## Source credit
 
@@ -15,9 +15,11 @@ Subject to valid existing rights, the Secretary shall administer the lands, wate
 
 ## Notes
 
+1 See References in Text note below.
+
 ### References in Text
 
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs. This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 ### Environmental Impact Statement on Effects of 1996 Increases in Vessel Entries for Glacier Bay National Park and Preserve
 

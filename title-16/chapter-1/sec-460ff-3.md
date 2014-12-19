@@ -7,7 +7,7 @@ section: 460ff–3
 
 # § 460ff–3. Administration
 
-- **(a)** *Provisions applicable; utilization of authorities for conservation and management of wildlife and natural resources* The Secretary shall administer the park in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented. In the administration of the park, the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter.
+- **(a)** *Provisions applicable; utilization of authorities for conservation and management of wildlife and natural resources* The Secretary shall administer the park in accordance with the provisions of sections 1, 2, 3, and 4 11 See References in Text note below. of this title, as amended and supplemented. In the administration of the park, the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter.
 - **(b)** *Federal-State cooperative agreements for police and fire protection* The Secretary may enter into cooperative agreements with the State of Ohio, or any political subdivision thereof, for the rendering, on a reimbursable basis, of rescue, firefighting, and law enforcement services and cooperative assistance by nearby law enforcement and fire preventive agencies.
 - **(c)** *Water resource developments; restoration of vegetative cover to eliminate erosion*
   - **(1)** The authority of the Secretary of the Army to undertake or contribute to water resource development, including erosion control and flood control, on land or waters within the park shall be exercised in accordance with plans which are mutually acceptable to the Secretary of the Interior and the Secretary of the Army and which are consistent with both the purposes of this subchapter and the purposes of existing statutes dealing with water and related land resource development.
@@ -24,6 +24,12 @@ section: 460ff–3
 (Pub. L. 93–555, § 4, Dec. 27, 1974, 88 Stat. 1787; Pub. L. 95–625, title III, § 315(e), Nov. 10, 1978, 92 Stat. 3483; Pub. L. 99–658, title I, § 104(j)(1), Nov. 14, 1986, 100 Stat. 3677; Pub. L. 106–291, title I, § 149(c)(2), Oct. 11, 2000, 114 Stat. 956.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 
 ### Amendments
 
