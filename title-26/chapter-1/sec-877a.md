@@ -67,7 +67,7 @@ section: 877A
     - **(A)** the covered expatriate shall be treated as receiving a distribution of his entire interest in such account on the day before the expatriation date,
     - **(B)** no early distribution tax shall apply by reason of such treatment, and
     - **(C)** appropriate adjustments shall be made to subsequent distributions from the account to reflect such treatment.
-  - **(2)** *Specified tax deferred account* For purposes of paragraph (1), the term “specified tax deferred account” means an individual retirement plan (as defined in section 7701(a)(37)) other than any arrangement described in subsection (k) or (p) of section 408, a qualified tuition program (as defined in section 529), a Coverdell education savings account (as defined in section 530), a health savings account (as defined in section 223), and an Archer MSA (as defined in section 220).
+  - **(2)** *Specified tax deferred account* For purposes of paragraph (1), the term “specified tax deferred account” means an individual retirement plan (as defined in section 7701(a)(37)) other than any arrangement described in subsection (k) or (p) of section 408, a qualified tuition program (as defined in section 529), a qualified ABLE program (as defined in section 529A), a Coverdell education savings account (as defined in section 530), a health savings account (as defined in section 223), and an Archer MSA (as defined in section 220).
 - **(f)** *Special rules for nongrantor trusts*
   - **(1)** *In general* In the case of a distribution (directly or indirectly) of any property from a nongrantor trust to a covered expatriate—
     - **(A)** the trustee shall deduct and withhold from such distribution an amount equal to 30 percent of the taxable portion of the distribution, and
@@ -101,7 +101,7 @@ section: 877A
     - **(C)** the date the United States Department of State issues to the individual a certificate of loss of nationality, or
     - **(D)** the date a court of the United States cancels a naturalized citizen’s certificate of naturalization.
   - **(5)** *Long-term resident* The term “long-term resident” has the meaning given to such term by section 877(e)(2).
-  - **(6)** *Early distribution tax* The term “early distribution tax” means any increase in tax imposed under section 72(t), 220(e)(4),11 See References in Text note below. 223(f)(4), 409A(a)(1)(B), 529(c)(6), or 530(d)(4).
+  - **(6)** *Early distribution tax* The term “early distribution tax” means any increase in tax imposed under section 72(t), 220(e)(4),11 See References in Text note below. 223(f)(4), 409A(a)(1)(B), 529(c)(6), 529A(c)(3), or 530(d)(4).
 - **(h)** *Other rules*
   - **(1)** *Termination of deferrals, etc.* In the case of any covered expatriate, notwithstanding any other provision of this title—
     - **(A)** any time period for acquiring property which would result in the reduction in the amount of gain recognized with respect to property disposed of by the taxpayer shall terminate on the day before the expatriation date, and
@@ -112,7 +112,7 @@ section: 877A
 
 ## Source credit
 
-(Added Pub. L. 110–245, title III, § 301(a), June 17, 2008, 122 Stat. 1638.)
+(Added Pub. L. 110–245, title III, § 301(a), June 17, 2008, 122 Stat. 1638; amended Pub. L. 113–295, div. B, title I, § 102(e)(2), Dec. 19, 2014, 128 Stat. 4062.)
 
 ## Notes
 
@@ -125,6 +125,14 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 ### References in Text
 
 Section 220(e), referred to in subsec. (g)(6), does not contain a par. (4).
+
+### Amendments
+
+2014—Subsec. (e)(2). Pub. L. 113–295, § 102(e)(2)(A), inserted “a qualified ABLE program (as defined in section 529A),” after “529),”. Subsec. (g)(6). Pub. L. 113–295, § 102(e)(2)(B), inserted “529A(c)(3),” after “529(c)(6),”.
+
+### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 applicable to taxable years beginning after Dec. 31, 2014, see section 102(f)(1) of Pub. L. 113–295, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 ### Effective Date
 

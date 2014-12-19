@@ -22,11 +22,11 @@ section: 179E
   - **(5)** Comprehensive atmospheric monitoring system which monitors the levels of carbon monoxide, methane, and oxygen that are present in all areas of the mine and which can detect smoke in the case of a fire in a mine.
 - **(e)** *Coordination with section 179* No expenditures shall be taken into account under subsection (a) with respect to the portion of the cost of any property specified in an election under section 179.
 - **(f)** *Reporting* No deduction shall be allowed under subsection (a) to any taxpayer for any taxable year unless such taxpayer files with the Secretary a report containing such information with respect to the operation of the mines of the taxpayer as the Secretary shall require.
-- **(g)** *Termination* This section shall not apply to property placed in service after December 31, 2013.
+- **(g)** *Termination* This section shall not apply to property placed in service after December 31, 2014.
 
 ## Source credit
 
-(Added Pub. L. 109–432, div. A, title IV, § 404(a), Dec. 20, 2006, 120 Stat. 2955; amended Pub. L. 110–343, div. C, title III, § 311, Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, § 743(a), Dec. 17, 2010, 124 Stat. 3319; Pub. L. 112–240, title III, § 316(a), Jan. 2, 2013, 126 Stat. 2331.)
+(Added Pub. L. 109–432, div. A, title IV, § 404(a), Dec. 20, 2006, 120 Stat. 2955; amended Pub. L. 110–343, div. C, title III, § 311, Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, § 743(a), Dec. 17, 2010, 124 Stat. 3319; Pub. L. 112–240, title III, § 316(a), Jan. 2, 2013, 126 Stat. 2331; Pub. L. 113–295, div. A, title I, § 128(a), Dec. 19, 2014, 128 Stat. 4018.)
 
 ## Notes
 
@@ -36,7 +36,11 @@ The date of the enactment of this section, referred to in subsec. (c)(2), is the
 
 ### Amendments
 
-2013—Subsec. (g). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”. 2010—Subsec. (g). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”. 2008—Subsec. (g). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”.
+2014—Subsec. (g). Pub. L. 113–295 substituted “December 31, 2014” for “December 31, 2013”. 2013—Subsec. (g). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”. 2010—Subsec. (g). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”. 2008—Subsec. (g). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”.
+
+### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. A, title I, § 128(b), Dec. 19, 2014, 128 Stat. 4018, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2013.”
 
 ### Effective Date of 2013 Amendment
 

@@ -15,7 +15,7 @@ section: 426a
   - **(4)** is a resident of the United States (as defined in section 410(i) of this title), and is (A) a citizen of the United States or (B) an alien lawfully admitted for permanent residence who has resided in the United States (as so defined) continuously during the 5 years immediately preceding the month in which he files application under this section, and
   - **(5)** has filed an application under this section in such manner and in accordance with such other requirements as may be prescribed in regulations of the Secretary,
 - **(b)** *Persons ineligible* The provisions of subsection (a) of this section shall not apply to any individual who—
-  - **(1)** is, at the beginning of the first month in which he meets the requirements of subsection (a), a member of any organization referred to in section 410(a)(17) of this title,
+  - **(1)** is, at the beginning of the first month in which he meets the requirements of subsection (a), a member of any organization referred to in section 410(a)(17) 11 See References in Text note below. of this title,
   - **(2)** has, prior to the beginning of such first month, been convicted of any offense listed in section 402(u) of this title, or
   - **(3)**
     - **(A)** at the beginning of such first month is covered by an enrollment in a health benefits plan under chapter 89 of title 5,
@@ -32,9 +32,11 @@ section: 426a
 
 ## Notes
 
+1 See References in Text note below.
+
 ### References in Text
 
-Sections 228e(l) and 228s–2 of title 45, referred to in subsec. (a)(2), (3), are references to sections 5(l) and 21 of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. That Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. Sections 228e and 228s–2 of title 45 are covered by sections 231e and 231f of Title 45, respectively.
+Sections 228e(l) and 228s–2 of title 45, referred to in subsec. (a)(2), (3), are references to sections 5(l) and 21 of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. That Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. Sections 228e and 228s–2 of title 45 are covered by sections 231e and 231f of Title 45, respectively. Section 410(a)(17) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(99)(C)(ii), Dec. 19, 2014, 128 Stat. 4052.
 
 ### Codification
 

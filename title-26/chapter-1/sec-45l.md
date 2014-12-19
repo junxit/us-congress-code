@@ -39,11 +39,11 @@ section: 45L
   - **(2)** *Form* Any certification described in subsection (c) shall be made in writing in a manner which specifies in readily verifiable fashion the energy efficient building envelope components and energy efficient heating or cooling equipment installed and their respective rated energy efficiency performance.
 - **(e)** *Basis adjustment* For purposes of this subtitle, if a credit is allowed under this section in connection with any expenditure for any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined.
 - **(f)** *Coordination with investment credit* For purposes of this section, expenditures taken into account under section 47 or 48(a) shall not be taken into account under this section.
-- **(g)** *Termination* This section shall not apply to any qualified new energy efficient home acquired after December 31, 2013.
+- **(g)** *Termination* This section shall not apply to any qualified new energy efficient home acquired after December 31, 2014.
 
 ## Source credit
 
-(Added Pub. L. 109–58, title XIII, § 1332(a), Aug. 8, 2005, 119 Stat. 1024; amended Pub. L. 109–432, div. A, title II, § 205, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, § 11(a)(7), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title III, § 304, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 111–312, title VII, § 703(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, § 408(a), (b), Jan. 2, 2013, 126 Stat. 2342.)
+(Added Pub. L. 109–58, title XIII, § 1332(a), Aug. 8, 2005, 119 Stat. 1024; amended Pub. L. 109–432, div. A, title II, § 205, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, § 11(a)(7), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title III, § 304, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 111–312, title VII, § 703(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, § 408(a), (b), Jan. 2, 2013, 126 Stat. 2342; Pub. L. 113–295, div. A, title I, § 156(a), Dec. 19, 2014, 128 Stat. 4021.)
 
 ## Notes
 
@@ -53,7 +53,11 @@ The date of the enactment of this section, referred to in subsec. (b)(2)(B), is 
 
 ### Amendments
 
-2013—Subsec. (c)(1)(A)(i). Pub. L. 112–240, § 408(b), substituted “2006 International Energy Conservation Code, as such Code (including supplements) is in effect on January 1, 2006” for “2003 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section”. Subsec. (g). Pub. L. 112–240, § 408(a), substituted “December 31, 2013” for “December 31, 2011”. 2010—Subsec. (g). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”. 2008—Subsec. (g). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”. 2007—Subsec. (c)(2), (3). Pub. L. 110–172 substituted “part 3280” for “section 3280” in par. (2) and in introductory provisions of par. (3). 2006—Subsec. (g). Pub. L. 109–432 substituted “2008” for “2007”.
+2014—Subsec. (g). Pub. L. 113–295 substituted “December 31, 2014” for “December 31, 2013”. 2013—Subsec. (c)(1)(A)(i). Pub. L. 112–240, § 408(b), substituted “2006 International Energy Conservation Code, as such Code (including supplements) is in effect on January 1, 2006” for “2003 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section”. Subsec. (g). Pub. L. 112–240, § 408(a), substituted “December 31, 2013” for “December 31, 2011”. 2010—Subsec. (g). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”. 2008—Subsec. (g). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”. 2007—Subsec. (c)(2), (3). Pub. L. 110–172 substituted “part 3280” for “section 3280” in par. (2) and in introductory provisions of par. (3). 2006—Subsec. (g). Pub. L. 109–432 substituted “2008” for “2007”.
+
+### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. A, title I, § 156(b), Dec. 19, 2014, 128 Stat. 4022, provided that: “The amendment made by this section [amending this section] shall apply to homes acquired after December 31, 2013.”
 
 ### Effective Date of 2013 Amendment
 
