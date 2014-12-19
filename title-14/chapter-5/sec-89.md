@@ -29,7 +29,7 @@ Based on title 14, U.S.C., 1946 ed., §§ 45–47, 51, 52, 66, 67, 104, and on t
 
 ### Annual Report on Drug Interdiction
 
-Pub. L. 104–324, title I, § 103, Oct. 19, 1996, 110 Stat. 3905, as amended by Pub. L. 109–241, title IX, § 901(p)(1), July 11, 2006, 120 Stat. 565, provided that: “Not later than 30 days after the end of each fiscal year, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on all expenditures related to drug interdiction activities of the Coast Guard on an annual basis.”
+Pub. L. 104–324, title I, § 103, Oct. 19, 1996, 110 Stat. 3905, as amended by Pub. L. 109–241, title IX, § 901(p)(1), July 11, 2006, 120 Stat. 565, which required annual report to congressional committees on all expenditures related to drug interdiction activities of the Coast Guard, was repealed by Pub. L. 113–281, title II, § 221(a)(3), Dec. 18, 2014, 128 Stat. 3037.
 
 ### Enhanced Drug-Interdiction Assistance
 

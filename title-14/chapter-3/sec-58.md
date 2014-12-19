@@ -8,10 +8,13 @@ section: 58
 # § 58. Centers of expertise for Coast Guard prevention and response
 
 - **(a)** *Establishment.—* The Commandant of the Coast Guard may establish and operate one or more centers of expertise for prevention and response missions of the Coast Guard (in this section referred to as a “center”).
-- **(b)** *Missions.—* Each center shall—
-  - **(1)** promote and facilitate education, training, and research;
-  - **(2)** develop a repository of information on its missions and specialties; and
-  - **(3)** perform any other missions as the Commandant may specify.
+- **(b)** *Missions.—* Any center established under subsection (a) shall—
+  - **(1)** promote, facilitate, and conduct—
+    - **(A)** education;
+    - **(B)** training; and
+    - **(C)** activities authorized under section 93(a)(4);
+  - **(2)** be a repository of information on operations, practices, and resources related to the mission for which the center was established; and
+  - **(3)** perform and support the mission for which the center was established.
 - **(c)** *Joint Operation With Educational Institution Authorized.—* The Commandant may enter into an agreement with an appropriate official of an institution of higher education to—
   - **(1)** provide for joint operation of a center; and
   - **(2)** provide necessary administrative services for a center, including administration and allocation of funds.
@@ -24,4 +27,10 @@ section: 58
 
 ## Source credit
 
-(Added Pub. L. 111–281, title V, § 521(a), Oct. 15, 2010, 124 Stat. 2955.)
+(Added Pub. L. 111–281, title V, § 521(a), Oct. 15, 2010, 124 Stat. 2955; amended Pub. L. 113–281, title II, § 204, Dec. 18, 2014, 128 Stat. 3025.)
+
+## Notes
+
+### Amendments
+
+2014—Subsec. (b). Pub. L. 113–281 amended subsec. (b) generally. Prior to amendment, text read as follows: “Each center shall— “(1) promote and facilitate education, training, and research; “(2) develop a repository of information on its missions and specialties; and “(3) perform any other missions as the Commandant may specify.”

@@ -17,7 +17,7 @@ section: 88
   - **(2)** The Commandant shall make full use of all available and qualified resources, including the Coast Guard Auxiliary and individuals licensed by the Secretary pursuant to section 8904(b) of title 46, United States Code, in rendering aid under this subsection in nonemergency cases.
 - **(c)** An individual who knowingly and willfully communicates a false distress message to the Coast Guard or causes the Coast Guard to attempt to save lives and property when no help is needed is—
   - **(1)** guilty of a class D felony;
-  - **(2)** subject to a civil penalty of not more than $5,000; and
+  - **(2)** subject to a civil penalty of not more than $10,000; and
   - **(3)** liable for all costs the Coast Guard incurs as a result of the individual’s action.
 - **(d)** The Secretary shall establish a helicopter rescue swimming program for the purpose of training selected Coast Guard personnel in rescue swimming skills, which may include rescue diver training.
 - **(e)** An individual who knowingly and willfully operates a device with the intention of interfering with the broadcast or reception of a radio, microwave, or other signal (including a signal from a global positioning system) transmitted, retransmitted, or augmented by the Coast Guard for the purpose of maritime safety is—
@@ -26,7 +26,7 @@ section: 88
 
 ## Source credit
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 501; Pub. L. 91–278, § 1(3), June 12, 1970, 84 Stat. 304; Pub. L. 100–448, § 30(a), Sept. 28, 1988, 102 Stat. 1849; Pub. L. 101–595, title IV, § 401, Nov. 16, 1990, 104 Stat. 2989; Pub. L. 104–324, title II, § 213(a), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 112–213, title II, § 201, Dec. 20, 2012, 126 Stat. 1543.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 501; Pub. L. 91–278, § 1(3), June 12, 1970, 84 Stat. 304; Pub. L. 100–448, § 30(a), Sept. 28, 1988, 102 Stat. 1849; Pub. L. 101–595, title IV, § 401, Nov. 16, 1990, 104 Stat. 2989; Pub. L. 104–324, title II, § 213(a), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 112–213, title II, § 201, Dec. 20, 2012, 126 Stat. 1543; Pub. L. 113–281, title II, § 205(a)(4), Dec. 18, 2014, 128 Stat. 3025.)
 
 ## Notes
 
@@ -36,7 +36,7 @@ Derived from title 14, U.S.C., 1946 ed., §§ 29, 53, 55, 60, 61, 62, 63, 104, a
 
 ### Amendments
 
-2012—Subsec. (e). Pub. L. 112–213 added subsec. (e). 1996—Subsec. (d). Pub. L. 104–324 added subsec. (d). 1990—Subsec. (c). Pub. L. 101–595 added subsec. (c). 1988—Subsec. (b). Pub. L. 100–448 designated existing provisions as par. (1), substituted “Subject to paragraph (2), the Coast Guard” for “The Coast Guard”, and added par. (2). 1970—Subsec. (a). Pub. L. 91–278 substituted “on and under the high seas and on and under the waters” for “on the high seas and on waters” in introductory text.
+2014—Subsec. (c)(2). Pub. L. 113–281 substituted “$10,000” for “$5,000”. 2012—Subsec. (e). Pub. L. 112–213 added subsec. (e). 1996—Subsec. (d). Pub. L. 104–324 added subsec. (d). 1990—Subsec. (c). Pub. L. 101–595 added subsec. (c). 1988—Subsec. (b). Pub. L. 100–448 designated existing provisions as par. (1), substituted “Subject to paragraph (2), the Coast Guard” for “The Coast Guard”, and added par. (2). 1970—Subsec. (a). Pub. L. 91–278 substituted “on and under the high seas and on and under the waters” for “on the high seas and on waters” in introductory text.
 
 ### Transfer of Functions
 

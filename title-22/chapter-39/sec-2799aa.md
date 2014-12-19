@@ -11,7 +11,7 @@ section: 2799aa
   - **(1)** the supplying country and receiving country have reached agreement to place all such equipment, materials, or technology, upon delivery, under multilateral auspices and management when available; and
   - **(2)** the recipient country has entered into an agreement with the International Atomic Energy Agency to place all such equipment, materials, technology, and all nuclear fuel and facilities in such country under the safeguards system of such Agency.
 - **(b)** *Certification by President of necessity of continued assistance; disapproval by Congress*
-  - **(1)** Notwithstanding subsection (a) of this section, the President may furnish assistance which would otherwise be prohibited under such subsection if he determines and certifies in writing to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate that—
+  - **(1)** Notwithstanding subsection (a) of this section, the President may furnish assistance which would otherwise be prohibited under such subsection if he determines and certifies in writing to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate that—
     - **(A)** the termination of such assistance would have a serious adverse effect on vital United States interests; and
     - **(B)** he has received reliable assurances that the country in question will not acquire or develop nuclear weapons or assist other nations in doing so.
   - **(2)**
@@ -20,7 +20,7 @@ section: 2799aa
 
 ## Source credit
 
-(Pub. L. 90–629, ch. 10, § 101, as added Pub. L. 103–236, title VIII, § 826(a), Apr. 30, 1994, 108 Stat. 515.)
+(Pub. L. 90–629, ch. 10, § 101, as added Pub. L. 103–236, title VIII, § 826(a), Apr. 30, 1994, 108 Stat. 515; amended Pub. L. 113–276, title II, § 208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 
 ## Notes
 
@@ -31,6 +31,10 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 ### References to Sections 2429 and 2429a of This Title Deemed To Be References to Sections 2799aa and 2799aa–1 of This Title
 
 Pub. L. 103–236, title VIII, § 826(c), Apr. 30, 1994, 108 Stat. 519, provided that: “Any reference in law as of the date of enactment of this Act [Apr. 30, 1994] to section 669 or 670 of the Foreign Assistance Act of 1961 [former 22 U.S.C. 2429, 2429a] shall, after such date, be deemed to be a reference to section 101 or 102, as the case may be, of the Arms Export Control Act [22 U.S.C. 2799aa, 2799aa–1].”
+
+### Amendments
+
+2014—Subsec. (b)(1). Pub. L. 113–276 substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and” in introductory provisions.
 
 ### Effective Date
 
