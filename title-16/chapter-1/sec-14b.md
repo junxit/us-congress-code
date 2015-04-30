@@ -11,4 +11,4 @@ section: 14b
 
 ### removalDescription
 
-Section, act May 9, 1935, ch. 101, § 1, 49 Stat. 209, related to credits of receipts for meals and quarters furnished Government employees in the field. Provision was also set out as section 456a of this title. See section 103101(a) of Title 54, National Park Service and Related Programs.
+Section, act May 9, 1935, ch. 101, § 1, 49 Stat. 209, related to credits of receipts for meals and quarters furnished to Government employees in the field. Provision was also set out as section 456a of this title. See section 103101(a) of Title 54, National Park Service and Related Programs.

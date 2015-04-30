@@ -11,4 +11,4 @@ section: 7e
 
 ### removalDescription
 
-Section, act Mar. 18, 1950, ch. 72, § 5, 64 Stat. 28, provided definitions. See section 101501(a) of Title 54, National Park Service and Related Programs.
+Section, act Mar. 18, 1950, ch. 72, § 5, 64 Stat. 28, provided definitions for sections 7a to 7e. See section 101501(a) of Title 54, National Park Service and Related Programs.

@@ -11,7 +11,7 @@ Mount Rainier National Park shall be under the exclusive control of the Secretar
 
 ## Source credit
 
-(Mar. 2, 1899, ch. 377, § 2, 30 Stat. 994; June 12, 1917, ch. 27, § 1, 40 Stat. 153.)
+(Mar. 2, 1899, ch. 377, § 2, 30 Stat. 994.)
 
 ## Notes
 

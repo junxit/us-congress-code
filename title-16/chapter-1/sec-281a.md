@@ -12,7 +12,7 @@ To implement this purpose the Secretary of the Interior may designate as the Nez
 - **(1)** Tolo Lake, Idaho;
 - **(2)** Looking Glass’ 1877 Campsite, Idaho;
 - **(3)** Buffalo Eddy, Washington and Idaho;
-- **(4)** Traditional Crossing Near Doug Bar, Oregon and Idaho;
+- **(4)** Traditional Crossing Near Doug 11 So in original. Probably should be “Dug”. Bar, Oregon and Idaho;
 - **(5)** Camas Meadows Battle Sites, Idaho;
 - **(6)** Joseph Canyon Viewpoint, Oregon;
 - **(7)** Traditional Campsite at the Fork of the Lostine and Wallowa Rivers, Oregon;
@@ -29,6 +29,8 @@ each as described in the National Park Service document entitled “Nez Perce Na
 (Pub. L. 89–19, § 2, May 15, 1965, 79 Stat. 110; Pub. L. 102–576, § 2(2), Oct. 30, 1992, 106 Stat. 4770.)
 
 ## Notes
+
+1 So in original. Probably should be “Dug”.
 
 ### Amendments
 

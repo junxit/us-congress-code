@@ -11,4 +11,4 @@ section: 1j
 
 ### removalDescription
 
-Section, Pub. L. 110–229, title III, § 301, May 8, 2008, 122 Stat. 768, related to cooperative agreements for national park natural resource protection. See section 101702(d) of Title 54, National Park Service and Related Programs.
+Section, Pub. L. 110–229, title III, § 301, May 8, 2008, 122 Stat. 768, related to cooperative agreements for national park natural resource protection. Subsecs. (a) to (c) were repealed and restated in section 101702(d) of Title 54, National Park Service and Related Programs. Subsec. (d) authorized appropriations to carry out this section.

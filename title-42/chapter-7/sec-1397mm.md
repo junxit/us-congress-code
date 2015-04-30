@@ -8,7 +8,7 @@ section: 1397mm
 # § 1397mm. Grants to improve outreach and enrollment
 
 - **(a)** *Outreach and enrollment grants; national campaign*
-  - **(1)** *In general* From the amounts appropriated under subsection (g), subject to paragraph (2), the Secretary shall award grants to eligible entities during the period of fiscal years 2009 through 2015 to conduct outreach and enrollment efforts that are designed to increase the enrollment and participation of eligible children under this subchapter and subchapter XIX.
+  - **(1)** *In general* From the amounts appropriated under subsection (g), subject to paragraph (2), the Secretary shall award grants to eligible entities during the period of fiscal years 2009 through 2017 to conduct outreach and enrollment efforts that are designed to increase the enrollment and participation of eligible children under this subchapter and subchapter XIX.
   - **(2)** *Ten percent set aside for national enrollment campaign* An amount equal to 10 percent of such amounts shall be used by the Secretary for expenditures during such period to carry out a national enrollment campaign in accordance with subsection (h).
 - **(b)** *Priority for award of grants*
   - **(1)** *In general* In awarding grants under subsection (a), the Secretary shall give priority to eligible entities that—
@@ -53,7 +53,7 @@ section: 1397mm
     - **(D)** by providing culturally and linguistically appropriate health or nutrition education;
     - **(E)** by advocating for individual and community health or nutrition needs; and
     - **(F)** by providing referral and followup services.
-- **(g)** *Appropriation* There is appropriated, out of any money in the Treasury not otherwise appropriated, $140,000,000 for the period of fiscal years 2009 through 2015, for the purpose of awarding grants under this section. Amounts appropriated and paid under the authority of this section shall be in addition to amounts appropriated under section 1397dd of this title and paid to States in accordance with section 1397ee of this title, including with respect to expenditures for outreach activities in accordance with subsections (a)(1)(D)(iii) and (c)(2)(C) of that section.
+- **(g)** *Appropriation* There is appropriated, out of any money in the Treasury not otherwise appropriated, $140,000,000 for the period of fiscal years 2009 through 2015 and $40,000,000 for the period of fiscal years 2016 and 2017, for the purpose of awarding grants under this section. Amounts appropriated and paid under the authority of this section shall be in addition to amounts appropriated under section 1397dd of this title and paid to States in accordance with section 1397ee of this title, including with respect to expenditures for outreach activities in accordance with subsections (a)(1)(D)(iii) and (c)(2)(C) of that section.
 - **(h)** *National enrollment campaign* From the amounts made available under subsection (a)(2), the Secretary shall develop and implement a national enrollment campaign to improve the enrollment of underserved child populations in the programs established under this subchapter and subchapter XIX. Such campaign may include—
   - **(1)** the establishment of partnerships with the Secretary of Education and the Secretary of Agriculture to develop national campaigns to link the eligibility and enrollment systems for the assistance programs each Secretary administers that often serve the same children;
   - **(2)** the integration of information about the programs established under this subchapter and subchapter XIX in public health awareness campaigns administered by the Secretary;
@@ -64,7 +64,7 @@ section: 1397mm
 
 ## Source credit
 
-(Aug. 14, 1935, ch. 531, title XXI, § 2113, as added Pub. L. 111–3, title II, § 201(a), Feb. 4, 2009, 123 Stat. 35; amended Pub. L. 111–148, title X, § 10203(d)(2)(E), Mar. 23, 2010, 124 Stat. 931.)
+(Aug. 14, 1935, ch. 531, title XXI, § 2113, as added Pub. L. 111–3, title II, § 201(a), Feb. 4, 2009, 123 Stat. 35; amended Pub. L. 111–148, title X, § 10203(d)(2)(E), Mar. 23, 2010, 124 Stat. 931; Pub. L. 114–10, title III, § 303, Apr. 16, 2015, 129 Stat. 158.)
 
 ## Notes
 
@@ -76,7 +76,7 @@ The Indian Health Care Improvement Act, referred to in subsecs. (b)(2) and (f)(1
 
 ### Amendments
 
-2010—Subsec. (a)(1). Pub. L. 111–148, § 10203(d)(2)(E)(i), substituted “2015” for “2013”. Subsec. (g). Pub. L. 111–148, § 10203(d)(2)(E)(ii), substituted “$140,000,000 for the period of fiscal years 2009 through 2015” for “$100,000,000 for the period of fiscal years 2009 through 2013”.
+2015—Subsec. (a)(1). Pub. L. 114–10, § 303(1), substituted “2017” for “2015”. Subsec. (g). Pub. L. 114–10, § 303(2), inserted “and $40,000,000 for the period of fiscal years 2016 and 2017” after “2015”. 2010—Subsec. (a)(1). Pub. L. 111–148, § 10203(d)(2)(E)(i), substituted “2015” for “2013”. Subsec. (g). Pub. L. 111–148, § 10203(d)(2)(E)(ii), substituted “$140,000,000 for the period of fiscal years 2009 through 2015” for “$100,000,000 for the period of fiscal years 2009 through 2013”.
 
 ### Effective Date
 

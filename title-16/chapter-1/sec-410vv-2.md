@@ -7,7 +7,7 @@ section: 410vv–2
 
 # § 410vv–2. Administration
 
-- **(a)** *In general* The Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall administer the park in accordance with this subchapter, and laws generally applicable to units of the National Park System, including, but not limited to sections 1, 2, 3, and 4 11 See References in Text note below. of this title.
+- **(a)** *In general* The Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall administer the park in accordance with this subchapter, and laws generally applicable to units of the National Park System, including, but not limited to the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 (16 U.S.C. 1, 2–4).11 See References in Text note below.
 - **(b)** *Acquisition of lands*
   - **(1)** Except as provided in paragraph (2), the Secretary is authorized to acquire lands or interests therein within the park only by donation.
   - **(2)** If the Secretary determines that lands within the protection zone are being used, or there is an imminent threat that such lands will be used, for a purpose that is incompatible with the purposes of this subchapter, the Secretary may acquire such lands or interests therein by means other than donation.
@@ -27,7 +27,7 @@ section: 410vv–2
 
 ### References in Text
 
-Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+The Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 (16 U.S.C. 1, 2–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 ### Amendments
 

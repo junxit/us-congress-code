@@ -15,7 +15,7 @@ section: 469n
 
 ## Source credit
 
-(Pub. L. 111–11, title VII, § 7302, Mar. 30, 2009, 123 Stat. 1214; Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272
+(Pub. L. 111–11, title VII, § 7302, Mar. 30, 2009, 123 Stat. 1214; Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272.)
 
 ## Notes
 

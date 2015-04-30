@@ -5,7 +5,7 @@ chapter: 1
 section: 1a–11
 ---
 
-# § 1a–11. Repealed. Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 327
+# § 1a–11. Repealed. Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272
 
 ## Notes
 

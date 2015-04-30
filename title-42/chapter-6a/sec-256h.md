@@ -39,7 +39,7 @@ section: 256h
   - **(2)** shall not be taken into account in applying the limitation on the number of total full-time equivalent residents under subparagraphs (F) and (G) of section 1395ww(h)(4) of this title and clauses (v), (vi)(I), and (vi)(II) of section 1395ww(d)(5)(B) of this title for the portion of time that a resident rotates to a hospital; and
   - **(3)** shall not include the time in which a resident is counted toward full-time equivalency by a hospital under paragraph (2) or under section 1395ww(d)(5)(B)(iv) of this title, section 1395ww(h)(4)(E) of this title, or section 256e of this title.
 - **(f)** *Reconciliation* The Secretary shall determine any changes to the number of residents reported by a hospital in the application of the hospital for the current fiscal year to determine the final amount payable to the hospital for the current fiscal year for both direct expense and indirect expense amounts. Based on such determination, the Secretary shall recoup any overpayments made to pay any balance due to the extent possible. The final amount so determined shall be considered a final intermediary determination for the purposes of section 1395oo of this title and shall be subject to administrative and judicial review under that section in the same manner as the amount of payment under section 1395ww(d) 22 See References in Text note below. of this title is subject to review under such section.
-- **(g)** *Funding* To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015.
+- **(g)** *Funding* To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015 and $60,000,000 for each of fiscal years 2016 and 2017.
 - **(h)** *Annual reporting required*
   - **(1)** *Annual report* The report required under this paragraph for a qualified teaching health center for a fiscal year is a report that includes (in a form and manner specified by the Secretary) the following information for the residency academic year completed immediately prior to such fiscal year:
     - **(A)** The types of primary care resident approved training programs that the qualified teaching health center provided for residents.
@@ -65,7 +65,7 @@ section: 256h
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title III, § 340H, as added Pub. L. 111–148, title V, § 5508(c), Mar. 23, 2010, 124 Stat. 670.)
+(July 1, 1944, ch. 373, title III, § 340H, as added Pub. L. 111–148, title V, § 5508(c), Mar. 23, 2010, 124 Stat. 670; amended Pub. L. 114–10, title II, § 221(b), Apr. 16, 2015, 129 Stat. 154.)
 
 ## Notes
 
@@ -80,3 +80,7 @@ Section 4410 of the Balanced Budget Act of 1997, referred to in subsec. (c)(2)(A
 ### Codification
 
 Another section 340H of act July 1, 1944, ch. 373, as added by Pub. L. 111–148, title X, § 10333, March 23, 2010, 124 Stat. 970, is classified to section 256i of this title.
+
+### Amendments
+
+2015—Subsec. (g). Pub. L. 114–10 inserted “and $60,000,000 for each of fiscal years 2016 and 2017” before period at end.

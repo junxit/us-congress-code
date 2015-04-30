@@ -11,4 +11,4 @@ section: 56
 
 ### removalDescription
 
-Section, act July 1, 1916, ch. 209, § 1, 39 Stat. 308, related to donations of lands or rights-of-way. For general provisions relating to donations of lands, etc., see section 101101 of Title 54, National Park Service and Related Programs.
+Section, act July 1, 1916, ch. 209, § 1, 39 Stat. 308, related to donations of lands or rights-of-way.
