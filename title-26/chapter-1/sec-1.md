@@ -302,6 +302,10 @@ Pub. L. 89–809, title I, § 103(n), Nov. 13, 1966, 80 Stat. 1555, provided tha
 
 Pub. L. 88–272, title I, § 131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title [amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title] shall apply with respect to taxable years beginning after December 31, 1963.”
 
+### Short Title of 2015 Amendment
+
+Pub. L. 114–14, § 1, May 22, 2015, 129 Stat. 198, provided that: “This Act [amending section 104 of this title] may be cited as the ‘Don’t Tax Our Fallen Public Safety Heroes Act’.”
+
 ### Short Title of 2014 Amendment
 
 Pub. L. 113–295, div. A, § 1(a), Dec. 19, 2014, 128 Stat. 4010, provided that: “This division [see Tables for classification] may be cited as the ‘Tax Increase Prevention Act of 2014’.” Pub. L. 113–295, div. A, title II, § 201, Dec. 19, 2014, 128 Stat. 4024, provided that: “This title [see Tables for classification] may be cited as the ‘Tax Technical Corrections Act of 2014’.” Pub. L. 113–295, div. B, § 1(a), Dec. 19, 2014, 128 Stat. 4056, provided that: “This division [see Tables for classification] may be cited as the ‘Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014’ or the ‘Stephen Beck, Jr., ABLE Act of 2014’.” Pub. L. 113–168, § 1, Sept. 26, 2014, 128 Stat. 1883, provided that: “This Act [enacting section 139E of this title and provisions set out as notes under section 139E of this title] may be cited as the ‘Tribal General Welfare Exclusion Act of 2014’.” Pub. L. 113–94, § 1, Apr. 3, 2014, 128 Stat. 1085, provided that: “This Act [amending sections 9006, 9008, 9009, 9012, and 9037 of this title and sections 282 and 282a of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 282a of Title 42] may be cited as the ‘Gabriella Miller Kids First Research Act’.”

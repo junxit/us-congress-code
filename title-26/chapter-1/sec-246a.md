@@ -11,7 +11,7 @@ section: 246A
   - **(1)** 70 percent (80 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2)), and
   - **(2)** 100 percent minus the average indebtedness percentage.
 - **(b)** *Section not to apply to dividends for which 100 percent dividends received deduction allowable* Subsection (a) shall not apply to—
-  - **(1)** qualifying dividends (as defined in section 243(b) without regard to section 243(d)(4) 11 See References in Text note below.), and
+  - **(1)** qualifying dividends (as defined in section 243(b) without regard to section 243(d)(4)),11 See References in Text note below. and
   - **(2)** dividends received by a small business investment company operating under the Small Business Investment Act of 1958.
 - **(c)** *Debt financed portfolio stock* For purposes of this section—
   - **(1)** *In general* The term “debt financed portfolio stock” means any portfolio stock if at some time during the base period there is portfolio indebtedness with respect to such stock.
@@ -60,7 +60,7 @@ Section 243(d)(4), referred to in subsec. (b)(1), was repealed by Pub. L. 113–
 
 ### Effective Date of 2014 Amendment
 
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title. Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
+Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title. Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 ### Effective Date of 1988 Amendment
 
