@@ -9,7 +9,7 @@ section: 278s
 
 - **(a)** *Establishment of Network for Manufacturing Innovation Program*
   - **(1)** *In general* The Secretary shall establish within the Institute a program to be known as the “Network for Manufacturing Innovation Program” (referred to in this section as the “Program”).
-  - **(2)** *Purposes of program* The purposes of the Program are—
+  - **(2)** *Purposes of Program* The purposes of the Program are—
     - **(A)** to improve the competitiveness of United States manufacturing and to increase the production of goods manufactured predominantly within the United States;
     - **(B)** to stimulate United States leadership in advanced manufacturing research, innovation, and technology;
     - **(C)** to facilitate the transition of innovative technologies into scalable, cost-effective, and high-performing manufacturing capabilities;
@@ -25,7 +25,7 @@ section: 278s
 - **(b)** *Establishment of Network for Manufacturing Innovation*
   - **(1)** *In general* As part of the Program, the Secretary shall establish a network of centers for manufacturing innovation.
   - **(2)** *Designation* The network established under paragraph (1) shall be known as the “Network for Manufacturing Innovation” (referred to in this section as the “Network”).
-- **(c)** *Centers for Manufacturing Innovation*
+- **(c)** *Centers for manufacturing innovation*
   - **(1)** *In general* For purposes of this section, a “center for manufacturing innovation” is a center that—
     - **(A)** has been established by a person or group of persons to address challenges in advanced manufacturing and to assist manufacturers in retaining or expanding industrial production and jobs in the United States;
     - **(B)** has a predominant focus on a manufacturing process, novel material, enabling technology, supply chain integration methodology, or another relevant aspect of advanced manufacturing, such as nanotechnology applications, advanced ceramics, photonics and optics, composites, biobased and advanced materials, flexible hybrid technologies, and tool development for microelectronics;
@@ -43,7 +43,7 @@ section: 278s
   - **(3)** *Additional centers for manufacturing innovation*
     - **(A)** *In general* The National Additive Manufacturing Innovation Institute and other manufacturing centers formally recognized as manufacturing innovation centers pursuant to Federal law or executive actions, or under pending interagency review for such recognition as of December 16, 2014, shall be considered centers for manufacturing innovation, but such centers shall not receive any financial assistance under subsection (d).
     - **(B)** *Network participation* A manufacturing center that is substantially similar to those established under this subsection but that does not receive financial assistance under subsection (d) may, upon request of the center, be recognized as a center for manufacturing innovation by the Secretary for purposes of participation in the Network.
-- **(d)** *Financial Assistance to Establish and Support Centers for Manufacturing Innovation*
+- **(d)** *Financial assistance to establish and support centers for manufacturing innovation*
   - **(1)** *In general* In carrying out the Program, the Secretary shall award financial assistance to a person or group of persons to assist the organization in planning, establishing, or supporting a center for manufacturing innovation.
   - **(2)** *Application* A person or group of persons seeking financial assistance under paragraph (1) shall submit to the Secretary an application therefor at such time, in such manner, and containing such information as the Secretary may require. The application shall, at a minimum, describe the specific sources and amounts of non-Federal financial support for the center on the date financial assistance is sought, as well as the anticipated sources and amounts of non-Federal financial support during the period for which the center could be eligible for continued Federal financial assistance under this section.
   - **(3)** *Open process* In soliciting applications for financial assistance under paragraph (1), the Secretary shall ensure an open process that will allow for the consideration of all applications relevant to advanced manufacturing regardless of technology area.
@@ -92,25 +92,25 @@ section: 278s
     - **(E)** to establish a clearinghouse of public information related to the activities of the Program; and
     - **(F)** to act as a convener of the Network.
   - **(3)** *Recommendations* In developing and updating the strategic plan under paragraph (2)(C), the Secretary shall solicit recommendations and advice from a wide range of stakeholders, including industry, small and medium-sized manufacturing enterprises, research universities, community colleges, and other relevant organizations and institutions on an ongoing basis.
-  - **(4)** *Report to congress* Upon completion, the Secretary shall transmit the strategic plan required under paragraph (2)(C) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
-  - **(5)** *Hollings manufacturing extension partnership* The Secretary shall ensure that the National Program Office incorporates the Hollings Manufacturing Extension Partnership into Program planning to ensure that the results of the Program reach small and medium-sized entities.
+  - **(4)** *Report to Congress* Upon completion, the Secretary shall transmit the strategic plan required under paragraph (2)(C) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+  - **(5)** *Hollings Manufacturing Extension Partnership* The Secretary shall ensure that the National Program Office incorporates the Hollings Manufacturing Extension Partnership into Program planning to ensure that the results of the Program reach small and medium-sized entities.
   - **(6)** *Detailees* Any Federal Government employee may be detailed to the National Program Office without reimbursement. Such detail shall be without interruption or loss of civil service status or privilege.
-- **(g)** *Reporting and Auditing*
-  - **(1)** *Annual reports to the secretary*
+- **(g)** *Reporting and auditing*
+  - **(1)** *Annual reports to the Secretary*
     - **(A)** *In general* The Secretary shall require each recipient of financial assistance under subsection (d)(1) to annually submit a report to the Secretary that describes the finances and performance of the center for manufacturing innovation for which such assistance was awarded.
     - **(B)** *Elements* Each report submitted under subparagraph (A) shall include—
       - **(i)** an accounting of expenditures of amounts awarded to the recipient under subsection (d)(1); and
       - **(ii)** consistent with the metrics-based performance measures developed and implemented by the Secretary under this section, a description of the performance of the center for manufacturing innovation with respect to—
         - **(I)** its goals, plans, financial support, and accomplishments; and
         - **(II)** how the center for manufacturing innovation has furthered the purposes described in subsection (a)(2).
-  - **(2)** *Annual reports to congress*
+  - **(2)** *Annual reports to Congress*
     - **(A)** *In general* Not less frequently than once each year until December 31, 2024, the Secretary shall submit a report to Congress that describes the performance of the Program during the most recent 1-year period.
     - **(B)** *Elements* Each report submitted under subparagraph (A) shall include, for the period covered by the report—
       - **(i)** a summary and assessment of the reports received by the Secretary under paragraph (1);
       - **(ii)** an accounting of the funds expended by the Secretary under the Program, including any temporary exemptions granted from the requirements of subsection (d)(5)(C);
       - **(iii)** an assessment of the participation in, and contributions to, the Network by any centers for manufacturing innovation not receiving financial assistance under subsection (d)(1); and
       - **(iv)** an assessment of the Program with respect to meeting the purposes described in subsection (a)(2).
-  - **(3)** *Assessments by gao*
+  - **(3)** *Assessments by GAO*
     - **(A)** *Assessments* Not less frequently than once every 2 years, the Comptroller General shall submit to Congress an assessment of the operation of the Program during the most recent 2-year period.
     - **(B)** *Final assessment* Not later than December 31, 2024, the Comptroller General shall submit to Congress a final report regarding the overall success of the Program.
     - **(C)** *Elements* Each assessment submitted under subparagraph (A) or (B) shall include, for the period covered by the report—
@@ -118,7 +118,7 @@ section: 278s
       - **(ii)** an assessment of the extent to which the Program has furthered the purposes described in subsection (a)(2);
       - **(iii)** such recommendations for legislative and administrative action as the Comptroller General considers appropriate to improve the Program; and
       - **(iv)** an assessment as to whether any prior recommendations for improvement made by the Comptroller General have been implemented or adopted.
-- **(h)** *Additional Authorities*
+- **(h)** *Additional authorities*
   - **(1)** *Appointment of personnel and contracts* The Secretary may appoint such personnel and enter into such contracts, financial assistance agreements, and other agreements as the Secretary considers necessary or appropriate to carry out the Program, including support for research and development activities involving a center for manufacturing innovation.
   - **(2)** *Transfer of funds* Of amounts available under the authority provided by subsection (e), the Secretary may transfer to other Federal agencies such sums as the Secretary considers necessary or appropriate to carry out the Program. No funds so transferred may be used to reimburse or otherwise pay for the costs of financial assistance incurred or commitments of financial assistance made prior to December 16, 2014.
   - **(3)** *Authority of other agencies* In the event that the Secretary exercises the authority to transfer funds to another agency under paragraph (2), such agency may accept such funds to award and administer, under the same conditions and constraints applicable to the Secretary, all aspects of financial assistance awards under this section.
@@ -135,7 +135,7 @@ section: 278s
 
 ### References in Text
 
-The Revitalize American Manufacturing and Innovation Act of 2014, referred to in subsec.(e)(1), is title VII of div. B. of Pub. L. 113–235, Dec. 16, 2014, 128 Stat. 2220. For complete classification of this Act to the Code, see Short Title note under section 271 of this title and Tables.
+The Revitalize American Manufacturing and Innovation Act of 2014, referred to in subsec. (e)(1), is title VII of div. B. of Pub. L. 113–235, Dec. 16, 2014, 128 Stat. 2220. For complete classification of this Act to the Code, see Short Title note under section 271 of this title and Tables.
 
 ### Prior Provisions
 

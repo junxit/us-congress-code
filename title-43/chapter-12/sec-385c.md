@@ -1,0 +1,14 @@
+---
+identifier: /us/usc/t43/s385c
+title: 43
+chapter: 12
+section: 385c
+---
+
+# § 385c. Omitted
+
+## Notes
+
+### Codification
+
+Section, which related to tuition charge per pupil, was from the Interior Department Appropriation Act, 1949, act June 29, 1948, ch. 754, 62 Stat. 1125, and was not repeated in subsequent appropriation acts.
