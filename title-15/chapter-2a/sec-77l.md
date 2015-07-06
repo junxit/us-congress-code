@@ -10,7 +10,7 @@ section: 77l
 - **(a)** *In general* Any person who—
   - **(1)** offers or sells a security in violation of section 77e of this title, or
   - **(2)** offers or sells a security (whether or not exempted by the provisions of section 77c of this title, other than paragraphs (2) and (14) of subsection (a) of said section), by the use of any means or instruments of transportation or communication in interstate commerce or of the mails, by means of a prospectus or oral communication, which includes an untrue statement of a material fact or omits to state a material fact necessary in order to make the statements, in the light of the circumstances under which they were made, not misleading (the purchaser not knowing of such untruth or omission), and who shall not sustain the burden of proof that he did not know, and in the exercise of reasonable care could not have known, of such untruth or omission,
-- **(b)** *Loss causation* In an action described in subsection (a)(2) of this section, if the person who offered or sold such security proves that any portion or all of the amount recoverable under subsection (a)(2) of this section represents other than the depreciation in value of the subject security resulting from such part of the prospectus or oral communication, with respect to which the liability of that person is asserted, not being true or omitting to state a material fact required to be stated therein or necessary to make the statement not misleading, then such portion or amount, as the case may be, shall not be recoverable.
+- **(b)** *Loss causation* In an action described in subsection (a)(2), if the person who offered or sold such security proves that any portion or all of the amount recoverable under subsection (a)(2) represents other than the depreciation in value of the subject security resulting from such part of the prospectus or oral communication, with respect to which the liability of that person is asserted, not being true or omitting to state a material fact required to be stated therein or necessary to make the statement not misleading, then such portion or amount, as the case may be, shall not be recoverable.
 
 ## Source credit
 
@@ -20,7 +20,7 @@ section: 77l
 
 ### Amendments
 
-2000—Subsec. (a)(2). Pub. L. 106–554 substituted “paragraphs (2) and (14)” for “paragraph (2)”. 1995—Pub. L. 104–67 designated existing provisions as subsec. (a), inserted heading, inserted “, subject to subsection (b) of this section,” after “shall be liable” in concluding provisions, and added subsec. (b). 1954—Act Aug. 10, 1954, inserted “offers or” before “sells” in pars. (1) and (2).
+2000—Subsec. (a)(2). Pub. L. 106–554 substituted “paragraphs (2) and (14)” for “paragraph (2)”. 1995—Pub. L. 104–67 designated existing provisions as subsec. (a), inserted heading, inserted “, subject to subsection (b),” after “shall be liable” in concluding provisions, and added subsec. (b). 1954—Act Aug. 10, 1954, inserted “offers or” before “sells” in pars. (1) and (2).
 
 ### Effective Date of 1995 Amendment
 

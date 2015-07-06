@@ -11,7 +11,7 @@ section: 720k
   - **(1)** *Establishment* The Secretary of Labor (in this section referred to as the “Secretary”) shall make grants to the Alaska Workforce Investment Board—
     - **(A)** to recruit and train adult and dislocated workers in Alaska, including Alaska Natives, in the skills required to construct and operate an Alaska gas pipeline system; and
     - **(B)** for the design and construction of a training facility to be located in Fairbanks, Alaska, to support an Alaska gas pipeline training program.
-  - **(2)** *Coordination with existing programs* The training program established with the grants authorized under paragraph (1) shall be consistent with the vision and goals set forth in the State of Alaska Unified Plan, as developed pursuant to the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.).
+  - **(2)** *Coordination with existing programs* The training program established with the grants authorized under paragraph (1) shall be consistent with the vision and goals set forth in the State of Alaska unified plan or combined plan, as appropriate, as developed pursuant to section 3112 or 3113, as appropriate, of title 29.
 - **(b)** *Requirements for grants* The Secretary shall make a grant under subsection (a) only if—
   - **(1)** the Governor of the State of Alaska requests the grant funds and certifies in writing to the Secretary that there is a reasonable expectation that the construction of the Alaska natural gas pipeline system will commence by the date that is 2 years after the date of the certification; and
   - **(2)** the Secretary of Energy concurs in writing to the Secretary with the certification made under paragraph (1) after considering—
@@ -26,18 +26,10 @@ section: 720k
 
 ## Notes
 
-### Amendment of Subsection (a)(2)
-
-Pub. L. 113–128, title V, §§ 506, 512(c), July 22, 2014, 128 Stat. 1703, 1706, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a)(2) of this section is amended by striking “consistent with the vision and goals set forth in the State of Alaska Unified Plan, as developed pursuant to the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)” and inserting “consistent with the vision and goals set forth in the State of Alaska unified plan or combined plan, as appropriate, as developed pursuant to section 3112 or 3113, as appropriate, of title 29”. See 2014 Amendment note below.
-
-### References in Text
-
-The Workforce Investment Act of 1998, referred to in subsec. (a)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
-
 ### Amendments
 
 2014—Subsec. (a)(2). Pub. L. 113–128 substituted “consistent with the vision and goals set forth in the State of Alaska unified plan or combined plan, as appropriate, as developed pursuant to section 3112 or 3113, as appropriate, of title 29” for “consistent with the vision and goals set forth in the State of Alaska Unified Plan, as developed pursuant to the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)”.
 
 ### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.

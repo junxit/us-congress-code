@@ -60,7 +60,7 @@ For purposes of this subchapter:
 - **(20)** *Health disparity population.—* The term “health disparity population” has the meaning given such term in section 299a–1(d)(1) of this title.
 - **(21)** *Health literacy.—* The term “health literacy” means the degree to which an individual has the capacity to obtain, communicate, process, and understand health information and services in order to make appropriate health decisions.
 - **(22)** *Mental health service professional.—* The term “mental health service professional” means an individual with a graduate or postgraduate degree from an accredited institution of higher education in psychiatry, psychology, school psychology, behavioral pediatrics, psychiatric nursing, social work, school social work, substance abuse disorder prevention and treatment, marriage and family counseling, school counseling, or professional counseling.
-- **(23)** *One-stop delivery system center.—* The term “one-stop delivery system” means a one-stop delivery system described in section 2864(c) of title 29.
+- **(23)** *One-stop delivery system center.—* The term “one-stop delivery system” means a one-stop delivery system described in section 3151(e) of title 29.
 - **(24)** *Paraprofessional child and adolescent mental health worker.—* The term “paraprofessional child and adolescent mental health worker” means an individual who is not a mental or behavioral health service professional, but who works at the first stage of contact with children and families who are seeking mental or behavioral health services, including substance abuse prevention and treatment services.
 - **(25)** *Racial and ethnic minority group; racial and ethnic minority population.—* The terms “racial and ethnic minority group” and “racial and ethnic minority population” have the meaning given the term “racial and ethnic minority group” in section 300u–6 of this title.
 - **(26)** *Rural health clinic.—* The term “rural health clinic” has the meaning given that term in section 1395x(aa) of this title.
@@ -79,10 +79,6 @@ For purposes of this subchapter:
 
 4 So in original. The word “and” probably should appear.
 
-### Amendment of Paragraph (23)
-
-Pub. L. 113–128, title V, §§ 506, 512(z)(3), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], paragraph (23) of this section is amended by striking “one-stop delivery system described in section 2864(c) of title 29” and inserting “one-stop delivery system described in section 3151(e) of title 29”. See 2014 Amendment note below.
-
 ### References in Text
 
 The reference to section 254b of this title the first place appearing and the reference to section 254c of this title, referred to in par. (6)(B), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, § 2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title. Section 256a of this title, referred to in par. (6)(B), was repealed by Pub. L. 104–299, § 4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
@@ -93,7 +89,7 @@ The reference to section 254b of this title the first place appearing and the re
 
 ### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 ### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 

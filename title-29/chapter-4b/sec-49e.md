@@ -7,11 +7,11 @@ section: 49e
 
 # § 49e. Allotment of funds
 
-- **(a)** From the amounts appropriated pursuant to section 49d of this title for each fiscal year, the Secretary shall first allot to Guam and the Virgin Islands an amount which, in relation to the total amount available for the fiscal year, is equal to the allotment percentage which each received of amounts available under this chapter in fiscal year 1983.
+- **(a)** From the funds appropriated and (except for Guam) certified under section 49d of this title and made available for allotments under this section for each fiscal year, the Secretary shall first allot to Guam and the Virgin Islands an amount which, in relation to the total amount available for the fiscal year, is equal to the allotment percentage which each received of amounts available under this chapter in fiscal year 1983.
 - **(b)**
-  - **(1)** Subject to paragraphs (2), (3), and (4) of this subsection, the Secretary shall allot the remainder of the sums appropriated and certified pursuant to section 49d of this title for each fiscal year among the States as follows:
-    - **(A)** two-thirds of such sums shall be allotted on the basis of the relative number of individuals in the civilian labor force in each State as compared to the total number of such individuals in all States; and
-    - **(B)** one-third of such sums shall be allotted on the basis of the relative number of unemployed individuals in each State as compared to the total number of such individuals in all States.
+  - **(1)** Subject to paragraphs (2), (3), and (4) of this subsection, after making the allotments required by subsection (a), the Secretary shall allot the remainder of the funds described in subsection (a) for each fiscal year among the States as follows:
+    - **(A)** two-thirds of such remainder shall be allotted on the basis of the relative number of individuals in the civilian labor force in each State as compared to the total number of such individuals in all States; and
+    - **(B)** one-third of such remainder shall be allotted on the basis of the relative number of unemployed individuals in each State as compared to the total number of such individuals in all States.
   - **(2)** No State’s allotment under this section for any fiscal year shall be less than 90 percent of its allotment percentage for the fiscal year preceding the fiscal year for which the determination is made. For the purpose of this section, the Secretary shall determine the allotment percentage for each State (including Guam and the Virgin Islands) for fiscal year 1984 which is the percentage that the State received under this chapter for fiscal year 1983 of the total amounts available for payments to all States for such fiscal year. For each succeeding fiscal year, the allotment percentage for each such State shall be the percentage that the State received under this chapter for the preceding fiscal year of the total amounts available for allotments for all States for such fiscal year.
   - **(3)** For each fiscal year, no State shall receive a total allotment under paragraphs (1) and (2) which is less than 0.28 percent of the total amount available for allotments for all States.
   - **(4)** The Secretary shall reserve such amount, not to exceed 3 percent of the sums available for allotments under this section for each fiscal year, as shall be necessary to assure that each State will have a total allotment under this section sufficient to provide staff and other resources necessary to carry out employment service activities and related administrative and support functions on a statewide basis.
@@ -23,10 +23,6 @@ section: 49e
 
 ## Notes
 
-### Amendment of Section
-
-Pub. L. 113–128, title III, § 304, title V, § 506, July 22, 2014, 128 Stat. 1626, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows: (1) in subsection (a), by striking “amounts appropriated pursuant to section 49d of this title” and inserting “funds appropriated and (except for Guam) certified under section 49d of this title and made available for allotments under this section”; and (2) in subsection (b)(1): (A) in the matter preceding subparagraph (A), by inserting “after making the allotments required by subsection (a),” before “the Secretary” and by striking “sums” and all that follows through “this title” and inserting “funds described in subsection (a)”; (B) in each of subparagraphs (A) and (B), by striking “sums” and inserting “remainder”; and (C) by adding at the end “For purposes of this paragraph, the term ‘State’ does not include Guam or the Virgin Islands.” See 2014 Amendment notes below.
-
 ### Prior Provisions
 
 A prior section 49e, act June 6, 1933, ch. 49, § 6, 48 Stat. 115, related to apportionment of appropriations, and certification to Secretary of the Treasury, prior to repeal by act Sept. 8, 1950, ch. 933, § 3, 64 Stat. 823.
@@ -37,12 +33,16 @@ A prior section 49e, act June 6, 1933, ch. 49, § 6, 48 Stat. 115, related to ap
 
 ### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 ### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L. 105–220, set out as a note under section 49a of this title.
+Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L. 105–220, formerly set out as a note under section 49a of this title.
 
 ### Effective Date
 
 Section effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of section, see section 181(i) of Pub. L. 97–300, which was formerly classified to section 1591(i) of this title.
+
+### Definitions of Terms in Pub. L. 113–128
+
+Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
