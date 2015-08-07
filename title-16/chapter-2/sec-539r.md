@@ -27,7 +27,7 @@ section: 539r
       - **(i)** become part of the Conservation Management Area; and
       - **(ii)** be managed in accordance with—
         - **(I)** in the case of land managed by the Forest Service—
-          - **(aa)** the Act of March 1, 1911 (commonly known as the “Weeks Law”); and
+          - **(aa)** the Act of March 1, 1911 (commonly known as the “Weeks Law”) (16 U.S.C. 552 et seq.); and
           - **(bb)** any laws (including regulations) applicable to the National Forest System;
         - **(II)** in the case of land managed, by the Bureau of Land Management, the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.);
         - **(III)** this subsection; and
@@ -68,8 +68,10 @@ section: 539r
     - **(A)** *In general* The designation of the Conservation Management Area shall not create a protective perimeter or buffer zone around the Conservation Management Area.
     - **(B)** *Effect* The fact that activities or uses can be seen or heard from areas within the Conservation Management Area shall not preclude the conduct of the activities or uses outside the boundary of the Conservation Management Area.
 - **(c)** *Designation of wilderness additions*
-  - **(1)** *Omitted*
-  - **(2)** *Management of wilderness additions* Subject to valid existing rights, the land designated as wilderness additions by paragraph (1) 11 See Codification note below. shall be administered by the Secretary in accordance with the Wilderness Act (16 U.S.C. 1131 et seq.), except that any reference in that Act to the effective date of that Act shall be deemed to be a reference to December 19, 2014.
+  - **(1)** *In general* In accordance with the Wilderness Act (16 U.S.C. 1131 et seq.), the following Federal land in the State is designated as wilderness and as additions to existing components of the National Wilderness Preservation System:
+    - **(A)** *Bob Marshall Wilderness* Certain land in the Lewis and Clark National Forest, comprising approximately 50,401 acres, as generally depicted on the map, which shall be added to and administered as part of the Bob Marshall Wilderness designated under section 3 of the Wilderness Act (16 U.S.C. 1132).
+    - **(B)** *Scapegoat Wilderness* Certain land in the Lewis and Clark National Forest, comprising approximately 16,711 acres, as generally depicted on the map, which shall be added to and administered as part of the Scapegoat Wilderness designated by the first section of Public Law 92–395 (16 U.S.C. 1132 note).
+  - **(2)** *Management of wilderness additions* Subject to valid existing rights, the land designated as wilderness additions by paragraph (1) shall be administered by the Secretary in accordance with the Wilderness Act (16 U.S.C. 1131 et seq.), except that any reference in that Act to the effective date of that Act shall be deemed to be a reference to December 19, 2014.
   - **(3)** *Livestock* The grazing of livestock and the maintenance of existing facilities relating to grazing in the wilderness additions designated by this subsection, if established before December 19, 2014, shall be permitted to continue in accordance with—
     - **(A)** section 4(d)(4) of the Wilderness Act (16 U.S.C. 1133(d)(4)); and
     - **(B)** the guidelines set forth in the report of the Committee on Interior and Insular Affairs of the House of Representatives accompanying H.R. 5487 of the 96th Congress (H. Rept. 96–617).
@@ -117,12 +119,6 @@ section: 539r
 
 ## Notes
 
-1 See Codification note below.
-
 ### References in Text
 
-Act of March 1, 1911, referred to in subsec. (b)(1)(C)(ii)(I)(aa), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables. The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(1)(C)(ii)(II), (3)(A)(ii)(II), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables. The Wilderness Act, referred to in subsec. (c)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables. The Noxious Weed Control and Eradication Act of 2004, referred to in subsec. (e)(2)(E), is subtitle E (§§451–457) of title IV of Pub. L. 106–224, as added by Pub. L. 108–412, §1, Oct. 30, 2004, 118 Stat. 2320, which is classified generally to subchapter V (§ 7781 et seq.) of chapter 104 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 7 and Tables.
-
-### Codification
-
-Section is comprised of section 3065 of Pub. L. 113–291. Subsec. (c)(1) of section 3065 of Pub. L. 113–291 amended provisions listed in a table of Wilderness Areas set out under section 1132 of this title.
+The Act of March 1, 1911, referred to in subsec. (b)(1)(C)(ii)(I)(aa), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables. The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(1)(C)(ii)(II), (3)(A)(ii)(II), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables. The Wilderness Act, referred to in subsec. (c)(1), (2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables. The first section of Public Law 92–395, referred to in subsec. (c)(1)(B), enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title. The Noxious Weed Control and Eradication Act of 2004, referred to in subsec. (e)(2)(E), is subtitle E (§§451–457) of title IV of Pub. L. 106–224, as added by Pub. L. 108–412, §1, Oct. 30, 2004, 118 Stat. 2320, which is classified generally to subchapter V (§ 7781 et seq.) of chapter 104 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 7 and Tables.

@@ -46,7 +46,7 @@ section: 282a
 
 ### Amendments
 
-2014—Subsec. (a). Pub. L. 113–94, § 3(b)(1)(B), which directed amendment of subsec. (a) by striking “For purposes of carrying out this subchapter” and inserting par. (1) designation, heading, and “For purposes of carrying out this subchapter”, was executed by striking “For the purpose of carrying out this subchapter” and making the insertions as directed, to reflect the probable intent of Congress. Pub. L. 113–94, § 3(b)(1)(A), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned margins. Subsec. (a)(2). Pub. L. 113–94, § 3(b)(1)(C), added par. (2). Subsecs. (c)(1)(B), (D), (d). Pub. L. 113–94, § 3(b)(2), substituted “subsection (a)(1)” for “subsection (a)” wherever appearing.
+2014—Subsec. (a). Pub. L. 113–94, § 3(b)(1)(B), which directed amendment of subsec. (a) by striking “For purposes of carrying out this subchapter” and inserting par. (1) designation, heading, and “For purposes of carrying out this subchapter”, was executed by striking “For the purpose of carrying out this subchapter” and making the insertions as directed, to reflect the probable intent of Congress. Pub. L. 113–94, § 3(b)(1)(A), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned margins. Subsec. (a)(2). Pub. L. 113–94, § 3(b)(1)(C), added par. (2). Former par. (2) redesignated subpar. (B) of par. (1). Subsecs. (c)(1)(B), (D), (d). Pub. L. 113–94, § 3(b)(2), substituted “subsection (a)(1)” for “subsection (a)” wherever appearing.
 
 ### Effective Date
 

@@ -9,7 +9,7 @@ section: 718o
 
 In this subchapter:
 
-- **(1)** *Actual stamp* The term “actual stamp” means a Federal migratory-bird hunting and conservation stamp required under the Act of March 16, 1934 (16 U.S.C. 718a 11 See References in Text note below. et seq.) (popularly known as the “Duck Stamp Act”), that is printed on paper and sold through the means established by the authority of the Secretary immediately before December 18, 2014.
+- **(1)** *Actual stamp* The term “actual stamp” means a Federal migratory-bird hunting and conservation stamp required under the Act of March 16, 1934 (16 U.S.C. 718a et seq.) (popularly known as the “Duck Stamp Act”), that is printed on paper and sold through the means established by the authority of the Secretary immediately before December 18, 2014.
 - **(2)** *Automated licensing system*
   - **(A)** *In general* The term “automated licensing system” means an electronic, computerized licensing system used by a State fish and wildlife agency to issue hunting, fishing, and other associated licenses and products.
   - **(B)** *Inclusion* The term “automated licensing system” includes a point-of-sale, Internet, telephonic system, or other electronic applications used for a purpose described in subparagraph (A).
@@ -26,8 +26,6 @@ In this subchapter:
 (Pub. L. 113–239, § 2, Dec. 18, 2014, 128 Stat. 2847.)
 
 ## Notes
-
-1 See References in Text note below.
 
 ### References in Text
 

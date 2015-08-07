@@ -17,7 +17,7 @@ section: 90
 - **(c)** *Coordination by Committee on the Maritime Transportation System.—* The Committee on the Maritime Transportation System established under section 55501 of title 46, United States Code, shall coordinate the establishment of domestic transportation policies in the Arctic necessary to carry out the purpose of this section.
 - **(d)** *Agreements and Contracts.—* The Secretary may, subject to the availability of appropriations, enter into cooperative agreements, contracts, or other agreements with, or make grants to, individuals and governments to carry out the purpose of this section or any agreements established under subsection (b).
 - **(e)** *Icebreaking.—* The Secretary shall promote safe maritime navigation by means of icebreaking where necessary, feasible, and effective to carry out the purposes of this section.
-- **(f)** *Arctic Definition.—* In this section, the term “Arctic”?11 So in original. has the meaning given such term in section 112 of the Arctic Research and Policy Act of 1984 (15 U.S.C. 4111).
+- **(f)** *Arctic Definition.—* In this section, the term “Arctic”? 11 So in original. has the meaning given such term in section 112 of the Arctic Research and Policy Act of 1984 (15 U.S.C. 4111).
 
 ## Source credit
 

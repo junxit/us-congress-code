@@ -7,7 +7,7 @@ section: 410jjj–4
 
 # § 410jjj–4. Authorization of appropriations; general management plan
 
-- **(a)** *In general* The Secretary may not expend more than $35,500,000 from the Land and Water Conservation Fund for land acquisition nor more than $500,000 for the development of essential facilities. The Secretary may expend such additional sums as are necessary from the Land and Water Conservation Fund for acquisition of lands described in section 410jjj(b) of this title.
+- **(a)** *In general* The Secretary may not expend more than $60,500,000 from the Land and Water Conservation Fund for land acquisition nor more than $2,000,000 for the development of essential facilities. The Secretary may expend such additional sums as are necessary from the Land and Water Conservation Fund for acquisition of lands described in section 410jjj(b) of this title.
 - **(b)** *General management plan* Within three years from the effective date of this subchapter the Secretary shall, after consulting with the Governor of the State of South Carolina, develop and transmit to the Committees on Interior and Insular Affairs of the United States Congress a general management plan for the use and development of the park consistent with the purposes of this subchapter, indicating:
   - **(1)** the lands and interests in lands adjacent or related to the park which are deemed necessary or desirable for the purposes of resource protection, scenic integrity, or management and administration of the area in furtherance of the purposes of this subchapter, and the estimated cost thereof;
   - **(2)** the number of visitors and types of public use within the park which can be accommodated in accordance with the protection of its resources;
@@ -16,7 +16,7 @@ section: 410jjj–4
 
 ## Source credit
 
-(Pub. L. 94–545, § 5, Oct. 18, 1976, 90 Stat. 2518; Pub. L. 100–524, § 6, Oct. 24, 1988, 102 Stat. 2607; Pub. L. 108–108, title I, § 135, Nov. 10, 2003, 117 Stat. 1270.)
+(Pub. L. 94–545, § 5, Oct. 18, 1976, 90 Stat. 2518; Pub. L. 98–141, § 6, Oct. 31, 1983, 97 Stat. 909; Pub. L. 100–524, § 6, Oct. 24, 1988, 102 Stat. 2607; Pub. L. 108–108, title I, § 135, Nov. 10, 2003, 117 Stat. 1270.)
 
 ## Notes
 
@@ -26,7 +26,7 @@ The effective date of this subchapter, referred to in subsec. (b), probably mean
 
 ### Amendments
 
-1988—Subsec. (a). Pub. L. 100–524, § 6(a), inserted sentence at end relating to expenditure of additional sums for acquisition of lands. Subsec. (c). Pub. L. 100–524, § 6(b), added subsec. (c).
+1988—Subsec. (a). Pub. L. 100–524, § 6(a), inserted sentence at end relating to expenditure of additional sums for acquisition of lands. Subsec. (c). Pub. L. 100–524, § 6(b), added subsec. (c). 1983—Subsec. (a). Pub. L. 98–141 substituted “$60,500,000” for “$35,500,000” and “$2,000,000” for “$500,000”.
 
 ### Change of Name
 

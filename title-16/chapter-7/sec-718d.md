@@ -17,7 +17,7 @@ section: 718d
   - **(3)** *Conditions on use of funds* The Secretary may use funds made available under paragraph (2) for the purposes of that paragraph, and such other funds as may be appropriated for the purposes of that paragraph or this paragraph, to acquire, or defray the expense incident to the acquisition by gift, devise, lease, purchase, or exchange of, small wetland and pothole areas, interests therein, and rights-of-way to provide access thereto. Such small areas, to be designated as “Waterfowl Production Areas”, may be acquired without regard to the limitations and requirements of the Migratory Bird Conservation Act (16 U.S.C. 715 et seq.), but all of the provisions of such Act which govern the administration and protection of lands acquired thereunder, except the inviolate sanctuary provisions of such Act, shall be applicable to areas acquired pursuant to this paragraph.
   - **(4)** *Conservation easements* Amounts in the subaccount referred to in subsection (a)(3) shall be used by the Secretary solely to acquire easements in real property in the United States for conservation of migratory birds.
 - **(c)** *Promotion of stamp sales* The Secretary may use funds from the sale of Migratory Bird Hunting and Conservation Stamps, not to exceed $1,000,000 in each of fiscal years 1999, 2000, 2001, 2002, and 2003, for the promotion of additional sales of those stamps, in accordance with a Migratory Bird Conservation Commission approved annual marketing plan. Such promotion shall include the preparation of reports, brochures, or other appropriate materials to be made available to the public that describe the benefits to wildlife derived from stamp sales.
-- **(d)** *Annual report* The Secretary shall include in each annual report of the Commission under section 3 11 See References in Text note below. of the Migratory Bird Conservation Act (16 U.S.C. 715b)—
+- **(d)** *Annual report* The Secretary shall include in each annual report of the Commission under section 3 of the Migratory Bird Conservation Act (16 U.S.C. 715b)—
   - **(1)** a description of activities conducted under subsection (c) in the year covered by the report;
   - **(2)** an annual assessment of the status of wetlands conservation projects for migratory bird conservation purposes, including a clear and accurate accounting of—
     - **(A)** all expenditures by Federal and State agencies under this section; and
@@ -34,11 +34,9 @@ section: 718d
 
 ## Notes
 
-1 See References in Text note below.
-
 ### References in Text
 
-The Migratory Bird Conservation Act, referred to in subsecs. (b)(2), (3) and (d), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. Section 3 of the Act was classified to section 715b of this title and was omitted from the Code. For complete classification of this Act to the Code, see section 715 of this title and Tables.
+The Migratory Bird Conservation Act, referred to in subsec. (b)(2), (3), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
 ### Amendments
 

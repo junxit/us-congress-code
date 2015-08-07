@@ -11,7 +11,7 @@ section: 469k
 
 ### removalDescription
 
-Section, Pub. L. 104–333, div. I, title VI, § 604, Nov. 12, 1996, 110 Stat. 4173; Pub. L. 107–359, § 3, Dec. 17, 2002, 116 Stat. 3016, known as the American Battlefield Protection Act of 1996, established the American Battlefield Protection Program. See sections 308101 to 308103 of Title 54, National Park Service and Related Programs.
+Section, Pub. L. 104–333, div. I, title VI, § 604, Nov. 12, 1996, 110 Stat. 4173; Pub. L. 107–359, § 3, Dec. 17, 2002, 116 Stat. 3016, known as the American Battlefield Protection Act of 1996, established the American Battlefield Protection Program.
 
 ### Short Title of 2002 Amendment
 

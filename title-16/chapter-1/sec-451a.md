@@ -11,4 +11,4 @@ section: 451a
 
 ### removalDescription
 
-Section, act Sept. 14, 1950, ch. 950, § 1, 64 Stat. 849, limited further extension or establishment of national parks in Wyoming. See section 104907 of Title 54, National Park Service and Related Programs.
+Section, act Sept. 14, 1950, ch. 950, § 1 (part), 64 Stat. 849, limited further extension or establishment of national parks in Wyoming. See section 104907 of Title 54, National Park Service and Related Programs. Section comprised only part of the last sentence of section 1 of act Sept. 14, 1950. The remainder of such section, except that part of the last sentence which repealed sections 406 to 406d of this title, was classified to section 406d–1 and former section 431a of this title.

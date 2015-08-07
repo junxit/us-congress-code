@@ -82,7 +82,7 @@ section: 1395lll
     - **(E)** Accurately communicating the existence of and providing for the transfer of health information and care preferences of an individual to the individual, family caregiver of the individual, and providers of services furnishing items and services to the individual, when the individual transitions—
       - **(i)** from a hospital or critical access hospital to another applicable setting, including a PAC provider or the home of the individual; or
       - **(ii)** from a PAC provider to another applicable setting, including a different PAC provider, a hospital, a critical access hospital, or the home of the individual.
-  - **(2)** *Reporting through pac assessment instruments*
+  - **(2)** *Reporting through PAC assessment instruments*
     - **(A)** *In general* To the extent possible, the Secretary shall require such reporting by a PAC provider of quality measures under paragraph (1) through the use of a PAC assessment instrument and shall modify such PAC assessment instrument as necessary to enable the use of such instrument with respect to such quality measures.
     - **(B)** *Limitation* The Secretary may not make significant modifications to a PAC assessment instrument more than once per calendar year or fiscal year, as applicable, unless the Secretary publishes in the Federal Register a justification for such significant modification.
   - **(3)** *Adjustments*
@@ -139,8 +139,8 @@ section: 1395lll
   - **(3)** *Clarification* Such regulations shall not require an individual to be provided post-acute care by a specific type of PAC provider in order for such care to be eligible for payment under this subchapter.
 - **(j)** *Stakeholder input* Before the initial rulemaking process to implement this section, the Secretary shall allow for stakeholder input, such as through town halls, open door forums, and mail-box submissions.
 - **(k)** *Funding* For purposes of carrying out this section, the Secretary shall provide for the transfer to the Centers for Medicare & Medicaid Services Program Management Account, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, of $130,000,000. Fifty percent of such amount shall be available on October 6, 2014, and fifty percent of such amount shall be equally proportioned for each of fiscal years 2015 through 2019. Such sums shall remain available until expended.
-- **(l)** *Limitation* There shall be no administrative or judicial review under sections 1395ff and 1395oo or otherwise of the specification of standardized patient assessment data required, the determination of measures, and the systems to report such standardized data under this section.
-- **(m)** *Non-application of paperwork reduction actChapter 35 of title 44, United States Code (commonly referred to as the “Paperwork Reduction Act of 1995”) shall not apply to this section and the sections referenced in subsection (a)(2)(B) that require modification in order to achieve the standardization of patient assessment data.*
+- **(l)** *Limitation* There shall be no administrative or judicial review under sections 1395ff and 1395oo of this title or otherwise of the specification of standardized patient assessment data required, the determination of measures, and the systems to report such standardized data under this section.
+- **(m)** *Non-application of Paperwork Reduction act* Chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act of 1995”) shall not apply to this section and the sections referenced in subsection (a)(2)(B) that require modification in order to achieve the standardization of patient assessment data.
 
 ## Source credit
 

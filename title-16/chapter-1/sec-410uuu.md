@@ -39,7 +39,7 @@ section: 410uuu
       - **(v)** the Hanford Irrigation District Pump House; and
       - **(vi)** the T Plant (221–T Process Building).
 - **(d)** *Agreement*
-  - **(1)** *In general* Not later than 1 year after December 19, 2014, the Secretary and the Secretary of Energy (acting through the Oak Ridge, Los Alamos, and Richland site offices) shall enter into an agreement governing the respective roles of the Secretary and the Secretary of Energy in administering the facilities, land, or interests in land under the administrative jurisdiction of the Department of Energy that is to be included in the Historical Park under subsection (c)(2), including provisions for enhanced public access, management, interpretation, and historic preservation.
+  - **(1)** *In general* Not later than 1 year after December 19, 2014, the Secretary and the Secretary of Energy (acting through the Oak Ridge, Los Alamos, and Richland site offices) shall enter into an agreement governing the respective roles of the Secretary and the Secretary of Energy in administering the facilities, land, or interests in land under the administrative jurisdiction of the Department of Energy that is 11 So in original. Probably should be “are”. to be included in the Historical Park under subsection (c)(2), including provisions for enhanced public access, management, interpretation, and historic preservation.
   - **(2)** *Responsibilities of the Secretary* Any agreement under paragraph (1) shall provide that the Secretary shall—
     - **(A)** have decisionmaking authority for the content of historic interpretation of the Manhattan Project for purposes of administering the Historical Park; and
     - **(B)** ensure that the agreement provides an appropriate advisory role for the National Park Service in preserving the historic resources covered by the agreement.
@@ -60,8 +60,8 @@ section: 410uuu
   - **(1)** *In general* The Secretary shall administer the Historical Park in accordance with—
     - **(A)** this section; and
     - **(B)** the laws generally applicable to units of the National Park System, including—
-      - **(i)** the National Park System Organic Act (16 U.S.C. 1 et seq.); 11 See References in Text note below. and
-      - **(ii)** the Act of August 21, 1935 (16 U.S.C. 461 et seq.).1
+      - **(i)** the National Park System Organic Act (16 U.S.C. 1 et seq.); 22 See References in Text note below. and
+      - **(ii)** the Act of August 21, 1935 (16 U.S.C. 461 et seq.).2
   - **(2)** *General management plan* Not later than 3 years after the date on which funds are made available to carry out this subsection, the Secretary, with the concurrence of the Secretary of Energy, with respect to land administered by the Secretary of Energy, and in consultation and collaboration with the Oak Ridge, Los Alamos and Richland Department of Energy site offices, shall complete a general management plan for the Historical Park in accordance with section 100502 of title 54.
   - **(3)** *Interpretive tours* The Secretary may, subject to applicable law, provide interpretive tours of historically significant Manhattan Project sites and resources in the States of Tennessee, New Mexico, and Washington that are located outside the boundary of the Historical Park.
   - **(4)** *Land acquisition*
@@ -89,12 +89,14 @@ section: 410uuu
 
 ## Notes
 
-1 See References in Text note below.
+1 So in original. Probably should be “are”.
+
+2 See References in Text note below.
 
 ### References in Text
 
-The National Park System Organic Act (16 U.S.C. 1 et seq.), referred to in subsec. (f)(1)(B)(i), probably means the National Park Service Organic Act, act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54. The Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (f)(1)(B)(ii), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The National Park System Organic Act (16 U.S.C. 1 et seq.), referred to in subsec. (f)(1)(B)(i), probably means the National Park Service Organic Act, act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54. The Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (f)(1)(B)(ii), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 ### Codification
 
-In subsec. (f)(2), “section 100502 of title 54” substituted for “section 12(b) of Public Law 91–383 (commonly known as the National Park Service General Authorities Act; 16 U.S.C. 1a–7(b))”, meaning “section 12(b) of Public Law 91–383 (commonly known as the National Park System General Authorities Act; 16 U.S.C. 1a–7(b))”, on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+In subsec. (f)(2), “section 100502 of title 54” substituted for “section 12(b) of Public Law 91–383 (commonly known as the National Park Service General Authorities Act; 16 U.S.C. 1a–7(b))” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.

@@ -50,7 +50,7 @@ section: 539p
         - **(II)** make a cash payment to the United States; or
         - **(III)** use a combination of the methods described in subclauses (I) and (II), as agreed to by Resolution Copper, the Secretary, and the Secretary of the Interior.
       - **(ii)** *Amount of payment* The Secretary may accept a payment in excess of 25 percent of the total value of the land or interests conveyed, notwithstanding section 206(b) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716(b)).
-      - **(iii)** *Disposition and use of proceeds* Any amounts received by the United States under this subparagraph shall be deposited in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”; 16 U.S.C. 484a) and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
+      - **(iii)** *Disposition and use of proceeds* Any amounts received by the United States under this subparagraph shall be deposited in the fund established under section 484a of this title and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
     - **(C)** *Surplus of non-Federal land* If the final appraised value of the non-Federal land exceeds the value of the Federal land—
       - **(i)** the United States shall not make a payment to Resolution Copper to equalize the value; and
       - **(ii)** except as provided in subsection (h), the surplus value of the non-Federal land shall be considered to be a donation by Resolution Copper to the United States.
@@ -92,7 +92,7 @@ section: 539p
         - **(I)** become part of the national forest in which the land is located; and
         - **(II)** be administered in accordance with the laws applicable to the National Forest System.
       - **(ii)** *Boundary revision* On the acquisition of land by the Secretary under this section, the boundaries of the national forest shall be modified to reflect the inclusion of the acquired land.
-      - **(iii)** *Land and Water Conservation Fund* For purposes of section 460l–9 of this title, the boundaries of a national forest in which land acquired by the Secretary is located shall be deemed to be the boundaries of that forest as in existence on January 1, 1965.
+      - **(iii)** *Land and Water Conservation Fund* For purposes of sections 100506(c) and 200306 of title 54, the boundaries of a national forest in which land acquired by the Secretary is located shall be deemed to be the boundaries of that forest as in existence on January 1, 1965.
     - **(B)** *Land acquired by the Secretary of the Interior*
       - **(i)** *San Pedro National 11 So in original. The word “Riparian” probably should precede “National”. Conservation Area*
         - **(I)** *In general* The land acquired by the Secretary of the Interior under paragraph (1)(B)(i) shall be added to, and administered as part of, the San Pedro National 1 Conservation Area in accordance with the laws (including regulations) applicable to the Conservation Area.
@@ -138,7 +138,7 @@ section: 539p
     - **(B)** The reversionary interest and any reserved mineral interest of the United States in the approximately 265 acres of land located in Pinal County, Arizona, as depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Reversionary Interest–Superior Airport” and dated March 2011.
     - **(C)** The approximately 250 acres of land located in Pinal County, Arizona, as depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Parcel–Superior Airport Contiguous Parcels” and dated March 2011.
   - **(2)** *Payment* The Town shall pay to the Secretary the market value for each parcel of land or interest in land acquired under this subsection, as determined by appraisals conducted in accordance with subsection (c)(4).
-  - **(3)** *Sisk Act* Any payment received by the Secretary from the Town under this subsection shall be deposited in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”) (16 U.S.C. 484a) and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
+  - **(3)** *Sisk Act* Any payment received by the Secretary from the Town under this subsection shall be deposited in the fund established under section 484a of this title and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
   - **(4)** *Terms and conditions* The conveyances under this subsection shall be subject to such terms and conditions as the Secretary may require.
 - **(i)** *Miscellaneous provisions*
   - **(1)** *Revocation of orders; withdrawal*
@@ -164,3 +164,7 @@ section: 539p
 ### References in Text
 
 Enactment of this Act, referred to in subsec. (c)(6)(A), means the enactment of Pub. L. 113–291, which was approved Dec. 19, 2014. The National Environmental Policy Act of 1969, referred to in subsec. (c)(9), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables. The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2)(B)(ii), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables. The Geothermal Steam Act of 1970, referred to in subsec. (i)(1)(B), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
+
+### Codification
+
+In subsec. (d)(2)(A)(iii), “sections 100506(c) and 200306 of title 54” substituted for “section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–9) [sic]” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.

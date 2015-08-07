@@ -15,7 +15,7 @@ section: 460aaaa
   - **(E)** *Nellis Dunes Off-Highway Recreation Area* The term “Nellis Dunes Off-Highway Recreation Area” means the approximately 10,035 acres of land identified on the Map as “Nellis Dunes OHV Recreation Area”.
   - **(F)** *Secretary* The term “Secretary” means the Secretary of the Interior.
   - **(G)** *State* The term “State” means the State of Nevada.
-- **(2)** *Conveyance of Federal land to county*
+- **(2)** *Conveyance of Federal land to County*
   - **(A)** *In general* As soon as practicable after December 19, 2014, the Secretary shall convey to the County, subject to valid existing rights and subparagraph (B), without consideration, all right, title, and interest of the United States in and to the Clark County Off-Highway Vehicle Recreation Park.
   - **(B)** *Reservation of mineral estate* In conveying the parcels of Federal land under subparagraph (A), the Secretary shall reserve the mineral estate, except for purposes related to flood mitigation (including removal from aggregate flood events).
   - **(C)** *Use of conveyed land*

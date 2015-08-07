@@ -27,4 +27,4 @@ section: 544n
 
 ### Amendments
 
-2014—Subsec. (a)(1). Pub. L. 113–287 substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund (16 U.S.C. 460l–4 and following)”.
+2014—Subsec. (a)(1). Pub. L. 113–287, which directed amendment of par. (1) by substituting “chapter 2003 of title 54” for “the Land and Water Conservation Fund (16 U.S.C. 460l–4 and following)”, was executed by making the substitution for “the Land and Water Conservation Fund (16 U.S.C. 4601–4 and following)”, to reflect the probable intent of Congress.

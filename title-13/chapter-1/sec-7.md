@@ -21,4 +21,4 @@ Based on title 13, U.S.C., 1952 ed., § 213, and section 1442 of title 42, U.S.C
 
 ### Change of Name
 
-“Director of the Government Publishing Office” substituted for “Public Printer” in section catchline and text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents.
+“Director of the Government Publishing Office” substituted for “Public Printer” in section catchline and in two places in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents.
