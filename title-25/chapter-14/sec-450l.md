@@ -8,10 +8,10 @@ section: 450l
 # § 450l. Contract or grant specifications
 
 - **(a)** *Terms* Each self-determination contract entered into under this subchapter shall—
-  - **(1)** contain, or incorporate by reference, the provisions of the model agreement described in subsection (c) of this section (with modifications where indicated and the blanks appropriately filled in), and
+  - **(1)** contain, or incorporate by reference, the provisions of the model agreement described in subsection (c) (with modifications where indicated and the blanks appropriately filled in), and
   - **(2)** contain such other provisions as are agreed to by the parties.
 - **(b)** *Payments; Federal records* Notwithstanding any other provision of law, the Secretary may make payments pursuant to section 1(b)(6) of such model agreement. As provided in section 1(b)(7) of the model agreement, the records of the tribal government or tribal organization specified in such section shall not be considered Federal records for purposes of chapter 5 of title 5.
-- **(c)** *Model agreement* The model agreement referred to in subsection (a)(1) of this section reads as follows:
+- **(c)** *Model agreement* The model agreement referred to in subsection (a)(1) reads as follows:
 
 ## Source credit
 

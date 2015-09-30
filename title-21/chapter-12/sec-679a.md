@@ -44,4 +44,4 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
 ### Prior Provisions
 
-A prior section 410 of act Mar. 4, 1907, was renumbered section 411, and is classified to section 680 of this title. Use of Appropriated Funds For prohibition of use of funds appropriated by div. A of Pub. L. 113–235 or any other Act to carry out this section see section 741 Pub. L. 113–235, set out as a note under section 471 of this title.
+A prior section 410 of act Mar. 4, 1907, was renumbered section 411, and is classified to section 680 of this title. Use of Appropriated Funds For prohibition of use of funds appropriated by div. A of Pub. L. 113–235 or any other Act to carry out this section, see section 741 Pub. L. 113–235, set out as a note under section 471 of this title.
