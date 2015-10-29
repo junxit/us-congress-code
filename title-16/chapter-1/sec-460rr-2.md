@@ -19,7 +19,7 @@ section: 460rr–2
 - **(d)** *Mining and mineral leasing laws* Subject to valid existing rights, all Federal lands within the national recreation area are hereby withdrawn from location, entry, and patent under the United States mining laws, and from disposition under all laws pertaining to mineral and geothermal leasing and all amendments thereto.
 - **(e)** *State responsibilities with respect to wildlife and fish unaffected* Nothing in this subchapter shall be construed as affecting the jurisdiction or responsibilities of the State of Nebraska with respect to wildlife and fish in the national recreation area.
 - **(f)** *Comprehensive management plan* Within eighteen months after October 20, 1986, the Secretary shall develop and submit to the Committee on Interior and Insular Affairs and the Committee on Agriculture of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a comprehensive management plan for the national recreation area designated by this subchapter.
-- **(g)** *Public participation in development of management plan* In conducting the reviews and preparing the comprehensive management plan required by subsection (d) 11 So in original. Probably should be subsection “(f)”. of this section, the Secretary shall provide for full public participation, and shall consider the views of all interested agencies, organizations, and individuals.
+- **(g)** *Public participation in development of management plan* In conducting the reviews and preparing the comprehensive management plan required by subsection (d),11 So in original. Probably should be “subsection (f),”. the Secretary shall provide for full public participation, and shall consider the views of all interested agencies, organizations, and individuals.
 
 ## Source credit
 
@@ -27,7 +27,7 @@ section: 460rr–2
 
 ## Notes
 
-1 So in original. Probably should be subsection “(f)”.
+1 So in original. Probably should be “subsection (f),”.
 
 ### References in Text
 

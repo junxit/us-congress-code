@@ -34,7 +34,7 @@ section: 777m
   - **(2)** *Nongovernmental organizations*
     - **(A)** *In general* Any nongovernmental organization that applies for a grant under this section shall submit with the application to the International Association of Fish and Wildlife Agencies a certification that the organization—
       - **(i)** will not use the grant funds to fund, in whole or in part, any activity of the organization that promotes or encourages opposition to the regulated taking of fish; and
-      - **(ii)** will use the grant funds in compliance with subsection (d) of this section.
+      - **(ii)** will use the grant funds in compliance with subsection (d).
     - **(B)** *Penalties for certain activities* Any nongovernmental organization that is found to use grant funds in violation of subparagraph (A) shall return all funds received under this section and be subject to any other applicable penalties under law.
 - **(d)** *Use of grants* A grant under this section shall not be used, in whole or in part, for an activity, project, or program that promotes or encourages opposition to the regulated taking of fish.
 - **(e)** *Funding for other activities* Of amounts made available under section 777c(b) of this title for each fiscal year—

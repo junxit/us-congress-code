@@ -28,7 +28,7 @@ section: 450jj–6
   - **(15)** Three individuals appointed by the Secretary of the Interior from a list of individuals nominated by the mayor of Saint Louis, Missouri, and the Governor of the State of Missouri.
 - **(c)** *Term of office of members*
   - **(1)** Except as provided in paragraphs (2) and (3), members of the Commission shall be appointed for terms of three years.
-  - **(2)** Of the members of the Commission first appointed under paragraphs (14) and (15) of subsection (c) 11 So in original. Probably should be “subsection (b)”. of this section—
+  - **(2)** Of the members of the Commission first appointed under paragraphs (14) and (15) of subsection (c)— 11 So in original. Probably should be “subsection (b)—”.
     - **(A)** two shall be appointed for terms of one year;
     - **(B)** two shall be appointed for terms of two years; and
     - **(C)** two shall be appointed for terms of three years;
@@ -47,6 +47,6 @@ section: 450jj–6
 
 ## Notes
 
-1 So in original. Probably should be “subsection (b)”.
+1 So in original. Probably should be “subsection (b)—”.
 
 2 So in original. Probably should be “of”.

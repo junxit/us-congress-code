@@ -15,7 +15,7 @@ section: 971g
   - **(2)** In the event a State does not request a formal hearing and after notice by the Secretary, the regulations promulgated pursuant to this chapter to implement recommendations of the Commission shall apply within the boundaries of any State bordering on any Convention area if the Secretary determines that any such State—
     - **(A)** has not, within a reasonable period of time after the promulgation of regulations pursuant to this chapter, enacted laws or promulgated regulations which implement any such recommendation of the Commission within the boundaries of such State; or
     - **(B)** has enacted laws or promulgated regulations which (i) are less restrictive than the regulations promulgated pursuant to this chapter, or (ii) are not effectively enforced.
-- **(e)** *Continuing review of State laws and regulations* To insure that the purposes of subsection (d) of this section are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (d) of this section applies or may apply and the extent to which such laws and regulations are enforced.
+- **(e)** *Continuing review of State laws and regulations* To insure that the purposes of subsection (d) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (d) applies or may apply and the extent to which such laws and regulations are enforced.
 
 ## Source credit
 

@@ -11,7 +11,7 @@ section: 410eee–2
 - **(b)** *Boundaries* The historical park shall be comprised of the following:
   - **(1)** All property administered by the National Park Service in the Adams National Historic Site as of November 2, 1998, as well as all property previously authorized to be acquired by the Secretary for inclusion in the Adams National Historic Site, as generally depicted on the map entitled “Adams National Historical Park”, numbered NERO 386/80,000, and dated April 1998.
   - **(2)** All property authorized to be acquired for inclusion in the historical park by this subchapter or other law enacted after November 2, 1998.
-- **(c)** *Visitor and administrative sites* To preserve the historical character and landscape of the main features of the historical park, the Secretary may acquire up to 10 acres for the development of visitor, administrative, museum, curatorial, and maintenance facilities adjacent to or in the general proximity of the property depicted on the map identified in subsection (b)(1)(A) 11 So in original. Probably should be subsection “(b)(1)”. of this section.
+- **(c)** *Visitor and administrative sites* To preserve the historical character and landscape of the main features of the historical park, the Secretary may acquire up to 10 acres for the development of visitor, administrative, museum, curatorial, and maintenance facilities adjacent to or in the general proximity of the property depicted on the map identified in subsection (b)(1)(A).11 So in original. Probably should be “subsection (b)(1).”
 - **(d)** *Map* The map of the historical park shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
 ## Source credit
@@ -20,4 +20,4 @@ section: 410eee–2
 
 ## Notes
 
-1 So in original. Probably should be subsection “(b)(1)”.
+1 So in original. Probably should be “subsection (b)(1).”

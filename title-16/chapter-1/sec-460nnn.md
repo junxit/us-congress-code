@@ -9,9 +9,9 @@ section: 460nnn
 
 In this subchapter:
 
-- **(1)** *Advisory council* The term “advisory council” means the Steens Mountain Advisory Council established by part D of this subchapter.11 See References in Text note below.
+- **(1)** *Advisory council* The term “advisory council” means the Steens Mountain Advisory Council established by part D.11 See References in Text note below.
 - **(2)** *Cooperative management agreement* An agreement to plan or implement (or both) cooperative recreation, ecological, grazing, fishery, vegetation, prescribed fire, cultural site protection, wildfire or other measures to beneficially meet public use needs and the public land and private land objectives of this subchapter.
-- **(3)** *Cooperative Management and Protection Area* The term “Cooperative Management and Protection Area” means the Steens Mountain Cooperative Management and Protection Area designated by part A of this subchapter.
+- **(3)** *Cooperative Management and Protection Area* The term “Cooperative Management and Protection Area” means the Steens Mountain Cooperative Management and Protection Area designated by part A.
 - **(4)** *Easements*
   - **(A)** *Conservation easement* The term “conservation easement” means a binding contractual agreement between the Secretary and a landowner in the Cooperative Management and Protection Area under which the landowner, permanently or during a time period specified in the agreement, agrees to conserve or restore habitat, open space, scenic, or other ecological resource values on the land covered by the easement.
   - **(B)** *Nondevelopment easement* The term “nondevelopment easement” means a binding contractual agreement between the Secretary and a landowner in the Cooperative Management and Protection Area that will, permanently or during a time period specified in the agreement—
@@ -24,7 +24,7 @@ In this subchapter:
 - **(7)** *Redband Trout Reserve* The term “Redband Trout Reserve” means the Donner und Blitzen Redband Trout Reserve designated by section 460nnn–72 of this title.
 - **(8)** *Secretary* The term “Secretary” means the Secretary of the Interior, acting through the Bureau of Land Management.
 - **(9)** *Science committee* The term “science committee” means the committee of independent scientists appointed under section 460nnn–53 of this title.
-- **(10)** *Wilderness Area* The term “Wilderness Area” means the Steens Mountain Wilderness Area designated by part B of this subchapter.
+- **(10)** *Wilderness Area* The term “Wilderness Area” means the Steens Mountain Wilderness Area designated by part B.
 
 ## Source credit
 
@@ -36,7 +36,7 @@ In this subchapter:
 
 ### References in Text
 
-This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables. Part D of this subchapter, referred to in par. (1), probably should be a reference to subpart 4 of part A of this subchapter. Part D of this subchapter does not relate to the Steens Mountain Advisory Council.
+This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables. Part D, referred to in par. (1), was in the original “title IV”, meaning title IV of Pub. L. 106–399, but probably should have been a reference to subtitle D of title I of that Act, which is classified generally to subpart 4 of part A of this subchapter. Part D of this subchapter does not relate to the Steens Mountain Advisory Council.
 
 ### Short Title
 
