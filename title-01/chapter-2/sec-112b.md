@@ -21,7 +21,7 @@ section: 112b
     - **(A)** An arrangement shall constitute an international agreement within the meaning of this section (other than subsection (c)) irrespective of the duration of activities under the arrangement or the arrangement itself.
     - **(B)** Arrangements that constitute an international agreement within the meaning of this section (other than subsection (c)) include the following:
       - **(i)** A bilateral or multilateral counterterrorism agreement.
-      - **(ii)** A bilateral agreement with a country that is subject to a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), section 620A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2371(a)), or section 40(d) of the Arms Export Control Act (22 U.S.C. 2780(d)).
+      - **(ii)** A bilateral agreement with a country that is subject to a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)),11 See References in Text note below. section 620A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2371(a)), or section 40(d) of the Arms Export Control Act (22 U.S.C. 2780(d)).
 - **(f)** The President shall, through the Secretary of State, promulgate such rules and regulations as may be necessary to carry out this section.
 
 ## Source credit
@@ -29,6 +29,12 @@ section: 112b
 (Added Pub. L. 92–403, § 1, Aug. 22, 1972, 86 Stat. 619; amended Pub. L. 95–45, § 5, June 15, 1977, 91 Stat. 224; Pub. L. 95–426, title VII, § 708, Oct. 7, 1978, 92 Stat. 993; Pub. L. 103–437, § 1, Nov. 2, 1994, 108 Stat. 4581; Pub. L. 108–458, title VII, § 7121(b)–(d), Dec. 17, 2004, 118 Stat. 3807, 3808.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), was classified to section 2405(j)(1)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4605(j)(1)(A) of Title 50.
 
 ### Amendments
 

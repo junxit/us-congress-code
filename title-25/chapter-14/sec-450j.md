@@ -23,7 +23,7 @@ section: 450j
         - **(II)** Section 6101 of title 41.
         - **(III)** Section 9(c) 22 See References in Text note below. of the Act of Aug. 2, 1946 (60 Stat. 809, chapter 744).
         - **(IV)** Division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
-        - **(V)** Section 13 of the Act of Oct. 3, 1944 (58 Stat. 770; chapter 479) [50 U.S.C. App. 1622].
+        - **(V)** Section 13 of the Act of Oct. 3, 1944 (58 Stat. 770; chapter 479) [40 U.S.C. 545 note].
         - **(VI)** Chapters 21, 25, 27, 29, and 31 of title 44.
         - **(VII)** Section 3145 of title 40.
         - **(VIII)** Chapter 65 of title 41.

@@ -25,7 +25,7 @@ R.S. § 4067 derived from act July 6, 1798, ch. 66, § 1, 1 Stat. 577.
 
 ### World War II Proclamations
 
-The following proclamations under this section were issued during World War II: Proc. No. 2525, Dec. 7, 1941, 6 F.R. 6321, 55 Stat. Pt. 2, 1700. Proc. No. 2526, Dec. 8, 1941, 6 F.R. 6323, 55 Stat. Pt. 2, 1705. Proc. No. 2527, Dec. 8, 1941, 6 F.R. 6324, 55 Stat. Pt. 2, 1707. Proc. No. 2533, Dec. 29, 1941, 7 F.R. 55, 55 Stat. Pt. 2, 1714. Proc. No. 2537, Jan. 14, 1942, 7 F.R. 329, 56 Stat. Pt. 2, 1933, revoked by Proc. No. 2678, Dec. 29, 1945, 11 F.R. 221, 60 Stat. Pt. 2, 1336. Proc. No. 2563, July 17, 1942, 7 F.R. 5535, 56 Stat. Pt. 2, 1970. Proc. No. 2655, July 14, 1945, 10 F.R. 8947, 59 Stat. Pt. 2, 870. Proc. No. 2674, Dec. 7, 1945, 10 F.R. 14945, 59 Stat. Pt. 2, 889. Proc. No. 2685, Apr. 11, 1946, 11 F.R. 4079, 60 Stat. Pt. 2, 1342, set out as a note preceding section 1 of Appendix to this title.
+The following proclamations under this section were issued during World War II: Proc. No. 2525, Dec. 7, 1941, 6 F.R. 6321, 55 Stat. Pt. 2, 1700. Proc. No. 2526, Dec. 8, 1941, 6 F.R. 6323, 55 Stat. Pt. 2, 1705. Proc. No. 2527, Dec. 8, 1941, 6 F.R. 6324, 55 Stat. Pt. 2, 1707. Proc. No. 2533, Dec. 29, 1941, 7 F.R. 55, 55 Stat. Pt. 2, 1714. Proc. No. 2537, Jan. 14, 1942, 7 F.R. 329, 56 Stat. Pt. 2, 1933, revoked by Proc. No. 2678, Dec. 29, 1945, 11 F.R. 221, 60 Stat. Pt. 2, 1336. Proc. No. 2563, July 17, 1942, 7 F.R. 5535, 56 Stat. Pt. 2, 1970. Proc. No. 2655, July 14, 1945, 10 F.R. 8947, 59 Stat. Pt. 2, 870. Proc. No. 2674, Dec. 7, 1945, 10 F.R. 14945, 59 Stat. Pt. 2, 889. Proc. No. 2685, Apr. 11, 1946, 11 F.R. 4079, 60 Stat. Pt. 2, 1342, set out as a note preceding section 1 of this title.
 
 ### World War I Proclamations
 
