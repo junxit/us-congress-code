@@ -30,7 +30,18 @@ section: 360ccc–2
   - **(2)** If an application filed pursuant to section 360b of this title or section 360ccc of this title is approved for a designated new animal drug, the Secretary may, during the 7-year exclusivity period beginning on the date of the application approval or conditional approval, approve or conditionally approve another application under section 360b of this title or section 360ccc of this title for such drug for such minor use or minor species for another applicant if—
     - **(A)** the Secretary finds, after providing the holder of such an approved application notice and opportunity for the submission of views, that in the granted exclusivity period the holder of the approved application cannot assure the availability of sufficient quantities of the drug to meet the needs for which the drug was designated; or
     - **(B)** such holder provides written consent to the Secretary for the approval or conditional approval of other applications before the expiration of such exclusivity period.
+  - **(3)** For purposes of determining the 7-year period of exclusivity under paragraph (1) for a drug for which the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act [21 U.S.C. 801 et seq.], the drug shall not be considered approved or conditionally approved until the date that the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act [21 U.S.C. 811(j)].
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 573, as added Pub. L. 108–282, title I, § 102(b)(4), Aug. 2, 2004, 118 Stat. 900.)
+(June 25, 1938, ch. 675, § 573, as added Pub. L. 108–282, title I, § 102(b)(4), Aug. 2, 2004, 118 Stat. 900; amended Pub. L. 114–89, § 2(a)(4), Nov. 25, 2015, 129 Stat. 700.)
+
+## Notes
+
+### References in Text
+
+The Controlled Substances Act, referred to in subsec. (c)(3), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+
+### Amendments
+
+2015—Subsec. (c)(3). Pub. L. 114–89 added par. (3).
