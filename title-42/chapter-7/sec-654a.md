@@ -48,10 +48,11 @@ section: 654a
   - **(4)** *Intrastate and interstate information comparisons* Exchanging information with other agencies of the State, agencies of other States, and interstate information networks, as necessary and appropriate to carry out (or assist other States to carry out) the purposes of this part.
   - **(5)** *Private industry councils receiving welfare-to-work grants* Disclosing to a private industry council (as defined in section 603(a)(5)(D)(ii) of this title) to which funds are provided under section 603(a)(5) of this title the names, addresses, telephone numbers, and identifying case number information in the State program funded under part A of this subchapter, of noncustodial parents residing in the service delivery area of the private industry council, for the purpose of identifying and contacting noncustodial parents regarding participation in the program under section 603(a)(5) of this title.
 - **(g)** *Collection and distribution of support payments*
-  - **(1)** *In general* The State shall use the automated system required by this section, to the maximum extent feasible, to assist and facilitate the collection and disbursement of support payments through the State disbursement unit operated under section 654b of this title, through the performance of functions, including, at a minimum—
+  - **(1)** *In general* The State shall use the automated system required by this section to assist and facilitate the collection and disbursement of support payments through the State disbursement unit operated under section 654b of this title, through the performance of functions, including, at a minimum—
     - **(A)** transmission of orders and notices to employers (and other debtors) for the withholding of income—
-      - **(i)** within 2 business days after receipt of notice of, and the income source subject to, such withholding from a court, another State, an employer, the Federal Parent Locator Service, or another source recognized by the State; and
-      - **(ii)** using uniform formats prescribed by the Secretary;
+      - **(i)** within 2 business days after receipt of notice of, and the income source subject to, such withholding from a court, another State, an employer, the Federal Parent Locator Service, or another source recognized by the State;
+      - **(ii)** using uniform formats prescribed by the Secretary; and
+      - **(iii)** at the option of the employer, using the electronic transmission methods prescribed by the Secretary;
     - **(B)** ongoing monitoring to promptly identify failures to make timely payment of support; and
     - **(C)** automatic use of enforcement procedures (including procedures authorized pursuant to section 666(c) of this title) if payments are not timely made.
   - **(2)** *“Business day” defined* As used in paragraph (1), the term “business day” means a day on which State offices are open for regular business.
@@ -62,10 +63,6 @@ section: 654a
 (Aug. 14, 1935, ch. 531, title IV, § 454A, as added and amended Pub. L. 104–193, title III, §§ 311, 312(c), 325(b), 344(a)(2), Aug. 22, 1996, 110 Stat. 2205, 2208, 2226, 2235; Pub. L. 105–34, title X, § 1090(a)(1), Aug. 5, 1997, 111 Stat. 961; Pub. L. 106–113, div. B, § 1000(a)(4) [title VIII, § 805(a)(1)], Nov. 29, 1999, 113 Stat. 1535, 1501A–285; Pub. L. 113–183, title III, § 306(a), Sept. 29, 2014, 128 Stat. 1949.)
 
 ## Notes
-
-### Amendment of Subsection (g)(1)
-
-Pub. L. 113–183, title III, § 306, Sept. 29, 2014, 128 Stat. 1949, provided that, effective Oct. 1, 2015, subsection (g)(1) of this section is amended as follows: (1) by striking “, to the maximum extent feasible,”; and (2) in subparagraph (A)— (A) by striking “and” at the end of clause (i); (B) by adding “and” at the end of clause (ii); and (C) by adding at the end the following: “(iii) at the option of the employer, using the electronic transmission methods prescribed by the Secretary;”. See 2014 Amendment notes below.
 
 ### References in Text
 

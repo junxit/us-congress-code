@@ -8,7 +8,7 @@ section: 129a
 # § 129a. General policy for total force management
 
 - **(a)** *Policies and Procedures.—* The Secretary of Defense shall establish policies and procedures for determining the most appropriate and cost efficient mix of military, civilian, and contractor personnel to perform the mission of the Department of Defense.
-- **(b)** *Risk Mitigation Over Cost.—* In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces (as identified pursuant to section 118b of this title) takes precedence over cost.
+- **(b)** *Risk Mitigation Over Cost.—* In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces (as identified pursuant to section 118b 11 See References in Text note below. of this title) takes precedence over cost.
 - **(c)** *Delegation of Responsibilities.—* The Secretary shall delegate responsibility for implementation of the policies and procedures established under subsection (a) as follows:
   - **(1)** The Under Secretary of Defense for Personnel and Readiness shall have overall responsibility for guidance to implement such policies and procedures.
   - **(2)** The Secretaries of the military departments and the heads of the Defense Agencies shall have overall responsibility for the requirements determination, planning, programming, and budgeting for such policies and procedures.
@@ -36,6 +36,12 @@ section: 129a
 (Added Pub. L. 101–510, div. A, title XIV, § 1483(b)(2), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 112–81, div. A, title IX, § 931(a), Dec. 31, 2011, 125 Stat. 1541.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Section 118b of this title, referred to in subsec. (b), was repealed by Pub. L. 113–291, div. A, title X, § 1072(b)(1), Dec. 19, 2014, 128 Stat. 3516.
 
 ### Prior Provisions
 
