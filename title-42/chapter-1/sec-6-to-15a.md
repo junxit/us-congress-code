@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t42/s6...15a
 title: 42
 chapter: 1
 section: 6 to 15a

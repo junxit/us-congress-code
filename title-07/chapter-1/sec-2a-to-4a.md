@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t7/s2a...4a
 title: 7
 chapter: 1
 section: 2a to 4a

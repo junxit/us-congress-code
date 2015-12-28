@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t42/s242f...242j
 title: 42
 chapter: 6A
 section: 242f to 242j

@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t42/s293n...293p
 title: 42
 chapter: 6A
 section: 293n to 293p

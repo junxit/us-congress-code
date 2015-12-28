@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t47/s84a /us/usc/t47/s84b
 title: 47
 chapter: 4
 section: 84a, 84b

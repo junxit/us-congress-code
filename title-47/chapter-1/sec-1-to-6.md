@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t47/s1...6
 title: 47
 chapter: 1
 section: 1 to 6

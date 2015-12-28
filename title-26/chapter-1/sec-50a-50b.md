@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t26/s50A /us/usc/t26/s50B
 title: 26
 chapter: 1
 section: 50A, 50B

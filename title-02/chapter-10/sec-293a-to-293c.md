@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t2/s293a...293c
 title: 2
 chapter: 10
 section: 293a to 293c

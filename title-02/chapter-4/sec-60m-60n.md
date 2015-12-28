@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t2/s60m /us/usc/t2/s60n
 title: 2
 chapter: 4
 section: 60m, 60n

@@ -65,8 +65,8 @@ section: 139b
     - **(A)** A discussion of the extent to which the major defense acquisition programs are fulfilling the objectives of their developmental test and evaluation plans.
     - **(B)** A discussion of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the preceding year with respect to such programs, any concerns raised by such waivers or deviations, and the actions that have been taken or are planned to be taken to address such concerns.
     - **(C)** An assessment of the organization and capabilities of the Department of Defense for development planning and developmental test and evaluation with respect to such programs.
-    - **(D)** a 1 separate section that covers the activities of the Department of Defense Test Resource Management Center (established under section 196 of this title) during the preceding year; and 22 So in original. The “; and” probably should be a period.
-    - **(E)** a 11 So in original. Probably should be capitalized. separate section that addresses the adequacy of the resources available to the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and to the lead developmental test and evaluation organizations of the military departments to carry out the responsibilities prescribed by this section.
+    - **(D)** a 11 So in original. Probably should be capitalized. separate section that covers the activities of the Department of Defense Test Resource Management Center (established under section 196 of this title) during the preceding year; and 22 So in original. The “; and” probably should be a period.
+    - **(E)** a 1 separate section that addresses the adequacy of the resources available to the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and to the lead developmental test and evaluation organizations of the military departments to carry out the responsibilities prescribed by this section.
     - **(F)** Any comments on such report that the Secretary of Defense considers appropriate.
 - **(e)** *Joint Guidance.—* The Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and the Deputy Assistant Secretary of Defense for Systems Engineering shall jointly, in coordination with the official designated by the Secretary of Defense under section 103 of the Weapon Systems Acquisition Reform Act of 2009,33 See References in Text note below. issue guidance on the following:
   - **(1)** The development and tracking of detailed measurable performance criteria as part of the systems engineering master plans and the developmental test and evaluation plans within the test and evaluation master plans of major defense acquisition programs.
@@ -80,9 +80,9 @@ section: 139b
 
 ## Notes
 
-2 So in original. The “; and” probably should be a period.
-
 1 So in original. Probably should be capitalized.
+
+2 So in original. The “; and” probably should be a period.
 
 3 See References in Text note below.
 

@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t42/s28...43
 title: 42
 chapter: 1
 section: 28 to 43

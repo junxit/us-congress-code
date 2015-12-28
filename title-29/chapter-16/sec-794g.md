@@ -51,13 +51,21 @@ section: 794g
 
 ## Source credit
 
-(Pub. L. 93–112, title V, § 511, as added Pub. L. 113–128, title IV, § 458(a), July 22, 2014, 128 Stat. 1676.)
+(Pub. L. 93–112, title V, § 511, as added Pub. L. 113–128, title IV, § 458(a), July 22, 2014, 128 Stat. 1676; amended Pub. L. 114–95, title IX, § 9215(mmm)(4)(A), Dec. 10, 2015, 129 Stat. 2188.)
 
 ## Notes
 
 ### References in Text
 
 The effective date of this section, referred to in subsec. (a)(1), means 2 years after July 22, 2014. See Effective Date note below. The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(A) and (d)(2)(A)(ii), (iii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables. The Fair Labor Standards Act of 1938, referred to in subsec. (b)(3), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables. The effective date of this Act, referred to in subsec. (b)(3), may mean the effective date of Pub. L. 93–112 (Sept. 26, 1973), the effective date of Pub. L. 113–128, which added this section (see Effective Date note set out under section 3101 of this title), or the effective date of this section (see Effective Date note below).
+
+### Amendments
+
+2015—Subsec. (b)(2). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
+
+### Effective Date of 2015 Amendment
+
+Pub. L. 114–95, title IX, § 9215(mmm)(4)(B), Dec. 10, 2015, 129 Stat. 2188, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect on the same date as section 458(a) of the Workforce Innovation and Opportunity Act (Public Law 113–128; 128 Stat. 1676) [enacting this section] takes effect, and as if enacted as part of such section.”
 
 ### Effective Date
 
