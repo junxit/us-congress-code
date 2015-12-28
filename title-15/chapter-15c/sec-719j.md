@@ -7,7 +7,7 @@ section: 719j
 
 # § 719j. Export limitations
 
-Any exports of Alaska natural gas shall be subject to the requirements of the Natural Gas Act [15 U.S.C. 717 et seq.] and section 103 of the Energy Policy and Conservation Act [42 U.S.C. 6212], except that in addition to the requirements of such Acts, before any Alaska natural gas in excess of 1,000 Mcf per day may be exported to any nation other than Canada or Mexico, the President must make and publish an express finding that such exports will not diminish the total quantity or quality nor increase the total price of energy available to the United States.
+Any exports of Alaska natural gas shall be subject to the requirements of the Natural Gas Act [15 U.S.C. 717 et seq.] and section 103 11 See References in Text note below. of the Energy Policy and Conservation Act, except that in addition to the requirements of such Acts, before any Alaska natural gas in excess of 1,000 Mcf per day may be exported to any nation other than Canada or Mexico, the President must make and publish an express finding that such exports will not diminish the total quantity or quality nor increase the total price of energy available to the United States.
 
 ## Source credit
 
@@ -15,9 +15,11 @@ Any exports of Alaska natural gas shall be subject to the requirements of the Na
 
 ## Notes
 
+1 See References in Text note below.
+
 ### References in Text
 
-The Natural Gas Act, referred to in text, is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables. The Energy Policy and Conservation Act, referred to in text, is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, which is classified principally to chapter 77 (§ 6201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
+The Natural Gas Act, referred to in text, is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables. The Energy Policy and Conservation Act, referred to in text, is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, which is classified principally to chapter 77 (§ 6201 et seq.) of Title 42, The Public Health and Welfare. Section 103 of the Act was classified to section 6212 of Title 42, prior to repeal by Pub. L. 114–113, div. O, title I, § 101(a), Dec. 18, 2015, 129 Stat. 2987. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
 
 ### Transfer of Functions
 

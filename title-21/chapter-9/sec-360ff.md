@@ -31,7 +31,7 @@ section: 360ff
   - **(4)** *Notification*
     - **(A)** *In general* The sponsor of a human drug application shall notify the Secretary not later than 90 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay for the user fee to be assessed in accordance with this section.
     - **(B)** *Transfer after notice* The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under subparagraph (A) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification.
-  - **(5)** *Termination of authority* The Secretary may not award any priority review vouchers under paragraph (1) after the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section.
+  - **(5)** *Termination of authority* The Secretary may not award any priority review vouchers under paragraph (1) after September 30, 2016.
 - **(c)** *Priority review user fee*
   - **(1)** *In general* The Secretary shall establish a user fee program under which a sponsor of a human drug application that is the subject of a priority review voucher shall pay to the Secretary a fee determined under paragraph (2). Such fee shall be in addition to any fee required to be submitted by the sponsor under subchapter VII.
   - **(2)** *Fee amount* The amount of the priority review user fee shall be determined each fiscal year by the Secretary, based on the difference between—
@@ -81,7 +81,7 @@ section: 360ff
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 529, as added Pub. L. 112–144, title IX, § 908, July 9, 2012, 126 Stat. 1094.)
+(June 25, 1938, ch. 675, § 529, as added Pub. L. 112–144, title IX, § 908, July 9, 2012, 126 Stat. 1094; amended Pub. L. 114–113, div. A, title VII, § 765, Dec. 18, 2015, 129 Stat. 2286.)
 
 ## Notes
 
@@ -90,3 +90,7 @@ section: 360ff
 ### References in Text
 
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (a)(1), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title. The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+### Amendments
+
+2015—Subsec. (b)(5). Pub. L. 114–113 substituted “September 30, 2016.” for “the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section.”

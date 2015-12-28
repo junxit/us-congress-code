@@ -16,7 +16,7 @@ section: 54E
     - **(C)** certifies that it has the written approval of the eligible local education agency for such bond issuance.
 - **(b)** *Private business contribution requirement* For purposes of subsection (a), the private business contribution requirement of this subsection is met with respect to any issue if the eligible local education agency that established the qualified zone academy has written commitments from private entities to make qualified contributions having a present value (as of the date of issuance of the issue) of not less than 10 percent of the proceeds of the issue.
 - **(c)** *Limitation on amount of bonds designated*
-  - **(1)** *National limitation* There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 2008, $1,400,000,000 for 2009 and 2010, and $400,000,000 for 2011, 2012, 2013, and 2014 and, except as provided in paragraph (4), zero thereafter.
+  - **(1)** *National limitation* There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 2008, $1,400,000,000 for 2009 and 2010, and $400,000,000 for 2011, 2012, 2013, 2014, 2015, and 2016 and, except as provided in paragraph (4), zero thereafter.
   - **(2)** *Allocation of limitation* The national zone academy bond limitation for a calendar year shall be allocated by the Secretary among the States on the basis of their respective populations of individuals below the poverty line (as defined by the Office of Management and Budget). The limitation amount allocated to a State under the preceding sentence shall be allocated by the State education agency to qualified zone academies within such State.
   - **(3)** *Designation subject to limitation amount* The maximum aggregate face amount of bonds issued during any calendar year which may be designated under subsection (a) with respect to any qualified zone academy shall not exceed the limitation amount allocated to such academy under paragraph (2) for such calendar year.
   - **(4)** *Carryover of unused limitation*
@@ -48,7 +48,7 @@ section: 54E
 
 ## Source credit
 
-(Added Pub. L. 110–343, div. C, title III, § 313(a), Oct. 3, 2008, 122 Stat. 3869; amended Pub. L. 111–5, div. B, title I, § 1522(a), Feb. 17, 2009, 123 Stat. 358; Pub. L. 111–312, title VII, § 758(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, § 310(a), Jan. 2, 2013, 126 Stat. 2330; Pub. L. 113–295, div. A, title I, § 120(a), Dec. 19, 2014, 128 Stat. 4015.)
+(Added Pub. L. 110–343, div. C, title III, § 313(a), Oct. 3, 2008, 122 Stat. 3869; amended Pub. L. 111–5, div. B, title I, § 1522(a), Feb. 17, 2009, 123 Stat. 358; Pub. L. 111–312, title VII, § 758(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, § 310(a), Jan. 2, 2013, 126 Stat. 2330; Pub. L. 113–295, div. A, title I, § 120(a), Dec. 19, 2014, 128 Stat. 4015; Pub. L. 114–113, div. Q, title I, § 164(a), Dec. 18, 2015, 129 Stat. 3066.)
 
 ## Notes
 
@@ -58,7 +58,11 @@ The date of the enactment of this section, referred to in subsec. (d)(1)(D)(i), 
 
 ### Amendments
 
-2014—Subsec. (c)(1). Pub. L. 113–295 substituted “2013, and 2014” for “and 2013”. 2013—Subsec. (c)(1). Pub. L. 112–240 inserted “, 2012, and 2013” after “for 2011”. 2010—Subsec. (c)(1). Pub. L. 111–312 substituted “2008,” for “2008 and” and inserted “and $400,000,000 for 2011” after “2010,”. 2009—Subsec. (c)(1). Pub. L. 111–5 substituted “and $1,400,000,000 for 2009 and 2010” for “and 2009”.
+2015—Subsec. (c)(1). Pub. L. 114–113 substituted “2014, 2015, and 2016” for “and 2014”. 2014—Subsec. (c)(1). Pub. L. 113–295 substituted “2013, and 2014” for “and 2013”. 2013—Subsec. (c)(1). Pub. L. 112–240 inserted “, 2012, and 2013” after “for 2011”. 2010—Subsec. (c)(1). Pub. L. 111–312 substituted “2008,” for “2008 and” and inserted “and $400,000,000 for 2011” after “2010,”. 2009—Subsec. (c)(1). Pub. L. 111–5 substituted “and $1,400,000,000 for 2009 and 2010” for “and 2009”.
+
+### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title I, § 164(b), Dec. 18, 2015, 129 Stat. 3067, provided that: “The amendment made by this section [amending this section] shall apply to obligations issued after December 31, 2014.”
 
 ### Effective Date of 2014 Amendment
 

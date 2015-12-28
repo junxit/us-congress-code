@@ -22,4 +22,4 @@ section: 679c
 
 ### Codification
 
-Section was enacted as part of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, and not as part of the Federal Meat Inspection Act which is classified to subchapters I to IV of this chapter.
+Section was enacted as part of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, and not as part of the Federal Meat Inspection Act which is classified to subchapters I to IV–A of this chapter.

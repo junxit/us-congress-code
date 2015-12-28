@@ -11,9 +11,8 @@ section: 529A
 - **(b)** *Qualified ABLE program* For purposes of this section—
   - **(1)** *In general* The term “qualified ABLE program” means a program established and maintained by a State, or agency or instrumentality thereof—
     - **(A)** under which a person may make contributions for a taxable year, for the benefit of an individual who is an eligible individual for such taxable year, to an ABLE account which is established for the purpose of meeting the qualified disability expenses of the designated beneficiary of the account,
-    - **(B)** which limits a designated beneficiary to 1 ABLE account for purposes of this section,
-    - **(C)** which allows for the establishment of an ABLE account only for a designated beneficiary who is a resident of such State or a resident of a contracting State, and
-    - **(D)** which meets the other requirements of this section.
+    - **(B)** which limits a designated beneficiary to 1 ABLE account for purposes of this section, and
+    - **(C)** which meets the other requirements of this section.
   - **(2)** *Cash contributions* A program shall not be treated as a qualified ABLE program unless it provides that no contribution will be accepted—
     - **(A)** unless it is in cash, or
     - **(B)** except in the case of contributions under subsection (c)(1)(C), if such contribution to an ABLE account would result in aggregate contributions from all contributors to the ABLE account for the taxable year exceeding the amount in effect under section 2503(b) for the calendar year in which the taxable year begins.
@@ -28,7 +27,7 @@ section: 529A
       - **(i)** do not exceed the qualified disability expenses of the designated beneficiary, no amount shall be includible in gross income, and
       - **(ii)** in any other case, the amount otherwise includible in gross income shall be reduced by an amount which bears the same ratio to such amount as such expenses bear to such distributions.
     - **(C)** *Change in designated beneficiaries or programs*
-      - **(i)** *Rollovers from able accounts* Subparagraph (A) shall not apply to any amount paid or distributed from an ABLE account to the extent that the amount received is paid, not later than the 60th day after the date of such payment or distribution, into another ABLE account for the benefit of the same designated beneficiary or an eligible individual who is a family member of the designated beneficiary.
+      - **(i)** *Rollovers from able accounts* Subparagraph (A) shall not apply to any amount paid or distributed from an ABLE account to the extent that the amount received is paid, not later than the 60th day after the date of such payment or distribution, into another ABLE account for the benefit of the same designated beneficiary or an eligible individual who is a member of the family of the designated beneficiary.
       - **(ii)** *Change in designated beneficiaries* Any change in the designated beneficiary of an interest in a qualified ABLE program during a taxable year shall not be treated as a distribution for purposes of subparagraph (A) if the new beneficiary is an eligible individual for such taxable year and a member of the family of the former beneficiary.
       - **(iii)** *Limitation on certain rollovers* Clause (i) shall not apply to any transfer if such transfer occurs within 12 months from the date of a previous transfer to any qualified ABLE program for the benefit of the designated beneficiary.
     - **(D)** *Operating rules* For purposes of applying section 72—
@@ -50,8 +49,8 @@ section: 529A
 - **(d)** *Reports*
   - **(1)** *In general* Each officer or employee having control of the qualified ABLE program or their designee shall make such reports regarding such program to the Secretary and to designated beneficiaries with respect to contributions, distributions, the return of excess contributions, and such other matters as the Secretary may require.
   - **(2)** *Certain aggregated information* For research purposes, the Secretary shall make available to the public reports containing aggregate information, by diagnosis and other relevant characteristics, on contributions and distributions from the qualified ABLE program. In carrying out the preceding sentence an item may not be made available to the public if such item can be associated with, or otherwise identify, directly or indirectly, a particular individual.
-  - **(3)** *Notice of establishment of able account* A qualified ABLE program shall submit a notice to the Secretary upon the establishment of an ABLE account. Such notice shall contain the name and State of residence of the designated beneficiary and such other information as the Secretary may require.
-  - **(4)** *Electronic distribution statements* For purposes of section 4 of the Achieving a Better Life Experience Act of 2014,11 See References in Text note below. States shall submit electronically on a monthly basis to the Commissioner of Social Security, in the manner specified by the Commissioner, statements on relevant distributions and account balances from all ABLE accounts.
+  - **(3)** *Notice of establishment of able account* A qualified ABLE program shall submit a notice to the Secretary upon the establishment of an ABLE account. Such notice shall contain the name of the designated beneficiary and such other information as the Secretary may require.
+  - **(4)** *Electronic distribution statements* For purposes of section 103 of the Achieving a Better Life Experience Act of 2014,11 See References in Text note below. States shall submit electronically on a monthly basis to the Commissioner of Social Security, in the manner specified by the Commissioner, statements on relevant distributions and account balances from all ABLE accounts.
   - **(5)** *Requirements* The reports and notices required by paragraphs (1), (2), and (3) shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 - **(e)** *Other definitions and special rules* For purposes of this section—
   - **(1)** *Eligible individual* An individual is an eligible individual for a taxable year if during such taxable year—
@@ -68,7 +67,6 @@ section: 529A
   - **(4)** *Member of family* The term “member of the family” means, with respect to any designated beneficiary, an individual who bears a relationship to such beneficiary which is described in subparagraph 22 So in original. The word “subparagraph” probably should not appear. section 152(d)(2)(B). For purposes of the preceding sentence, a rule similar to the rule of section 152(f)(1)(B) shall apply.
   - **(5)** *Qualified disability expenses* The term “qualified disability expenses” means any expenses related to the eligible individual’s blindness or disability which are made for the benefit of an eligible individual who is the designated beneficiary, including the following expenses: education, housing, transportation, employment training and support, assistive technology and personal support services, health, prevention and wellness, financial management and administrative services, legal fees, expenses for oversight and monitoring, funeral and burial expenses, and other expenses, which are approved by the Secretary under regulations and consistent with the purposes of this section.
   - **(6)** *ABLE account* The term “ABLE account” means an account established by an eligible individual, owned by such eligible individual, and maintained under a qualified ABLE program.
-  - **(7)** *Contracting State* The term “contracting State” means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program.
 - **(f)** *Transfer to State* Subject to any outstanding payments due for qualified disability expenses, upon the death of the designated beneficiary, all amounts remaining in the qualified ABLE account not in excess of the amount equal to the total medical assistance paid for the designated beneficiary after the establishment of the account, net of any premiums paid from the account or paid by or on behalf of the beneficiary to a Medicaid Buy-In program under any State Medicaid plan established under title XIX of the Social Security Act, shall be distributed to such State upon filing of a claim for payment by such State. For purposes of this paragraph, the State shall be a creditor of an ABLE account and not a beneficiary. Subsection (c)(3) shall not apply to a distribution under the preceding sentence.
 - **(g)** *Regulations* The Secretary shall prescribe such regulations or other guidance as the Secretary determines necessary or appropriate to carry out the purposes of this section, including regulations—
   - **(1)** to enforce the 1 ABLE account per eligible individual limit,
@@ -81,7 +79,7 @@ section: 529A
 
 ## Source credit
 
-(Added Pub. L. 113–295, div. B, title I, § 102(a), Dec. 19, 2014, 128 Stat. 4056.)
+(Added Pub. L. 113–295, div. B, title I, § 102(a), Dec. 19, 2014, 128 Stat. 4056; amended Pub. L. 114–113, div. Q, title III, § 303(a)–(c), Dec. 18, 2015, 129 Stat. 3087.)
 
 ## Notes
 
@@ -91,7 +89,15 @@ section: 529A
 
 ### References in Text
 
-The Achieving a Better Life Experience Act of 2014, referred to in subsec. (d)(4), probably means div. B of Pub. L. 113–295, Dec. 19, 2014, 128 Stat. 4056, known as the “Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014” and also as the “Stephen Beck, Jr., ABLE Act of 2014”. No section 4 of the Act was enacted. The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), and XIX (§ 1396 et seq.) respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Achieving a Better Life Experience Act of 2014, referred to in subsec. (d)(4), probably means div. B of Pub. L. 113–295, Dec. 19, 2014, 128 Stat. 4056, known as the “Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014” and also as the “Stephen Beck, Jr., ABLE Act of 2014”. Section 103 of div. B of Pub. L. 113–295 is set out as a note under this section. The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), and XIX (§ 1396 et seq.) respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+### Amendments
+
+2015—Subsec. (b)(1)(B) to (D). Pub. L. 114–113, § 303(a), inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C). Prior to amendment, subpar. (C) read as follows: “which allows for the establishment of an ABLE account only for a designated beneficiary who is a resident of such State or a resident of a contracting State, and”. Subsec. (c)(1)(C)(i). Pub. L. 114–113, § 303(c)(2), substituted “member of the family” for “family member”. Subsec. (d)(3). Pub. L. 114–113, § 303(b)(1), struck out “and State of residence” after “the name”. Subsec. (d)(4). Pub. L. 114–113, § 303(c)(1), substituted “section 103” for “section 4”. Subsec. (e)(7). Pub. L. 114–113, § 303(b)(2), struck out par. (7). Text read as follows: “The term ‘contracting State’ means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program.”
+
+### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title III, § 303(d), Dec. 18, 2015, 129 Stat. 3087, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2014.”
 
 ### Effective Date
 

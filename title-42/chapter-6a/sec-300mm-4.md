@@ -10,7 +10,7 @@ section: 300mm–4
 - **(a)** *In general*
   - **(1)** *Contracts with Clinical Centers of Excellence* The WTC Program Administrator shall, subject to subsection (b)(1)(B), enter into contracts with Clinical Centers of Excellence (as defined in subsection (b)(1)(A))—
     - **(A)** for the provision of monitoring and treatment benefits and initial health evaluation benefits under part B;
-    - **(B)** for the provision of outreach activities to individuals eligible for such monitoring and treatment benefits, for initial health evaluation benefits, and for followup to individuals who are enrolled in the monitoring program;
+    - **(B)** for the provision of outreach and retention activities to individuals eligible for such monitoring and treatment benefits, for initial health evaluation benefits, and for followup to individuals who are enrolled in the monitoring program;
     - **(C)** for the provision of counseling for benefits under part B, with respect to WTC-related health conditions, for individuals eligible for such benefits;
     - **(D)** for the provision of counseling for benefits for WTC-related health conditions that may be available under workers’ compensation or other benefit programs for work-related injuries or illnesses, health insurance, disability insurance, or other insurance plans or through public or private social service agencies and assisting eligible individuals in applying for such benefits;
     - **(E)** for the provision of translational and interpretive services for program participants who are not English language proficient; and
@@ -19,7 +19,7 @@ section: 300mm–4
     - **(A)** *In general* The WTC Program Administrator shall enter into contracts with one or more Data Centers (as defined in subsection (b)(2))—
       - **(i)** for receiving, analyzing, and reporting to the WTC Program Administrator on data, in accordance with section 300mm–3 of this title, that have been collected and reported to such Data Centers by the corresponding Clinical Centers of Excellence under subsection (b)(1)(B)(iii);
       - **(ii)** for the development of monitoring, initial health evaluation, and treatment protocols, with respect to WTC-related health conditions;
-      - **(iii)** for coordinating the outreach activities conducted under paragraph (1)(B) by each corresponding Clinical Center of Excellence;
+      - **(iii)** for coordinating the outreach and retention activities conducted under paragraph (1)(B) by each corresponding Clinical Center of Excellence;
       - **(iv)** for establishing criteria for the credentialing of medical providers participating in the nationwide network under section 300mm–23 of this title;
       - **(v)** for coordinating and administering the activities of the WTC Health Program Steering Committees established under section 300mm–1(b) 11 See References in Text note below. of this title; and
       - **(vi)** for meeting periodically with the corresponding Clinical Centers of Excellence to obtain input on the analysis and reporting of data collected under clause (i) and on the development of monitoring, initial health evaluation, and treatment protocols under clause (ii).
@@ -42,7 +42,7 @@ section: 300mm–4
       - **(iii)** Collect and report to the corresponding Data Center data, including claims data, in accordance with section 300mm–3(b) of this title.
       - **(iv)** Have in place safeguards against fraud that are satisfactory to the Administrator, in consultation with the Inspector General of the Department of Health and Human Services.
       - **(v)** Treat or refer for treatment all individuals who are enrolled WTC responders or certified-eligible WTC survivors with respect to such Center who present themselves for treatment of a WTC-related health condition.
-      - **(vi)** Have in place safeguards, consistent with section 300mm–3(c) of this title, to ensure the confidentiality of an individual’s individually identifiable health information, including requiring that such information not be disclosed to the individual’s employer without the authorization of the individual.
+      - **(vi)** Have in place safeguards, consistent with section 300mm–3(d) of this title, to ensure the confidentiality of an individual’s individually identifiable health information, including requiring that such information not be disclosed to the individual’s employer without the authorization of the individual.
       - **(vii)** Use amounts paid under subsection (c)(1) only for costs incurred in carrying out the activities described in subsection (a), other than those described in subsection (a)(1)(A).
       - **(viii)** Utilize health care providers with occupational and environmental medicine expertise to conduct physical and mental health assessments, in accordance with protocols developed under subsection (a)(2)(A)(ii).
       - **(ix)** Communicate with WTC responders and screening-eligible and certified-eligible WTC survivors in appropriate languages and conduct outreach activities with relevant stakeholder worker or community associations.
@@ -57,7 +57,7 @@ section: 300mm–4
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title XXXIII, § 3305, as added Pub. L. 111–347, title I, § 101, Jan. 2, 2011, 124 Stat. 3630.)
+(July 1, 1944, ch. 373, title XXXIII, § 3305, as added Pub. L. 111–347, title I, § 101, Jan. 2, 2011, 124 Stat. 3630; amended Pub. L. 114–113, div. O, title III, § 302(c), Dec. 18, 2015, 129 Stat. 2998.)
 
 ## Notes
 
@@ -66,3 +66,7 @@ section: 300mm–4
 ### References in Text
 
 Section 300mm–1(b) of this title, referred to in subsec. (a)(2)(A)(v), was in the original “section 3002(b)” and was translated as meaning section 3302(b) of act July 1, 1944, to reflect the probable intent of Congress.
+
+### Amendments
+
+2015—Subsec. (a)(1)(B). Pub. L. 114–113, § 302(c)(1)(A), inserted “and retention” after “outreach”. Subsec. (a)(2)(A)(iii). Pub. L. 114–113, § 302(c)(1)(B), inserted “and retention” after “outreach”. Subsec. (b)(1)(B)(vi). Pub. L. 114–113, § 302(c)(2), substituted “section 300mm–3(d)” for “section 300mm–3(c)”.

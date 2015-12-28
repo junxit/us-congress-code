@@ -67,6 +67,7 @@ section: 2000ee
     - **(B)** *Notification* If a subpoena request is modified or denied under subparagraph (A)(ii), the Attorney General shall, not later than 30 days after the date of that modification or denial, notify the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
   - **(3)** *Enforcement of subpoena* In the case of contumacy or failure to obey a subpoena issued pursuant to paragraph (1)(D), the United States district court for the judicial district in which the subpoenaed person resides, is served, or may be found may issue an order requiring such person to produce the evidence required by such subpoena.
   - **(4)** *Agency cooperation* Whenever information or assistance requested under subparagraph (A) or (B) of paragraph (1) is, in the judgment of the Board, unreasonably refused or not provided, the Board shall report the circumstances to the head of the department, agency, or element concerned without delay. The head of the department, agency, or element concerned shall ensure that the Board is given access to the information, assistance, material, or personnel the Board determines to be necessary to carry out its functions.
+  - **(5)** *Access* Nothing in this section shall be construed to authorize the Board, or any agent thereof, to gain access to information regarding an activity covered by section 3093(a) of title 50.
 - **(h)** *Membership*
   - **(1)** *Members* The Board shall be composed of a full-time chairman and 4 additional members, who shall be appointed by the President, by and with the advice and consent of the Senate.
   - **(2)** *Qualifications* Members of the Board shall be selected solely on the basis of their professional qualifications, achievements, public stature, expertise in civil liberties and privacy, and relevant experience, and without regard to political affiliation, but in no event shall more than 3 members of the Board be members of the same political party. The President shall, before appointing an individual who is not a member of the same political party as the President, consult with the leadership of that party, if any, in the Senate and House of Representatives.
@@ -101,7 +102,7 @@ section: 2000ee
 
 ## Source credit
 
-(Pub. L. 108–458, title I, § 1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, § 801(a), Aug. 3, 2007, 121 Stat. 352.)
+(Pub. L. 108–458, title I, § 1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, § 801(a), Aug. 3, 2007, 121 Stat. 352; Pub. L. 114–113, div. M, title III, § 305, Dec. 18, 2015, 129 Stat. 2913.)
 
 ## Notes
 
@@ -117,7 +118,7 @@ Section was formerly set out as a note under section 601 of Title 5, Government 
 
 ### Amendments
 
-2007—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (l).
+2015—Subsec. (g)(5). Pub. L. 114–113 added par. (5). 2007—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (l).
 
 ### Effective Date of 2007 Amendment
 
