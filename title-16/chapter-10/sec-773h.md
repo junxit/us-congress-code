@@ -23,9 +23,13 @@ section: 773h
 
 ## Source credit
 
-(Pub. L. 97–176, § 10, May 17, 1982, 96 Stat. 81.)
+(Pub. L. 97–176, § 10, May 17, 1982, 96 Stat. 81; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 ## Notes
+
+### Change of Name
+
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (c) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
 
 ### Transfer of Functions
 

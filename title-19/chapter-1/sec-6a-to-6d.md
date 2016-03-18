@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t19/s6a...6d
 title: 19
 chapter: 1
 section: 6a to 6d

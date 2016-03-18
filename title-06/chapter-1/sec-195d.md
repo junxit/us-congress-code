@@ -7,7 +7,7 @@ section: 195d
 
 # § 195d. Social media working group
 
-- **(a)** *Establishment* The Secretary shall establish within the Department a social media working group (in this section referred to as the ‘Group’).
+- **(a)** *Establishment* The Secretary shall establish within the Department a social media working group (in this section referred to as the “Group”).
 - **(b)** *Purpose* In order to enhance the dissemination of information through social media technologies between the Department and appropriate stakeholders and to improve use of social media technologies in support of preparedness, response, and recovery, the Group shall identify, and provide guidance and best practices to the emergency preparedness and response community on, the use of social media technologies before, during, and after a natural disaster or an act of terrorism or other man-made disaster.
 - **(c)** *Membership*
   - **(1)** *In general* Membership of the Group shall be composed of a cross section of subject matter experts from Federal, State, local, tribal, territorial, and nongovernmental organization practitioners, including representatives from the following entities:

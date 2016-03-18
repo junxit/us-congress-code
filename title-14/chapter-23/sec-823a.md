@@ -9,7 +9,7 @@ section: 823a
 
 - **(a)** Except as otherwise provided in this chapter, a member of the Coast Guard Auxiliary shall not be considered to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, Federal employee benefits, ethics, conflicts of interest, and other similar criminal or civil statutes and regulations governing the conduct of Federal employees. However, nothing in this subsection shall constrain the Commandant from prescribing standards for the conduct and behavior of members of the Auxiliary.
 - **(b)** A member of the Auxiliary while assigned to duty shall be deemed to be a Federal employee only for the purposes of the following:
-  - **(1)** Chapter 26 11 So in original. Probably should be 171. of title 28 (popularly known as the Federal Tort Claims Act).
+  - **(1)** Chapter 171 of title 28 (popularly known as the Federal Tort Claims Act).
   - **(2)** Section 2733 of title 10 (popularly known as the Military Claims Act).
   - **(3)** Section 30101 of title 46 (popularly known as the Admiralty Extension Act).
   - **(4)** Chapter 309 of title 46 (known as the Suits in Admiralty Act).
@@ -22,11 +22,9 @@ section: 823a
 
 ## Source credit
 
-(Added Pub. L. 104–324, title IV, § 403(a), Oct. 19, 1996, 110 Stat. 3923; amended Pub. L. 107–295, title IV, § 415, Nov. 25, 2002, 116 Stat. 2121; Pub. L. 109–304, § 17(c), Oct. 6, 2006, 120 Stat. 1707.)
+(Added Pub. L. 104–324, title IV, § 403(a), Oct. 19, 1996, 110 Stat. 3923; amended Pub. L. 107–295, title IV, § 415, Nov. 25, 2002, 116 Stat. 2121; Pub. L. 109–304, § 17(c), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 114–120, title II, § 209(15), Feb. 8, 2016, 130 Stat. 41.)
 
 ## Notes
-
-1 So in original. Probably should be 171.
 
 ### References in Text
 
@@ -34,4 +32,4 @@ The Military Personnel and Civilian Employees’ Claims Act of 1964, referred to
 
 ### Amendments
 
-2006—Subsec. (b)(3) to (5). Pub. L. 109–304 added pars (3) to (5) and struck out former pars. (3) to (5) which read as follows: “(3) The Act of March 3, 1925 (46 App. U.S.C. 781–790; popularly known as the Public Vessels Act). “(4) The Act of March 9, 1920 (46 App. U.S.C. 741–752; popularly known as the Suits in Admiralty Act). “(5) The Act of June 19, 1948 (46 App. U.S.C. 740; popularly known as the Admiralty Extension Act).” 2002—Subsec. (b)(9). Pub. L. 107–295 added par. (9).
+2016—Subsec. (b)(1). Pub. L. 114–120 substituted “Chapter 171” for “Chapter 26”. 2006—Subsec. (b)(3) to (5). Pub. L. 109–304 added pars (3) to (5) and struck out former pars. (3) to (5) which read as follows: “(3) The Act of March 3, 1925 (46 App. U.S.C. 781–790; popularly known as the Public Vessels Act). “(4) The Act of March 9, 1920 (46 App. U.S.C. 741–752; popularly known as the Suits in Admiralty Act). “(5) The Act of June 19, 1948 (46 App. U.S.C. 740; popularly known as the Admiralty Extension Act).” 2002—Subsec. (b)(9). Pub. L. 107–295 added par. (9).
