@@ -27,8 +27,9 @@ section: 360n
     - **(N)** Schistosomiasis.
     - **(O)** Soil transmitted helmithiasis.
     - **(P)** Yaws.
-    - **(Q)** Filoviruses.
-    - **(R)** Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by order of the Secretary.
+    - **(Q)** Filovirus Diseases.
+    - **(R)** Zika Virus Disease.
+    - **(S)** Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by order of the Secretary.
   - **(4)** *Tropical disease product application* The term “tropical disease product application” means an application that—
     - **(A)** is a human drug application as defined in section 379g(1) of this title—
       - **(i)** for prevention or treatment of a tropical disease; and
@@ -56,7 +57,7 @@ section: 360n
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 524, as added Pub. L. 110–85, title XI, § 1102, Sept. 27, 2007, 121 Stat. 972; amended Pub. L. 113–233, § 2, Dec. 16, 2014, 128 Stat. 2127.)
+(June 25, 1938, ch. 675, § 524, as added Pub. L. 110–85, title XI, § 1102, Sept. 27, 2007, 121 Stat. 972; amended Pub. L. 113–233, § 2, Dec. 16, 2014, 128 Stat. 2127; Pub. L. 114–146, § 2, Apr. 19, 2016, 130 Stat. 357.)
 
 ## Notes
 
@@ -66,4 +67,4 @@ Section 101(c) of the Food and Drug Administration Amendments Act of 2007, refer
 
 ### Amendments
 
-2014—Subsec. (a)(3)(Q), (R). Pub. L. 113–233, § 2(1), added subpar. (Q), redesignated former subpar. (Q) as (R), and in subpar. (R) substituted “order of” for “regulation by”. Subsec. (b)(2). Pub. L. 113–233, § 2(2)(A), inserted at end “There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.” Subsec. (b)(4). Pub. L. 113–233, § 2(2)(B), substituted “90 days” for “365 days”.
+2016—Subsec. (a)(3)(Q). Pub. L. 114–146, § 2(2), substituted “Filovirus Diseases” for “Filoviruses”. Subsec. (a)(3)(R), (S). Pub. L. 114–146, § 2(1), (3), added subpar. (R) and redesignated former subpar. (R) as (S). 2014—Subsec. (a)(3)(Q), (R). Pub. L. 113–233, § 2(1), added subpar. (Q), redesignated former subpar. (Q) as (R), and in subpar. (R) substituted “order of” for “regulation by”. Subsec. (b)(2). Pub. L. 113–233, § 2(2)(A), inserted at end “There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.” Subsec. (b)(4). Pub. L. 113–233, § 2(2)(B), substituted “90 days” for “365 days”.

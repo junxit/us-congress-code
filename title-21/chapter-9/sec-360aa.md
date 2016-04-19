@@ -10,7 +10,7 @@ section: 360aa
 - **(a)** *Request by sponsor; response by Secretary* The sponsor of a drug for a disease or condition which is rare in the States may request the Secretary to provide written recommendations for the non-clinical and clinical investigations which must be conducted with the drug before—
   - **(1)** it may be approved for such disease or condition under section 355 of this title, or
   - **(2)** if the drug is a biological product, it may be licensed for such disease or condition under section 262 of title 42.
-- **(b)** *Regulations* The Secretary shall by regulation promulgate procedures for the implementation of subsection (a) of this section.
+- **(b)** *Regulations* The Secretary shall by regulation promulgate procedures for the implementation of subsection (a).
 
 ## Source credit
 
