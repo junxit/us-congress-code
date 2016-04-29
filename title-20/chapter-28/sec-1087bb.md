@@ -8,7 +8,7 @@ section: 1087bb
 # § 1087bb. Allocation of funds
 
 - **(a)** *Allocation based on previous allocation*
-  - **(1)** From the amount appropriated pursuant to section 1087aa(b) of this title for each fiscal year, the Secretary shall first allocate to each eligible institution an amount equal to—
+  - **(1)** From the amount appropriated pursuant to section 1087aa(b) 11 See References in Text note below. of this title for each fiscal year, the Secretary shall first allocate to each eligible institution an amount equal to—
     - **(A)** 100 percent of the amount received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year), multiplied by
     - **(B)** the institution’s default penalty, as determined under subsection (e) of this section,
   - **(2)**
@@ -32,10 +32,10 @@ section: 1087bb
       - **(ii)** the amount of the allocation to each institution under paragraph (2) shall be ratably reduced.
     - **(C)** If additional amounts are appropriated for any such fiscal year, such reduced amounts shall be increased on the same basis as they were reduced (until the amount allocated equals the amount required to be allocated under paragraphs (1) and (2) of this subsection).
 - **(b)** *Allocation of excess based on share of excess eligible amounts*
-  - **(1)** From the remainder of the amount appropriated pursuant to section 1087aa(b) of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
+  - **(1)** From the remainder of the amount appropriated pursuant to section 1087aa(b) 1 of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
   - **(2)** For any eligible institution, the excess eligible amount is the amount, if any, by which—
     - **(A)**
-      - **(i)** that institution’s eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1087aa(b) of this title for the fiscal year; exceeds
+      - **(i)** that institution’s eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1087aa(b) 1 of this title for the fiscal year; exceeds
     - **(B)** the amount required to be allocated to that institution under subsection (a) of this section,
   - **(3)** For any eligible institution, the eligible amount of that institution is equal to—
     - **(A)** the amount of the institution’s self-help need, as determined under subsection (c) of this section; minus
@@ -128,6 +128,12 @@ section: 1087bb
 (Pub. L. 89–329, title IV, § 462, as added Pub. L. 99–498, title IV, § 405(a), Oct. 17, 1986, 100 Stat. 1440; amended Pub. L. 100–50, § 13(a)–(d), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, § 462, July 23, 1992, 106 Stat. 576; Pub. L. 103–208, § 2(f)(1)–(4), Dec. 20, 1993, 107 Stat. 2470, 2471; Pub. L. 105–244, title IV, § 462(a)(1), (2), (b)–(e), Oct. 7, 1998, 112 Stat. 1720–1723; Pub. L. 110–315, title IV, § 462, Aug. 14, 2008, 122 Stat. 3266; Pub. L. 111–39, title IV, § 405(1), July 1, 2009, 123 Stat. 1947.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Section 1087aa of this title, referred to in subsecs. (a)(1) and (b)(1), (2)(A)(i), was amended by Pub. L. 114–105, § 2(a)(1)(B), Dec. 18, 2015, 129 Stat. 2219, which struck out subsec. (b) authorizing appropriations and added a new subsec. (b) authorizing institutions of higher education to make loans.
 
 ### Prior Provisions
 
