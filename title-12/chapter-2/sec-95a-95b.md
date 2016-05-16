@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t12/s95a /us/usc/t12/s95b
 title: 12
 chapter: 2
 section: 95a, 95b

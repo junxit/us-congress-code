@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t12/s5 /us/usc/t12/s6
 title: 12
 chapter: 1
 section: 5, 6
