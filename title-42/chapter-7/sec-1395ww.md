@@ -1167,7 +1167,7 @@ section: 1395ww
   - **(3)** *Meaningful EHR user*
     - **(A)** *In general* For purposes of paragraph (1), an eligible hospital shall be treated as a meaningful EHR user for an EHR reporting period for a payment year (or, for purposes of subsection (b)(3)(B)(ix), for an EHR reporting period under such subsection for a fiscal year) if each of the following requirements are met:
       - **(i)** *Meaningful use of certified EHR technology* The eligible hospital demonstrates to the satisfaction of the Secretary, in accordance with subparagraph (C)(i), that during such period the hospital is using certified EHR technology in a meaningful manner.
-      - **(ii)** *Information exchange* The eligible hospital demonstrates to the satisfaction of the Secretary, in accordance with subparagraph (C)(i), that during such period such certified EHR technology is connected in a manner that provides, in accordance with law and standards applicable to the exchange of information, for the electronic exchange of health information to improve the quality of health care, such as promoting care coordination.
+      - **(ii)** *Information exchange* The eligible hospital demonstrates to the satisfaction of the Secretary, in accordance with subparagraph (C)(i), that during such period such certified EHR technology is connected in a manner that provides, in accordance with law and standards applicable to the exchange of information, for the electronic exchange of health information to improve the quality of health care, such as promoting care coordination, and the hospital demonstrates (through a process specified by the Secretary, such as the use of an attestation) that the hospital has not knowingly and willfully taken action (such as to disable functionality) to limit or restrict the compatibility or interoperability of the certified EHR technology.
       - **(iii)** *Reporting on measures using EHR* Subject to subparagraph (B)(ii) and using such certified EHR technology, the eligible hospital submits information for such period, in a form and manner specified by the Secretary, on such clinical quality measures and such other measures as selected by the Secretary under subparagraph (B)(i).
     - **(B)** *Reporting on measures*
       - **(i)** *Selection* The Secretary shall select measures for purposes of subparagraph (A)(iii) but only consistent with the following:
@@ -1451,10 +1451,6 @@ section: 1395ww
 13 So in original. Probably should not be capitalized.
 
 14 So in original. Probably should be “(6)(A)”.
-
-### Amendment of Subsection (n)(3)(A)(ii)
-
-Pub. L. 114–10, title I, § 106(b)(2)(B), (C), Apr. 16, 2015, 129 Stat. 139, 140, provided that, applicable to meaningful EHR users as of the date that is one year after Apr. 16, 2015, subsection (n)(3)(A)(ii) of this section is amended by inserting before the period at the end the following: “, and the hospital demonstrates (through a process specified by the Secretary, such as the use of an attestation) that the hospital has not knowingly and willfully taken action (such as to disable functionality) to limit or restrict the compatibility or interoperability of the certified EHR technology”. See 2015 Amendment note below.
 
 ### References in Text
 
