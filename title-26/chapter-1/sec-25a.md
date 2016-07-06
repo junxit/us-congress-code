@@ -74,7 +74,7 @@ section: 25A
       - **(i)** such dollar amount, multiplied by
       - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2000” for “calendar year 1992” in subparagraph (B) thereof.
     - **(B)** *Rounding* If any amount as adjusted under subparagraph (A) is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
-- **(i)** *American opportunity tax credit* In the case of any taxable year beginning after 2008—
+- **(i)** *American Opportunity Tax Credit* In the case of any taxable year beginning after 2008—
   - **(1)** *Increase in credit* The Hope Scholarship Credit shall be an amount equal to the sum of—
     - **(A)** 100 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year (for education furnished to the eligible student during any academic period beginning in such taxable year) as does not exceed $2,000, plus
     - **(B)** 25 percent of such expenses so paid as exceeds $2,000 but does not exceed $4,000.

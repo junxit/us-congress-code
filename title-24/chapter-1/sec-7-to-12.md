@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t24/s7...12
 title: 24
 chapter: 1
 section: 7 to 12

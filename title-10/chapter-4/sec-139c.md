@@ -22,7 +22,7 @@ section: 139c
   - **(9)** Executing the authorities of the Manufacturing Technology Program under section 2521 of this title.
   - **(10)** Providing policy and oversight of matters related to materials critical to national security to ensure a secure supply of such materials to the Department of Defense.
   - **(11)** Carrying out the activities of the Department of Defense relating to the Defense Production Act Committee established under section 722 of the Defense Production Act of 1950 (50 U.S.C. App. 2171).
-  - **(12)** Consistent with section 2(b) of the Defense Production Act of 1950 (50 U.S.C. App. 2062(b)),1 executing other applicable authorities provided under the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.),1 including authorities under titles I and III of such Act.
+  - **(12)** Consistent with section 2(b) of the Defense Production Act of 1950 (50 U.S.C. App. 2062(b)),11 See References in Text note below. executing other applicable authorities provided under the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.),1 including authorities under titles I and III of such Act.
   - **(13)** Establishing policies related to international technology security and export control issues.
   - **(14)** Establishing policies related to industrial independent research and development programs under section 2372 of this title.
   - **(15)** Coordinating with the Director of Small Business Programs on all matters related to industrial base policy of the Department of Defense.
@@ -37,6 +37,8 @@ section: 139c
 (Added § 139e and renumbered § 139c, Pub. L. 111–383, div. A, title VII, § 896(a), title IX, § 901(f), Jan. 7, 2011, 124 Stat. 4314, 4322; amended Pub. L. 112–81, div. A, title VIII, § 855, Dec. 31, 2011, 125 Stat. 1521; Pub. L. 112–239, div. A, title IX, § 901(a), (b), title X, § 1076(a)(13), (b)(3), Jan. 2, 2013, 126 Stat. 1863, 1864, 1948, 1949.)
 
 ## Notes
+
+1 See References in Text note below.
 
 ### References in Text
 
