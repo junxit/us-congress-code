@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t27/s43a /us/usc/t27/s43b
 title: 27
 chapter: 2
 section: 43a, 43b
