@@ -15,8 +15,9 @@ section: 1397bb
   - **(5)** eligibility standards consistent with subsection (b) of this section;
   - **(6)** outreach activities consistent with subsection (c) of this section; and
   - **(7)** methods (including monitoring) used—
-    - **(A)** to assure the quality and appropriateness of care, particularly with respect to well-baby care, well-child care, and immunizations provided under the plan, and
-    - **(B)** to assure access to covered services, including emergency services and services described in section 1397cc(c)(5) of this title.
+    - **(A)** to assure the quality and appropriateness of care, particularly with respect to well-baby care, well-child care, and immunizations provided under the plan;
+    - **(B)** to assure access to covered services, including emergency services and services described in section 1397cc(c)(5) of this title; and
+    - **(C)** to ensure that the State agency involved is in compliance with subparagraphs (A), (B), and (C) of section 1320a–7n(b)(2) of this title.
 - **(b)** *General description of eligibility standards and methodology*
   - **(1)** *Eligibility standards*
     - **(A)** *In general* The plan shall include a description of the standards used to determine the eligibility of targeted low-income children for child health assistance under the plan. Such standards may include (to the extent consistent with this subchapter) those relating to the geographic areas to be served by the plan, age, income and resources (including any standards relating to spenddowns and disposition of resources), residency, disability status (so long as any standard relating to such status does not restrict eligibility), access to or coverage under other health coverage, and duration of eligibility. Such standards may not discriminate on the basis of diagnosis.
@@ -44,7 +45,7 @@ section: 1397bb
 
 ## Source credit
 
-(Aug. 14, 1935, ch. 531, title XXI, § 2102, as added Pub. L. 105–33, title IV, § 4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, § 111(b)(2), title II, §§ 201(b)(2)(B)(i), 212, title III, § 302(a), title V, § 501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86; Pub. L. 111–148, title II, § 2101(d)(1), Mar. 23, 2010, 124 Stat. 287; Pub. L. 111–152, title I, § 1004(b)(2)(A), Mar. 30, 2010, 124 Stat. 1034.)
+(Aug. 14, 1935, ch. 531, title XXI, § 2102, as added Pub. L. 105–33, title IV, § 4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, § 111(b)(2), title II, §§ 201(b)(2)(B)(i), 212, title III, § 302(a), title V, § 501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86; Pub. L. 111–148, title II, § 2101(d)(1), Mar. 23, 2010, 124 Stat. 287; Pub. L. 111–152, title I, § 1004(b)(2)(A), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 114–198, title VII, § 706(b)(2), July 22, 2016, 130 Stat. 754.)
 
 ## Notes
 
@@ -56,7 +57,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(1)(B)(v), is class
 
 ### Amendments
 
-2010—Subsec. (b)(1)(B)(v). Pub. L. 111–152 substituted “modified adjusted gross income” for “modified gross income”. Pub. L. 111–148 added cl. (v). 2009—Subsec. (a)(7)(B). Pub. L. 111–3, § 501(a)(2), inserted “and services described in section 1397cc(c)(5) of this title” after “emergency services”. Subsec. (b)(1)(B)(iii), (iv). Pub. L. 111–3, §§ 111(b)(2), 501(b)(2), added cls. (iii) and (iv). Subsec. (b)(4), (5). Pub. L. 111–3, § 212, added par. (4) and redesignated former par. (4) as (5). Subsec. (c)(1). Pub. L. 111–3, § 201(b)(2)(B)(i), inserted “(through community health workers and others)” after “Outreach”. Subsec. (c)(3). Pub. L. 111–3, § 302(a), added par. (3).
+2016—Subsec. (a)(7)(C). Pub. L. 114–198 added subpar. (C). 2010—Subsec. (b)(1)(B)(v). Pub. L. 111–152 substituted “modified adjusted gross income” for “modified gross income”. Pub. L. 111–148 added cl. (v). 2009—Subsec. (a)(7)(B). Pub. L. 111–3, § 501(a)(2), inserted “and services described in section 1397cc(c)(5) of this title” after “emergency services”. Subsec. (b)(1)(B)(iii), (iv). Pub. L. 111–3, §§ 111(b)(2), 501(b)(2), added cls. (iii) and (iv). Subsec. (b)(4), (5). Pub. L. 111–3, § 212, added par. (4) and redesignated former par. (4) as (5). Subsec. (c)(1). Pub. L. 111–3, § 201(b)(2)(B)(i), inserted “(through community health workers and others)” after “Outreach”. Subsec. (c)(3). Pub. L. 111–3, § 302(a), added par. (3).
 
 ### Effective Date of 2009 Amendment
 

@@ -10,7 +10,7 @@ section: 3058bb
 As used in this subchapter:
 
 - **(1)** *Elder right* The term “elder right” means a right of an older individual.
-- **(2)** *Vulnerable elder rights protection activity* The term “vulnerable elder rights protection activity” means an activity funded under part A of this subchapter.
+- **(2)** *Vulnerable elder rights protection activity* The term “vulnerable elder rights protection activity” means an activity funded under part A.
 
 ## Source credit
 
@@ -20,4 +20,4 @@ As used in this subchapter:
 
 ### Amendments
 
-2000—Par. (2). Pub. L. 106–501 substituted “part A of this subchapter” for “subpart II, III, IV, or V of this subchapter”.
+2000—Par. (2). Pub. L. 106–501 substituted “part A” for “subpart II, III, IV, or V of this subchapter”.

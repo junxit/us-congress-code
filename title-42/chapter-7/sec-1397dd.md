@@ -234,7 +234,7 @@ section: 1397dd
     - **(B)** *For the commonwealths and territories* Subject to the succeeding provisions of this paragraph and paragraph (5), the Secretary shall allot for fiscal year 2009 from the amount made available under subsection (a)(12) to each of the commonwealths and territories described in subsection (c)(3) an amount equal to the highest amount of Federal payments to the commonwealth or territory under this subchapter for any fiscal year occurring during the period of fiscal years 1999 through 2008, multiplied by the allotment increase factor determined under paragraph (6) for fiscal year 2009, except that subparagraph (B) thereof shall be applied by substituting “the United States” for “the State”.
     - **(C)** *Adjustment for qualifying States* In the case of a qualifying State described in paragraph (2) of section 1397ee(g) of this title, the Secretary shall permit the State to submit a revised projection described in subparagraph (A)(iii) in order to take into account changes in such projections attributable to the application of paragraph (4) of such section.
   - **(2)** *For fiscal years 2010 through 2016*
-    - **(A)** *In general* Subject to paragraphs (4) and (6), from the amount made available under paragraphs (13) through (15) of subsection (a) for each of fiscal years 2010 through 2012, respectively, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for each such fiscal year as follows:
+    - **(A)** *In general* Subject to paragraphs (4) and (6),55 See References in Text note below. from the amount made available under paragraphs (13) through (15) of subsection (a) for each of fiscal years 2010 through 2012, respectively, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for each such fiscal year as follows:
       - **(i)** *Growth factor update for fiscal year 2010* For fiscal year 2010, the allotment of the State is equal to the sum of—
         - **(I)** the amount of the State allotment under paragraph (1) for fiscal year 2009; and
         - **(II)** the amount of any payments made to the State under subsection (k), (l), or (n) for fiscal year 2009,
@@ -324,9 +324,11 @@ section: 1397dd
 
 4 So in original. The comma probably should not appear.
 
+5 See References in Text note below.
+
 ### References in Text
 
-Section 108 of the Children’s Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (m)(3)(A), (D)(i)(II), is section 108 of title I of Pub. L. 111–3, Feb. 4, 2009, 123 Stat. 25, which is not classified to the Code. Section 301(b)(3) of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (m)(4)(A), (D)(i)(II), is section 301(b)(3) of Pub. L. 114–10, title III, Apr. 16, 2015, 129 Stat. 157, which relates to a one-time appropriation for fiscal year 2017 and is not classified to the Code.
+Paragraphs (4) and (6), referred to in subsec. (m)(2)(A), were redesignated (5) and (7), respectively, by Pub. L. 114–10, title III, § 301(b)(1)(F), Apr. 16, 2015, 129 Stat. 156. Section 108 of the Children’s Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (m)(3)(A), (D)(i)(II), is section 108 of title I of Pub. L. 111–3, Feb. 4, 2009, 123 Stat. 25, which is not classified to the Code. Section 301(b)(3) of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (m)(4)(A), (D)(i)(II), is section 301(b)(3) of Pub. L. 114–10, title III, Apr. 16, 2015, 129 Stat. 157, which relates to a one-time appropriation for fiscal year 2017 and is not classified to the Code.
 
 ### Amendments
 

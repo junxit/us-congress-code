@@ -128,7 +128,28 @@ section: 3797aa
     - **(E)** *Campus security personnel training* To provide for programs that offer campus security personnel training in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved.
   - **(2)** *BJA training models* For purposes of paragraph (1)(A), the Director of the Bureau of Justice Assistance shall develop training models for training law enforcement personnel in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved, including suicide prevention.
   - **(3)** *Matching funds* The Federal share of funds for a program funded by a grant received under this subsection may not exceed 50 percent of the costs of the program. The non-Federal share of payments made for such a program may be made in cash or in-kind fairly evaluated, including planned equipment or services.
-- **(i)** *Authorization of appropriations*
+- **(i)** *Assisting veterans*
+  - **(1)** *Definitions* In this subsection:
+    - **(A)** *Peer-to-peer services or programs* The term “peer-to-peer services or programs” means services or programs that connect qualified veterans with other veterans for the purpose of providing support and mentorship to assist qualified veterans in obtaining treatment, recovery, stabilization, or rehabilitation.
+    - **(B)** *Qualified veteran* The term “qualified veteran” means a preliminarily qualified offender who—
+      - **(i)** served on active duty in any branch of the Armed Forces, including the National Guard or Reserves; and
+      - **(ii)** was discharged or released from such service under conditions other than dishonorable, unless the reason for the dishonorable discharge was attributable to a substance abuse disorder.
+    - **(C)** *Veterans treatment court program* The term “veterans treatment court program” means a court program involving collaboration among criminal justice, veterans, and mental health and substance abuse agencies that provides qualified veterans with—
+      - **(i)** intensive judicial supervision and case management, which may include random and frequent drug testing where appropriate;
+      - **(ii)** a full continuum of treatment services, including mental health services, substance abuse services, medical services, and services to address trauma;
+      - **(iii)** alternatives to incarceration; or
+      - **(iv)** other appropriate services, including housing, transportation, mentoring, employment, job training, education, or assistance in applying for and obtaining available benefits.
+  - **(2)** *Veterans assistance program*
+    - **(A)** *In general* The Attorney General, in consultation with the Secretary of Veterans Affairs, may award grants under this subsection to applicants to establish or expand—
+      - **(i)** veterans treatment court programs;
+      - **(ii)** peer-to-peer services or programs for qualified veterans;
+      - **(iii)** practices that identify and provide treatment, rehabilitation, legal, transitional, and other appropriate services to qualified veterans who have been incarcerated; or
+      - **(iv)** training programs to teach criminal justice, law enforcement, corrections, mental health, and substance abuse personnel how to identify and appropriately respond to incidents involving qualified veterans.
+    - **(B)** *Priority* In awarding grants under this subsection, the Attorney General shall give priority to applications that—
+      - **(i)** demonstrate collaboration between and joint investments by criminal justice, mental health, substance abuse, and veterans service agencies;
+      - **(ii)** promote effective strategies to identify and reduce the risk of harm to qualified veterans and public safety; and
+      - **(iii)** propose interventions with empirical support to improve outcomes for qualified veterans.
+- **(j)** *Authorization of appropriations*
   - **(1)** *In general* There are authorized to be appropriated to the Department of Justice to carry out this section—
     - **(A)** $50,000,000 for fiscal year 2005;
     - **(B)** such sums as may be necessary for each of the fiscal years 2006 and 2007; and
@@ -137,7 +158,7 @@ section: 3797aa
 
 ## Source credit
 
-(Pub. L. 90–351, title I, § 2991, as added Pub. L. 108–414, § 4(a), Oct. 30, 2004, 118 Stat. 2328; amended Pub. L. 110–416, §§ 3, 4, Oct. 14, 2008, 122 Stat. 4352, 4353.)
+(Pub. L. 90–351, title I, § 2991, as added Pub. L. 108–414, § 4(a), Oct. 30, 2004, 118 Stat. 2328; amended Pub. L. 110–416, §§ 3, 4, Oct. 14, 2008, 122 Stat. 4352, 4353; Pub. L. 114–198, title V, § 502, July 22, 2016, 130 Stat. 728.)
 
 ## Notes
 
@@ -147,7 +168,7 @@ The Mentally Ill Offender Treatment and Crime Reduction Act of 2004, referred to
 
 ### Amendments
 
-2008—Subsec. (c). Pub. L. 110–416, § 3(c), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Attorney General, in awarding funds under this section, shall give priority to applications that— “(1) demonstrate the strongest commitment to ensuring that such funds are used to promote both public health and public safety; “(2) demonstrate the active participation of each co-applicant in the administration of the collaboration program; “(3) document, in the case of an application for a grant to be used in whole or in part to fund treatment services for adults or juveniles during periods of incarceration or detention, that treatment programs will be available to provide transition and re-entry services for such individuals; and “(4) have the support of both the Attorney General and the Secretary.” Subsec. (h). Pub. L. 110–416, § 4(2), added subsec. (h). Former subsec. (h) redesignated (i). Pub. L. 110–416, § 3(b), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, realigned margins, and added par. (2). Pub. L. 110–416, § 3(a), substituted “for each of the fiscal years 2006 and 2007; and” for “for fiscal years 2006 through 2009.” in par. (2) and added par. (3). Subsec. (i). Pub. L. 110–416, § 4(1), redesignated subsec. (h) as (i).
+2016—Subsecs. (i), (j). Pub. L. 114–198 added subsec. (i) and redesignated former subsec. (i) as (j). 2008—Subsec. (c). Pub. L. 110–416, § 3(c), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Attorney General, in awarding funds under this section, shall give priority to applications that— “(1) demonstrate the strongest commitment to ensuring that such funds are used to promote both public health and public safety; “(2) demonstrate the active participation of each co-applicant in the administration of the collaboration program; “(3) document, in the case of an application for a grant to be used in whole or in part to fund treatment services for adults or juveniles during periods of incarceration or detention, that treatment programs will be available to provide transition and re-entry services for such individuals; and “(4) have the support of both the Attorney General and the Secretary.” Subsec. (h). Pub. L. 110–416, § 4(2), added subsec. (h). Former subsec. (h) redesignated (i). Pub. L. 110–416, § 3(b), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, realigned margins, and added par. (2). Pub. L. 110–416, § 3(a), substituted “for each of the fiscal years 2006 and 2007; and” for “for fiscal years 2006 through 2009.” in par. (2) and added par. (3). Subsec. (i). Pub. L. 110–416, § 4(1), redesignated subsec. (h) as (i).
 
 ### Findings
 
