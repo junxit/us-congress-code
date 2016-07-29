@@ -5,13 +5,10 @@ chapter: 14
 section: 494a
 ---
 
-# § 494a. Certification of rental proceeds
+# § 494a. Transferred
 
-Notwithstanding any other provision of law, any actual rental proceeds from the lease of land acquired under section 488 of this title certified by the Secretary of the Interior shall be deemed—
+## Notes
 
-- **(1)** to constitute the rental value of that land; and
-- **(2)** to satisfy the requirement for appraisal of that land.
+### Codification
 
-## Source credit
-
-(Pub. L. 109–221, title II, § 203, May 12, 2006, 120 Stat. 341.)
+Section 494a was editorially reclassified as section 5144 of this title.

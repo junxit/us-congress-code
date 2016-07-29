@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t43/s25...25b
 title: 43
 chapter: 1
 section: 25 to 25b

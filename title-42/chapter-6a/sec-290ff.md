@@ -9,7 +9,7 @@ section: 290ff
 
 - **(a)** *Grants to certain public entities*
   - **(1)** *In general* The Secretary, acting through the Director of the Center for Mental Health Services, shall make grants to public entities for the purpose of providing comprehensive community mental health services to children with a serious emotional disturbance.
-  - **(2)** *“Public entity” defined* For purposes of this part, the term “public entity” means any State, any political subdivision of a State, and any Indian tribe or tribal organization (as defined in section 450b(b) and section 450b(c) 11 See References in Text note below. of title 25).
+  - **(2)** *“Public entity” defined* For purposes of this part, the term “public entity” means any State, any political subdivision of a State, and any Indian tribe or tribal organization (as defined in section 5304(b) and section 5304(c) 11 See References in Text note below. of title 25).
 - **(b)** *Considerations in making grants*
   - **(1)** *Requirement of status as grantee under part B of subchapter XVII* The Secretary may make a grant under subsection (a) of this section to a public entity only if—
     - **(A)** in the case of a public entity that is a State, the State is a grantee under section 300x of this title;
@@ -50,7 +50,7 @@ section: 290ff
 
 ### References in Text
 
-Subsections (b) and (c) of section 450b of title 25, referred to in subsec. (a)(2), do not contain definitions of the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in section 450b of Title 25, Indians. The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+Subsections (b) and (c) of section 5304 of title 25, referred to in subsec. (a)(2), do not contain definitions of the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section. The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 ### Prior Provisions
 

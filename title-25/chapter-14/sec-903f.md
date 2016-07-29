@@ -5,10 +5,10 @@ chapter: 14
 section: 903f
 ---
 
-# § 903f. Authorization of appropriations
+# § 903f. Omitted
 
-There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter.
+## Notes
 
-## Source credit
+### Codification
 
-(Pub. L. 93–197, § 8, Dec. 22, 1973, 87 Stat. 773.)
+Section, Pub. L. 93–197, § 8, Dec. 22, 1973, 87 Stat. 773, which authorized appropriations as may be necessary to carry out the provisions of this subchapter, was omitted from the Code as being of special and not general application.

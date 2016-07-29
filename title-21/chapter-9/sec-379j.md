@@ -39,7 +39,7 @@ section: 379j
       - **(vi)** *Sole discretion to refund* The Secretary shall have sole discretion to refund a fee or portion of the fee under clause (iii) or (v). A determination by the Secretary concerning a refund under clause (iii) or (v) shall not be reviewable.
   - **(3)** *Annual establishment registration fee*
     - **(A)** *In general* Except as provided in subparagraph (B) and subsection (f), each establishment subject to a registration fee shall be subject to a fee for each initial or annual registration under section 360 of this title beginning with its registration for fiscal year 2008.
-    - **(B)** *Exception* No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act 11 See References in Text note below. [25 U.S.C. 450 et seq.]), unless a device manufactured by the establishment is to be distributed commercially.
+    - **(B)** *Exception* No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act 11 See References in Text note below. [25 U.S.C. 5301 et seq.]), unless a device manufactured by the establishment is to be distributed commercially.
     - **(C)** *Payment* The fee required under subparagraph (A) shall be due once each fiscal year, upon the later of—
       - **(i)** the initial or annual registration (as applicable) of the establishment under section 360 of this title; or
       - **(ii)** the first business day after the date of enactment of an appropriations Act providing for the collection and obligation of fees for such year under this section.
@@ -142,7 +142,7 @@ For termination of section by section 207(a) of Pub. L. 112–144, see Effective
 
 ### References in Text
 
-The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 ### Amendments
 

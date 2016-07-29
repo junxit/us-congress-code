@@ -5,10 +5,10 @@ chapter: 14
 section: 983g
 ---
 
-# § 983g. Regulations
+# § 983g. Omitted
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this subchapter.
+## Notes
 
-## Source credit
+### Codification
 
-(Pub. L. 101–484, § 9, Oct. 31, 1990, 104 Stat. 1169.)
+Section, Pub. L. 101–484, § 9, Oct. 31, 1990, 104 Stat. 1169, which directed the Secretary of the Interior to prescribe regulations necessary to carry out the provisions of this subchapter, was omitted from the Code as being of special and not general application.

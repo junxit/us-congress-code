@@ -9,7 +9,7 @@ section: 178g
 
 In carrying out the provisions of this subchapter, the Secretary of Agriculture is authorized to—
 
-- **(a)** make grants to States, education institutions, scientific organizations, and Indian tribes as defined in the Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450), and enter into contracts with such institutions and organizations and with industrial or engineering firms;
+- **(a)** make grants to States, education institutions, scientific organizations, and Indian tribes as defined in the Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450),11 See References in Text note below. and enter into contracts with such institutions and organizations and with industrial or engineering firms;
 - **(b)** acquire the services of biologists, agronomists, foresters, geneticists, chemists, engineers, economists, and other personnel by contract or otherwise;
 - **(c)** utilize the facilities of Federal and State scientific laboratories;
 - **(d)** establish and operate necessary facilities and plantations to carry out the continuous research, testing, development, and programing necessary to effectuate the purposes of this subchapter;
@@ -26,9 +26,11 @@ In carrying out the provisions of this subchapter, the Secretary of Agriculture 
 
 ## Notes
 
+1 See References in Text note below.
+
 ### References in Text
 
-The Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450), as amended, referred to in cl. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450), referred to in cl. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 ### Amendments
 

@@ -5,10 +5,10 @@ chapter: 14
 section: 610e
 ---
 
-# § 610e. Assignment of income
+# § 610e. Omitted
 
-The Swinomish Indian Tribal Community may assign any income due it, subject to approval of the Secretary of the Interior. Such approval may be given in general terms or may be limited to specified assignments.
+## Notes
 
-## Source credit
+### Codification
 
-(Pub. L. 90–534, § 7, Sept. 28, 1968, 82 Stat. 884.)
+Section, Pub. L. 90–534, § 7, Sept. 28, 1968, 82 Stat. 884, which authorized the assignment of income by the Swinomish Indian Tribal Community, was omitted from the Code as being of special and not general application.

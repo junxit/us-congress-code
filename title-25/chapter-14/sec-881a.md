@@ -5,10 +5,10 @@ chapter: 14
 section: 881a
 ---
 
-# § 881a. Trusts and other procedures for protection of minors and persons under legal disability
+# § 881a. Omitted
 
-Sums payable to enrollees or their heirs or legatees who are less than twenty-one years of age or who are under a legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary of the Interior determines appropriate to protect the best interests of such persons.
+## Notes
 
-## Source credit
+### Codification
 
-(Pub. L. 91–401, § 2, Sept. 16, 1970, 84 Stat. 838.)
+Section, Pub. L. 91–401, § 2, Sept. 16, 1970, 84 Stat. 838, which related to payments to minor members of the Potawatomi Indians and members under legal disability, was omitted from the Code as being of special and not general application.

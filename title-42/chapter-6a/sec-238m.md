@@ -19,7 +19,7 @@ section: 238m
   - **(2)** No such contract shall be entered into with an entity unless the Secretary finds that the entity will perform its obligations under the contract efficiently and effectively and will meet such requirements as to financial responsibility, legal authority, and other matters as he finds pertinent.
 - **(c)** *Advances under contracts* A contract under subsection (a) of this section may provide for advances of funds to enable entities to make payments under the contract.
 - **(d)** *Applicable statutory provisions* Subsections (d) and (e) 11 See References in Text note below. of section 1395u of this title shall apply to contracts with entities under subsection (a) of this section in the same manner as they apply to contracts with carriers under that section.
-- **(e)** *“Fiscal agent” defined* In this section, the term “fiscal agent” means a carrier described in section 1395u(f)(1) 1 of this title and includes, with respect to contracts under subsection (a)(1)(A) of this section, an Indian tribe or tribal organization acting under contract with the Secretary under the Indian Self-Determination Act (Public Law 93–638) [25 U.S.C. 450f et seq.].
+- **(e)** *“Fiscal agent” defined* In this section, the term “fiscal agent” means a carrier described in section 1395u(f)(1) 1 of this title and includes, with respect to contracts under subsection (a)(1)(A) of this section, an Indian tribe or tribal organization acting under contract with the Secretary under the Indian Self-Determination Act (Public Law 93–638) [25 U.S.C. 5321 et seq.].
 
 ## Source credit
 
@@ -31,7 +31,7 @@ section: 238m
 
 ### References in Text
 
-Subsections (d), (e), and (f) of section 1395u of this title, referred to in subsecs. (d) and (e), were repealed by Pub. L. 108–173, title IX, § 911(c)(5), Dec. 8, 2003, 117 Stat. 2384. The Indian Self-Determination Act, referred to in subsec. (e), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+Subsections (d), (e), and (f) of section 1395u of this title, referred to in subsecs. (d) and (e), were repealed by Pub. L. 108–173, title IX, § 911(c)(5), Dec. 8, 2003, 117 Stat. 2384. The Indian Self-Determination Act, referred to in subsec. (e), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 ### Codification
 

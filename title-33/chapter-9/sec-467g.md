@@ -12,7 +12,7 @@ section: 467g
   - **(2)** devices for the continued monitoring of the safety of dams;
   - **(3)** development and maintenance of information resources systems needed to support managing the safety of dams; and
   - **(4)** initiatives to guide the formulation of effective public policy and advance improvements in dam safety engineering, security, and management.
-- **(b)** *Consultation* The Administrator shall provide for State participation in research under subsection (a) of this section and periodically advise all States and Congress of the results of the research.
+- **(b)** *Consultation* The Administrator shall provide for State participation in research under subsection (a) and periodically advise all States and Congress of the results of the research.
 
 ## Source credit
 

@@ -5,10 +5,10 @@ chapter: 14
 section: 465b
 ---
 
-# § 465b. “Klamath Tribe of Indians” defined
+# § 465b. Omitted
 
-As used in this section and section 465a of this title the term “Klamath Tribe of Indians” includes the Klamath and Modoc Tribes, and the Yahooskin Band of Snake Indians.
+## Notes
 
-## Source credit
+### Codification
 
-(Feb. 24, 1942, ch. 113, § 2, 56 Stat. 121.)
+Section, act Feb. 24, 1942, ch. 113, § 2, 56 Stat. 121, which defined “Klamath Tribe of Indians”, was omitted from the Code as being of special and not general application.

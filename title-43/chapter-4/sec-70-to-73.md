@@ -1,5 +1,5 @@
 ---
-identifier: 
+identifier: /us/usc/t43/s70...73
 title: 43
 chapter: 4
 section: 70 to 73

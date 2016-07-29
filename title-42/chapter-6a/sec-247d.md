@@ -55,7 +55,7 @@ section: 247d
     - **(D)** an analysis of the extent to which, if any, Federal programs from which personnel have been temporarily reassigned have been adversely affected by the reassignment; and
     - **(E)** recommendations on how medical surge capacity could be improved in responding to public health emergencies and the impact of the reassignment flexibility under this section on such surge capacity.
   - **(7)** *Definitions* In this subsection—
-    - **(A)** the terms “Indian tribe” and “tribal organization” have the meanings given such terms in section 450b of title 25; and
+    - **(A)** the terms “Indian tribe” and “tribal organization” have the meanings given such terms in section 5304 of title 25; and
     - **(B)** the term “State” includes, in addition to the entities listed in the definition of such term in section 201 of this title, the Freely Associated States.
   - **(8)** *Sunset* This subsection shall terminate on September 30, 2018.
 

@@ -44,7 +44,7 @@ section: 941c
   - **(1)** *In general* Except as provided in paragraphs (2) and (4), not less than 25 percent of the cost of implementing a proposal selected under subsection (d) (excluding the cost of establishing sea lamprey barriers) shall be paid in cash or in-kind contributions by non-Federal sources.
   - **(2)** *Regional projects* Regional projects selected under subsection (d) shall be exempt from cost sharing if the Director determines that the authorization for the project does not require a non-Federal cost-share.
   - **(3)** *Exclusion of Federal funds from non-Federal share* The Director may not consider the expenditure, directly or indirectly, of Federal funds received by any entity to be a contribution by a non-Federal source for purposes of this subsection.
-  - **(4)** *Effect on certain Indian tribes* Nothing in this subsection affects an Indian tribe affected by an alternative applicable cost sharing requirement under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+  - **(4)** *Effect on certain Indian tribes* Nothing in this subsection affects an Indian tribe affected by an alternative applicable cost sharing requirement under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).11 See References in Text note below.
 
 ## Source credit
 
@@ -52,9 +52,11 @@ section: 941c
 
 ## Notes
 
+1 See References in Text note below.
+
 ### References in Text
 
-The Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, referred to in subsec. (b)(2)(B)(iv), is title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, which is classified principally to chapter 67 (§ 4701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of this title and Tables. Executive Order 13340, referred to in subsec. (b)(2)(B)(vi), is Ex. Ord. No. 13340, May 18, 2004, 69 F.R. 29043, which is set out as a note under section 1268 of Title 33, Navigation and Navigable Waters. The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, referred to in subsec. (b)(2)(B)(iv), is title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, which is classified principally to chapter 67 (§ 4701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of this title and Tables. Executive Order 13340, referred to in subsec. (b)(2)(B)(vi), is Ex. Ord. No. 13340, May 18, 2004, 69 F.R. 29043, which is set out as a note under section 1268 of Title 33, Navigation and Navigable Waters. The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 ### Codification
 

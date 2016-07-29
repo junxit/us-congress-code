@@ -23,7 +23,7 @@ section: 256d
   - **(7)** Entities providing services with assistance under subchapter III–A of this chapter or subchapter XVII of this chapter.
   - **(8)** Entities receiving assistance under section 300 of this title (relating to family planning).
   - **(9)** Entities receiving assistance under subchapter XXIV of this chapter (relating to services with respect to acquired immune deficiency syndrome).
-  - **(10)** Non-Federal entities authorized under the Indian Self-Determination Act [25 U.S.C. 450f et seq.].
+  - **(10)** Non-Federal entities authorized under the Indian Self-Determination Act [25 U.S.C. 5321 et seq.].
 
 ## Source credit
 
@@ -35,7 +35,7 @@ section: 256d
 
 ### References in Text
 
-Section 247b–7 of this title, referred to in subsec. (c)(1), relates to loan repayment program and not to assistance relating to tuberculosis. Sections 254b and 254c of this title, referred to in subsec. (c)(3), (4), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§ 254b et seq.) of this part by Pub. L. 104–299, § 2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title. Section 256a of this title, referred to in subsec. (c)(6), was repealed by Pub. L. 104–299, § 4(a)(3), Oct. 11, 1996, 110 Stat. 3645. The Indian Self-Determination Act, referred to in subsec. (c)(10), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+Section 247b–7 of this title, referred to in subsec. (c)(1), relates to loan repayment program and not to assistance relating to tuberculosis. Sections 254b and 254c of this title, referred to in subsec. (c)(3), (4), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§ 254b et seq.) of this part by Pub. L. 104–299, § 2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title. Section 256a of this title, referred to in subsec. (c)(6), was repealed by Pub. L. 104–299, § 4(a)(3), Oct. 11, 1996, 110 Stat. 3645. The Indian Self-Determination Act, referred to in subsec. (c)(10), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 ### Amendments
 

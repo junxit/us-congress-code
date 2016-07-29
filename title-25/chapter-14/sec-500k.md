@@ -5,16 +5,10 @@ chapter: 14
 section: 500k
 ---
 
-# § 500k. Rules and regulations
-
-The Secretary of the Interior is hereby authorized to promulgate such rules and regulations as, in his judgment, are necessary to carry into effect the provisions of this subchapter.
-
-## Source credit
-
-(Sept. 1, 1937, ch. 897, § 12, 50 Stat. 902.)
+# § 500k. Omitted
 
 ## Notes
 
 ### Codification
 
-Section was formerly classified to section 250k of Title 48, Territories and Insular Possessions.
+Section, act Sept. 1, 1937, ch. 897, § 12, 50 Stat. 902, which authorized Secretary to promulgate rules and regulations, was omitted from the Code as being of special and not general application.

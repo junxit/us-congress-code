@@ -19,7 +19,7 @@ section: 162a
     - **(C)** the mutual fund is registered by the Securities and Exchange Commission; and
     - **(D)** the Secretary is satisfied with respect to the security and protection provided by the mutual fund against loss of the principal of such trust funds.
   - **(2)** The Secretary, as a condition to complying with a request pursuant to paragraph (1) of this subsection, is authorized to require such tribe or individual Indian, as the case may be, to enter into an agreement with the Secretary for the purpose of relieving the United States of any liability in connection with the interest, or amount thereof, payable in connection with such trust funds so invested during the period of that investment.
-  - **(3)** Investments pursuant to paragraph (1) of this subsection shall be deemed to be the same as cash or a bank deposit for purposes of section 955 of this title.
+  - **(3)** Investments pursuant to paragraph (1) of this subsection shall be deemed to be the same as cash or a bank deposit for purposes of section 955 of this title.22 See References in Text note below.
 - **(d)** *Trust responsibilities of Secretary of the Interior* The Secretary’s proper discharge of the trust responsibilities of the United States shall include (but are not limited to) the following:
   - **(1)** Providing adequate systems for accounting for and reporting trust fund balances.
   - **(2)** Providing adequate controls over receipts and disbursements.
@@ -38,9 +38,11 @@ section: 162a
 
 1 So in original. Probably should be “earnings”.
 
+2 See References in Text note below.
+
 ### References in Text
 
-Section 12B of the Federal Reserve Act, referred to in subsec. (a), formerly classified to section 264 of Title 12, Banks and Banking, has been withdrawn from the Federal Reserve Act and incorporated in the Federal Deposit Insurance Act which is classified to chapter 16 (§ 1811 et seq.) of Title 12.
+Section 12B of the Federal Reserve Act, referred to in subsec. (a), formerly classified to section 264 of Title 12, Banks and Banking, has been withdrawn from the Federal Reserve Act and incorporated in the Federal Deposit Insurance Act which is classified to chapter 16 (§ 1811 et seq.) of Title 12. Section 955 of this title, referred to in subsec. (c)(3), which related to tax exemptions for equalization allotments and cash payments received in lieu thereof by members of the Agua Caliente Band, was omitted from the Code as being of special and not general application.
 
 ### Amendments
 

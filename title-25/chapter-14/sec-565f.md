@@ -5,10 +5,10 @@ chapter: 14
 section: 565f
 ---
 
-# § 565f. Taxes
+# § 565f. Omitted
 
-None of the funds distributed pursuant to this subchapter shall be subject to Federal or State income tax.
+## Notes
 
-## Source credit
+### Codification
 
-(Pub. L. 89–224, § 7, Oct 1, 1965, 79 Stat. 898.)
+Section, Pub. L. 89–224, § 7, Oct 1, 1965, 79 Stat. 898, which exempted funds distributed pursuant to this subchapter from Federal and State income taxes, was omitted from the Code as being of special and not general application.
