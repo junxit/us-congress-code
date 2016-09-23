@@ -11,4 +11,4 @@ section: 458a
 
 ### Codification
 
-Section 458a was editorially reclassified as section 5349 of this title.
+Section 458a was editorially reclassified as section 5352 of this title.
