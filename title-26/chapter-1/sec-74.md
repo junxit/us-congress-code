@@ -19,16 +19,25 @@ section: 74
     - **(B)** the amount by which the value of the award exceeds the amount allowable as a deduction to the employer.
   - **(3)** *Treatment of tax-exempt employers* In the case of an employer exempt from taxation under this subtitle, any reference in this subsection to the amount allowable as a deduction to the employer shall be treated as a reference to the amount which would be allowable as a deduction to the employer if the employer were not exempt from taxation under this subtitle.
   - **(4)** *Cross reference* For provisions excluding certain de minimis fringes from gross income, see section 132(e).
+- **(d)** *Exception for Olympic and Paralympic medals and prizes*
+  - **(1)** *In general* Gross income shall not include the value of any medal awarded in, or any prize money received from the United States Olympic Committee on account of, competition in the Olympic Games or Paralympic Games.
+  - **(2)** *Limitation based on adjusted gross income*
+    - **(A)** *In general* Paragraph (1) shall not apply to any taxpayer for any taxable year if the adjusted gross income (determined without regard to this subsection) of such taxpayer for such taxable year exceeds $1,000,000 (half of such amount in the case of a married individual filing a separate return).
+    - **(B)** *Coordination with other limitations* For purposes of sections 86, 135, 137, 199, 219, 221, 222, and 469, adjusted gross income shall be determined after the application of paragraph (1) and before the application of subparagraph (A).
 
 ## Source credit
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 24; Pub. L. 99–514, title I, §§ 122(a)(1), 123(b)(1), Oct. 22, 1986, 100 Stat. 2109, 2113.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 24; Pub. L. 99–514, title I, §§ 122(a)(1), 123(b)(1), Oct. 22, 1986, 100 Stat. 2109, 2113; Pub. L. 114–239, § 2(a), Oct. 7, 2016, 130 Stat. 973.)
 
 ## Notes
 
 ### Amendments
 
-1986—Subsec. (a). Pub. L. 99–514, § 123(b)(1), which directed that subsec. (a) be amended by substituting “(relating to qualified scholarships)” for “(relating to scholarship and fellowship grants)”, was executed by making the substitution for “(relating to scholarships and fellowship grants)” to reflect the probable intent of Congress. Pub. L. 99–514, § 122(a)(1)(A), substituted “Except as otherwise provided in this section or” for “Except as provided in subsection (b) and”. Subsec. (b). Pub. L. 99–514, § 122(a)(1)(B), (C), inserted “for certain prizes and awards transferred to charities” in heading and added par. (3). Subsec. (c). Pub. L. 99–514, § 122(a)(1)(D), added subsec. (c).
+2016—Subsec. (d). Pub. L. 114–239 added subsec. (d). 1986—Subsec. (a). Pub. L. 99–514, § 123(b)(1), which directed that subsec. (a) be amended by substituting “(relating to qualified scholarships)” for “(relating to scholarship and fellowship grants)”, was executed by making the substitution for “(relating to scholarships and fellowship grants)” to reflect the probable intent of Congress. Pub. L. 99–514, § 122(a)(1)(A), substituted “Except as otherwise provided in this section or” for “Except as provided in subsection (b) and”. Subsec. (b). Pub. L. 99–514, § 122(a)(1)(B), (C), inserted “for certain prizes and awards transferred to charities” in heading and added par. (3). Subsec. (c). Pub. L. 99–514, § 122(a)(1)(D), added subsec. (c).
+
+### Effective Date of 2016 Amendment
+
+Pub. L. 114–239, § 2(b), Oct. 7, 2016, 130 Stat. 973, provided that: “The amendment made by this section [amending this section] shall apply to prizes and awards received after December 31, 2015.”
 
 ### Effective Date of 1986 Amendment
 

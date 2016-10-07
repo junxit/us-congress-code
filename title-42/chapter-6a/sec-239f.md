@@ -8,7 +8,7 @@ section: 239f
 # § 239f. Administration
 
 - **(a)** *Administration by agreement with other agency or agencies* The Secretary may administer any or all of the provisions of this part through Memorandum of Agreement with the head of any appropriate Federal agency.
-- **(b)** *Regulations* The head of the agency administering this part or provisions thereof (including any agency head administering such Act 11 So in original. Probably should be “part”. or provisions through a Memorandum of Agreement under subsection (a) of this section) may promulgate such implementing regulations as may be found necessary and appropriate. Initial implementing regulations may be interim final regulations.
+- **(b)** *Regulations* The head of the agency administering this part or provisions thereof (including any agency head administering such Act 11 So in original. Probably should be “part”. or provisions through a Memorandum of Agreement under subsection (a)) may promulgate such implementing regulations as may be found necessary and appropriate. Initial implementing regulations may be interim final regulations.
 
 ## Source credit
 

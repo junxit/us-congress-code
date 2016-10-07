@@ -29,7 +29,7 @@ section: 290ff–3
   - **(1)** the public entity involved submits to the Secretary a description of the purposes for which the entity intends to expend the grant;
   - **(2)** the description identifies the populations, areas, and localities in the jurisdiction of the entity with a need for services under this section; and
   - **(3)** the description provides information relating to the services and activities to be provided, including a description of the manner in which the services and activities will be coordinated with any similar services or activities of public or nonprofit entities.
-- **(h)** *Requirement of application* The Secretary may make a grant under section 290ff(a) of this title only if an application for the grant is submitted to the Secretary, the application contains the description of intended uses required in subsection (g) of this section, and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+- **(h)** *Requirement of application* The Secretary may make a grant under section 290ff(a) of this title only if an application for the grant is submitted to the Secretary, the application contains the description of intended uses required in subsection (g), and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
 ## Source credit
 

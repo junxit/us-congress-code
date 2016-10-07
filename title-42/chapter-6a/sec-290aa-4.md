@@ -10,13 +10,13 @@ section: 290aa–4
 - **(a)** *Requirement of annual collection of data on mental illness and substance abuse* The Secretary, acting through the Administrator, shall collect data each year on—
   - **(1)** the national incidence and prevalence of the various forms of mental illness and substance abuse; and
   - **(2)** the incidence and prevalence of such various forms in major metropolitan areas selected by the Administrator.
-- **(b)** *Requisite areas of data collection on mental health* With respect to the activities of the Administrator under subsection (a) of this section relating to mental health, the Administrator shall ensure that such activities include, at a minimum, the collection of data on—
+- **(b)** *Requisite areas of data collection on mental health* With respect to the activities of the Administrator under subsection (a) relating to mental health, the Administrator shall ensure that such activities include, at a minimum, the collection of data on—
   - **(1)** the number and variety of public and nonprofit private treatment programs;
   - **(2)** the number and demographic characteristics of individuals receiving treatment through such programs;
   - **(3)** the type of care received by such individuals; and
   - **(4)** such other data as may be appropriate.
 - **(c)** *Requisite areas of data collection on substance abuse*
-  - **(1)** With respect to the activities of the Administrator under subsection (a) of this section relating to substance abuse, the Administrator shall ensure that such activities include, at a minimum, the collection of data on—
+  - **(1)** With respect to the activities of the Administrator under subsection (a) relating to substance abuse, the Administrator shall ensure that such activities include, at a minimum, the collection of data on—
     - **(A)** the number of individuals admitted to the emergency rooms of hospitals as a result of the abuse of alcohol or other drugs;
     - **(B)** the number of deaths occurring as a result of substance abuse, as indicated in reports by coroners;
     - **(C)** the number and variety of public and private nonprofit treatment programs, including the number and type of patient slots available;

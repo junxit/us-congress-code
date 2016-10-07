@@ -23,7 +23,7 @@ section: 290bb
   - **(12)** encourage public and private entities that provide health insurance to provide benefits for outpatient treatment services and other nonhospital-based treatment services;
   - **(13)** evaluate treatment programs to determine the quality and appropriateness of various forms of treatment, which shall be carried out through grants, contracts, or cooperative agreements provided to public or nonprofit private entities; and
   - **(14)** in carrying out paragraph (13), assess the quality, appropriateness, and costs of various treatment forms for specific patient groups.
-- **(c)** *Grants and contracts* In carrying out the duties established in subsection (b) of this section, the Director may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.
+- **(c)** *Grants and contracts* In carrying out the duties established in subsection (b), the Director may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.
 
 ## Source credit
 

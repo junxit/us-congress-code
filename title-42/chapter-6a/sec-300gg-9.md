@@ -8,7 +8,7 @@ section: 300gg–9
 # § 300gg–9. Disclosure of information
 
 - **(a)** *Disclosure of information by health plan issuers* In connection with the offering of any health insurance coverage to a small employer or an individual, a health insurance issuer—
-  - **(1)** shall make a reasonable disclosure to such employer, or individual, as applicable,,11 So in original. as part of its solicitation and sales materials, of the availability of information described in subsection (b) of this section, and
+  - **(1)** shall make a reasonable disclosure to such employer, or individual, as applicable,,11 So in original. as part of its solicitation and sales materials, of the availability of information described in subsection (b), and
   - **(2)** upon request of such a 22 So in original. Probably should be “an”. employer, or individual, as applicable,,1 provide such information.
 - **(b)** *Information described*
   - **(1)** *In general* Subject to paragraph (3), with respect to a health insurance issuer offering health insurance coverage to a 2 employer, or individual, as applicable,,1 information described in this subsection is information concerning—
