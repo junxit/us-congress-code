@@ -7,9 +7,9 @@ section: 1087mm
 
 # § 1087mm. Family contribution
 
-- **(a)** *In general* For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, other than subpart 2 of part A of this subchapter, and except as provided in subsection (b), the term “family contribution” with respect to any student means the amount which the student and the student’s family may be reasonably expected to contribute toward the student’s postsecondary education for the academic year for which the determination is made, as determined in accordance with this part.
+- **(a)** *In general* For the purpose of this subchapter, other than subpart 2 of part A, and except as provided in subsection (b), the term “family contribution” with respect to any student means the amount which the student and the student’s family may be reasonably expected to contribute toward the student’s postsecondary education for the academic year for which the determination is made, as determined in accordance with this part.
 - **(b)** *Special rule*
-  - **(1)** *In general* Notwithstanding any other provision of this subchapter and part C of subchapter I of chapter 34 of title 42, the family contribution of each student described in paragraph (2) shall be deemed to be zero for the academic year for which the determination is made.
+  - **(1)** *In general* Notwithstanding any other provision of this subchapter, the family contribution of each student described in paragraph (2) shall be deemed to be zero for the academic year for which the determination is made.
   - **(2)** *Applicability* Paragraph (1) shall apply to any dependent or independent student with respect to determinations of need for academic year 2009–2010 and succeeding academic years—
     - **(A)** who is eligible to receive a Federal Pell Grant for the academic year for which the determination is made;
     - **(B)** whose parent or guardian was a member of the Armed Forces of the United States and died as a result of performing military service in Iraq or Afghanistan after September 11, 2001; and
@@ -26,7 +26,7 @@ section: 1087mm
 
 ### Amendments
 
-2009—Pub. L. 111–39 designated existing provisions as subsec. (a), inserted heading, substituted “For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, other than subpart 2 of part A of this subchapter, and except as provided in subsection (b),” for “For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, except subpart 2 of part A of this subchapter,”, and added subsec. (b). 1998—Pub. L. 105–244 substituted “subpart 2” for “subpart 4”. 1992—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: “For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, except subparts 1 and 3 of part A of this subchapter, the term ‘family contribution’ with respect to any student means the amount which the student and his or her family may be reasonably expected to contribute toward his or her postsecondary education for the academic year for which the determination is made, as determined in accordance with this part.”
+2009—Pub. L. 111–39 designated existing provisions as subsec. (a), inserted heading, substituted “For the purpose of this subchapter, other than subpart 2 of part A, and except as provided in subsection (b),” for “For the purpose of this subchapter, except subpart 2 of part A,”, and added subsec. (b). 1998—Pub. L. 105–244 substituted “subpart 2” for “subpart 4”. 1992—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: “For the purpose of this subchapter, except subparts 1 and 3 of part A, the term ‘family contribution’ with respect to any student means the amount which the student and his or her family may be reasonably expected to contribute toward his or her postsecondary education for the academic year for which the determination is made, as determined in accordance with this part.”
 
 ### Effective Date of 2009 Amendment
 
