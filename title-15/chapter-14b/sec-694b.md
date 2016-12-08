@@ -26,7 +26,7 @@ section: 694b
   - **(2)** a surety must obtain approval from the Administration prior to making any payments pursuant to this subsection unless the surety is participating under the authority of subsection (a)(3); and
   - **(3)** no payment by the Administration pursuant to this subsection shall exceed 10 per centum of the contract price unless the Administrator determines that a greater payment should be made as a result of a finding by the Administrator that the surety’s loss sustained in avoiding or attempting to avoid such breach was necessary and reasonable.
 - **(c)** *Limitation of liability* Any guarantee or agreement to indemnify under this section shall obligate the Administration to pay to the surety a sum—
-  - **(1)** not to exceed 70 per centum of the loss incurred and paid by a surety authorized to issue bonds subject to the Administration’s guarantee under subsection (a)(3);
+  - **(1)** not to exceed 90 per centum of the loss incurred and paid by a surety authorized to issue bonds subject to the Administration’s guarantee under subsection (a)(3);
   - **(2)** not to exceed 90 per centum of the loss incurred and paid in the case of a surety requiring the Administration’s specific approval for the issuance of such bond, but in no event may the Administration make any duplicate payment pursuant to subsection (b) or any other subsection;
   - **(3)** equal to 90 per centum of the loss incurred and paid in the case of a surety requiring the administration’s 11 So in original. Probably should be capitalized. specific approval for the issuance of a bond, if—
     - **(A)** the total amount of the contract at the time of execution of the bond or bonds is $100,000 or less, or
@@ -54,10 +54,6 @@ section: 694b
 ## Notes
 
 1 So in original. Probably should be capitalized.
-
-### Amendment of Subsection (c)(1)
-
-Pub. L. 114–92, div. A, title VIII, § 874(b), (c), Nov. 25, 2015, 129 Stat. 941, provided that, effective 1 year after Nov. 25, 2015, subsection (c)(1) of this section is amended by substituting “90” for “70”. See 2015 Amendment note below.
 
 ### Amendments
 

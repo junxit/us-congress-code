@@ -12,7 +12,8 @@ section: 635e
   - **(2)** *Applicable amount defined* In this subsection, the term “applicable amount”, for each of fiscal years 2015 through 2019, means $135,000,000,000.
   - **(3)** *Freezing of lending cap if default rate is 2 percent or more* If the rate calculated under section 635g(g)(1) of this title is 2 percent or more for a quarter, the Bank may not exceed the amount of loans, guarantees, and insurance outstanding on the last day of that quarter until the rate calculated under section 635g(g)(1) of this title is less than 2 percent.
   - **(4)** *Subject to appropriations* All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
-- **(b)** *Presidential determination*
+- **(b)** *Reserve requirement* The Bank shall build to and hold in reserve, to protect against future losses, an amount that is not less than 5 percent of the aggregate amount of disbursed and outstanding loans, guarantees, and insurance of the Bank.
+- **(c)** *Presidential determination*
   - **(1)** *In general* Not later than March 31 of each fiscal year, the President of the United States shall determine whether the authority available to the Bank for such fiscal year will be sufficient to meet the Bank’s needs, particularly those needs arising from—
     - **(A)** increases in the level of exports unforeseen at the time of the original budget request for such fiscal year;
     - **(B)** any increased foreign export credit subsidies; or
@@ -26,10 +27,6 @@ section: 635e
 (July 31, 1945, ch. 341, § 6, formerly § 7, 59 Stat. 529; Oct. 3, 1951, ch. 445, § 1(b), 65 Stat. 367; May 21, 1953, ch. 64, § 2, 67 Stat. 28; Aug. 9, 1954, ch. 660, § 3(b), 68 Stat. 678; Pub. L. 85–424, § 1(2), May 22, 1958, 72 Stat. 133; Pub. L. 88–101, § 1(b), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, § 1(a), (e), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, § 1(b)(3), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–646, § 8, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §§ 1905, 1914, Nov. 10, 1978, 92 Stat. 3725, 3727; Pub. L. 97–35, title III, § 381(a), Aug. 13, 1981, 95 Stat. 431; Pub. L. 98–181, title I [title VI, §§ 615, 620(d)], Nov. 30, 1983, 97 Stat. 1256, 1261; Pub. L. 99–472, §§ 13, 17, Oct. 15, 1986, 100 Stat. 1204, 1205; Pub. L. 102–145, § 121(1), Oct. 28, 1991, as added Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 95; renumbered § 6 and amended Pub. L. 102–429, title I, §§ 109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193, 2199; Pub. L. 106–569, title XI, § 1104(a)(3), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, § 5, June 14, 2002, 116 Stat. 699; Pub. L. 109–438, § 9, Dec. 20, 2006, 120 Stat. 3275; Pub. L. 112–122, § 3, May 30, 2012, 126 Stat. 350; Pub. L. 114–94, div. E, title LI, §§ 51001, 51002(a), Dec. 4, 2015, 129 Stat. 1763.)
 
 ## Notes
-
-### Amendment of Section
-
-Pub. L. 114–94, div. E, title LI, § 51002, Dec. 4, 2015, 129 Stat. 1763, provided that, effective on the date that is one year after Dec. 4, 2015, this section is amended: (1) by redesignating subsection (b) as subsection (c); and (2) by inserting after subsection (a) the following: “(b) Reserve requirement “The Bank shall build to and hold in reserve, to protect against future losses, an amount that is not less than 5 percent of the aggregate amount of disbursed and outstanding loans, guarantees, and insurance of the Bank.” See 2015 Amendment note below.
 
 ### Prior Provisions
 
