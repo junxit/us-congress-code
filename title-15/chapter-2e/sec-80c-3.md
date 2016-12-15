@@ -13,3 +13,9 @@ section: 80c–3
 ## Source credit
 
 (Pub. L. 96–477, title V, § 506, Oct. 21, 1980, 94 Stat. 2293.)
+
+## Notes
+
+### Effective Date
+
+Section effective Jan. 1, 1981, see section 507 of Pub. L. 96–477, set out as a note under section 80c of this title.

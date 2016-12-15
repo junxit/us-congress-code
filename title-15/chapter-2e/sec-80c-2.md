@@ -12,3 +12,9 @@ For fiscal year 1982, and for each of the three succeeding fiscal years, there a
 ## Source credit
 
 (Pub. L. 96–477, title V, § 504, Oct. 21, 1980, 94 Stat. 2292.)
+
+## Notes
+
+### Effective Date
+
+Section effective Jan. 1, 1981, see section 507 of Pub. L. 96–477, set out as a note under section 80c of this title.
