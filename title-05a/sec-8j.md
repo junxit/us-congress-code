@@ -6,11 +6,11 @@ section: 8J
 
 # § 8J. Rule of construction of special provisions
 
-The special provisions under section 8, 8A, 8B, 8C, 8D, 8E, 8F, or 8H of this Act relate only to the establishment named in such section and no inference shall be drawn from the presence or absence of a provision in any such section with respect to an establishment not named in such section or with respect to a designated Federal entity as defined under section 8G(a).
+The special provisions under section 8, 8A, 8B, 8C, 8D, 8E, 8F, 8H, or 8N of this Act relate only to the establishment named in such section and no inference shall be drawn from the presence or absence of a provision in any such section with respect to an establishment not named in such section or with respect to a designated Federal entity as defined under section 8G(a).
 
 ## Source credit
 
-(Pub. L. 95–452, § 8J, formerly § 8F, as added Pub. L. 100–504, title I, § 105, Oct. 18, 1988, 102 Stat. 2525; renumbered § 8G and amended Pub. L. 103–82, title II, § 202(g)(1), (5)(B), Sept. 21, 1993, 107 Stat. 889, 890; renumbered § 8H, Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(b)(3)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–380; Pub. L. 105–206, title I, § 1103(e)(3), July 22, 1998, 112 Stat. 709; renumbered § 8I and amended Pub. L. 105–272, title VII, § 702(b), Oct. 20, 1998, 112 Stat. 2415; renumbered § 8J, Pub. L. 108–7, div. L, § 104(b)(2), Feb. 20, 2003, 117 Stat. 529.)
+(Pub. L. 95–452, § 8J, formerly § 8F, as added Pub. L. 100–504, title I, § 105, Oct. 18, 1988, 102 Stat. 2525; renumbered § 8G and amended Pub. L. 103–82, title II, § 202(g)(1), (5)(B), Sept. 21, 1993, 107 Stat. 889, 890; renumbered § 8H, Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(b)(3)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–380; Pub. L. 105–206, title I, § 1103(e)(3), July 22, 1998, 112 Stat. 709; renumbered § 8I and amended Pub. L. 105–272, title VII, § 702(b), Oct. 20, 1998, 112 Stat. 2415; renumbered § 8J, Pub. L. 108–7, div. L, § 104(b)(2), Feb. 20, 2003, 117 Stat. 529; Pub. L. 114–317, § 6(6), Dec. 16, 2016, 130 Stat. 1604.)
 
 ## Notes
 
@@ -24,7 +24,7 @@ A prior section 8J of the Inspector General Act of 1978, Pub. L. 95–452, § 8J
 
 ### Amendments
 
-1998—Pub. L. 105–272, § 702(b)(2), which directed the amendment of this section by substituting “8E, or 8H” for “or 8E”, was executed by substituting “, 8F, or 8H” for “or 8F”, to reflect the probable intent of Congress and the amendment by Pub. L. 105–206, § 1103(e)(3)(B). See below. Pub. L. 105–206, § 1103(e)(3)(C), substituted “section 8G(a)” for “section 8F(a)”. Pub. L. 105–206, § 1103(e)(3)(B), substituted “8E or 8F” for “or 8E”. 1993—Pub. L. 103–82, § 202(g)(5)(B), substituted “8D, or 8E” for “or 8D” and “section 8F(a)” for “section 8E(a)”.
+2016—Pub. L. 114–317 substituted “8H, or 8N” for “or 8H”. 1998—Pub. L. 105–272, § 702(b)(2), which directed the amendment of this section by substituting “8E, or 8H” for “or 8E”, was executed by substituting “, 8F, or 8H” for “or 8F”, to reflect the probable intent of Congress and the amendment by Pub. L. 105–206, § 1103(e)(3)(B). See below. Pub. L. 105–206, § 1103(e)(3)(C), substituted “section 8G(a)” for “section 8F(a)”. Pub. L. 105–206, § 1103(e)(3)(B), substituted “8E or 8F” for “or 8E”. 1993—Pub. L. 103–82, § 202(g)(5)(B), substituted “8D, or 8E” for “or 8D” and “section 8F(a)” for “section 8E(a)”.
 
 ### Effective Date of 1993 Amendment
 

@@ -14,11 +14,11 @@ section: 8I
     - **(D)** the identity of confidential sources, including protected witnesses;
     - **(E)** other matters the disclosure of which would, in the Secretary’s judgment, constitute a serious threat to the protection of any person or property authorized protection by section 3056 of title 18, United States Code, section 3056A of title 18 of such Code, or any provision of the Presidential Protection Assistance Act of 1976 (18 U.S.C. 3056 note); or
     - **(F)** other matters the disclosure of which would constitute a serious threat to national security.
-  - **(2)** With respect to the information described in paragraph (1), the Secretary of Homeland Security may prohibit the Inspector General of the Department of Homeland Security from carrying out or completing any audit or investigation, or from issuing any subpoena, after such Inspector General has decided to initiate, carry out, or complete such audit or investigation or to issue such subpoena, if the Secretary determines that such prohibition is necessary to prevent the disclosure of any information described in paragraph (1), to preserve the national security, or to prevent a significant impairment to the interests of the United States.
+  - **(2)** With respect to the information described in paragraph (1), the Secretary of Homeland Security may prohibit the Inspector General of the Department of Homeland Security from carrying out or completing any audit or investigation, from accessing information described in paragraph (1), or from issuing any subpoena, after such Inspector General has decided to initiate, carry out, or complete such audit or investigation, access such information, or to issue such subpoena, if the Secretary determines that such prohibition is necessary to prevent the disclosure of any information described in paragraph (1), to preserve the national security, or to prevent a significant impairment to the interests of the United States.
   - **(3)** If the Secretary of Homeland Security exercises any power under paragraph (1) or (2), the Secretary shall notify the Inspector General of the Department of Homeland Security in writing within seven days stating the reasons for such exercise. Within 30 days after receipt of any such notice, the Inspector General shall transmit to the President of the Senate, the Speaker of the House of Representatives, and appropriate committees and subcommittees of Congress the following:
     - **(A)** A copy of such notice.
     - **(B)** A written response to such notice that includes a statement regarding whether the Inspector General agrees or disagrees with such exercise, and the reasons for any disagreement.
-- **(b)** The exercise of authority by the Secretary described in paragraph (2) should not be construed as limiting the right of Congress or any committee of Congress to access any information it seeks.
+- **(b)** The exercise of authority by the Secretary described in paragraph (2) 11 So in original. should not be construed as limiting the right of Congress or any committee of Congress to access any information it seeks.
 - **(c)** Subject to the conditions established in subsections (a) and (b) above, in carrying out the duties and responsibilities specified in this Act, the Inspector General of the Department of Homeland Security may initiate, conduct, and supervise such audits and investigations in the Department of Homeland Security as the Inspector General considers appropriate.
 - **(d)** Any report required to be transmitted by the Secretary of Homeland Security to the appropriate committees or subcommittees of Congress under section 5(d) shall be transmitted, within the seven-day period specified under such section, to the President of the Senate, the Speaker of the House of Representatives, and appropriate committees and subcommittees of Congress.
 - **(e)** Notwithstanding any other provision of law, in carrying out the duties and responsibilities specified in this Act, the Inspector General of the Department of Homeland Security shall have oversight responsibility for the internal investigations performed by the Office of Internal Affairs of the United States Customs Service, the Office of Inspections of the United States Secret Service, the Bureau of Border Security, and the Bureau of Citizenship and Immigration Services. The head of each such office or bureau shall promptly report to the Inspector General the significant activities being carried out by such office or bureau.
@@ -41,9 +41,11 @@ section: 8I
 
 ## Source credit
 
-(Pub. L. 95–452, § 8I, as added Pub. L. 108–7, div. L, § 104(b)(3), Feb. 20, 2003, 117 Stat. 529; amended Pub. L. 108–458, title VIII, § 8304, Dec. 17, 2004, 118 Stat. 3868; Pub. L. 109–177, title VI, § 605(e)(4), Mar. 9, 2006, 120 Stat. 255.)
+(Pub. L. 95–452, § 8I, as added Pub. L. 108–7, div. L, § 104(b)(3), Feb. 20, 2003, 117 Stat. 529; amended Pub. L. 108–458, title VIII, § 8304, Dec. 17, 2004, 118 Stat. 3868; Pub. L. 109–177, title VI, § 605(e)(4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 114–317, § 6(5), Dec. 16, 2016, 130 Stat. 1604.)
 
 ## Notes
+
+1 So in original.
 
 ### References in Text
 
@@ -55,7 +57,7 @@ A prior section 8I of the Inspector General Act of 1978 was renumbered section 8
 
 ### Amendments
 
-2006—Subsec. (a)(1)(E). Pub. L. 109–177 substituted “section 3056A of title 18” for “section 202 of title 3”. 2004—Subsec. (f). Pub. L. 108–458 added subsec. (f).
+2016—Subsec. (a)(2). Pub. L. 114–317 inserted “from accessing information described in paragraph (1),” after “completing any audit or investigation,” and “, access such information,” after “complete such audit or investigation”. 2006—Subsec. (a)(1)(E). Pub. L. 109–177 substituted “section 3056A of title 18” for “section 202 of title 3”. 2004—Subsec. (f). Pub. L. 108–458 added subsec. (f).
 
 ### Review of Departmental Contracts Awarded Through Means Other Than Full and Open Competition
 

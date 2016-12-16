@@ -11,7 +11,7 @@ section: 5
   - **(2)** a description of the recommendations for corrective action made by the Office during the reporting period with respect to significant problems, abuses, or deficiencies identified pursuant to paragraph (1);
   - **(3)** an identification of each significant recommendation described in previous semiannual reports on which corrective action has not been completed;
   - **(4)** a summary of matters referred to prosecutive authorities and the prosecutions and convictions which have resulted;
-  - **(5)** a summary of each report made to the head of the establishment under section 6(b)(2) during the reporting period;
+  - **(5)** a summary of each report made to the head of the establishment under section 6(c)(2) during the reporting period;
   - **(6)** a listing, subdivided according to subject matter, of each audit report, inspection reports,11 So in original. Probably should be singular. and evaluation reports 1 issued by the Office during the reporting period and for each report, where applicable, the total dollar value of questioned costs (including a separate category for the dollar value of unsupported costs) and the dollar value of recommendations that funds be put to better use;
   - **(7)** a summary of each particularly significant report;
   - **(8)** statistical tables showing the total number of audit reports, inspection reports, and evaluation reports and the total dollar value of questioned costs (including a separate category for the dollar value of unsupported costs), for reports—
@@ -28,15 +28,36 @@ section: 5
       - **(i)** the dollar value of recommendations that were agreed to by management; and
       - **(ii)** the dollar value of recommendations that were not agreed to by management; and
     - **(D)** for which no management decision has been made by the end of the reporting period;
-  - **(10)** a summary of each audit report, inspection reports,1 and evaluation reports 1 issued before the commencement of the reporting period for which no management decision has been made by the end of the reporting period (including the date and title of each such report), an explanation of the reasons such management decision has not been made, and a statement concerning the desired timetable for achieving a management decision on each such report;
+  - **(10)** a summary of each audit report, inspection reports,1 and evaluation reports 1 issued before the commencement of the reporting period—
+    - **(A)** for which no management decision has been made by the end of the reporting period (including the date and title of each such report), an explanation of the reasons such management decision has not been made, and a statement concerning the desired timetable for achieving a management decision on each such report;
+    - **(B)** for which no establishment comment was returned within 60 days of providing the report to the establishment; and
+    - **(C)** for which there are any outstanding unimplemented recommendations, including the aggregate potential cost savings of those recommendations.22 So in original. The period probably should be a semicolon.
   - **(11)** a description and explanation of the reasons for any significant revised management decision made during the reporting period;
   - **(12)** information concerning any significant management decision with which the Inspector General is in disagreement;
-  - **(13)** the information described under section 05(b) 22 See References in Text note below. of the Federal Financial Management Improvement Act of 1996;
+  - **(13)** the information described under section 804(b) of the Federal Financial Management Improvement Act of 1996;
   - **(14)**
     - **(A)** an appendix containing the results of any peer review conducted by another Office of Inspector General during the reporting period; or
     - **(B)** if no peer review was conducted within that reporting period, a statement identifying the date of the last peer review conducted by another Office of Inspector General;
-  - **(15)** a list of any outstanding recommendations from any peer review conducted by another Office of Inspector General that have not been fully implemented, including a statement describing the status of the implementation and why implementation is not complete; and
-  - **(16)** a list of any peer reviews conducted by the Inspector General of another Office of the Inspector General during the reporting period, including a list of any outstanding recommendations made from any previous peer review (including any peer review conducted before the reporting period) that remain outstanding or have not been fully implemented.
+  - **(15)** a list of any outstanding recommendations from any peer review conducted by another Office of Inspector General that have not been fully implemented, including a statement describing the status of the implementation and why implementation is not complete;
+  - **(16)** a list of any peer reviews conducted by the Inspector General of another Office of the Inspector General during the reporting period, including a list of any outstanding recommendations made from any previous peer review (including any peer review conducted before the reporting period) that remain outstanding or have not been fully implemented;
+  - **(17)** statistical tables showing—
+    - **(A)** the total number of investigative reports issued during the reporting period;
+    - **(B)** the total number of persons referred to the Department of Justice for criminal prosecution during the reporting period;
+    - **(C)** the total number of persons referred to State and local prosecuting authorities for criminal prosecution during the reporting period; and
+    - **(D)** the total number of indictments and criminal informations during the reporting period that resulted from any prior referral to prosecuting authorities;
+  - **(18)** a description of the metrics used for developing the data for the statistical tables under paragraph (17);
+  - **(19)** a report on each investigation conducted by the Office involving a senior Government employee where allegations of misconduct were substantiated, including a detailed description of—
+    - **(A)** the facts and circumstances of the investigation; and
+    - **(B)** the status and disposition of the matter, including—
+      - **(i)** if the matter was referred to the Department of Justice, the date of the referral; and
+      - **(ii)** if the Department of Justice declined the referral, the date of the declination;
+  - **(20)** a detailed description of any instance of whistleblower retaliation, including information about the official found to have engaged in retaliation and what, if any, consequences the establishment imposed to hold that official accountable;
+  - **(21)** a detailed description of any attempt by the establishment to interfere with the independence of the Office, including—
+    - **(A)** with budget constraints designed to limit the capabilities of the Office; and
+    - **(B)** incidents where the establishment has resisted or objected to oversight activities of the Office or restricted or significantly delayed access to information, including the justification of the establishment for such action; and
+  - **(22)** detailed descriptions of the particular circumstances of each—
+    - **(A)** inspection, evaluation, and audit conducted by the Office that is closed and was not disclosed to the public; and
+    - **(B)** investigation conducted by the Office involving a senior Government employee that is closed and was not disclosed to the public.
 - **(b)** Semiannual reports of each Inspector General shall be furnished to the head of the establishment involved not later than April 30 and October 31 of each year and shall be transmitted by such head to the appropriate committees or subcommittees of the Congress within thirty days after receipt of the report, together with a report by the head of the establishment containing—
   - **(1)** any comments such head determines appropriate;
   - **(2)** statistical tables showing the total number of audit reports, inspection reports, and evaluation reports and the dollar value of disallowed costs, for reports—
@@ -67,6 +88,8 @@ section: 5
     - **(C)** a part of an ongoing criminal investigation.
   - **(2)** Notwithstanding paragraph (1)(C), any report under this section may be disclosed to the public in a form which includes information with respect to a part of an ongoing criminal investigation if such information has been included in a public record.
   - **(3)** Except to the extent and in the manner provided under section 6103(f) of the Internal Revenue Code of 1986 [26 U.S.C. 6103(f)], nothing in this section or in any other provision of this Act shall be construed to authorize or permit the withholding of information from the Congress, or from any committee or subcommittee thereof.
+  - **(4)** Subject to any other provision of law that would otherwise prohibit disclosure of such information, the information described in paragraph (1) may be provided to any Member of Congress upon request.
+  - **(5)** An Office may not provide to Congress or the public any information that reveals the personally identifiable information of a whistleblower under this section unless the Office first obtains the consent of the whistleblower.
 - **(f)** As used in this section—
   - **(1)** the term “questioned cost” means a cost that is questioned by the Office because of—
     - **(A)** an alleged violation of a provision of a law, regulation, contract, grant, cooperative agreement, or other agreement or document governing the expenditure of funds;
@@ -81,28 +104,31 @@ section: 5
     - **(D)** costs not incurred by implementing recommended improvements related to the operations of the establishment, a contractor or grantee;
     - **(E)** avoidance of unnecessary expenditures noted in preaward reviews of contract or grant agreements; or
     - **(F)** any other savings which are specifically identified;
-  - **(5)** the term “management decision” means the evaluation by the management of an establishment of the findings and recommendations included in an audit report and the issuance of a final decision by management concerning its response to such findings and recommendations, including actions concluded to be necessary; and
+  - **(5)** the term “management decision” means the evaluation by the management of an establishment of the findings and recommendations included in an audit report and the issuance of a final decision by management concerning its response to such findings and recommendations, including actions concluded to be necessary;
   - **(6)** the term “final action” means—
     - **(A)** the completion of all actions that the management of an establishment has concluded, in its management decision, are necessary with respect to the findings and recommendations included in an audit report; and
-    - **(B)** in the event that the management of an establishment concludes no action is necessary, final action occurs when a management decision has been made.
+    - **(B)** in the event that the management of an establishment concludes no action is necessary, final action occurs when a management decision has been made; and
+  - **(7)** the term “senior Government employee” means—
+    - **(A)** an officer or employee in the executive branch (including a special Government employee as defined in section 202 of title 18, United States Code) who occupies a position classified at or above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule; and
+    - **(B)** any commissioned officer in the Armed Forces in pay grades O–6 and above.
 
 ## Source credit
 
-(Pub. L. 95–452, § 5, Oct. 12, 1978, 92 Stat. 1103; Pub. L. 97–252, title XI, § 1117(c), Sept. 8, 1982, 96 Stat. 752; Pub. L. 100–504, title I, §§ 102(g), 106, Oct. 18, 1988, 102 Stat. 2521, 2525; Pub. L. 104–208, div. A, title I, § 101(f) [title VIII, § 805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393; Pub. L. 110–409, § 12, Oct. 14, 2008, 122 Stat. 4315; Pub. L. 111–203, title IX, § 989C, July 21, 2010, 124 Stat. 1945.)
+(Pub. L. 95–452, § 5, Oct. 12, 1978, 92 Stat. 1103; Pub. L. 97–252, title XI, § 1117(c), Sept. 8, 1982, 96 Stat. 752; Pub. L. 100–504, title I, §§ 102(g), 106, Oct. 18, 1988, 102 Stat. 2521, 2525; Pub. L. 104–208, div. A, title I, § 101(f) [title VIII, § 805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393; Pub. L. 110–409, § 12, Oct. 14, 2008, 122 Stat. 4315; Pub. L. 111–203, title IX, § 989C, July 21, 2010, 124 Stat. 1945; Pub. L. 114–317, §§ 4(c), 7(d)(2)(B), (C), Dec. 16, 2016, 130 Stat. 1600, 1606.)
 
 ## Notes
 
 1 So in original. Probably should be singular.
 
-2 See References in Text note below.
+2 So in original. The period probably should be a semicolon.
 
 ### References in Text
 
-Section 05(b) of the Federal Financial Management Improvement Act of 1996, referred to in subsec. (a)(13), probably means section 101(f) [title VIII, § 804(b)] of title I of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–314, 3009–392, which relates to reports by the Inspector General, and is set out in a note under section 3512 of Title 31, Money and Finance.
+Section 804(b) of the Federal Financial Management Improvement Act of 1996, referred to in subsec. (a)(13), is section 101(f) [title VIII, § 804(b)] of title I of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–314, 3009–392, which is set out in a note under section 3512 of Title 31, Money and Finance. The General Schedule, referred to in subsec. (f)(7)(A), is set out under section 5332 of this title. Commissioned officer pay grade O–6, referred to in subsec. (f)(7)(B), is described in section 201 of Title 37, Pay and Allowances of the Uniformed Services, and is set out under section 5332 of this title.
 
 ### Amendments
 
-2010—Subsec. (a)(14) to (16). Pub. L. 111–203 added pars. (14) to (16). 2008—Subsec. (a)(6). Pub. L. 110–409, § 12(1)(B), struck out “audit” after “reporting period and for each”. Pub. L. 110–409, § 12(1)(A), which directed insertion of “, inspection reports, and evaluation reports” after “audit reports” the first place appearing, was executed by making the insertion after “audit report” the first place appearing, to reflect the probable intent of Congress. Subsec. (a)(8), (9). Pub. L. 110–409, § 12(1), in introductory provisions, inserted “, inspection reports, and evaluation reports” after “number of audit reports” and struck out “audit” before “reports—”. Subsec. (a)(10). Pub. L. 110–409, § 12(2), which directed insertion of “, inspection reports, and evaluation reports” after “audit reports”, was executed by making the insertion after “audit report” to reflect the probable intent of Congress. Subsec. (b)(2), (3). Pub. L. 110–409, § 12(1), in introductory provisions, inserted “, inspection reports, and evaluation reports” after “number of audit reports” and struck out “audit” before “reports—”. 1996—Subsec. (a)(13). Pub. L. 104–208 added par. (13). 1988—Subsec. (a)(6) to (12). Pub. L. 100–504, § 106(a), added pars. (6) to (12), and struck out former par. (6) which read as follows: “a listing of each audit report completed by the Office during the reporting period.” Subsec. (b). Pub. L. 100–504, § 106(b), substituted “head of the establishment containing—” and pars. (1) to (4) for “head of the establishment containing any comments such head deems appropriate.” Subsec. (c). Pub. L. 100–504, § 106(c), inserted at end “Within 60 days after the transmission of the semiannual reports of each establishment head to the Congress, the head of each establishment shall make copies of such report available to the public upon request and at a reasonable cost.” Subsec. (e)(3). Pub. L. 100–504, § 102(g), substituted “Except to the extent and in the manner provided under section 6103(f) of the Internal Revenue Code of 1986, nothing” for “Nothing”. Subsec. (f). Pub. L. 100–504, § 106(d), added subsec. (f). 1982—Subsec. (e). Pub. L. 97–252 added subsec. (e).
+2016—Subsec. (a)(5). Pub. L. 114–317, § 7(d)(2)(B), substituted “section 6(c)(2)” for “section 6(b)(2)”. Subsec. (a)(10). Pub. L. 114–317, § 4(c)(1)(A), inserted dash after “commencement of the reporting period”, designated remainder of existing provisions as subpar. (A), and added subpars. (B) and (C). Subsec. (a)(13). Pub. L. 114–317, § 7(d)(2)(C), substituted “804(b)” for “05(b)”. Subsec. (a)(17) to (22). Pub. L. 114–317, § 4(c)(1)(B)–(D), added pars. (17) to (22). Subsec. (e)(4), (5). Pub. L. 114–317, § 4(c)(2), added pars. (4) and (5). Subsec. (f)(7). Pub. L. 114–317, § 4(c)(3), added par. (7). 2010—Subsec. (a)(14) to (16). Pub. L. 111–203 added pars. (14) to (16). 2008—Subsec. (a)(6). Pub. L. 110–409, § 12(1)(B), struck out “audit” after “reporting period and for each”. Pub. L. 110–409, § 12(1)(A), which directed insertion of “, inspection reports, and evaluation reports” after “audit reports” the first place appearing, was executed by making the insertion after “audit report” the first place appearing, to reflect the probable intent of Congress. Subsec. (a)(8), (9). Pub. L. 110–409, § 12(1), in introductory provisions, inserted “, inspection reports, and evaluation reports” after “number of audit reports” and struck out “audit” before “reports—”. Subsec. (a)(10). Pub. L. 110–409, § 12(2), which directed insertion of “, inspection reports, and evaluation reports” after “audit reports”, was executed by making the insertion after “audit report” to reflect the probable intent of Congress. Subsec. (b)(2), (3). Pub. L. 110–409, § 12(1), in introductory provisions, inserted “, inspection reports, and evaluation reports” after “number of audit reports” and struck out “audit” before “reports—”. 1996—Subsec. (a)(13). Pub. L. 104–208 added par. (13). 1988—Subsec. (a)(6) to (12). Pub. L. 100–504, § 106(a), added pars. (6) to (12), and struck out former par. (6) which read as follows: “a listing of each audit report completed by the Office during the reporting period.” Subsec. (b). Pub. L. 100–504, § 106(b), substituted “head of the establishment containing—” and pars. (1) to (4) for “head of the establishment containing any comments such head deems appropriate.” Subsec. (c). Pub. L. 100–504, § 106(c), inserted at end “Within 60 days after the transmission of the semiannual reports of each establishment head to the Congress, the head of each establishment shall make copies of such report available to the public upon request and at a reasonable cost.” Subsec. (e)(3). Pub. L. 100–504, § 102(g), substituted “Except to the extent and in the manner provided under section 6103(f) of the Internal Revenue Code of 1986, nothing” for “Nothing”. Subsec. (f). Pub. L. 100–504, § 106(d), added subsec. (f). 1982—Subsec. (e). Pub. L. 97–252 added subsec. (e).
 
 ### Effective Date of 2010 Amendment
 

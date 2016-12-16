@@ -14,6 +14,10 @@ This Act be cited as the “Inspector General Act of 1978”.
 
 ## Notes
 
+### Short Title of 2016 Amendment
+
+Pub. L. 114–317, § 1(a), Dec. 16, 2016, 130 Stat. 1595, provided that: “This Act [enacting section 8N of Pub. L. 95–452, set out in this Appendix, amending sections 3 to 6, 8, 8A, 8D, 8E, 8G, 8I, 8J, 8M, and 11 of Pub. L. 95–452, set out in this Appendix, enacting provisions set out as a note under section 8M of Pub. L. 95–452, set out in this Appendix, amending provisions set out as a note under section 11 of Pub. L. 95–452, set out in this Appendix, and repealing provisions set out as notes under section 8M of Pub. L. 95–452, set out in this Appendix, and section 1211 of Title 5, Government Organization and Employees] may be cited as the ‘Inspector General Empowerment Act of 2016’.”
+
 ### Short Title of 2008 Amendment
 
 Pub. L. 110–409, § 1, Oct. 14, 2008, 122 Stat. 4302, provided that: “This Act [see Tables for classification] may be cited as the ‘Inspector General Reform Act of 2008’.”

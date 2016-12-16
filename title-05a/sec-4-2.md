@@ -17,25 +17,28 @@ section: 4
     - **(A)** comply with standards established by the Comptroller General of the United States for audits of Federal establishments, organizations, programs, activities, and functions;
     - **(B)** establish guidelines for determining when it shall be appropriate to use non-Federal auditors; and
     - **(C)** take appropriate steps to assure that any work performed by non-Federal auditors complies with the standards established by the Comptroller General as described in paragraph (1).
-  - **(2)** For purposes of determining compliance with paragraph (1)(A) with respect to whether internal quality controls are in place and operating and whether established audit standards, policies, and procedures are being followed by Offices of Inspector General of establishments defined under section 12(2), Offices of Inspector General of designated Federal entities defined under section 8F(a)(2),11 See References in Text note below. and any audit office established within a Federal entity defined under section 8F(a)(1),1 reviews shall be performed exclusively by an audit entity in the Federal Government, including the Government Accountability Office or the Office of Inspector General of each establishment defined under section 12(2), or the Office of Inspector General of each designated Federal entity defined under section 8F(a)(2).1
+  - **(2)** For purposes of determining compliance with paragraph (1)(A) with respect to whether internal quality controls are in place and operating and whether established audit standards, policies, and procedures are being followed by Offices of Inspector General of establishments defined under section 12(2), Offices of Inspector General of designated Federal entities defined under section 8G(a)(2), and any audit office established within a Federal entity defined under section 8G(a)(1), reviews shall be performed exclusively by an audit entity in the Federal Government, including the Government Accountability Office or the Office of Inspector General of each establishment defined under section 12(2), or the Office of Inspector General of each designated Federal entity defined under section 8G(a)(2).
 - **(c)** In carrying out the duties and responsibilities established under this Act, each Inspector General shall give particular regard to the activities of the Comptroller General of the United States with a view toward avoiding duplication and insuring effective coordination and cooperation.
 - **(d)** In carrying out the duties and responsibilities established under this Act, each Inspector General shall report expeditiously to the Attorney General whenever the Inspector General has reasonable grounds to believe there has been a violation of Federal criminal law.
+- **(e)**
+  - **(1)** In carrying out the duties and responsibilities established under this Act, whenever an Inspector General issues a recommendation for corrective action to the agency, the Inspector General—
+    - **(A)** shall submit the document making a recommendation for corrective action to—
+      - **(i)** the head of the establishment;
+      - **(ii)** the congressional committees of jurisdiction; and
+      - **(iii)** if the recommendation for corrective action was initiated upon request by an individual or entity other than the Inspector General, that individual or entity;
+    - **(B)** may submit the document making a recommendation for corrective action to any Member of Congress upon request; and
+    - **(C)** not later than 3 days after the recommendation for corrective action is submitted in final form to the head of the establishment, post the document making a recommendation for corrective action on the website of the Office of Inspector General.
+  - **(2)** Nothing in this subsection shall be construed as authorizing an Inspector General to publicly disclose information otherwise prohibited from disclosure by law.
 
 ## Source credit
 
-(Pub. L. 95–452, § 4, Oct. 12, 1978, 92 Stat. 1102; Pub. L. 100–504, title I, § 109, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 103–82, title II, § 202(g)(5)(A), Sept. 21, 1993, 107 Stat. 890; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–409, § 7(d)(1)(A), Oct. 14, 2008, 122 Stat. 4313.)
+(Pub. L. 95–452, § 4, Oct. 12, 1978, 92 Stat. 1102; Pub. L. 100–504, title I, § 109, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 103–82, title II, § 202(g)(5)(A), Sept. 21, 1993, 107 Stat. 890; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–409, § 7(d)(1)(A), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 114–317, §§ 4(d), 7(d)(2)(A), Dec. 16, 2016, 130 Stat. 1602, 1606.)
 
 ## Notes
 
-1 See References in Text note below.
-
-### References in Text
-
-Section 8F, referred to in subsec. (b)(2), which related to requirements for Federal entities and designated Federal entities, was renumbered section 8G by Pub. L. 103–204, § 23(a)(3), Dec. 17, 1993, 107 Stat. 2408.
-
 ### Amendments
 
-2008—Subsec. (b)(2). Pub. L. 110–409 substituted “section 12(2)” for “section 11(2)” in two places. 2004—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”. 1993—Subsec. (b)(2). Pub. L. 103–82 substituted “section 8F(a)(2), and any” for “section 8E(a)(2), and any”, “section 8F(a)(1)” for “section 8E(a)(1)”, and “section 8F(a)(2).” for “section 8E(a)(2).” 1988—Subsec. (b). Pub. L. 100–504 designated existing provisions as par. (1), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
+2016—Subsec. (b)(2). Pub. L. 114–317, § 7(d)(2)(A), substituted “8G(a)(2)” for “8F(a)(2)” in two places and “8G(a)(1)” for “8F(a)(1)”. Subsec. (e). Pub. L. 114–317, § 4(d), added subsec. (e). 2008—Subsec. (b)(2). Pub. L. 110–409 substituted “section 12(2)” for “section 11(2)” in two places. 2004—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”. 1993—Subsec. (b)(2). Pub. L. 103–82 substituted “section 8F(a)(2), and any” for “section 8E(a)(2), and any”, “section 8F(a)(1)” for “section 8E(a)(1)”, and “section 8F(a)(2).” for “section 8E(a)(2).” 1988—Subsec. (b). Pub. L. 100–504 designated existing provisions as par. (1), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
 ### Effective Date of 1993 Amendment
 
