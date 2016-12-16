@@ -7,7 +7,7 @@ section: 1395zz
 
 # § 1395zz. Provider education and technical assistance
 
-- **(a)** *Coordination of education funding* The Secretary shall coordinate the educational activities provided through medicare contractors (as defined in subsection (g) of this section, including under section 1395ddd of this title) in order to maximize the effectiveness of Federal education efforts for providers of services and suppliers.
+- **(a)** *Coordination of education funding* The Secretary shall coordinate the educational activities provided through medicare contractors (as defined in subsection (g), including under section 1395ddd of this title) in order to maximize the effectiveness of Federal education efforts for providers of services and suppliers.
 - **(b)** *Enhanced education and training*
   - **(1)** *Additional resources* There are authorized to be appropriated to the Secretary (in appropriate part from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund) such sums as may be necessary for fiscal years beginning with fiscal year 2005.
   - **(2)** *Use* The funds made available under paragraph (1) shall be used to increase the conduct by medicare contractors of education and training of providers of services and suppliers regarding billing, coding, and other appropriate items and may also be used to improve the accuracy, consistency, and timeliness of contractor responses.

@@ -38,7 +38,7 @@ section: 410lll
       - **(v)** The Allied Textile Printing site, including the Colt Gun Mill ruins, Mallory Mill ruins, Waverly Mill ruins, and Todd Mill ruins.
       - **(vi)** The Rogers Locomotive Company Erecting Shop, including the Paterson Museum.
       - **(vii)** The Great Falls Visitor Center.
-    - **(B)** In addition to the lands described in subparagraph (A), the Park shall include the approximately 6 acres of land containing Hinchliffe Stadium and generally depicted as the “Boundary Modification Area” on the map entitled “Paterson Great Falls National Historical Park, Proposed Boundary Modification”, numbered T03/120,155, and dated April 2014, which shall be administered as part of the Park in accordance with subsection (c)(1) and section 3 of the Hinchliffe Stadium Heritage Act.
+    - **(B)** In addition to the lands described in subparagraph (A), the Park shall include the approximately 6 acres of land containing Hinchliffe Stadium and generally depicted as the “Boundary Modification Area” on the map entitled “Paterson Great Falls National Historical Park, Proposed Boundary Modification”, numbered T03/120,155A, and dated August 2015, which shall be administered as part of the Park in accordance with subsection (c)(1) and section 3 of the Hinchliffe Stadium Heritage Act.
   - **(4)** *Availability of map* The Map and the map referred to in paragraph (3)(B) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
   - **(5)** *Publication of notice* Not later than 60 days after the date on which the conditions in clauses (i) and (ii) of paragraph (1)(B) are satisfied, the Secretary shall publish in the Federal Register notice of the establishment of the Park, including an official boundary map for the Park.
 - **(c)** *Administration*
@@ -121,7 +121,7 @@ section: 410lll
 
 ## Source credit
 
-(Pub. L. 111–11, title VII, § 7001, Mar. 30, 2009, 123 Stat. 1183; Pub. L. 113–291, div. B, title XXX, § 3037(a), Dec. 19, 2014, 128 Stat. 3782.)
+(Pub. L. 111–11, title VII, § 7001, Mar. 30, 2009, 123 Stat. 1183;(Pub. L. 113–291, div. B, title XXX, § 3037(a), Dec. 19, 2014, 128 Stat. 3782; Pub. L. 114–289, title VI, § 601(i), Dec. 16, 2016, 130 Stat. 1491.)
 
 ## Notes
 
@@ -137,7 +137,7 @@ In subsec. (d)(1)(A), “section 100502 of title 54” substituted for “sectio
 
 ### Amendments
 
-2014—Subsec. (b)(3). Pub. L. 113–291, § 3037(a)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A), and added subpar. (B). Subsec. (b)(4). Pub. L. 113–291, § 3037(a)(2), substituted “The Map and the map referred to in paragraph (3)(B)” for “The Map”. Subsec. (c)(4)(A). Pub. L. 113–291, § 3037(a)(3)(A), substituted “Except as provided in subparagraphs (B) and (C), the Secretary” for “The Secretary”. Subsec. (c)(4)(C). Pub. L. 113–291, § 3037(a)(3)(B), added subpar. (C).
+2016—Subsec. (b)(3). Pub. L. 114–289, § 601(i), amended Pub. L. 113–291, § 3037(a)(1). See 2014 Amendment note below. 2014—Subsec. (b)(3). Pub. L. 113–291, § 3037(a)(1), as amended by Pub. L. 114–287, § 601(i), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A), and added subpar. (B). Subsec. (b)(4). Pub. L. 113–291, § 3037(a)(2), substituted “The Map and the map referred to in paragraph (3)(B)” for “The Map”. Subsec. (c)(4)(A). Pub. L. 113–291, § 3037(a)(3)(A), substituted “Except as provided in subparagraphs (B) and (C), the Secretary” for “The Secretary”. Subsec. (c)(4)(C). Pub. L. 113–291, § 3037(a)(3)(B), added subpar. (C).
 
 ### Additional Considerations for Hinchliffe Stadium
 
