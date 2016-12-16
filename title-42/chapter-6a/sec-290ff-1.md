@@ -16,7 +16,7 @@ section: 290ff–1
     - **(D)** coordinate the provision of the services of the system; and
     - **(E)** establish an office whose functions are to serve as the location through which children are provided access to the system, to coordinate the provision of services of the system, and to provide information to the public regarding the system.
   - **(3)** *Collaboration of local public entities* A funding agreement for a grant under section 290ff(a) of this title is that, for purposes of the establishment and operation of a system of care under paragraph (1), the public entity involved will seek collaboration among all public agencies that provide human services in the community in which the system is established, including but not limited to those providing mental health services, educational services, child welfare services, or juvenile justice services.
-- **(b)** *Limitation on age of children provided access to system* A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a) will not provide an individual with access to the system if the individual is more than 21 years of age.
+- **(b)** *Limitation on age of children provided access to system* A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a) will provide an individual with access to the system through the age of 21 years.
 - **(c)** *Required mental health services of system* A funding agreement for a grant under section 290ff(a) of this title is that mental health services provided by a system of care under subsection (a) will include, with respect to a serious emotional disturbance in a child—
   - **(1)** diagnostic and evaluation services;
   - **(2)** outpatient services provided in a clinic, office, school or other appropriate location, including individual, group and family counseling services, professional consultation, and review and management of medications;
@@ -62,7 +62,7 @@ section: 290ff–1
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title V, § 562, as added Pub. L. 102–321, title I, § 119, July 10, 1992, 106 Stat. 351; amended Pub. L. 106–310, div. B, title XXXI, § 3105(b), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 108–446, title III, § 305(i)(4), Dec. 3, 2004, 118 Stat. 2806.)
+(July 1, 1944, ch. 373, title V, § 562, as added Pub. L. 102–321, title I, § 119, July 10, 1992, 106 Stat. 351; amended Pub. L. 106–310, div. B, title XXXI, § 3105(b), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 108–446, title III, § 305(i)(4), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 114–255, div. B, title X, § 10001(b), Dec. 13, 2016, 130 Stat. 1262.)
 
 ## Notes
 
@@ -72,7 +72,7 @@ The Social Security Act, referred to in subsec. (d)(3)(A), is act Aug. 14, 1935,
 
 ### Amendments
 
-2004—Subsec. (d)(3)(B). Pub. L. 108–446 substituted “and C” for “and H”. 2000—Subsec. (g). Pub. L. 106–310 added subsec. (g).
+2016—Subsec. (b). Pub. L. 114–255 substituted “will provide an individual with access to the system through the age of 21 years” for “will not provide an individual with access to the system if the individual is more than 21 years of age”. 2004—Subsec. (d)(3)(B). Pub. L. 108–446 substituted “and C” for “and H”. 2000—Subsec. (g). Pub. L. 106–310 added subsec. (g).
 
 ### Effective Date
 

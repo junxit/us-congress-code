@@ -22,7 +22,7 @@ section: 1395lll
       - **(i)** a home health agency;
       - **(ii)** a skilled nursing facility;
       - **(iii)** an inpatient rehabilitation facility; and
-      - **(iv)** a long-term care hospital (other than a hospital classified under section 1395ww(d)(1)(B)(iv)(II) of this title).
+      - **(iv)** a long-term care hospital (other than a hospital classified under section 1395ww(d)(1)(B)(vi) of this title).
     - **(B)** *PAC assessment instrument* The term “PAC assessment instrument” means—
       - **(i)** in the case of home health agencies, the instrument used for purposes of reporting and assessment with respect to the Outcome and Assessment Information Set (OASIS), as described in sections 484.55 and 484.250 of title 42, the Code of Federal Regulations, or any successor regulation, or any other instrument used with respect to home health agencies for such purposes;
       - **(ii)** in the case of skilled nursing facilities, the resident’s assessment under section 1395i–3(b)(3) of this title;
@@ -144,13 +144,17 @@ section: 1395lll
 
 ## Source credit
 
-(Aug. 14, 1935, ch. 531, title XVIII, § 1899B, as added Pub. L. 113–185, § 2(a), Oct. 6, 2014, 128 Stat. 1952.)
+(Aug. 14, 1935, ch. 531, title XVIII, § 1899B, as added Pub. L. 113–185, § 2(a), Oct. 6, 2014, 128 Stat. 1952; amended Pub. L. 114–255, div. C, title XV, § 15008(d)(1), Dec. 13, 2016, 130 Stat. 1321.)
 
 ## Notes
 
 ### References in Text
 
 Section 2(d) of the IMPACT Act of 2014, referred to in subsecs. (c)(3)(A) and (d)(3)(A), is section 2(d) of Pub. L. 113–185, which is set out as a note under this section.
+
+### Amendments
+
+2016—Subsec. (a)(2)(A)(iv). Pub. L. 114–255 substituted “1395ww(d)(1)(B)(vi)” for “1395ww(d)(1)(B)(iv)(II)”.
 
 ### Improving Payment Accuracy Under the PAC Payment Systems and Other Medicare Payment Systems
 

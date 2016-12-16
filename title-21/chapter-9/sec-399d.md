@@ -51,7 +51,7 @@ section: 399d
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 1012, as added Pub. L. 111–353, title IV, § 402, Jan. 4, 2011, 124 Stat. 3968.)
+(June 25, 1938, ch. 675, § 1013, formerly § 1012, as added Pub. L. 111–353, title IV, § 402, Jan. 4, 2011, 124 Stat. 3968; renumbered § 1013, Pub. L. 114–255, div. A, title III, § 3073(b)(1), Dec. 13, 2016, 130 Stat. 1137.)
 
 ## Notes
 

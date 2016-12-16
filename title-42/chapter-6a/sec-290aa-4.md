@@ -5,20 +5,25 @@ chapter: 6A
 section: 290aa–4
 ---
 
-# § 290aa–4. Data collection
+# § 290aa–4. Center for behavioral health statistics and quality
 
-- **(a)** *Requirement of annual collection of data on mental illness and substance abuse* The Secretary, acting through the Administrator, shall collect data each year on—
-  - **(1)** the national incidence and prevalence of the various forms of mental illness and substance abuse; and
-  - **(2)** the incidence and prevalence of such various forms in major metropolitan areas selected by the Administrator.
-- **(b)** *Requisite areas of data collection on mental health* With respect to the activities of the Administrator under subsection (a) relating to mental health, the Administrator shall ensure that such activities include, at a minimum, the collection of data on—
+- **(a)** *In general* The Assistant Secretary shall maintain within the Administration a Center for Behavioral Health Statistics and Quality (in this section referred to as the “Center”). The Center shall be headed by a Director (in this section referred to as the “Director”) appointed by the Secretary from among individuals with extensive experience and academic qualifications in research and analysis in behavioral health care or related fields.
+- **(b)** *Requirement of annual collection of data on mental illness and substance abuse* The Director shall—
+  - **(1)** coordinate the Administration’s integrated data strategy, including by collecting data each year on—
+    - **(A)** the national incidence and prevalence of the various forms of mental illness and substance abuse; and
+    - **(B)** the incidence and prevalence of such various forms in major metropolitan areas selected by the Director.
+  - **(2)** provide statistical and analytical support for activities of the Administration;
+  - **(3)** recommend a core set of performance metrics to evaluate activities supported by the Administration; and
+  - **(4)** coordinate with the Assistant Secretary, the Assistant Secretary for Planning and Evaluation, and the Chief Medical Officer appointed under section 290aa(g) of this title, as appropriate, to improve the quality of services provided by programs of the Administration and the evaluation of activities carried out by the Administration.
+- **(c)** *Mental health* With respect to the activities of the Director under subsection (b)(1) relating to mental health, the Director shall ensure that such activities include, at a minimum, the collection of data on—
   - **(1)** the number and variety of public and nonprofit private treatment programs;
   - **(2)** the number and demographic characteristics of individuals receiving treatment through such programs;
   - **(3)** the type of care received by such individuals; and
   - **(4)** such other data as may be appropriate.
-- **(c)** *Requisite areas of data collection on substance abuse*
-  - **(1)** With respect to the activities of the Administrator under subsection (a) relating to substance abuse, the Administrator shall ensure that such activities include, at a minimum, the collection of data on—
+- **(d)** *Substance abuse*
+  - **(1)** *In general* With respect to the activities of the Director under subsection (b)(1) relating to substance abuse, the Director shall ensure that such activities include, at a minimum, the collection of data on—
     - **(A)** the number of individuals admitted to the emergency rooms of hospitals as a result of the abuse of alcohol or other drugs;
-    - **(B)** the number of deaths occurring as a result of substance abuse, as indicated in reports by coroners;
+    - **(B)** the number of deaths occurring as a result of substance abuse, as indicated in reports by coroners in coordination with the Centers for Disease Control and Prevention;
     - **(C)** the number and variety of public and private nonprofit treatment programs, including the number and type of patient slots available;
     - **(D)** the number of individuals seeking treatment through such programs, the number and demographic characteristics of individuals receiving such treatment, the percentage of individuals who complete such programs, and, with respect to individuals receiving such treatment, the length of time between an individual’s request for treatment and the commencement of treatment;
     - **(E)** the number of such individuals who return for treatment after the completion of a prior treatment in such programs and the method of treatment utilized during the prior treatment;
@@ -27,12 +32,12 @@ section: 290aa–4
     - **(H)** to the extent of available information, the number of individuals receiving treatment for alcohol or drug abuse who have private insurance coverage for the costs of such treatment;
     - **(I)** the extent of alcohol and drug abuse among high school students and among the general population; and
     - **(J)** the number of alcohol and drug abuse counselors and other substance abuse treatment personnel employed in public and private treatment facilities.
-  - **(2)** Annual surveys shall be carried out in the collection of data under this subsection. Summaries and analyses of the data collected shall be made available to the public.
-- **(d)** *Development of uniform criteria for data collection* After consultation with the States and with appropriate national organizations, the Administrator shall develop uniform criteria for the collection of data, using the best available technology, pursuant to this section.
+  - **(2)** *Annual surveys; public availability of data* Annual surveys shall be carried out in the collection of data under this subsection. Summaries and analyses of the data collected shall be made available to the public.
+- **(e)** *Consultation* After consultation with the States and with appropriate national organizations, the Assistant Secretary shall use existing standards and best practices to develop uniform criteria for the collection of data, using the best available technology, pursuant to this section.
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title V, § 505, formerly § 509D, as added Pub. L. 100–690, title II, § 2052(a), Nov. 18, 1988, 102 Stat. 4207; amended Pub. L. 101–93, § 3(b), Aug. 16, 1989, 103 Stat. 609; renumbered § 505, Pub. L. 102–321, title I, § 105, July 10, 1992, 106 Stat. 334; Pub. L. 103–43, title XX, § 2010(b)(7), June 10, 1993, 107 Stat. 214.)
+(July 1, 1944, ch. 373, title V, § 505, formerly § 509D, as added Pub. L. 100–690, title II, § 2052(a), Nov. 18, 1988, 102 Stat. 4207; amended Pub. L. 101–93, § 3(b), Aug. 16, 1989, 103 Stat. 609; renumbered § 505, Pub. L. 102–321, title I, § 105, July 10, 1992, 106 Stat. 334; Pub. L. 103–43, title XX, § 2010(b)(7), June 10, 1993, 107 Stat. 214; Pub. L. 114–255, div. B, title VI, §§ 6001(c)(2), 6004, Dec. 13, 2016, 130 Stat. 1203, 1207.)
 
 ## Notes
 
@@ -46,7 +51,7 @@ A prior section 290aa–4, act July 1, 1944, ch. 373, title V, § 506, formerly 
 
 ### Amendments
 
-1993—Pub. L. 103–43, § 2010(b)(7), which directed the substitution of “section 238 of this title” for “section 300aaa of this title” in section 505(a)(2) of act July 1, 1944 (this section), could not be executed because the language did not appear. Amendment was probably intended for prior section 505 which was renumbered section 502 and amended generally by Pub. L. 102–321, § 102, which is classified to section 290aa–1 of this title. 1989—Subsec. (c)(1)(A). Pub. L. 101–93, § 3(b)(1), substituted “alcohol or” for “alcohol and”. Subsec. (c)(2). Pub. L. 101–93, § 3(b)(2), substituted “this subsection” for “this section”.
+2016—Pub. L. 114–255, § 6004(1), substituted “Center for behavioral health statistics and quality” for “Data collection” in section catchline. Subsec. (a). Pub. L. 114–255, § 6004(2), (3), added subsec. (a) and redesignated former subsec. (a) as (b). Pub. L. 114–255, § 6001(c)(2), substituted “Assistant Secretary” for “Administrator” in introductory provisions and in par. (2). Subsec. (b). Pub. L. 114–255, § 6004(4), substituted “The Director shall—” for “The Secretary, acting through the Assistant Secretary, shall collect data each year on—”, added par. (1), redesignated pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, substituted “Director” for “Assistant Secretary” in subpar. (B), and added pars. (2) to (4). Pub. L. 114–255, § 6004(2), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c). Pub. L. 114–255, § 6001(c)(2), substituted “Assistant Secretary” for “Administrator” in two places in introductory provisions. Subsec. (c). Pub. L. 114–255, § 6004(5), inserted heading and in introductory provisions substituted “subsection (b)(1)” for “subsection (a)” and “Director” for “Assistant Secretary” in two places. Pub. L. 114–255, § 6004(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d). Subsec. (c)(1). Pub. L. 114–255, § 6001(c)(2), substituted “Assistant Secretary” for “Administrator” in two places in introductory provisions. Subsec. (d). Pub. L. 114–255, § 6004(6), inserted heading, in par. (1) inserted heading and in introductory provisions substituted “subsection (b)(1)” for “subsection (a)” and “Director” for “Assistant Secretary” in two places, in par. (1)(B) inserted “in coordination with the Centers for Disease Control and Prevention” at end, and in par. (2) inserted heading. Pub. L. 114–255, § 6004(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e) Pub. L. 114–255, § 6001(c)(2), substituted “Assistant Secretary” for “Administrator”. Subsec. (e). Pub. L. 114–255, § 6004(7), inserted heading and substituted “Assistant Secretary shall use existing standards and best practices to develop” for “Assistant Secretary shall develop”. Pub. L. 114–255, § 6004(2), redesignated subsec. (d) as (e). 1993—Pub. L. 103–43, § 2010(b)(7), which directed the substitution of “section 238 of this title” for “section 300aaa of this title” in section 505(a)(2) of act July 1, 1944 (this section), could not be executed because the language did not appear. Amendment was probably intended for prior section 505 which was renumbered section 502 and amended generally by Pub. L. 102–321, § 102, which is classified to section 290aa–1 of this title. 1989—Subsec. (c)(1)(A). Pub. L. 101–93, § 3(b)(1), substituted “alcohol or” for “alcohol and”. Subsec. (c)(2). Pub. L. 101–93, § 3(b)(2), substituted “this subsection” for “this section”.
 
 ### National Survey on Drug Use and Health
 

@@ -8,7 +8,7 @@ section: 290ff
 # § 290ff. Comprehensive community mental health services for children with serious emotional disturbances
 
 - **(a)** *Grants to certain public entities*
-  - **(1)** *In general* The Secretary, acting through the Director of the Center for Mental Health Services, shall make grants to public entities for the purpose of providing comprehensive community mental health services to children with a serious emotional disturbance.
+  - **(1)** *In general* The Secretary, acting through the Director of the Center for Mental Health Services, shall make grants to public entities for the purpose of providing comprehensive community mental health services to children with a serious emotional disturbance, which may include efforts to identify and serve children at risk.
   - **(2)** *“Public entity” defined* For purposes of this part, the term “public entity” means any State, any political subdivision of a State, and any Indian tribe or tribal organization (as defined in section 5304(b) and section 5304(c) 11 See References in Text note below. of title 25).
 - **(b)** *Considerations in making grants*
   - **(1)** *Requirement of status as grantee under part B of subchapter XVII* The Secretary may make a grant under subsection (a) to a public entity only if—
@@ -40,7 +40,7 @@ section: 290ff
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title V, § 561, as added Pub. L. 102–321, title I, § 119, July 10, 1992, 106 Stat. 349; amended Pub. L. 103–43, title XX, § 2017(1), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, § 3105(a), Oct. 17, 2000, 114 Stat. 1175.)
+(July 1, 1944, ch. 373, title V, § 561, as added Pub. L. 102–321, title I, § 119, July 10, 1992, 106 Stat. 349; amended Pub. L. 103–43, title XX, § 2017(1), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, § 3105(a), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 114–255, div. B, title X, § 10001(a), Dec. 13, 2016, 130 Stat. 1262.)
 
 ## Notes
 
@@ -58,7 +58,7 @@ A prior section 290ff, act July 1, 1944, ch. 373, title V, § 561, as added Nov.
 
 ### Amendments
 
-2000—Subsec. (c)(1)(D). Pub. L. 106–310 substituted “fifth and sixth such fiscal year” for “fifth such fiscal year”. 1993—Subsec. (a)(2). Pub. L. 103–43, § 2017(1)(A), substituted “this part” for “this subpart”. Subsec. (b)(1)(B), (C). Pub. L. 103–43, § 2017(1)(B), substituted “is such a grantee” for “is receiving such payments”.
+2016—Subsec. (a)(1). Pub. L. 114–255 inserted “, which may include efforts to identify and serve children at risk” before period at end. 2000—Subsec. (c)(1)(D). Pub. L. 106–310 substituted “fifth and sixth such fiscal year” for “fifth such fiscal year”. 1993—Subsec. (a)(2). Pub. L. 103–43, § 2017(1)(A), substituted “this part” for “this subpart”. Subsec. (b)(1)(B), (C). Pub. L. 103–43, § 2017(1)(B), substituted “is such a grantee” for “is receiving such payments”.
 
 ### Effective Date
 

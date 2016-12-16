@@ -43,10 +43,21 @@ section: 1395kk
   - **(1)** An individual who is incarcerated.
   - **(2)** An individual who is not lawfully present in the United States and who is not eligible for coverage under this subchapter.
   - **(3)** A deceased individual.
+- **(g)** *Requirement for enrollment data reporting*
+  - **(1)** *In general* Each year (beginning with 2016), the Secretary shall submit to the Committees on Ways and Means and Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate a report on Medicare enrollment data (and, in the case of part A, on data on individuals receiving benefits under such part) as of a date in such year specified by the Secretary. Such data shall be presented—
+    - **(A)** by Congressional district and State; and
+    - **(B)** in a manner that provides for such data based on—
+      - **(i)** fee-for-service enrollment (as defined in paragraph (2));
+      - **(ii)** enrollment under part C (including separate for aggregate enrollment in MA–PD plans and aggregate enrollment in MA plans that are not MA–PD plans); and
+      - **(iii)** enrollment under part D.
+  - **(2)** *Fee-for-service enrollment defined* For purpose of paragraph (1)(B)(i), the term “fee-for-service enrollment” means aggregate enrollment (including receipt of benefits other than through enrollment) under—
+    - **(A)** part A only;
+    - **(B)** part B only; and
+    - **(C)** both part A and part B.
 
 ## Source credit
 
-(Aug. 14, 1935, ch. 531, title XVIII, § 1874, as added and amended Pub. L. 89–97, title I, §§ 102(a), 111(a), July 30, 1965, 79 Stat. 332, 340; Pub. L. 92–603, title II, § 289, Oct. 30, 1972, 86 Stat. 1457; Pub. L. 93–445, title III, § 310, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 110–275, title I, § 189(a), July 15, 2008, 122 Stat. 2590; Pub. L. 111–148, title X, § 10332(a), Mar. 23, 2010, 124 Stat. 968; Pub. L. 114–10, title I, § 105(c), (d), title V, § 502(a), Apr. 16, 2015, 129 Stat. 137, 165.)
+(Aug. 14, 1935, ch. 531, title XVIII, § 1874, as added and amended Pub. L. 89–97, title I, §§ 102(a), 111(a), July 30, 1965, 79 Stat. 332, 340; Pub. L. 92–603, title II, § 289, Oct. 30, 1972, 86 Stat. 1457; Pub. L. 93–445, title III, § 310, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 110–275, title I, § 189(a), July 15, 2008, 122 Stat. 2590; Pub. L. 111–148, title X, § 10332(a), Mar. 23, 2010, 124 Stat. 968; Pub. L. 114–10, title I, § 105(c), (d), title V, § 502(a), Apr. 16, 2015, 129 Stat. 137, 165; Pub. L. 114–255, div. C, title XVII, § 17002, Dec. 13, 2016, 130 Stat. 1330.)
 
 ## Notes
 
@@ -60,7 +71,7 @@ The Railroad Retirement Act of 1974, referred to in subsec. (a), is act Aug. 29,
 
 ### Amendments
 
-2015—Subsec. (e). Pub. L. 114–10, § 105(c)(1), struck out “Medicare” before “data” in heading. Subsec. (e)(3). Pub. L. 114–10, § 105(c)(2), inserted “Beginning July 1, 2016, if the Secretary determines appropriate, the data described in this paragraph may also include standardized extracts (as determined by the Secretary) of claims data under subchapters XIX and XXI for assistance provided under such subchapters for one or more specified geographic areas and time periods requested by a qualified entity.” before “The Secretary” and “or under subchapters XIX or XXI” before period at end. Subsec. (e)(4)(A). Pub. L. 114–10, § 105(d), inserted “, for periods prior to July 1, 2016,” after “deposited” and “, and, beginning July 1, 2016, into the Centers for Medicare & Medicaid Services Program Management Account” before period at end. Subsec. (f). Pub. L. 114–10, § 502(a), added subsec. (f). 2010—Subsec. (e). Pub. L. 111–148 added subsec. (e). 2008—Subsec. (d). Pub. L. 110–275 added subsec. (d). 1974—Subsec. (a). Pub. L. 93–445 substituted “Railroad Retirement Act of 1974” for “Railroad Retirement Act of 1937”. 1972—Subsec. (c). Pub. L. 92–603 added subsec. (c). 1965—Subsec. (a). Pub. L. 89–97 inserted reference to Railroad Retirement Act of 1937 in first sentence.
+2016—Subsec. (g). Pub. L. 114–255 added subsec. (g). 2015—Subsec. (e). Pub. L. 114–10, § 105(c)(1), struck out “Medicare” before “data” in heading. Subsec. (e)(3). Pub. L. 114–10, § 105(c)(2), inserted “Beginning July 1, 2016, if the Secretary determines appropriate, the data described in this paragraph may also include standardized extracts (as determined by the Secretary) of claims data under subchapters XIX and XXI for assistance provided under such subchapters for one or more specified geographic areas and time periods requested by a qualified entity.” before “The Secretary” and “or under subchapters XIX or XXI” before period at end. Subsec. (e)(4)(A). Pub. L. 114–10, § 105(d), inserted “, for periods prior to July 1, 2016,” after “deposited” and “, and, beginning July 1, 2016, into the Centers for Medicare & Medicaid Services Program Management Account” before period at end. Subsec. (f). Pub. L. 114–10, § 502(a), added subsec. (f). 2010—Subsec. (e). Pub. L. 111–148 added subsec. (e). 2008—Subsec. (d). Pub. L. 110–275 added subsec. (d). 1974—Subsec. (a). Pub. L. 93–445 substituted “Railroad Retirement Act of 1974” for “Railroad Retirement Act of 1937”. 1972—Subsec. (c). Pub. L. 92–603 added subsec. (c). 1965—Subsec. (a). Pub. L. 89–97 inserted reference to Railroad Retirement Act of 1937 in first sentence.
 
 ### Effective Date of 2010 Amendment
 

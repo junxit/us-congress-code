@@ -24,7 +24,7 @@ section: 290ff–3
   - **(1)** under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
   - **(2)** by an entity that provides health services on a prepaid basis.
 - **(e)** *Limitation on administrative expenses* A funding agreement for a grant under section 290ff(a) of this title is that not more than 2 percent of the grant will be expended for administrative expenses incurred with respect to the grant by the public entity involved.
-- **(f)** *Reports to Secretary* A funding agreement for a grant under section 290ff(a) of this title is that the public entity involved will annually submit to the Secretary a report on the activities of the entity under the grant that includes a description of the number of children provided access to systems of care operated pursuant to the grant, the demographic characteristics of the children, the types and costs of services provided pursuant to the grant, the availability and use of third-party reimbursements, estimates of the unmet need for such services in the jurisdiction of the entity, and the manner in which the grant has been expended toward the establishment of a jurisdiction-wide system of care for children with a serious emotional disturbance, and such other information as the Secretary may require with respect to the grant.
+- **(f)** *Reports to Secretary* A funding agreement for a grant under section 290ff(a) of this title is that the public entity involved will annually submit to the Secretary (and provide a copy to the State involved) a report on the activities of the entity under the grant that includes a description of the number of children provided access to systems of care operated pursuant to the grant, the demographic characteristics of the children, the types and costs of services provided pursuant to the grant, the availability and use of third-party reimbursements, estimates of the unmet need for such services in the jurisdiction of the entity, and the manner in which the grant has been expended toward the establishment of a jurisdiction-wide system of care for children with a serious emotional disturbance, and such other information as the Secretary may require with respect to the grant.
 - **(g)** *Description of intended uses of grant* The Secretary may make a grant under section 290ff(a) of this title only if—
   - **(1)** the public entity involved submits to the Secretary a description of the purposes for which the entity intends to expend the grant;
   - **(2)** the description identifies the populations, areas, and localities in the jurisdiction of the entity with a need for services under this section; and
@@ -33,9 +33,13 @@ section: 290ff–3
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title V, § 564, as added Pub. L. 102–321, title I, § 119, July 10, 1992, 106 Stat. 355.)
+(July 1, 1944, ch. 373, title V, § 564, as added Pub. L. 102–321, title I, § 119, July 10, 1992, 106 Stat. 355; amended Pub. L. 114–255, div. B, title X, § 10001(c), Dec. 13, 2016, 130 Stat. 1262.)
 
 ## Notes
+
+### Amendments
+
+2016—Subsec. (f). Pub. L. 114–255 inserted “(and provide a copy to the State involved)” after “to the Secretary”.
 
 ### Effective Date
 

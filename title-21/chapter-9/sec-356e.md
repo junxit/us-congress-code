@@ -16,7 +16,7 @@ section: 356e
     - **(B)** Regulatory delay.
     - **(C)** Shortage of an active ingredient.
     - **(D)** Shortage of an inactive ingredient component.
-    - **(E)** Discontinuation of the manufacture of the drug.
+    - **(E)** Discontinuance of the manufacture of the drug.
     - **(F)** Delay in shipping of the drug.
     - **(G)** Demand increase for the drug.
   - **(4)** The estimated duration of the shortage as determined by the Secretary.
@@ -27,4 +27,10 @@ section: 356e
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 506E, as added Pub. L. 112–144, title X, § 1004, July 9, 2012, 126 Stat. 1104.)
+(June 25, 1938, ch. 675, § 506E, as added Pub. L. 112–144, title X, § 1004, July 9, 2012, 126 Stat. 1104; amended Pub. L. 114–255, div. A, title III, § 3101(a)(2)(G), Dec. 13, 2016, 130 Stat. 1153.)
+
+## Notes
+
+### Amendments
+
+2016—Subsec. (b)(3)(E). Pub. L. 114–255, which directed substitution of “discontinuance” for “discontinuation”, was executed by substituting “Discontinuance” for “Discontinuation” to reflect the probable intent of Congress.

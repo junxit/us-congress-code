@@ -10,7 +10,7 @@ section: 360bbb–8
 - **(a)** *In general* For the purpose of promoting the efficiency of and informing the review by the Food and Drug Administration of new drugs and biological products for rare diseases and drugs and biological products that are genetically targeted, the following shall apply:
   - **(1)** *Consultation with stakeholders* Consistent with sections X.C and IX.E.4 of the PDUFA Reauthorization Performance Goals and Procedures Fiscal Years 2013 through 2017, as referenced in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2012, the Secretary shall ensure that opportunities exist, at a time the Secretary determines appropriate, for consultations with stakeholders on the topics described in subsection (b).
   - **(2)** *Consultation with external experts*
-    - **(A)** *In general* The Secretary shall develop and maintain a list of external experts who, because of their special expertise, are qualified to provide advice on rare disease issues, including topics described in subsection (c). The Secretary may, when appropriate to address a specific regulatory question, consult such external experts on issues related to the review of new drugs and biological products for rare diseases and drugs and biological products that are genetically targeted, including the topics described in subsection (b), when such consultation is necessary because the Secretary lacks the specific scientific, medical, or technical expertise necessary for the performance of the Secretary’s regulatory responsibilities and the necessary expertise can be provided by the external experts.
+    - **(A)** *In general* The Secretary shall develop and maintain a list of external experts who, because of their special expertise, are qualified to provide advice on rare disease issues, including topics described in subsection (b). The Secretary may, when appropriate to address a specific regulatory question, consult such external experts on issues related to the review of new drugs and biological products for rare diseases and drugs and biological products that are genetically targeted, including the topics described in subsection (b), when such consultation is necessary because the Secretary lacks the specific scientific, medical, or technical expertise necessary for the performance of the Secretary’s regulatory responsibilities and the necessary expertise can be provided by the external experts.
     - **(B)** *External experts* For purposes of subparagraph (A), external experts are individuals who possess scientific or medical training that the Secretary lacks with respect to one or more rare diseases.
 - **(b)** *Topics for consultation* Topics for consultation pursuant to this section may include—
   - **(1)** rare diseases;
@@ -39,10 +39,14 @@ section: 360bbb–8
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 569, as added Pub. L. 112–144, title IX, § 903, July 9, 2012, 126 Stat. 1088.)
+(June 25, 1938, ch. 675, § 569, as added Pub. L. 112–144, title IX, § 903, July 9, 2012, 126 Stat. 1088; amended Pub. L. 114–255, div. A, title III, § 3101(a)(2)(O), Dec. 13, 2016, 130 Stat. 1154.)
 
 ## Notes
 
 ### References in Text
 
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsecs. (a)(1) and (f)(2), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title.
+
+### Amendments
+
+2016—Subsec. (a)(2)(A). Pub. L. 114–255 substituted “subsection (b)” for “subsection (c)” before period in first sentence.

@@ -38,7 +38,9 @@ section: 1395jjj
   - **(4)** *No duplication in participation in shared savings programs* A provider of services or supplier that participates in any of the following shall not be eligible to participate in an ACO under this section:
     - **(A)** A model tested or expanded under section 1315a of this title that involves shared savings under this subchapter, or any other program or demonstration project that involves such shared savings.
     - **(B)** The independence at home medical practice pilot program under section 1395cc–5 of this title.
-- **(c)** *Assignment of Medicare fee-for-service beneficiaries to ACOs* The Secretary shall determine an appropriate method to assign Medicare fee-for-service beneficiaries to an ACO based on their utilization of primary care services provided under this subchapter by an ACO professional described in subsection (h)(1)(A).
+- **(c)** *Assignment of Medicare fee-for-service beneficiaries to ACOs* The Secretary shall determine an appropriate method to assign Medicare fee-for-service beneficiaries to an ACO based on their utilization of—
+  - **(1)** in the case of performance years beginning on or after April 1, 2012, primary care services provided under this subchapter by an ACO professional described in subsection (h)(1)(A); and
+  - **(2)** in the case of performance years beginning on or after January 1, 2019, services provided under this subchapter by a Federally qualified health center or rural health clinic (as those terms are defined in section 1395x(aa) of this title), as may be determined by the Secretary.
 - **(d)** *Payments and treatment of savings*
   - **(1)** *Payments*
     - **(A)** *In general* Under the program, subject to paragraph (3), payments shall continue to be made to providers of services and suppliers participating in an ACO under the original Medicare fee-for-service program under parts A and B in the same manner as they would otherwise be made except that a participating ACO is eligible to receive payment for shared savings under paragraph (2) if—
@@ -78,16 +80,12 @@ section: 1395jjj
 
 ## Source credit
 
-(Aug. 14, 1935, ch. 531, title XVIII, § 1899, as added and amended Pub. L. 111–148, title III, § 3022, title X, § 10307, Mar. 23, 2010, 124 Stat. 395, 940.)
+(Aug. 14, 1935, ch. 531, title XVIII, § 1899, as added and amended Pub. L. 111–148, title III, § 3022, title X, § 10307, Mar. 23, 2010, 124 Stat. 395, 940; Pub. L. 114–255, div. C, title XVII, § 17007, Dec. 13, 2016, 130 Stat. 1338.)
 
 ## Notes
 
 1 So in original. No par. (2) has been enacted.
 
-### References in Text
-
-Parts A, B, and C, referred to in text, are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
-
 ### Amendments
 
-2010—Subsecs. (i) to (k). Pub. L. 111–148, § 10307, added subsecs. (i) to (k).
+2016—Subsec. (c). Pub. L. 114–255 substituted “utilization of—” for “utilization of primary”, inserted par. (1) designation and “in the case of performance years beginning on or after April 1, 2012, primary” before “care services”, and added par. (2). 2010—Subsecs. (i) to (k). Pub. L. 111–148, § 10307, added subsecs. (i) to (k).

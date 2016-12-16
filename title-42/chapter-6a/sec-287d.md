@@ -20,7 +20,7 @@ section: 287d
   - **(9)** prepare the report required in section 287d–2 of this title.
 - **(c)** *Coordinating Committee*
   - **(1)** In carrying out subsection (b), the Director of the Office shall establish a committee to be known as the Coordinating Committee on Research on Women’s Health (in this subsection referred to as the “Coordinating Committee”).
-  - **(2)** The Coordinating Committee shall be composed of the Directors of the national research institutes (or the designees of the Directors).
+  - **(2)** The Coordinating Committee shall be composed of the Directors of the national research institutes (or the senior-level staff designees of the Directors).
   - **(3)** The Director of the Office shall serve as the chair of the Coordinating Committee.
   - **(4)** With respect to research on women’s health, the Coordinating Committee shall assist the Director of the Office in—
     - **(A)** identifying the need for such research, and making an estimate each fiscal year of the funds needed to adequately support the research;
@@ -58,13 +58,13 @@ section: 287d
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title IV, § 486, as added Pub. L. 103–43, title I, § 141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, § 106, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 111–148, title III, § 3509(c), Mar. 23, 2010, 124 Stat. 534.)
+(July 1, 1944, ch. 373, title IV, § 486, as added Pub. L. 103–43, title I, § 141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, § 106, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 111–148, title III, § 3509(c), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. A, title II, § 2038(c), Dec. 13, 2016, 130 Stat. 1065.)
 
 ## Notes
 
 ### Amendments
 
-2010—Subsec. (a). Pub. L. 111–148 inserted “and who shall report directly to the Director” before period at end. 1998—Subsec. (d)(2). Pub. L. 105–340 substituted “NIH” for “the Office”.
+2016—Subsec. (c)(2). Pub. L. 114–255 substituted “senior-level staff designees” for “designees”. 2010—Subsec. (a). Pub. L. 111–148 inserted “and who shall report directly to the Director” before period at end. 1998—Subsec. (d)(2). Pub. L. 105–340 substituted “NIH” for “the Office”.
 
 ### Termination of Advisory Committees
 

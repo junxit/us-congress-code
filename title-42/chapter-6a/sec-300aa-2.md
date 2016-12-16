@@ -33,6 +33,10 @@ A prior section 300aa–2, act July 1, 1944, § 2103, was successively renumbere
 
 2003—Subsec. (a)(7). Pub. L. 108–173 substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”. 1992—Subsec. (a)(1), (3), (6), (7). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
+### Encouraging Vaccine Innovation; Meetings
+
+Pub. L. 114–255, div. A, title III, § 3093(a), Dec. 13, 2016, 130 Stat. 1151, provided that: “The Director of the Centers for Disease Control and Prevention shall ensure that appropriate staff within the relevant centers and divisions of the Office of Infectious Diseases, and others, as appropriate, coordinate with respect to the public health needs, epidemiology, and program planning and implementation considerations related to immunization, including with regard to meetings with stakeholders related to such topics.”
+
 ### Grants for Research on Vaccine Against Valley Fever
 
 Pub. L. 109–432, div. B, title IV, § 402, Dec. 20, 2006, 120 Stat. 2994, authorized the Secretary of Health and Human Services to make grants for research on the development of a vaccine against coccidioidomycosis (commonly known as Valley Fever) before Oct. 1, 2012.
