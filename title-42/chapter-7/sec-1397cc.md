@@ -7,8 +7,8 @@ section: 1397cc
 
 # § 1397cc. Coverage requirements for children’s health insurance
 
-- **(a)** *Required scope of health insurance coverage* The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), and (7) of subsection (c) of this section, of any of the following:
-  - **(1)** *Benchmark coverage* Health benefits coverage that is at least equivalent to the benefits coverage in a benchmark benefit package described in subsection (b) of this section.
+- **(a)** *Required scope of health insurance coverage* The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), and (7) of subsection (c), of any of the following:
+  - **(1)** *Benchmark coverage* Health benefits coverage that is at least equivalent to the benefits coverage in a benchmark benefit package described in subsection (b).
   - **(2)** *Benchmark-equivalent coverage* Health benefits coverage that meets the following requirements:
     - **(A)** *Inclusion of basic services* The coverage includes benefits for items and services within each of the categories of basic services described in subsection (c)(1) of this section.
     - **(B)** *Aggregate actuarial value equivalent to benchmark package* The coverage has an aggregate actuarial value that is at least actuarially equivalent to one of the benchmark benefit packages.
@@ -60,7 +60,7 @@ section: 1397cc
     - **(D)** was offered as of August 5, 1997.
   - **(2)** *Modifications* A State may modify a program described in paragraph (1) from time to time so long as it continues to meet the requirement of subparagraph (A) and does not reduce the actuarial value of the coverage under the program below the lower of—
     - **(A)** the actuarial value of the coverage under the program as of August 5, 1997, or
-    - **(B)** the actuarial value described in subsection (a)(2)(B) of this section,
+    - **(B)** the actuarial value described in subsection (a)(2)(B),
 - **(e)** *Cost-sharing*
   - **(1)** *Description; general conditions*
     - **(A)** *Description* A State child health plan shall include a description, consistent with this subsection, of the amount (if any) of premiums, deductibles, coinsurance, and other cost sharing imposed. Any such charges shall be imposed pursuant to a public schedule.

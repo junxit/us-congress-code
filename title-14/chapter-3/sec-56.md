@@ -25,14 +25,24 @@ section: 56
   - **(5)** managing the direction of acquisition policy for the Coast Guard, including implementation of the unique acquisition policies, regulations, and standards of the Coast Guard;
   - **(6)** developing and maintaining an acquisition career management program in the Coast Guard to ensure that there is an adequate acquisition workforce;
   - **(7)** assessing the requirements established for Coast Guard personnel regarding knowledge and skill in acquisition resources and management and the adequacy of such requirements for facilitating the achievement of the performance goals established for acquisition management;
-  - **(8)** developing strategies and specific plans for hiring, training, and professional development; and
-  - **(9)** reporting to the Commandant, through the chain of command, on the progress made in improving acquisition management capability.
+  - **(8)** developing strategies and specific plans for hiring, training, and professional development;
+  - **(9)** reporting to the Commandant, through the chain of command, on the progress made in improving acquisition management capability; and
+  - **(10)**
+    - **(A)** keeping the Commandant informed of the progress of major acquisition programs (as that term is defined in section 581);
+    - **(B)** informing the Commandant on a continuing basis of any developments on such programs that may require new or revisited trade-offs among cost, schedule, technical feasibility, and performance, including—
+      - **(i)** significant cost growth or schedule slippage; and
+      - **(ii)** requirements creep (as that term is defined in section 2547(c)(1) of title 10); and
+    - **(C)** ensuring that the views of the Commandant regarding such programs on cost, schedule, technical feasibility, and performance trade-offs are strongly considered by program managers and program executive officers in all phases of the acquisition process.
 
 ## Source credit
 
-(Added Pub. L. 111–281, title IV, § 401(a), Oct. 15, 2010, 124 Stat. 2929.)
+(Added Pub. L. 111–281, title IV, § 401(a), Oct. 15, 2010, 124 Stat. 2929; amended Pub. L. 114–328, div. A, title VIII, § 899(a), Dec. 23, 2016, 130 Stat. 2332.)
 
 ## Notes
+
+### Amendments
+
+2016—Subsec. (c)(10). Pub. L. 114–328 added par. (10).
 
 ### Selection Deadline
 

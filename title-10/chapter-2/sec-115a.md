@@ -10,7 +10,7 @@ section: 115a
 - **(a)** The Secretary of Defense shall submit to Congress an annual defense manpower requirements report. The report, which shall be in writing, shall be submitted each year not later than 45 days after the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31. The report shall contain the Secretary’s recommendations for—
   - **(1)** the annual active-duty end-strength level for each component of the armed forces for the next fiscal year;
   - **(2)** the annual civilian personnel requirements level for each component of the Department of Defense for the next fiscal year and the civilian end-strength level for the prior fiscal year; and
-  - **(3)** the projected number of contractor personnel full-time equivalents required to provide contract services (as that term is defined in section 235 of this title) for each component of the Department of Defense for the next fiscal year and the contractor personnel full-time equivalents that provided contract services for each component of the Department of Defense for the prior fiscal year as reported in the inventory of contracts for services required by section 2330a(c) of this title.
+  - **(3)** the projected number of contractor personnel full-time equivalents required to provide contract services (as that term is defined in section 235 of this title) for each component of the Department of Defense for the next fiscal year and the contractor personnel full-time equivalents that provided contract services for each component of the Department of Defense for the prior fiscal year as reported in the inventory of contracts for services required by section 2330a(c) 11 See References in Text note below. of this title.
 - **(b)**
   - **(1)** The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
   - **(2)** The justification and explanation shall specify in detail for all major military force units (including each land force division, carrier and other major combatant vessel, air wing, and other comparable unit) the following:
@@ -62,9 +62,11 @@ section: 115a
 
 ## Notes
 
+1 See References in Text note below.
+
 ### References in Text
 
-Section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009, referred to in subsec. (f)(4), is section 1111(b)(2) of Pub. L. 110–417, which is set out as a note under section 143 of this title.
+Section 2330a(c) of this title, referred to in subsec. (a)(3), was amended by Pub. L. 114–328 with respect to the requirement that the Secretary of Defense submit to Congress an annual inventory of the activities performed pursuant to contracts for services. Section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009, referred to in subsec. (f)(4), is section 1111(b)(2) of Pub. L. 110–417, which is set out as a note under section 143 of this title.
 
 ### Prior Provisions
 

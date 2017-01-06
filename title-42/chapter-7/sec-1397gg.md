@@ -23,7 +23,7 @@ section: 1397gg
   - **(3)** *Audits* A State child health plan shall include an assurance that the State will afford the Secretary access to any records or information relating to the plan for the purposes of review or audit.
 - **(c)** *Program development process* A State child health plan shall include a description of the process used to involve the public in the design and implementation of the plan and the method for ensuring ongoing public involvement.
 - **(d)** *Program budget* A State child health plan shall include a description of the budget for the plan. The description shall be updated periodically as necessary and shall include details on the planned use of funds and the sources of the non-Federal share of plan expenditures, including any requirements for cost-sharing by beneficiaries.
-- **(e)** *Application of certain general provisions* The following sections of this chapter shall apply to States under this subchapter in the same manner as they apply to a State under subchapter XIX of this chapter:
+- **(e)** *Application of certain general provisions* The following sections of this chapter shall apply to States under this subchapter in the same manner as they apply to a State under subchapter XIX:
   - **(1)** *Subchapter XIX provisions*
     - **(A)** Section 1396a(a)(4)(C) of this title (relating to conflict of interest standards).
     - **(B)** Section 1396a(a)(39) of this title (relating to termination of participation of certain providers).

@@ -12,8 +12,8 @@ section: 1397bb
   - **(2)** current State efforts to provide or obtain creditable health coverage for uncovered children, including the steps the State is taking to identify and enroll all uncovered children who are eligible to participate in public health insurance programs and health insurance programs that involve public-private partnerships;
   - **(3)** how the plan is designed to be coordinated with such efforts to increase coverage of children under creditable health coverage;
   - **(4)** the child health assistance provided under the plan for targeted low-income children, including the proposed methods of delivery, and utilization control systems;
-  - **(5)** eligibility standards consistent with subsection (b) of this section;
-  - **(6)** outreach activities consistent with subsection (c) of this section; and
+  - **(5)** eligibility standards consistent with subsection (b);
+  - **(6)** outreach activities consistent with subsection (c); and
   - **(7)** methods (including monitoring) used—
     - **(A)** to assure the quality and appropriateness of care, particularly with respect to well-baby care, well-child care, and immunizations provided under the plan;
     - **(B)** to assure access to covered services, including emergency services and services described in section 1397cc(c)(5) of this title; and
@@ -30,7 +30,7 @@ section: 1397bb
   - **(2)** *Methodology* The plan shall include a description of methods of establishing and continuing eligibility and enrollment.
   - **(3)** *Eligibility screening; coordination with other health coverage programs* The plan shall include a description of procedures to be used to ensure—
     - **(A)** through both intake and followup screening, that only targeted low-income children are furnished child health assistance under the State child health plan;
-    - **(B)** that children found through the screening to be eligible for medical assistance under the State medicaid plan under subchapter XIX of this chapter are enrolled for such assistance under such plan;
+    - **(B)** that children found through the screening to be eligible for medical assistance under the State medicaid plan under subchapter XIX are enrolled for such assistance under such plan;
     - **(C)** that the insurance provided under the State child health plan does not substitute for coverage under group health plans;
     - **(D)** the provision of child health assistance to targeted low-income children in the State who are Indians (as defined in section 1603(c) 11 See References in Text note below. of title 25); and
     - **(E)** coordination with other public and private programs providing creditable coverage for low-income children.

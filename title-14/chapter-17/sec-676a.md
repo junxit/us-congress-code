@@ -13,7 +13,7 @@ section: 676a
     - **(B)** retire, transfer, relocate, or deploy an aviation asset from an air facility described in subparagraph (A) for the purpose of closing such facility.
   - **(2)** *Sunset.—* Paragraph (1) shall have no force or effect beginning on the later of—
     - **(A)** January 1, 2018; or
-    - **(B)** the date on which the Secretary submits to the Committee on Transportation and Infrastructure of the House of Representatives, and to the Committee on Commerce, Science, and Transportation of the Senate, rotary wing strategic plans prepared in accordance with section 208(b) of the Coast Guard Authorization Act of 2015.
+    - **(B)** the date on which the Secretary submits to the Committee on Transportation and Infrastructure of the House of Representatives, and to the Committee on Commerce, Science, and Transportation of the Senate, rotary wing strategic plans prepared in accordance with section 208(b) of the Coast Guard Authorization Act of 2016.
 - **(b)** *Closures.—*
   - **(1)** *In general.—* Beginning on January 1, 2018, the Secretary may not close a Coast Guard air facility, except as specified by this section.
   - **(2)** *Determinations.—* The Secretary may not propose closing or terminating operations at a Coast Guard air facility unless the Secretary determines that—
@@ -36,10 +36,18 @@ section: 676a
 
 ## Source credit
 
-(Added Pub. L. 114–120, title II, § 208(a), Feb. 8, 2016, 130 Stat. 38.)
+(Added Pub. L. 114–120, title II, § 208(a), Feb. 8, 2016, 130 Stat. 38; amended Pub. L. 114–328, div. C, title XXXV, § 3503(a), Dec. 23, 2016, 130 Stat. 2775.)
 
 ## Notes
 
 ### References in Text
 
-Section 208(b) of the Coast Guard Authorization Act of 2015, referred to in subsec. (a)(2)(B), is section 208(b) of Pub. L. 114–120, title II, Feb. 8, 2016, 130 Stat. 39, which is not classified to the Code.
+Section 208(b) of the Coast Guard Authorization Act of 2016, referred to in subsec. (a)(2)(B), is section 208(b) of Pub. L. 114–120, title II, Feb. 8, 2016, 130 Stat. 39, which is not classified to the Code.
+
+### Amendments
+
+2016—Subsec. (a)(2)(B). Pub. L. 114–328 substituted “Coast Guard Authorization Act of 2016” for “Coast Guard Authorization Act of 2015”.
+
+### Effective Date of 2016 Amendment
+
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under section 60 of this title.
