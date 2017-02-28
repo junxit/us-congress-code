@@ -5,7 +5,7 @@ chapter: 47
 section: 909a
 ---
 
-# § 909a. ]
+# § 909a. Art. 109a]
 
 ## Notes
 

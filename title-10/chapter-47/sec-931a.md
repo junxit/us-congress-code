@@ -5,7 +5,7 @@ chapter: 47
 section: 931a
 ---
 
-# § 931a. ]
+# § 931a. Art. 131a]
 
 ## Notes
 

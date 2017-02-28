@@ -5,7 +5,7 @@ chapter: 47
 section: 904a
 ---
 
-# § 904a. ]
+# § 904a. Art. 104a]
 
 ## Notes
 

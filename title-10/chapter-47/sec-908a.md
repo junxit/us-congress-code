@@ -5,7 +5,7 @@ chapter: 47
 section: 908a
 ---
 
-# § 908a. ]
+# § 908a. Art. 108a]
 
 ## Notes
 

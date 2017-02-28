@@ -5,7 +5,7 @@ chapter: 47
 section: 907a
 ---
 
-# § 907a. ]
+# § 907a. Art. 107a]
 
 ## Notes
 

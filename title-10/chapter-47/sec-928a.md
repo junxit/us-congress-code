@@ -5,7 +5,7 @@ chapter: 47
 section: 928a
 ---
 
-# § 928a. ]
+# § 928a. Art. 128a]
 
 ## Notes
 

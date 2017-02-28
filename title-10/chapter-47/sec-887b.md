@@ -5,7 +5,7 @@ chapter: 47
 section: 887b
 ---
 
-# § 887b. ]
+# § 887b. Art. 87b]
 
 ## Notes
 

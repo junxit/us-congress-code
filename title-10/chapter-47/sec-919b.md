@@ -5,7 +5,7 @@ chapter: 47
 section: 919b
 ---
 
-# § 919b. ]
+# § 919b. Art. 119b]
 
 ## Notes
 

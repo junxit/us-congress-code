@@ -5,7 +5,7 @@ chapter: 47
 section: 903b
 ---
 
-# § 903b. ]
+# § 903b. Art. 103b]
 
 ## Notes
 

@@ -5,7 +5,7 @@ chapter: 47
 section: 931g
 ---
 
-# § 931g. ]
+# § 931g. Art. 131g]
 
 ## Notes
 

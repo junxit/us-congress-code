@@ -5,7 +5,7 @@ chapter: 47
 section: 924b
 ---
 
-# § 924b. ]
+# § 924b. Art. 124b]
 
 ## Notes
 

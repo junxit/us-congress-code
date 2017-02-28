@@ -5,7 +5,7 @@ chapter: 47
 section: 931d
 ---
 
-# § 931d. ]
+# § 931d. Art. 131d]
 
 ## Notes
 

@@ -5,7 +5,7 @@ chapter: 47
 section: 893a
 ---
 
-# § 893a. ]
+# § 893a. Art. 93a]
 
 ## Notes
 

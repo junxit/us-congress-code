@@ -5,7 +5,7 @@ chapter: 47
 section: 931b
 ---
 
-# § 931b. ]
+# § 931b. Art. 131b]
 
 ## Notes
 

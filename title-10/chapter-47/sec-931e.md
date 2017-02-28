@@ -5,7 +5,7 @@ chapter: 47
 section: 931e
 ---
 
-# § 931e. ]
+# § 931e. Art. 131e]
 
 ## Notes
 

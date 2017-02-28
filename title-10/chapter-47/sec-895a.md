@@ -5,7 +5,7 @@ chapter: 47
 section: 895a
 ---
 
-# § 895a. ]
+# § 895a. Art. 95a]
 
 ## Notes
 

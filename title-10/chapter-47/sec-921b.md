@@ -5,7 +5,7 @@ chapter: 47
 section: 921b
 ---
 
-# § 921b. ]
+# § 921b. Art. 121b]
 
 ## Notes
 

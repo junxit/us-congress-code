@@ -5,7 +5,7 @@ chapter: 47
 section: 903a
 ---
 
-# § 903a. ]
+# § 903a. Art. 103a]
 
 ## Notes
 

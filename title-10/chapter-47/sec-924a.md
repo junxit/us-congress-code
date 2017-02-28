@@ -5,7 +5,7 @@ chapter: 47
 section: 924a
 ---
 
-# § 924a. ]
+# § 924a. Art. 124a]
 
 ## Notes
 

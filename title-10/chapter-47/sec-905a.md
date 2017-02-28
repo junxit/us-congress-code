@@ -5,7 +5,7 @@ chapter: 47
 section: 905a
 ---
 
-# § 905a. ]
+# § 905a. Art. 105a]
 
 ## Notes
 

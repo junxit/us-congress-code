@@ -5,7 +5,7 @@ chapter: 47
 section: 922a
 ---
 
-# § 922a. ]
+# § 922a. Art. 122a]
 
 ## Notes
 

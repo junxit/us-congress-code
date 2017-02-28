@@ -5,7 +5,7 @@ chapter: 47
 section: 904b
 ---
 
-# § 904b. ]
+# § 904b. Art. 104b]
 
 ## Notes
 
