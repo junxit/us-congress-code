@@ -21,7 +21,7 @@ section: 167b
       - **(ii)** Preparing and submitting to the Secretary of Defense program recommendations and budget proposals for cyber operations forces and for other forces assigned to the cyber command.
       - **(iii)** Exercising authority, direction, and control over the expenditure of funds—
         - **(I)** for forces assigned directly to the cyber command; and
-        - **(II)** for cyber operations forces assigned to unified combatant commands other than the cyber command, with respect to all matters covered by section 807 of the National Defense Authorization Act for Fiscal Year 2014 11 So in original. Should be “2016”. (Public Law 114–92; 129 Stat. 886; 10 U.S.C. 2224 note) and, with respect to a matter not covered by such section, to the extent directed by the Secretary of Defense.
+        - **(II)** for cyber operations forces assigned to unified combatant commands other than the cyber command, with respect to all matters covered by section 807 of the National Defense Authorization Act for Fiscal Year 2014 11 So in original. Probably should be “2016”. (Public Law 114–92; 129 Stat. 886; 10 U.S.C. 2224 note) and, with respect to a matter not covered by such section, to the extent directed by the Secretary of Defense.
       - **(iv)** Training and certification of assigned joint forces.
       - **(v)** Conducting specialized courses of instruction for commissioned and noncommissioned officers.
       - **(vi)** Validating requirements.
@@ -43,7 +43,7 @@ section: 167b
 
 ## Notes
 
-1 So in original. Should be “2016”.
+1 So in original. Probably should be “2016”.
 
 ### References in Text
 

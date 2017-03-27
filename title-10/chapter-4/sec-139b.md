@@ -22,7 +22,7 @@ section: 139b
     - **(H)** The military departments.
     - **(I)** The Joint Staff.
     - **(J)** The United States Special Operations Command.
-    - **(K)** Such other officials or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate
+    - **(K)** Such other officials or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate 11 So in original. Probably should be followed by a period.
 - **(d)** *Operation.—* The Council shall operate continuously.
 
 ## Source credit
@@ -30,6 +30,8 @@ section: 139b
 (Added Pub. L. 114–328, div. A, title IX, § 922(b)(1), Dec. 23, 2016, 130 Stat. 2355.)
 
 ## Notes
+
+1 So in original. Probably should be followed by a period.
 
 ### Prior Provisions
 

@@ -27,9 +27,13 @@ section: 222a
   - **(1)** is not funded in the budget of the President for the fiscal year as submitted to Congress pursuant to section 1105 of title 31;
   - **(2)** is necessary to fulfill a requirement associated with an operational or contingency plan of a combatant command or other validated requirement; and
   - **(3)** would have been recommended for funding through the budget referred to in paragraph (1) by the officer submitting the report required by subsection (a) in connection with the budget if—
-    - **(A)** additional resources been available for the budget to fund the program, activity, or mission requirement; or
+    - **(A)** additional resources been 11 So in original. Probably should be preceded by “had”. available for the budget to fund the program, activity, or mission requirement; or
     - **(B)** the program, activity, or mission requirement has emerged since the budget was formulated.
 
 ## Source credit
 
 (Added Pub. L. 114–328, div. A, title X, § 1064(a)(1), Dec. 23, 2016, 130 Stat. 2408.)
+
+## Notes
+
+1 So in original. Probably should be preceded by “had”.
