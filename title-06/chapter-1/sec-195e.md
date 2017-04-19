@@ -35,7 +35,7 @@ section: 195e
     - **(B)** Restricted Data or data that was formerly Restricted Data, as defined in section 2014(y) of title 42;
     - **(C)** material classified at the Sensitive Compartmented Information (SCI) level, as defined in section 3345 of title 50; or
     - **(D)** information relating to a special access program, as defined in section 6.1 of Executive Order 13526 (50 U.S.C. 3161 note) or any successor order.
-  - **(3)** *Controlled unclassified information* The term “controlled unclassified information” means information described as “Controlled Unclassified Information” under Executive Order 13556 (50 U.S.C. 3501 note)11 See References in Text note below.. or any successor order.
+  - **(3)** *Controlled unclassified information* The term “controlled unclassified information” means information described as “Controlled Unclassified Information” under Executive Order 13556 (50 U.S.C. 3501 note) 11 See References in Text note below. or any successor order.
   - **(4)** *Project* The term “project” means a research or development project, program, or activity administered by the Department, whether ongoing, completed, or otherwise terminated.
 - **(e)** *Limitation* Nothing in this section overrides or otherwise affects the requirements specified in section 468 of this title.
 
@@ -45,11 +45,11 @@ section: 195e
 
 ## Notes
 
-1 See References in Text note below..
+1 See References in Text note below.
 
 ### References in Text
 
-Executive Order 13526, referred to in subsec. (d)(2)(A), (D), (3), is set out as a note under section 3161 of Title 50, War and National Defense. Executive Order 13556, referred to in subsec. (d)(3), is set out as a note under section 3501 of Title 44, Public Printing and Documents.
+Executive Order 13556, referred to in subsec. (d)(3), is set out as a note under section 3501 of Title 44, Public Printing and Documents.
 
 ### Codification
 

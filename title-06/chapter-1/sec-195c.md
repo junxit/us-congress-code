@@ -41,7 +41,7 @@ section: 195c
 - **(d)** *Foreign reimbursements* If the Science and Technology Homeland Security International Cooperative Programs Office participates in an international cooperative activity with a foreign partner on a cost-sharing basis, any reimbursements or contributions received from that foreign partner to meet its share of the project may be credited to appropriate current appropriations accounts of the Directorate of Science and Technology.
 - **(e)** *Report to Congress on international cooperative activities* Not later than one year after August 3, 2007, and every 5 years thereafter, the Under Secretary, acting through the Director, shall submit to Congress a report containing—
   - **(1)** a brief description of each grant, cooperative agreement, or contract made or entered into under subsection (b)(3)(C), including the participants, goals, and amount and sources of funding;
-  - **(2)** a list of international cooperative activities underway, including the participants, goals, expected duration, and amount and sources of funding, including resources provided to support the activities in lieu of direct funding; and
+  - **(2)** a list of international cooperative activities underway, including the participants, goals, expected duration, and amount and sources of funding, including resources provided to support the activities in lieu of direct funding; and 11 So in original. The word “and” probably should not appear.
   - **(3)** for international cooperative activities identified in the previous reporting period, a status update on the progress of such activities, including whether goals were realized, explaining any lessons learned, and evaluating overall success; and
   - **(4)** a discussion of obstacles encountered in the course of forming, executing, or implementing agreements for international cooperative activities, including administrative, legal, or diplomatic challenges or resource constraints.
 - **(f)** *Animal and zoonotic diseases* As part of the international cooperative activities authorized in this section, the Under Secretary, in coordination with the Chief Medical Officer, the Department of State, and appropriate officials of the Department of Agriculture, the Department of Defense, and the Department of Health and Human Services, may enter into cooperative activities with foreign countries, including African nations, to strengthen American preparedness against foreign animal and zoonotic diseases overseas that could harm the Nation’s agricultural and public health sectors if they were to reach the United States.
@@ -59,6 +59,8 @@ section: 195c
 (Pub. L. 107–296, title III, § 317, as added Pub. L. 110–53, title XIX, § 1901(b)(1), Aug. 3, 2007, 121 Stat. 505; amended Pub. L. 114–304, § 2(a), Dec. 16, 2016, 130 Stat. 1519.)
 
 ## Notes
+
+1 So in original. The word “and” probably should not appear.
 
 ### References in Text
 

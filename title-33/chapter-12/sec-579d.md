@@ -62,7 +62,6 @@ section: 579d
         - **(II)** requires additional analysis for the project or separable element.
     - **(B)** *Water resources development project* The term “water resources development project” includes an environmental infrastructure assistance project or program of the Corps of Engineers.
   - **(2)** *Treatment of project modifications* For purposes of this section, if an authorized water resources development project or separable element of the project has been modified by an Act of Congress, the date of the authorization of the project or separable element shall be deemed to be the date of the most recent modification.
-- **(g)** *Omitted*
 
 ## Source credit
 

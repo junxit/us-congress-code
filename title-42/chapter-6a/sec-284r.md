@@ -31,7 +31,7 @@ section: 284r
 
 ### References in Text
 
-Section 2039, referred to in par. (1), is section 2039 of Pub. L. 114–255, set out as a note under section 282 of this title.
+Section 2039, referred to in par. (1), is section 2039 of Pub. L. 114–255, which is set out as a note under section 282 of this title.
 
 ### Codification
 

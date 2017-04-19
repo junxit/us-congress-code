@@ -56,7 +56,7 @@ section: 294q
     - **(C)** the education loan and grant programs in titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), with recommendations on whether such programs should become part of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq 22 So in original. Probably should be followed by a period. );
     - **(D)** the implications of new and existing Federal policies which affect the health care workforce, including Medicare and Medicaid graduate medical education policies, titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), the National Health Service Corps (with recommendations for aligning such programs with national health workforce priorities and goals), and other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act, the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), and any other Federal health care workforce programs;
     - **(E)** the health care workforce needs of special populations, such as minorities, rural populations, medically underserved populations, gender specific needs, individuals with disabilities, and geriatric and pediatric populations with recommendations for new and existing Federal policies to meet the needs of these special populations; and
-    - **(F)** recommendations creating or revising national loan repayment programs and scholarship programs to require low-income, minority medical students to serve in their home communities, if designated as medical underserved community.22 So in original.
+    - **(F)** recommendations creating or revising national loan repayment programs and scholarship programs to require low-income, minority medical students to serve in their home communities, if designated as medical underserved community.33 So in original.
   - **(4)** *High priority areas*
     - **(A)** *In general* The initial high priority topics described in this paragraph include each of the following:
       - **(i)** Integrated health care workforce planning that identifies health care professional skills needed and maximizes the skill sets of health care professionals across disciplines.
@@ -78,7 +78,7 @@ section: 294q
     - **(D)** collect performance and report information, including identified models and best practices, on grants from the fiscal and administrative agent under such section and distribute this information to Congress, relevant Federal agencies, and to the public.
   - **(6)** *Study* The Commission shall study effective mechanisms for financing education and training for careers in health care, including public health and allied health.
   - **(7)** *Recommendations* The Commission shall submit recommendations to Congress, the Department of Labor, and the Department of Health and Human Services about improving safety, health, and worker protections in the workplace for the health care workforce.
-  - **(8)** *Assessment* The Commission shall assess and receive reports from the National Center for Health Care Workforce Analysis established under section 761(b) of the Public Service Health Act [42 U.S.C. 294n(b)] (as amended by section 5103).33 See References in Text note below.
+  - **(8)** *Assessment* The Commission shall assess and receive reports from the National Center for Health Care Workforce Analysis established under section 761(b) of the Public Service Health Act [42 U.S.C. 294n(b)] (as amended by section 5103).44 See References in Text note below.
 - **(e)** *Consultation with Federal, State, and local agencies, Congress, and other organizations*
   - **(1)** *In general* The Commission shall consult with Federal agencies (including the Departments of Health and Human Services, Labor, Education, Commerce, Agriculture, Defense, and Veterans Affairs and the Environmental Protection Agency), Congress, the Medicare Payment Advisory Commission, the Medicaid and CHIP Payment and Access Commission, and, to the extent practicable, with State and local agencies, Indian tribes, voluntary health care organizations, professional societies, and other relevant public-private health care partnerships.
   - **(2)** *Obtaining official data* The Commission, consistent with established privacy rules, may secure directly from any department or agency of the Executive Branch information necessary to enable the Commission to carry out this section.
@@ -104,9 +104,9 @@ section: 294q
 - **(i)** *Definitions* In this section:
   - **(1)** *Health care workforce* The term “health care workforce” includes all health care providers with direct patient care and support responsibilities, such as physicians, nurses, nurse practitioners, primary care providers, preventive medicine physicians, optometrists, ophthalmologists, physician assistants, pharmacists, dentists, dental hygienists, and other oral healthcare professionals, allied health professionals, doctors of chiropractic, community health workers, health care paraprofessionals, direct care workers, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, certified nurse midwives, podiatrists, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), licensed complementary and alternative medicine providers, integrative health practitioners, public health professionals, and any other health professional that the Comptroller General of the United States determines appropriate.
   - **(2)** *Health professionals* The term “health professionals” includes—
-    - **(A)** dentists, dental hygienists, primary care providers, specialty physicians, nurses, nurse practitioners, physician assistants, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, optometrists, ophthalmologists,44 See 2010 Amendment note below. public health professionals, clinical pharmacists, allied health professionals, doctors of chiropractic, community health workers, school nurses, certified nurse midwives, podiatrists, licensed complementary and alternative medicine providers, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), and integrative health practitioners;
+    - **(A)** dentists, dental hygienists, primary care providers, specialty physicians, nurses, nurse practitioners, physician assistants, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, optometrists, ophthalmologists,55 See 2010 Amendment note below. public health professionals, clinical pharmacists, allied health professionals, doctors of chiropractic, community health workers, school nurses, certified nurse midwives, podiatrists, licensed complementary and alternative medicine providers, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), and integrative health practitioners;
     - **(B)** national representatives of health professionals;
-    - **(C)** representatives of schools of medicine, osteopathy, nursing, dentistry, optometry, pharmacy, chiropractic, allied health, educational programs for public health professionals, behavioral and mental health professionals (as so defined), social workers, pharmacists, physical and occupational therapists, optometrists, ophthalmologists,4 oral health care industry dentistry and dental hygiene, and physician assistants;
+    - **(C)** representatives of schools of medicine, osteopathy, nursing, dentistry, optometry, pharmacy, chiropractic, allied health, educational programs for public health professionals, behavioral and mental health professionals (as so defined), social workers, pharmacists, physical and occupational therapists, optometrists, ophthalmologists,5 oral health care industry dentistry and dental hygiene, and physician assistants;
     - **(D)** representatives of public and private teaching hospitals, and ambulatory health facilities, including Federal medical facilities; and
     - **(E)** any other health professional the Comptroller General of the United States determines appropriate.
 
@@ -120,11 +120,11 @@ section: 294q
 
 2 So in original. Probably should be followed by a period.
 
-2 So in original.
+3 So in original.
 
-3 See References in Text note below.
+4 See References in Text note below.
 
-4 See 2010 Amendment note below.
+5 See 2010 Amendment note below.
 
 ### References in Text
 
