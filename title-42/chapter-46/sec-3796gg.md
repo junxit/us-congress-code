@@ -41,7 +41,7 @@ section: 3796gg
   - **(2)** *Grants to State coalitions* The Attorney General shall award grants to—
     - **(A)** each State domestic violence coalition, as determined by the Secretary of Health and Human Services under section 10411 of this title; and
     - **(B)** each State sexual assault coalition, as determined by the Center for Injury Prevention and Control of the Centers for Disease Control and Prevention under the Public Health Service Act (42 U.S.C. 280b et seq.).
-  - **(3)** *Eligibility for other grants* Receipt of an award under this subsection by each State domestic violence and sexual assault coalition shall not preclude the coalition from receiving additional grants under this part to carry out the purposes described in subsection (b) of this section.
+  - **(3)** *Eligibility for other grants* Receipt of an award under this subsection by each State domestic violence and sexual assault coalition shall not preclude the coalition from receiving additional grants under this part to carry out the purposes described in subsection (b).
 - **(d)** *Tribal coalition grants*
   - **(1)** *Purpose* The Attorney General shall award a grant to tribal coalitions for purposes of—
     - **(A)** increasing awareness of domestic violence and sexual assault against Indian women;

@@ -29,7 +29,7 @@ section: 773h
 
 ### Change of Name
 
-“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (c) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in concluding provisions of subsec. (c) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
 
 ### Transfer of Functions
 
