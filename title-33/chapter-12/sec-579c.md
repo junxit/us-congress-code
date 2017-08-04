@@ -5,7 +5,7 @@ chapter: 12
 section: 579c
 ---
 
-# § 579c. Backlog prevention
+# § 579c. Backlog prevention: projects from Public Law 113–121
 
 - **(a)** *Project deauthorization*
   - **(1)** *In general* A water resources development project, or separable element of such a project, authorized for construction by this Act shall not be authorized after the last day of the 7-year period beginning on June 10, 2014, unless funds have been obligated for construction of such project during that period.
