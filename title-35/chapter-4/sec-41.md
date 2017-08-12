@@ -191,7 +191,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4804(d)(2)], Nov. 29, 199
 
 ### Access to Electronic Patent Information
 
-Pub. L. 105–289, § 4, Oct. 27, 1998, 112 Stat. 2781, provided that: “(a) In General.—The United States Patent and Trademark Office shall develop and implement statewide computer networks with remote library sites in requesting rural States such that citizens in those States will have enhanced access to information in their State’s patent and trademark depository library. “(b) Definition.—In this section, the term ‘rural States’ means the States that qualified on January 1, 1997, as rural States under section 1501(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 379bb(b) [3796bb(b)]).”
+Pub. L. 105–289, § 4, Oct. 27, 1998, 112 Stat. 2781, provided that: “(a) In General.—The United States Patent and Trademark Office shall develop and implement statewide computer networks with remote library sites in requesting rural States such that citizens in those States will have enhanced access to information in their State’s patent and trademark depository library. “(b) Definition.—In this section, the term ‘rural States’ means the States that qualified on January 1, 1997, as rural States under section 1501(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 379bb(b) [former 42 U.S.C. 3796bb(b), now 34 U.S.C. 10351(b)]).”
 
 ### Waiver of Certain Restrictions
 

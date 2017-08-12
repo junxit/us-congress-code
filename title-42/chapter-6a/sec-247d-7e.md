@@ -86,15 +86,15 @@ section: 247d–7e
         - **(III)** provide technical feedback and appropriate oversight over work carried out by the entity under the agreement, including subsequent development and partnerships consistent with the needs and requirements set forth in this subparagraph;
         - **(IV)** ensure fair consideration of products developed under the agreement in order to maintain competition to the maximum practical extent, as applicable and appropriate under applicable provisions of this section; and
         - **(V)** ensure, as a condition of the agreement that the entity—
-- **(aa)** has in place a comprehensive set of policies that demonstrate a commitment to transparency and accountability;
-- **(bb)** protects against conflicts of interest through a comprehensive set of policies that address potential conflicts of interest, ethics, disclosure, and reporting requirements;
-- **(cc)** provides monthly accounting on the use of funds provided under such agreement; and
-- **(dd)** provides on a quarterly basis, reports regarding the progress made toward meeting the identified needs set forth in the agreement.
-  - **(v)** *Supplement not supplant* Activities carried out under this subparagraph shall supplement, and not supplant, other activities carried out under this section.
-  - **(vi)** *No establishment of entity* To prevent unnecessary duplication and target resources effectively, nothing in this subparagraph shall be construed to authorize the Secretary to establish within the Department of Health and Human Services an entity for the purposes of carrying out this subparagraph.
-  - **(vii)** *Transparency and oversight* Upon request, the Secretary shall provide to Congress the information provided to the Secretary under clause (iv)(V)(dd).
-  - **(viii)** *Independent evaluation* Not later than 4 years after December 13, 2016, the Comptroller General of the United States shall conduct an independent evaluation, and submit to the Secretary and the appropriate committees of Congress a report, concerning the activities conducted under this subparagraph. Such report shall include recommendations with respect to any agreement or activities carried out pursuant to this subparagraph.
-  - **(ix)** *Sunset* This subparagraph shall have no force or effect after September 30, 2022.
+          - **(aa)** has in place a comprehensive set of policies that demonstrate a commitment to transparency and accountability;
+          - **(bb)** protects against conflicts of interest through a comprehensive set of policies that address potential conflicts of interest, ethics, disclosure, and reporting requirements;
+          - **(cc)** provides monthly accounting on the use of funds provided under such agreement; and
+          - **(dd)** provides on a quarterly basis, reports regarding the progress made toward meeting the identified needs set forth in the agreement.
+      - **(v)** *Supplement not supplant* Activities carried out under this subparagraph shall supplement, and not supplant, other activities carried out under this section.
+      - **(vi)** *No establishment of entity* To prevent unnecessary duplication and target resources effectively, nothing in this subparagraph shall be construed to authorize the Secretary to establish within the Department of Health and Human Services an entity for the purposes of carrying out this subparagraph.
+      - **(vii)** *Transparency and oversight* Upon request, the Secretary shall provide to Congress the information provided to the Secretary under clause (iv)(V)(dd).
+      - **(viii)** *Independent evaluation* Not later than 4 years after December 13, 2016, the Comptroller General of the United States shall conduct an independent evaluation, and submit to the Secretary and the appropriate committees of Congress a report, concerning the activities conducted under this subparagraph. Such report shall include recommendations with respect to any agreement or activities carried out pursuant to this subparagraph.
+      - **(ix)** *Sunset* This subparagraph shall have no force or effect after September 30, 2022.
   - **(5)** *Transaction authorities*
     - **(A)** *Other transactions*
       - **(i)** *In general* The Secretary shall have the authority to enter into other transactions under this subsection in the same manner as the Secretary of Defense enters into such transactions under section 2371 of title 10.

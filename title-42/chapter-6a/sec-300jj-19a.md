@@ -57,7 +57,7 @@ section: 300jj–19a
     - **(B)** hospitals and hospital systems; and
     - **(C)** patients, consumers, and patient and consumer advocates.
   - **(4)** *Limitations*
-    - **(A)** *Assessment and redetermination* Not later than 4 years after December 13, 2016 and every 2 years thereafter, the Secretary, in consultation with stakeholders, shall—
+    - **(A)** *Assessment and redetermination* Not later than 4 years after December 13, 2016, and every 2 years thereafter, the Secretary, in consultation with stakeholders, shall—
       - **(i)** assess performance of the recipients of the grants, contracts, and agreements under paragraph (1) based on quality and usability of reports described in paragraph (6); and
       - **(ii)** re-determine grants, contracts, and agreements as necessary.
     - **(B)** *Prohibitions on participation* The Secretary may not award a grant, contract, or cooperative agreement under paragraph (1) to—

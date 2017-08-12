@@ -27,7 +27,7 @@ section: 300j–3d
 
 ### Codification
 
-Section was enacted as part of Water and Waste Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act or the WIIN Act, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Water and Waste Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 ### Definition of “Administrator”
 
