@@ -21,9 +21,9 @@ section: 973g
   - **(3)** where the owner or charterer has not established to the satisfaction of the Secretary that the fishing vessel is fully insured against all risks and liabilities normally provided in maritime liability insurance;
   - **(4)** where the owner or charterer has not paid any penalty which has become final, assessed by the Secretary in accordance with this chapter.
 - **(h)** *Grandfathering of vessels documented before November 3, 1995* Notwithstanding the requirements of—
-  - **(1)** section 12108 of title 46;
+  - **(1)** section 1 of the Act of August 26, 1983 (97 Stat. 587; 46 U.S.C. 12108); 11 See References in Text note below.
   - **(2)** the general permit issued on December 1, 1980, to the American Tunaboat Association under section 1374(h)(1) of this title; and
-  - **(3)** sections 1374(h)(2) and 1416(a) of this title— 11 So in original. The dash probably should be a semicolon.
+  - **(3)** sections 1374(h)(2) and 1416(a) of this title— 22 So in original. The dash probably should be a semicolon.
 
 ## Source credit
 
@@ -31,13 +31,15 @@ section: 973g
 
 ## Notes
 
-1 So in original. The dash probably should be a semicolon.
+1 See References in Text note below.
 
-2 So in original. Probably should be capitalized.
+2 So in original. The dash probably should be a semicolon.
+
+3 So in original. Probably should be capitalized.
 
 ### References in Text
 
-Section 12108 of title 46, referred to in subsec. (h)(1), was in the original “section 1 of the Act of August 26, 1983 (97 Stat. 587; 46 U.S.C. 12108)”, and was translated to reflect the probable intent of Congress. Section 1 of act Aug. 26, 1983, Pub. L. 98–89, 97 Stat. 500, enacted Title 46, Shipping. Section 12108 of Title 46 was subsequently omitted, and its provisions restated, in the general amendment of chapter 121 of Title 46 by Pub. L. 109–304, § 5, Oct. 6, 2006, 120 Stat. 1491. See sections 12102, 12113, and 12116 of Title 46 and Prior Provisions note under section 12107 of Title 46. Sections 1374(h)(1), 1374(h)(2), and 1416(a) of this title, referred to in subsec. (h)(2), (3), were in the original references to sections 104(h)(1), 104(h)(2), and 306(a) of the Marine Mammal Protection Act, and were translated as meaning sections 104(h)(1), 104(h)(2), and 306(a), respectively, of the Marine Mammal Protection Act of 1972, Pub. L. 92–522, to reflect the probable intent of Congress.
+Section 1 of the Act of August 26, 1983 (97 Stat. 587; 46 U.S.C. 12108), referred to in subsec. (h)(1), probably should be a reference to section 12108 of Title 46, Shipping, which was enacted by section 1 of act Aug. 26, 1983, Pub. L. 98–89, 97 Stat. 587. Section 12108 of Title 46 was subsequently omitted, and its provisions restated, in the general amendment of chapter 121 of Title 46 by Pub. L. 109–304, § 5, Oct. 6, 2006, 120 Stat. 1491. See sections 12102, 12113, and 12116 of Title 46 and Prior Provisions note under section 12107 of Title 46. Sections 1374(h)(1), 1374(h)(2), and 1416(a) of this title, referred to in subsec. (h)(2), (3), were in the original references to sections 104(h)(1), 104(h)(2), and 306(a) of the Marine Mammal Protection Act, and were translated as meaning sections 104(h)(1), 104(h)(2), and 306(a), respectively, of the Marine Mammal Protection Act of 1972, Pub. L. 92–522, to reflect the probable intent of Congress.
 
 ### Amendments
 
