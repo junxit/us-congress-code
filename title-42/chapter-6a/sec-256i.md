@@ -36,12 +36,8 @@ section: 256i
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title III, § 340H, as added Pub. L. 111–148, title X, § 10333, Mar. 23, 2010, 124 Stat. 970.)
+(July 1, 1944, ch. 373, title III, § 340I, formerly § 340H, as added Pub. L. 111–148, title X, § 10333, Mar. 23, 2010, 124 Stat. 970; renumbered § 340I, Pub. L. 115–63, title III, § 301(c)(2), Sept. 29, 2017, 131 Stat. 1172.)
 
 ## Notes
 
 1 So in original. A closing parenthesis probably should appear.
-
-### Codification
-
-Another section 340H of act July 1, 1944, ch. 373, as added by Pub. L. 111–148, title V, § 5508(c), March 23, 2010, 124 Stat. 670, is classified to section 256h of this title.
