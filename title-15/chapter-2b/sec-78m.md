@@ -304,6 +304,10 @@ section: 78m
 
 4 So in original. The word “a” probably should appear.
 
+### Adjustment of Fee Amount
+
+For adjustment of certain fee amounts specified in this section, that is not reflected in text, see Adjustment of Registration Fee Rate notes below.
+
 ### Amendment of Section
 
 Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
@@ -363,6 +367,10 @@ Pub. L. 111–203, title XV, § 1502, July 21, 2010, 124 Stat. 2213, as amended 
 ### Consultation
 
 Pub. L. 106–102, title II, § 241, Nov. 12, 1999, 113 Stat. 1407, provided that: “(a) In General.—The Securities and Exchange Commission shall consult and coordinate comments with the appropriate Federal banking agency before taking any action or rendering any opinion with respect to the manner in which any insured depository institution or depository institution holding company reports loan loss reserves in its financial statement, including the amount of any such loan loss reserve. “(b) Definitions.—For purposes of subsection (a), the terms ‘insured depository institution’, ‘depository institution holding company’, and ‘appropriate Federal banking agency’ have the same meaning as given in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813].”
+
+### Adjustment of Registration Fee Rate
+
+By order dated Aug. 24, 2017, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $124.50 per $1,000,000, effective Oct. 1, 2017, see 82 F.R. 41080. By order dated Aug. 30, 2016, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $115.90 per $1,000,000, effective Oct. 1, 2016, see 81 F.R. 61283. By order dated Aug. 26, 2015, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $100.70 per $1,000,000, effective Oct. 1, 2015, see 80 F.R. 52824. By order dated Aug. 29, 2014, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $116.20 per $1,000,000, effective Oct. 1, 2014, see 79 F.R. 52771. By order dated Aug. 30, 2013, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $128.80 per $1,000,000, effective Oct. 1, 2013, see 78 F.R. 54934. By order dated Aug. 31, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $136.40 per $1,000,000, effective Oct. 1, 2012, see 77 F.R. 55240. By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
 
 ### Assignment of Function Relating to Granting of Authority for Issuance of Certain Directives
 
