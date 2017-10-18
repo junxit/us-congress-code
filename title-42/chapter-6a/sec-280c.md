@@ -34,7 +34,7 @@ A prior section 280C, act July 1, 1944, ch. 373, title III, § 399A, formerly §
 
 ### Effective Date
 
-Part effective Oct. 1, 1987, see section 701(a) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under section 3001 of this title.
+Section effective Oct. 1, 1987, see section 701(a) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under section 3001 of this title.
 
 ### Short Title
 
