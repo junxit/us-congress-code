@@ -24,7 +24,7 @@ section: 589a
   - **(2)** 48.89 percent of the fees collected under section 1930(a)(3) of this title;
   - **(3)** one-half of the fees collected under section 1930(a)(4) of this title;
   - **(4)** one-half of the fees collected under section 1930(a)(5) of this title;
-  - **(5)** 100 percent of the fees collected under section 1930(a)(6) of this title;
+  - **(5)** 100 percent of the fees collected under section 1930(a)(6) of this title; 11 See Deposits of Certain Fees for Fiscal Years 2018 Through 2022 note below.
   - **(6)** three-fourths of the fees collected under the last sentence of section 1930(a) of this title;
   - **(7)** the compensation of trustees received under section 330(d) of title 11 by the clerks of the bankruptcy courts;
   - **(8)** excess fees collected under section 586(e)(2) of this title;
@@ -39,6 +39,8 @@ section: 589a
 (Added Pub. L. 99–554, title I, § 115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, § 406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, § 111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, § 111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 109(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, § 1000(a)(1) [title I, title I, § 113], Nov. 29, 1999, 113 Stat. 1535, 1501A–6, 1501A–20; Pub. L. 109–8, title III, § 325(b), Apr. 20, 2005, 119 Stat. 99; Pub. L. 109–13, div. A, title VI, § 6058(a), May 11, 2005, 119 Stat. 297; Pub. L. 110–161, div. B, title II, § 212(a), Dec. 26, 2007, 121 Stat. 1914; Pub. L. 112–121, § 3(b), May 25, 2012, 126 Stat. 348.)
 
 ## Notes
+
+1 See Deposits of Certain Fees for Fiscal Years 2018 Through 2022 note below.
 
 ### Codification
 
@@ -75,3 +77,7 @@ Pub. L. 102–140, title I, § 111, Oct. 28, 1991, 105 Stat. 795, provided that 
 ### Effective Date
 
 Section effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set out as a note under section 581 of this title.
+
+### Deposits of Certain Fees for Fiscal Years 2018 Through 2022
+
+Pub. L. 115–72, div. B, § 1004(b), Oct. 26, 2017, 131 Stat. 1232, provided that: “Notwithstanding section 589a(b) of title 28, United States Code, for each of fiscal years 2018 through 2022— “(1) 98 percent of the fees collected under section 1930(a)(6) of such title shall be deposited as offsetting collections to the appropriation ‘United States Trustee System Fund’, to remain available until expended; and “(2) 2 percent of the fees collected under section 1930(a)(6) of such title shall be deposited in the general fund of the Treasury.”
