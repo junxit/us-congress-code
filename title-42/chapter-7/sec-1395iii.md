@@ -9,7 +9,7 @@ section: 1395iii
 
 - **(a)** *Establishment* The Secretary shall establish under this subchapter a Medicare Improvement Fund (in this section referred to as the “Fund”) which shall be available to the Secretary to make improvements under the original Medicare fee-for-service program under parts A and B for individuals entitled to, or enrolled for, benefits under part 11 So in original. or enrolled under part B including adjustments to payments for items and services furnished by providers of services and suppliers under such original Medicare fee-for-service program.
 - **(b)** *Funding*
-  - **(1)** *In general* There shall be available to the Fund, for expenditures from the Fund for services furnished during and after fiscal year 2020, $0.22 See Amendment of Subsection (b)(1) notes below.
+  - **(1)** *In general* There shall be available to the Fund, for expenditures from the Fund for services furnished during and after fiscal year 2021, $220,000,000.
   - **(2)** *Payment from Trust Funds* The amount specified under paragraph (1) shall be available to the Fund, as expenditures are made from the Fund, from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such proportion as the Secretary determines appropriate.
   - **(3)** *Funding limitation* Amounts in the Fund shall be available in advance of appropriations but only if the total amount obligated from the Fund does not exceed the amount available to the Fund under paragraph (1). The Secretary may obligate funds from the Fund only if the Secretary determines (and the Chief Actuary of the Centers for Medicare & Medicaid Services and the appropriate budget officer certify) that there are available in the Fund sufficient amounts to cover all such obligations incurred consistent with the previous sentence.
   - **(4)** *No effect on payments in subsequent years* In the case that expenditures from the Fund are applied to, or otherwise affect, a payment rate for an item or service under this subchapter for a year, the payment rate for such item or service shall be computed for a subsequent year as if such application or effect had never occurred.
@@ -22,11 +22,9 @@ section: 1395iii
 
 1 So in original.
 
-2 See Amendment of Subsection (b)(1) notes below.
+### Applicability of Amendment
 
-### Amendment of Subsection (b)(1)
-
-Pub. L. 115–63, title III, § 303, Sept. 29, 2017, 131 Stat. 1172, provided that subsection (b)(1) of this section is amended by striking “during and after fiscal year 2021, $270,000,000” and inserting “during and after fiscal year 2021, $220,000,000”. See 2017 Amendment note below. Pub. L. 114–255, div. A, title V, § 5001, Dec. 13, 2016, 130 Stat. 1188, provided that subsection (b)(1) of this section, as amended by section 704(h) of Pub. L. 114–198, is amended by striking “$140,000,000” and inserting “$270,000,000”. Pub. L. 114–198, title VII, § 704(g)(1), (h), July 22, 2016, 130 Stat. 751, 752, provided that, applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after Jan. 1, 2019, subsection (b)(1) of this section is amended by striking “during and after fiscal year 2020, $0” and inserting “during and after fiscal year 2021, $140,000,000”. See 2016 Amendment notes below.
+Amendment of subsec. (b)(1) of this section by section 704(h) of Pub. L. 114–198 applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after Jan. 1, 2019. Subsequent amendments were executed to subsec. (b)(1) as amended by Pub. L. 114–198. See 2016 and 2017 Amendment notes below.
 
 ### Amendments
 
@@ -34,4 +32,4 @@ Pub. L. 115–63, title III, § 303, Sept. 29, 2017, 131 Stat. 1172, provided th
 
 ### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–198 applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after January 1, 2019, see section 704(g)(1) of Pub. L. 114–198, set out as a note under section 1395w–101 of this title.
+Amendment by Pub. L. 114–198 applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after Jan. 1, 2019, see section 704(g)(1) of Pub. L. 114–198, set out as a note under section 1395w–101 of this title.
