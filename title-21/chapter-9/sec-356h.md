@@ -32,7 +32,7 @@ section: 356h
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 506H, as added Pub. L. 115–52, title VIII, § 803(a), Aug. 18, 2017, 131 Stat. 1069.)
+(June 25, 1938, ch. 675, § 506H, as added Pub. L. 115–52, title VIII, § 803(a), Aug. 18, 2017, 131 Stat. 1070.)
 
 ## Notes
 
