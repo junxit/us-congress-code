@@ -25,10 +25,11 @@ section: 139a
   - **(6)** Assessments of special access and compartmented intelligence programs, in coordination with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Under Secretary of Defense for Intelligence and in accordance with applicable policies.
   - **(7)** Assessments of alternative plans, programs, and policies with respect to the acquisition programs of the Department of Defense.
   - **(8)** Leading the development of improved analytical skills and competencies within the cost assessment and program evaluation workforce of the Department of Defense and improved tools, data, and methods to promote performance, economy, and efficiency in analyzing national security planning and the allocation of defense resources.
+  - **(9)** Performing the duties assigned to the Director in section 2222 of this title.
 
 ## Source credit
 
-(Added Pub. L. 111–23, title I, § 101(a)(1), May 22, 2009, 123 Stat. 1705, § 139c; renumbered § 139a and amended Pub. L. 111–383, div. A, title IX, § 901(f), title X, § 1075(b)(5), Jan. 7, 2011, 124 Stat. 4322, 4369; Pub. L. 112–239, div. A, title X, § 1076(f)(4), Jan. 2, 2013, 126 Stat. 1952.)
+(Added Pub. L. 111–23, title I, § 101(a)(1), May 22, 2009, 123 Stat. 1705, § 139c; renumbered § 139a and amended Pub. L. 111–383, div. A, title IX, § 901(f), title X, § 1075(b)(5), Jan. 7, 2011, 124 Stat. 4322, 4369; Pub. L. 112–239, div. A, title X, § 1076(f)(4), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title IX, § 912(c), Dec. 12, 2017, 131 Stat. 1521.)
 
 ## Notes
 
@@ -38,7 +39,7 @@ A prior section 139a was renumbered section 138b of this title. Another prior se
 
 ### Amendments
 
-2013—Subsec. (d)(4). Pub. L. 112–239, which directed amendment of par. (4) by inserting a period at end, was not executed to reflect the probable intent of Congress and the prior amendment by Pub. L. 111–383, § 1075(b)(5). See 2011 Amendment note below. 2011—Pub. L. 111–383, § 901(f), renumbered section 139c of this title as this section. Subsec. (d)(4). Pub. L. 111–383, § 1075(b)(5), which directed amendment of section 139c of this title by inserting a period at the end of subsec. (d)(4), was executed to this section, to reflect the probable intent of Congress and the renumbering of section 139c of this title as this section by Pub. L. 111–383, § 901(f). See above.
+2017—Subsec. (d)(9). Pub. L. 115–91 added par. (9). 2013—Subsec. (d)(4). Pub. L. 112–239, which directed amendment of par. (4) by inserting a period at end, was not executed to reflect the probable intent of Congress and the prior amendment by Pub. L. 111–383, § 1075(b)(5). See 2011 Amendment note below. 2011—Pub. L. 111–383, § 901(f), renumbered section 139c of this title as this section. Subsec. (d)(4). Pub. L. 111–383, § 1075(b)(5), which directed amendment of section 139c of this title by inserting a period at the end of subsec. (d)(4), was executed to this section, to reflect the probable intent of Congress and the renumbering of section 139c of this title as this section by Pub. L. 111–383, § 901(f). See above.
 
 ### Effective Date of 2011 Amendment
 

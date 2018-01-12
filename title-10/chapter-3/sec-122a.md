@@ -7,7 +7,7 @@ section: 122a
 
 # § 122a. Public availability of Department of Defense reports required by law
 
-- **(a)** *In General.—* To the maximum extent practicable, on or after the date on which each report described in subsection (b) is submitted to Congress, the Secretary of Defense, acting through the Office of the Assistant Secretary of Defense for Public Affairs, shall ensure that the report is made available to the public by—
+- **(a)** *In General.—* To the maximum extent practicable, on or after the date on which each report described in subsection (b) is submitted to Congress, the Secretary of Defense, acting through the Assistant to the Secretary of Defense for Public Affairs, shall ensure that the report is made available to the public by—
   - **(1)** posting the report on a publicly accessible Internet website of the Department of Defense; and
   - **(2)** upon request, transmitting the report by other means, as long as such transmission is at no cost to the Department.
 - **(b)** *Covered Reports.—*
@@ -20,13 +20,13 @@ section: 122a
 
 ## Source credit
 
-(Added Pub. L. 111–383, div. A, title X, § 1061(a)(1), Jan. 7, 2011, 124 Stat. 4362; amended Pub. L. 112–81, div. A, title X, § 1068, Dec. 31, 2011, 125 Stat. 1589; Pub. L. 113–66, div. A, title X, § 1081(a), Dec. 26, 2013, 127 Stat. 871.)
+(Added Pub. L. 111–383, div. A, title X, § 1061(a)(1), Jan. 7, 2011, 124 Stat. 4362; amended Pub. L. 112–81, div. A, title X, § 1068, Dec. 31, 2011, 125 Stat. 1589; Pub. L. 113–66, div. A, title X, § 1081(a), Dec. 26, 2013, 127 Stat. 871; Pub. L. 115–91, div. A, title X, § 1081(a)(3), Dec. 12, 2017, 131 Stat. 1594.)
 
 ## Notes
 
 ### Amendments
 
-2013—Subsec. (a). Pub. L. 113–66 amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall ensure that each report described in subsection (b) is “(1) made available to the public, upon request submitted on or after the date on which such report is submitted to Congress, through the Office of the Assistant Secretary of Defense for Public Affairs; and “(2) to the maximum extent practicable, transmitted in an electronic format.” 2011—Subsec. (a). Pub. L. 112–81 substituted pars. (1) and (2) for “made available to the public, upon request submitted on or after the date on which such report is submitted to Congress, through the Office of the Assistant Secretary of Defense for Public Affairs.”
+2017—Subsec. (a). Pub. L. 115–91 substituted “acting through the Assistant to the Secretary of Defense for Public Affairs” for “acting through the Office of the Assistant Secretary of Defense for Public Affairs” in introductory provisions. 2013—Subsec. (a). Pub. L. 113–66 amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall ensure that each report described in subsection (b) is “(1) made available to the public, upon request submitted on or after the date on which such report is submitted to Congress, through the Office of the Assistant Secretary of Defense for Public Affairs; and “(2) to the maximum extent practicable, transmitted in an electronic format.” 2011—Subsec. (a). Pub. L. 112–81 substituted pars. (1) and (2) for “made available to the public, upon request submitted on or after the date on which such report is submitted to Congress, through the Office of the Assistant Secretary of Defense for Public Affairs.”
 
 ### Effective Date of 2013 Amendment
 

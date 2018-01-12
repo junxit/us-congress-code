@@ -8,17 +8,15 @@ section: 129a
 # § 129a. General policy for total force management
 
 - **(a)** *Policies and Procedures.—* The Secretary of Defense shall establish policies and procedures for determining the most appropriate and cost efficient mix of military, civilian, and contractor personnel to perform the mission of the Department of Defense.
-- **(b)** *Risk Mitigation Over Cost.—* In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces (as identified pursuant to section 118b 11 See References in Text note below. of this title) takes precedence over cost.
+- **(b)** *Risk Mitigation Over Cost.—* In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces takes precedence over cost.
 - **(c)** *Delegation of Responsibilities.—* The Secretary shall delegate responsibility for implementation of the policies and procedures established under subsection (a) as follows:
   - **(1)** The Under Secretary of Defense for Personnel and Readiness shall have overall responsibility for guidance to implement such policies and procedures.
   - **(2)** The Secretaries of the military departments and the heads of the Defense Agencies shall have overall responsibility for the requirements determination, planning, programming, and budgeting for such policies and procedures.
   - **(3)** The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be responsible for ensuring that the defense acquisition system, as defined in section 2545 of this title, is consistent with such policies and procedures and with implementation pursuant to paragraph (1).
   - **(4)** The Under Secretary of Defense (Comptroller) shall be responsible for ensuring that the budget for the Department of Defense is consistent with such policies and procedures. The Under Secretary shall notify the congressional defense committees of any deviations from such policies and procedures that are recommended in the budget.
 - **(d)** *Use of Plan, Inventory, and List.—* The policies and procedures established by the Secretary under subsection (a) shall specifically require the Department of Defense to use the following when making determinations regarding the appropriate workforce mix necessary to perform its mission:
-  - **(1)** The civilian strategic workforce plan (required by section 115b 1 of this title).
-  - **(2)** The civilian positions master plan (required by section 1597(c) of this title).
-  - **(3)** The inventory of contracts for services required by section 2330a(c) of this title.
-  - **(4)** The list of activities required by the Federal Activities Inventory Reform Act of 1998 (Public Law 105–270; 31 U.S.C. 501 note).
+  - **(1)** The inventory of contracts for services required by section 2330a(c) of this title.
+  - **(2)** The list of activities required by the Federal Activities Inventory Reform Act of 1998 (Public Law 105–270; 31 U.S.C. 501 note).
 - **(e)** *Considerations in Converting Performance of Functions.—* If conversion of functions to performance by either Department of Defense civilian personnel or contractor personnel is considered, the Under Secretary of Defense for Personnel and Readiness shall ensure compliance with—
   - **(1)** section 2463 of this title (relating to guidelines and procedures for use of civilian employees to perform Department of Defense functions); and
   - **(2)** section 2461 of this title (relating to public-private competition required before conversion to contractor performance).
@@ -38,15 +36,9 @@ section: 129a
 
 ## Source credit
 
-(Added Pub. L. 101–510, div. A, title XIV, § 1483(b)(2), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 112–81, div. A, title IX, § 931(a), Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–328, div. A, title IX, § 914, Dec. 23, 2016, 130 Stat. 2350.)
+(Added Pub. L. 101–510, div. A, title XIV, § 1483(b)(2), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 112–81, div. A, title IX, § 931(a), Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–328, div. A, title IX, § 914, Dec. 23, 2016, 130 Stat. 2350; Pub. L. 115–91, div. A, title X, §§ 1051(a)(6)(B), 1081(a)(5), Dec. 12, 2017, 131 Stat. 1560, 1594.)
 
 ## Notes
-
-1 See References in Text note below.
-
-### References in Text
-
-Section 118b of this title, referred to in subsec. (b), was repealed by Pub. L. 113–291, div. A, title X, § 1072(b)(1), Dec. 19, 2014, 128 Stat. 3516. Section 115b of this title, referred to in subsec. (d)(1), was repealed by Pub. L. 114–328, div. A, title XI, § 1102(a), Dec. 23, 2016, 130 Stat. 2444.
 
 ### Prior Provisions
 
@@ -54,7 +46,7 @@ Provisions similar to those in this section were contained in section 115(b)(5) 
 
 ### Amendments
 
-2016—Subsec. (g). Pub. L. 114–328 added subsec. (g). 2011—Pub. L. 112–81 amended section generally. Prior to amendment, text read as follows: “The Secretary of Defense shall use the least costly form of personnel consistent with military requirements and other needs of the Department. In developing the annual personnel authorization requests to Congress and in carrying out personnel policies, the Secretary shall— “(1) consider particularly the advantages of converting from one form of personnel (military, civilian, or private contract) to another for the performance of a specified job; and “(2) include in each manpower requirements report submitted under section 115a of this title a complete justification for converting from one form of personnel to another.”
+2017—Subsec. (b). Pub. L. 115–91, § 1081(a)(5), struck out “(as identified pursuant to section 118b of this title)” after “armed forces”. Subsec. (d). Pub. L. 115–91, § 1051(a)(6)(B), redesignated pars. (3) and (4) as (1) and (2), respectively, and struck out former pars. (1) and (2) which read as follows: “(1) The civilian strategic workforce plan (required by section 115b of this title). “(2) The civilian positions master plan (required by section 1597(c) of this title).” 2016—Subsec. (g). Pub. L. 114–328 added subsec. (g). 2011—Pub. L. 112–81 amended section generally. Prior to amendment, text read as follows: “The Secretary of Defense shall use the least costly form of personnel consistent with military requirements and other needs of the Department. In developing the annual personnel authorization requests to Congress and in carrying out personnel policies, the Secretary shall— “(1) consider particularly the advantages of converting from one form of personnel (military, civilian, or private contract) to another for the performance of a specified job; and “(2) include in each manpower requirements report submitted under section 115a of this title a complete justification for converting from one form of personnel to another.”
 
 ### Strategic Policy for the Retrograde, Reconstitution, and Replacement of Operating Forces Used To Support Overseas Contingency Operations
 

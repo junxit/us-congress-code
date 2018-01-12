@@ -35,7 +35,7 @@ section: 8D
   - **(2)** Any report made by the Treasury Inspector General for Tax Administration that is required to be transmitted by the Secretary of the Treasury to the appropriate committees or subcommittees of Congress under section 5(d) shall also be transmitted, within the 7-day period specified under such subsection, to the Internal Revenue Service Oversight Board and the Commissioner of Internal Revenue.
 - **(h)** The Treasury Inspector General for Tax Administration shall exercise all duties and responsibilities of an Inspector General of an establishment with respect to the Department of the Treasury and the Secretary of the Treasury on all matters relating to the Internal Revenue Service. The Treasury Inspector General for Tax Administration shall have sole authority under this Act to conduct an audit or investigation of the Internal Revenue Service Oversight Board and the Chief Counsel for the Internal Revenue Service.
 - **(i)** In addition to the requirements of the first sentence of section 3(a), the Treasury Inspector General for Tax Administration should have demonstrated ability to lead a large and complex organization.
-- **(j)** An individual appointed to the position of Treasury Inspector General for Tax Administration, the Assistant Inspector General for Auditing of the Office of the Treasury Inspector General for Tax Administration under section 3(d)(1)(A), the Assistant Inspector General for Investigations of the Office of the Treasury Inspector General for Tax Administration under section 3(d)(1)(B), or any position of Deputy Inspector General of the Office of the Treasury Inspector General for Tax Administration may not be an employee of the Internal Revenue Service—
+- **(j)** An individual appointed to the position of Treasury Inspector General for Tax Administration, the Assistant Inspector General for Auditing of the Office of the Treasury Inspector General for Tax Administration under section 3(d)(1), the Assistant Inspector General for Investigations of the Office of the Treasury Inspector General for Tax Administration under section 3(d)(2), or any position of Deputy Inspector General of the Office of the Treasury Inspector General for Tax Administration may not be an employee of the Internal Revenue Service—
   - **(1)** during the 2-year period preceding the date of appointment to such position; or
   - **(2)** during the 5-year period following the date such individual ends service in such position.
 - **(k)**
@@ -62,10 +62,6 @@ section: 8D
 (Pub. L. 95–452, § 8D, formerly § 8C, as added Pub. L. 100–504, title I, § 102(f), Oct. 18, 1988, 102 Stat. 2518; renumbered § 8D, Pub. L. 103–204, § 23(a)(3), Dec. 17, 1993, 107 Stat. 2408; amended Pub. L. 105–206, title I, § 1103(b), (e)(1), (2), July 22, 1998, 112 Stat. 705, 709; Pub. L. 107–296, title XI, § 1112(a)(1), Nov. 25, 2002, 116 Stat. 2275; Pub. L. 108–7, div. L, § 104(c)(2), Feb. 20, 2003, 117 Stat. 531; Pub. L. 109–177, title VI, § 605(e)(3), Mar. 9, 2006, 120 Stat. 255; Pub. L. 110–409, § 14(b), Oct. 14, 2008, 122 Stat. 4316; Pub. L. 112–199, title I, § 117(b), Nov. 27, 2012, 126 Stat. 1475; Pub. L. 114–317, §§ 6(2), 7(d)(3)(C), Dec. 16, 2016, 130 Stat. 1604, 1606.)
 
 ## Notes
-
-### Amendment of Section
-
-For termination of amendment by section 117(c) of Pub. L. 112–199, see Effective and Termination Dates of 2012 Amendment note below.
 
 ### References in Text
 

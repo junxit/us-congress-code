@@ -10,8 +10,8 @@ section: 190d
 - **(a)** *Scope of assistance* In order to assist the Congress in—
   - **(1)** its analysis, appraisal, and evaluation of the application, administration, and execution of the laws enacted by the Congress, and
   - **(2)** its formulation, consideration, and enactment of such modifications of or changes in those laws, and of such additional legislation, as may be necessary or appropriate,
-- **(b)** *Reports to the Senate and the House of Representatives* In each odd-numbered year beginning on or after January 1, 1973, each standing committee of the Senate shall submit, not later than March 31, to the Senate, and each standing committee of the House shall submit, not later than January 2, to the House, a report on the activities of that committee under this section during the Congress ending at noon on January 3 of such year.
-- **(c)** *Exceptions* The preceding provisions of this section do not apply to the Committees on Appropriations and the Budget of the Senate and the Committees on Appropriations, the Budget, House Oversight, Rules, and Standards of Official Conduct of the House.
+- **(b)** *Reports to the Senate and the House of Representatives* In each odd-numbered year beginning on or after January 1, 1973, each standing committee of the Senate shall submit, not later than March 31, to the Senate,1 and each standing committee of the House shall submit, not later than January 2, to the House, a report on the activities of that committee under this section during the Congress ending at noon on January 3 of such year.
+- **(c)** *Exceptions* The preceding provisions of this section do not apply to the Committees on Appropriations and the Budget of the Senate 1 and the Committees on Appropriations, the Budget, House Oversight, Rules, and Standards of Official Conduct of the House.
 
 ## Source credit
 
@@ -19,9 +19,7 @@ section: 190d
 
 ## Notes
 
-### Partial Repeal
-
-Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.
+1 See Partial Repeal note below.
 
 ### Amendments
 
@@ -42,3 +40,7 @@ Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 197
 ### Effective Date
 
 Section effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946, ch. 753, title I, 60 Stat. 834.
+
+### Partial Repeal
+
+Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.

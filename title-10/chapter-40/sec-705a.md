@@ -11,7 +11,7 @@ section: 705a
 - **(b)** *Covered Members.—* A member of the armed forces described in this subsection is any member who—
   - **(1)** is assigned or deployed for at least 270 days in an area or location—
     - **(A)** that is designated by the President as a combat zone; and
-    - **(B)** in which hardship duty pay is authorized to be paid under section 305 of title 37; and
+    - **(B)** in which hardship duty pay is authorized to be paid under section 305 or 352(a) of title 37; and
   - **(2)** meets such other criteria as the Secretary of Defense may prescribe in the regulations required by subsection (a).
 - **(c)** *Benefits.—* The benefits described in this subsection are the following:
   - **(1)** A period of rest and recuperation absence for not more than 15 days.
@@ -20,4 +20,10 @@ section: 705a
 
 ## Source credit
 
-(Added Pub. L. 111–383, div. A, title V, § 532(a), Jan. 7, 2011, 124 Stat. 4216.)
+(Added Pub. L. 111–383, div. A, title V, § 532(a), Jan. 7, 2011, 124 Stat. 4216; amended Pub. L. 115–91, div. A, title VI, § 618(e), Dec. 12, 2017, 131 Stat. 1426.)
+
+## Notes
+
+### Amendments
+
+2017—Subsec. (b)(1)(B). Pub. L. 115–91 inserted “or 352(a)” after “section 305”.
