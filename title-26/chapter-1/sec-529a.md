@@ -15,11 +15,21 @@ section: 529A
     - **(C)** which meets the other requirements of this section.
   - **(2)** *Cash contributions* A program shall not be treated as a qualified ABLE program unless it provides that no contribution will be accepted—
     - **(A)** unless it is in cash, or
-    - **(B)** except in the case of contributions under subsection (c)(1)(C), if such contribution to an ABLE account would result in aggregate contributions from all contributors to the ABLE account for the taxable year exceeding the amount in effect under section 2503(b) for the calendar year in which the taxable year begins.
+    - **(B)** except in the case of contributions under subsection (c)(1)(C), if such contribution to an ABLE account would result in aggregate contributions from all contributors to the ABLE account for the taxable year exceeding the sum of—
+      - **(i)** the amount in effect under section 2503(b) for the calendar year in which the taxable year begins, plus
+      - **(ii)** in the case of any contribution by a designated beneficiary described in paragraph (7) before January 1, 2026, the lesser of—
+        - **(I)** compensation (as defined by section 219(f)(1)) includible in the designated beneficiary’s gross income for the taxable year, or
+        - **(II)** an amount equal to the poverty line for a one-person household, as determined for the calendar year preceding the calendar year in which the taxable year begins.
   - **(3)** *Separate accounting* A program shall not be treated as a qualified ABLE program unless it provides separate accounting for each designated beneficiary.
   - **(4)** *Limited investment direction* A program shall not be treated as a qualified ABLE program unless it provides that any designated beneficiary under such program may, directly or indirectly, direct the investment of any contributions to the program (or any earnings thereon) no more than 2 times in any calendar year.
   - **(5)** *No pledging of interest as security* A program shall not be treated as a qualified ABLE program if it allows any interest in the program or any portion thereof to be used as security for a loan.
   - **(6)** *Prohibition on excess contributions* A program shall not be treated as a qualified ABLE program unless it provides adequate safeguards to prevent aggregate contributions on behalf of a designated beneficiary in excess of the limit established by the State under section 529(b)(6). For purposes of the preceding sentence, aggregate contributions include contributions under any prior qualified ABLE program of any State or agency or instrumentality thereof.
+  - **(7)** *Special rules related to contribution limit* For purposes of paragraph (2)(B)(ii)—
+    - **(A)** *Designated beneficiary* A designated beneficiary described in this paragraph is an employee (including an employee within the meaning of section 401(c)) with respect to whom—
+      - **(i)** no contribution is made for the taxable year to a defined contribution plan (within the meaning of section 414(i)) with respect to which the requirements of section 401(a) or 403(a) are met,
+      - **(ii)** no contribution is made for the taxable year to an annuity contract described in section 403(b), and
+      - **(iii)** no contribution is made for the taxable year to an eligible deferred compensation plan described in section 457(b).
+    - **(B)** *Poverty line* The term “poverty line” has the meaning given such term by section 673 of the Community Services Block Grant Act (42 U.S.C. 9902).
 - **(c)** *Tax treatment*
   - **(1)** *Distributions*
     - **(A)** *In general* Any distribution under a qualified ABLE program shall be includible in the gross income of the distributee in the manner as provided under section 72 to the extent not excluded from gross income under any other provision of this chapter.
@@ -79,7 +89,7 @@ section: 529A
 
 ## Source credit
 
-(Added Pub. L. 113–295, div. B, title I, § 102(a), Dec. 19, 2014, 128 Stat. 4056; amended Pub. L. 114–113, div. Q, title III, § 303(a)–(c), Dec. 18, 2015, 129 Stat. 3087.)
+(Added Pub. L. 113–295, div. B, title I, § 102(a), Dec. 19, 2014, 128 Stat. 4056; amended Pub. L. 114–113, div. Q, title III, § 303(a)–(c), Dec. 18, 2015, 129 Stat. 3087; Pub. L. 115–97, title I, § 11024(a), Dec. 22, 2017, 131 Stat. 2075.)
 
 ## Notes
 
@@ -93,7 +103,11 @@ The Achieving a Better Life Experience Act of 2014, referred to in subsec. (d)(4
 
 ### Amendments
 
-2015—Subsec. (b)(1)(B) to (D). Pub. L. 114–113, § 303(a), inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “which allows for the establishment of an ABLE account only for a designated beneficiary who is a resident of such State or a resident of a contracting State, and”. Subsec. (c)(1)(C)(i). Pub. L. 114–113, § 303(c)(2), substituted “member of the family” for “family member”. Subsec. (d)(3). Pub. L. 114–113, § 303(b)(1), struck out “and State of residence” after “the name”. Subsec. (d)(4). Pub. L. 114–113, § 303(c)(1), substituted “section 103” for “section 4”. Subsec. (e)(7). Pub. L. 114–113, § 303(b)(2), struck out par. (7). Text read as follows: “The term ‘contracting State’ means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program.”
+2017—Subsec. (b)(2). Pub. L. 115–97, § 11024(a)(2), inserted at end of concluding provisions “A designated beneficiary (or a person acting on behalf of such beneficiary) shall maintain adequate records for purposes of ensuring, and shall be responsible for ensuring, that the requirements of subparagraph (B)(ii) are met.” Subsec. (b)(2)(B). Pub. L. 115–97, § 11024(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “except in the case of contributions under subsection (c)(1)(C), if such contribution to an ABLE account would result in aggregate contributions from all contributors to the ABLE account for the taxable year exceeding the amount in effect under section 2503(b) for the calendar year in which the taxable year begins.” Subsec. (b)(7). Pub. L. 115–97, § 11024(a)(3), added par. (7). 2015—Subsec. (b)(1)(B) to (D). Pub. L. 114–113, § 303(a), inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “which allows for the establishment of an ABLE account only for a designated beneficiary who is a resident of such State or a resident of a contracting State, and”. Subsec. (c)(1)(C)(i). Pub. L. 114–113, § 303(c)(2), substituted “member of the family” for “family member”. Subsec. (d)(3). Pub. L. 114–113, § 303(b)(1), struck out “and State of residence” after “the name”. Subsec. (d)(4). Pub. L. 114–113, § 303(c)(1), substituted “section 103” for “section 4”. Subsec. (e)(7). Pub. L. 114–113, § 303(b)(2), struck out par. (7). Text read as follows: “The term ‘contracting State’ means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program.”
+
+### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 22, 2017, see section 11024(c) of Pub. L. 115–97, set out as a note under section 25B of this title.
 
 ### Effective Date of 2015 Amendment
 

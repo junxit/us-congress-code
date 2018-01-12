@@ -33,7 +33,7 @@ section: 45D
     - **(B)** the entity maintains accountability to residents of low-income communities through their representation on any governing board of the entity or on any advisory board to the entity, and
     - **(C)** the entity is certified by the Secretary for purposes of this section as being a qualified community development entity.
   - **(2)** *Special rules for certain organizations* The requirements of paragraph (1) shall be treated as met by—
-    - **(A)** any specialized small business investment company (as defined in section 1044(c)(3)), and
+    - **(A)** any specialized small business investment company (as defined in section 1044(c)(3)),11 See References in Text note below. and
     - **(B)** any community development financial institution (as defined in section 103 of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4702)).
 - **(d)** *Qualified low-income community investments* For purposes of this section—
   - **(1)** *In general* The term “qualified low-income community investment” means—
@@ -107,7 +107,13 @@ section: 45D
 
 ## Notes
 
+1 See References in Text note below.
+
 1 So in original. Probably should be followed by “, and”.
+
+### References in Text
+
+Section 1044, referred to in subsec. (c)(2)(A), was repealed by Pub. L. 115–97, title I, § 13313(a), Dec. 22, 2017, 131 Stat. 2133.
 
 ### Amendments
 

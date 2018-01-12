@@ -14,8 +14,7 @@ section: 58
   - **(2)** *Tax shelter farm activity* For purposes of this subsection, the term “tax shelter farm activity” means—
     - **(A)** any farming syndicate as defined in section 461(j), and
     - **(B)** any other activity consisting of farming which is a passive activity (within the meaning of section 469(c)).
-  - **(3)** *Application to personal service corporations* For purposes of paragraph (1), a personal service corporation (within the meaning of section 469(j)(2)) shall be treated as a taxpayer other than a corporation.
-  - **(4)** *Determination of loss* In determining the amount of the loss from any tax shelter farm activity, the adjustments of sections 56 and 57 shall apply.
+  - **(3)** *Determination of loss* In determining the amount of the loss from any tax shelter farm activity, the adjustments of sections 56 and 57 shall apply.
 - **(b)** *Disallowance of passive activity loss* In computing the alternative minimum taxable income of the taxpayer for any taxable year, section 469 shall apply, except that in applying section 469—
   - **(1)** the adjustments of sections 56 and 57 shall apply, and
   - **(2)** in lieu of applying section 469(j)(7), the passive activity loss of a taxpayer shall be computed without regard to qualified housing interest (as defined in section 56(e)).
@@ -27,7 +26,7 @@ section: 58
 
 ## Source credit
 
-(Added Pub. L. 99–514, title VII, § 701(a), Oct. 22, 1986, 100 Stat. 2335; amended Pub. L. 100–203, title X, § 10212(b), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, § 1007(d), Nov. 10, 1988, 102 Stat. 3432; Pub. L. 113–295, div. A, title II, § 221(a)(58)(E), (60)(B), Dec. 19, 2014, 128 Stat. 4047, 4048.)
+(Added Pub. L. 99–514, title VII, § 701(a), Oct. 22, 1986, 100 Stat. 2335; amended Pub. L. 100–203, title X, § 10212(b), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, § 1007(d), Nov. 10, 1988, 102 Stat. 3432; Pub. L. 113–295, div. A, title II, § 221(a)(58)(E), (60)(B), Dec. 19, 2014, 128 Stat. 4047, 4048; Pub. L. 115–97, title I, § 12001(b)(9), Dec. 22, 2017, 131 Stat. 2093.)
 
 ## Notes
 
@@ -37,7 +36,11 @@ A prior section 58, added Pub. L. 91–172, title III, § 301(a), Dec. 30, 1969,
 
 ### Amendments
 
-2014—Subsec. (a)(2)(A). Pub. L. 113–295, § 221(a)(58)(E), substituted “section 461(j)” for “section 464(c)”. Subsec. (b). Pub. L. 113–295, § 221(a)(60)(B), inserted “and” at end of par. (1), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “the provisions of section 469(m) (relating to phase-in of disallowance) shall not apply, and”. 1988—Subsec. (a)(2). Pub. L. 100–647, § 1007(d)(1), struck out “(as modified by section 461(i)(4)(A))” after “section 464(c)” in subpar. (A) and substituted “section 469(c)” for “section 469(d), without regard to paragraph (1)(B) thereof” in subpar. (B). Subsec. (a)(3). Pub. L. 100–647, § 1007(d)(2), substituted “469(j)(2)” for “469(g)(1)(C)”. Subsec. (a)(4). Pub. L. 100–647, § 1007(d)(3), added par. (4). Subsec. (b). Pub. L. 100–647, § 1007(d)(4), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows: “(1) the adjustments of section 56 shall apply, “(2) any deduction to the extent such deduction is an item of tax preference under section 57(a) shall not be taken into account, and “(3) the provisions of section 469(m) (relating to phase-in of disallowance) shall not apply.” 1987—Subsec. (b)(3). Pub. L. 100–203 substituted “section 469(m)” for “section 469(l)”.
+2017—Subsec. (a)(3), (4). Pub. L. 115–97 redesignated par. (4) as (3) and struck out former par. (3). Text of former par. (3) read as follows: “For purposes of paragraph (1), a personal service corporation (within the meaning of section 469(j)(2)) shall be treated as a taxpayer other than a corporation.” 2014—Subsec. (a)(2)(A). Pub. L. 113–295, § 221(a)(58)(E), substituted “section 461(j)” for “section 464(c)”. Subsec. (b). Pub. L. 113–295, § 221(a)(60)(B), inserted “and” at end of par. (1), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “the provisions of section 469(m) (relating to phase-in of disallowance) shall not apply, and”. 1988—Subsec. (a)(2). Pub. L. 100–647, § 1007(d)(1), struck out “(as modified by section 461(i)(4)(A))” after “section 464(c)” in subpar. (A) and substituted “section 469(c)” for “section 469(d), without regard to paragraph (1)(B) thereof” in subpar. (B). Subsec. (a)(3). Pub. L. 100–647, § 1007(d)(2), substituted “469(j)(2)” for “469(g)(1)(C)”. Subsec. (a)(4). Pub. L. 100–647, § 1007(d)(3), added par. (4). Subsec. (b). Pub. L. 100–647, § 1007(d)(4), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows: “(1) the adjustments of section 56 shall apply, “(2) any deduction to the extent such deduction is an item of tax preference under section 57(a) shall not be taken into account, and “(3) the provisions of section 469(m) (relating to phase-in of disallowance) shall not apply.” 1987—Subsec. (b)(3). Pub. L. 100–203 substituted “section 469(m)” for “section 469(l)”.
+
+### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
 ### Effective Date of 2014 Amendment
 

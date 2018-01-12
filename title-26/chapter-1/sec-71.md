@@ -62,9 +62,17 @@ section: 71
 
 ## Notes
 
+### Repeal of Section
+
+Pub. L. 115–97, title I, § 11051(b)(1)(B), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, provided that, applicable to any divorce or separation instrument (as defined in former subsec. (b)(2) of this section as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, this section is repealed.
+
 ### Amendments
 
 1986—Subsec. (b)(1)(D). Pub. L. 99–514, § 1843(b), struck out “(and the divorce or separation instrument states that there is no such liability)” after “for such payments after the death of the payee spouse”. Subsec. (c)(2)(B). Pub. L. 99–514, § 1843(d), substituted “specified in subparagraph (A)” for “specified in paragraph (1)”. Subsec. (f). Pub. L. 99–514, § 1843(c)(1), amended subsec. (f) generally, substituting provisions for the recomputation of liability where there has been excess front-loading of alimony payments for provisions setting forth special rules to prevent excess front-loading of alimony payments. Subsec. (g). Pub. L. 99–514, § 1843(a), added subsec. (g). 1984—Pub. L. 98–369 amended section generally, substituting present provisions for provisions which had declared in: subsec. (a), a general rule as to decree of divorce or separate maintenance in par. (1), written separation agreement in par. (2), and decree for support in par. (3); subsec. (b), payments to support minor children; subsec. (c), principal sum paid in installments, par. (1) stating a general rule and par. (2) the rule where period for payment is more than 10 years; subsec. (d), the rule for husband in case of transferred property; and subsec. (e), cross references to sections 7701(a)(17), 215, and 682.
+
+### Effective Date of Repeal
+
+Repeal applicable to any divorce or separation instrument (as defined in former subsec. (b)(2) of this section as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018 if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11501(c) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 61 of this title.
 
 ### Effective Date of 1986 Amendment; Transitional Rule
 

@@ -31,7 +31,7 @@ section: 45R
       - **(ii)** the number of full-time equivalent employees of the employee determined under paragraph (2) for the taxable year.
     - **(B)** *Dollar amount* For purposes of paragraph (1)(B) and subsection (c)(2)—
       - **(i)** *2010, 2011, 2012, and 2013* The dollar amount in effect under this paragraph for taxable years beginning in 2010, 2011, 2012, or 2013 is $25,000.
-      - **(ii)** *Subsequent years* In the case of a taxable year beginning in a calendar year after 2013, the dollar amount in effect under this paragraph shall be equal to $25,000, multiplied by the cost-of-living adjustment under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2012” for “calendar year 1992” in subparagraph (B) thereof.
+      - **(ii)** *Subsequent years* In the case of a taxable year beginning in a calendar year after 2013, the dollar amount in effect under this paragraph shall be equal to $25,000, multiplied by the cost-of-living adjustment under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2012” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(4)** *Contribution arrangement* An arrangement is described in this paragraph if it requires an eligible small employer to make a nonelective contribution on behalf of each employee who enrolls in a qualified health plan offered to employees by the employer through an exchange in an amount equal to a uniform percentage (not less than 50 percent) of the premium cost of the qualified health plan.
   - **(5)** *Seasonal worker hours and wages not counted* For purposes of this subsection—
     - **(A)** *In general* The number of hours of service worked by, and wages paid to, a seasonal worker of an employer shall not be taken into account in determining the full-time equivalent employees and average annual wages of the employer unless the worker works for the employer on more than 120 days during the taxable year.
@@ -73,7 +73,7 @@ section: 45R
 
 ## Source credit
 
-(Added and amended Pub. L. 111–148, title I, § 1421(a), title X, § 10105(e)(1), (2), Mar. 23, 2010, 124 Stat. 237, 906.)
+(Added and amended Pub. L. 111–148, title I, § 1421(a), title X, § 10105(e)(1), (2), Mar. 23, 2010, 124 Stat. 237, 906; Pub. L. 115–97, title I, § 11002(d)(1)(H), Dec. 22, 2017, 131 Stat. 2060.)
 
 ## Notes
 
@@ -87,7 +87,11 @@ The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, 
 
 ### Amendments
 
-2010—Subsec. (d)(3)(B). Pub. L. 111–148, § 10105(e)(1), amended subpar. (B) generally, including dollar amount for taxable years beginning in 2010 in addition to dollar amounts for taxable years beginning in 2011, 2012, and 2013, and subsequent years. Subsec. (g). Pub. L. 111–148, § 10105(e)(2), substituted “2010, 2011” for “2011” in heading and in introductory provisions.
+2017—Subsec. (d)(3)(B)(ii). Pub. L. 115–97 substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”. 2010—Subsec. (d)(3)(B). Pub. L. 111–148, § 10105(e)(1), amended subpar. (B) generally, including dollar amount for taxable years beginning in 2010 in addition to dollar amounts for taxable years beginning in 2011, 2012, and 2013, and subsequent years. Subsec. (g). Pub. L. 111–148, § 10105(e)(2), substituted “2010, 2011” for “2011” in heading and in introductory provisions.
+
+### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 ### Effective Date of 2010 Amendment
 
