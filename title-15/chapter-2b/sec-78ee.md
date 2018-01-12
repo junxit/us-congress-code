@@ -8,8 +8,8 @@ section: 78ee
 # § 78ee. Transaction fees
 
 - **(a)** *Recovery of costs of annual appropriation* The Commission shall, in accordance with this section, collect transaction fees and assessments that are designed to recover the costs to the Government of the annual appropriation to the Commission by Congress.
-- **(b)** *Exchange-traded securities* Subject to subsection (j), each national securities exchange shall pay to the Commission a fee at a rate equal to $15 per $1,000,000 of the aggregate dollar amount of sales of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) transacted on such national securities exchange.
-- **(c)** *Off-exchange trades of exchange registered and last-sale-reported securities* Subject to subsection (j), each national securities association shall pay to the Commission a fee at a rate equal to $15 per $1,000,000 of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) registered on a national securities exchange or subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association.
+- **(b)** *Exchange-traded securities* Subject to subsection (j), each national securities exchange shall pay to the Commission a fee at a rate equal to $15 11 See Adjustment of Transaction Fee Rate notes below. per $1,000,000 of the aggregate dollar amount of sales of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) transacted on such national securities exchange.
+- **(c)** *Off-exchange trades of exchange registered and last-sale-reported securities* Subject to subsection (j), each national securities association shall pay to the Commission a fee at a rate equal to $15 1 per $1,000,000 of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) registered on a national securities exchange or subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association.
 - **(d)** *Assessments on security futures transactions* Each national securities exchange and national securities association shall pay to the Commission an assessment equal to $0.009 for each round turn transaction (treated as including one purchase and one sale of a contract of sale for future delivery) on a security future traded on such national securities exchange or by or through any member of such association otherwise than on a national securities exchange, except that for fiscal year 2007 and each succeeding fiscal year such assessment shall be equal to $0.0042 for each such transaction.
 - **(e)** *Dates for payments* The fees and assessments required by subsections (b), (c), and (d) of this section shall be paid—
   - **(1)** on or before March 15, with respect to transactions and sales occurring during the period beginning on the preceding September 1 and ending at the close of the preceding December 31; and
@@ -47,9 +47,7 @@ section: 78ee
 
 ## Notes
 
-### Adjustment of Fee Amount
-
-For adjustment of certain fee amounts specified in this section, that is not reflected in text, see Adjustment of Transaction Fee Rate notes below.
+1 See Adjustment of Transaction Fee Rate notes below.
 
 ### Amendments
 

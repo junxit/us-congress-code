@@ -19,7 +19,7 @@ section: 410qqq
   - **(1)** *In general* Subject to paragraph (2), there is established in the State a unit of the National Park System to be known as the “Coltsville National Historical Park”.
   - **(2)** *Conditions for establishment* The park shall not be established until the date on which the Secretary determines that—
     - **(A)** the Secretary has acquired by donation sufficient land or an interest in land within the boundary of the park to constitute a manageable unit;
-    - **(B)** the State, city, or private property owner, as appropriate, has entered into a written agreement with the Secretary to donate at least 10,000 square feet of space in the East Armory which would include facilities for park administration and visitor services; and
+    - **(B)** the State, city, or private property owner, as appropriate, has entered into a written agreement with the Secretary to donate at least 10,000 square feet of space in the Colt Armory Complex which would include facilities for park administration and visitor services; and
     - **(C)** the Secretary has entered into a written agreement with the State, city, or other public entity, as appropriate, providing that land owned by the State, city, or other public entity within the Coltsville Historic District shall be managed consistent with this section.
   - **(3)** *Notice* Not later than 30 days after the date on which the Secretary makes a determination under paragraph (2), the Secretary shall publish in the Federal Register notice of the establishment of the park.
 - **(c)** *Boundaries* The park shall include and provide appropriate interpretation and viewing of the following sites, as generally depicted on the map:
@@ -111,7 +111,7 @@ section: 410qqq
 
 ## Source credit
 
-(Pub. L. 113–291, div. B, title XXX, § 3032, Dec. 19, 2014, 128 Stat. 3770.)
+(Pub. L. 113–291, div. B, title XXX, § 3032, Dec. 19, 2014, 128 Stat. 3770; Pub. L. 115–111, § 1, Jan. 10, 2018, 131 Stat. 2273.)
 
 ## Notes
 
@@ -124,3 +124,7 @@ The National Park Service Organic Act (16 U.S.C. 1 et seq.), referred to in subs
 ### Codification
 
 In subsec. (j)(1)(A), “section 100502 of title 54” substituted for “section 12(b) of Public Law 91–383 (commonly known as the ‘National Park Service General Authorities Act’) (16 U.S.C. 1a–7(b))” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+
+### Amendments
+
+2018—Subsec. (b)(2)(B). Pub. L. 115–111 substituted “Colt Armory Complex” for “East Armory”.
