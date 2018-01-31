@@ -99,7 +99,7 @@ section: 199A
       - **(i)** an organization or corporation described in section 501(c)(12) or 1381(a), or
       - **(ii)** an organization which is governed under this title by the rules applicable to cooperatives under this title before the enactment of subchapter T.
   - **(5)** *Qualified publicly traded partnership income* The term “qualified publicly traded partnership income” means, with respect to any qualified trade or business of a taxpayer, the sum of—
-    - **(A)** the net amount of such taxpayer’s allocable share of each qualified item of income, gain, deduction, and loss (as defined in subsection (c)(3) and determined after the application of subsection (c)(4)) from a publicly traded partnership (as defined in section 7704(a) 11 So in original. Probably should be “7704(b)”.) which is not treated as a corporation under section 7704(c), plus
+    - **(A)** the net amount of such taxpayer’s allocable share of each qualified item of income, gain, deduction, and loss (as defined in subsection (c)(3) and determined after the application of subsection (c)(4)) from a publicly traded partnership (as defined in section 7704(a)) 11 So in original. Probably should be “7704(b))”. which is not treated as a corporation under section 7704(c), plus
     - **(B)** any gain recognized by such taxpayer upon disposition of its interest in such partnership to the extent such gain is treated as an amount realized from the sale or exchange of property other than a capital asset under section 751(a).
 - **(f)** *Special rules*
   - **(1)** *Application to partnerships and s corporations*
@@ -140,11 +140,11 @@ section: 199A
 
 ## Notes
 
-1 So in original. Probably should be “7704(b)”.
+1 So in original. Probably should be “7704(b))”.
 
 ### References in Text
 
-The enactment of subchapter T, referred to in subsec. (e)(4)(B)(ii), means the enactment of subchapter T (§ 1381 et seq.) of chapter 1 of this title, which was added by Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1045.
+The enactment of subchapter T, referred to in subsec. (e)(4)(B)(ii), means the enactment of subchapter T (§ 1381 et seq.) of chapter 1 of this title, which was added by Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1045. Section 199(d)(1)(B)(i) (as in effect on December 1, 2017), referred to in subsec. (f)(1)(B), means section 199(d)(1)(B)(i) of this title prior to repeal of section 199 by Pub. L. 115–97, title I, § 13305(a), Dec. 22, 2017, 131 Stat. 2126.
 
 ### Effective Date
 
