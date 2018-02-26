@@ -7,7 +7,7 @@ section: 450jj
 
 # § 450jj. Jefferson National Expansion Memorial; authorization
 
-There is authorized to be constructed by the Secretary of the Interior upon the Jefferson National Expansion Memorial National Historic Site, Saint Louis, Missouri, an appropriate national memorial to those persons who made possible the territorial expansion of the United States, including President Thomas Jefferson and his aides, Livingston and Monroe, who negotiated the Louisiana Purchase, the great explorers, Lewis and Clark, and the hardy hunters, trappers, frontiersmen, pioneers, and others who contributed to such expansion.
+There is authorized to be constructed by the Secretary of the Interior upon the Jefferson National Expansion Memorial National Historic Site,11 See Change of Name note below. Saint Louis, Missouri, an appropriate national memorial to those persons who made possible the territorial expansion of the United States, including President Thomas Jefferson and his aides, Livingston and Monroe, who negotiated the Louisiana Purchase, the great explorers, Lewis and Clark, and the hardy hunters, trappers, frontiersmen, pioneers, and others who contributed to such expansion.
 
 ## Source credit
 
@@ -15,13 +15,23 @@ There is authorized to be constructed by the Secretary of the Interior upon the 
 
 ## Notes
 
+1 See Change of Name note below.
+
+### Change of Name
+
+Jefferson National Expansion Memorial redesignated Gateway Arch National Park by Pub. L. 115–128, § 2, Feb. 22, 2018, 132 Stat. 328, which is classified to section 450jj–10 of this title.
+
+### Short Title of 2018 Amendment
+
+Pub. L. 115–128, § 1, Feb. 22, 2018, 132 Stat. 328, provided that: “This Act [enacting section 450jj–10 of this title] may be cited as the ‘Gateway Arch National Park Designation Act’.”
+
 ### Short Title of 1984 Amendment
 
 Pub. L. 98–398, title II, § 203, Aug. 24, 1984, 98 Stat. 1472, provided that: “This title [enacting sections 450jj–3 to 450jj–9 of this title, enacting provisions set out as a note under section 450jj–3 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Jefferson National Expansion Memorial Amendments Act of 1984’.”
 
 ### Disposition of Funds Received by National Park Service as Reimbursement for Costs Incurred
 
-Pub. L. 99–500, § 101(h) [title I, § 100], Oct. 18, 1986, 100 Stat. 1783–242, 1783–251, and Pub. L. 99–591, § 101(h) [title I, § 100], Oct. 30, 1986, 100 Stat. 3341–242, 3341–251, provided: “That notwithstanding any other provision of law, hereafter funds received by the National Park Service as reimbursement for the cost of providing security, law enforcement, interpretive, and other services with respect to the operation of facilities at the Jefferson National Expansion Memorial National Historic Site shall be credited to the appropriation bearing the cost of providing such services.”
+Pub. L. 99–500, § 101(h) [title I, § 100], Oct. 18, 1986, 100 Stat. 1783–242, 1783–251, and Pub. L. 99–591, § 101(h) [title I, § 100], Oct. 30, 1986, 100 Stat. 3341–242, 3341–251, provided: “That notwithstanding any other provision of law, hereafter funds received by the National Park Service as reimbursement for the cost of providing security, law enforcement, interpretive, and other services with respect to the operation of facilities at the Jefferson National Expansion Memorial National Historic Site [now Gateway Arch National Park] shall be credited to the appropriation bearing the cost of providing such services.”
 
 ### Authorization of Appropriations; Federal and Non-Federal Ratio of Expenditures
 

@@ -22,7 +22,7 @@ section: 59
     - **(B)** *Election*
       - **(i)** *In general* An election under this paragraph may be made only for the taxpayer’s first taxable year which begins after December 31, 1997, and for which the taxpayer claims an alternative minimum tax foreign tax credit.
       - **(ii)** *Election revocable only with consent* An election under this paragraph, once made, shall apply to the taxable year for which made and all subsequent taxable years unless revoked with the consent of the Secretary.
-- **(b)** *Repealed. Pub. L. 115–97, title I, § 12001(b)(3)(C)(ii), Dec. 22, 2017, 131 Stat. 2093]*
+- **(b)** *Repealed. Pub. L. 115–97, title I, § 12001(b)(10), Dec. 22, 2017, 131 Stat. 2093]*
 - **(c)** *Treatment of estates and trusts* In the case of any estate or trust, the alternative minimum taxable income of such estate or trust and any beneficiary thereof shall be determined by applying part I of subchapter J with the adjustments provided in this part.
 - **(d)** *Apportionment of differently treated items in case of certain entities*
   - **(1)** *In general* The differently treated items for the taxable year shall be apportioned (in accordance with regulations prescribed by the Secretary)—
@@ -46,7 +46,7 @@ section: 59
     - **(A)** *Application of section 1254* In the case of any disposition of property to which section 1254 applies (determined without regard to this section), any deduction under paragraph (1) with respect to amounts which are allocable to such property shall, for purposes of section 1254, be treated as a deduction allowable under section 263(c), 616(a), or 617(a), whichever is appropriate.
     - **(B)** *Application of section 617(d)* In the case of any disposition of mining property to which section 617(d) applies (determined without regard to this subsection), any deduction under paragraph (1) with respect to amounts which are allocable to such property shall, for purposes of section 617(d), be treated as a deduction allowable under section 617(a).
   - **(6)** *Amounts to which election apply not treated as tax preference* Any portion of any qualified expenditure to which an election under paragraph (1) applies shall not be treated as an item of tax preference under section 57(a) and section 56 shall not apply to such expenditure.
-- **(f)** *Repealed. Pub. L. 115–97, title I, § 12001(b)(3)(C)(ii), Dec. 22, 2017, 131 Stat. 2093]*
+- **(f)** *Repealed. Pub. L. 115–97, title I, § 12001(b)(10), Dec. 22, 2017, 131 Stat. 2093]*
 - **(g)** *Tax benefit rule* The Secretary may prescribe regulations under which differently treated items shall be properly adjusted where the tax treatment giving rise to such items will not result in the reduction of the taxpayer’s regular tax for the taxable year for which the item is taken into account or for any other taxable year.
 - **(h)** *Coordination with certain limitations* The limitations of sections 704(d), 465, and 1366(d) (and such other provisions as may be specified in regulations) shall be applied for purposes of computing the alternative minimum taxable income of the taxpayer for the taxable year with the adjustments of sections 56, 57, and 58.
 - **(i)** *Special rule for amounts treated as tax preference* For purposes of this subtitle (other than this part), any amount shall not fail to be treated as wholly exempt from tax imposed by this subtitle solely by reason of being included in alternative minimum taxable income.

@@ -41,7 +41,7 @@ section: 67
   - **(1)** the deductions for costs which are paid or incurred in connection with the administration of the estate or trust and which would not have been incurred if the property were not held in such trust or estate, and
   - **(2)** the deductions allowable under sections 642(b), 651, and 661,
 - **(f)** *Coordination with other limitation* This section shall be applied before the application of the dollar limitation of the second sentence of section 162(a) (relating to trade or business expenses).
-- **(g)** *Suspension for Taxable Years 2018 Through 2025* Notwithstanding subsection (a), no miscellaneous itemized deduction shall be allowed for any taxable year beginning after December 31, 2017, and before January 1, 2026.
+- **(g)** *Suspension for taxable years 2018 through 2025* Notwithstanding subsection (a), no miscellaneous itemized deduction shall be allowed for any taxable year beginning after December 31, 2017, and before January 1, 2026.
 
 ## Source credit
 

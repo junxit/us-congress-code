@@ -8,8 +8,9 @@ section: 1397mm
 # § 1397mm. Grants to improve outreach and enrollment
 
 - **(a)** *Outreach and enrollment grants; national campaign*
-  - **(1)** *In general* From the amounts appropriated under subsection (g), subject to paragraph (2), the Secretary shall award grants to eligible entities during the period of fiscal years 2009 through 2023 to conduct outreach and enrollment efforts that are designed to increase the enrollment and participation of eligible children under this subchapter and subchapter XIX.
+  - **(1)** *In general* From the amounts appropriated under subsection (g), subject to paragraphs (2) and (3), the Secretary shall award grants to eligible entities during the period of fiscal years 2009 through 2027 to conduct outreach and enrollment efforts that are designed to increase the enrollment and participation of eligible children under this subchapter and subchapter XIX.
   - **(2)** *Ten percent set aside for national enrollment campaign* An amount equal to 10 percent of such amounts shall be used by the Secretary for expenditures during such period to carry out a national enrollment campaign in accordance with subsection (h).
+  - **(3)** *Ten percent set aside for evaluating and providing technical assistance to grantees* For the period of fiscal years 2024 through 2027, an amount equal to 10 percent of such amounts shall be used by the Secretary for the purpose of evaluating and providing technical assistance to eligible entities awarded grants under this section.
 - **(b)** *Priority for award of grants*
   - **(1)** *In general* In awarding grants under subsection (a), the Secretary shall give priority to eligible entities that—
     - **(A)** propose to target geographic areas with high rates of—
@@ -61,22 +62,25 @@ section: 1397mm
       - **(iii)** a liaison between families and representatives of State plans under subchapter XIX or State child health plans under this subchapter;
       - **(iv)** guidance on identifying medical and dental homes and community pharmacies for children; and
       - **(v)** assistance and referrals to successfully address social determinants of children’s health, including poverty, food insufficiency, and housing.
-- **(g)** *Appropriation* There is appropriated, out of any money in the Treasury not otherwise appropriated, $140,000,000 for the period of fiscal years 2009 through 2015, $40,000,000 for the period of fiscal years 2016 and 2017, and $120,000,000 for the period of fiscal years 2018 through 2023, for the purpose of awarding grants under this section. Amounts appropriated and paid under the authority of this section shall be in addition to amounts appropriated under section 1397dd of this title and paid to States in accordance with section 1397ee of this title, including with respect to expenditures for outreach activities in accordance with subsections (a)(1)(D)(iii) and (c)(2)(C) of that section.
+- **(g)** *Appropriation* There is appropriated, out of any money in the Treasury not otherwise appropriated, $140,000,000 for the period of fiscal years 2009 through 2015, $40,000,000 for the period of fiscal years 2016 and 2017,,22 So in original. $120,000,000 for the period of fiscal years 2018 through 2023, and $48,000,000 for the period of fiscal years 2024 through 2027, for the purpose of awarding grants under this section. Amounts appropriated and paid under the authority of this section shall be in addition to amounts appropriated under section 1397dd of this title and paid to States in accordance with section 1397ee of this title, including with respect to expenditures for outreach activities in accordance with subsections (a)(1)(D)(iii) and (c)(2)(C) of that section.
 - **(h)** *National enrollment campaign* From the amounts made available under subsection (a)(2), the Secretary shall develop and implement a national enrollment campaign to improve the enrollment of underserved child populations in the programs established under this subchapter and subchapter XIX. Such campaign may include—
   - **(1)** the establishment of partnerships with the Secretary of Education and the Secretary of Agriculture to develop national campaigns to link the eligibility and enrollment systems for the assistance programs each Secretary administers that often serve the same children;
   - **(2)** the integration of information about the programs established under this subchapter and subchapter XIX in public health awareness campaigns administered by the Secretary;
   - **(3)** increased financial and technical support for enrollment hotlines maintained by the Secretary to ensure that all States participate in such hotlines;
   - **(4)** the establishment of joint public awareness outreach initiatives with the Secretary of Education and the Secretary of Labor regarding the importance of health insurance to building strong communities and the economy;
-  - **(5)** the development of special outreach materials for Native Americans or for individuals with limited English proficiency; and
-  - **(6)** such other outreach initiatives as the Secretary determines would increase public awareness of the programs under this subchapter and subchapter XIX.
+  - **(5)** the development of special outreach materials for Native Americans or for individuals with limited English proficiency;
+  - **(6)** the development of materials and toolkits and the provision of technical assistance to States regarding enrollment and retention strategies for eligible children under this subchapter and subchapter XIX; and
+  - **(7)** such other outreach initiatives as the Secretary determines would increase public awareness of the programs under this subchapter and subchapter XIX.
 
 ## Source credit
 
-(Aug. 14, 1935, ch. 531, title XXI, § 2113, as added Pub. L. 111–3, title II, § 201(a), Feb. 4, 2009, 123 Stat. 35; amended Pub. L. 111–148, title X, § 10203(d)(2)(E), Mar. 23, 2010, 124 Stat. 931; Pub. L. 114–10, title III, § 303, Apr. 16, 2015, 129 Stat. 158; Pub. L. 115–120, div. C, § 3004(a), (b), Jan. 22, 2018, 132 Stat. 36.)
+(Aug. 14, 1935, ch. 531, title XXI, § 2113, as added Pub. L. 111–3, title II, § 201(a), Feb. 4, 2009, 123 Stat. 35; amended Pub. L. 111–148, title X, § 10203(d)(2)(E), Mar. 23, 2010, 124 Stat. 931; Pub. L. 114–10, title III, § 303, Apr. 16, 2015, 129 Stat. 158; Pub. L. 115–120, div. C, § 3004(a), (b), Jan. 22, 2018, 132 Stat. 36; Pub. L. 115–123, div. E, title I, § 50103, Feb. 9, 2018, 132 Stat. 176.)
 
 ## Notes
 
 1 See References in Text note below.
+
+2 So in original.
 
 ### References in Text
 
@@ -84,7 +88,7 @@ The Indian Health Care Improvement Act, referred to in subsecs. (b)(2) and (f)(1
 
 ### Amendments
 
-2018—Subsec. (a)(1). Pub. L. 115–120, § 3004(a)(1), substituted “2023” for “2017”. Subsec. (f)(1)(E). Pub. L. 115–120, § 3004(b)(1), substituted “, community-based doula programs, or parent mentors” for “or community-based doula programs”. Subsec. (f)(5). Pub. L. 115–120, § 3004(b)(2), added par. (5). Subsec. (g). Pub. L. 115–120, § 3004(a)(2), substituted “, $40,000,000” for “and $40,000,000” and inserted “, and $120,000,000 for the period of fiscal years 2018 through 2023” after “2017”. 2015—Subsec. (a)(1). Pub. L. 114–10, § 303(1), substituted “2017” for “2015”. Subsec. (g). Pub. L. 114–10, § 303(2), inserted “and $40,000,000 for the period of fiscal years 2016 and 2017” after “2015”. 2010—Subsec. (a)(1). Pub. L. 111–148, § 10203(d)(2)(E)(i), substituted “2015” for “2013”. Subsec. (g). Pub. L. 111–148, § 10203(d)(2)(E)(ii), substituted “$140,000,000 for the period of fiscal years 2009 through 2015” for “$100,000,000 for the period of fiscal years 2009 through 2013”.
+2018—Subsec. (a)(1). Pub. L. 115–123, § 50103(a)(1), (b)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” and “2027” for “2023”. Pub. L. 115–120, § 3004(a)(1), substituted “2023” for “2017”. Subsec. (a)(3). Pub. L. 115–123, § 50103(b)(2), added par. (3). Subsec. (f)(1)(E). Pub. L. 115–120, § 3004(b)(1), substituted “, community-based doula programs, or parent mentors” for “or community-based doula programs”. Subsec. (f)(5). Pub. L. 115–120, § 3004(b)(2), added par. (5). Subsec. (g). Pub. L. 115–123, § 50103(a)(2), substituted “, $120,000,000” for “and $120,000,000” and inserted “, and $48,000,000 for the period of fiscal years 2024 through 2027” after “2023”. Pub. L. 115–120, § 3004(a)(2), substituted “, $40,000,000” for “and $40,000,000” and inserted “, and $120,000,000 for the period of fiscal years 2018 through 2023” after “2017”. 2018—Subsec. (h)(6), (7). Pub. L. 115–123, § 50103(c), added par. (6) and redesignated former par. (6) as (7). 2015—Subsec. (a)(1). Pub. L. 114–10, § 303(1), substituted “2017” for “2015”. Subsec. (g). Pub. L. 114–10, § 303(2), inserted “and $40,000,000 for the period of fiscal years 2016 and 2017” after “2015”. 2010—Subsec. (a)(1). Pub. L. 111–148, § 10203(d)(2)(E)(i), substituted “2015” for “2013”. Subsec. (g). Pub. L. 111–148, § 10203(d)(2)(E)(ii), substituted “$140,000,000 for the period of fiscal years 2009 through 2015” for “$100,000,000 for the period of fiscal years 2009 through 2013”.
 
 ### Effective Date
 

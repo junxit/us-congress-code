@@ -102,6 +102,6 @@ Pub. L. 107–189, § 8(c), June 14, 2002, 116 Stat. 701, provided that: “The 
 
 Pub. L. 101–167, title V, § 534(d), Nov. 21, 1989, 103 Stat. 1231, provided that: “(1) Of the financing provided by the Export-Import Bank that is utilized for the support of exports for the energy sector, the Bank shall seek to provide not less than 5 per centum of such financing for renewable energy projects. “(2) The Export-Import Bank shall take all appropriate steps to finance information exchanges and training whose purpose it is to help link United States producers in the renewable energy sector with assistance programs and potential foreign customers. “(3) Beginning on April 15, 1990, the Chairman of the Export-Import Bank shall submit an annual report to the Committees on Appropriations on the Bank’s implementation of this subsection.”
 
-### Submission of Annual Report
+### Modification of Reporting Requirements
 
-Pub. L. 89–348, § 2(9), Nov. 8, 1965, 79 Stat. 1312, modified requirement relating to submission of reports to Congress by providing for annual reports instead of semiannual reports.
+Pub. L. 89–348, § 2(9), Nov. 8, 1965, 79 Stat. 1312, modified the reporting requirements of this section as follows: “From semiannual to annual submission to the Congress by the Export-Import Bank of Washington of a report concerning its operations under the Export-Import Bank Act of 1945 (59 Stat. 529; 12 U.S.C. 635g).” This section was later amended by Pub. L. 93–646 to require annual instead of semiannual reports.

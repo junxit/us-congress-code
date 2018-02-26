@@ -5,33 +5,40 @@ chapter: 7
 section: 629m
 ---
 
-# § 629m. Data standardization for improved data matching
+# § 629m. Data exchange standards for improved interoperability
 
-- **(a)** *Standard data elements*
-  - **(1)** *Designation* The Secretary, in consultation with an interagency work group established by the Office of Management and Budget, and considering State perspectives, shall, by rule, designate standard data elements for any category of information required to be reported under this part.
-  - **(2)** *Data elements must be nonproprietary and interoperable* The standard data elements designated under paragraph (1) shall, to the extent practicable, be nonproprietary and interoperable.
-  - **(3)** *Other requirements* In designating standard data elements under this subsection, the Secretary shall, to the extent practicable, incorporate—
-    - **(A)** interoperable standards developed and maintained by an international voluntary consensus standards body, as defined by the Office of Management and Budget, such as the International Organization for Standardization;
-    - **(B)** interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model; and
-    - **(C)** interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance, such as the Federal Acquisition Regulatory Council.
-- **(b)** *Data standards for reporting*
-  - **(1)** *Designation* The Secretary, in consultation with an interagency work group established by the Office of Management and Budget, and considering State government perspectives, shall, by rule, designate data reporting standards to govern the reporting required under this part.
-  - **(2)** *Requirements* The data reporting standards required by paragraph (1) shall, to the extent practicable—
-    - **(A)** incorporate a widely-accepted, non-proprietary, searchable, computer-readable format;
-    - **(B)** be consistent with and implement applicable accounting principles; and
-    - **(C)** be capable of being continually upgraded as necessary.
-  - **(3)** *Incorporation of nonproprietary standards* In designating reporting standards under this subsection, the Secretary shall, to the extent practicable, incorporate existing nonproprietary standards, such as the eXtensible Business Reporting Language.
+- **(a)** *Designation* The Secretary shall, in consultation with an interagency work group established by the Office of Management and Budget and considering State government perspectives, by rule, designate data exchange standards to govern, under this part and part E—
+  - **(1)** necessary categories of information that State agencies operating programs under State plans approved under this part are required under applicable Federal law to electronically exchange with another State agency; and
+  - **(2)** Federal reporting and data exchange required under applicable Federal law.
+- **(b)** *Requirements* The data exchange standards required by paragraph (1) shall, to the extent practicable—
+  - **(1)** incorporate a widely accepted, non-proprietary, searchable, computer-readable format, such as the Extensible Markup Language;
+  - **(2)** contain interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model;
+  - **(3)** incorporate interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance;
+  - **(4)** be consistent with and implement applicable accounting principles;
+  - **(5)** be implemented in a manner that is cost-effective and improves program efficiency and effectiveness; and
+  - **(6)** be capable of being continually upgraded as necessary.
+- **(c)** *Rule of construction* Nothing in this subsection 11 So in original. shall be construed to require a change to existing data exchange standards found to be effective and efficient.
 
 ## Source credit
 
-(Aug. 14, 1935, ch. 531, title IV, § 440, as added Pub. L. 112–34, title I, § 105(a), Sept. 30, 2011, 125 Stat. 376.)
+(Aug. 14, 1935, ch. 531, title IV, § 440, as added Pub. L. 112–34, title I, § 105(a), Sept. 30, 2011, 125 Stat. 376; amended Pub. L. 115–123, div. E, title VII, § 50771(a), Feb. 9, 2018, 132 Stat. 267.)
 
 ## Notes
+
+1 So in original.
 
 ### Prior Provisions
 
 A prior section 440 of act Aug. 14, 1935, was classified to section 640 of this title prior to repeal by Pub. L. 100–485.
 
+### Amendments
+
+2018—Pub. L. 115–123 amended section generally. Prior to amendment, section required Secretary of Health and Human Services to designate standard data elements for any category of information required to be reported under this part and designate data reporting standards to govern the reporting required under this part.
+
 ### Effective Date
 
 Pub. L. 112–34, title I, § 105(b), Sept. 30, 2011, 125 Stat. 377, provided that: “The amendment made by subsection (a) [enacting this section] shall take effect on October 1, 2012, and shall apply with respect to information required to be reported on or after such date.”
+
+### Regulation
+
+Pub. L. 115–123, div. E, title VII, § 50771(b), Feb. 9, 2018, 132 Stat. 268, provided that: “Not later than the date that is 24 months after the date of the enactment of this section [Feb. 9, 2018], the Secretary of Health and Human Services shall issue a proposed rule that— “(1) identifies federally required data exchanges, include specification and timing of exchanges to be standardized, and address the factors used in determining whether and when to standardize data exchanges; and “(2) specifies State implementation options and describes future milestones.”

@@ -39,13 +39,18 @@ section: 1395ee
       - **(ii)** *MedPAC submission of comments* During the comment period for the proposed rule described in clause (i), the Medicare Payment Advisory Commission may submit comments to the Secretary on the proposed criteria under such clause.
       - **(iii)** *Updating* The Secretary may update the criteria established under this subparagraph through rulemaking.
     - **(B)** *Stakeholder submission of physician-focused payment models* On an ongoing basis, individuals and stakeholder entities may submit to the Committee proposals for physician-focused payment models that such individuals and entities believe meet the criteria described in subparagraph (A).
-    - **(C)** *Committee review of models submitted* The Committee shall, on a periodic basis, review models submitted under subparagraph (B), prepare comments and recommendations regarding whether such models meet the criteria described in subparagraph (A), and submit such comments and recommendations to the Secretary.
+    - **(C)** *Committee review of models submitted* The Committee, on a periodic basis—
+      - **(i)** shall review models submitted under subparagraph (B);
+      - **(ii)** may provide individuals and stakeholder entities who submitted such models with—
+        - **(I)** initial feedback on such models regarding the extent to which such models meet the criteria described in subparagraph (A); and
+        - **(II)** an explanation of the basis for the feedback provided under subclause (I); and
+      - **(iii)** shall prepare comments and recommendations regarding whether such models meet the criteria described in subparagraph (A) and submit such comments and recommendations to the Secretary.
     - **(D)** *Secretary review and response* The Secretary shall review the comments and recommendations submitted by the Committee under subparagraph (C) and post a detailed response to such comments and recommendations on the Internet website of the Centers for Medicare & Medicaid Services.
   - **(3)** *Rule of construction* Nothing in this subsection shall be construed to impact the development or testing of models under this subchapter or subchapters XI, XIX, or XXI.
 
 ## Source credit
 
-(Aug. 14, 1935, ch. 531, title XVIII, § 1868, as added Pub. L. 101–508, title IV, § 4112, Nov. 5, 1990, 104 Stat. 1388–64; amended Pub. L. 108–173, title IX, § 942(a), Dec. 8, 2003, 117 Stat. 2420; Pub. L. 111–148, title III, § 3134(b)(2), Mar. 23, 2010, 124 Stat. 435; Pub. L. 114–10, title I, § 101(e)(1), Apr. 16, 2015, 129 Stat. 115.)
+(Aug. 14, 1935, ch. 531, title XVIII, § 1868, as added Pub. L. 101–508, title IV, § 4112, Nov. 5, 1990, 104 Stat. 1388–64; amended Pub. L. 108–173, title IX, § 942(a), Dec. 8, 2003, 117 Stat. 2420; Pub. L. 111–148, title III, § 3134(b)(2), Mar. 23, 2010, 124 Stat. 435; Pub. L. 114–10, title I, § 101(e)(1), Apr. 16, 2015, 129 Stat. 115; Pub. L. 115–123, div. E, title X, § 51003(b), Feb. 9, 2018, 132 Stat. 295.)
 
 ## Notes
 
@@ -59,7 +64,7 @@ A prior section 1395ee, act Aug. 14, 1935, ch. 531, title XVIII, § 1868, as add
 
 ### Amendments
 
-2015—Subsec. (c). Pub. L. 114–10 added subsec. (c). 2010—Subsec. (a). Pub. L. 111–148 struck out subsec. (a) which related to the Practicing Physicians Advisory Council. 2003—Pub. L. 108–173, § 942(a)(1), inserted “; Council for Technology and Innovation” in section catchline. Subsec. (a). Pub. L. 108–173, § 942(a)(2)–(4), inserted subsec. heading, redesignated existing provisions as par. (1), substituted “in this subsection” for “in this section”, and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively. Subsec. (b). Pub. L. 108–173, § 942(a)(5), added subsec. (b). Former subsec. (b) redesignated par. (2) of subsec. (a). Subsec. (c). Pub. L. 108–173, § 942(a)(4), redesignated subsec. (c) as par. (3) of subsec. (a).
+2018—Subsec. (c)(2)(C). Pub. L. 115–123 amended subpar. (C) generally. Prior to amendment, text read as follows: “The Committee shall, on a periodic basis, review models submitted under subparagraph (B), prepare comments and recommendations regarding whether such models meet the criteria described in subparagraph (A), and submit such comments and recommendations to the Secretary.” 2015—Subsec. (c). Pub. L. 114–10 added subsec. (c). 2010—Subsec. (a). Pub. L. 111–148 struck out subsec. (a) which related to the Practicing Physicians Advisory Council. 2003—Pub. L. 108–173, § 942(a)(1), inserted “; Council for Technology and Innovation” in section catchline. Subsec. (a). Pub. L. 108–173, § 942(a)(2)–(4), inserted subsec. heading, redesignated existing provisions as par. (1), substituted “in this subsection” for “in this section”, and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively. Subsec. (b). Pub. L. 108–173, § 942(a)(5), added subsec. (b). Former subsec. (b) redesignated par. (2) of subsec. (a). Subsec. (c). Pub. L. 108–173, § 942(a)(4), redesignated subsec. (c) as par. (3) of subsec. (a).
 
 ### Termination of Advisory Councils
 
