@@ -5,7 +5,7 @@ chapter: 1
 section: 84
 ---
 
-# § 84. Transfer of appreciated property to political organization
+# § 84. Transfer of appreciated property to political organizations
 
 - **(a)** *General rule* If—
   - **(1)** any person transfers property to a political organization, and
@@ -15,9 +15,13 @@ section: 84
 
 ## Source credit
 
-(Added Pub. L. 93–625, § 13(a)(1), Jan. 3, 1975, 88 Stat. 2120.)
+(Added Pub. L. 93–625, § 13(a)(1), Jan. 3, 1975, 88 Stat. 2120; amended Pub. L. 115–141, div. U, title IV, § 401(a)(35), Mar. 23, 2018, 132 Stat. 1186.)
 
 ## Notes
+
+### Amendments
+
+2018—Pub. L. 115–141 substituted “political organizations” for “political organization” in section catchline.
 
 ### Effective Date
 

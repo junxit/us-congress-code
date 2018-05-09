@@ -124,7 +124,7 @@ section: 263A
       - **(ii)** *Qualified employee-owner* For purposes of this subparagraph, the term “qualified employee-owner” means any individual who is an employee-owner of the corporation (as defined in section 269A(b)(2)) and who is a writer, photographer, or artist.
 - **(i)** *Exemption for certain small businesses*
   - **(1)** *In general* In the case of any taxpayer (other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3)) which meets the gross receipts test of section 448(c) for any taxable year, this section shall not apply with respect to such taxpayer for such taxable year.
-  - **(2)** *Application of gross receipts test to individuals, etc* In the case of any taxpayer which is not a corporation or a partnership, the gross receipts test of section 448(c) shall be applied in the same manner as if each trade or business of such taxpayer were a corporation or partnership.
+  - **(2)** *Application of gross receipts test to individuals, etc.* In the case of any taxpayer which is not a corporation or a partnership, the gross receipts test of section 448(c) shall be applied in the same manner as if each trade or business of such taxpayer were a corporation or partnership.
   - **(3)** *Coordination with section 481* Any change in method of accounting made pursuant to this subsection shall be treated for purposes of section 481 as initiated by the taxpayer and made with the consent of the Secretary.
 - **(j)** *Regulations* The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including—
   - **(1)** regulations to prevent the use of related parties, pass-thru entities, or intermediaries to avoid the application of this section, and
@@ -138,7 +138,7 @@ section: 263A
 
 ### References in Text
 
-The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (d)(2)(C)(II)(ii), probably means the date of enactment of title I of Pub. L. 115–97, which was approved Dec. 22, 2017. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97.
+The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (d)(2)(C)(ii), probably means the date of enactment of title I of Pub. L. 115–97, which was approved Dec. 22, 2017. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97.
 
 ### Amendments
 

@@ -234,7 +234,7 @@ section: 360j
   - **(4)** *Definitions* For purposes of this subsection—
     - **(A)** the term “applicable medical imaging device” means a device intended to be used in conjunction with a contrast agent (or class of contrast agents) for an imaging use that is not described in the approved labeling of such contrast agent (or the approved labeling of any contrast agent in the same class as such contrast agent); and
     - **(B)** the term “contrast agent” means a drug that is approved under section 355 of this title or licensed under section 262 of title 42, is intended for use in conjunction with an applicable medical imaging device, and—
-      - **(i)** is a diagnostic radiopharmaceutical, as defined in section 315.2 and 601.31 of title 21, Code of Federal Regulations (or any successor regulations); or
+      - **(i)** is a diagnostic radiopharmaceutical, as defined in section 22 So in original. Probably should be “sections”. 315.2 and 601.31 of title 21, Code of Federal Regulations (or any successor regulations); or
       - **(ii)** is a diagnostic agent that improves the visualization of structure or function within the body by increasing the relative difference in signal intensity within the target tissue, structure, or fluid.
 - **(q)** *Regulation of over-the-counter hearing aids*
   - **(1)** *Definition*
@@ -256,6 +256,8 @@ section: 360j
 ## Notes
 
 1 So in original. Probably should be “The term ‘device’,”.
+
+2 So in original. Probably should be “sections”.
 
 ### References in Text
 

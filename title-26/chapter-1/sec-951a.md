@@ -38,10 +38,10 @@ section: 951A
   - **(2)** *Specified tangible property*
     - **(A)** *In general* The term “specified tangible property” means, except as provided in subparagraph (B), any tangible property used in the production of tested income.
     - **(B)** *Dual use property* In the case of property used both in the production of tested income and income which is not tested income, such property shall be treated as specified tangible property in the same proportion that the gross income described in subsection (c)(1)(A) produced with respect to such property bears to the total gross income produced with respect to such property.
-  - **(3)** *Determination of adjusted basis* For purposes of this subsection, notwithstanding any provision of this title (or any other provision of law) which is enacted after the date of the enactment of this section, the adjusted basis in any property shall be determined—
+  - **(3)** *11 So in original. There are two pars. designated (3). Determination of adjusted basis* For purposes of this subsection, notwithstanding any provision of this title (or any other provision of law) which is enacted after the date of the enactment of this section, the adjusted basis in any property shall be determined—
     - **(A)** by using the alternative depreciation system under section 168(g), and
     - **(B)** by allocating the depreciation deduction with respect to such property ratably to each day during the period in the taxable year to which such depreciation relates.
-  - **(3)** *Partnership property* For purposes of this subsection, if a controlled foreign corporation holds an interest in a partnership at the close of such taxable year of the controlled foreign corporation, such controlled foreign corporation shall take into account under paragraph (1) the controlled foreign corporation’s distributive share of the aggregate of the partnership’s adjusted bases (determined as of such date in the hands of the partnership) in tangible property held by such partnership to the extent such property—
+  - **(3)** *1 Partnership property* For purposes of this subsection, if a controlled foreign corporation holds an interest in a partnership at the close of such taxable year of the controlled foreign corporation, such controlled foreign corporation shall take into account under paragraph (1) the controlled foreign corporation’s distributive share of the aggregate of the partnership’s adjusted bases (determined as of such date in the hands of the partnership) in tangible property held by such partnership to the extent such property—
     - **(A)** is used in the trade or business of the partnership,
     - **(B)** is of a type with respect to which a deduction is allowable under section 167, and
     - **(C)** is used in the production of tested income (determined with respect to such controlled foreign corporation’s distributive share of income with respect to such property).
@@ -67,6 +67,8 @@ section: 951A
 (Added Pub. L. 115–97, title I, § 14201(a), Dec. 22, 2017, 131 Stat. 2208.)
 
 ## Notes
+
+1 So in original. There are two pars. designated (3).
 
 ### References in Text
 

@@ -38,19 +38,19 @@ section: 457A
   - **(3)** *Nonqualified deferred compensation plan*
     - **(A)** *In general* The term “nonqualified deferred compensation plan” has the meaning given such term under section 409A(d), except that such term shall include any plan that provides a right to compensation based on the appreciation in value of a specified number of equity units of the service recipient.
     - **(B)** *Exception* Compensation shall not be treated as deferred for purposes of this section if the service provider receives payment of such compensation not later than 12 months after the end of the taxable year of the service recipient during which the right to the payment of such compensation is no longer subject to a substantial risk of forfeiture.
-  - **(4)** *Exception for certain compensation with respect to effectively connected income* In the case 11 So in original. Probably should be followed by “of”. a foreign corporation with income which is taxable under section 882, this section shall not apply to compensation which, had such compensation had 22 So in original. The word “had” probably should not appear. been paid in cash on the date that such compensation ceased to be subject to a substantial risk of forfeiture, would have been deductible by such foreign corporation against such income.
+  - **(4)** *Exception for certain compensation with respect to effectively connected income* In the case of a foreign corporation with income which is taxable under section 882, this section shall not apply to compensation which, had such compensation been paid in cash on the date that such compensation ceased to be subject to a substantial risk of forfeiture, would have been deductible by such foreign corporation against such income.
   - **(5)** *Application of rules* Rules similar to the rules of paragraphs (5) and (6) of section 409A(d) shall apply.
 - **(e)** *Regulations* The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations disregarding a substantial risk of forfeiture in cases where necessary to carry out the purposes of this section.
 
 ## Source credit
 
-(Added Pub. L. 110–343, div. C, title VIII, § 801(a), Oct. 3, 2008, 122 Stat. 3929.)
+(Added Pub. L. 110–343, div. C, title VIII, § 801(a), Oct. 3, 2008, 122 Stat. 3929; amended Pub. L. 115–141, div. U, title IV, § 401(a)(113), Mar. 23, 2018, 132 Stat. 1189.)
 
 ## Notes
 
-1 So in original. Probably should be followed by “of”.
+### Amendments
 
-2 So in original. The word “had” probably should not appear.
+2018—Subsec. (d)(4). Pub. L. 115–141 substituted “case of a foreign” for “case a foreign” and “been” for “had been”.
 
 ### Effective Date
 

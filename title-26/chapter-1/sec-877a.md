@@ -101,7 +101,7 @@ section: 877A
     - **(C)** the date the United States Department of State issues to the individual a certificate of loss of nationality, or
     - **(D)** the date a court of the United States cancels a naturalized citizen’s certificate of naturalization.
   - **(5)** *Long-term resident* The term “long-term resident” has the meaning given to such term by section 877(e)(2).
-  - **(6)** *Early distribution tax* The term “early distribution tax” means any increase in tax imposed under section 72(t), 220(e)(4),11 See References in Text note below. 223(f)(4), 409A(a)(1)(B), 529(c)(6), 529A(c)(3), or 530(d)(4).
+  - **(6)** *Early distribution tax* The term “early distribution tax” means any increase in tax imposed under section 72(t), 220(f)(4), 223(f)(4), 409A(a)(1)(B), 529(c)(6), 529A(c)(3), or 530(d)(4).
 - **(h)** *Other rules*
   - **(1)** *Termination of deferrals, etc.* In the case of any covered expatriate, notwithstanding any other provision of this title—
     - **(A)** any time period for acquiring property which would result in the reduction in the amount of gain recognized with respect to property disposed of by the taxpayer shall terminate on the day before the expatriation date, and
@@ -112,23 +112,17 @@ section: 877A
 
 ## Source credit
 
-(Added Pub. L. 110–245, title III, § 301(a), June 17, 2008, 122 Stat. 1638; amended Pub. L. 113–295, div. B, title I, § 102(e)(2), Dec. 19, 2014, 128 Stat. 4062; Pub. L. 115–97, title I, § 11002(d)(1)(BB), Dec. 22, 2017, 131 Stat. 2060.)
+(Added Pub. L. 110–245, title III, § 301(a), June 17, 2008, 122 Stat. 1638; amended Pub. L. 113–295, div. B, title I, § 102(e)(2), Dec. 19, 2014, 128 Stat. 4062; Pub. L. 115–97, title I, § 11002(d)(1)(BB), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, § 401(a)(154), Mar. 23, 2018, 132 Stat. 1191.)
 
 ## Notes
-
-1 See References in Text note below.
 
 ### Inflation Adjusted Items for Certain Years
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
-### References in Text
-
-Section 220(e), referred to in subsec. (g)(6), does not contain a par. (4).
-
 ### Amendments
 
-2017—Subsec. (a)(3)(B)(i)(II). Pub. L. 115–97 substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B) thereof”. 2014—Subsec. (e)(2). Pub. L. 113–295, § 102(e)(2)(A), inserted “a qualified ABLE program (as defined in section 529A),” after “529),”. Subsec. (g)(6). Pub. L. 113–295, § 102(e)(2)(B), inserted “529A(c)(3),” after “529(c)(6),”.
+2018—Subsec. (g)(6). Pub. L. 115–141 substituted “220(f)(4)” for “220(e)(4)”. 2017—Subsec. (a)(3)(B)(i)(II). Pub. L. 115–97 substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B) thereof”. 2014—Subsec. (e)(2). Pub. L. 113–295, § 102(e)(2)(A), inserted “a qualified ABLE program (as defined in section 529A),” after “529),”. Subsec. (g)(6). Pub. L. 113–295, § 102(e)(2)(B), inserted “529A(c)(3),” after “529(c)(6),”.
 
 ### Effective Date of 2017 Amendment
 

@@ -5,13 +5,14 @@ chapter: 5
 section: 182b
 ---
 
-# § 182b. Revolving fund for gift shop, decimal classification, photo duplication, and related services
+# § 182b. Revolving fund for sales shop and other services
 
 - **(a)** *Establishment* There is hereby established in the Treasury a revolving fund for the following programs and activities of the Librarian:
   - **(1)** Decimal classification development.
   - **(2)** The operation of a gift shop or other sales of items associated with collections, exhibits, performances, and special events of the Library of Congress.
   - **(3)** Document reproduction and microfilming services.
   - **(4)** Special events and programs.
+  - **(5)** Training.
 - **(b)** *Individual accounting requirement* A separate account shall be maintained in the revolving fund under this section with respect to the programs and activities described in each of the paragraphs of subsection (a).
 - **(c)** *Fees for services* The Librarian may charge a fee for services under any of the programs and activities described in subsection (a), and shall deposit any such fees charged into the account of the revolving fund under this section for such program or activity.
 - **(d)** *Contents of accounts in fund*
@@ -31,13 +32,13 @@ section: 182b
 
 ## Source credit
 
-(Pub. L. 106–481, title I, § 102, Nov. 9, 2000, 114 Stat. 2188; Pub. L. 107–68, title II, § 208(a), Nov. 12, 2001, 115 Stat. 587; Pub. L. 110–161, div. H, title I, § 1004(f)(1), Dec. 26, 2007, 121 Stat. 2235; Pub. L. 110–178, § 6(a), Jan. 7, 2008, 121 Stat. 2553; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
+(Pub. L. 106–481, title I, § 102, Nov. 9, 2000, 114 Stat. 2188; Pub. L. 107–68, title II, § 208(a), Nov. 12, 2001, 115 Stat. 587; Pub. L. 110–161, div. H, title I, § 1004(f)(1), Dec. 26, 2007, 121 Stat. 2235; Pub. L. 110–178, § 6(a), Jan. 7, 2008, 121 Stat. 2553; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54; Pub. L. 115–141, div. I, title I, § 151(1), Mar. 23, 2018, 132 Stat. 784.)
 
 ## Notes
 
 ### Amendments
 
-2010—Subsec. (e). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(f)(1). See 2007 Amendment note below. 2008—Subsec. (e). Pub. L. 110–178 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Amounts in the accounts of the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the programs and activities covered by such accounts.” 2007—Subsec. (e). Pub. L. 110–161, § 1004(f)(1), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below. 2001—Subsec. (a)(4). Pub. L. 107–68 added par. (4).
+2018—Pub. L. 115–141, § 151(1)(A), substituted “Revolving fund for sales shop and other services” for “Revolving fund for gift shop, decimal classification, photo duplication, and related services” in section catchline. Subsec. (a). Pub. L. 115–141, § 151(1)(B), added par. (5). 2010—Subsec. (e). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(f)(1). See 2007 Amendment note below. 2008—Subsec. (e). Pub. L. 110–178 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Amounts in the accounts of the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the programs and activities covered by such accounts.” 2007—Subsec. (e). Pub. L. 110–161, § 1004(f)(1), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below. 2001—Subsec. (a)(4). Pub. L. 107–68 added par. (4).
 
 ### Effective Date of 2010 Amendment
 

@@ -35,7 +35,7 @@ section: 404A
     - **(B)** such item meets such additional requirements as the Secretary may by regulations prescribe as necessary or appropriate to ensure that the liability will be satisfied.
   - **(4)** *Spreading of certain increases and decreases in reserves* There shall be amortized over a 10-year period any increase or decrease to the reserve on account of—
     - **(A)** the adoption of the plan or a plan amendment,
-    - **(B)** experience gains and losses, and 11 So in original. The word “and” probably should not appear.
+    - **(B)** experience gains and losses,
     - **(C)** any change in actuarial assumptions,
     - **(D)** changes in the interest rate under subsection (g)(3)(B), and
     - **(E)** such other factors as may be prescribed by regulations.
@@ -80,15 +80,13 @@ section: 404A
 
 ## Source credit
 
-(Added Pub. L. 96–603, § 2(a), Dec. 28, 1980, 94 Stat. 3505; amended Pub. L. 99–514, title XI, § 1114(b)(8), title XVIII, § 1851(b)(2)(C)(iii), Oct. 22, 1986, 100 Stat. 2451, 2863; Pub. L. 100–647, title I, § 1012(b)(4), Nov. 10, 1988, 102 Stat. 3496; Pub. L. 109–280, title VIII, § 801(c)(4), Aug. 17, 2006, 120 Stat. 995.)
+(Added Pub. L. 96–603, § 2(a), Dec. 28, 1980, 94 Stat. 3505; amended Pub. L. 99–514, title XI, § 1114(b)(8), title XVIII, § 1851(b)(2)(C)(iii), Oct. 22, 1986, 100 Stat. 2451, 2863; Pub. L. 100–647, title I, § 1012(b)(4), Nov. 10, 1988, 102 Stat. 3496; Pub. L. 109–280, title VIII, § 801(c)(4), Aug. 17, 2006, 120 Stat. 995; Pub. L. 115–141, div. U, title IV, § 401(a)(74), Mar. 23, 2018, 132 Stat. 1187.)
 
 ## Notes
 
-1 So in original. The word “and” probably should not appear.
-
 ### Amendments
 
-2006—Subsec. (g)(3)(A). Pub. L. 109–280 substituted “paragraphs (3) and (6) of section 431(c)” for “paragraphs (3) and (7) of section 412(c)”. 1988—Subsec. (d)(3). Pub. L. 100–647 inserted “except as provided in regulations,” after “qualified foreign plan,”. 1986—Subsec. (a). Pub. L. 99–514, § 1851(b)(2)(C)(iii), substituted “under this chapter” for “under section 162, 212, or 404” in par. (1) and “they would otherwise be deductible” for “they satisfy the conditions of section 162” in par. (2). Subsec. (g)(1)(A). Pub. L. 99–514, § 1114(b)(8), substituted “a highly compensated employee (within the meaning of section 414(q))” for “an officer, shareholder, or highly compensated”.
+2018—Subsec. (c)(4)(B). Pub. L. 115–141 struck out “and” at end. 2006—Subsec. (g)(3)(A). Pub. L. 109–280 substituted “paragraphs (3) and (6) of section 431(c)” for “paragraphs (3) and (7) of section 412(c)”. 1988—Subsec. (d)(3). Pub. L. 100–647 inserted “except as provided in regulations,” after “qualified foreign plan,”. 1986—Subsec. (a). Pub. L. 99–514, § 1851(b)(2)(C)(iii), substituted “under this chapter” for “under section 162, 212, or 404” in par. (1) and “they would otherwise be deductible” for “they satisfy the conditions of section 162” in par. (2). Subsec. (g)(1)(A). Pub. L. 99–514, § 1114(b)(8), substituted “a highly compensated employee (within the meaning of section 414(q))” for “an officer, shareholder, or highly compensated”.
 
 ### Effective Date of 2006 Amendment
 

@@ -11,7 +11,7 @@ section: 427e
 
 ### removalDescription
 
-Section, act June 29, 1935, ch. 338, title I, § 6, 49 Stat. 438, defined “Territory”. See section 361aof this title.
+Section, act June 29, 1935, ch. 338, title I, § 6, 49 Stat. 438, defined “Territory”. See section 361a of this title.
 
 ### Existing Rights and Liabilities
 

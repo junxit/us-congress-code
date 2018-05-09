@@ -74,7 +74,7 @@ section: 45D
     - **(C)** $2,000,000,000 for 2004 and 2005,
     - **(D)** $3,500,000,000 for 2006 and 2007,
     - **(E)** $5,000,000,000 for 2008,
-    - **(F)** $5,000,000,000 for 2009 11 So in original. Probably should be followed by “, and”.
+    - **(F)** $5,000,000,000 for 2009, and
     - **(G)** $3,500,000,000 for each of calendar years 2010 through 2019.
   - **(2)** *Allocation of limitation* The limitation under paragraph (1) shall be allocated by the Secretary among qualified community development entities selected by the Secretary. In making allocations under the preceding sentence, the Secretary shall give priority to any entity—
     - **(A)** with a record of having successfully provided capital or technical assistance to disadvantaged businesses or communities, or
@@ -92,7 +92,7 @@ section: 45D
   - **(4)** *Special rules*
     - **(A)** *Tax benefit rule* The tax for the taxable year shall be increased under paragraph (1) only with respect to credits allowed by reason of this section which were used to reduce tax liability. In the case of credits not so used to reduce tax liability, the carryforwards and carrybacks under section 39 shall be appropriately adjusted.
     - **(B)** *No credits against tax* Any increase in tax under this subsection shall not be treated as a tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.
-- **(h)** *Basis reduction* The basis of any qualified equity investment shall be reduced by the amount of any credit determined under this section with respect to such investment. This subsection shall not apply for purposes of sections 1202, 1400B, and 1400F.
+- **(h)** *Basis reduction* The basis of any qualified equity investment shall be reduced by the amount of any credit determined under this section with respect to such investment. This subsection shall not apply for purposes of section 1202.
 - **(i)** *Regulations* The Secretary shall prescribe such regulations as may be appropriate to carry out this section, including regulations—
   - **(1)** which limit the credit for investments which are directly or indirectly subsidized by other Federal tax benefits (including the credit under section 42 and the exclusion from gross income under section 103),
   - **(2)** which prevent the abuse of the purposes of this section,
@@ -103,13 +103,11 @@ section: 45D
 
 ## Source credit
 
-(Added Pub. L. 106–554, § 1(a)(7) [title I, § 121(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§ 221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, § 102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, § 302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, § 1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, § 733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, § 305(a), (b), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, § 115(a), (b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, § 141(a), (b), Dec. 18, 2015, 129 Stat. 3056.)
+(Added Pub. L. 106–554, § 1(a)(7) [title I, § 121(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§ 221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, § 102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, § 302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, § 1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, § 733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, § 305(a), (b), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, § 115(a), (b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, § 141(a), (b), Dec. 18, 2015, 129 Stat. 3056; Pub. L. 115–141, div. U, title IV, § 401(a)(18), (d)(4)(B)(iii), Mar. 23, 2018, 132 Stat. 1185, 1209.)
 
 ## Notes
 
 1 See References in Text note below.
-
-1 So in original. Probably should be followed by “, and”.
 
 ### References in Text
 
@@ -117,7 +115,7 @@ Section 1044, referred to in subsec. (c)(2)(A), was repealed by Pub. L. 115–97
 
 ### Amendments
 
-2015—Subsec. (f)(1)(G). Pub. L. 114–113, § 141(a), substituted “for each of calendar years 2010 through 2019” for “for 2010, 2011, 2012, 2013, and 2014”. Subsec. (f)(3). Pub. L. 114–113, § 141(b), substituted “2024” for “2019”. 2014—Subsec. (f)(1)(G). Pub. L. 113–295, § 115(a), substituted “2013, and 2014” for “and 2013”. Subsec. (f)(3). Pub. L. 113–295, § 115(b), substituted “2019” for “2018”. 2013—Subsec. (f)(1)(G). Pub. L. 112–240, § 305(a), substituted “2010, 2011, 2012, and 2013” for “2010 and 2011”. Subsec. (f)(3). Pub. L. 112–240, § 305(b), substituted “2018” for “2016”. 2010—Subsec. (f)(1)(G). Pub. L. 111–312, § 733(a), added subpar. (G). Subsec. (f)(3). Pub. L. 111–312, § 733(b), substituted “2016” for “2014”. 2009—Subsec. (f)(1)(D). Pub. L. 111–5, § 1403(a)(2), substituted “and 2007,” for “, 2007, 2008, and 2009.” Subsec. (f)(1)(E), (F). Pub. L. 111–5, § 1403(a)(1), (3), added subpars. (E) and (F). 2008—Subsec. (f)(1)(D). Pub. L. 110–343 substituted “2008, and 2009” for “and 2008”. 2006—Subsec. (f)(1)(D). Pub. L. 109–432, § 102(a), substituted “, 2007, and 2008” for “and 2007”. Subsec. (i)(6). Pub. L. 109–432, § 102(b), added par. (6). 2004—Subsec. (e)(2). Pub. L. 108–357, § 221(a), amended heading and text of par. (2) generally, substituting provisions relating to regulations under which 1 or more targeted populations could be treated as low-income communities for provisions authorizing Secretary to designate any area within any census tract as a low-income community if certain conditions were met. Subsec. (e)(4). Pub. L. 108–357, § 221(b), added par. (4). Subsec. (e)(5). Pub. L. 108–357, § 223(a), added par. (5).
+2018—Subsec. (f)(1)(F). Pub. L. 115–141, § 401(a)(18), inserted “, and” at end. Subsec. (h). Pub. L. 115–141, § 401(d)(4)(B)(iii), substituted “section 1202” for “sections 1202, 1400B, and 1400F”. 2015—Subsec. (f)(1)(G). Pub. L. 114–113, § 141(a), substituted “for each of calendar years 2010 through 2019” for “for 2010, 2011, 2012, 2013, and 2014”. Subsec. (f)(3). Pub. L. 114–113, § 141(b), substituted “2024” for “2019”. 2014—Subsec. (f)(1)(G). Pub. L. 113–295, § 115(a), substituted “2013, and 2014” for “and 2013”. Subsec. (f)(3). Pub. L. 113–295, § 115(b), substituted “2019” for “2018”. 2013—Subsec. (f)(1)(G). Pub. L. 112–240, § 305(a), substituted “2010, 2011, 2012, and 2013” for “2010 and 2011”. Subsec. (f)(3). Pub. L. 112–240, § 305(b), substituted “2018” for “2016”. 2010—Subsec. (f)(1)(G). Pub. L. 111–312, § 733(a), added subpar. (G). Subsec. (f)(3). Pub. L. 111–312, § 733(b), substituted “2016” for “2014”. 2009—Subsec. (f)(1)(D). Pub. L. 111–5, § 1403(a)(2), substituted “and 2007,” for “, 2007, 2008, and 2009.” Subsec. (f)(1)(E), (F). Pub. L. 111–5, § 1403(a)(1), (3), added subpars. (E) and (F). 2008—Subsec. (f)(1)(D). Pub. L. 110–343 substituted “2008, and 2009” for “and 2008”. 2006—Subsec. (f)(1)(D). Pub. L. 109–432, § 102(a), substituted “, 2007, and 2008” for “and 2007”. Subsec. (i)(6). Pub. L. 109–432, § 102(b), added par. (6). 2004—Subsec. (e)(2). Pub. L. 108–357, § 221(a), amended heading and text of par. (2) generally, substituting provisions relating to regulations under which 1 or more targeted populations could be treated as low-income communities for provisions authorizing Secretary to designate any area within any census tract as a low-income community if certain conditions were met. Subsec. (e)(4). Pub. L. 108–357, § 221(b), added par. (4). Subsec. (e)(5). Pub. L. 108–357, § 223(a), added par. (5).
 
 ### Effective Date of 2015 Amendment
 
@@ -146,6 +144,10 @@ Pub. L. 108–357, title II, § 221(c), Oct. 22, 2004, 118 Stat. 1431, provided 
 ### Effective Date
 
 Section applicable to investments made after Dec. 31, 2000, see § 1(a)(7) [title I, § 121(e)] of Pub. L. 106–554, set out as a Effective Date of 2000 Amendment note under section 38 of this title.
+
+### Savings Provision
+
+Amendment by section 401(d)(4)(B)(iii) of Pub. L. 115–141 not applicable to certain obligations issued, DC Zone assets acquired, or principal residences acquired before Jan. 1, 2012, see section 401(d)(4)(C) of Pub. L. 115–141, set out as a note under former section 1400A of this title. For provisions that nothing in amendment by section 401(d)(4)(B)(iii) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 ### Special Rule for Allocation of Increased 2008 Limitation
 

@@ -16,7 +16,7 @@ section: 50
     - **(B)** *Certain excess credit recaptured* Any amount which would have been applied as a reduction under paragraph (2) of section 47(b) but for the fact that a reduction under such paragraph cannot reduce the amount taken into account under section 47(b)(1) below zero shall be treated as an amount required to be recaptured under subparagraph (A) for the taxable year during which the building is placed in service.
     - **(C)** *Certain sales and leasebacks* Under regulations prescribed by the Secretary, a sale by, and leaseback to, a taxpayer who, when the property is placed in service, will be a lessee to whom the rules referred to in subsection (d)(5) apply shall not be treated as a cessation described in subparagraph (A) to the extent that the amount which will be passed through to the lessee under such rules with respect to such property is not less than the qualified rehabilitation expenditures properly taken into account by the lessee under section 47(d) with respect to such property.
     - **(D)** *Coordination with paragraph (1)* If, after property is placed in service, there is a disposition or other cessation described in paragraph (1), then paragraph (1) shall be applied as if any credit which was allowable by reason of section 47(d) and which has not been required to be recaptured before such disposition, cessation, or change in use were allowable for the taxable year the property was placed in service.
-    - **(E)** *Special rules* Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(4).
+    - **(E)** *Special rules* Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), or 48C(b)(2).
   - **(3)** *Carrybacks and carryovers adjusted* In the case of any cessation described in paragraph (1) or (2), the carrybacks and carryovers under section 39 shall be adjusted by reason of such cessation.
   - **(4)** *Subsection not to apply in certain cases* Paragraphs (1) and (2) shall not apply to—
     - **(A)** a transfer by reason of death, or
@@ -32,7 +32,7 @@ section: 50
     - **(A)** *In general* Except as provided in subparagraph (B), no credit shall be determined under this subpart with respect to any property which is used predominantly outside the United States.
     - **(B)** *Exceptions* Subparagraph (A) shall not apply to any property described in section 168(g)(4).
   - **(2)** *Property used for lodging* No credit shall be determined under this subpart with respect to any property which is used predominantly to furnish lodging or in connection with the furnishing of lodging. The preceding sentence shall not apply to—
-    - **(A)** nonlodging commercial facilities which are available to persons not using the lodging facilities on the same basis as they are available to persons using the lodging facilities.11 So in original. The period probably should be a semicolon.
+    - **(A)** nonlodging commercial facilities which are available to persons not using the lodging facilities on the same basis as they are available to persons using the lodging facilities;
     - **(B)** property used by a hotel or motel in connection with the trade or business of furnishing lodging where the predominant portion of the accommodations is used by transients;
     - **(C)** a certified historic structure to the extent of that portion of the basis which is attributable to qualified rehabilitation expenditures; and
     - **(D)** any energy property.
@@ -68,11 +68,9 @@ section: 50
 
 ## Source credit
 
-(Added Pub. L. 101–508, title XI, § 11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§ 1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, § 6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, § 322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, § 412(o), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 113–295, div. A, title II, § 220(d), Dec. 19, 2014, 128 Stat. 4036.)
+(Added Pub. L. 101–508, title XI, § 11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§ 1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, § 6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, § 322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, § 412(o), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 113–295, div. A, title II, § 220(d), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–141, div. U, title IV, § 401(a)(25), (d)(3)(B)(ii), Mar. 23, 2018, 132 Stat. 1185, 1209.)
 
 ## Notes
-
-1 So in original. The period probably should be a semicolon.
 
 ### References in Text
 
@@ -84,7 +82,7 @@ A prior section 50, Pub. L. 92–178, title I, § 101(a), Dec. 10, 1971, 85 Stat
 
 ### Amendments
 
-2014—Subsec. (a)(2)(E). Pub. L. 113–295 inserted “, 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(4)” after “in section 48(b)”. 2005—Subsec. (a)(2)(E). Pub. L. 109–135 substituted “section 48(b)” for “section 48(a)(5)”. 2004—Subsec. (c)(3). Pub. L. 108–357 struck out “or reforestation credit” after “energy credit” in introductory provisions. 1998—Subsec. (a)(5)(C). Pub. L. 105–206 substituted “this chapter” for “subpart A, B, D, or G”. 1996—Subsec. (a)(2)(C). Pub. L. 104–188, § 1704(t)(29), substituted “subsection (d)(5)” for “subsection (c)(4)”. Subsec. (a)(2)(E). Pub. L. 104–188, § 1702(h)(11), substituted “48(a)(5)” for “48(a)(5)(A)”. Subsec. (d). Pub. L. 104–188, § 1616(b)(1), inserted closing provisions.
+2018—Subsec. (a)(2)(E). Pub. L. 115–141, § 401(d)(3)(B)(ii), substituted “or 48C(b)(2)” for “48C(b)(2), or 48D(b)(4)”. Subsec. (b)(2)(A). Pub. L. 115–141, § 401(a)(25), substituted semicolon for period at end. 2014—Subsec. (a)(2)(E). Pub. L. 113–295 inserted “, 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(4)” after “in section 48(b)”. 2005—Subsec. (a)(2)(E). Pub. L. 109–135 substituted “section 48(b)” for “section 48(a)(5)”. 2004—Subsec. (c)(3). Pub. L. 108–357 struck out “or reforestation credit” after “energy credit” in introductory provisions. 1998—Subsec. (a)(5)(C). Pub. L. 105–206 substituted “this chapter” for “subpart A, B, D, or G”. 1996—Subsec. (a)(2)(C). Pub. L. 104–188, § 1704(t)(29), substituted “subsection (d)(5)” for “subsection (c)(4)”. Subsec. (a)(2)(E). Pub. L. 104–188, § 1702(h)(11), substituted “48(a)(5)” for “48(a)(5)(A)”. Subsec. (d). Pub. L. 104–188, § 1616(b)(1), inserted closing provisions.
 
 ### Effective Date of 2004 Amendment
 
@@ -104,4 +102,4 @@ Section applicable to property placed in service after Dec. 31, 1990, but not ap
 
 ### Savings Provision
 
-For provisions that nothing in this section be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that amendment made by section 401(d)(3)(B)(ii) of Pub. L. 115–141 not apply to expenditures made in taxable years beginning before Jan. 1, 2011, in the case of the repeal of section 48D(e)(1) of this title, see section 401(d)(3)(C) of Pub. L. 115–141, set out as a note under section 48D of this title. For provisions that nothing in amendment by section 401(d)(3)(B)(ii) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title. For provisions that nothing in this section be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.

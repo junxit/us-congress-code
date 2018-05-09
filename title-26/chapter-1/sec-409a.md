@@ -58,7 +58,7 @@ section: 409A
       - **(i)** during any restricted period with respect to a single-employer defined benefit plan, assets are set aside or reserved (directly or indirectly) in a trust (or other arrangement as determined by the Secretary) or transferred to such a trust or other arrangement for purposes of paying deferred compensation of an applicable covered employee under a nonqualified deferred compensation plan of the plan sponsor or member of a controlled group which includes the plan sponsor, or
       - **(ii)** a nonqualified deferred compensation plan of the plan sponsor or member of a controlled group which includes the plan sponsor provides that assets will become restricted to the provision of benefits under the plan to an applicable covered employee in connection with such restricted period (or other similar financial measure determined by the Secretary) with respect to the defined benefit plan, or assets are so restricted,
     - **(B)** *Restricted period* For purposes of this section, the term “restricted period” means, with respect to any plan described in subparagraph (A)—
-      - **(i)** any period during which the plan is in at-risk status (as defined in section 430(i)); 11 So in original. The semicolon probably should be a comma.
+      - **(i)** any period during which the plan is in at-risk status (as defined in section 430(i)),
       - **(ii)** any period the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, and
       - **(iii)** the 12-month period beginning on the date which is 6 months before the termination date of the plan if, as of the termination date, the plan is not sufficient for benefit liabilities (within the meaning of section 4041 of the Employee Retirement Income Security Act of 1974).
     - **(C)** *Special rule for payment of taxes on deferred compensation included in income* If an employer provides directly or indirectly for the payment of any Federal, State, or local income taxes with respect to any compensation required to be included in gross income by reason of this paragraph—
@@ -100,11 +100,9 @@ section: 409A
 
 ## Source credit
 
-(Added Pub. L. 108–357, title VIII, § 885(a), Oct. 22, 2004, 118 Stat. 1634; amended Pub. L. 109–135, title IV, § 403(hh)(2), Dec. 21, 2005, 119 Stat. 2631; Pub. L. 109–280, title I, § 116(a), (b), Aug. 17, 2006, 120 Stat. 856, 858; Pub. L. 110–458, title I, § 101(e), Dec. 23, 2008, 122 Stat. 5100; Pub. L. 115–97, title I, § 13603(c)(2), Dec. 22, 2017, 131 Stat. 2164.)
+(Added Pub. L. 108–357, title VIII, § 885(a), Oct. 22, 2004, 118 Stat. 1634; amended Pub. L. 109–135, title IV, § 403(hh)(2), Dec. 21, 2005, 119 Stat. 2631; Pub. L. 109–280, title I, § 116(a), (b), Aug. 17, 2006, 120 Stat. 856, 858; Pub. L. 110–458, title I, § 101(e), Dec. 23, 2008, 122 Stat. 5100; Pub. L. 115–97, title I, § 13603(c)(2), Dec. 22, 2017, 131 Stat. 2164; Pub. L. 115–141, div. U, title IV, § 401(a)(80), Mar. 23, 2018, 132 Stat. 1187.)
 
 ## Notes
-
-1 So in original. The semicolon probably should be a comma.
 
 ### References in Text
 
@@ -116,7 +114,7 @@ A prior section 409A was renumbered section 409 of this title.
 
 ### Amendments
 
-2017—Subsec. (d)(7). Pub. L. 115–97 added par. (7). 2008—Subsec. (b)(3)(A)(ii). Pub. L. 110–458 inserted “to an applicable covered employee” after “under the plan”. 2006—Subsec. (b)(3). Pub. L. 109–280, § 116(a), added par. (3). Former par. (3) redesignated (4). Subsec. (b)(4), (5). Pub. L. 109–280 redesignated pars. (3) and (4) as (4) and (5), respectively, and substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)” wherever appearing. 2005—Subsec. (a)(4)(C)(ii). Pub. L. 109–135 struck out “first” after “requires that the”.
+2018—Subsec. (b)(3)(B)(i). Pub. L. 115–141 substituted comma for semicolon at end. 2017—Subsec. (d)(7). Pub. L. 115–97 added par. (7). 2008—Subsec. (b)(3)(A)(ii). Pub. L. 110–458 inserted “to an applicable covered employee” after “under the plan”. 2006—Subsec. (b)(3). Pub. L. 109–280, § 116(a), added par. (3). Former par. (3) redesignated (4). Subsec. (b)(4), (5). Pub. L. 109–280 redesignated pars. (3) and (4) as (4) and (5), respectively, and substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)” wherever appearing. 2005—Subsec. (a)(4)(C)(ii). Pub. L. 109–135 struck out “first” after “requires that the”.
 
 ### Effective Date of 2017 Amendment
 

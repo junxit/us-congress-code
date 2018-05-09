@@ -11,7 +11,7 @@ section: 246A
   - **(1)** 50 percent (65 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2)), and
   - **(2)** 100 percent minus the average indebtedness percentage.
 - **(b)** *Section not to apply to dividends for which 100 percent dividends received deduction allowable* Subsection (a) shall not apply to—
-  - **(1)** qualifying dividends (as defined in section 243(b) without regard to section 243(d)(4)),11 See References in Text note below. and
+  - **(1)** qualifying dividends (as defined in section 243(b)), and
   - **(2)** dividends received by a small business investment company operating under the Small Business Investment Act of 1958.
 - **(c)** *Debt financed portfolio stock* For purposes of this section—
   - **(1)** *In general* The term “debt financed portfolio stock” means any portfolio stock if at some time during the base period there is portfolio indebtedness with respect to such stock.
@@ -44,19 +44,17 @@ section: 246A
 
 ## Source credit
 
-(Added Pub. L. 98–369, div. A, title I, § 51(a), July 18, 1984, 98 Stat. 562; amended Pub. L. 99–514, title VI, § 611(a)(4), title XVIII, § 1804(a), Oct. 22, 1986, 100 Stat. 2249, 2798; Pub. L. 100–203, title X, § 10221(d)(2), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, § 1012(l)(1), Nov. 10, 1988, 102 Stat. 3513; Pub. L. 108–311, title IV, § 408(a)(9), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 113–295, div. A, title II, § 221(a)(41)(F), Dec. 19, 2014, 128 Stat. 4044; Pub. L. 115–97, title I, § 13002(d), Dec. 22, 2017, 131 Stat. 2100.)
+(Added Pub. L. 98–369, div. A, title I, § 51(a), July 18, 1984, 98 Stat. 562; amended Pub. L. 99–514, title VI, § 611(a)(4), title XVIII, § 1804(a), Oct. 22, 1986, 100 Stat. 2249, 2798; Pub. L. 100–203, title X, § 10221(d)(2), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, § 1012(l)(1), Nov. 10, 1988, 102 Stat. 3513; Pub. L. 108–311, title IV, § 408(a)(9), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 113–295, div. A, title II, § 221(a)(41)(F), Dec. 19, 2014, 128 Stat. 4044; Pub. L. 115–97, title I, § 13002(d), Dec. 22, 2017, 131 Stat. 2100; Pub. L. 115–141, div. U, title IV, § 401(b)(17), Mar. 23, 2018, 132 Stat. 1202.)
 
 ## Notes
 
-1 See References in Text note below.
-
 ### References in Text
 
-Section 243(d)(4), referred to in subsec. (b)(1), was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(41)(D), Dec. 19, 2014, 128 Stat. 4044. The Small Business Investment Act of 1958, referred to in subsec. (b)(2), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables. Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (c)(3)(B)(ii), is classified to section 1841(a) of Title 12, Banks and Banking.
+The Small Business Investment Act of 1958, referred to in subsec. (b)(2), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables. Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (c)(3)(B)(ii), is classified to section 1841(a) of Title 12, Banks and Banking.
 
 ### Amendments
 
-2017—Subsec. (a)(1). Pub. L. 115–97 substituted “50 percent” for “70 percent” and “65 percent” for “80 percent”. 2014—Subsecs. (a), (e). Pub. L. 113–295 struck out “, 244,” after “section 243”. 2004—Subsec. (b)(1). Pub. L. 108–311 substituted “section 243(d)(4)” for “section 243(c)(4)”. 1988—Subsec. (a). Pub. L. 100–647 struck out at end “The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).” 1987—Subsec. (a)(1). Pub. L. 100–203 substituted “70 percent (80 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2))” for “80 percent”. 1986—Subsec. (a). Pub. L. 99–514, § 1804(a), substituted “or 245(a)” for “or 245” and inserted “The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).” Subsec. (a)(1). Pub. L. 99–514, § 611(a)(4), substituted “80 percent” for “85 percent”.
+2018—Subsec. (b)(1). Pub. L. 115–141 struck out “without regard to section 243(d)(4)” after “section 243(b)”. 2017—Subsec. (a)(1). Pub. L. 115–97 substituted “50 percent” for “70 percent” and “65 percent” for “80 percent”. 2014—Subsecs. (a), (e). Pub. L. 113–295 struck out “, 244,” after “section 243”. 2004—Subsec. (b)(1). Pub. L. 108–311 substituted “section 243(d)(4)” for “section 243(c)(4)”. 1988—Subsec. (a). Pub. L. 100–647 struck out at end “The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).” 1987—Subsec. (a)(1). Pub. L. 100–203 substituted “70 percent (80 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2))” for “80 percent”. 1986—Subsec. (a). Pub. L. 99–514, § 1804(a), substituted “or 245(a)” for “or 245” and inserted “The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).” Subsec. (a)(1). Pub. L. 99–514, § 611(a)(4), substituted “80 percent” for “85 percent”.
 
 ### Effective Date of 2017 Amendment
 
@@ -81,6 +79,10 @@ Amendment by section 611(a)(4) of Pub. L. 99–514 applicable to dividends recei
 ### Effective Date
 
 Pub. L. 98–369, div. A, title I, § 51(c), July 18, 1984, 98 Stat. 564, provided that: “The amendments made by this section [enacting this section] shall apply with respect to stock the holding period for which begins after the date of the enactment of this Act [July 18, 1984] in taxable years ending after such date.”
+
+### Savings Provision
+
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 ### Plan Amendments Not Required Until January 1, 1989
 

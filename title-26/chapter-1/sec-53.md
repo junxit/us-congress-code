@@ -28,7 +28,7 @@ section: 53
         - **(I)** the preceding provisions of this subparagraph shall not apply, and
         - **(II)** the adjusted net minimum tax for any taxable year is the amount of the net minimum tax for such year.
   - **(2)** *Tentative minimum tax* The term “tentative minimum tax” has the meaning given to such term by section 55(b), except that in the case of a corporation, the tentative minimum tax shall be treated as zero.
-  - **(3)** *AMT term references* In the case of a corporation, any references in this subsection to section 55, 56, or 57 shall be treated as a reference to such section as in effect before the amendments made by Tax Cuts and Jobs Act.11 So in original. Probably should be “the Tax Cuts and Jobs Act”.
+  - **(3)** *AMT term references* In the case of a corporation, any references in this subsection to section 55, 56, or 57 shall be treated as a reference to such section as in effect before the amendments made by Tax Cuts and Jobs Act.11 So in original. Probably should be “the Tax Cuts and Jobs Act.”
 - **(e)** *Portion of credit treated as refundable*
   - **(1)** *In general* In the case of any taxable year of a corporation beginning in 2018, 2019, 2020, or 2021, the limitation under subsection (c) shall be increased by the AMT refundable credit amount for such year.
   - **(2)** *AMT refundable credit amount* For purposes of paragraph (1), the AMT refundable credit amount is an amount equal to 50 percent (100 percent in the case of a taxable year beginning in 2021) of the excess (if any) of—
@@ -43,7 +43,7 @@ section: 53
 
 ## Notes
 
-1 So in original. Probably should be “the Tax Cuts and Jobs Act”.
+1 So in original. Probably should be “the Tax Cuts and Jobs Act.”
 
 ### References in Text
 

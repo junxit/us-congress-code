@@ -13,7 +13,7 @@ section: 544a
   - **(3)** cable operators should use technologies that will prevent signal thefts while permitting consumers to benefit from such features and functions in such receivers and recorders; and
   - **(4)** compatibility among televisions, video cassette recorders, and cable systems can be assured with narrow technical standards that mandate a minimum degree of common design and operation, leaving all features, functions, protocols, and other product and service options for selection through open competition in the market.
 - **(b)** *Compatible interfaces*
-  - **(1)** *Report; regulations* Within 1 year after October 5, 1992, the Commission, in consultation with representatives of the cable industry and the consumer electronics industry, shall report to Congress on means of assuring compatibility between televisions and video cassette recorders and cable systems, consistent with the need to prevent theft of cable service, so that cable subscribers will be able to enjoy the full benefit of both the programming available on cable systems and the functions available on their televisions and video cassette recorders. Within 180 days after the date of submission of the report required by this subsection, the Commission shall issue such regulations as are necessary to assure such compatibility.
+  - **(1)** *Regulations* The Commission shall issue such regulations as are necessary to assure compatibility between televisions and video cassette recorders and cable systems, consistent with the need to prevent theft of cable service, so that cable subscribers will be able to enjoy the full benefit of both the programming available on cable systems and the functions available on their televisions and video cassette recorders.
   - **(2)** *Scrambling and encryption* In issuing the regulations referred to in paragraph (1), the Commission shall determine whether and, if so, under what circumstances to permit cable systems to scramble or encrypt signals or to restrict cable systems in the manner in which they encrypt or scramble signals, except that the Commission shall not limit the use of scrambling or encryption technology where the use of such technology does not interfere with the functions of subscribers’ television receivers or video cassette recorders.
 - **(c)** *Rulemaking requirements*
   - **(1)** *Factors to be considered* In prescribing the regulations required by this section, the Commission shall consider—
@@ -41,13 +41,13 @@ section: 544a
 
 ## Source credit
 
-(June 19, 1934, ch. 652, title VI, § 624A, as added Pub. L. 102–385, § 17, Oct. 5, 1992, 106 Stat. 1491; amended Pub. L. 104–104, title III, § 301(f), Feb. 8, 1996, 110 Stat. 116.)
+(June 19, 1934, ch. 652, title VI, § 624A, as added Pub. L. 102–385, § 17, Oct. 5, 1992, 106 Stat. 1491; amended Pub. L. 104–104, title III, § 301(f), Feb. 8, 1996, 110 Stat. 116; Pub. L. 115–141, div. P, title IV, § 402(i)(10), Mar. 23, 2018, 132 Stat. 1090.)
 
 ## Notes
 
 ### Amendments
 
-1996—Subsec. (a)(4). Pub. L. 104–104, § 301(f)(1), added par. (4). Subsec. (c)(1)(A) to (C). Pub. L. 104–104, § 301(f)(2), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively. Subsec. (c)(2)(D) to (F). Pub. L. 104–104, § 301(f)(3), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+2018—Subsec. (b)(1). Pub. L. 115–141, in heading, substituted “Regulations” for “Report; regulations”, and in text, substituted “The Commission shall issue such regulations as are necessary to assure” for “Within 1 year after October 5, 1992, the Commission, in consultation with representatives of the cable industry and the consumer electronics industry, shall report to Congress on means of assuring” and struck out at end “Within 180 days after the date of submission of the report required by this subsection, the Commission shall issue such regulations as are necessary to assure such compatibility.” 1996—Subsec. (a)(4). Pub. L. 104–104, § 301(f)(1), added par. (4). Subsec. (c)(1)(A) to (C). Pub. L. 104–104, § 301(f)(2), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively. Subsec. (c)(2)(D) to (F). Pub. L. 104–104, § 301(f)(3), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
 ### Effective Date
 

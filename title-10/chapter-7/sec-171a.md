@@ -22,7 +22,7 @@ section: 171a
   - **(2)** In carrying out the responsibility for oversight of the command, control, and communications system as specified in paragraph (1), the Council shall be responsible for the following:
     - **(A)** Oversight of performance assessments (including interoperability).
     - **(B)** Vulnerability identification and mitigation.
-    - **(C)** Architecture development(including space system architectures and associated user terminals and ground segments).
+    - **(C)** Architecture development (including space system architectures and associated user terminals and ground segments).
     - **(D)** Resource prioritization.
     - **(E)** Such other responsibilities as the Secretary of Defense shall specify for purposes of this section.
 - **(e)** *Annual Reports.—* During the period preceding January 31, 2021, at the same time each year that the budget of the President is submitted to Congress pursuant to section 1105(a) of title 31, and from time to time after such period at the discretion of the Council, the Council shall submit to the congressional defense committees a report on the activities of the Council. Each report shall include the following:

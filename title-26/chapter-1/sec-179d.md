@@ -30,7 +30,7 @@ section: 179D
     - **(A)** *In general* Except as provided in subsection (f), if—
       - **(i)** the requirement of subsection (c)(1)(D) is not met, but
       - **(ii)** there is a certification in accordance with paragraph (6) that any system referred to in subsection (c)(1)(C) satisfies the energy-savings targets established by the Secretary under subparagraph (B) with respect to such system,
-    - **(B)** *Regulations* The Secretary, after consultation with the Secretary of Energy, shall establish a target for each system described in subsection (c)(1)(C) which, if such targets were met for all such systems, the building 11 So in original. would meet the requirements of subsection (c)(1)(D).
+    - **(B)** *Regulations* The Secretary, after consultation with the Secretary of Energy, shall establish a target for each system described in subsection (c)(1)(C) such that, if such targets were met for all such systems, the building would meet the requirements of subsection (c)(1)(D).
   - **(2)** *Methods of calculation* The Secretary, after consultation with the Secretary of Energy, shall promulgate regulations which describe in detail methods for calculating and verifying energy and power consumption and cost, based on the provisions of the 2005 California Nonresidential Alternative Calculation Method Approval Manual.
   - **(3)** *Computer software*
     - **(A)** *In general* Any calculation under paragraph (2) shall be prepared by qualified computer software.
@@ -62,15 +62,13 @@ section: 179D
 
 ## Source credit
 
-(Added Pub. L. 109–58, title XIII, § 1331(a), Aug. 8, 2005, 119 Stat. 1020; amended Pub. L. 109–432, div. A, title II, § 204, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title III, § 303, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 113–295, div. A, title I, § 158(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, § 190(a), title III, § 341(a), (b), Dec. 18, 2015, 129 Stat. 3075, 3113; Pub. L. 115–123, div. D, title I, § 40413(a), Feb. 9, 2018, 132 Stat. 151.)
+(Added Pub. L. 109–58, title XIII, § 1331(a), Aug. 8, 2005, 119 Stat. 1020; amended Pub. L. 109–432, div. A, title II, § 204, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title III, § 303, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 113–295, div. A, title I, § 158(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, § 190(a), title III, § 341(a), (b), Dec. 18, 2015, 129 Stat. 3075, 3113; Pub. L. 115–123, div. D, title I, § 40413(a), Feb. 9, 2018, 132 Stat. 151; Pub. L. 115–141, div. U, title IV, § 401(a)(54), Mar. 23, 2018, 132 Stat. 1186.)
 
 ## Notes
 
-1 So in original.
-
 ### Amendments
 
-2018—Subsec. (h). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”. 2015—Subsec. (c)(1)(B)(ii), (D). Pub. L. 114–113, § 341(a), substituted “Standard 90.1–2007” for “Standard 90.1–2001”. Subsec. (c)(2). Pub. L. 114–113, § 341(b)(1), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘Standard 90.1–2001’ means Standard 90.1–2001 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on April 2, 2003).” Subsec. (f)(1). Pub. L. 114–113, § 341(b)(2), (3), substituted “Table 9.5.1” for “Table 9.3.1.1”, “Table 9.6.1” for “Table 9.3.1.2”, and “Standard 90.1–2007” for “Standard 90.1–2001”. Subsec. (f)(2)(C)(i). Pub. L. 114–113, § 341(b)(2), substituted “Standard 90.1–2007” for “Standard 90.1–2001”. Subsec. (h). Pub. L. 114–113, § 190(a), substituted “December 31, 2016” for “December 31, 2014”. 2014—Subsec. (h). Pub. L. 113–295 substituted “December 31, 2014” for “December 31, 2013”. 2008—Subsec. (h). Pub. L. 110–343 substituted “December 31, 2013” for “December 31, 2008”. 2006—Subsec. (h). Pub. L. 109–432 substituted “2008” for “2007”.
+2018—Subsec. (d)(1)(B). Pub. L. 115–141 substituted “such that” for “which”. Subsec. (h). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”. 2015—Subsec. (c)(1)(B)(ii), (D). Pub. L. 114–113, § 341(a), substituted “Standard 90.1–2007” for “Standard 90.1–2001”. Subsec. (c)(2). Pub. L. 114–113, § 341(b)(1), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘Standard 90.1–2001’ means Standard 90.1–2001 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on April 2, 2003).” Subsec. (f)(1). Pub. L. 114–113, § 341(b)(2), (3), substituted “Table 9.5.1” for “Table 9.3.1.1”, “Table 9.6.1” for “Table 9.3.1.2”, and “Standard 90.1–2007” for “Standard 90.1–2001”. Subsec. (f)(2)(C)(i). Pub. L. 114–113, § 341(b)(2), substituted “Standard 90.1–2007” for “Standard 90.1–2001”. Subsec. (h). Pub. L. 114–113, § 190(a), substituted “December 31, 2016” for “December 31, 2014”. 2014—Subsec. (h). Pub. L. 113–295 substituted “December 31, 2014” for “December 31, 2013”. 2008—Subsec. (h). Pub. L. 110–343 substituted “December 31, 2013” for “December 31, 2008”. 2006—Subsec. (h). Pub. L. 109–432 substituted “2008” for “2007”.
 
 ### Effective Date of 2018 Amendment
 

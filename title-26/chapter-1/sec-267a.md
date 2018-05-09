@@ -26,7 +26,7 @@ section: 267A
   - **(6)** rules for determining the tax residence of a foreign entity if the entity is otherwise considered a resident of more than one country or of no country,
   - **(7)** exceptions from subsection (a) with respect to—
     - **(A)** cases in which the disqualified related party amount is taxed under the laws of a foreign country other than the country of which the related party is a resident for tax purposes, and
-    - **(B)** other cases which the Secretary determines do not present a risk of eroding the Federal tax base,
+    - **(B)** other cases which the Secretary determines do not present a risk of eroding the Federal tax base,11 So in original. Probably should be followed by “and”.
   - **(8)** requirements for record keeping and information reporting in addition to any requirements imposed by section 6038A.
 
 ## Source credit
@@ -34,6 +34,8 @@ section: 267A
 (Added Pub. L. 115–97, title I, § 14222(a), Dec. 22, 2017, 131 Stat. 2219.)
 
 ## Notes
+
+1 So in original. Probably should be followed by “and”.
 
 ### Effective Date
 
