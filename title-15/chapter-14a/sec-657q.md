@@ -39,7 +39,7 @@ section: 657q
 
 ### Prior Provisions
 
-A prior section 2[44] of Pub. L. 85–536 was renumbered section 2[47] and is set out as a note under section 631 of this title.
+A prior section 2[44] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under section 631 of this title.
 
 ### Amendments
 
