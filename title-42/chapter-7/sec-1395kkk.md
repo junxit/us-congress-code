@@ -11,7 +11,7 @@ section: 1395kkk
 
 ### removalDescription
 
-Section, Aug. 14, 1935, ch. 531, title XVIII, § 1899A, as added and amended Pub. L. 111–148, title III, § 3403(a)(1), title X, § 10320(a), Mar. 23, 2010, 124 Stat. 489, 949, establihed the Independent Payment Advisory Board.
+Section, Aug. 14, 1935, ch. 531, title XVIII, § 1899A, as added and amended Pub. L. 111–148, title III, § 3403(a)(1), title X, § 10320(a), Mar. 23, 2010, 124 Stat. 489, 949, established the Independent Payment Advisory Board.
 
 ### Change of Name
 

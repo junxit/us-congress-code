@@ -44,7 +44,7 @@ section: 334a
   - **(1)** *Aviation service.—* The term “aviation service” means participation in aerial flight performed, under regulations prescribed by the Secretary concerned, by an eligible enlisted member who is a remotely piloted aircraft pilot.
   - **(2)** *Operational flying duty.—* The term “operational flying duty” means flying performed under competent orders by enlisted members of the regular or reserve components while serving in assignments in which basic flying skills are normally maintained in the performance of assigned duties as determined by the Secretary concerned, and flying duty performed by members in training that leads to designation as a remotely piloted aircraft pilot by the Secretary concerned.
   - **(3)** *Proficiency flying duty.—* The term “proficiency flying duty” means flying performed under competent orders by enlisted members of the regular or reserve components while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
-    - **(i)** *Termination of Authority.—* No agreement may be entered into under this section after December 31, 2018.
+- **(i)** *Termination of Authority.—* No agreement may be entered into under this section after December 31, 2018.
 
 ## Source credit
 
