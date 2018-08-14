@@ -73,8 +73,8 @@ section: 360ccc–1
     - **(C)** afford that person the opportunity for an informal conference.
 - **(g)** *Regulations concerning exemptions for investigational use* For purposes of indexing new animal drugs under this section, to the extent consistent with the public health, the Secretary shall promulgate regulations for exempting from the operation of section 360b of this title minor species new animal drugs and animal feeds bearing or containing new animal drugs intended solely for investigational use by experts qualified by scientific training and experience to investigate the safety and effectiveness of minor species animal drugs. Such regulations may, at the discretion of the Secretary, among other conditions relating to the protection of the public health, provide for conditioning such exemption upon the establishment and maintenance of such records, and the making of such reports to the Secretary, by the manufacturer or the sponsor of the investigation of such article, of data (including but not limited to analytical reports by investigators) obtained as a result of such investigational use of such article, as the Secretary finds will enable the Secretary to evaluate the safety and effectiveness of such article in the event of the filing of a request for an index listing pursuant to this section.
 - **(h)** *Labeling contents* The labeling of a new animal drug that is the subject of an index listing shall state, prominently and conspicuously—
-  - **(1)** *“Not approved by fda.—* Legally marketed as an FDA indexed product. Extra-label use is prohibited.”;
-  - **(2)** except in the case of new animal drugs indexed for use in an early life stage of a food-producing animal, “This product is not to be used in animals intended for use as food for humans or other animals.”; and
+  - **(1)** “LEGAL STATUS—In order to be legally marketed, a new animal drug intended for a minor species must be Approved, Conditionally Approved, or Indexed by the Food and Drug Administration. THIS PRODUCT IS INDEXED—MIF #” (followed by the applicable minor species index file number and a period) “Extra-label use is prohibited.”;
+  - **(2)** except in the case of new animal drugs indexed for use in an early life stage of a food-producing animal, “This product is not to be used in animals intended for use as food for humans or food-producing animals.”; and
   - **(3)** such other information as may be prescribed by the Secretary in the index listing.
 - **(i)** *Records and reports*
   - **(1)** In the case of any new animal drug for which an index listing pursuant to subsection (a) is in effect, the person who has an index listing shall establish and maintain such records, and make such reports to the Secretary, of data relating to experience, and other data or information, received or otherwise obtained by such person with respect to such drug, or with respect to animal feeds bearing or containing such drug, as the Secretary may by general regulation, or by order with respect to such listing, prescribe on the basis of a finding that such records and reports are necessary in order to enable the Secretary to determine, or facilitate a determination, whether there is or may be ground for invoking subsection (f). Such regulation or order shall provide, where the Secretary deems it to be appropriate, for the examination, upon request, by the persons to whom such regulation or order is applicable, of similar information received or otherwise obtained by the Secretary.
@@ -92,7 +92,7 @@ section: 360ccc–1
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 572, as added Pub. L. 108–282, title I, § 102(b)(4), Aug. 2, 2004, 118 Stat. 896; amended Pub. L. 114–89, § 2(a)(3)(C), Nov. 25, 2015, 129 Stat. 699.)
+(June 25, 1938, ch. 675, § 572, as added Pub. L. 108–282, title I, § 102(b)(4), Aug. 2, 2004, 118 Stat. 896; amended Pub. L. 114–89, § 2(a)(3)(C), Nov. 25, 2015, 129 Stat. 699; Pub. L. 115–234, title III, § 302, Aug. 14, 2018, 132 Stat. 2436.)
 
 ## Notes
 
@@ -102,4 +102,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(E),
 
 ### Amendments
 
-2015—Subsec. (k). Pub. L. 114–89 added subsec. (k).
+2018—Subsec. (h)(1). Pub. L. 115–234, § 302(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label use is prohibited.’;” Subsec. (h)(2). Pub. L. 115–234, § 302(2), substituted “or food-producing animals” for “or other animals”. 2015—Subsec. (k). Pub. L. 114–89 added subsec. (k).
+
+### Effective Date of 2018 Amendment
+
+Pub. L. 115–234, title III, § 302, Aug. 14, 2018, 132 Stat. 2436, provided that the amendment made by section 302 is effective Oct. 1, 2018.
