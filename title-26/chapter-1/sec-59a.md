@@ -110,7 +110,7 @@ section: 59A
       - **(iii)** Any commodity which is actively traded.
       - **(iv)** Any currency.
       - **(v)** Any rate, price, amount, index, formula, or algorithm.
-    - **(B)** *Treatment of american depository receipts and similar instruments* Except as otherwise provided by the Secretary, for purposes of this part, American depository receipts (and similar instruments) with respect to shares of stock in foreign corporations shall be treated as shares of stock in such foreign corporations.
+    - **(B)** *Treatment of American depository receipts and similar instruments* Except as otherwise provided by the Secretary, for purposes of this part, American depository receipts (and similar instruments) with respect to shares of stock in foreign corporations shall be treated as shares of stock in such foreign corporations.
     - **(C)** *Exception for certain contracts* Such term shall not include any insurance, annuity, or endowment contract issued by an insurance company to which subchapter L applies (or issued by any foreign corporation to which such subchapter would apply if such foreign corporation were a domestic corporation).
 - **(i)** *Regulations* The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the provisions of this section, including regulations—
   - **(1)** providing for such adjustments to the application of this section as are necessary to prevent the avoidance of the purposes of this section, including through—
