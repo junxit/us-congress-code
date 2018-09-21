@@ -11,4 +11,4 @@ section: 31b–1
 
 ### Codification
 
-Section 31b–1 was editorially reclassified as section 5125 of this title.
+Section 31b–1 was editorially reclassified as former section 5125 of this title.
