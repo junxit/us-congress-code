@@ -13,15 +13,14 @@ For the purpose of executing the duties and functions of the Coast Guard the Sec
 - **(b)** arrange with the Secretaries of the Army, Navy and Air Force to assign members of the Coast Guard to any school maintained by the Army, Navy, and Air Force, for instruction and training, including aviation schools;
 - **(c)** construct, or cause to be constructed, Coast Guard shore establishments;
 - **(d)** design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire vessels, and subject to applicable regulations under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 dispose of them;
-- **(e)** Repealed. Oct. 31, 1951, ch. 654, § 1(32), 65 Stat. 702.]
-- **(f)** acquire land or interests in land, including acceptance of gifts thereof, where required for the purpose of carrying out any project or purpose for which an appropriation has been made;
-- **(g)** exchange land or interests in land in part or in full payment for such other land or interests in land as may be necessary or desirable, the balance of such part payment to be defrayable in accordance with other provisions of this section;
-- **(h)** exercise any of the powers vested by this title in the Commandant in any case in which the Secretary deems it appropriate; and
-- **(i)** do any and all things necessary to carry out the purposes of this title.
+- **(e)** acquire land or interests in land, including acceptance of gifts thereof, where required for the purpose of carrying out any project or purpose for which an appropriation has been made;
+- **(f)** exchange land or interests in land in part or in full payment for such other land or interests in land as may be necessary or desirable, the balance of such part payment to be defrayable in accordance with other provisions of this section;
+- **(g)** exercise any of the powers vested by this title in the Commandant in any case in which the Secretary deems it appropriate; and
+- **(h)** do any and all things necessary to carry out the purposes of this title.
 
 ## Source credit
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 503; Oct. 31, 1951, ch. 654, §§ 1(32), 2(9), 3(3), 65 Stat. 702, 707, 708; Pub. L. 97–295, § 2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 98–557, § 15(a)(3)(D), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 107–217, § 3(c)(1), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 111–350, § 5(c)(1), Jan. 4, 2011, 124 Stat. 3847.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 503; Oct. 31, 1951, ch. 654, §§ 1(32), 2(9), 3(3), 65 Stat. 702, 707, 708; Pub. L. 97–295, § 2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 98–557, § 15(a)(3)(D), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 107–217, § 3(c)(1), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 111–350, § 5(c)(1), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 115–232, div. C, title XXXV, § 3533(a), Aug. 13, 2018, 132 Stat. 2321.)
 
 ## Notes
 
@@ -31,7 +30,7 @@ This section grants broad general powers concerning policy matters to the Secret
 
 ### Amendments
 
-2011—Subsec. (d). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”. 2002—Subsec. (d). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”. 1984—Subsec. (b). Pub. L. 98–557 substituted reference to members for reference to officers and enlisted men. 1982—Subsec. (d). Pub. L. 97–295 substituted “(40 U.S.C. 471 et seq.)” for “, as amended,” after “Act of 1949”. 1951—Subsec. (c). Act Oct. 31, 1951, § 3(3), struck out provision relating to sale or other disposition of unsuitable or unserviceable shore establishments, and disposition of the net monies received therefrom. Subsec. (d). Act Oct. 31, 1951, § 2(9), inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended, and struck out requirement that net monies received from the disposition of vessels be covered into the Treasury. Subsec. (e). Act Oct. 31, 1951, § 1(32), repealed subsec. (e) which empowered the Secretary to exchange vessels and parts thereof in part payment for new vessels.
+2018—Subsecs. (e) to (i). Pub. L. 115–232 redesignated subsecs. (f) to (i) as (e) to (h), respectively. 2011—Subsec. (d). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”. 2002—Subsec. (d). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”. 1984—Subsec. (b). Pub. L. 98–557 substituted reference to members for reference to officers and enlisted men. 1982—Subsec. (d). Pub. L. 97–295 substituted “(40 U.S.C. 471 et seq.)” for “, as amended,” after “Act of 1949”. 1951—Subsec. (c). Act Oct. 31, 1951, § 3(3), struck out provision relating to sale or other disposition of unsuitable or unserviceable shore establishments, and disposition of the net monies received therefrom. Subsec. (d). Act Oct. 31, 1951, § 2(9), inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended, and struck out requirement that net monies received from the disposition of vessels be covered into the Treasury. Subsec. (e). Act Oct. 31, 1951, § 1(32), repealed subsec. (e) which empowered the Secretary to exchange vessels and parts thereof in part payment for new vessels.
 
 ### Transfer of Functions
 

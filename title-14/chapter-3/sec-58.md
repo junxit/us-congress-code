@@ -7,7 +7,7 @@ section: 58
 
 # § 58. Centers of expertise for Coast Guard prevention and response
 
-- **(a)** *Establishment.—* The Commandant of the Coast Guard may establish and operate one or more centers of expertise for prevention and response missions of the Coast Guard (in this section referred to as a “center”).
+- **(a)** *Establishment.—* The Commandant may establish and operate one or more centers of expertise for prevention and response missions of the Coast Guard (in this section referred to as a “center”).
 - **(b)** *Missions.—* Any center established under subsection (a) shall—
   - **(1)** promote, facilitate, and conduct—
     - **(A)** education;
@@ -27,13 +27,13 @@ section: 58
 
 ## Source credit
 
-(Added Pub. L. 111–281, title V, § 521(a), Oct. 15, 2010, 124 Stat. 2955; amended Pub. L. 113–281, title II, § 204, Dec. 18, 2014, 128 Stat. 3025.)
+(Added Pub. L. 111–281, title V, § 521(a), Oct. 15, 2010, 124 Stat. 2955; amended Pub. L. 113–281, title II, § 204, Dec. 18, 2014, 128 Stat. 3025; Pub. L. 115–232, div. C, title XXXV, § 3531(c)(1), Aug. 13, 2018, 132 Stat. 2320.)
 
 ## Notes
 
 ### Amendments
 
-2014—Subsec. (b). Pub. L. 113–281 amended subsec. (b) generally. Prior to amendment, text read as follows: “Each center shall— “(1) promote and facilitate education, training, and research; “(2) develop a repository of information on its missions and specialties; and “(3) perform any other missions as the Commandant may specify.”
+2018—Subsec. (a). Pub. L. 115–232 substituted “Commandant” for “Commandant of the Coast Guard”. 2014—Subsec. (b). Pub. L. 113–281 amended subsec. (b) generally. Prior to amendment, text read as follows: “Each center shall— “(1) promote and facilitate education, training, and research; “(2) develop a repository of information on its missions and specialties; and “(3) perform any other missions as the Commandant may specify.”
 
 ### Coast Guard Blue Technology Center of Expertise
 

@@ -21,23 +21,21 @@ section: 60
 - **(c)** *Lecturers and Panelists.—*
   - **(1)** *Outside experts.—* The Commandant shall ensure that not less than 60 percent of the lecturers, panelists, and other individuals providing education and instruction as part of the training course required by this section are experts on the Congress and the Federal legislative process who are not employed by the executive branch of the Federal Government.
   - **(2)** *Authority to accept pro bono services.—* In satisfying the requirement under paragraph (1), the Commandant shall seek, and may accept, educational and instructional services of lecturers, panelists, and other individuals and organizations provided to the Coast Guard on a pro bono basis.
-- **(d)** *Completion of Required Training.—*
-  - **(1)** *Current flag officers and employees.—* A Coast Guard flag officer appointed or assigned to a billet in the National Capital Region on the date of the enactment of this section, and a Coast Guard Senior Executive Service employee employed in the National Capital Region on the date of the enactment of this section, shall complete a training course that meets the requirements of this section within 60 days after the date on which the Commandant completes the development of the training course.
-  - **(2)** *New flag officers and employees.—* A Coast Guard flag officer who is newly appointed or assigned to a billet in the National Capital Region, and a Coast Guard Senior Executive Service employee who is newly employed in the National Capital Region, shall complete a training course that meets the requirements of this section not later than 60 days after reporting for duty.
+- **(d)** *Completion of Required Training.—* A Coast Guard flag officer who is newly appointed or assigned to a billet in the National Capital Region, and a Coast Guard Senior Executive Service employee who is newly employed in the National Capital Region, shall complete a training course that meets the requirements of this section not later than 60 days after reporting for duty.
 
 ## Source credit
 
-(Added Pub. L. 114–120, title II, § 214(b)(1), Feb. 8, 2016, 130 Stat. 43; amended Pub. L. 114–328, div. C, title XXXV, § 3503(a), Dec. 23, 2016, 130 Stat. 2775.)
+(Added Pub. L. 114–120, title II, § 214(b)(1), Feb. 8, 2016, 130 Stat. 43; amended Pub. L. 114–328, div. C, title XXXV, § 3503(a), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–232, div. C, title XXXV, § 3532, Aug. 13, 2018, 132 Stat. 2321.)
 
 ## Notes
 
 ### References in Text
 
-The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsec. (a), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016. The date of the enactment of this section, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
+The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsec. (a), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
 
 ### Amendments
 
-2016—Subsec. (a). Pub. L. 114–328 substituted “Coast Guard Authorization Act of 2016” for “Coast Guard Authorization Act of 2015”.
+2018—Subsec. (d). Pub. L. 115–232 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to completion of required training for then current and newly appointed flag officers and employees. 2016—Subsec. (a). Pub. L. 114–328 substituted “Coast Guard Authorization Act of 2016” for “Coast Guard Authorization Act of 2015”.
 
 ### Effective Date of 2016 Amendment
 

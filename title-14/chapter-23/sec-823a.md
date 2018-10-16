@@ -17,12 +17,12 @@ section: 823a
   - **(6)** Other matters related to noncontractual civil liability.
   - **(7)** Compensation for work injuries under chapter 81 of title 5.
   - **(8)** The resolution of claims relating to damage to or loss of personal property of the member incident to service under the Military Personnel and Civilian Employees’ Claims Act of 1964 (31 U.S.C. 3721).1
-  - **(9)** On or after January 1, 2001, section 651 of Public Law 104–208.
+  - **(9)** Section 651 of Public Law 104–208.
 - **(c)** A member of the Auxiliary, while assigned to duty, shall be deemed to be a person acting under an officer of the United States or an agency thereof for purposes of section 1442(a)(1) of title 28.
 
 ## Source credit
 
-(Added Pub. L. 104–324, title IV, § 403(a), Oct. 19, 1996, 110 Stat. 3923; amended Pub. L. 107–295, title IV, § 415, Nov. 25, 2002, 116 Stat. 2121; Pub. L. 109–304, § 17(c), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 114–120, title II, § 209(15), Feb. 8, 2016, 130 Stat. 41.)
+(Added Pub. L. 104–324, title IV, § 403(a), Oct. 19, 1996, 110 Stat. 3923; amended Pub. L. 107–295, title IV, § 415, Nov. 25, 2002, 116 Stat. 2121; Pub. L. 109–304, § 17(c), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 114–120, title II, § 209(15), Feb. 8, 2016, 130 Stat. 41; Pub. L. 115–232, div. C, title XXXV, § 3533(i), Aug. 13, 2018, 132 Stat. 2321.)
 
 ## Notes
 
@@ -32,4 +32,4 @@ The Military Personnel and Civilian Employees’ Claims Act of 1964, referred to
 
 ### Amendments
 
-2016—Subsec. (b)(1). Pub. L. 114–120 substituted “Chapter 171” for “Chapter 26”. 2006—Subsec. (b)(3) to (5). Pub. L. 109–304 added pars (3) to (5) and struck out former pars. (3) to (5) which read as follows: “(3) The Act of March 3, 1925 (46 App. U.S.C. 781–790; popularly known as the Public Vessels Act). “(4) The Act of March 9, 1920 (46 App. U.S.C. 741–752; popularly known as the Suits in Admiralty Act). “(5) The Act of June 19, 1948 (46 App. U.S.C. 740; popularly known as the Admiralty Extension Act).” 2002—Subsec. (b)(9). Pub. L. 107–295 added par. (9).
+2018—Subsec. (b)(9). Pub. L. 115–232 substituted “Section” for “On or after January 1, 2001, section”. 2016—Subsec. (b)(1). Pub. L. 114–120 substituted “Chapter 171” for “Chapter 26”. 2006—Subsec. (b)(3) to (5). Pub. L. 109–304 added pars (3) to (5) and struck out former pars. (3) to (5) which read as follows: “(3) The Act of March 3, 1925 (46 App. U.S.C. 781–790; popularly known as the Public Vessels Act). “(4) The Act of March 9, 1920 (46 App. U.S.C. 741–752; popularly known as the Suits in Admiralty Act). “(5) The Act of June 19, 1948 (46 App. U.S.C. 740; popularly known as the Admiralty Extension Act).” 2002—Subsec. (b)(9). Pub. L. 107–295 added par. (9).

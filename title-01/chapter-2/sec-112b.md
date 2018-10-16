@@ -21,7 +21,7 @@ section: 112b
     - **(A)** An arrangement shall constitute an international agreement within the meaning of this section (other than subsection (c)) irrespective of the duration of activities under the arrangement or the arrangement itself.
     - **(B)** Arrangements that constitute an international agreement within the meaning of this section (other than subsection (c)) include the following:
       - **(i)** A bilateral or multilateral counterterrorism agreement.
-      - **(ii)** A bilateral agreement with a country that is subject to a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)),11 See References in Text note below. section 620A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2371(a)), or section 40(d) of the Arms Export Control Act (22 U.S.C. 2780(d)).
+      - **(ii)** A bilateral agreement with a country that is subject to a determination under section 6(j)(1)(A) 11 See References in Text note below. of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), section 620A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2371(a)), or section 40(d) of the Arms Export Control Act (22 U.S.C. 2780(d)).
 - **(f)** The President shall, through the Secretary of State, promulgate such rules and regulations as may be necessary to carry out this section.
 
 ## Source credit
@@ -34,7 +34,7 @@ section: 112b
 
 ### References in Text
 
-Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), was classified to section 2405(j)(1)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4605(j)(1)(A) of Title 50.
+Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), which was classified to section 2405(j)(1)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4605(j)(1)(A) of Title 50, was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 ### Amendments
 

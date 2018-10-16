@@ -42,7 +42,7 @@ section: 620c
     - **(A)** September 10, 1990, with respect to States with annual sales volumes of 400,000,000 board feet or less; or
     - **(B)** January 1, 1991, with respect to States with annual sales volumes greater than 400,000,000 board feet; or
   - **(2)** any contract under which exports of unprocessed timber were permitted pursuant to an order of the Secretary of Commerce in effect under this section before October 23, 1992.
-- **(f)** *Western red cedar* Nothing in this section shall be construed to supersede section 4606(i) of title 50.
+- **(f)** *Western red cedar* Nothing in this section shall be construed to supersede section 4606(i) 11 See References in Text note below. of title 50.
 - **(g)** *Presidential authority* The President is authorized, after suitable notice and a public comment period of not less than 120 days, to suspend the provisions of this section if a panel of experts has reported to the Dispute Settlement Body of the World Trade Organization (as the term “World Trade Organization” is defined in section 3501(8) of title 19), or a ruling issued under the formal dispute settlement proceeding provided under any other trade agreement finds, that the provisions of this section are in violation of, or inconsistent with, United States obligations under that trade agreement.
 - **(h)** *Removal or modifications of State restrictions* Based upon a determination that it is in the national economic interest, the President may remove or modify any prohibition on exports from public lands in a State if that State petitions the President to remove or modify such prohibition.
 - **(i)** *Effect of prior Federal law* No provision of Federal law which imposes requirements with respect to the generation of revenue from State timberlands and was enacted before August 20, 1990, shall be construed to invalidate, supersede, or otherwise affect any action of a State or political subdivision of a State pursuant to sections 620 to 620j of this title.
@@ -55,6 +55,12 @@ section: 620c
 (Pub. L. 101–382, title IV, § 491, Aug. 20, 1990, 104 Stat. 719; Pub. L. 103–45, § 2, July 1, 1993, 107 Stat. 223; Pub. L. 105–83, title VI, § 602(b), Nov. 14, 1997, 111 Stat. 1620; Pub. L. 106–36, title I, § 1002(a)(2), June 25, 1999, 113 Stat. 133.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Section 4606(i) of title 50, referred to in subsec. (f), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 ### Amendments
 

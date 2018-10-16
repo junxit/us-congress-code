@@ -17,16 +17,18 @@ section: 90
 - **(c)** *Coordination by Committee on the Maritime Transportation System.—* The Committee on the Maritime Transportation System established under section 55501 of title 46, United States Code, shall coordinate the establishment of domestic transportation policies in the Arctic necessary to carry out the purpose of this section.
 - **(d)** *Agreements and Contracts.—* The Secretary may, subject to the availability of appropriations, enter into cooperative agreements, contracts, or other agreements with, or make grants to, individuals and governments to carry out the purpose of this section or any agreements established under subsection (b).
 - **(e)** *Icebreaking.—* The Secretary shall promote safe maritime navigation by means of icebreaking where necessary, feasible, and effective to carry out the purposes of this section.
-- **(f)** *Arctic Definition.—* In this section, the term “Arctic”? 11 So in original. has the meaning given such term in section 112 of the Arctic Research and Policy Act of 1984 (15 U.S.C. 4111).
+- **(f)** *Arctic Definition.—* In this section, the term “Arctic” has the meaning given such term in section 112 of the Arctic Research and Policy Act of 1984 (15 U.S.C. 4111).
 
 ## Source credit
 
-(Added Pub. L. 113–281, title V, § 501(a), Dec. 18, 2014, 128 Stat. 3056.)
+(Added Pub. L. 113–281, title V, § 501(a), Dec. 18, 2014, 128 Stat. 3056; amended Pub. L. 115–232, div. C, title XXXV, § 3533(d), Aug. 13, 2018, 132 Stat. 2321.)
 
 ## Notes
-
-1 So in original.
 
 ### Prior Provisions
 
 A prior section 90, act Aug. 4, 1949, ch. 393, 63 Stat. 502; Pub. L. 85–726, title XIV, § 1404, Aug. 23, 1958, 72 Stat. 808; Pub. L. 94–546, § 1(8), Oct. 18, 1976, 90 Stat. 2519, authorized the Coast Guard to operate and maintain floating ocean stations, prior to repeal by Pub. L. 112–213, title II, § 216(c), Dec. 20, 2012, 126 Stat. 1555.
+
+### Amendments
+
+2018—Subsec. (f). Pub. L. 115–232 struck out question mark after “the term ‘Arctic’ ”.

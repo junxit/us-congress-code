@@ -33,7 +33,7 @@ The Commission shall also have power—
     - **(C)** engage in further cooperation, and protect materials and information received from disclosure, as authorized by this subchapter.
   - **(5)** *Additional authority* The authority provided by this subsection is in addition to, and not in lieu of, any other authority vested in the Commission or any other officer of the United States.
   - **(6)** *Limitation* The authority granted by this subsection shall not authorize the Commission to take any action or exercise any power with respect to a bank, a savings and loan institution described in section 57a(f)(3) of this title, a Federal credit union described in section 57a(f)(4) of this title, or a common carrier subject to the Act to regulate commerce, except in accordance with the undesignated proviso following the last designated subsection of this section.
-  - **(7)** *Assistance to certain countries* The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) of title 50.
+  - **(7)** *Assistance to certain countries* The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) 11 See References in Text note below. of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) 1 of title 50.
 - **(k)** *Referral of evidence for criminal proceedings*
   - **(1)** *In general* Whenever the Commission obtains evidence that any person, partnership, or corporation, either domestic or foreign, has engaged in conduct that may constitute a violation of Federal criminal law, to transmit such evidence to the Attorney General, who may institute criminal proceedings under appropriate statutes. Nothing in this paragraph affects any other authority of the Commission to disclose information.
   - **(2)** *International information* The Commission shall endeavor to ensure, with respect to memoranda of understanding and international agreements it may conclude, that material it has obtained from foreign law enforcement agencies acting to investigate or pursue the enforcement of foreign criminal laws may be used for the purpose of investigation, prosecution, or prevention of violations of United States criminal laws.
@@ -50,13 +50,15 @@ The Commission shall also have power—
 
 ## Notes
 
+1 See References in Text note below.
+
 ### Amendment of Section
 
 For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.
 
 ### References in Text
 
-The Act to regulate commerce, referred to in subsecs. (a), (b), (j)(6), and the proviso following subsec. (l), is defined in section 44 of this title. The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (i), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The Act to regulate commerce, referred to in subsecs. (a), (b), (j)(6), and the proviso following subsec. (l), is defined in section 44 of this title. The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (i), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables. Section 4605(j) of title 50, referred to in subsec. (j)(7), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of title 50, see section 4813(c) of title 50, as enacted by Pub. L. 115–232.
 
 ### Amendments
 
