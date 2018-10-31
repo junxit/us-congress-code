@@ -14,7 +14,7 @@ section: 823a
     - **(B)** Not later than 15 days after receipt of a notice of intent filed under subparagraph (A), the Commission shall—
       - **(i)** make an initial determination as to whether the facility meets the qualifying criteria; and
       - **(ii)** if the Commission makes an initial determination, pursuant to clause (i), that the facility meets the qualifying criteria, publish public notice of the notice of intent filed under subparagraph (A).
-    - **(C)** If, not later than 45 days after the date of publication of the public notice described in subparagraph (B)(ii)—
+    - **(C)** If, not later than 30 days after the date of publication of the public notice described in subparagraph (B)(ii)—
       - **(i)** an entity contests whether the facility meets the qualifying criteria, the Commission shall promptly issue a written determination as to whether the facility meets such criteria; or
       - **(ii)** no entity contests whether the facility meets the qualifying criteria, the facility shall be deemed to meet such criteria.
   - **(3)** For purposes of this section:
@@ -22,7 +22,7 @@ section: 823a
     - **(B)** The term “qualifying conduit hydropower facility” means a facility (not including any dam or other impoundment) that is determined or deemed under paragraph (2)(C) to meet the qualifying criteria.
     - **(C)** The term “qualifying criteria” means, with respect to a facility—
       - **(i)** the facility is constructed, operated, or maintained for the generation of electric power and uses for such generation only the hydroelectric potential of a non-federally owned conduit;
-      - **(ii)** the facility has an installed capacity that does not exceed 5 megawatts; and
+      - **(ii)** the facility has an installed capacity that does not exceed 40 megawatts; and
       - **(iii)** on or before August 9, 2013, the facility is not licensed under, or exempted from the license requirements contained in, this subchapter.
 - **(b)** *Exemption qualifications* Subject to subsection (c), the Commission may grant an exemption in whole or in part from the requirements of this subchapter, including any license requirements contained in this subchapter, to any facility (not including any dam or other impoundment) constructed, operated, or maintained for the generation of electric power which the Commission determines, by rule or order—
   - **(1)** utilizes for such generation only the hydroelectric potential of a conduit; and
@@ -35,7 +35,7 @@ section: 823a
 
 ## Source credit
 
-(June 10, 1920, ch. 285, pt. I, § 30, as added Pub. L. 95–617, title II, § 213, Nov. 9, 1978, 92 Stat. 3148; amended Pub. L. 99–495, § 7, Oct. 16, 1986, 100 Stat. 1248; Pub. L. 113–23, § 4(a), Aug. 9, 2013, 127 Stat. 494.)
+(June 10, 1920, ch. 285, pt. I, § 30, as added Pub. L. 95–617, title II, § 213, Nov. 9, 1978, 92 Stat. 3148; amended Pub. L. 99–495, § 7, Oct. 16, 1986, 100 Stat. 1248; Pub. L. 113–23, § 4(a), Aug. 9, 2013, 127 Stat. 494; Pub. L. 115–270, title III, § 3002, Oct. 23, 2018, 132 Stat. 3863.)
 
 ## Notes
 
@@ -51,7 +51,7 @@ A prior section 30 of act June 10, 1920, was classified to section 791 of this t
 
 ### Amendments
 
-2013—Subsecs. (a), (b). Pub. L. 113–23, § 4(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which authorized the Commission to grant exemptions from the requirements of this subchapter for certain hydroelectric facilities and prohibited the granting of exemptions to facilities with certain capacities. Subsec. (c). Pub. L. 113–23, § 4(a)(2), substituted “subsection (b)” for “subsection (a)” in introductory provisions. Subsec. (d). Pub. L. 113–23, § 4(a)(3), substituted “subsection (b)” for “subsection (a)”. 1986—Subsec. (b). Pub. L. 99–495, § 7(a), inserted provision setting the maximum installation capacity for exemptions under subsec. (a) at 40 megawatts in the case of a facility constructed, operated, and maintained by an agency or instrumentality of a State or local government solely for water supply for municipal purposes. Subsec. (c). Pub. L. 99–495, § 7(b), which directed the insertion of “National Marine Fisheries Service” after “the Fish and Wildlife Service” in both places such term appears, was executed by inserting “National Marine Fisheries Service” after “the United States Fish and Wildlife Service” and “the Fish and Wildlife Service”, as the probable intent of Congress. Subsec. (e). Pub. L. 99–495, § 7(c), added subsec. (e).
+2018—Subsec. (a)(2)(C). Pub. L. 115–270, § 3002(1), substituted “30 days” for “45 days” in introductory provisions. Subsec. (a)(3)(C)(ii). Pub. L. 115–270, § 3002(2), substituted “40 megawatts” for “5 megawatts”. 2013—Subsecs. (a), (b). Pub. L. 113–23, § 4(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which authorized the Commission to grant exemptions from the requirements of this subchapter for certain hydroelectric facilities and prohibited the granting of exemptions to facilities with certain capacities. Subsec. (c). Pub. L. 113–23, § 4(a)(2), substituted “subsection (b)” for “subsection (a)” in introductory provisions. Subsec. (d). Pub. L. 113–23, § 4(a)(3), substituted “subsection (b)” for “subsection (a)”. 1986—Subsec. (b). Pub. L. 99–495, § 7(a), inserted provision setting the maximum installation capacity for exemptions under subsec. (a) at 40 megawatts in the case of a facility constructed, operated, and maintained by an agency or instrumentality of a State or local government solely for water supply for municipal purposes. Subsec. (c). Pub. L. 99–495, § 7(b), which directed the insertion of “National Marine Fisheries Service” after “the Fish and Wildlife Service” in both places such term appears, was executed by inserting “National Marine Fisheries Service” after “the United States Fish and Wildlife Service” and “the Fish and Wildlife Service”, as the probable intent of Congress. Subsec. (e). Pub. L. 99–495, § 7(c), added subsec. (e).
 
 ### Effective Date of 1986 Amendment
 
