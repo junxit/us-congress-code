@@ -7,7 +7,7 @@ section: 488a
 
 # § 488a. Regulation of the sale and transfer of ammonium nitrate
 
-- **(a)** *In general* The Secretary shall regulate the sale and transfer of ammonium nitrate by an ammonium nitrate facility in accordance with this part to prevent the misappropriation or use of ammonium nitrate in an act of terrorism.
+- **(a)** *In general* The Secretary shall regulate the sale and transfer of ammonium nitrate by an ammonium nitrate facility in accordance with this part to prevent the misappropriation or use of ammonium nitrate in an act of terrorism. Such regulations shall be carried out by the Cybersecurity and Infrastructure Security Agency.
 - **(b)** *Ammonium nitrate mixtures* Not later than 90 days after December 26, 2007, the Secretary, in consultation with the heads of appropriate Federal departments and agencies (including the Secretary of Agriculture), shall, after notice and an opportunity for comment, establish a threshold percentage for ammonium nitrate in a substance.
 - **(c)** *Registration of owners of ammonium nitrate facilities*
   - **(1)** *Registration* The Secretary shall establish a process by which any person that—
@@ -69,10 +69,14 @@ section: 488a
 
 ## Source credit
 
-(Pub. L. 107–296, title VIII, § 899B, as added Pub. L. 110–161, div. E, title V, § 563(a), Dec. 26, 2007, 121 Stat. 2084.)
+(Pub. L. 107–296, title VIII, § 899B, as added Pub. L. 110–161, div. E, title V, § 563(a), Dec. 26, 2007, 121 Stat. 2084; amended Pub. L. 115–278, § 2(g)(5)(B), Nov. 16, 2018, 132 Stat. 4179.)
 
 ## Notes
 
 ### References in Text
 
 The USA PATRIOT ACT, referred to in subsec. (h)(1), is Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272, also known as the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
+
+### Amendments
+
+2018—Subsec. (a). Pub. L. 115–278 inserted at end “Such regulations shall be carried out by the Cybersecurity and Infrastructure Security Agency.”

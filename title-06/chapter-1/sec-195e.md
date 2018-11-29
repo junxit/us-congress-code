@@ -51,6 +51,6 @@ section: 195e
 
 Executive Order 13556, referred to in subsec. (d)(3), is set out as a note under section 3501 of Title 44, Public Printing and Documents.
 
-### Codification
+### Prior Provisions
 
-Another section 319 of Pub. L. 107–296 is classified to section 195f of this title.
+A prior section 319 of Pub. L. 107–296 was renumbered section 320 and is classified to section 195f of this title.

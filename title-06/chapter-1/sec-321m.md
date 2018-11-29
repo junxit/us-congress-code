@@ -13,7 +13,7 @@ section: 321m
     - **(A)** The Administrator, based on consideration of—
       - **(i)** the expertise of the Administrator in emergency management and preparedness in the United States; and
       - **(ii)** the responsibilities of the Administrator as the principal advisor to the President for all matters relating to emergency management in the United States.
-    - **(B)** The Assistant Secretary for Infrastructure Protection, based on consideration of the expertise of the Assistant Secretary in, and responsibilities for—
+    - **(B)** The Assistant Secretary for Infrastructure Protection,11 See Change of Name note below. based on consideration of the expertise of the Assistant Secretary in, and responsibilities for—
       - **(i)** protection of critical infrastructure;
       - **(ii)** risk assessment methodologies; and
       - **(iii)** interacting with the private sector on the issues described in clauses (i) and (ii).
@@ -86,6 +86,12 @@ section: 321m
 (Pub. L. 107–296, title V, § 524, as added Pub. L. 110–53, title IX, § 901(a), Aug. 3, 2007, 121 Stat. 365.)
 
 ## Notes
+
+1 See Change of Name note below.
+
+### Change of Name
+
+Reference to Assistant Secretary for Infrastructure Protection deemed to be a reference to Assistant Director for Infrastructure Security, see section 654(a)(3) of this title. Assistant Secretary for Infrastructure Protection serving on the day before Nov. 16, 2018, authorized to continue to serve as Assistant Director for Infrastructure Security on and after such date, see section 2(b)(4) of Pub. L. 115–278, set out as a note under section 654 of this title.
 
 ### Deadline for Designation of Officer
 

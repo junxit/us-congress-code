@@ -25,7 +25,7 @@ section: 124h
   - **(1)** *In general* The Under Secretary for Intelligence and Analysis shall, to the maximum extent practicable, assign officers and intelligence analysts from components of the Department to participating State, local, and regional fusion centers.
   - **(2)** *Personnel sources* Officers and intelligence analysts assigned to participating fusion centers under this subsection may be assigned from the following Department components, in coordination with the respective component head and in consultation with the principal officials of participating fusion centers:
     - **(A)** Office of Intelligence and Analysis.
-    - **(B)** Office of Infrastructure Protection.
+    - **(B)** Cybersecurity and Infrastructure Security Agency.
     - **(C)** Transportation Security Administration.
     - **(D)** United States Customs and Border Protection.
     - **(E)** United States Immigration and Customs Enforcement.
@@ -94,9 +94,13 @@ section: 124h
 
 ## Source credit
 
-(Pub. L. 107–296, title II, § 210A, as added Pub. L. 110–53, title V, § 511(a), Aug. 3, 2007, 121 Stat. 317.)
+(Pub. L. 107–296, title II, § 210A, as added Pub. L. 110–53, title V, § 511(a), Aug. 3, 2007, 121 Stat. 317; amended Pub. L. 115–278, § 2(g)(2)(F), Nov. 16, 2018, 132 Stat. 4177.)
 
 ## Notes
+
+### Amendments
+
+2018—Subsec. (c)(2)(B). Pub. L. 115–278 substituted “Cybersecurity and Infrastructure Security Agency” for “Office of Infrastructure Protection”.
 
 ### Training for Predeployed Officers and Analysts
 
