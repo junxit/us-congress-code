@@ -185,6 +185,10 @@ section: 199A
 
 2 So in original. Probably should be “7704(b))”.
 
+### Inflation Adjusted Items for Certain Years
+
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
+
 ### References in Text
 
 Section 199(d)(1)(B)(i) (as in effect on December 1, 2017), referred to in subsec. (f)(1)(B), means section 199(d)(1)(B)(i) of this title prior to repeal of section 199 by Pub. L. 115–97, title I, § 13305(a), Dec. 22, 2017, 131 Stat. 2126.
