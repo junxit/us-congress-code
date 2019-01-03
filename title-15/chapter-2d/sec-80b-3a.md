@@ -22,17 +22,20 @@ section: 80b–3a
 - **(b)** *Advisers subject to Commission authority*
   - **(1)** *In general* No law of any State or political subdivision thereof requiring the registration, licensing, or qualification as an investment adviser or supervised person of an investment adviser shall apply to any person—
     - **(A)** that is registered under section 80b–3 of this title as an investment adviser, or that is a supervised person of such person, except that a State may license, register, or otherwise qualify any investment adviser representative who has a place of business located within that State;
-    - **(B)** that is not registered under section 80b–3 of this title because that person is excepted from the definition of an investment adviser under section 80b–2(a)(11) of this title; or
-    - **(C)** that is not registered under section 80b–3 of this title because that person is exempt from registration as provided in subsection (b)(7) of such section, or is a supervised person of such person.
+    - **(B)** that is not registered under section 80b–3 of this title because that person is excepted from the definition of an investment adviser under section 80b–2(a)(11) of this title; or 11 So in original. The word “or” probably should not appear.
+    - **(C)** that is not registered under section 80b–3 of this title because that person is exempt from registration as provided in subsection (b)(7) of such section, or is a supervised person of such person; or
+    - **(D)** that is not registered under section 80b–3 of this title because that person is exempt from registration as provided in subsection (b)(8) of such section, or is a supervised person of such person.
   - **(2)** *Limitation* Nothing in this subsection shall prohibit the securities commission (or any agency or office performing like functions) of any State from investigating and bringing enforcement actions with respect to fraud or deceit against an investment adviser or person associated with an investment adviser.
 - **(c)** *Exemptions* Notwithstanding subsection (a), the Commission, by rule or regulation upon its own motion, or by order upon application, may permit the registration with the Commission of any person or class of persons to which the application of subsection (a) would be unfair, a burden on interstate commerce, or otherwise inconsistent with the purposes of this section.
 - **(d)** *State assistance* Upon request of the securities commissioner (or any agency or officer performing like functions) of any State, the Commission may provide such training, technical assistance, or other reasonable assistance in connection with the regulation of investment advisers by the State.
 
 ## Source credit
 
-(Aug. 22, 1940, ch. 686, title II, § 203A, as added Pub. L. 104–290, title III, § 303(a), Oct. 11, 1996, 110 Stat. 3437; amended Pub. L. 109–290, § 7(b)(1), Sept. 29, 2006, 120 Stat. 1321; Pub. L. 111–203, title IV, § 410, July 21, 2010, 124 Stat. 1576; Pub. L. 114–94, div. G, title LXXIV, § 74003, Dec. 4, 2015, 129 Stat. 1786.)
+(Aug. 22, 1940, ch. 686, title II, § 203A, as added Pub. L. 104–290, title III, § 303(a), Oct. 11, 1996, 110 Stat. 3437; amended Pub. L. 109–290, § 7(b)(1), Sept. 29, 2006, 120 Stat. 1321; Pub. L. 111–203, title IV, § 410, July 21, 2010, 124 Stat. 1576; Pub. L. 114–94, div. G, title LXXIV, § 74003, Dec. 4, 2015, 129 Stat. 1786; Pub. L. 115–417, § 3, Jan. 3, 2019, 132 Stat. 5439.)
 
 ## Notes
+
+1 So in original. The word “or” probably should not appear.
 
 ### References in Text
 
@@ -40,7 +43,7 @@ The Investment Company Act of 1940, referred to in subsec. (a)(2)(A), is title I
 
 ### Amendments
 
-2015—Subsec. (b)(1)(C). Pub. L. 114–94 added subpar. (C). 2010—Subsec. (a)(2), (3). Pub. L. 111–203 added par. (2) and redesignated former par. (2) as (3). 2006—Subsecs. (d), (e). Pub. L. 109–290 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “The Commission may, by rule, require an investment adviser— “(1) to file with the Commission any fee, application, report, or notice required by this subchapter or by the rules issued under this subchapter through any entity designated by the Commission for that purpose; and “(2) to pay the reasonable costs associated with such filing.”
+2019—Subsec. (b)(1)(D). Pub. L. 115–417 added subpar. (D). 2015—Subsec. (b)(1)(C). Pub. L. 114–94 added subpar. (C). 2010—Subsec. (a)(2), (3). Pub. L. 111–203 added par. (2) and redesignated former par. (2) as (3). 2006—Subsecs. (d), (e). Pub. L. 109–290 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “The Commission may, by rule, require an investment adviser— “(1) to file with the Commission any fee, application, report, or notice required by this subchapter or by the rules issued under this subchapter through any entity designated by the Commission for that purpose; and “(2) to pay the reasonable costs associated with such filing.”
 
 ### Effective Date of 2010 Amendment
 

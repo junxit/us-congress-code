@@ -5,10 +5,16 @@ chapter: 47
 section: 921b
 ---
 
-# § 921b. Art. 121b]
+# § 921b. Art. 121b. False pretenses to obtain services
+
+Any person subject to this chapter who, with intent to defraud, knowingly uses false pretenses to obtain services shall be punished as a court-martial may direct.
+
+## Source credit
+
+(Added Pub. L. 114–328, div. E, title LX, § 5433, Dec. 23, 2016, 130 Stat. 2951.)
 
 ## Notes
 
-### Codification
+### Effective Date
 
-For text of new section 921b as enacted by Pub. L. 114–328, see Amendment of Analysis and Subchapter note set out preceding section 877 of this title.
+Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.

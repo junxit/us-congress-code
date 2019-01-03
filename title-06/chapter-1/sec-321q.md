@@ -7,7 +7,7 @@ section: 321q
 
 # § 321q. Coordination of Department of Homeland Security efforts related to food, agriculture, and veterinary defense against terrorism
 
-- **(a)** *Program required* The Secretary, acting through the Assistant Secretary for Health Affairs, shall carry out a program to coordinate the Department’s efforts related to defending the food, agriculture, and veterinary systems of the United States against terrorism and other high-consequence events that pose a high risk to homeland security.
+- **(a)** *Program required* The Secretary, acting through the Assistant Secretary for the Countering Weapons of Mass Destruction Office, shall carry out a program to coordinate the Department’s efforts related to defending the food, agriculture, and veterinary systems of the United States against terrorism and other high-consequence events that pose a high risk to homeland security.
 - **(b)** *Program elements* The coordination program required by subsection (a) shall include, at a minimum, the following:
   - **(1)** Providing oversight and management of the Department’s responsibilities pursuant to Homeland Security Presidential Directive 9–Defense of United States Agriculture and Food.
   - **(2)** Providing oversight and integration of the Department’s activities related to veterinary public health, food defense, and agricultural security.
@@ -20,4 +20,10 @@ section: 321q
 
 ## Source credit
 
-(Pub. L. 107–296, title V, § 528, as added Pub. L. 115–43, § 2(a), June 30, 2017, 131 Stat. 884.)
+(Pub. L. 107–296, title V, § 528, as added Pub. L. 115–43, § 2(a), June 30, 2017, 131 Stat. 884; amended Pub. L. 115–387, § 2(f)(5), Dec. 21, 2018, 132 Stat. 5168.)
+
+## Notes
+
+### Amendments
+
+2018—Subsec. (a). Pub. L. 115–387 substituted “the Countering Weapons of Mass Destruction Office,” for “Health Affairs,”.

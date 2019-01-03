@@ -68,7 +68,7 @@ section: 130i
       - **(ix)** a Major Range and Test Facility Base (as defined in section 196(i) of this title).
   - **(4)** The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
   - **(5)** The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meanings given those terms in section 2510 of title 18.
-  - **(6)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 note).
+  - **(6)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 22 See References in Text note below. note).
 
 ## Source credit
 
@@ -78,9 +78,11 @@ section: 130i
 
 1 So in original. Probably should be “subsection (j)(3)(C)”.
 
+2 See References in Text note below.
+
 ### References in Text
 
-The Presidential Protection Assistance Act of 1976, referred to in subsec. (j)(3)(C)(iv), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
+The Presidential Protection Assistance Act of 1976, referred to in subsec. (j)(3)(C)(iv), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables. Section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95), referred to in subsec. (j)(6), which was formerly set out in a note under section 40101 of Title 49, Transportation, was transferred and is now set out in a note under section 44802 of Title 49.
 
 ### Amendments
 

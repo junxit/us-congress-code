@@ -80,11 +80,11 @@ section: 124n
         - **(I)** protection of a National Special Security Event and Special Event Assessment Rating event;
         - **(II)** the provision of support to State, local, territorial, or tribal law enforcement, upon request of the chief executive officer of the State or territory, to ensure protection of people and property at mass gatherings, that is limited to a specified timeframe and location, within available resources, and without delegating any authority under this section to State, local, territorial, or tribal law enforcement; or
         - **(III)** protection of an active Federal law enforcement investigation, emergency response, or security function, that is limited to a specified timeframe and location; and 33 So in original. Probably should be “or”.
-      - **(iv)** missions authorized to be performed by the United States Coast Guard, including those described in clause (iii) as directed by the Secretary, and as further set forth in section 104 of title 14, and consistent with governing statutes, regulations, and orders issued by the Secretary of the Department in which the Coast Guard is operating.
-  - **(4)** The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meaning 44 So in original. Probably should be “meanings”. given those terms in section 2510 of title 18.
+      - **(iv)** missions authorized to be performed by the United States Coast Guard, including those described in clause (iii) as directed by the Secretary, and as further set forth in section 104 44 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, and consistent with governing statutes, regulations, and orders issued by the Secretary of the Department in which the Coast Guard is operating.
+  - **(4)** The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meaning 55 So in original. Probably should be “meanings”. given those terms in section 2510 of title 18.
   - **(5)** The term “homeland security or justice budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary and the Attorney General in support of the budget for that fiscal year.
   - **(6)** For purposes of subsection (a), the term “personnel” means officers and employees of the Department of Homeland Security or the Department of Justice.
-  - **(7)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 44801, 55 So in original. The comma probably should not appear. of title 49.
+  - **(7)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 44801, 66 So in original. The comma probably should not appear. of title 49.
   - **(8)** For purposes of this section, the term “risk-based assessment” includes an evaluation of threat information specific to a covered facility or asset and, with respect to potential impacts on the safety and efficiency of the national airspace system and the needs of law enforcement and national security at each covered facility or asset identified by the Secretary or the Attorney General, respectively, of each of the following factors:
     - **(A)** Potential impacts to safety, efficiency, and use of the national airspace system, including potential effects on manned aircraft and unmanned aircraft systems, aviation safety, airport operations, infrastructure, and air navigation services related to the use of any system or technology for carrying out the actions described in subsection (b)(1).
     - **(B)** Options for mitigating any identified impacts to the national airspace system related to the use of any system or technology, including minimizing when possible the use of any technology which disrupts the transmission of radio or electronic signals, for carrying out the actions described in subsection (b)(1).
@@ -96,7 +96,7 @@ section: 124n
 - **(l)** *Department of Homeland Security assessment*
   - **(1)** *Report* Not later than 1 year after October 5, 2018, the Secretary shall conduct, in coordination with the Attorney General and the Secretary of Transportation, an assessment to the appropriate congressional committees, including—
     - **(A)** an evaluation of the threat from unmanned aircraft systems to United States critical infrastructure (as defined in this chapter) and to domestic large hub airports (as defined in section 40102 of title 49);
-    - **(B)** an evaluation of current Federal and 66 So in original. Probably should be “Federal,”. State, local, territorial, or tribal law enforcement authorities to counter the threat identified in subparagraph (A), and recommendations, if any, for potential changes to existing authorities to allow State, local, territorial, and tribal law enforcement to assist Federal law enforcement to counter the threat where appropriate;
+    - **(B)** an evaluation of current Federal and 77 So in original. Probably should be “Federal,”. State, local, territorial, or tribal law enforcement authorities to counter the threat identified in subparagraph (A), and recommendations, if any, for potential changes to existing authorities to allow State, local, territorial, and tribal law enforcement to assist Federal law enforcement to counter the threat where appropriate;
     - **(C)** an evaluation of the knowledge of, efficiency of, and effectiveness of current procedures and resources available to owners of critical infrastructure and domestic large hub airports when they believe a threat from unmanned aircraft systems is present and what additional actions, if any, the Department of Homeland Security or the Department of Transportation could implement under existing authorities to assist these entities to counter the threat identified in subparagraph (A);
     - **(D)** an assessment of what, if any, additional authorities are needed by each Department and law enforcement to counter the threat identified in subparagraph (A); and
     - **(E)** an assessment of what, if any, additional research and development the Department needs to counter the threat identified in subparagraph (A).
@@ -114,12 +114,18 @@ section: 124n
 
 3 So in original. Probably should be “or”.
 
-4 So in original. Probably should be “meanings”.
+4 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below.
 
-5 So in original. The comma probably should not appear.
+5 So in original. Probably should be “meanings”.
 
-6 So in original. Probably should be “Federal,”.
+6 So in original. The comma probably should not appear.
+
+7 So in original. Probably should be “Federal,”.
 
 ### References in Text
 
 The Presidential Protection Assistance Act of 1976, referred to in subsec. (k)(3)(C)(i)(II), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables. This chapter, referred to in subsec. (l)(1)(A), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
+### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+
+Section 104 of title 14 redesignated section 528 of title 14 by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 104 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding section 101 of Title 14, Coast Guard.

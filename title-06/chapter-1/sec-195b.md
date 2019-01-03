@@ -7,7 +7,7 @@ section: 195b
 
 # § 195b. National Biosurveillance Integration Center
 
-- **(a)** *Establishment* The Secretary shall establish, operate, and maintain a National Biosurveillance Integration Center (referred to in this section as the “NBIC”), which shall be headed by a Directing Officer, under an office or directorate of the Department that is in existence as of August 3, 2007.
+- **(a)** *Establishment* The Secretary, acting through the Assistant Secretary for the Countering Weapons of Mass Destruction Office, shall establish, operate, and maintain a National Biosurveillance Integration Center (referred to in this section as the “NBIC”), which shall be headed by a Directing Officer, under an office or directorate of the Department that is in existence as of August 3, 2007.
 - **(b)** *Primary mission* The primary mission of the NBIC is to—
   - **(1)** enhance the capability of the Federal Government to—
     - **(A)** rapidly identify, characterize, localize, and track a biological event of national concern by integrating and analyzing data relating to human health, animal, plant, food, and environmental monitoring systems (both national and international); and
@@ -64,11 +64,15 @@ section: 195b
 
 ## Source credit
 
-(Pub. L. 107–296, title III, § 316, as added Pub. L. 110–53, title XI, § 1101(a), Aug. 3, 2007, 121 Stat. 375.)
+(Pub. L. 107–296, title III, § 316, as added Pub. L. 110–53, title XI, § 1101(a), Aug. 3, 2007, 121 Stat. 375; amended Pub. L. 115–387, § 2(f)(2), Dec. 21, 2018, 132 Stat. 5168.)
 
 ## Notes
 
 1 So in original. No par. (2) has been enacted.
+
+### Amendments
+
+2018—Subsec. (a). Pub. L. 115–387 substituted “Secretary, acting through the Assistant Secretary for the Countering Weapons of Mass Destruction Office, shall” for “Secretary shall”.
 
 ### Deadline for Implementation
 

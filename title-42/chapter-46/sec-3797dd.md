@@ -11,4 +11,4 @@ section: 3797dd
 
 ### Codification
 
-Section 3797dd was editorially reclassified as section 10681 of Title 34, Crime Control and Law Enforcement.
+Section 3797dd was editorially reclassified as former section 10681 of Title 34, Crime Control and Law Enforcement.

@@ -5,13 +5,26 @@ chapter: 47
 section: 928b
 ---
 
-# § 928b. Art. 128b]
+# § 928b. Art. 128b. Domestic violence 11 Section catchline editorially supplied to correspond to item 928b in subchapter analysis, as amended by Pub. L. 115–232
+
+Any person who—
+
+- **(1)** commits a violent offense against a spouse, an intimate partner, or an immediate family member of that person;
+- **(2)** with intent to threaten or intimidate a spouse, an intimate partner, or an immediate family member of that person—
+  - **(A)** commits an offense under this chapter against any person; or
+  - **(B)** commits an offense under this chapter against any property, including an animal;
+- **(3)** with intent to threaten or intimidate a spouse, an intimate partner, or an immediate family member of that person, violates a protection order;
+- **(4)** with intent to commit a violent offense against a spouse, an intimate partner, or an immediate family member of that person, violates a protection order; or
+- **(5)** assaults a spouse, an intimate partner, or an immediate family member of that person by strangling or suffocating;
+shall be punished as a court-martial may direct.
+
+## Source credit
+
+(Added Pub. L. 115–232, div. A, title V, § 532(a)(1), Aug. 13, 2018, 132 Stat. 1759.)
 
 ## Notes
 
-### Codification
-
-For text of new section 928b as enacted by Pub. L. 115–232, see Amendment of Analysis and Subchapter note set out preceding section 877 of this title.
+1 Section catchline editorially supplied to correspond to item 928b in subchapter analysis, as amended by Pub. L. 115–232.
 
 ### Effective Date
 

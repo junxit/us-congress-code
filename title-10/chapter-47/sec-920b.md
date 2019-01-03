@@ -23,7 +23,7 @@ section: 920b
 - **(f)** *Marriage.—* In a prosecution under subsection (b) (sexual assault of a child) or subsection (c) (sexual abuse of a child), it is a defense, which the accused must prove by a preponderance of the evidence, that the persons engaging in the sexual act or lewd act were at that time married to each other, except where the accused commits a sexual act upon the person when the accused knows or reasonably should know that the other person is asleep, unconscious, or otherwise unaware that the sexual act is occurring or when the other person is incapable of consenting to the sexual act due to impairment by any drug, intoxicant, or other similar substance, and that condition was known or reasonably should have been known by the accused.
 - **(g)** *Consent.—* Lack of consent is not an element and need not be proven in any prosecution under this section. A child not legally married to the person committing the sexual act, lewd act, or use of force cannot consent to any sexual act, lewd act, or use of force.
 - **(h)** *Definitions.—* In this section:
-  - **(1)** *Sexual act and sexual contact.—* The terms “sexual act” and “sexual contact” have the meanings given those terms in section 920(g) of this title (article 120(g)).
+  - **(1)** *Sexual act and sexual contact.—* The terms “sexual act” and “sexual contact” have the meanings given those terms in section 920(g) of this title (article 120(g)), except that the term “sexual act” also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person.
   - **(2)** *Force.—* The term “force” means—
     - **(A)** the use of a weapon;
     - **(B)** the use of such physical strength or violence as is sufficient to overcome, restrain, or injure a child; or
@@ -41,10 +41,6 @@ section: 920b
 (Added Pub. L. 112–81, div. A, title V, § 541(b), Dec. 31, 2011, 125 Stat. 1407; amended Pub. L. 112–239, div. A, title X, § 1076(a)(3), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 114–328, div. E, title LX, § 5430(c), Dec. 23, 2016, 130 Stat. 2950.)
 
 ## Notes
-
-### Amendment of Subsection (h)(1)
-
-Pub. L. 114–328, div. E, title LX, § 5430(c), title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2950, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, subsection (h)(1) of this section is amended by inserting before the period at the end “, except that the term ‘sexual act’ also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person”. See 2016 Amendment note below. For text of this section after amendment on the effective date, see Amendment of Analysis and Subchapter note preceding section 877 of this title.
 
 ### Amendments
 

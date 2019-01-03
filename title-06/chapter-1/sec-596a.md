@@ -16,7 +16,7 @@ section: 596a
       - **(i)** evaluates the deployment and operation of nuclear or radiological detection technologies under the global nuclear detection architecture by that agency, office, or entity;
       - **(ii)** identifies performance deficiencies and operational or technical deficiencies in nuclear or radiological detection technologies deployed under the global nuclear detection architecture; and
       - **(iii)** assesses the capacity of that agency, office, or entity to implement the responsibilities of that agency, office, or entity under the global nuclear detection architecture; and
-    - **(C)** the Director of the Domestic Nuclear Detection Office and each of the relevant departments that are partners in the National Technical Forensics Center—
+    - **(C)** the Assistant Secretary and each of the relevant departments that are partners in the National Technical Forensics Center—
       - **(i)** include, as part of the assessments, evaluations, and reviews required under this paragraph, each office’s or department’s activities and investments in support of nuclear forensics and attribution activities and specific goals and objectives accomplished during the previous year pursuant to the national strategic five-year plan for improving the nuclear forensic and attribution capabilities of the United States required under section 1036 of the National Defense Authorization Act for Fiscal Year 2010;
       - **(ii)** attaches, as an appendix to the Joint Interagency Annual Review, the most current version of such strategy and plan; and
       - **(iii)** includes a description of new or amended bilateral and multilateral agreements and efforts in support of nuclear forensics and attribution activities accomplished during the previous year.
@@ -31,7 +31,7 @@ section: 596a
 
 ## Source credit
 
-(Pub. L. 107–296, title XIX, § 1907, as added Pub. L. 110–53, title XI, § 1103(a), Aug. 3, 2007, 121 Stat. 379; amended Pub. L. 111–140, § 4(b), Feb. 16, 2010, 124 Stat. 35.)
+(Pub. L. 107–296, title XIX, § 1927, as added Pub. L. 110–53, title XI, § 1103(a), Aug. 3, 2007, 121 Stat. 379; amended Pub. L. 111–140, § 4(b), Feb. 16, 2010, 124 Stat. 35; renumbered § 1927 and amended Pub. L. 115–387, § 2(a)(5), (9), Dec. 21, 2018, 132 Stat. 5163, 5164.)
 
 ## Notes
 
@@ -41,7 +41,7 @@ Section 1036 of the National Defense Authorization Act for Fiscal Year 2010, ref
 
 ### Amendments
 
-2010—Subsec. (a)(1)(C). Pub. L. 111–140 added subpar. (C).
+2018—Subsec. (a)(1)(C). Pub. L. 115–387, § 2(a)(9)(A), substituted “Assistant Secretary” for “Director of the Domestic Nuclear Detection Office” in introductory provisions. Subsec. (c). Pub. L. 115–387, § 2(a)(9)(B), made technical amendment to reference in original act which appears in text as reference to section 592 of this title. 2010—Subsec. (a)(1)(C). Pub. L. 111–140 added subpar. (C).
 
 ### Change of Name
 

@@ -27,9 +27,17 @@ section: 973h
     - **(C)** exercise any other lawful authority; and
     - **(D)** investigate alleged violations of the Treaty to the same extent authorized to investigate alleged violations of this chapter.
   - **(2)** To the extent possible, Authorized Officers shall exercise their powers under paragraph (1)(A)(ii), (iii), and (iv) of this subsection so as not to interfere unduly with the lawful operation of the vessel.
-  - **(3)** Nothing in this chapter shall be construed to limit the enforcement of this or other applicable Federal laws under section 89 of title 14.
+  - **(3)** Nothing in this chapter shall be construed to limit the enforcement of this or other applicable Federal laws under section 89 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
 - **(e)** *Exclusive jurisdiction* The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter.
 
 ## Source credit
 
 (Pub. L. 100–330, § 10, June 7, 1988, 102 Stat. 597.)
+
+## Notes
+
+1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below.
+
+### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+
+Section 89 of title 14 redesignated section 522 of title 14 by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 89 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding section 101 of Title 14, Coast Guard.

@@ -50,10 +50,15 @@ section: 657b
 - **(f)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section—
   - **(1)** $1,500,000 for fiscal year 2005; and
   - **(2)** $2,000,000 for fiscal year 2006.
+- **(g)** *Access to surplus property for veteran-owned small businesses*
+  - **(1)** *Definitions* In this subsection—
+    - **(A)** the term “foreign excess property” has the meaning given the term in section 102 of title 40; and
+    - **(B)** the term “state agency” has the meaning given the term, including the roles and responsibilities assigned, in section 549 of title 40.
+  - **(2)** *Requirement* The Administrator, in coordination with the Administrator of General Services, shall provide access to and manage the distribution of surplus property, and foreign excess property returned to a State for handling as surplus property, owned by the United States under chapter 7 of title 40, to small business concerns owned and controlled by veterans (as verified by the Secretary of Veterans Affairs under section 8127 of title 38) pursuant to a memorandum of agreement between the Administrator, the Administrator of General Services, and the head of the applicable state agency for surplus properties and in accordance with section 549 of title 40.
 
 ## Source credit
 
-(Pub. L. 85–536, § 2[32], as added Pub. L. 106–50, title II, § 201(b)(2), Aug. 17, 1999, 113 Stat. 235; amended Pub. L. 108–447, div. K, title I, § 145, Dec. 8, 2004, 118 Stat. 3455; Pub. L. 110–186, title I, §§ 102, 104, Feb. 14, 2008, 122 Stat. 624, 625.)
+(Pub. L. 85–536, § 2[32], as added Pub. L. 106–50, title II, § 201(b)(2), Aug. 17, 1999, 113 Stat. 235; amended Pub. L. 108–447, div. K, title I, § 145, Dec. 8, 2004, 118 Stat. 3455; Pub. L. 110–186, title I, §§ 102, 104, Feb. 14, 2008, 122 Stat. 624, 625; Pub. L. 115–416, § 2, Jan. 3, 2019, 132 Stat. 5436.)
 
 ## Notes
 
@@ -63,7 +68,7 @@ A prior section 2[32] of Pub. L. 85–536 was renumbered section 2[49] and is se
 
 ### Amendments
 
-2008—Subsec. (c). Pub. L. 110–186, § 102(2), added subsec. (c). Former subsec. (c) redesignated (f). Subsecs. (d), (e). Pub. L. 110–186, § 104, added subsecs. (d) and (e). Subsec. (f). Pub. L. 110–186, § 102(1), redesignated subsec. (c) as (f). 2004—Subsec. (c). Pub. L. 108–447 added subsec. (c).
+2019—Subsec. (g). Pub. L. 115–416 added subsec. (g). 2008—Subsec. (c). Pub. L. 110–186, § 102(2), added subsec. (c). Former subsec. (c) redesignated (f). Subsecs. (d), (e). Pub. L. 110–186, § 104, added subsecs. (d) and (e). Subsec. (f). Pub. L. 110–186, § 102(1), redesignated subsec. (c) as (f). 2004—Subsec. (c). Pub. L. 108–447 added subsec. (c).
 
 ### Congressional Findings
 
