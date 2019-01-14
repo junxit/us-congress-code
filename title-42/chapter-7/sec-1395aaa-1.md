@@ -44,7 +44,7 @@ section: 1395aaa–1
     - **(B)** using opioid measures described in subparagraph (A), as applicable, in the quality reporting requirements for inpatient hospitals under section 1395ww(b)(3)(B)(viii) of this title, and in the hospital value-based purchasing program under section 1395ww(o) of this title.
   - **(4)** *Prioritization of measure development* The Secretary shall prioritize for measure development the gaps in quality measures identified under paragraph (2)(B).
   - **(5)** *Prioritization of measure endorsement* The Secretary—
-    - **(A)** during the period beginning on October 24, 2018 and ending on December 31, 2023, shall prioritize the endorsement of measures relating to opioids and opioid use disorders by the entity with a contract under subsection (a) of section 1395aaa of this title in connection with endorsement of measures described in subsection (b)(2) of such section; and
+    - **(A)** during the period beginning on October 24, 2018, and ending on December 31, 2023, shall prioritize the endorsement of measures relating to opioids and opioid use disorders by the entity with a contract under subsection (a) of section 1395aaa of this title in connection with endorsement of measures described in subsection (b)(2) of such section; and
     - **(B)** on and after January 1, 2024, may prioritize the endorsement of such measures by such entity.
 
 ## Source credit

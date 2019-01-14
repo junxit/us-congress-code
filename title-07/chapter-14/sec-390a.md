@@ -17,7 +17,7 @@ section: 390a
     - **(C)** *National research priorities* The proposal shall demonstrate how the agricultural research facility would serve—
       - **(i)** 1 or more of the national research policies and priorities set forth in section 3101 of this title; and
       - **(ii)** national or multistate needs.
-    - **(D)** *Long-term support* The proposal shall demonstrate that the recipient college, university, or nonprofit institution has the ability and commitment to support the long-term, ongoing operating costs of—
+    - **(D)** *Long-term support* The proposal shall demonstrate that the recipient entity has the ability and commitment to support the long-term, ongoing operating and maintenance costs of—
       - **(i)** the agricultural research facility after the facility is completed; and
       - **(ii)** each program to be based at the facility.
 - **(d)** *Evaluation of proposals* Not later than 90 days after receiving a proposal under subsection (a), the Secretary shall—
@@ -27,7 +27,7 @@ section: 390a
 
 ## Source credit
 
-(Pub. L. 88–74, § 3, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1177; amended Pub. L. 105–185, title I, § 106(a), (b), June 23, 1998, 112 Stat. 530.)
+(Pub. L. 88–74, § 3, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1177; amended Pub. L. 105–185, title I, § 106(a), (b), June 23, 1998, 112 Stat. 530; Pub. L. 115–334, title VII, § 7503(a)(2), (b), Dec. 20, 2018, 132 Stat. 4821.)
 
 ## Notes
 
@@ -37,4 +37,4 @@ A prior section 390a, Pub. L. 88–74, § 2, July 22, 1963, 77 Stat. 90; Pub. L.
 
 ### Amendments
 
-1998—Subsec. (c)(2)(C)(ii). Pub. L. 105–185, § 106(a), substituted “national or multistate needs” for “regional needs”. Subsec. (e). Pub. L. 105–185, § 106(b), added subsec. (e).
+2018—Subsec. (c)(2)(D). Pub. L. 115–334, in introductory provisions, substituted “recipient entity” for “recipient college, university, or nonprofit institution” and “operating and maintenance costs” for “operating costs”. 1998—Subsec. (c)(2)(C)(ii). Pub. L. 105–185, § 106(a), substituted “national or multistate needs” for “regional needs”. Subsec. (e). Pub. L. 105–185, § 106(b), added subsec. (e).

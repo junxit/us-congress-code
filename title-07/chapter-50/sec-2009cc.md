@@ -10,13 +10,15 @@ section: 2009cc
 In this subchapter:
 
 - **(1)** *Articles* The term “articles” means articles of incorporation for an incorporated body or the functional equivalent or other similar documents specified by the Secretary for other business entities.
-- **(2)** *Developmental venture capital* The term “developmental venture capital” means capital in the form of equity capital investments in rural business investment companies with an objective of fostering economic development in rural areas.
+- **(2)** *Developmental capital* The term “developmental capital” means capital in the form of equity capital investments in rural business investment companies with an objective of fostering economic development in rural areas.
 - **(3)** *Employee welfare benefit plan; pension plan*
   - **(A)** *In general* The terms “employee welfare benefit plan” and “pension plan” have the meanings given the terms in section 1002 of title 29.
   - **(B)** *Inclusions* The terms “employee welfare benefit plan” and “pension plan” include—
     - **(i)** public and private pension or retirement plans subject to this subchapter; and
     - **(ii)** similar plans not covered by this subchapter that have been established, and that are maintained, by the Federal Government or any State (including by a political subdivision, agency, or instrumentality of the Federal Government or a State) for the benefit of employees.
-- **(4)** *Equity capital* The term “equity capital” means common or preferred stock or a similar instrument, including subordinated debt with equity features.
+- **(4)** *Equity capital* The term “equity capital” means—
+  - **(A)** common or preferred stock or a similar instrument, including subordinated debt with equity features; and
+  - **(B)** any other type of equity-like financing that might be necessary to facilitate the purposes of this Act, excluding financing such as senior debt or other types of financing that competes with routine loanmaking of commercial lenders.
 - **(5)** *Leverage* The term “leverage” includes—
   - **(A)** debentures purchased or guaranteed by the Secretary;
   - **(B)** participating securities purchased or guaranteed by the Secretary; and
@@ -62,4 +64,14 @@ In this subchapter:
 
 ## Source credit
 
-(Pub. L. 87–128, title III, § 384A, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 388.)
+(Pub. L. 87–128, title III, § 384A, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 388; amended Pub. L. 115–334, title VI, § 6426(a), Dec. 20, 2018, 132 Stat. 4770.)
+
+## Notes
+
+### References in Text
+
+This Act, referred to in par. (4)(B), means Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, known as the Agricultural Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables.
+
+### Amendments
+
+2018—Par. (2). Pub. L. 115–334, § 6426(a)(1), struck out “venture” after “Developmental” in heading and after “ ‘developmental” in text. Par. (4). Pub. L. 115–334, § 6426(a)(2), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The term ‘equity capital’ means common or preferred stock or a similar instrument, including subordinated debt with equity features.”

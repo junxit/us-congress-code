@@ -72,7 +72,7 @@ Section is comprised of section 2509 of Pub. L. 101–624. Subsec. (b) and anoth
 
 ### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under section 940d of Title 7, Agriculture.
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under section 1994 of Title 7, Agriculture.
 
 ### Report on Agricultural Quarantine Inspection Fund
 
