@@ -139,10 +139,6 @@ section: 1395ddd
 
 2 So in original. The word “shall” probably should not appear.
 
-### Applicability of Amendment
-
-Amendment of section by section 704(c)(1) of Pub. L. 114–198 applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after Jan. 1, 2019. See 2016 Amendment note below.
-
 ### References in Text
 
 Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title. Section 1395l(z) of this title, referred to in subsec. (h)(10)(A), probably means the subsec. (z) of section 1395l of this title which relates to medical review of spinal subluxation services and was added by Pub. L. 114–10, title V, § 514(a), Apr. 16, 2015, 129 Stat. 171. Section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (h)(10)(A), is section 514(b) of Pub. L. 114–10, which is set out as a note under section 1395l of this title. Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (j)(3)(B), is section 264(c) of Pub. L. 104–191, title II, Aug. 21, 1996, 110 Stat. 2033, which is set out as a note under section 1320d–2 of this title.

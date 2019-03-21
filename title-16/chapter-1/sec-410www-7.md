@@ -1,11 +1,11 @@
 ---
-identifier: /us/usc/t16/s460bbbb–7
+identifier: /us/usc/t16/s410www–7
 title: 16
 chapter: 1
-section: 460bbbb–7
+section: 410www–7
 ---
 
-# § 460bbbb–7. Submission of comprehensive general management plan
+# § 410www–7. Submission of comprehensive general management plan
 
 Within three complete fiscal years from the effective date of this Act, the Secretary shall submit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, a comprehensive general management plan for the historic site and the preservation district consistent with the provisions of this subchapter and pursuant to the provisions of section 12(b) 11 See References in Text note below. of the Act of August 18, 1970 (84 Stat. 825), as amended (16 U.S.C. la–1 et seq.).
 
@@ -23,7 +23,7 @@ The effective date of this Act, referred to in text, probably means the date of 
 
 ### Codification
 
-Pub. L. 115–108, which amended this subchapter by substituting references to the “historical park” for references to the “historic site”, effective Jan. 8, 2018, was not executed to this section in view of the requirement to submit the management plan for the historic site within three complete fiscal years from Oct. 10, 1980.
+Section was formerly classified to section 460bbbb–7 of this title. Pub. L. 115–108, which amended this subchapter by substituting references to the “historical park” for references to the “historic site”, effective Jan. 8, 2018, was not executed to this section in view of the requirement to submit the management plan for the historic site within three complete fiscal years from Oct. 10, 1980.
 
 ### Change of Name
 

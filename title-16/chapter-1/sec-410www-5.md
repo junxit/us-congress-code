@@ -1,11 +1,11 @@
 ---
-identifier: /us/usc/t16/s460bbbb–5
+identifier: /us/usc/t16/s410www–5
 title: 16
 chapter: 1
-section: 460bbbb–5
+section: 410www–5
 ---
 
-# § 460bbbb–5. Authorization of appropriations; limitation on authority
+# § 410www–5. Authorization of appropriations; limitation on authority
 
 Effective October 1, 1980, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter. Notwithstanding any other provision of this subchapter, authority to enter into contracts, to incur obligations, or to make payments under this subchapter shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.
 
@@ -14,6 +14,10 @@ Effective October 1, 1980, there are authorized to be appropriated such sums as 
 (Pub. L. 96–428, § 6, Oct. 10, 1980, 94 Stat. 1842; Pub. L. 102–575, title XL, § 4024(b), Oct. 30, 1992, 106 Stat. 4768.)
 
 ## Notes
+
+### Codification
+
+Section was formerly classified to section 460bbbb–5 of this title.
 
 ### Amendments
 

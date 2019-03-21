@@ -40,6 +40,6 @@ section: 950bb–6
 
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Rural Electrification Act of 1936 which comprises this chapter.
 
-### Definitions
+### Definition of “Secretary”
 
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under section 9001 of this title.

@@ -1,11 +1,11 @@
 ---
-identifier: /us/usc/t16/s460bbbb–3
+identifier: /us/usc/t16/s410www–3
 title: 16
 chapter: 1
-section: 460bbbb–3
+section: 410www–3
 ---
 
-# § 460bbbb–3. Establishment of Advisory Commission
+# § 410www–3. Establishment of Advisory Commission
 
 - **(a)** There is hereby established the Martin Luther King, Junior, National Historic Site Advisory Commission (hereinafter referred to in this section as the “Commission”). The Commission shall consist of thirteen members, eleven of whom shall be appointed by the Secretary as follows:
   - **(1)** three members appointed for terms of three years from recommendations submitted by the governing body of the Martin Luther King, Junior, Center for Social Change;
@@ -19,7 +19,7 @@ section: 460bbbb–3
   - **(1)** advise the Secretary with respect to the formulation and execution of plans for and the overall administration of the national historic site and the preservation district, including advice with respect to the consummation of cooperative agreements, and interpretation of properties, and the use and appreciation of the national historic site and the preservation district by the public;
   - **(2)** prepare a generalized impact area plan for a one-mile radius outside the District which shall examine overall community development goals, plans, and efforts within that area, including historic preservation, transportation, parking, housing, urban revitalization, and parks and recreation functions, in order to maximize beneficial relationships between these goals, plans, and efforts and the district herein established; and
   - **(3)** prepare, on the basis of the findings and recommendations of the impact area plan required by the preceding paragraph, a detailed development plan for the neighborhoods and outlying commercial areas immediately outside the district for such development, conservation, preservation, rehabilitation activities and transportation, parking, and land use planning as would complement and enhance the District and the purposes for which the District is established.
-- **(d)** The Secretary is directed to provide the appropriate planning agency of the city of Atlanta an amount of the local planning funds authorized by section 460bbbb–5 of this title sufficient for that agency to provide such staff and technical assistance to the Advisory Commission as are required for it to develop the plans required by subsection (c) of this section. Such plans, prepared in full coordination with and opportunities for participation by, all relevant public agencies and private groups, shall be delivered to the Secretary in a timely fashion for use in preparing the general management plan for the district.
+- **(d)** The Secretary is directed to provide the appropriate planning agency of the city of Atlanta an amount of the local planning funds authorized by section 410www–5 of this title sufficient for that agency to provide such staff and technical assistance to the Advisory Commission as are required for it to develop the plans required by subsection (c) of this section. Such plans, prepared in full coordination with and opportunities for participation by, all relevant public agencies and private groups, shall be delivered to the Secretary in a timely fashion for use in preparing the general management plan for the district.
 - **(e)** The Commission shall terminate ten years from the effective date of this Act.
 
 ## Source credit
@@ -34,4 +34,4 @@ The effective date of this Act, referred to in subsec. (e), probably means the d
 
 ### Codification
 
-Pub. L. 115–108, which amended this subchapter by substituting references to the Martin Luther King, Jr. National Historical Park for references to the Martin Luther King, Junior, National Historic Site, effective Jan. 8, 2018, was not executed to this section in view of the termination of the Martin Luther King, Junior, National Historic Site Advisory Commission ten years after Oct. 10, 1980, pursuant to subsec. (e) of this section.
+Section was formerly classified to section 460bbbb–3 of this title. Pub. L. 115–108, which amended this subchapter by substituting references to the Martin Luther King, Jr. National Historical Park for references to the Martin Luther King, Junior, National Historic Site, effective Jan. 8, 2018, was not executed to this section in view of the termination of the Martin Luther King, Junior, National Historic Site Advisory Commission ten years after Oct. 10, 1980, pursuant to subsec. (e) of this section.

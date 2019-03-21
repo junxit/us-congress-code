@@ -1,11 +1,11 @@
 ---
-identifier: /us/usc/t16/s460bbbb–2
+identifier: /us/usc/t16/s410www–2
 title: 16
 chapter: 1
-section: 460bbbb–2
+section: 410www–2
 ---
 
-# § 460bbbb–2. Authority of Secretary regarding property and concessions
+# § 410www–2. Authority of Secretary regarding property and concessions
 
 - **(a)** Within the national historical park, the Secretary may convey a freehold or leasehold interest in any property, for such sums as he deems appropriate, and subject to such terms and conditions and reservations as will assure the use of the property in a manner which is, in the judgment of the Secretary, consistent with the purposes of this subchapter and the administration of the national historical park. The Secretary shall offer the last owner or tenant of record a reasonable opportunity to purchase or lease, as appropriate, the property proposed to be conveyed prior to any conveyance under this subsection, and in the case of a lease to such tenant of record, the initial rental charge shall not be substantially more than the last rent paid by the tenant for that property, with any future increases not to exceed the general escalation of rental rates in the surrounding area.
 - **(b)** The Secretary may enter into cooperative agreements with the owners of properties of historical or cultural significance as determined by the Secretary, pursuant to which the Secretary may mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions that the Secretary shall have the right of access at reasonable times to public portions of the property for interpretive and other purposes, and that no changes or alterations shall be made in the property except by mutual agreement. The authorities in this subsection shall also be available to the Secretary with respect to properties within the Martin Luther King, Junior, Preservation District.
@@ -18,6 +18,10 @@ section: 460bbbb–2
 (Pub. L. 96–428, § 3, Oct. 10, 1980, 94 Stat. 1840; Pub. L. 115–108, § 2(3), (4), Jan. 8, 2018, 131 Stat. 2267.)
 
 ## Notes
+
+### Codification
+
+Section was formerly classified to section 460bbbb–2 of this title.
 
 ### Amendments
 

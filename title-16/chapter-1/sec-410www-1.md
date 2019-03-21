@@ -1,13 +1,13 @@
 ---
-identifier: /us/usc/t16/s460bbbb–1
+identifier: /us/usc/t16/s410www–1
 title: 16
 chapter: 1
-section: 460bbbb–1
+section: 410www–1
 ---
 
-# § 460bbbb–1. Administration
+# § 410www–1. Administration
 
-- **(a)** The Secretary of the Interior (hereinafter referred to as “the Secretary”) shall administer the Martin Luther King, Jr. National Historical Park and Preservation District in accordance with the provisions of this Act, and the provisions of law generally applicable to national historic sites,11 So in original. Probably should be “to the National Park System,”. including the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4) and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–7).
+- **(a)** The Secretary of the Interior (hereinafter referred to as “the Secretary”) shall administer the Martin Luther King, Jr. National Historical Park and Preservation District in accordance with the provisions of this subchapter, and the provisions of law generally applicable to national historic sites,11 So in original. Probably should be “to the National Park System,”. including the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4) and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–7).
 - **(b)**
   - **(1)** Within the national historical park the Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer, or exchange, lands and interests therein, except that property owned by the State of Georgia or any political subdivision thereof may be acquired only by donation or exchange.
   - **(2)** Notwithstanding the acquisition authority contained in paragraph (1), any lands or interests therein which are owned wholly or in part, by the widow of Martin Luther King, Junior, or by the Martin Luther King, Junior, Center for Social Change, shall be acquired only with the consent of the owner thereof, except that—
@@ -27,7 +27,11 @@ section: 460bbbb–1
 
 ### References in Text
 
-The Act of August 25, 1916, referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 35, popularly known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54. The Act of August 21, 1935, referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites, Buildings and Antiquities Act and also as the Historic Sites Act of 1935, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The Act of August 25, 1916, referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, popularly known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54. The Act of August 21, 1935, referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites, Buildings and Antiquities Act and also as the Historic Sites Act of 1935, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+### Codification
+
+Section was formerly classified to section 460bbbb–1 of this title.
 
 ### Amendments
 

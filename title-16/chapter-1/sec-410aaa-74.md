@@ -17,4 +17,4 @@ Any lands within the boundaries of a wilderness area designated under this Act w
 
 ### References in Text
 
-This Act, referred to in text, is defined in section 410aaa–81 of this title.
+This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under section 410aaa of this title.

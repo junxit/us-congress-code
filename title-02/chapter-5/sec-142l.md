@@ -19,4 +19,4 @@ From and after October 1, 1996, the Disbursing Officer of the Library of Congres
 
 ### Change of Name
 
-Office of Compliance changed, as of Dec. 21, 2018, and considered to refer and apply, to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as an Effective date of 2018 Amendment note under section 1381 of this title.
+Office of Compliance changed, as of Dec. 21, 2018, and considered to refer and apply, to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as an Effective Date of 2018 Amendment note under section 1381 of this title.

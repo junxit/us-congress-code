@@ -1,11 +1,11 @@
 ---
-identifier: /us/usc/t16/s460bbbb–6
+identifier: /us/usc/t16/s410www–6
 title: 16
 chapter: 1
-section: 460bbbb–6
+section: 410www–6
 ---
 
-# § 460bbbb–6. Minimizing adverse impacts on preservation district
+# § 410www–6. Minimizing adverse impacts on preservation district
 
 - **(a)** In order to better integrate the east and west portions of the Martin Luther King, Junior, Preservation District, the Federal Highway Administration, in cooperation with the Georgia Department of Transportation, is hereby directed to insure that any design and reconstruction of the North Interstate 85 and Interstate 75 Expressway over Auburn and Edgewood Avenues in the city of Atlanta, Georgia, and the interchange at Edgewood Avenue, shall minimize the adverse impacts on the preservation district.
 - **(b)** In carrying out the provisions of this subsection, the Federal Highway Administration shall require that, where feasible, any major change required for the Auburn Avenue overpass results in a design which permits a wider distance between overpass support structures and the disposition of understructure development rights for appropriate business or recreation uses.
@@ -14,3 +14,9 @@ section: 460bbbb–6
 ## Source credit
 
 (Pub. L. 96–428, § 7, Oct. 10, 1980, 94 Stat. 1842.)
+
+## Notes
+
+### Codification
+
+Section was formerly classified to section 460bbbb–6 of this title.

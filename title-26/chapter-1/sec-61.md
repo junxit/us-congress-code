@@ -15,14 +15,13 @@ section: 61
   - **(5)** Rents;
   - **(6)** Royalties;
   - **(7)** Dividends;
-  - **(8)** 11 See Amendment of Subsection (a) note below. Alimony and separate maintenance payments;
-  - **(9)** Annuities;
-  - **(10)** Income from life insurance and endowment contracts;
-  - **(11)** Pensions;
-  - **(12)** Income from discharge of indebtedness;
-  - **(13)** Distributive share of partnership gross income;
-  - **(14)** Income in respect of a decedent; and
-  - **(15)** Income from an interest in an estate or trust.
+  - **(8)** Annuities;
+  - **(9)** Income from life insurance and endowment contracts;
+  - **(10)** Pensions;
+  - **(11)** Income from discharge of indebtedness;
+  - **(12)** Distributive share of partnership gross income;
+  - **(13)** Income in respect of a decedent; and
+  - **(14)** Income from an interest in an estate or trust.
 - **(b)** *Cross references* For items specifically included in gross income, see part II (sec. 71 and following). For items specifically excluded from gross income, see part III (sec. 101 and following).
 
 ## Source credit
@@ -30,12 +29,6 @@ section: 61
 (Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 98–369, div. A, title V, § 531(c), July 18, 1984, 98 Stat. 884; Pub. L. 115–97, title I, § 11051(b)(1)(A), Dec. 22, 2017, 131 Stat. 2089.)
 
 ## Notes
-
-1 See Amendment of Subsection (a) note below.
-
-### Amendment of Subsection (a)
-
-Pub. L. 115–97, title I, § 11051(b)(1)(A), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, provided that, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, subsection (a) of this section is amended by striking par. (8) and redesignating pars. (9) to (15) as (8) to (14), respectively. See 2017 Amendment note below.
 
 ### Amendments
 

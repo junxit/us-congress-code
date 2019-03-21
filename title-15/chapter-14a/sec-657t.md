@@ -15,9 +15,17 @@ section: 657t
 - **(c)** *Director*
   - **(1)** *In general* The Office shall be headed by the Director of the Office of Credit Risk Management (in this section referred to as the “Director”), who shall be a career appointee in the Senior Executive Service (as defined in section 3132 of title 5).
   - **(2)** *Duties* The Director shall be responsible for oversight of the lenders and participants described in subsection (b), including by conducting periodic reviews of the compliance and performance of such lenders and participants.
-- **(d)** *Supervision duties for 7(a) lenders* With respect to 7(a) lenders, an employee of the Office shall—
-  - **(1)** be present for and supervise any such review that is conducted by a contractor of the Office on the premise of the 7(a) lender; and
-  - **(2)** supervise any such review that is not conducted on the premise of the 7(a) lender.
+- **(d)** *Supervision duties for 7(a) lenders*
+  - **(1)** *Reviews* With respect to 7(a) lenders, an employee of the Office shall—
+    - **(A)** be present for and supervise any such review that is conducted by a contractor of the Office on the premise 11 So in original. Probably should be “premises”. of the 7(a) lender; and
+    - **(B)** supervise any such review that is not conducted on the premise 1 of the 7(a) lender.
+  - **(2)** *Review report timeline*
+    - **(A)** *In general* Notwithstanding any other requirements of the Office or the Administrator, the Administrator shall develop and implement a review report timeline which shall—
+      - **(i)** require the Administrator to—
+        - **(I)** deliver a written report of the review to the 7(a) lender not later than 60 business days after the date on which the review is concluded; or
+        - **(II)** if the Administrator expects to submit the report after the end of the 60-day period described in clause (i), notify the 7(a) lender of the expected date of submission of the report and the reason for the delay; and
+      - **(ii)** if a response by the 7(a) lender is requested in a report submitted under subparagraph (A), require the 7(a) lender to submit responses to the Administrator not later than 45 business days after the date on which the 7(a) lender receives the report.
+    - **(B)** *Extension* The Administrator may extend the time frame described in subparagraph (A)(i)(II) with respect to a 7(a) lender as the Administrator determines necessary.
 - **(e)** *Enforcement authority against 7(a) lenders*
   - **(1)** *Informal enforcement authority* The Director may take an informal enforcement action against a 7(a) lender if the Director finds that the 7(a) lender has violated a statutory or regulatory requirement under section 7(a) [15 U.S.C. 636(a)] or any requirement in a Standard Operating Procedures Manual or Policy Notice related to a program or function of the Office of Capital Access.
   - **(2)** *Formal enforcement authority*
@@ -54,9 +62,7 @@ section: 657t
 
 ## Notes
 
-### Amendment of Subsection (d)
-
-Pub. L. 115–189, § 3(b), June 21, 2018, 132 Stat. 1495, provided that, effective Jan. 1, 2019, subsection (d) of this section is amended to read as follows: (d) Supervision duties for 7(a) lenders (1) Reviews With respect to 7(a) lenders, an employee of the Office shall— (A) be present for and supervise any such review that is conducted by a contractor of the Office on the premise of the 7(a) lender; and (B) supervise any such review that is not conducted on the premise of the 7(a) lender. (2) Review report timeline (A) In general Notwithstanding any other requirements of the Office or the Administrator, the Administrator shall develop and implement a review report timeline which shall— (i) require the Administrator to— (I) deliver a written report of the review to the 7(a) lender not later than 60 business days after the date on which the review is concluded; or (II) if the Administrator expects to submit the report after the end of the 60-day period described in clause (i), notify the 7(a) lender of the expected date of submission of the report and the reason for the delay; and (ii) if a response by the 7(a) lender is requested in a report submitted under subparagraph (A), require the 7(a) lender to submit responses to the Administrator not later than 45 business days after the date on which the 7(a) lender receives the report. (B) Extension The Administrator may extend the time frame described in subparagraph (A)(i)(II) with respect to a 7(a) lender as the Administrator determines necessary. See 2018 Amendment note below.
+1 So in original. Probably should be “premises”.
 
 ### Prior Provisions
 

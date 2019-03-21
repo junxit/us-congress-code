@@ -18,12 +18,12 @@ section: 3
         - **(I)** about prohibitions against retaliation for protected disclosures; and
         - **(II)** who have made or are contemplating making a protected disclosure about the rights and remedies against retaliation for protected disclosures, including—
           - **(aa)** the means by which employees may seek review of any allegation of reprisal, including the roles of the Office of the Inspector General, the Office of Special Counsel, the Merit Systems Protection Board, and any other relevant entities; and
-          - **(bb)** general information about the timeliness of such cases, the availability of any alternative dispute mechanisms, and avenues for potential relief.
+          - **(bb)** general information about the timeliness of such cases, the availability of any alternative dispute mechanisms, and avenues for potential relief.11 So in original. The period probably should be a semicolon.
       - **(ii)** assist the Inspector General in promoting the timely and appropriate handling and consideration of protected disclosures and allegations of reprisal, to the extent practicable, by the Inspector General; and
       - **(iii)** assist the Inspector General in facilitating communication and coordination with the Special Counsel, the Council of the Inspectors General on Integrity and Efficiency, the establishment, Congress, and any other relevant entity regarding the timely and appropriate handling and consideration of protected disclosures, allegations of reprisal, and general matters regarding the implementation and administration of whistleblower protection laws, rules, and regulations.
   - **(2)** The Whistleblower Protection Coordinator shall not act as a legal representative, agent, or advocate of the employee or former employee.
   - **(3)** The Whistleblower Protection Coordinator shall have direct access to the Inspector General as needed to accomplish the requirements of this subsection.
-  - **(4)** For the purposes of this section, the requirement of the designation of a Whistleblower Protection Ombudsman under paragraph (1)(C) shall not apply to—
+  - **(4)** For the purposes of this section, the requirement of the designation of a Whistleblower Protection Ombudsman 22 So in original. Probably should be “Coordinator”. under paragraph (1)(C) shall not apply to—
     - **(A)** any agency that is an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)) [50 U.S.C. 3003(4)]); or
     - **(B)** as determined by the President, any executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counter intelligence activities.
 - **(e)** The annual rate of basic pay for an Inspector General (as defined under section 12(3)) shall be the rate payable for level III of the Executive Schedule under section 5314 of title 5, United States Code, plus 3 percent.
@@ -35,6 +35,10 @@ section: 3
 (Pub. L. 95–452, § 3, Oct. 12, 1978, 92 Stat. 1101; Pub. L. 110–409, §§ 3(a), 4(a)(1), 5, 6(a), Oct. 14, 2008, 122 Stat. 4302, 4305; Pub. L. 112–199, title I, § 117(a), Nov. 27, 2012, 126 Stat. 1474; Pub. L. 114–317, § 7(d)(3)(A), Dec. 16, 2016, 130 Stat. 1606; Pub. L. 115–192, § 2(a), June 25, 2018, 132 Stat. 1502.)
 
 ## Notes
+
+1 So in original. The period probably should be a semicolon.
+
+2 So in original. Probably should be “Coordinator”.
 
 ### Amendments
 

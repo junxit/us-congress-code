@@ -20,4 +20,4 @@ section: 410aaa–76
 
 ### References in Text
 
-Section 204 of this Act, referred to in subsec. (a), is section 204 of Pub. L. 103–433, title II, Oct. 31, 1994, 108 Stat. 4485, which is not classified to the Code. This Act, referred to in subsecs. (a), (c), and (d), is defined in section 410aaa–81 of this title.
+Section 204 of this Act, referred to in subsec. (a), is section 204 of Pub. L. 103–433, title II, Oct. 31, 1994, 108 Stat. 4485, which is not classified to the Code. This Act, referred to in subsecs. (a), (c), and (d), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under section 410aaa of this title.
