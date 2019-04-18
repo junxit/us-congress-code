@@ -282,9 +282,9 @@ section: 1397dd
       - **(i)** the sum of—
         - **(I)** the amount made available under subsection (a)(18)(A); and
         - **(II)** the amount of the appropriation for such period under section 108 of the Children’s Health Insurance Program Reauthorization Act of 2009; to
-      - **(ii)** the sum of the—
+      - **(ii)** the sum of the 3 —
         - **(I)** amount described in clause (i); and
-        - **(II)** the amount made available under subsection (a)(18)(B).
+        - **(II)** the 3 amount made available under subsection (a)(18)(B).
   - **(4)** *For fiscal year 2017*
     - **(A)** *First half* Subject to paragraphs (5) and (7), from the amount made available under subparagraph (A) of paragraph (20) of subsection (a) for the semi-annual period described in such paragraph, increased by the amount of the appropriation for such period under section 301(b)(3) of the Medicare Access and CHIP Reauthorization Act of 2015, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for such semi-annual period in an amount equal to the first half ratio (described in subparagraph (D)) of the amount described in subparagraph (C).
     - **(B)** *Second half* Subject to paragraphs (5) and (7), from the amount made available under subparagraph (B) of paragraph (20) of subsection (a) for the semi-annual period described in such paragraph, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for such semi-annual period in an amount equal to the amount made available under such subparagraph, multiplied by the ratio of—
