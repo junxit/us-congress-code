@@ -1,11 +1,11 @@
 ---
-identifier: /us/usc/t18/s23.1
+identifier: /us/usc/t18/s23
 title: 18
 chapter: 1
-section: 23.1
+section: 23
 ---
 
-# § 23.1. Court of the United States defined
+# § 23. Court of the United States defined
 
 As used in this title, except where otherwise expressly provided 22 So in original. Probably should be followed by a comma. the term “court of the United States” includes the District Court of Guam, the District Court for the Northern Mariana Islands, and the District Court of the Virgin Islands.
 
