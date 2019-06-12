@@ -30,7 +30,7 @@ section: 166a
     - **(B)** *Format* On the Website, CRS Reports shall be searchable, sortable, and downloadable, including downloadable in bulk.
     - **(C)** *Free access* Notwithstanding any other provision of law, the Librarian of Congress may not charge a fee for access to the Website.
   - **(2)** *Updates; disclaimer* The Librarian of Congress, in consultation with the CRS Director, shall ensure that the Website—
-    - **(A)** is updated contemporaneously, automatically, and electronically to include each new or updated CRS Report released on or after March 23, 2018;
+    - **(A)** is updated contemporaneously, automatically, and electronically to include each new or updated CRS Report released on or after the effective date of this section;
     - **(B)** shows the status of each CRS Report as new, updated, or archived; and
     - **(C)** displays the following statement in reference to the CRS Reports included on the Website: “These documents were prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff to congressional committees and Members of Congress. It operates solely at the behest of and under the direction of Congress. Information in a CRS Report should not be relied upon for purposes other than public understanding of information that has been provided by CRS to Members of Congress in connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not subject to copyright protection in the United States. Any CRS Report may be reproduced and distributed in its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or material from a third party, you may need to obtain the permission of the copyright holder if you wish to copy or otherwise use copyrighted material.”.
   - **(3)** *Furnishing of necessary information and technology* The CRS Director shall consult with and provide assistance to the Librarian of Congress to ensure—
@@ -81,7 +81,7 @@ section: 166a
 
 ### References in Text
 
-The effective date of this Act and such effective date, referred to in subsec. (a)(2)(B)(ii), probably means the date of enactment of div. I of Pub. L. 115–141, which was approved Mar. 23, 2018. Pursuant to 2 U.S.C. 136–1, referred to in subsec. (a)(3)(D), probably means pursuant to section 2 of Pub. L. 114–86, Nov. 5, 2015, 129 Stat. 675, which is classified to section 136–1 of this title. For the amendments made by this section, referred to in subsec. (f)(1), (2)(C), see Codification note below.
+The effective date of this Act and such effective date, referred to in subsec. (a)(2)(B)(ii), are the date of enactment of div. I of Pub. L. 115–141, which was approved Mar. 23, 2018. For the effective date of this section, see subsec. (f) of this section. 2 U.S.C. 136–1, referred to in subsec. (a)(3)(D), was so in the original, but probably should have been a reference to section 2 of the Librarian of Congress Succession Modernization Act of 2015, Pub. L. 114–86, which is classified to section 136–1 of this title. For the amendments made by this section, referred to in subsec. (f)(1), (2)(C), see Codification note below.
 
 ### Codification
 
