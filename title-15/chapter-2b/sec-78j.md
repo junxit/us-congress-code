@@ -26,10 +26,6 @@ Rules promulgated under subsection (b) that prohibit fraud, manipulation, or ins
 
 1 So in original. Probably should be followed by a comma.
 
-### Amendment of Section
-
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 ### Amendments
 
 2010—Pub. L. 111–203, § 762(d)(3)(B), which directed amendment of the matter following subsection (b) “by striking ‘(as defined in section 206B of the Gramm-Leach-Bliley Act), in each place that such terms appear’ ”, was executed by striking out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreements” in two places in concluding provisions following subsec. (c) to reflect the probable intent of Congress. Subsec. (a)(1). Pub. L. 111–203, § 929L(2), substituted “other than a government security” for “registered on a national securities exchange”. Subsec. (b). Pub. L. 111–203, § 762(d)(3)(A), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act),” after “securities-based swap agreement”. Subsec. (c). Pub. L. 111–203, § 984(a), which directed amendment of this section by adding subsec. (c) at the end, was executed by adding subsec. (c) after subsec. (b) to reflect the probable intent of Congress. 2000—Pub. L. 106–554, § 1(a)(5) [title III, § 303(d)(2)], inserted concluding provisions at end. Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title II, § 206(g)], designated existing provisions as par. (1) and added par. (2). Subsec. (b). Pub. L. 106–554, § 1(a)(5) [title III, § 303(d)(1)], inserted “or any securities-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act),” before “any manipulative or deceptive device”.

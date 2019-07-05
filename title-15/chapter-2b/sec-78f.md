@@ -146,10 +146,6 @@ section: 78f
 
 1 See References in Text note below.
 
-### Amendment of Section
-
-Unless otherwise provided, amendments by subtitle A (§§ 711–754) and subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of either subtitle A or B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A or B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 ### References in Text
 
 This chapter, referred to in subsecs. (b) to (e), (g)(4)(A), (h)(3)(G), (7)(C)(ii), and (i), was in the original “this title”. This chapter, referred to in subsec. (h)(6), was in the original “this Act”. See References in Text note set out under section 78a of this title. The Investment Company Act of 1940, referred to in subsec. (b)(10)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables. The Commodity Exchange Act, referred to in subsecs. (g)(1)(A) and (h)(6), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. Section 1a(2) of Title 7 was redesignated section 1a(6) by Pub. L. 111–203, title VII, § 721(a)(1), July 21, 2010, 124 Stat. 1658. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables. Subsection (k) of section 78q of this title, referred to in subsec. (g)(4)(A)(iv), was redesignated subsec. (j) by Pub. L. 111–203, title VI, § 617(a)(2), July 21, 2010, 124 Stat. 1616.

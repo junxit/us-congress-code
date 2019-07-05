@@ -10,7 +10,7 @@ section: 824b
 - **(a)** *Authorization*
   - **(1)** No public utility shall, without first having secured an order of the Commission authorizing it to do so—
     - **(A)** sell, lease, or otherwise dispose of the whole of its facilities subject to the jurisdiction of the Commission, or any part thereof of a value in excess of $10,000,000;
-    - **(B)** merge or consolidate, directly or indirectly, such facilities or any part thereof with those of any other person, by any means whatsoever;
+    - **(B)** merge or consolidate, directly or indirectly, its facilities subject to the jurisdiction of the Commission, or any part thereof, with the facilities of any other person, or any part thereof, that are subject to the jurisdiction of the Commission and have a value in excess of $10,000,000, by any means whatsoever;
     - **(C)** purchase, acquire, or take any security with a value in excess of $10,000,000 of any other public utility; or
     - **(D)** purchase, lease, or otherwise acquire an existing generation facility—
       - **(i)** that has a value in excess of $10,000,000; and
@@ -32,10 +32,6 @@ section: 824b
 (June 10, 1920, ch. 285, pt. II, § 203, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 849; amended Pub. L. 109–58, title XII, § 1289(a), Aug. 8, 2005, 119 Stat. 982; Pub. L. 115–247, §§ 1, 2, Sept. 28, 2018, 132 Stat. 3152.)
 
 ## Notes
-
-### Amendment of Subsection (a)(1)(B)
-
-Pub. L. 115–247, §§ 1, 3, Sept. 28, 2018, 132 Stat. 3152, provided that, effective 180 days after Sept. 28, 2018, subsection (a)(1) of this section is amended by striking subparagraph (B) and inserting the following: “(B) merge or consolidate, directly or indirectly, its facilities subject to the jurisdiction of the Commission, or any part thereof, with the facilities of any other person, or any part thereof, that are subject to the jurisdiction of the Commission and have a value in excess of $10,000,000, by any means whatsoever;”. See 2018 Amendment note below.
 
 ### References in Text
 

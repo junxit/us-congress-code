@@ -43,10 +43,6 @@ section: 77b
 
 1 So in original.
 
-### Amendment of Section
-
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 ### References in Text
 
 The Investment Company Act of 1940, referred to in subsec. (a)(15)(i), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables. The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(15)(i), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.

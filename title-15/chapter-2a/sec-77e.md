@@ -23,10 +23,6 @@ section: 77e
 
 ## Notes
 
-### Amendment of Section
-
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 ### Amendments
 
 2012—Subsecs. (d), (e). Pub. L. 112–106 added subsec. (d) and redesignated former subsec. (d) as (e). 2010—Subsec. (d). Pub. L. 111–203 added subsec. (d). 1954—Subsec. (a)(1). Act Aug. 10, 1954, struck out “or offer to buy” after “to sell”. Subsec. (b). Act Aug. 10, 1954, in par. (1) substituted “with respect to which a registration statement has been filed” for “registered” and in par. (2) omitted “to” after “to carry or” and inserted “subsection (a) of” before “section 77j of this title”. Subsec. (c). Act Aug. 10, 1954, added subsec. (c). 1934—Act June 6, 1934, repealed subsec. (c), the provisions of which were replaced by section 77c(a)(11) of this title.

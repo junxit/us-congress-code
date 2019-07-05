@@ -23,10 +23,6 @@ section: 77q
 
 1 See References in Text note below.
 
-### Amendment of Section
-
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 ### References in Text
 
 Section 78c(a)(78) of this title, referred to in subsec. (a), was in the original “section 3(a)(78) of the Securities Exchange Act”, and was translated as meaning section 3(a)(78) of act June 6, 1934, ch. 404, to reflect the probable intent of Congress.

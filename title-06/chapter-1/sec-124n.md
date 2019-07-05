@@ -17,7 +17,7 @@ section: 124n
     - **(E)** Seize or otherwise confiscate the unmanned aircraft system or unmanned aircraft.
     - **(F)** Use reasonable force, if necessary, to disable, damage, or destroy the unmanned aircraft system or unmanned aircraft.
   - **(2)** *Required coordination* The Secretary and the Attorney General shall develop for their respective Departments the actions described in paragraph (1) in coordination with the Secretary of Transportation.
-  - **(3)** *Research, testing, training, and evaluation* The Secretary and the Attorney General shall conduct research, testing, 11 So in original. Probably should be followed by “and”. training on, and evaluation of any equipment, including any electronic equipment, to determine its capability and utility prior to the use of any such technology for any action described in subsection (b)(1).
+  - **(3)** *Research, testing, training, and evaluation* The Secretary and the Attorney General shall conduct research, testing, training on, and evaluation of any equipment, including any electronic equipment, to determine its capability and utility prior to the use of any such technology for any action described in subsection (b)(1).
   - **(4)** *Coordination* The Secretary and the Attorney General shall coordinate with the Administrator of the Federal Aviation Administration when any action authorized by this section might affect aviation safety, civilian aviation and aerospace operations, aircraft airworthiness, or the use of the airspace.
 - **(c)** *Forfeiture* Any unmanned aircraft system or unmanned aircraft described in subsection (a) that is seized by the Secretary or the Attorney General is subject to forfeiture to the United States.
 - **(d)** *Regulations and guidance*
@@ -28,7 +28,7 @@ section: 124n
 - **(e)** *Privacy protection* The regulations or guidance issued to carry out actions authorized under subsection (b) by each Secretary or the Attorney General, as the case may be, shall ensure that—
   - **(1)** the interception or acquisition of, or access to, or maintenance or use of, communications to or from an unmanned aircraft system under this section is conducted in a manner consistent with the First and Fourth Amendments to the Constitution of the United States and applicable provisions of Federal law;
   - **(2)** communications to or from an unmanned aircraft system are intercepted or acquired only to the extent necessary to support an action described in subsection (b)(1);
-  - **(3)** records of such communications are maintained only for as long as necessary, and in no event for more than 180 days, unless the Secretary of Homeland Security or the Attorney General determine 22 So in original. Probably should be “determines”. that maintenance of such records is necessary to investigate or prosecute a violation of law, directly support an ongoing security operation, is required under Federal law, or for the purpose of any litigation;
+  - **(3)** records of such communications are maintained only for as long as necessary, and in no event for more than 180 days, unless the Secretary of Homeland Security or the Attorney General determine 11 So in original. Probably should be “determines”. that maintenance of such records is necessary to investigate or prosecute a violation of law, directly support an ongoing security operation, is required under Federal law, or for the purpose of any litigation;
   - **(4)** such communications are not disclosed outside the Department of Homeland Security or the Department of Justice unless the disclosure—
     - **(A)** is necessary to investigate or prosecute a violation of law;
     - **(B)** would support the Department of Defense, a Federal law enforcement agency, or the enforcement activities of a regulatory agency of the Federal Government in connection with a criminal or civil investigation of, or any regulatory, statutory, or other enforcement action relating to an action described in subsection (b)(1);
@@ -45,7 +45,7 @@ section: 124n
     - **(C)** a description of the guidance, policies, or procedures established to address privacy, civil rights, and civil liberties issues implicated by the actions allowed under this section, as well as any changes or subsequent efforts that would significantly affect privacy, civil rights or civil liberties;
     - **(D)** a description of options considered and steps taken to mitigate any identified impacts to the national airspace system related to the use of any system or technology, including the minimization of the use of any technology that disrupts the transmission of radio or electronic signals, for carrying out the actions described in subsection (b)(1);
     - **(E)** a description of instances in which communications intercepted or acquired during the course of operations of an unmanned aircraft system were held for more than 180 days or shared outside of the Department of Justice or the Department of Homeland Security;
-    - **(F)** how the Secretary, the Attorney General, and the Secretary of Transportation have informed the public as to the possible use of authorities under this section; 1
+    - **(F)** how the Secretary, the Attorney General, and the Secretary of Transportation have informed the public as to the possible use of authorities under this section; 22 So in original. Probably should be followed by “and”.
     - **(G)** how the Secretary, the Attorney General, and the Secretary of Transportation have engaged with Federal, State, and local law enforcement agencies to implement and use such authorities.
   - **(4)** *Unclassified form* Each briefing required under paragraph (1) shall be in unclassified form, but may be accompanied by an additional classified briefing.
   - **(5)** *Notification* Within 30 days of deploying any new technology to carry out the actions described in subsection (b)(1), the Secretary and the Attorney General shall, respectively, submit a notification to the appropriate congressional committees. Such notification shall include a description of options considered to mitigate any identified impacts to the national airspace system related to the use of any system or technology, including the minimization of the use of any technology that disrupts the transmission of radio or electronic signals, for carrying out the actions described in subsection (b)(1).
@@ -80,7 +80,7 @@ section: 124n
         - **(I)** protection of a National Special Security Event and Special Event Assessment Rating event;
         - **(II)** the provision of support to State, local, territorial, or tribal law enforcement, upon request of the chief executive officer of the State or territory, to ensure protection of people and property at mass gatherings, that is limited to a specified timeframe and location, within available resources, and without delegating any authority under this section to State, local, territorial, or tribal law enforcement; or
         - **(III)** protection of an active Federal law enforcement investigation, emergency response, or security function, that is limited to a specified timeframe and location; and 33 So in original. Probably should be “or”.
-      - **(iv)** missions authorized to be performed by the United States Coast Guard, including those described in clause (iii) as directed by the Secretary, and as further set forth in section 104 44 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, and consistent with governing statutes, regulations, and orders issued by the Secretary of the Department in which the Coast Guard is operating.
+      - **(iv)** missions authorized to be performed by the United States Coast Guard, including those described in clause (iii) as directed by the Secretary, and as further set forth in section 104 44 See References in Text note below. of title 14, and consistent with governing statutes, regulations, and orders issued by the Secretary of the Department in which the Coast Guard is operating.
   - **(4)** The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meaning 55 So in original. Probably should be “meanings”. given those terms in section 2510 of title 18.
   - **(5)** The term “homeland security or justice budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary and the Attorney General in support of the budget for that fiscal year.
   - **(6)** For purposes of subsection (a), the term “personnel” means officers and employees of the Department of Homeland Security or the Department of Justice.
@@ -108,13 +108,13 @@ section: 124n
 
 ## Notes
 
-1 So in original. Probably should be followed by “and”.
+1 So in original. Probably should be “determines”.
 
-2 So in original. Probably should be “determines”.
+2 So in original. Probably should be followed by “and”.
 
 3 So in original. Probably should be “or”.
 
-4 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below.
+4 See References in Text note below.
 
 5 So in original. Probably should be “meanings”.
 
@@ -124,8 +124,4 @@ section: 124n
 
 ### References in Text
 
-The Presidential Protection Assistance Act of 1976, referred to in subsec. (k)(3)(C)(i)(II), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables. This chapter, referred to in subsec. (l)(1)(A), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
-
-### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-
-Section 104 of title 14 redesignated section 528 of title 14 by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 104 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding section 101 of Title 14, Coast Guard.
+The Presidential Protection Assistance Act of 1976, referred to in subsec. (k)(3)(C)(i)(II), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables. Section 104 of title 14, referred to in subsec. (k)(3)(C)(iv), was redesignated section 528 of title 14 by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 104 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard. This chapter, referred to in subsec. (l)(1)(A), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.

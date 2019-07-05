@@ -7,7 +7,7 @@ section: 27
 
 # § 27. Taxes of foreign countries and possessions of the United States
 
-The amount of taxes imposed by foreign countries and possessions of the United States shall be allowed as a credit against the tax imposed by this chapter to the extent provided in section 901 11 So in original.
+The amount of taxes imposed by foreign countries and possessions of the United States shall be allowed as a credit against the tax imposed by this chapter to the extent provided in section 901 11 So in original. Probably should be followed by a period.
 
 ## Source credit
 
@@ -15,7 +15,7 @@ The amount of taxes imposed by foreign countries and possessions of the United S
 
 ## Notes
 
-1 So in original.
+1 So in original. Probably should be followed by a period.
 
 ### Amendments
 

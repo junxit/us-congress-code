@@ -43,10 +43,6 @@ section: 78u–2
 
 1 So in original. The semicolon probably should be a period.
 
-### Amendment of Section
-
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 ### References in Text
 
 The Securities Act of 1933, referred to in subsec. (a)(1)(A), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables. The Investment Company Act of 1940, referred to in subsec. (a)(1)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables. The Investment Advisers Act of 1940, referred to in subsec. (a)(1)(A), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80b–20 of this title and Tables. This chapter, referred to in subsec. (a)(1)(A), (C), (2), was in the original “this title”. See References in Text note set out under section 78a of this title.

@@ -67,10 +67,6 @@ section: 78bb
 
 1 See References in Text note below.
 
-### Amendment of Section
-
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 ### References in Text
 
 This chapter, referred to in subsecs. (a) to (c) and (e), was in the original “this title”. See References in Text note set out under section 78a of this title. The Securities Act of 1933, referred to in subsec. (f)(5)(E), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. Section 4(2) of the Act was redesignated section 4(a)(2) by Pub. L. 112–106, title II, § 201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314, and is classified to section 77d(a)(2) of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.

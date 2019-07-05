@@ -312,7 +312,7 @@ A prior section 41, added Pub. L. 97–34, title III, § 331(a), Aug. 13, 1981, 
 
 ### Effective Date of 2018 Amendment
 
-Amendment by section 101(c)(3) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
+Amendment by section 101(c) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
 
 ### Effective Date of 2017 Amendment
 

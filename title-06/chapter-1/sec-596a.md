@@ -31,7 +31,7 @@ section: 596a
 
 ## Source credit
 
-(Pub. L. 107–296, title XIX, § 1927, as added Pub. L. 110–53, title XI, § 1103(a), Aug. 3, 2007, 121 Stat. 379; amended Pub. L. 111–140, § 4(b), Feb. 16, 2010, 124 Stat. 35; renumbered § 1927 and amended Pub. L. 115–387, § 2(a)(5), (9), Dec. 21, 2018, 132 Stat. 5163, 5164.)
+(Pub. L. 107–296, title XIX, § 1927, formerly § 1907, as added Pub. L. 110–53, title XI, § 1103(a), Aug. 3, 2007, 121 Stat. 379; amended Pub. L. 111–140, § 4(b), Feb. 16, 2010, 124 Stat. 35; renumbered § 1927 and amended Pub. L. 115–387, § 2(a)(5), (9), Dec. 21, 2018, 132 Stat. 5163, 5164.)
 
 ## Notes
 

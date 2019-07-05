@@ -57,10 +57,6 @@ section: 78u–1
 
 1 See References in Text note below.
 
-### Amendment of Section
-
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 ### References in Text
 
 This chapter, referred to in subsecs. (a) and (d)(4), (5), was in the original “this title”, and this chapter, referred to in subsecs. (g)(1) and (h)(1), was in the original “this Act”. See References in Text note set out under section 78a of this title. Subsec. (f) of section 78o of this title, referred to in subsec. (b)(1)(B), was redesignated (g) by Pub. L. 111–203, title IX, § 929X(c)(1), July 21, 2010, 124 Stat. 1870. Section 10 of the STOCK Act, referred to in subsecs. (g)(1) and (h)(1), is section 10 of Pub. L. 112–105, which is set out as a note under section 101 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees. Section 109 of the Ethics in Government Act of 1978, referred to in subsecs. (g)(2)(B)(ii) and (h)(2)(B), (C), is section 109 of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees. Section 101(f) of the Ethics in Government Act of 1978, referred to in subsec. (i), is section 101(f) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -91,4 +87,4 @@ Pub. L. 100–704, § 2, Nov. 19, 1988, 102 Stat. 4677, provided that: “The Co
 
 ### Commission Recommendations for Additional Civil Penalty Authority Required
 
-Pub. L. 100–704, § 3(c), Nov. 19, 1988, 102 Stat. 4680, provided that: “The Securities and Exchange Commission shall, within 60 days after the date of enactment of this Act [Nov. 19, 1988], submit to each House of the Congress any recommendations the Commission considers appropriate with respect to the extension of the Commission’s authority to seek civil penalties or impose administrative fines for violations other than those described in section 21A of the Securities Exchange Act of 1934 [15 U.S.C. 78u–1] (as added by this section).”
+Pub. L. 100–704, § 3(c), Nov. 19, 1988, 102 Stat. 4680, provided that the Securities and Exchange Commission should, within 60 days after Nov. 19, 1988, submit to Congress any recommendations the Commission considers appropriate with respect to the extension of the Commission’s authority to seek civil penalties or impose administrative fines for violations other than those described in this section.

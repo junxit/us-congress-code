@@ -40,12 +40,12 @@ section: 360bbb–3a
 - **(e)** *Emergency use instructions*
   - **(1)** *In general* The Secretary, acting through an appropriate official within the Department of Health and Human Services, may create and issue emergency use instructions to inform health care providers or individuals to whom an eligible product is to be administered concerning such product’s approved, licensed, or cleared conditions of use.
   - **(2)** *Effect* Notwithstanding any other provisions of this chapter or the Public Health Service Act [42 U.S.C. 201 et seq.], a product shall not be considered an unapproved product and shall not be deemed adulterated or misbranded under this chapter because of the issuance of emergency use instructions under paragraph (1) with respect to such product or the introduction or delivery for introduction of such product into interstate commerce accompanied by such instructions—
-    - **(A)** during an emergency response to an actual emergency that is the basis for a determination described in subsection (a)(1)(C)(i); or
+    - **(A)** during an emergency response to an actual emergency that is the basis for a determination described in subsection (a)(1)(C); or
     - **(B)** by a government entity (including a Federal, State, local, or tribal government entity), or a person acting on behalf of such a government entity, in preparation for an emergency response.
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 564A, as added Pub. L. 113–5, title III, § 302(b), Mar. 13, 2013, 127 Stat. 183; amended Pub. L. 114–255, div. A, title III, § 3088(c), Dec. 13, 2016, 130 Stat. 1149.)
+(June 25, 1938, ch. 675, § 564A, as added Pub. L. 113–5, title III, § 302(b), Mar. 13, 2013, 127 Stat. 183; amended Pub. L. 114–255, div. A, title III, § 3088(c), Dec. 13, 2016, 130 Stat. 1149; Pub. L. 116–22, title VII, § 705(c), June 24, 2019, 133 Stat. 964.)
 
 ## Notes
 
@@ -55,4 +55,4 @@ The Public Health Service Act, referred to in subsecs. (b)(3), (c)(2), and (e)(2
 
 ### Amendments
 
-2016—Subsec. (a)(1)(A). Pub. L. 114–255, § 3088(c)(1), inserted “, conditionally approved under section 360ccc of this title,” after “subchapter”. Subsec. (d). Pub. L. 114–255, § 3088(c)(2), substituted “subsections (b) and (f) of section 353, section 354, and section 360j(e) of this title” for “sections 353(b) and 360j(e) of this title” in introductory provisions.
+2019—Subsec. (e)(2)(A). Pub. L. 116–22 substituted “subsection (a)(1)(C)” for “subsection (a)(1)(C)(i)”. 2016—Subsec. (a)(1)(A). Pub. L. 114–255, § 3088(c)(1), inserted “, conditionally approved under section 360ccc of this title,” after “subchapter”. Subsec. (d). Pub. L. 114–255, § 3088(c)(2), substituted “subsections (b) and (f) of section 353, section 354, and section 360j(e) of this title” for “sections 353(b) and 360j(e) of this title” in introductory provisions.

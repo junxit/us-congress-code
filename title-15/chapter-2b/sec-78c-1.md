@@ -22,10 +22,6 @@ section: 78c–1
 
 ## Notes
 
-### Amendment of Section
-
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 ### References in Text
 
 This chapter, referred to in subsec. (b)(2) to (4), was in the original “this title”. See References in Text note set out under section 78a of this title.

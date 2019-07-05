@@ -49,10 +49,6 @@ section: 78i
 
 1 So in original. Two subsecs. (j) have been enacted.
 
-### Amendment of Section
-
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 ### References in Text
 
 The Commodity Exchange Act, referred to in subsec. (h)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.

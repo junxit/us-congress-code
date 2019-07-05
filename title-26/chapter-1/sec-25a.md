@@ -32,7 +32,7 @@ section: 25A
 - **(c)** *Lifetime Learning Credit*
   - **(1)** *Per taxpayer credit* The Lifetime Learning Credit for any taxpayer for any taxable year is an amount equal to 20 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year (for education furnished during any academic period beginning in such taxable year) as does not exceed $10,000.
   - **(2)** *Special rules for determining expenses*
-    - **(A)** *Coordination with American Opportunity Tax Credit* The qualified tuition and related expenses with respect to an individual who is an eligible student for whom a American Opportunity Tax Credit under subsection (a)(1) is allowed for the taxable year shall not be taken into account under this subsection.
+    - **(A)** *Coordination with American Opportunity Tax Credit* The qualified tuition and related expenses with respect to an individual who is an eligible student for whom a 11 So in original. Probably should be “an”. American Opportunity Tax Credit under subsection (a)(1) is allowed for the taxable year shall not be taken into account under this subsection.
     - **(B)** *Expenses eligible for Lifetime Learning Credit* For purposes of paragraph (1), qualified tuition and related expenses shall include expenses described in subsection (f)(1) with respect to any course of instruction at an eligible educational institution to acquire or improve job skills of the individual.
 - **(d)** *Limitations based on modified adjusted gross income*
   - **(1)** *American Opportunity Tax Credit* The American Opportunity Tax Credit (determined without regard to this paragraph) shall be reduced (but not below zero) by the amount which bears the same ratio to such credit (as so determined) as—
@@ -84,7 +84,7 @@ section: 25A
     - **(A)** such dollar amount, multiplied by
     - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2000” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(2)** *Rounding* If any amount as adjusted under paragraph (1) is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
-- **(i)** *Portion of American Opportunity Tax Credit made refundable* Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph 11 So in original. Probably should be “this subsection”. and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
+- **(i)** *Portion of American Opportunity Tax Credit made refundable* Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph 22 So in original. Probably should be “this subsection”. and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
 - **(j)** *Regulations* The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.
 
 ## Source credit
@@ -93,7 +93,9 @@ section: 25A
 
 ## Notes
 
-1 So in original. Probably should be “this subsection”.
+1 So in original. Probably should be “an”.
+
+2 So in original. Probably should be “this subsection”.
 
 ### Inflation Adjusted Items for Certain Years
 
