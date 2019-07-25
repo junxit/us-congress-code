@@ -15,3 +15,9 @@ The term “crime of violence” means—
 ## Source credit
 
 (Added Pub. L. 98–473, title II, § 1001(a), Oct. 12, 1984, 98 Stat. 2136.)
+
+## Notes
+
+### Constitutionality
+
+For information regarding constitutionality of this section, as added by section 1001(a) of Pub. L. 98–473, see Government Publishing Office, The Constitution of the United States of America: Analysis and Interpretation, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States, 2018 Supplement, prepared by the Congressional Research Service.
