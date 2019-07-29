@@ -5,7 +5,7 @@ chapter: 47
 section: 857a
 ---
 
-# § 857a. Repealed. Pub. L. 114–328, div. E, title LVIII, § 5302(b)(1), Dec. 23, 2016, 130 Stat. 2923
+# § 857a. Repealed. Pub. L. 114–328, div. E, title LVIII, § 5302(b)(1), Dec. 23, 2016, 130 Stat. 2923]
 
 ## Notes
 

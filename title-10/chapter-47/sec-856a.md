@@ -5,7 +5,7 @@ chapter: 47
 section: 856a
 ---
 
-# § 856a. Repealed. Pub. L. 114–328, div. E, title LVIII, § 5301(b), Dec. 23, 2016, 130 Stat. 2920
+# § 856a. Repealed. Pub. L. 114–328, div. E, title LVIII, § 5301(b), Dec. 23, 2016, 130 Stat. 2920]
 
 ## Notes
 

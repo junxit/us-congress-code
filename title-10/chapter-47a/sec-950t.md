@@ -67,4 +67,4 @@ Prior sections 950t to 950w were omitted in the general amendment of this chapte
 
 ### Amendments
 
-2018—Par. (9). Pub. L. 115–232, § 1081(a)(12)(A), substituted “attack, or” for “attack. or”. Par. (16). Pub. L. 115–232, § 1081(a)(12)(B), substituted “shall be punished” for “shall punished”. Par. (22). Pub. L. 115–232, § 1081(a)(12)(C), added period at end.
+2018—Par. (9). Pub. L. 115–232, § 1081(a)(12)(A), substituted “attack, or” for “attack. or”. Par. (16). Pub. L. 115–232, § 1081(a)(12)(B), substituted “shall be punished” for “shall punished”. Par. (22). Pub. L. 115–232, § 1081(a)(12)(C), inserted period at end.

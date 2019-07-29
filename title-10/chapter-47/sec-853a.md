@@ -29,10 +29,6 @@ section: 853a
 
 ## Notes
 
-### Delayed Effective Date
-
-For delayed effective date of section, see Effective Date note below.
-
 ### Amendments
 
 2017—Subsec. (b)(4), (5). Pub. L. 115–91, § 531(d)(1), added pars. (4) and (5). Subsec. (d). Pub. L. 115–91, § 1081(c)(1)(H), which directed substitution of “court-martial” for “military judge” the second place it appeared, could not be executed because of the prior amendment by Pub. L. 115–91, § 531(d)(2). See below. Pub. L. 115–91, § 531(d)(2), substituted “shall bind the parties and the court-martial” for “shall bind the parties and the military judge”.
@@ -43,4 +39,4 @@ Amendment by section 531(d) of Pub. L. 115–91 effective immediately after the 
 
 ### Effective Date
 
-Section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as an Effective Date of 2016 Amendment note under section 801 of this title.
+Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. 13825, set out as notes under section 801 of this title.
