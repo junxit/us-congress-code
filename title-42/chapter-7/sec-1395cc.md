@@ -30,7 +30,7 @@ section: 1395cc
       - **(iii)** to maintain a list of physicians who are on call for duty after the initial examination to provide treatment necessary to stabilize an individual with an emergency medical condition,
     - **(J)** in the case of hospitals which provide inpatient hospital services for which payment may be made under this subchapter, to be a participating provider of medical care under any health plan contracted for under section 1079 or 1086 of title 10, or under section 1713 11 See References in Text note below. of title 38, in accordance with admission practices, payment methodology, and amounts as prescribed under joint regulations issued by the Secretary and by the Secretaries of Defense and Transportation, in implementation of sections 1079 and 1086 of title 10,
     - **(K)** not to charge any individual or any other person for items or services for which payment under this subchapter is denied under section 1320c–3(a)(2) of this title by reason of a determination under section 1320c–3(a)(1)(B) of this title,
-    - **(L)** in the case of hospitals which provide inpatient hospital services for which payment may be made under this subchapter, to be a participating provider of medical care under section 1703 of title 38, in accordance with such admission practices, and such payment methodology and amounts, as are prescribed under joint regulations issued by the Secretary and by the Secretary of Veterans Affairs in implementation of such section,
+    - **(L)** in the case of hospitals which provide inpatient hospital services for which payment may be made under this subchapter, to be a participating provider of medical care under chapter 17 of title 38, in accordance with such admission practices, and such payment methodology and amounts, as are prescribed under joint regulations issued by the Secretary and by the Secretary of Veterans Affairs in implementation of such section,
     - **(M)** in the case of hospitals, to provide to each individual who is entitled to benefits under part A (or to a person acting on the individual’s behalf), at or about the time of the individual’s admission as an inpatient to the hospital, a written statement (containing such language as the Secretary prescribes consistent with this paragraph) which explains—
       - **(i)** the individual’s rights to benefits for inpatient hospital services and for post-hospital services under this subchapter,
       - **(ii)** the circumstances under which such an individual will and will not be liable for charges for continued stay in the hospital,
@@ -219,10 +219,6 @@ section: 1395cc
 5 So in original. Probably should refer to section 1395i–3(c)(1)(E).
 
 6 So in original. Probably should be a comma.
-
-### Amendment of Subsection (a)(1)(L)
-
-Pub. L. 115–182, title I, § 144(a)(2), (b), June 6, 2018, 132 Stat. 1430, provided that, effective on the date described in section 101(b) of Pub. L. 115–182, set out as an Effective Date of 2018 Amendment note under section 1703 of Title 38, Veterans’ Benefits, subsection (a)(1)(L) of this section is amended by striking “under section 603” and inserting “under chapter 17”. See 2018 Amendment note below.
 
 ### References in Text
 

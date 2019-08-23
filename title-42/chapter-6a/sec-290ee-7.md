@@ -48,7 +48,7 @@ section: 290ee–7
   - **(1)** the programs and activities funded by the grant;
   - **(2)** health outcomes of the population of individuals with a substance use disorder who received services from the Center, evaluated by an independent program evaluator through the use of outcomes measures, as determined by the Secretary;
   - **(3)** the retention rate of program participants; and
-  - **(4)** any other information that the Secretary may require for the purpose of—ensuring that the Center is complying with all the requirements of the grant, including providing the full continuum of services described in subsection (g)(1)(B).
+  - **(4)** any other information that the Secretary may require for the purpose of—ensuring 11 So in original. that the Center is complying with all the requirements of the grant, including providing the full continuum of services described in subsection (g)(1)(B).
 - **(i)** *Privacy* The provisions of this section, including with respect to data reporting and program oversight, shall be subject to all applicable Federal and State privacy laws.
 - **(j)** *Authorization of appropriations* There is authorized to be appropriated $10,000,000 for each of fiscal years 2019 through 2023 for purposes of carrying out this section.
 
@@ -57,6 +57,8 @@ section: 290ee–7
 (July 1, 1944, ch. 373, title V, § 552, as added Pub. L. 115–271, title VII, § 7121(a), Oct. 24, 2018, 132 Stat. 4043.)
 
 ## Notes
+
+1 So in original.
 
 ### References in Text
 

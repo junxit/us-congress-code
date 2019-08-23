@@ -118,7 +118,7 @@ section: 629g
     - **(E)** How using the electronic interstate case-processing system has affected administrative costs and caseworker time spent on placing children across State lines.
   - **(6)** *Data integration* The Secretary, in consultation with the Secretariat for the Interstate Compact on the Placement of Children and the States, shall assess how the electronic interstate case-processing system developed pursuant to paragraph (4) could be used to better serve and protect children that come to the attention of the child welfare system, by—
     - **(A)** connecting the system with other data systems (such as systems operated by State law enforcement and judicial agencies, systems operated by the Federal Bureau of Investigation for the purposes of the Innocence Lost National Initiative, and other systems);
-    - **(B)** simplifying and improving reporting related to paragraphs (34) and (35) of section 671(a) of this title regarding children or youth who have been identified as being a sex trafficking victim or children missing from foster care; and
+    - **(B)** simplifying and improving reporting related to paragraphs (34) and (35) of section 671(a) of this title regarding children or youth who have been identified as being a sex trafficking victim 22 So in original. Probably should be “being sex trafficking victims”. or children missing from foster care; and
     - **(C)** improving the ability of States to quickly comply with background check requirements of section 671(a)(20) of this title, including checks of child abuse and neglect registries as required by section 671(a)(20)(B) of this title.
 
 ## Source credit
@@ -128,6 +128,8 @@ section: 629g
 ## Notes
 
 1 So in original. Probably should be “subsection”.
+
+2 So in original. Probably should be “being sex trafficking victims”.
 
 ### References in Text
 
