@@ -19,9 +19,9 @@ section: 58c
   - **(7)** For each customs broker permit held by an individual, partnership, association, or corporate customs broker, $125 per year.
   - **(8)** For the arrival of a barge or other bulk carrier from Canada or Mexico, $100.
   - **(9)**
-    - **(A)** For the processing of merchandise that is formally entered or released during any fiscal year, a fee in an amount equal to 0.21 percent ad valorem, unless adjusted under subparagraph (B).
+    - **(A)** For the processing of merchandise that is formally entered or released during any fiscal year, a fee in an amount equal to 0.21 11 See Rates for Merchandise Processing Fees notes below. percent ad valorem, unless adjusted under subparagraph (B).
     - **(B)**
-      - **(i)** The Secretary of the Treasury may adjust the ad valorem rate specified in subparagraph (A) to an ad valorem rate (but not to a rate of more than 0.21 percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would, if charged, offset the salaries and expenses that will likely be incurred by the Customs Service in the processing of such entries and releases during the fiscal year in which such costs are incurred.
+      - **(i)** The Secretary of the Treasury may adjust the ad valorem rate specified in subparagraph (A) to an ad valorem rate (but not to a rate of more than 0.21 1 percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would, if charged, offset the salaries and expenses that will likely be incurred by the Customs Service in the processing of such entries and releases during the fiscal year in which such costs are incurred.
       - **(ii)** In determining the amount of any adjustment under clause (i), the Secretary of the Treasury shall take into account whether there is a surplus or deficit in the fund established under subsection (f) with respect to the provision of customs services for the processing of formal entries and releases of merchandise.
       - **(iii)** An adjustment may not be made under clause (i) with respect to the fee charged during any fiscal year unless the Secretary of the Treasury—
         - **(I)** not later than 45 days after the date of the enactment of the Act providing full-year appropriations for the Customs Service for that fiscal year, publishes in the Federal Register a notice of intent to adjust the fee under this paragraph and the amount of such adjustment;
@@ -215,7 +215,7 @@ section: 58c
     - **(D)** Nothing in this paragraph shall be construed to preclude the use of appropriated funds, from sources other than the fees collected under subsection (a), to pay the costs set forth in clauses (i), (ii), and (iii) of subparagraph (A).
   - **(4)**
     - **(A)** There is created within the general fund of the Treasury a separate account that shall be known as the “Customs Commercial and Homeland Security Automation Account”. In each of fiscal years 2003, 2004, and 2005 there shall be deposited into the Account from fees collected under subsection (a)(9)(A), $350,000,000.
-    - **(B)** There is authorized to be appropriated from the Account in fiscal years 2016 through 2018 not less than $153,736,000 to complete the development and implementation, establishment, and implementation 11 So in original. of the Automated Commercial Environment computer system for the processing of merchandise that is entered or released and for other purposes related to the functions of the Department of Homeland Security. Amounts appropriated pursuant to this subparagraph are authorized to remain available until expended.
+    - **(B)** There is authorized to be appropriated from the Account in fiscal years 2016 through 2018 not less than $153,736,000 to complete the development and implementation, establishment, and implementation 22 So in original. of the Automated Commercial Environment computer system for the processing of merchandise that is entered or released and for other purposes related to the functions of the Department of Homeland Security. Amounts appropriated pursuant to this subparagraph are authorized to remain available until expended.
     - **(C)** In adjusting the fee imposed by subsection (a)(9)(A) for fiscal year 2006, the Secretary of the Treasury shall reduce the amount estimated to be collected in fiscal year 2006 by the amount by which total fees deposited to the Account during fiscal years 2003, 2004, and 2005 exceed total appropriations from that Account.
   - **(5)** Of the amounts collected in fiscal year 1999 under paragraphs (9) and (10) of subsection (a), $50,000,000 shall be available to the Customs Service, subject to appropriations Acts, for automated commercial systems. Amounts made available under this paragraph shall remain available until expended.
 - **(g)** *Regulations and enforcement*
@@ -229,7 +229,7 @@ section: 58c
   - **(3)**
     - **(A)** Fees may not be charged under paragraphs (9) and (10) of subsection (a) after September 30, 2029.
     - **(B)**
-      - **(i)** Subject to clause (ii), Fees 22 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2029.
+      - **(i)** Subject to clause (ii), Fees 33 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2029.
       - **(ii)** In fiscal year 2006 and in each succeeding fiscal year for which fees under paragraphs (1) through (8) of subsection (a) are authorized—
         - **(I)** the Secretary of the Treasury shall charge fees under each such paragraph in amounts that are reasonably related to the costs of providing customs services in connection with the activity or item for which the fee is charged under such paragraph, except that in no case may the fee charged under any such paragraph exceed by more than 10 percent the amount otherwise prescribed by such paragraph;
         - **(II)** the amount of fees collected under such paragraphs may not exceed, in the aggregate, the amounts paid in that fiscal year for the costs described in subsection (f)(3)(A) incurred in providing customs services in connection with the activity or item for which the fees are charged under such paragraphs;
@@ -249,9 +249,11 @@ section: 58c
 
 ## Notes
 
-1 So in original.
+1 See Rates for Merchandise Processing Fees notes below.
 
-2 So in original. Probably should not be capitalized.
+2 So in original.
+
+3 So in original. Probably should not be capitalized.
 
 ### Amendment of Section
 
@@ -371,7 +373,7 @@ Pub. L. 114–94, div. C, title XXXII, § 32201(b), Dec. 4, 2015, 129 Stat. 1738
 
 ### Rates for Merchandise Processing Fees
 
-Pub. L. 112–40, § 2, Oct. 21, 2011, 125 Stat. 402, provided that: “For the period beginning on October 1, 2011, and ending on June 30, 2014, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(a)(9)) shall be applied and administered— “(1) in subparagraph (A), by substituting ‘0.3464’ for ‘0.21’; and “(2) in subparagraph (B)(i), by substituting ‘0.3464’ for ‘0.21’.” Pub. L. 112–40, title II, § 262, Oct. 21, 2011, 125 Stat. 426, provided that: “(a) Fees for Period From July 1, 2014, to November 30, 2015.—For the period beginning on July 1, 2014, and ending on November 30, 2015, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(a)(9)) shall be applied and administered—“(1) in subparagraph (A), by substituting ‘0.3464’ for ‘0.21’; and “(2) in subparagraph (B)(i), by substituting ‘0.3464’ for ‘0.21’. “(b) Fees for Period From October 1, 2016, to September 30, 2019.—For the period beginning on October 1, 2016, and ending on September 30, 2019, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(a)(9)) shall be applied and administered—“(1) in subparagraph (A), by substituting ‘0.1740’ for ‘0.21’; and “(2) in subparagraph (B)(i), by substituting ‘0.1740’ for ‘0.21’.” [For additional application and administration of subsec. (a)(9) of this section for period beginning on Dec. 1, 2015, and ending on June 30, 2021, see section 503 of Pub. L. 112–41, set out in a note under section 3805 of this title.]
+Pub. L. 112–40, § 2, Oct. 21, 2011, 125 Stat. 402, provided that: “For the period beginning on October 1, 2011, and ending on June 30, 2014, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(a)(9)) shall be applied and administered— “(1) in subparagraph (A), by substituting ‘0.3464’ for ‘0.21’; and “(2) in subparagraph (B)(i), by substituting ‘0.3464’ for ‘0.21’.” Pub. L. 112–40, title II, § 262, Oct. 21, 2011, 125 Stat. 426, provided that: “(a) Fees for Period From July 1, 2014, to November 30, 2015.—For the period beginning on July 1, 2014, and ending on November 30, 2015, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(a)(9)) shall be applied and administered—“(1) in subparagraph (A), by substituting ‘0.3464’ for ‘0.21’; and “(2) in subparagraph (B)(i), by substituting ‘0.3464’ for ‘0.21’. “(b) Fees for Period From October 1, 2016, to September 30, 2019.—For the period beginning on October 1, 2016, and ending on September 30, 2019, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(a)(9)) shall be applied and administered—“(1) in subparagraph (A), by substituting ‘0.1740’ for ‘0.21’; and “(2) in subparagraph (B)(i), by substituting ‘0.1740’ for ‘0.21’.” [For additional application and administration of subsec. (a)(9) of this section for period beginning on Dec. 1, 2015, and ending on Sept. 30, 2029, see section 503 of Pub. L. 112–41, set out in a note under section 3805 of this title.]
 
 ### Time for Remitting Certain Merchandise Processing Fees
 
