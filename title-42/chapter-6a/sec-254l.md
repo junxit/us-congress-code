@@ -32,7 +32,7 @@ section: 254l
     - **(B)** the Secretary, in considering applications from individuals accepted for enrollment or enrolled in dental school, shall consider applications from all individuals accepted for enrollment or enrolled in any accredited dental school in a State; and
     - **(C)** may 11 So in original. consider such other factors regarding the applicants as the Secretary determines to be relevant to selecting qualified individuals to participate in such Program.
   - **(2)** In providing contracts under the Scholarship Program, the Secretary shall give priority—
-    - **(A)** first, to any application for such a contract submitted by an individual who has previously received a scholarship under this section or under section 294z 1 of this title;
+    - **(A)** first, to any application for such a contract submitted by an individual who has previously received a scholarship under this section or under section 294z 22 See References in Text note below. of this title;
     - **(B)** second, to any application for such a contract submitted by an individual who has characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) is completed; and
     - **(C)** third, subject to subparagraph (B), to any application for such a contract submitted by an individual who is from a disadvantaged background.
 - **(e)** *Commencement of participation in Scholarship Program; notice*
@@ -54,7 +54,7 @@ section: 254l
   - **(4)** such other statements of the rights and liabilities of the Secretary and of the individual, not inconsistent with the provisions of this subpart.
 - **(g)** *Scholarship provisions; contract with educational institution; increase in monthly stipend*
   - **(1)** A scholarship provided to a student for a school year under a written contract under the Scholarship Program shall consist of—
-    - **(A)** payment to, or (in accordance with paragraph (2)) on behalf of, the student of the amount (except as provided in section 292k 22 See References in Text note below. of this title) of—
+    - **(A)** payment to, or (in accordance with paragraph (2)) on behalf of, the student of the amount (except as provided in section 292k 2 of this title) of—
       - **(i)** the tuition of the student in such school year; and
       - **(ii)** all other reasonable educational expenses, including fees, books, and laboratory expenses, incurred by the student in such school year; and
     - **(B)** payment to the student of a stipend of $400 per month (adjusted in accordance with paragraph (3)) for each of the 12 consecutive months beginning with the first month of such school year.
