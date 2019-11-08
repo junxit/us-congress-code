@@ -16,7 +16,7 @@ section: 1397bb
   - **(6)** outreach activities consistent with subsection (c); and
   - **(7)** methods (including monitoring) used—
     - **(A)** to assure the quality and appropriateness of care, particularly with respect to well-baby care, well-child care, and immunizations provided under the plan;
-    - **(B)** to assure access to covered services, including emergency services and services described in section 1397cc(c)(5) of this title; and
+    - **(B)** to assure access to covered services, including emergency services and services described in paragraphs (5) and (6) of section 1397cc(c) of this title; and
     - **(C)** to ensure that the State agency involved is in compliance with subparagraphs (A), (B), and (C) of section 1320a–7n(b)(2) of this title.
 - **(b)** *General description of eligibility standards and methodology*
   - **(1)** *Eligibility standards*
@@ -50,10 +50,6 @@ section: 1397bb
 ## Notes
 
 1 See References in Text note below.
-
-### Amendment of Subsection (a)(7)(B)
-
-Pub. L. 115–271, title V, § 5022(c), (e), Oct. 24, 2018, 132 Stat. 3964, 3965, provided that, effective with respect to child health assistance provided on or after the date that is 1 year after Oct. 24, 2018, with exception if State legislation required, subsection (a)(7)(B) of this section is amended by striking “section 1397cc(c)(5)” and inserting “paragraphs (5) and (6) of section 1397cc(c)”. See 2018 Amendment note below.
 
 ### References in Text
 

@@ -23,7 +23,7 @@ In this subchapter:
   - **(C)** does not constitute information blocking as defined in section 300jj–52(a) of this title.
 - **(10)** *Laboratory* The term “laboratory” has the meaning given such term in section 263a(a) of this title.
 - **(11)** *National Coordinator* The term “National Coordinator” means the head of the Office of the National Coordinator for Health Information Technology established under section 300jj–11(a) of this title.
-- **(12)** *Pharmacist* The term “pharmacist” has the meaning given such term in section 384(2) of title 21.
+- **(12)** *Pharmacist* The term “pharmacist” has the meaning given such term in section 384(2) 33 So in original. Probably should be “(a)(2)”. of title 21.
 - **(13)** *Qualified electronic health record* The term “qualified electronic health record” means an electronic record of health-related information on an individual that—
   - **(A)** includes patient demographic and clinical health information, such as medical history and problem lists; and
   - **(B)** has the capacity—
@@ -31,7 +31,7 @@ In this subchapter:
     - **(ii)** to support physician order entry;
     - **(iii)** to capture and query information relevant to health care quality; and
     - **(iv)** to exchange electronic health information with, and integrate such information from other sources.
-- **(15)** *33 So in original. There is no par. (14). State* The term “State” means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
+- **(15)** *44 So in original. There is no par. (14). State* The term “State” means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
 ## Source credit
 
@@ -43,7 +43,9 @@ In this subchapter:
 
 2 So in original. Probably should be followed by a period.
 
-3 So in original. There is no par. (14).
+3 So in original. Probably should be “(a)(2)”.
+
+4 So in original. There is no par. (14).
 
 ### References in Text
 
