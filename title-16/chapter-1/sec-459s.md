@@ -7,7 +7,7 @@ section: 459s
 
 # § 459s. Lands for certain projects added to certain projects
 
-After June 6, 1942, the lands acquired for the Acadia, French Creek, Shenandoah, and White Sands recreational demonstration projects shall be added to and become a part of Acadia National Park, Hopewell Village National Historic Site, Shenandoah National Park, and White Sands National Monument, in the order named above, subject to all laws, rules, and regulations applicable to the respective areas to which such recreational demonstration projects are added.
+After June 6, 1942, the lands acquired for the Acadia, French Creek, Shenandoah, and White Sands recreational demonstration projects shall be added to and become a part of Acadia National Park, Hopewell Village National Historic Site, Shenandoah National Park, and White Sands National Monument,11 See Change of Name note below. in the order named above, subject to all laws, rules, and regulations applicable to the respective areas to which such recreational demonstration projects are added.
 
 ## Source credit
 
@@ -15,9 +15,19 @@ After June 6, 1942, the lands acquired for the Acadia, French Creek, Shenandoah,
 
 ## Notes
 
+1 See Change of Name note below.
+
 ### Codification
 
 Proviso directing the Secretary of the Interior to file with the National Archives within six months after June 6, 1942, a map of each recreational demonstration project enumerated in the section has been omitted as executed.
+
+### Change of Name
+
+White Sands National Monument abolished, and White Sands National Park established, by Pub. L. 116–92, div. B, title XXVIII, § 2851, Dec. 20, 2019, 133 Stat. 1895, which is classified to section 410dddd of this title and which provides that any reference to White Sands National Monument shall be considered to be a reference to
+
+### Change of Name
+
+White Sands National Monument abolished, and White Sands National Park established, by Pub. L. 116–92, div. B, title XXVIII, § 2851, Dec. 20, 2019, 133 Stat. 1895, which is classified to section 410dddd of this title and which provides that any reference to the White Sands National Monument shall be considered to be a reference to the White Sands National Park.White Sands National Park.
 
 ### Hopewell Village Boundary Revision
 

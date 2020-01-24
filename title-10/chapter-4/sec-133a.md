@@ -10,7 +10,7 @@ section: 133a
 - **(a)** *Under Secretary of Defense.—* There is an Under Secretary of Defense for Research and Engineering, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Under Secretary shall be appointed from among persons who have an extensive technology, science, or engineering background and experience with managing complex or advanced technological programs. A person may not be appointed as Under Secretary within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 - **(b)** *Duties and Powers.—* Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary shall perform such duties and exercise such powers as the Secretary may prescribe, including—
   - **(1)** serving as the chief technology officer of the Department of Defense with the mission of advancing technology and innovation for the armed forces (and the Department);
-  - **(2)** establishing policies on, and supervising, all defense research and engineering, technology development, technology transition, prototyping, experimentation, and developmental testing activities and programs, including the allocation of resources for defense research and engineering, and unifying defense research and engineering efforts across the Department; and
+  - **(2)** establishing policies on, and supervising, all defense research and engineering, technology development, technology transition, appropriate prototyping activities, experimentation, and developmental testing activities and programs and unifying defense research and engineering efforts across the Department; and
   - **(3)** serving as the principal advisor to the Secretary on all research, engineering, and technology development activities and programs in the Department.
 - **(c)** *Precedence in Department of Defense.—*
   - **(1)** *Precedence in matters of responsibility.—* With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense.
@@ -18,7 +18,7 @@ section: 133a
 
 ## Source credit
 
-(Added Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339; amended Pub. L. 115–91, div. A, title IX, § 910(c)(2), Dec. 12, 2017, 131 Stat. 1518.)
+(Added Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339; amended Pub. L. 115–91, div. A, title IX, § 910(c)(2), Dec. 12, 2017, 131 Stat. 1518; Pub. L. 116–92, div. A, title IX, § 902(2), Dec. 20, 2019, 133 Stat. 1542.)
 
 ## Notes
 
@@ -28,7 +28,7 @@ A prior section 133a, added Pub. L. 99–500, § 101(c) [title X, § 902(a)(1)],
 
 ### Amendments
 
-2017—Subsec. (c)(1). Pub. L. 115–91, § 910(c)(2)(A), substituted “, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense” for “and the Deputy Secretary of Defense”. Subsec. (c)(2). Pub. L. 115–91, § 910(c)(2)(B), inserted “the Chief Management Officer,” after “the Deputy Secretary,”.
+2019—Subsec. (b)(2). Pub. L. 116–92 substituted “appropriate prototyping activities,” for “prototyping,” and struck out “, including the allocation of resources for defense research and engineering,” after “testing activities and programs”. 2017—Subsec. (c)(1). Pub. L. 115–91, § 910(c)(2)(A), substituted “, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense” for “and the Deputy Secretary of Defense”. Subsec. (c)(2). Pub. L. 115–91, § 910(c)(2)(B), inserted “the Chief Management Officer,” after “the Deputy Secretary,”.
 
 ### Effective Date of 2017 Amendment
 

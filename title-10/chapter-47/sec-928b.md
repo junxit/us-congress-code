@@ -5,7 +5,7 @@ chapter: 47
 section: 928b
 ---
 
-# § 928b. Art. 128b. Domestic violence 11 Section catchline editorially supplied to correspond to item 928b in subchapter analysis, as amended by Pub. L. 115–232
+# § 928b. Art. 128b. Domestic violence
 
 Any person who—
 
@@ -20,11 +20,13 @@ shall be punished as a court-martial may direct.
 
 ## Source credit
 
-(Added Pub. L. 115–232, div. A, title V, § 532(a)(1), Aug. 13, 2018, 132 Stat. 1759.)
+(Added Pub. L. 115–232, div. A, title V, § 532(a)(1), Aug. 13, 2018, 132 Stat. 1759; amended Pub. L. 116–92, div. A, title XVII, § 1731(a)(20), Dec. 20, 2019, 133 Stat. 1813.)
 
 ## Notes
 
-1 Section catchline editorially supplied to correspond to item 928b in subchapter analysis, as amended by Pub. L. 115–232.
+### Amendments
+
+2019—Pub. L. 116–92 inserted section catchline. Identical section catchline had been editorially supplied.
 
 ### Effective Date
 
