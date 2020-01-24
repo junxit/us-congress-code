@@ -52,7 +52,7 @@ Pub. L. 112–199, title I, § 117(c), Nov. 27, 2012, 126 Stat. 1475, which term
 
 Pub. L. 110–409, § 6(c), Oct. 14, 2008, 122 Stat. 4305, provided that: “Nothing in the amendments made by this section [amending this section and section 8G of Pub. L. 95–452, set out in this Appendix] shall be construed to alter the duties and responsibilities of the counsel for any establishment or designated Federal entity, except for the availability of counsel as provided under sections 3(g) and 8G(g) of the Inspector General Act of 1978 (5 U.S.C. App.) (as amended by this section). The Counsel to the Inspector General shall perform such functions as the Inspector General may prescribe.”
 
-### Transition Rule Relating to Inspector Generals of the Federal Communications Commission
+### Transition Rule Relating to Inspectors General of the Federal Communications Commission
 
 Pub. L. 115–141, div. P, title V, § 501(b), Mar. 23, 2018, 132 Stat. 1090, provided that: “An individual serving as Inspector General of the Commission [Federal Communications Commission] on the date of the enactment of this Act [Mar. 23, 2018] pursuant to an appointment made under section 8G of the Inspector General Act of 1978 (5 U.S.C. App.)— “(1) may continue so serving until the President makes an appointment under section 3(a) of such Act [subsec. (a) of this section] with respect to the Commission consistent with the amendments made by subsection (a); and “(2) shall, while serving under paragraph (1), remain subject to the provisions of section 8G of such Act which, immediately before the date of the enactment of this Act, applied with respect to the Inspector General of the Commission and suffer no reduction in pay.”
 

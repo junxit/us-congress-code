@@ -20,7 +20,7 @@ section: 387c
   - **(6)** if it was manufactured, prepared, propagated, compounded, or processed in an establishment not duly registered under section 387e(b), 387e(c), 387e(d), or 387e(h) of this title, if it was not included in a list required by section 387e(i) of this title, if a notice or other information respecting it was not provided as required by such section or section 387e(j) of this title, or if it does not bear such symbols from the uniform system for identification of tobacco products prescribed under section 387e(e) of this title as the Secretary by regulation requires;
   - **(7)** if, in the case of any tobacco product distributed or offered for sale in any State—
     - **(A)** its advertising is false or misleading in any particular; or
-    - **(B)** it is sold or distributed in violation of regulations prescribed under section 387f(d) of this title;
+    - **(B)** it is sold or distributed in violation of section 387f(d)(5) of this title or of regulations prescribed under section 387f(d) of this title;
   - **(8)** unless, in the case of any tobacco product distributed or offered for sale in any State, the manufacturer, packer, or distributor thereof includes in all advertisements and other descriptive printed matter issued or caused to be issued by the manufacturer, packer, or distributor with respect to that tobacco product—
     - **(A)** a true statement of the tobacco product’s established name as described in paragraph (4), printed prominently; and
     - **(B)** a brief statement of—
@@ -34,7 +34,7 @@ section: 387c
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 903, as added Pub. L. 111–31, div. A, title I, § 101(b)(3), June 22, 2009, 123 Stat. 1788.)
+(June 25, 1938, ch. 675, § 903, as added Pub. L. 111–31, div. A, title I, § 101(b)(3), June 22, 2009, 123 Stat. 1788; amended Pub. L. 116–94, div. N, title I, § 603(d)(3), Dec. 20, 2019, 133 Stat. 3124.)
 
 ## Notes
 
@@ -45,6 +45,10 @@ The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (b
 ### Prior Provisions
 
 A prior section 903 of act June 25, 1938, was renumbered section 1003 and is classified to section 393 of this title. Another prior section 903 of act June 25, 1938, was renumbered section 1004 and is classified to section 394 of this title.
+
+### Amendments
+
+2019—Subsec. (a)(7)(B). Pub. L. 116–94 inserted “section 387f(d)(5) of this title or of” after “violation of”.
 
 ### Effective Date
 

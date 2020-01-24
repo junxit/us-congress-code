@@ -38,7 +38,7 @@ section: 402A
     - **(E)** *Special rule for certain transfers* In the case of an applicable retirement plan which includes a qualified Roth contribution program—
       - **(i)** the plan may allow an individual to elect to have the plan transfer any amount not otherwise distributable under the plan to a designated Roth account maintained for the benefit of the individual,
       - **(ii)** such transfer shall be treated as a distribution to which this paragraph applies which was contributed in a qualified rollover contribution (within the meaning of section 408A(e)) to such account, and
-      - **(iii)** the plan shall not be treated as violating the provisions of section 401(k)(2)(B)(i), 403(b)(7)(A)(ii), 403(b)(11), or 457(d)(1)(A), or of section 8433 of title 5, United States Code, solely by reason of such transfer.
+      - **(iii)** the plan shall not be treated as violating the provisions of section 401(k)(2)(B)(i), 403(b)(7)(A)(ii),11 See References in Text note below. 403(b)(11), or 457(d)(1)(A), or of section 8433 of title 5, United States Code, solely by reason of such transfer.
 - **(d)** *Distribution rules* For purposes of this title—
   - **(1)** *Exclusion* Any qualified distribution from a designated Roth account shall not be includible in gross income.
   - **(2)** *Qualified distribution* For purposes of this subsection—
@@ -65,6 +65,12 @@ section: 402A
 (Added Pub. L. 107–16, title VI, § 617(a), June 7, 2001, 115 Stat. 103; amended Pub. L. 111–240, title II, §§ 2111(a), (b), 2112(a), Sept. 27, 2010, 124 Stat. 2565, 2566; Pub. L. 112–240, title IX, § 902(a), Jan. 2, 2013, 126 Stat. 2371; Pub. L. 113–295, div. A, title II, § 220(k), Dec. 19, 2014, 128 Stat. 4036.)
 
 ## Notes
+
+1 See References in Text note below.
+
+### References in Text
+
+Section 403(b)(7)(A)(ii), referred to in subsec. (c)(4)(E)(iii), probably means section 403(b)(7)(A)(ii) of this title prior to amendment by Pub. L. 116–94, div. O, title I, § 109(c)(2), Dec. 20, 2019, 133 Stat. 3151.
 
 ### Amendments
 

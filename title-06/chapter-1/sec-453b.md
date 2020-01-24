@@ -20,7 +20,7 @@ section: 453b
   - **(1)** Procurements by vessels in foreign waters.
   - **(2)** Emergency procurements.
 - **(f)** *Exception for small purchases* Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of title 10.
-- **(g)** *Applicability to contracts and subcontracts for procurement of commercial items* This section is applicable to contracts and subcontracts for the procurement of commercial items not withstanding section 1906 of title 41, with the exception of commercial items listed under subsections (b)(1)(C) and (b)(1)(D) above. For the purposes of this section, “commercial” shall be as defined in the Federal Acquisition Regulation—Part 2.
+- **(g)** *Applicability to contracts and subcontracts for procurement of commercial products* This section is applicable to contracts and subcontracts for the procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed under subsections (b)(1)(C) and (b)(1)(D) above. For the purposes of this section, “commercial product” shall be as defined in section 103 of title 41.
 - **(h)** *Geographic coverage* In this section, the term “United States” includes the possessions of the United States.
 - **(i)** *Notification required within 7 days after contract award if certain exceptions applied* In the case of any contract for the procurement of an item described in subsection (b)(1), if the Secretary of Homeland Security applies an exception set forth in subsection (c) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOps.gov (or any successor site).
 - **(j)** *Training during fiscal year 2009*
@@ -36,10 +36,6 @@ section: 453b
 ## Notes
 
 1 So in original. No par. (2) has been enacted.
-
-### Amendment of Subsection (g)
-
-Pub. L. 115–232, div. A, title VIII, § 836(g)(1), (h), Aug. 13, 2018, 132 Stat. 1872, 1874, made amendments to subsection (g) of this section, effective Jan. 1, 2020, subject to a savings provision. After Jan. 1, 2020, subsection (g) of this section will read as follows: (g) Applicability to contracts and subcontracts for procurement of commercial products This section is applicable to contracts and subcontracts for the procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed under subsections (b)(1)(C) and (b)(1)(D) above. For the purposes of this section, “commercial product” shall be as defined in section 103 of title 41. See 2018 Amendment note below.
 
 ### Codification
 

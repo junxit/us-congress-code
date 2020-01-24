@@ -19,8 +19,8 @@ section: 544f
   - **(1)** based on the resource inventory prepared by the Secretary pursuant to this section; and
   - **(2)** consistent with the standards established in section 544d of this title.
 - **(f)** *Guidelines for land use ordinances*
-  - **(1)** 22 So in original. No par. (2) has been enacted. Within three years after November 17, 1986, the Secretary shall, in consultation with the Commission, develop guidelines to assure that non-Federal lands within the special management areas are managed consistent with the standards in section 544d of this title and the purposes of sections 544 to 544p of this title. The Secretary shall promptly transmit the guidelines to the Commission for inclusion in the management plan. The guidelines shall require that management, utilization, and disposal of timber, and exploration, development, and production of sand, gravel, and crushed rock for the construction, maintenance, or reconstruction of roads used to manage or harvest forest products on non-Federal lands within the special management areas take place without adversely affecting the scenic, cultural, recreation, and natural resources of the scenic area.
-- **(h)** *33 So in original. No subsec. (g) has been enacted. Adoption of special management area land use ordinances*
+  - **(1)** 1 Within three years after November 17, 1986, the Secretary shall, in consultation with the Commission, develop guidelines to assure that non-Federal lands within the special management areas are managed consistent with the standards in section 544d of this title and the purposes of sections 544 to 544p of this title. The Secretary shall promptly transmit the guidelines to the Commission for inclusion in the management plan. The guidelines shall require that management, utilization, and disposal of timber, and exploration, development, and production of sand, gravel, and crushed rock for the construction, maintenance, or reconstruction of roads used to manage or harvest forest products on non-Federal lands within the special management areas take place without adversely affecting the scenic, cultural, recreation, and natural resources of the scenic area.
+- **(h)** *22 So in original. No subsec. (g) has been enacted. Adoption of special management area land use ordinances*
   - **(1)** Within sixty days of receipt of the management plan, each county shall submit to the Commission a letter stating that it proposes to adopt a land use ordinance consistent with the management plan. If any county fails to submit a letter as provided in this subsection, or fails to adopt a land use ordinance as provided in this section, the Commission shall carry out the requirements of subsection (l) of this section.
   - **(2)** Within two hundred seventy days of receipt of the management plan, each county shall adopt a special management area land use ordinance consistent with the management plan, and thereafter may adopt an amendment, revision or variance to a land use ordinance at any time. Each county upon adoption of a special management area land use ordinance shall promptly submit the adopted ordinance to the Commission.
 - **(i)** *Review by Commission*
@@ -53,9 +53,7 @@ section: 544f
 
 1 So in original. No par. (2) has been enacted.
 
-2 So in original. No par. (2) has been enacted.
-
-3 So in original. No subsec. (g) has been enacted.
+2 So in original. No subsec. (g) has been enacted.
 
 ### Amendments
 

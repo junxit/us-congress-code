@@ -11,7 +11,7 @@ section: 61a
 
 ### Codification
 
-Section 61a was editorially reclassified as section 6531 of this title.
+Section 61a was editorially reclassified as section 6531 of this title. Section 6531 of this title was subsequently repealed by Pub. L. 116–94, div. E, title II, § 212(a)(3)(H), Dec. 20, 2019, 133 Stat. 2776.
 
 ### Prior Provisions
 

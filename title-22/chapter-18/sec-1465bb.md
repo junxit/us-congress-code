@@ -7,7 +7,7 @@ section: 1465bb
 
 # § 1465bb. Television broadcasting to Cuba
 
-- **(a)** *Television broadcasting to Cuba* In order to carry out the purposes set forth in section 1465aa of this title and notwithstanding the limitation of section 1461 of this title with respect to the dissemination in the United States of information prepared for dissemination abroad to the extent such dissemination is inadvertent, the Broadcasting Board of Governors (hereafter in this subchapter referred to as the “Agency” 11 So in original. Probably should be “ ‘Board’ ”.) shall provide for the open communication of information and ideas through the use of television broadcasting to Cuba. Television broadcasting to Cuba shall serve as a consistently reliable and authoritative source of accurate, objective, and comprehensive news.
+- **(a)** *Television broadcasting to Cuba* In order to carry out the purposes set forth in section 1465aa of this title and notwithstanding the limitation of section 1461 of this title with respect to the dissemination in the United States of information prepared for dissemination abroad to the extent such dissemination is inadvertent, the Broadcasting Board of Governors (hereafter in this subchapter referred to as the “Agency” shall provide for the open communication of information and ideas through the use of television broadcasting to Cuba. Television broadcasting to Cuba shall serve as a consistently reliable and authoritative source of accurate, objective, and comprehensive news.
 - **(b)** *Voice of America standards* Television broadcasting to Cuba under this subchapter shall be in accordance with all Voice of America standards to ensure the broadcast of programs which are objective, accurate, balanced, and which present a variety of views.
 - **(c)** *Television Marti* Any program of United States Government television broadcasts to Cuba authorized by this section shall be designated the “Television Marti Program”.
 - **(d)** *Frequency assignment*
@@ -28,8 +28,6 @@ section: 1465bb
 (Pub. L. 101–246, title II, § 243, Feb. 16, 1990, 104 Stat. 59; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1325(1), (2), Oct. 21, 1998, 112 Stat. 2681–781.)
 
 ## Notes
-
-1 So in original. Probably should be “ ‘Board’ ”.
 
 ### Repeal of Section
 
