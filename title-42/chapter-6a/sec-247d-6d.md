@@ -122,8 +122,12 @@ section: 247d–6d
 - **(i)** *Definitions* In this section:
   - **(1)** *Covered countermeasure* The term “covered countermeasure” means—
     - **(A)** a qualified pandemic or epidemic product (as defined in paragraph (7));
-    - **(B)** a security countermeasure (as defined in section 247d–6b(c)(1)(B) of this title); or
-    - **(C)** a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1)), biological product (as such term is defined by section 262(i) of this title), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321(h)) that is authorized for emergency use in accordance with section 564, 564A, or 564B of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360bbb–3, 360bbb–3a, 360bbb–3b].
+    - **(B)** a security countermeasure (as defined in section 247d–6b(c)(1)(B) of this title);
+    - **(C)** a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1)), biological product (as such term is defined by section 262(i) of this title), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321(h)) that is authorized for emergency use in accordance with section 564, 564A, or 564B of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360bbb–3, 360bbb–3a, 360bbb–3b]; or
+    - **(D)** a personal respiratory protective device that is—
+      - **(i)** approved by the National Institute for Occupational Safety and Health under part 84 of title 42, Code of Federal Regulations (or successor regulations);
+      - **(ii)** subject to the emergency use authorization issued by the Secretary on March 2, 2020, or subsequent emergency use authorizations, pursuant to section 564 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360bbb–3] (authorizing emergency use of personal respiratory protective devices during the COVID–19 outbreak); and
+      - **(iii)** used during the period beginning on January 27, 2020, and ending on October 1, 2024, in response to the public health emergency declared on January 31, 2020, pursuant to section 247d of this title as a result of confirmed cases of 2019 Novel Coronavirus (2019-nCoV).
   - **(2)** *Covered person* The term “covered person”, when used with respect to the administration or use of a covered countermeasure, means—
     - **(A)** the United States; or
     - **(B)** a person or entity that is—
@@ -161,7 +165,7 @@ section: 247d–6d
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title III, § 319F–3, as added Pub. L. 109–148, div. C, § 2, Dec. 30, 2005, 119 Stat. 2818; amended Pub. L. 113–5, title IV, § 402(g)(2), (3), Mar. 13, 2013, 127 Stat. 196.)
+(July 1, 1944, ch. 373, title III, § 319F–3, as added Pub. L. 109–148, div. C, § 2, Dec. 30, 2005, 119 Stat. 2818; amended Pub. L. 113–5, title IV, § 402(g)(2), (3), Mar. 13, 2013, 127 Stat. 196; Pub. L. 116–127, div. F, § 6005, Mar. 18, 2020, 134 Stat. 207.)
 
 ## Notes
 
@@ -175,4 +179,4 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(8)(B), (c)
 
 ### Amendments
 
-2013—Subsec. (i)(1)(C). Pub. L. 113–5, § 402(g)(3)(A), inserted “, 564A, or 564B” after “564”. Subsec. (i)(7)(A)(iii). Pub. L. 113–5, § 402(g)(2), added cl. (iii). Subsec. (i)(7)(B)(iii). Pub. L. 113–5, § 402(g)(3)(B), inserted “, 564A, or 564B” after “564”.
+2020—Subsec. (i)(1)(D). Pub. L. 116–127 added subpar. (D). 2013—Subsec. (i)(1)(C). Pub. L. 113–5, § 402(g)(3)(A), inserted “, 564A, or 564B” after “564”. Subsec. (i)(7)(A)(iii). Pub. L. 113–5, § 402(g)(2), added cl. (iii). Subsec. (i)(7)(B)(iii). Pub. L. 113–5, § 402(g)(3)(B), inserted “, 564A, or 564B” after “564”.
