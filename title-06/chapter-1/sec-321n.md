@@ -16,12 +16,8 @@ section: 321n
     - **(A)** any gifts that were accepted under this section during the year covered by the report;
     - **(B)** how the gifts contribute to the mission of the Center for Domestic Preparedness; and
     - **(C)** the amount of Federal savings that were generated from the acceptance of the gifts.
-  - **(2)** *Publication* Each report required under paragraph (1) shall be made publically 11 So in original. Probably should be “publicly”. available.
+  - **(2)** *Publication* Each report required under paragraph (1) shall be made publically available.
 
 ## Source credit
 
 (Pub. L. 107–296, title V, § 525, as added Pub. L. 111–245, § 2(a)(1), Sept. 30, 2010, 124 Stat. 2620.)
-
-## Notes
-
-1 So in original. Probably should be “publicly”.

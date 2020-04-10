@@ -18,62 +18,62 @@ section: 254c
 - **(d)** *Administration*
   - **(1)** *Programs* The rural health care services outreach, rural health network development, and small health care provider quality improvement grant programs established under section 241 of this title shall be administered by the Director of the Office of Rural Health Policy of the Health Resources and Services Administration, in consultation with State offices of rural health or other appropriate State government entities.
   - **(2)** *Grants*
-    - **(A)** *In general* In carrying out the programs described in paragraph (1), the Director may award grants under subsections (e), (f), and (g) to expand access to, coordinate, and improve the quality of essential health care services, and enhance the delivery of health care, in rural areas.
-    - **(B)** *Types of grants* The Director may award the grants—
-      - **(i)** to promote expanded delivery of health care services in rural areas under subsection (e);
-      - **(ii)** to provide for the planning and implementation of integrated health care networks in rural areas under subsection (f); and
-      - **(iii)** to provide for the planning and implementation of small health care provider quality improvement activities under subsection (g).
+    - **(A)** *In general* In carrying out the programs described in paragraph (1), the Director may award grants under subsections (e), (f), and (g) to expand access to, coordinate, and improve the quality of basic health care services, and enhance the delivery of health care, in rural areas.
+    - **(B)** *Types of grants* The Director may award the grants to—
+      - **(i)** promote expanded delivery of health care services in rural areas under subsection (e);
+      - **(ii)** provide for the planning and implementation of integrated health care networks in rural areas under subsection (f); and
+      - **(iii)** provide for the planning and implementation of small health care provider quality improvement activities under subsection (g).
 - **(e)** *Rural health care services outreach grants*
-  - **(1)** *Grants* The Director may award grants to eligible entities to promote rural health care services outreach by expanding the delivery of health care services to include new and enhanced services in rural areas. The Director may award the grants for periods of not more than 3 years.
-  - **(2)** *Eligibility* To be eligible to receive a grant under this subsection for a project, an entity—
-    - **(A)** shall be a rural public or rural nonprofit private entity;
-    - **(B)** shall represent a consortium composed of members—
-      - **(i)** that include 3 or more health care providers; and
-      - **(ii)** that may be nonprofit or for-profit entities; and
-    - **(C)** shall not previously have received a grant under this subsection for the same or a similar project, unless the entity is proposing to expand the scope of the project or the area that will be served through the project.
+  - **(1)** *Grants* The Director may award grants to eligible entities to promote rural health care services outreach by improving and expanding the delivery of health care services to include new and enhanced services in rural areas, through community engagement and evidence-based or innovative, evidence-informed models. The Director may award the grants for periods of not more than 5 years.
+  - **(2)** *Eligibility* To be eligible to receive a grant under this subsection for a project, an entity shall—
+    - **(A)** be an entity with demonstrated experience serving, or the capacity to serve, rural underserved populations;
+    - **(B)** represent a consortium composed of members that—
+      - **(i)** include 3 or more health care providers; and
+      - **(ii)** may be nonprofit or for-profit entities; and
+    - **(C)** not previously have received a grant under this subsection for the same or a similar project, unless the entity is proposing to expand the scope of the project or the area that will be served through the project.
   - **(3)** *Applications* To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
     - **(A)** a description of the project that the eligible entity will carry out using the funds provided under the grant;
     - **(B)** a description of the manner in which the project funded under the grant will meet the health care needs of rural underserved populations in the local community or region to be served;
-    - **(C)** a description of how the local community or region to be served will be involved in the development and ongoing operations of the project;
+    - **(C)** a description of how the rural underserved populations in the local community or region to be served will be involved in the development and ongoing operations of the project;
     - **(D)** a plan for sustaining the project after Federal support for the project has ended;
     - **(E)** a description of how the project will be evaluated; and
     - **(F)** other such information as the Secretary determines to be appropriate.
 - **(f)** *Rural health network development grants*
   - **(1)** *Grants*
-    - **(A)** *In general* The Director may award rural health network development grants to eligible entities to promote, through planning and implementation, the development of integrated health care networks that have combined the functions of the entities participating in the networks in order to—
+    - **(A)** *In general* The Director may award rural health network development grants to eligible entities to plan, develop, and implement integrated health care networks that collaborate in order to—
       - **(i)** achieve efficiencies;
-      - **(ii)** expand access to, coordinate, and improve the quality of essential health care services; and
+      - **(ii)** expand access to, coordinate, and improve the quality of basic health care services and associated health outcomes; and
       - **(iii)** strengthen the rural health care system as a whole.
-    - **(B)** *Grant periods* The Director may award such a rural health network development grant for implementation activities for a period of 3 years. The Director may also award such a rural health network development grant for planning activities for a period of 1 year, to assist in the development of an integrated health care network, if the proposed participants in the network do not have a history of collaborative efforts and a 3-year grant would be inappropriate.
-  - **(2)** *Eligibility* To be eligible to receive a grant under this subsection, an entity—
-    - **(A)** shall be a rural public or rural nonprofit private entity;
-    - **(B)** shall represent a network composed of participants—
-      - **(i)** that include 3 or more health care providers; and
-      - **(ii)** that may be nonprofit or for-profit entities; and
-    - **(C)** shall not previously have received a grant under this subsection (other than a grant for planning activities) for the same or a similar project.
+    - **(B)** *Grant periods* The Director may award grants under this subsection for periods of not more than 5 years.
+  - **(2)** *Eligibility* To be eligible to receive a grant under this subsection, an entity shall—
+    - **(A)** be an entity with demonstrated experience serving, or the capacity to serve, rural underserved populations;
+    - **(B)** represent a network composed of participants that—
+      - **(i)** include 3 or more health care providers; and
+      - **(ii)** may be nonprofit or for-profit entities; and
+    - **(C)** not previously have received a grant under this subsection (other than a grant for planning activities) for the same or a similar project.
   - **(3)** *Applications* To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
     - **(A)** a description of the project that the eligible entity will carry out using the funds provided under the grant;
     - **(B)** an explanation of the reasons why Federal assistance is required to carry out the project;
     - **(C)** a description of—
       - **(i)** the history of collaborative activities carried out by the participants in the network;
       - **(ii)** the degree to which the participants are ready to integrate their functions; and
-      - **(iii)** how the local community or region to be served will benefit from and be involved in the activities carried out by the network;
-    - **(D)** a description of how the local community or region to be served will experience increased access to quality health care services across the continuum of care as a result of the integration activities carried out by the network;
+      - **(iii)** how the rural underserved populations in the local community or region to be served will benefit from and be involved in the development and ongoing operations of the network;
+    - **(D)** a description of how the rural underserved populations in the local community or region to be served will experience increased access to quality health care services across the continuum of care as a result of the integration activities carried out by the network;
     - **(E)** a plan for sustaining the project after Federal support for the project has ended;
     - **(F)** a description of how the project will be evaluated; and
     - **(G)** other such information as the Secretary determines to be appropriate.
 - **(g)** *Small health care provider quality improvement grants*
-  - **(1)** *Grants* The Director may award grants to provide for the planning and implementation of small health care provider quality improvement activities. The Director may award the grants for periods of 1 to 3 years.
-  - **(2)** *Eligibility* To be eligible for a grant under this subsection, an entity—
+  - **(1)** *Grants* The Director may award grants to provide for the planning and implementation of small health care provider quality improvement activities, including activities related to increasing care coordination, enhancing chronic disease management, and improving patient health outcomes. The Director may award the grants for periods of 1 to 5 years.
+  - **(2)** *Eligibility* To be eligible for a grant under this subsection, an entity shall—
     - **(A)**
-      - **(i)** shall be a rural public or rural nonprofit private health care provider or provider of health care services, such as a critical access hospital or a rural health clinic; or
-      - **(ii)** shall be another rural provider or network of small rural providers identified by the Secretary as a key source of local care; and
-    - **(B)** shall not previously have received a grant under this subsection for the same or a similar project.
+      - **(i)** be a rural public or rural nonprofit private health care provider or provider of health care services, such as a critical access hospital or a rural health clinic; or
+      - **(ii)** be another rural provider or network of small rural providers identified by the Secretary as a key source of local or regional care; and
+    - **(B)** not previously have received a grant under this subsection for the same or a similar project.
   - **(3)** *Applications* To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
     - **(A)** a description of the project that the eligible entity will carry out using the funds provided under the grant;
     - **(B)** an explanation of the reasons why Federal assistance is required to carry out the project;
     - **(C)** a description of the manner in which the project funded under the grant will assure continuous quality improvement in the provision of services by the entity;
-    - **(D)** a description of how the local community or region to be served will experience increased access to quality health care services across the continuum of care as a result of the activities carried out by the entity;
+    - **(D)** a description of how the rural underserved populations in the local community or region to be served will experience increased access to quality health care services across the continuum of care as a result of the activities carried out by the entity;
     - **(E)** a plan for sustaining the project after Federal support for the project has ended;
     - **(F)** a description of how the project will be evaluated; and
     - **(G)** other such information as the Secretary determines to be appropriate.
@@ -83,15 +83,15 @@ section: 254c
     - **(A)** to build or acquire real property; or
     - **(B)** for construction.
   - **(2)** *Coordination with other agencies* The Secretary shall coordinate activities carried out under grant programs described in this section, to the extent practicable, with Federal and State agencies and nonprofit organizations that are operating similar grant programs, to maximize the effect of public dollars in funding meritorious proposals.
-  - **(3)** *Preference* In awarding grants under this section, the Secretary shall give preference to entities that—
+  - **(3)** *Preference* In awarding grants under this section, the Secretary, as appropriate, shall give preference to entities that—
     - **(A)** are located in health professional shortage areas or medically underserved communities, or serve medically underserved populations; or
     - **(B)** propose to develop projects with a focus on primary care, and wellness and prevention strategies.
-- **(i)** *Report* Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsections (e), (f), and (g).
-- **(j)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $45,000,000 for each of fiscal years 2008 through 2012.
+- **(i)** *Report* Not later than 4 years after March 27, 2020, and every 5 years thereafter, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the activities and outcomes of the grant programs under subsections (e), (f), and (g), including the impact of projects funded under such programs on the health status of rural residents with chronic conditions.
+- **(j)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $79,500,000 for each of fiscal years 2021 through 2025.
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title III, § 330A, as added Pub. L. 104–299, § 3(a), Oct. 11, 1996, 110 Stat. 3642; amended Pub. L. 107–251, title II, § 201, Oct. 26, 2002, 116 Stat. 1628; Pub. L. 108–163, § 2(b), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 110–355, § 4, Oct. 8, 2008, 122 Stat. 3994.)
+(July 1, 1944, ch. 373, title III, § 330A, as added Pub. L. 104–299, § 3(a), Oct. 11, 1996, 110 Stat. 3642; amended Pub. L. 107–251, title II, § 201, Oct. 26, 2002, 116 Stat. 1628; Pub. L. 108–163, § 2(b), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 110–355, § 4, Oct. 8, 2008, 122 Stat. 3994; Pub. L. 116–136, div. A, title III, § 3213, Mar. 27, 2020, 134 Stat. 370.)
 
 ## Notes
 
@@ -101,7 +101,7 @@ A prior section 254c, act July 1, 1944, ch. 373, title III, § 330, as added Jul
 
 ### Amendments
 
-2008—Subsec. (j). Pub. L. 110–355 substituted “$45,000,000 for each of fiscal years 2008 through 2012.” for “$40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.” 2003—Subsec. (b)(4). Pub. L. 108–163 substituted “section 295p(6)” for “section 295p”. 2002—Pub. L. 107–251 amended section generally. Prior to amendment, section related to a rural health outreach, network development, and telemedicine grant program, and in subsec. (a), provided for administration by the Office of Rural Health Policy; in subsec. (b), set out the objectives of grants; in subsec. (c), set out eligibility requirements; in subsec. (d), described preferred characteristics of applicant networks; in subsec. (e), specified permitted uses of grant funds; in subsec. (f), limited the duration of grants; and in subsec. (g), authorized appropriations.
+2020—Subsec. (d)(2)(A). Pub. L. 116–136, § 3213(1)(A), substituted “basic” for “essential”. Subsec. (d)(2)(B). Pub. L. 116–136, § 3213(1)(B), inserted “to” after “grants” in introductory provisions and struck out “to” at beginning of cls. (i) to (iii). Subsec. (e)(1). Pub. L. 116–136, § 3213(2)(A), inserted “improving and” after “outreach by” and “, through community engagement and evidence-based or innovative, evidence-informed models” after “rural areas” and substituted “5 years” for “3 years”. Subsec. (e)(2). Pub. L. 116–136, § 3213(2)(B)(i), inserted “shall” after “entity” in introductory provisions. Subsec. (e)(2)(A). Pub. L. 116–136, § 3213(2)(B)(ii), substituted “be an entity with demonstrated experience serving, or the capacity to serve, rural underserved populations” for “shall be a rural public or rural nonprofit private entity”. Subsec. (e)(2)(B). Pub. L. 116–136, § 3213(2)(B)(iii), (iv). struck out “shall” before “represent” and inserted “that” after “members” in introductory provisions and struck out “that” at beginning of cls. (i) and (ii). Subsec. (e)(2)(C). Pub. L. 116–136, § 3213(2)(B)(iii), struck out “shall” before “not previously”. Subsec. (e)(3)(C). Pub. L. 116–136, § 3213(2)(C), substituted “the rural underserved populations in the local community or region” for “the local community or region”. Subsec. (f)(1)(A). Pub. L. 116–136, § 3213(3)(A)(i)(I), substituted “plan, develop, and implement integrated health care networks that collaborate” for “promote, through planning and implementation, the development of integrated health care networks that have combined the functions of the entities participating in the networks” in introductory provisions. Subsec. (f)(1)(A)(ii). Pub. L. 116–136, § 3213(3)(A)(i)(II), substituted “basic health care services and associated health outcomes” for “essential health care services”. Subsec. (f)(1)(B). Pub. L. 116–136, § 3213(3)(A)(ii), amended subpar. (B) generally. Prior to amendment, text read as follows: “The Director may award such a rural health network development grant for implementation activities for a period of 3 years. The Director may also award such a rural health network development grant for planning activities for a period of 1 year, to assist in the development of an integrated health care network, if the proposed participants in the network do not have a history of collaborative efforts and a 3-year grant would be inappropriate.” Subsec. (f)(2). Pub. L. 116–136, § 3213(3)(B)(i), inserted “shall” after “entity” in introductory provisions. Subsec. (f)(2)(A). Pub. L. 116–136, § (3)(B)(ii), substituted “be an entity with demonstrated experience serving, or the capacity to serve, rural underserved populations” for “shall be a rural public or rural nonprofit private entity”. Subsec. (f)(2)(B). Pub. L. 116–136, § 3213(3)(B)(iii), struck out “shall” before “represent” and inserted “that” after “participants” in introductory provisions and struck out “that” at beginning of cls. (i) and (ii). Subsec. (f)(2)(C). Pub. L. 116–136, § 3213(3)(B)(iv), struck out “shall” before “not previously”. Subsec. (f)(3)(C)(iii). Pub. L. 116–136, § 3213(3)(C)(i), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “how the local community or region to be served will benefit from and be involved in the activities carried out by the network;”. Subsec. (f)(3)(D). Pub. L. 116–136, § 3213(3)(C)(ii), substituted “the rural underserved populations in the local community or region” for “the local community or region”. Subsec. (g)(1). Pub. L. 116–136, § 3213(4)(A), inserted “, including activities related to increasing care coordination, enhancing chronic disease management, and improving patient health outcomes” after “quality improvement activities” and substituted “5 years” for “3 years”. Subsec. (g)(2). Pub. L. 116–136, § 3213(4)(B)(i), inserted “shall” after “entity” in introductory provisions. Subsec. (g)(2)(A). Pub. L. 116–136, § 3213(4)(B)(ii), (iii), struck out “shall” at beginning of cls. (i) and (ii), and inserted “or regional” after “local” in cl. (ii). Subsec. (g)(2)(B). Pub. L. 116–136, § 3213(4)(B)(ii), struck out “shall” before “not previously”. Subsec. (g)(3)(D). Pub. L. 116–136, § 3213(4)(C), substituted “the rural underserved populations in the local community or region” for “the local community or region”. Subsec. (h)(3). Pub. L. 116–136, § 3213(5), inserted “, as appropriate,” after “the Secretary” in introductory provisions. Subsec. (i). Pub. L. 116–136, § 3213(6), amended subsec. (i) generally. Prior to amendment, text read as follows: “Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsections (e), (f), and (g).” Subsec. (j). Pub. L. 116–136, § 3213(7), substituted “$79,500,000 for each of fiscal years 2021 through 2025” for “$45,000,000 for each of fiscal years 2008 through 2012”. 2008—Subsec. (j). Pub. L. 110–355 substituted “$45,000,000 for each of fiscal years 2008 through 2012.” for “$40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.” 2003—Subsec. (b)(4). Pub. L. 108–163 substituted “section 295p(6)” for “section 295p”. 2002—Pub. L. 107–251 amended section generally. Prior to amendment, section related to a rural health outreach, network development, and telemedicine grant program, and in subsec. (a), provided for administration by the Office of Rural Health Policy; in subsec. (b), set out the objectives of grants; in subsec. (c), set out eligibility requirements; in subsec. (d), described preferred characteristics of applicant networks; in subsec. (e), specified permitted uses of grant funds; in subsec. (f), limited the duration of grants; and in subsec. (g), authorized appropriations.
 
 ### Effective Date of 2003 Amendment
 

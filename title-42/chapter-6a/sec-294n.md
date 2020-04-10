@@ -37,7 +37,7 @@ section: 294n
   - **(4)** *Eligible entities* To be eligible to obtain an increase under this section, an entity shall be a recipient of a grant or contract under this subchapter.
 - **(e)** *Authorization of appropriations*
   - **(1)** *In general*
-    - **(A)** *National Center* To carry out subsection (b), there are authorized to be appropriated $7,500,000 for each of fiscal years 2010 through 2014.
+    - **(A)** *National Center* To carry out subsection (b), there are authorized to be appropriated $5,663,000 for each of fiscal years 2021 through 2025.
     - **(B)** *State and regional Centers* To carry out subsection (c), there are authorized to be appropriated $4,500,000 for each of fiscal years 2010 through 2014.
     - **(C)** *Grants for longitudinal evaluations* To carry out subsection (d), there are authorized to be appropriated such sums as may be necessary for fiscal years 2010 through 2014.
   - **(2)** *Reservation* Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not less than $600,000 for conducting health professions research and for carrying out data collection and analysis in accordance with section 295k of this title.
@@ -45,7 +45,7 @@ section: 294n
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title VII, § 761, as added Pub. L. 105–392, title I, § 104(a), Nov. 13, 1998, 112 Stat. 3552; amended Pub. L. 111–148, title V, § 5103(a), Mar. 23, 2010, 124 Stat. 603.)
+(July 1, 1944, ch. 373, title VII, § 761, as added Pub. L. 105–392, title I, § 104(a), Nov. 13, 1998, 112 Stat. 3552; amended Pub. L. 111–148, title V, § 5103(a), Mar. 23, 2010, 124 Stat. 603; Pub. L. 116–136, div. A, title III, § 3401(9), Mar. 27, 2020, 134 Stat. 386.)
 
 ## Notes
 
@@ -55,7 +55,7 @@ A prior section 294n, act July 1, 1944, ch. 373, title VII, § 776, as added Pub
 
 ### Amendments
 
-2010—Subsecs. (b) to (e). Pub. L. 111–148, § 5103(a)(1), (2), added subsecs. (b) to (d), redesignated former subsec. (c) as (e), and struck out former subsec. (b) which related to award of grants or contracts. Subsec. (e)(1). Pub. L. 111–148, § 5103(a)(3)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section, $750,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.” Subsec. (e)(2). Pub. L. 111–148, § 5103(a)(4), which directed amendment of “paragraph (2)”, without specifying the subsec. to be amended, by substituting “paragraph (1)” for “subsection (a)”, was executed by making the substitution in par. (2) of subsec. (e), to reflect the probable intent of Congress.
+2020—Subsec. (e)(1)(A). Pub. L. 116–136, § 3401(9)(A), substituted “$5,663,000 for each of fiscal years 2021 through 2025” for “$7,500,000 for each of fiscal years 2010 through 2014”. Subsec. (e)(2). Pub. L. 116–136, § 3401(9)(B), substituted “paragraph (1)” for “subsection (a)”. 2010—Subsecs. (b) to (e). Pub. L. 111–148, § 5103(a)(1), (2), added subsecs. (b) to (d), redesignated former subsec. (c) as (e), and struck out former subsec. (b) which related to award of grants or contracts. Subsec. (e)(1). Pub. L. 111–148, § 5103(a)(3)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section, $750,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.” Subsec. (e)(2). Pub. L. 111–148, § 5103(a)(4), which directed amendment of “paragraph (2)”, without specifying the subsec. to be amended, by substituting “paragraph (1)” for “subsection (a)”, could not be executed.
 
 ### Transfer of Functions
 

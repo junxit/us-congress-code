@@ -11,7 +11,7 @@ section: 356c
   - **(1)** that is—
     - **(A)** life-supporting;
     - **(B)** life-sustaining; or
-    - **(C)** intended for use in the prevention or treatment of a debilitating disease or condition, including any such drug used in emergency medical care or during surgery; and
+    - **(C)** intended for use in the prevention or treatment of a debilitating disease or condition, including any such drug used in emergency medical care or during surgery or any such drug that is critical to the public health during a public health emergency declared by the Secretary under section 247d of title 42; and
   - **(2)** that is not a radio pharmaceutical drug product or any other product as designated by the Secretary,
 - **(b)** *Timing* A notice required under subsection (a) shall be submitted to the Secretary—
   - **(1)** at least 6 months prior to the date of the discontinuance or interruption; or
@@ -28,9 +28,9 @@ section: 356c
   - **(1)** the Secretary shall issue a letter to such person informing such person of such failure;
   - **(2)** not later than 30 calendar days after the issuance of a letter under paragraph (1), the person who receives such letter shall submit to the Secretary a written response to such letter setting forth the basis for noncompliance and providing information required under subsection (a); and
   - **(3)** not later than 45 calendar days after the issuance of a letter under paragraph (1), the Secretary shall make such letter and any response to such letter under paragraph (2) available to the public on the Internet Web site of the Food and Drug Administration, with appropriate redactions made to protect information described in subsection (d), except that, if the Secretary determines that the letter under paragraph (1) was issued in error or, after review of such response, the person had a reasonable basis for not notifying as required under subsection (a), the requirements of this paragraph shall not apply.
-- **(g)** *Expedited inspections and reviews* If, based on notifications described in subsection (a) or any other relevant information, the Secretary concludes that there is, or is likely to be, a drug shortage of a drug described in subsection (a), the Secretary may—
-  - **(1)** expedite the review of a supplement to a new drug application submitted under section 355(b) of this title, an abbreviated new drug application submitted under section 355(j) of this title, or a supplement to such an application submitted under section 355(j) of this title, that could help mitigate or prevent such shortage; or
-  - **(2)** expedite an inspection or reinspection of an establishment that could help mitigate or prevent such drug shortage.
+- **(g)** *Expedited inspections and reviews* If, based on notifications described in subsection (a) or any other relevant information, the Secretary concludes that there is, or is likely to be, a drug shortage of a drug described in subsection (a), the Secretary shall, as appropriate—
+  - **(1)** prioritize and expedite the review of a supplement to a new drug application submitted under section 355(b) of this title, an abbreviated new drug application submitted under section 355(j) of this title, or a supplement to such an application submitted under section 355(j) of this title, that could help mitigate or prevent such shortage; or
+  - **(2)** prioritize and expedite an inspection or reinspection of an establishment that could help mitigate or prevent such drug shortage.
 - **(h)** *Definitions* For purposes of this section—
   - **(1)** the term “drug”—
     - **(A)** means a drug (as defined in section 321(g) of this title) that is intended for human use and that is subject to section 353(b)(1) of this title; and
@@ -52,20 +52,31 @@ section: 356c
     - **(B)** provide a period of not less than 60 days for comments on the proposed regulation; and
     - **(C)** publish the final regulation not less than 30 days before the regulation’s effective date.
   - **(5)** *Restrictions* Notwithstanding any other provision of Federal law, in implementing this section, the Secretary shall only promulgate regulations as described in paragraph (4).
+- **(j)** *Risk management plans* Each manufacturer of a drug described in subsection (a) or of any active pharmaceutical ingredient or any associated medical device used for preparation or administration included in the drug, shall develop, maintain, and implement, as appropriate, a redundancy risk management plan that identifies and evaluates risks to the supply of the drug, as applicable, for each establishment in which such drug or active pharmaceutical ingredient of such drug is manufactured. A risk management plan under this section shall be subject to inspection and copying by the Secretary pursuant to an inspection or a request under section 374(a)(4) of this title.
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 506C, as added Pub. L. 105–115, title I, § 131(a), Nov. 21, 1997, 111 Stat. 2332; amended Pub. L. 112–144, title X, § 1001(a), July 9, 2012, 126 Stat. 1099; Pub. L. 114–255, div. A, title III, § 3101(a)(2)(E), Dec. 13, 2016, 130 Stat. 1153.)
+(June 25, 1938, ch. 675, § 506C, as added Pub. L. 105–115, title I, § 131(a), Nov. 21, 1997, 111 Stat. 2332; amended Pub. L. 112–144, title X, § 1001(a), July 9, 2012, 126 Stat. 1099; Pub. L. 114–255, div. A, title III, § 3101(a)(2)(E), Dec. 13, 2016, 130 Stat. 1153; Pub. L. 116–136, div. A, title III, §§ 3111–3112(b), Mar. 27, 2020, 134 Stat. 361, 362.)
 
 ## Notes
 
+1 So in original.
+
 ### Amendments
 
-2016—Subsec. (c). Pub. L. 114–255, § 3101(a)(2)(E)(i), substituted “discontinuance” for “discontinuation”. Subsec. (g)(1). Pub. L. 114–255, § 3101(a)(2)(E)(ii), substituted “section 355(j) of this title, that could help” for “section 355(j) of this title that could help”. 2012—Pub. L. 112–144 amended section generally. Prior to amendment, section related to discontinuance of life saving products.
+2020—Subsec. (a). Pub. L. 116–136, § 3112(a)(2), in concluding provisions, inserted “, or a permanent discontinuance in the manufacture of an active pharmaceutical ingredient or an interruption in the manufacture of the active pharmaceutical ingredient of such drug that is likely to lead to a meaningful disruption in the supply of the active pharmaceutical ingredient of such drug,” before “and the reasons” and inserted at end “Notification under this subsection shall include disclosure of reasons for the discontinuation or interruption, and if applicable, an active pharmaceutical ingredient is a reason for, or risk factor in, such discontinuation or interruption, the source of the active pharmaceutical ingredient and any alternative sources for the active pharmaceutical ingredient known by the manufacturer; whether any associated device used for preparation or administration included in the drug is a reason for, or a risk factor in, such discontinuation or interruption; the expected duration of the interruption; and such other information as the Secretary may require.” Subsec. (a)(1)(C). Pub. L. 116–136, § 3112(a)(1), inserted “or any such drug that is critical to the public health during a public health emergency declared by the Secretary under section 247d of title 42” after “during surgery”. Subsec. (g). Pub. L. 116–136, § 3111(1), which directed substitution of “the Secretary shall, as appropriate” for “the Secretary may” in par. (1), was executed by making the substitution in introductory provisions to reflect the probable intent of Congress. Subsec. (g)(1). Pub. L. 116–136, § 3111(2), inserted “prioritize and” before “expedite the review”. Subsec. (g)(2). Pub. L. 116–136, § 3111(3), inserted “prioritize and” before “expedite an inspection”. Subsec. (j). Pub. L. 116–136, § 3112(b), added subsec. (j). 2016—Subsec. (c). Pub. L. 114–255, § 3101(a)(2)(E)(i), substituted “discontinuance” for “discontinuation”. Subsec. (g)(1). Pub. L. 114–255, § 3101(a)(2)(E)(ii), substituted “section 355(j) of this title, that could help” for “section 355(j) of this title that could help”. 2012—Pub. L. 112–144 amended section generally. Prior to amendment, section related to discontinuance of life saving products.
+
+### Effective Date of 2020 Amendment
+
+Pub. L. 116–136, div. A, title III, § 3112(g), Mar. 27, 2020, 134 Stat. 363, provided that: “The amendments made by this section [amending this section and sections 356e, 360, and 374 of this title] and section 3111 [amending this section] shall take effect on the date that is 180 days after the date of enactment of this Act [Mar. 27, 2020].”
 
 ### Effective Date
 
 Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as an Effective Date of 1997 Amendment note under section 321 of this title.
+
+### Construction of 2020 Amendment: Confidentiality
+
+Pub. L. 116–136, div. A, title III, § 3112(f), Mar. 27, 2020, 134 Stat. 363, provided that: “Nothing in the amendments made by this section [see Effective Date of 2020 Amendment note set out above] shall be construed as authorizing the Secretary to disclose any information that is a trade secret or confidential information subject to section 552(b)(4) of title 5, United States Code, or section 1905 of title 18, United States Code.”
 
 ### Effect of Notification
 

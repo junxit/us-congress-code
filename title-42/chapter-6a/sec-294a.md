@@ -52,7 +52,7 @@ section: 294a
   - **(2)** *Exception* The periods described in paragraph (1) shall not apply to programs receiving point of service maintenance and enhancement awards under subsection (a)(2) to maintain existing centers and activities.
 - **(i)** *Inapplicability of provision* Notwithstanding any other provision of this subchapter, section 295j(a) of this title shall not apply to an area health education center funded under this section.
 - **(j)** *Authorization of appropriations*
-  - **(1)** *In general* There is authorized to be appropriated to carry out this section $125,000,000 for each of the fiscal years 2010 through 2014.
+  - **(1)** *In general* There is authorized to be appropriated to carry out this section $41,250,000 for each of fiscal years 2021 through 2025.
   - **(2)** *Requirements* Of the amounts appropriated for a fiscal year under paragraph (1)—
     - **(A)** not more than 35 percent shall be used for awards under subsection (a)(1);
     - **(B)** not less than 60 percent shall be used for awards under subsection (a)(2);
@@ -63,7 +63,7 @@ section: 294a
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title VII, § 751, as added Pub. L. 105–392, title I, § 103, Nov. 13, 1998, 112 Stat. 3541; amended Pub. L. 111–148, title V, § 5403(a), Mar. 23, 2010, 124 Stat. 644; Pub. L. 113–128, title V, § 512(z)(2), July 22, 2014, 128 Stat. 1716.)
+(July 1, 1944, ch. 373, title VII, § 751, as added Pub. L. 105–392, title I, § 103, Nov. 13, 1998, 112 Stat. 3541; amended Pub. L. 111–148, title V, § 5403(a), Mar. 23, 2010, 124 Stat. 644; Pub. L. 113–128, title V, § 512(z)(2), July 22, 2014, 128 Stat. 1716; Pub. L. 116–136, div. A, title III, § 3401(6), Mar. 27, 2020, 134 Stat. 386.)
 
 ## Notes
 
@@ -73,7 +73,7 @@ A prior section 294a, act July 1, 1944, ch. 373, title VII, § 762, as added Pub
 
 ### Amendments
 
-2014—Subsec. (c)(1)(A). Pub. L. 113–128 substituted “the applicable one-stop delivery system under section 3151(e) of title 29,” for “the applicable one-stop delivery system under section 2864(c) of title 29,”. 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) which related to authority for provision of financial assistance, requirements for centers, and allocations and costs.
+2020—Subsec. (j)(1). Pub. L. 116–136 substituted “$41,250,000 for each of fiscal years 2021 through 2025” for “$125,000,000 for each of the fiscal years 2010 through 2014”. 2014—Subsec. (c)(1)(A). Pub. L. 113–128 substituted “the applicable one-stop delivery system under section 3151(e) of title 29,” for “the applicable one-stop delivery system under section 2864(c) of title 29,”. 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) which related to authority for provision of financial assistance, requirements for centers, and allocations and costs.
 
 ### Effective Date of 2014 Amendment
 

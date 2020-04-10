@@ -8,7 +8,7 @@ section: 294o
 # § 294o. Advisory Council on Graduate Medical Education
 
 - **(a)** *Establishment; duties* There is established the Council on Graduate Medical Education (in this section referred to as the “Council”). The Council shall—
-  - **(1)** make recommendations to the Secretary of Health and Human Services (in this section referred to as the “Secretary”), and to the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
+  - **(1)** make recommendations to the Secretary of Health and Human Services (in this section referred to as the “Secretary”), and to the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
     - **(A)** the supply and distribution of physicians in the United States;
     - **(B)** current and future shortages or excesses of physicians in medical and surgical specialties and subspecialties;
     - **(C)** issues relating to foreign medical school graduates;
@@ -21,11 +21,12 @@ section: 294o
   - **(5)** recommend appropriation levels for programs under this subchapter, except for programs under part C or D.
 - **(b)** *Composition* The Council shall be composed of—
   - **(1)** the Assistant Secretary for Health or the designee of the Assistant Secretary;
-  - **(2)** the Administrator of the Health Care Financing Administration;
+  - **(2)** the Administrator of the Centers for Medicare & Medicaid Services;
   - **(3)** the Chief Medical Director of the Department of Veterans Affairs;
-  - **(4)** 6 members appointed by the Secretary to include representatives of practicing primary care physicians, national and specialty physician organizations, foreign medical graduates, and medical student and house staff associations;
-  - **(5)** 4 members appointed by the Secretary to include representatives of schools of medicine and osteopathic medicine and public and private teaching hospitals; and
-  - **(6)** 4 members appointed by the Secretary to include representatives of health insurers, business, and labor.
+  - **(4)** the Administrator of the Health Resources and Services Administration;
+  - **(5)** 6 members appointed by the Secretary to include representatives of practicing primary care physicians, national and specialty physician organizations, foreign medical graduates, and medical student and house staff associations;
+  - **(6)** 4 members appointed by the Secretary to include representatives of schools of medicine and osteopathic medicine and public and private teaching hospitals; and
+  - **(7)** 4 members appointed by the Secretary to include representatives of health insurers, business, and labor.
 - **(c)** *Terms of appointed members*
   - **(1)** *In general; staggered rotation* Members of the Council appointed under paragraphs (4), (5), and (6) of subsection (b) shall be appointed for a term of 4 years, except that the term of office of the members first appointed shall expire, as designated by the Secretary at the time of appointment, 4 at the end of 1 year, 4 at the end of 2 years, 3 at the end of 3 years, and 3 at the end of 4 years.
   - **(2)** *Date certain for appointment* The Secretary shall appoint the first members to the Council under paragraphs (4), (5), and (6) of subsection (b) within 60 days after October 13, 1992.
@@ -38,14 +39,12 @@ section: 294o
     - **(A)** collect such information, hold such hearings, and sit and act at such times and places, either as a whole or by subcommittee, and request the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents as the Council or such subcommittee may consider available; and
     - **(B)** request the cooperation and assistance of Federal departments, agencies, and instrumentalities, and such departments, agencies, and instrumentalities are authorized to provide such cooperation and assistance.
   - **(2)** *Coordination of activities* The Council shall coordinate its activities with the activities of the Secretary under section 295k of this title. The Secretary shall, in cooperation with the Council and pursuant to the recommendations of the Council, take such steps as are practicable to eliminate deficiencies in the data base established under section 295k of this title and shall make available in its reports such comprehensive data sets as are developed pursuant to this section.
-- **(i)** *Requirement regarding reports* In the reports required under subsection (a), the Council shall specify its activities during the period for which the report is made.
-- **(j)** *Final report* Not later than April 1, 2002, the Council shall submit a final report under subsection (a).
-- **(k)** *Termination* The Council shall terminate September 30, 2003.
-- **(l)** *Funding* Amounts otherwise appropriated under this subchapter may be utilized by the Secretary to support the activities of the Council.
+- **(i)** *Reports* Not later than September 30, 2023, and not less than every 5 years thereafter, the Council shall submit to the Secretary, and to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on the recommendations described in subsection (a).
+- **(j)** *Funding* Amounts otherwise appropriated under this subchapter may be utilized by the Secretary to support the activities of the Council.
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title VII, § 762, formerly Pub. L. 102–408, title III, § 301, Oct. 13, 1992, 106 Stat. 2080, as amended Pub. L. 102–531, title III, § 313(b), Oct. 27, 1992, 106 Stat. 3507; renumbered § 762 of act July 1, 1944, and amended Pub. L. 105–392, title I, § 104(b), Nov. 13, 1998, 112 Stat. 3552; Pub. L. 107–251, title V, § 502, Oct. 26, 2002, 116 Stat. 1664; Pub. L. 111–148, title V, § 5103(d)(3), Mar. 23, 2010, 124 Stat. 606.)
+(July 1, 1944, ch. 373, title VII, § 762, formerly Pub. L. 102–408, title III, § 301, Oct. 13, 1992, 106 Stat. 2080, as amended Pub. L. 102–531, title III, § 313(b), Oct. 27, 1992, 106 Stat. 3507; renumbered § 762 of act July 1, 1944, and amended Pub. L. 105–392, title I, § 104(b), Nov. 13, 1998, 112 Stat. 3552; Pub. L. 107–251, title V, § 502, Oct. 26, 2002, 116 Stat. 1664; Pub. L. 111–148, title V, § 5103(d)(3), Mar. 23, 2010, 124 Stat. 606; Pub. L. 116–136, div. A, title III, § 3401(10), Mar. 27, 2020, 134 Stat. 386.)
 
 ## Notes
 
@@ -61,11 +60,11 @@ A prior section 294o, act July 1, 1944, ch. 373, title VII, § 777, as added Pub
 
 ### Amendments
 
-2010—Subsec. (a)(3) to (5). Pub. L. 111–148 added pars. (3) to (5). 2002—Subsec. (k). Pub. L. 107–251 substituted “2003” for “2002”. 1998—Subsec. (j). Pub. L. 105–392, § 104(b)(1), substituted “2002” for “1995”. Subsec. (k). Pub. L. 105–392, § 104(b)(2), substituted “2002” for “1995”. Subsec. (l). Pub. L. 105–392, § 104(b)(3), added subsec. (l). 1992—Subsec. (a)(2). Pub. L. 102–531 substituted “voluntarily” for “voluntary”.
+2020—Subsec. (a)(1). Pub. L. 116–136, § 3401(10)(A), substituted “Committee on Health, Education, Labor, and Pensions” for “Committee on Labor and Human Resources” in introductory provisions. Subsec. (b)(2). Pub. L. 116–136, § 3401(10)(B)(i), substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”. Subsec. (b)(4) to (7). Pub. L. 116–136, § 3401(10)(B)(ii), (iii), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively. Subsecs. (i) to (l). Pub. L. 116–136, § 3401(10)(C), (D), added subsec. (i), redesignated subsec. (l) as (j), and struck out former subsecs. (i) to (k) which related to requirement regarding reports, final report, and termination of the Council, respectively. 2010—Subsec. (a)(3) to (5). Pub. L. 111–148 added pars. (3) to (5). 2002—Subsec. (k). Pub. L. 107–251 substituted “2003” for “2002”. 1998—Subsec. (j). Pub. L. 105–392, § 104(b)(1), substituted “2002” for “1995”. Subsec. (k). Pub. L. 105–392, § 104(b)(2), substituted “2002” for “1995”. Subsec. (l). Pub. L. 105–392, § 104(b)(3), added subsec. (l). 1992—Subsec. (a)(2). Pub. L. 102–531 substituted “voluntarily” for “voluntary”.
 
 ### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999. Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001. Reference to Chief Medical Director of Department of Veterans Affairs deemed to refer to Under Secretary for Health of Department of Veterans Affairs pursuant to section 302(e) of Pub. L. 102–405, set out as a note under section 305 of Title 38, Veterans’ Benefits.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001. Reference to Chief Medical Director of Department of Veterans Affairs deemed to refer to Under Secretary for Health of Department of Veterans Affairs pursuant to section 302(e) of Pub. L. 102–405, set out as a note under section 305 of Title 38, Veterans’ Benefits.
 
 ### Effective Date of 1992 Amendment
 

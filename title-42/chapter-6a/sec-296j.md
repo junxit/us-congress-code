@@ -10,7 +10,7 @@ section: 296j
 - **(a)** *In general* The Secretary may award grants to and enter into contracts with eligible entities to meet the costs of—
   - **(1)** projects that support the enhancement of advanced nursing education and practice; and
   - **(2)** traineeships for individuals in advanced nursing education programs.
-- **(b)** *Definition of advanced education nurses* For purposes of this section, the term “advanced education nurses” means individuals trained in advanced degree programs including individuals in combined R.N./Master’s degree programs, post-nursing master’s certificate programs, or, in the case of nurse midwives, in certificate programs in existence on the date that is one day prior to November 13, 1998, to serve as nurse practitioners, clinical nurse specialists, nurse midwives, nurse anesthetists, nurse educators, nurse administrators, or public health nurses, or in other nurse specialties determined by the Secretary to require advanced education.
+- **(b)** *Definition of advanced education nurses* For purposes of this section, the term “advanced education nurses” means individuals trained in advanced degree programs including individuals in combined R.N./graduate degree programs, post-nursing master’s certificate programs, or, in the case of nurse midwives, in certificate programs in existence on the date that is one day prior to November 13, 1998, to serve as nurse practitioners, clinical nurse specialists, nurse midwives, nurse anesthetists, nurse educators, nurse administrators, clinical nurse leaders, or public health nurses, or in other nurse specialties determined by the Secretary to require advanced education.
 - **(c)** *Authorized nurse practitioner* Nurse practitioner programs eligible for support under this section are educational programs for registered nurses (irrespective of the type of school of nursing in which the nurses received their training) that—
   - **(1)** meet guidelines prescribed by the Secretary; and
   - **(2)** have as their objective the education of nurses who will upon completion of their studies in such programs, be qualified to effectively provide primary health care, including primary health care in homes and in ambulatory care facilities, long-term care facilities, acute care, and other health care settings.
@@ -20,8 +20,11 @@ section: 296j
 - **(e)** *Authorized nurse anesthesia programs* Nurse anesthesia programs eligible for support under this section are education programs that—
   - **(1)** provide registered nurses with full-time anesthetist education; and
   - **(2)** are accredited by the Council on Accreditation of Nurse Anesthesia Educational Programs.
-- **(f)** *Other authorized educational programs* The Secretary shall prescribe guidelines as appropriate for other advanced nurse education programs eligible for support under this section.
-- **(g)** *Traineeships*
+- **(f)** *Authorized clinical nurse specialist programs* Clinical nurse specialist programs eligible for support under this section are education programs that—
+  - **(1)** provide registered nurses with full-time clinical nurse specialist education; and
+  - **(2)** have as their objective the education of clinical nurse specialists who will, upon completion of such a program, be qualified to effectively provide care through the wellness and illness continuum to inpatients and outpatients experiencing acute and chronic illness.
+- **(g)** *Other authorized educational programs* The Secretary shall prescribe guidelines as appropriate for other advanced nurse education programs eligible for support under this section.
+- **(h)** *Traineeships*
   - **(1)** *In general* The Secretary may not award a grant to an applicant under subsection (a) unless the applicant involved agrees that traineeships provided with the grant will only pay all or part of the costs of—
     - **(A)** the tuition, books, and fees of the program of advanced nurse education with respect to which the traineeship is provided; and
     - **(B)** the reasonable living expenses of the individual during the period for which the traineeship is provided.
@@ -29,7 +32,7 @@ section: 296j
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title VIII, § 811, as added Pub. L. 105–392, title I, § 123(4), Nov. 13, 1998, 112 Stat. 3566; amended Pub. L. 111–148, title V, § 5308, Mar. 23, 2010, 124 Stat. 629.)
+(July 1, 1944, ch. 373, title VIII, § 811, as added Pub. L. 105–392, title I, § 123(4), Nov. 13, 1998, 112 Stat. 3566; amended Pub. L. 111–148, title V, § 5308, Mar. 23, 2010, 124 Stat. 629; Pub. L. 116–136, div. A, title III, § 3404(a)(5), Mar. 27, 2020, 134 Stat. 393.)
 
 ## Notes
 
@@ -39,4 +42,4 @@ A prior section 296j, act July 1, 1944, ch. 373, title VIII, § 815, as added Ju
 
 ### Amendments
 
-2010—Subsec. (c). Pub. L. 111–148, § 5308(1), struck out “and nurse midwifery programs” after “practitioner” in heading and “and nurse midwifery” after “practitioner” in introductory provisions. Subsecs. (d), (e). Pub. L. 111–148, § 5308(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f). Subsec. (f). Pub. L. 111–148, § 5308(3), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g). Subsec. (f)(2), (3). Pub. L. 111–148, § 5308(2), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary may not obligate more than 10 percent of the traineeships under subsection (a) of this section for individuals in doctorate degree programs.” Subsec. (g). Pub. L. 111–148, § 5308(3), redesignated subsec. (f) as (g).
+2020—Subsec. (b). Pub. L. 116–136, § 3404(a)(5)(A), substituted “R.N./graduate” for “R.N./Master’s” and inserted “clinical nurse leaders,” after “nurse administrators,”. Subsecs. (f) to (h). Pub. L. 116–136, § 3404(a)(5)(B), (C), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively. 2010—Subsec. (c). Pub. L. 111–148, § 5308(1), struck out “and nurse midwifery programs” after “practitioner” in heading and “and nurse midwifery” after “practitioner” in introductory provisions. Subsecs. (d), (e). Pub. L. 111–148, § 5308(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f). Subsec. (f). Pub. L. 111–148, § 5308(3), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g). Subsec. (f)(2), (3). Pub. L. 111–148, § 5308(2), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary may not obligate more than 10 percent of the traineeships under subsection (a) of this section for individuals in doctorate degree programs.” Subsec. (g). Pub. L. 111–148, § 5308(3), redesignated subsec. (f) as (g).

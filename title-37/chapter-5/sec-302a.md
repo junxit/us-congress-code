@@ -13,7 +13,7 @@ section: 302a
     - **(B)** who is an optometry officer of the Regular Corps of the Public Health Service.
   - **(2)** A commissioned officer—
     - **(A)** of a Reserve component of the Army, Navy, or Air Force who is designated as an optometry officer; or
-    - **(B)** who is an optometry officer of the Reserve Corps of the Public Health Service,
+    - **(B)** who is an optometry officer of the Reserve Corps 11 See Change of Name note below. of the Public Health Service,
   - **(3)** A general officer of the Army or the Air Force appointed, from any of the categories named in clause (1) or (2), in the Army, Air Force, or the National Guard, as the case may be.
 - **(b)** *Retention Special Pay.—*
   - **(1)** Under regulations prescribed under section 303a(a) of this title, the Secretary concerned may pay an officer described in paragraph (2) a retention special pay of not more than $15,000 for any twelve-month period during which the officer is not undergoing an internship or initial residency training.
@@ -30,9 +30,15 @@ section: 302a
 
 ## Notes
 
+1 See Change of Name note below.
+
 ### Amendments
 
 2006—Subsec. (b)(4). Pub. L. 109–163 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount.” 2002—Subsec. (b)(1). Pub. L. 107–314 substituted “$15,000” for “$6,000”. 2000—Subsec. (b)(1). Pub. L. 106–398 substituted “the Secretary concerned may pay an officer described in paragraph (2) a” for “an officer described in paragraph (2) may be paid”. 1996—Subsec. (b)(2). Pub. L. 104–201, § 614(a)(1)(A), substituted “a uniformed service” for “an armed force” in introductory provisions. Subsec. (b)(2)(C). Pub. L. 104–201, § 614(a)(1)(B), struck out “of the military department” before “concerned to be”. Subsec. (b)(4). Pub. L. 104–201, § 614(a)(2), struck out “of the military department” before “concerned may terminate”. 1990—Pub. L. 101–510 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b). 1987—Pub. L. 100–26 substituted “A” for “a” at beginning of pars. (1) to (3), “; or” for “, or” at end of par. (1)(A), period for semicolon at end of par. (1)(B), and period for “; and” at end of par. (2). 1980—Pub. L. 96–284 substituted “Each” for “(a) In addition to any other basic pay, special pay, incentive pay or allowance to which he is entitled, each”, struck out “beginning on or after October 1, 1977” after “active duty”, struck out subsec. (b) which prohibited inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay, and struck out subsec. (c) which provided that no special pay be paid for any month after September 1980. 1978—Subsec. (c). Pub. L. 95–485 substituted “September 1980” for “September 1978”. 1977—Subsec. (a). Pub. L. 95–114 amended subsec. (a) to provide for the reinstatement of special pay provisions for optometrists for each month on active duty beginning on or after Oct. 1, 1977. Subsecs. (b), (c). Pub. L. 95–114 reenacted subsec. (b) without change and added subsec. (c). 1973—Subsec. (a). Pub. L. 93–64 substituted “July 1, 1975” for “July 1, 1973” wherever appearing.
+
+### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of Title 42, The Public Health and Welfare.
 
 ### Effective Date of 1977 Amendment
 
