@@ -47,6 +47,10 @@ section: 45I
 
 ## Notes
 
+### Inflation Adjusted Items for Certain Tax Years
+
+For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
+
 ### Amendments
 
 2005—Subsec. (a)(2). Pub. L. 109–135 substituted “qualified crude oil production” for “qualified credit oil production”. Subsec. (b)(2)(C)(i). Pub. L. 109–58, § 1322(a)(3)(B), substituted “section 45K(d)(2)(C)” for “section 29(d)(2)(C)”. Subsec. (c)(2)(A). Pub. L. 109–58, § 1322(a)(3)(D)(i), substituted “section 45K(d)(5))” for “section 29(d)(5))”. Subsec. (d)(3). Pub. L. 109–58, § 1322(a)(3)(D)(ii), substituted “section 45K” for “section 29” in two places.
@@ -58,3 +62,7 @@ Amendment by Pub. L. 109–58 applicable to credits determined under the Interna
 ### Effective Date
 
 Section applicable to production in taxable years beginning after Dec. 31, 2004, see section 341(e) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under section 38 of this title.
+
+### Inflation Adjusted Items for Certain Years
+
+Provisions relating to inflation adjustment of items in this section for certain years were contained in the following: 2018—Internal Revenue Notice 2019–37. 2017—Internal Revenue Notice 2018–52. 2016—Internal Revenue Notice 2017–51.
