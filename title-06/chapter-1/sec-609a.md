@@ -8,7 +8,7 @@ section: 609a
 # § 609a. Nonprofit Security Grant Program
 
 - **(a)** *Establishment* There is established in the Department a program to be known as the “Nonprofit Security Grant Program” (in this section referred to as the “Program”). Under the Program, the Secretary, acting through the Administrator, shall make grants to eligible nonprofit organizations described in subsection (b), through the State in which such organizations are located, for target hardening and other security enhancements to protect against terrorist attacks.
-- **(b)** *Eligible recipients* Eligible nonprofit organizations described in this subsection (a) are organizations that are—
+- **(b)** *Eligible recipients* Eligible nonprofit organizations described in this 11 So in original. The word “this” probably should not appear. subsection (a) are organizations that are—
   - **(1)** described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title; and
   - **(2)** determined to be at risk of a terrorist attack by the Administrator.
 - **(c)** *Permitted uses* The recipient of a grant under this section may use such grant for any of the following uses:
@@ -26,3 +26,7 @@ section: 609a
 ## Source credit
 
 (Pub. L. 107–296, title XX, § 2009, as added Pub. L. 116–108, § 2(a), Jan. 24, 2020, 133 Stat. 3294.)
+
+## Notes
+
+1 So in original. The word “this” probably should not appear.
