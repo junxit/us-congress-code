@@ -45,7 +45,7 @@ section: 171a
   - **(1)** The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system for the national leadership of the United States that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
   - **(2)** In this subsection, the term “anomaly” means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
 - **(i)** *Reports on Space Architecture Development.—*
-  - **(1)** Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisitions and Sustainment shall submit to the congressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
+  - **(1)** Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisitions 11 So in original. Probably should be “Acquisition”. and Sustainment shall submit to the congressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
   - **(2)** A system described in this paragraph is any of the following:
     - **(A)** Advanced extremely high frequency satellites.
     - **(B)** The space-based infrared system.
@@ -82,6 +82,8 @@ section: 171a
 (Added Pub. L. 113–66, div. A, title X, § 1052(a)(1), Dec. 26, 2013, 127 Stat. 859; amended Pub. L. 114–92, div. A, title XVI, § 1651, Nov. 25, 2015, 129 Stat. 1121; Pub. L. 114–328, div. A, title XVI, § 1661, Dec. 23, 2016, 130 Stat. 2613; Pub. L. 115–91, div. A, title X, § 1081(a)(13), title XVI, § 1654(a)(1), Dec. 12, 2017, 131 Stat. 1595, 1758; Pub. L. 116–92, div. A, title XVI, § 1661, Dec. 20, 2019, 133 Stat. 1772.)
 
 ## Notes
+
+1 So in original. Probably should be “Acquisition”.
 
 ### Amendments
 

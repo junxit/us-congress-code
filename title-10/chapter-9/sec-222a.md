@@ -31,7 +31,7 @@ section: 222a
     - **(A)** is not funded in the budget of the President for the fiscal year as submitted to Congress pursuant to section 1105 of title 31;
     - **(B)** is necessary to fulfill a requirement associated with an operational or contingency plan of a combatant command or other validated requirement; and
     - **(C)** would have been recommended for funding through the budget referred to in subparagraph (1) by the officer submitting the report required by subsection (a) in connection with the budget if—
-      - **(i)** additional resources been available for the budget to fund the program, activity, or mission requirement; or
+      - **(i)** additional resources been 11 So in original. Probably should be preceded by “had”. available for the budget to fund the program, activity, or mission requirement; or
       - **(ii)** the program, activity, or mission requirement has emerged since the budget was formulated.
   - **(2)** The term “covered military construction project”, in connection with a fiscal year, means a military construction project that—
     - **(A)** is included in any fiscal year of the future-years defense program under section 221 of this title that is submitted in connection with the budget of the President for the fiscal year, and is executable in the fiscal year; or
@@ -43,9 +43,11 @@ section: 222a
 
 ## Notes
 
+1 So in original. Probably should be preceded by “had”.
+
 ### Amendments
 
-2019—Subsec. (c)(2). Pub. L. 116–92, § 1005(b), amended par. (2) generally. Prior to amendment, text read as follows: “Each report shall present the unfunded priorities covered by such report in order of urgency of priority.” Subsec. (d). Pub. L. 116–92, § 1005(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) defined the term “unfunded priority”. Subsec. (d)(3)(A). Pub. L. 116–92, § 1731(a)(12), inserted “had” before “been”. See Amendment note above and Coordination of Amendments by Pub. L. 116–92 note below.
+2019—Subsec. (c)(2). Pub. L. 116–92, § 1005(b), amended par. (2) generally. Prior to amendment, text read as follows: “Each report shall present the unfunded priorities covered by such report in order of urgency of priority.” Subsec. (d). Pub. L. 116–92, § 1005(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) defined the term “unfunded priority”. Subsec. (d)(3)(A). Pub. L. 116–92, § 1731(a)(12), inserted “had” before “been” prior to the general amendment of subsec. (d). See Amendment note above and Coordination of Amendments by Pub. L. 116–92 note below.
 
 ### Coordination of Amendments by Pub. L. 116–92
 
