@@ -30,7 +30,7 @@ section: 694b
   - **(2)** not to exceed 90 per centum of the loss incurred and paid in the case of a surety requiring the Administration’s specific approval for the issuance of such bond, but in no event may the Administration make any duplicate payment pursuant to subsection (b) or any other subsection;
   - **(3)** equal to 90 per centum of the loss incurred and paid in the case of a surety requiring the administration’s 11 So in original. Probably should be capitalized. specific approval for the issuance of a bond, if—
     - **(A)** the total amount of the contract at the time of execution of the bond or bonds is $100,000 or less, or
-    - **(B)** the bond was issued to a small business concern owned and controlled by socially and economically disadvantaged individuals as defined by section 637(d) of this title, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title); or
+    - **(B)** the bond was issued to a small business concern owned and controlled by socially and economically disadvantaged individuals as defined by section 637(d) of this title, or to a qualified HUBZone small business concern (as defined in section 632(p) 22 See References in Text note below. of this title); or
   - **(4)** determined pursuant to subsection (b), if applicable.
 - **(d)** *Regulations* The Administration may establish and periodically review regulations for participating sureties which shall require such sureties to meet Administration standards for underwriting, claim practices, and loss ratios.
 - **(e)** *Reimbursement of surety; conditions* Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of liability (in whole or in part within the discretion of the Administration) if—
@@ -54,6 +54,12 @@ section: 694b
 ## Notes
 
 1 So in original. Probably should be capitalized.
+
+2 See References in Text note below.
+
+### References in Text
+
+Section 632(p) of this title, referred to in subsec. (c)(3)(B), was redesignated section 657a(b) of this title by Pub. L. 115–91, div. A, title XVII, § 1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
 
 ### Amendments
 

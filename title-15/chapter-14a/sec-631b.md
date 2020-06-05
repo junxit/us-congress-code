@@ -19,7 +19,7 @@ section: 631b
 - **(e)** *Small business concerns owned by disadvantaged individuals and by women 11 See 1988 Amendment note below.* The information and data required to be reported pursuant to subsection (a) shall separately detail those portions of such information and data that are relevant to—
   - **(1)** small business concerns owned and controlled by socially and economically disadvantaged individuals, by gender, as defined pursuant to section 637(d) of this title;
   - **(2)** small business concerns owned and controlled by women; and
-  - **(3)** 22 So in original. Two pars. (3) have been enacted. qualified HUBZone small business concern (as defined in section 632(p) of this title).
+  - **(3)** 22 So in original. Two pars. (3) have been enacted. qualified HUBZone small business concern (as defined in section 632(p) 33 See References in Text note below. of this title).
   - **(3)** 2 small business concerns owned and controlled by veterans, as defined in section 632(q) of this title, and small business concerns owned and controlled by service-disabled veterans, as defined in such section 632(q) of this title.
 
 ## Source credit
@@ -32,9 +32,11 @@ section: 631b
 
 2 So in original. Two pars. (3) have been enacted.
 
+3 See References in Text note below.
+
 ### References in Text
 
-The Internal Revenue Code, referred to in subsec. (a)(4), is classified to Title 26, Internal Revenue Code. The Employee Retirement Income Security Act, referred to in subsec. (a)(4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables. The Securities Act of 1933, referred to in subsec. (a)(4), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables. The Securities Exchange Act of 1934, referred to in subsec. (a)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Internal Revenue Code, referred to in subsec. (a)(4), is classified to Title 26, Internal Revenue Code. The Employee Retirement Income Security Act, referred to in subsec. (a)(4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables. The Securities Act of 1933, referred to in subsec. (a)(4), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables. The Securities Exchange Act of 1934, referred to in subsec. (a)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables. Section 632(p) of this title, referred to in subsec. (e)(3), was redesignated section 657a(b) of this title by Pub. L. 115–91, div. A, title XVII, § 1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
 
 ### Codification
 
