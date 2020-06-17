@@ -52,7 +52,7 @@ section: 410xxx
 
 ## Source credit
 
-(Pub. L. 115–141, div. G, title I, § 121(a)(2), Mar. 23, 2018, 132 Stat. 661; Pub. L. 116–9, title II, § 2109(a), Mar. 12, 2019, 133 Stat. 731.)
+(Pub. L. 115–141, div. G, title I, § 121(a)(2) [div. B, title VII, § 7134], Mar. 23, 2018, 132 Stat. 661, 1225A–5; Pub. L. 116–9, title II, § 2109(a), Mar. 12, 2019, 133 Stat. 731.)
 
 ## Notes
 
