@@ -5,7 +5,7 @@ chapter: 6A
 section: 247d–7f
 ---
 
-# § 247d–7f. Collaboration and Coordination
+# § 247d–7f. Collaboration and coordination
 
 - **(a)** *Limited antitrust exemption*
   - **(1)** *Meetings and consultations to discuss security countermeasures, qualified countermeasures, or qualified pandemic or epidemic product development*

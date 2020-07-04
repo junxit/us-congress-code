@@ -100,10 +100,6 @@ section: 1395aaa
 
 3 See References in Text note below.
 
-### Amendment of Subsection (b)(5)(A)
-
-For applicability of subsec. (b)(5)(A) of this section as amended by section 50206(c)(1) of Pub. L. 115–123, see Effective Date of 2018 Amendment note below.
-
 ### References in Text
 
 Clause (iii) of section 1395rr(h)(2)(A) of this title, referred to in subsec. (b)(7)(B)(i)(I), was redesignated clause (iv) by Pub. L. 113–93, title II, § 217(d)(1)(B), Apr. 1, 2014, 128 Stat. 1062. Section 12(d) of the National Technology Transfer and Advancement Act of 1995, referred to in subsec. (c)(5), is section 12(d) of Pub. L. 104–113, which is set out as a note under section 272 of Title 15, Commerce and Trade.

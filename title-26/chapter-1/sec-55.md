@@ -107,7 +107,7 @@ A prior section 55, Pub. L. 95–600, title IV, § 421(a), Nov. 6, 1978, 92 Stat
 
 ### Effective Date of 2019 Amendment
 
-Amendment by Pub. L. 116–94 applicable to taxable years beginning after Dec. 31, 2017, see section 501(c)(2) of Pub. L. 116–94, set out as a note under section 1 of this title.
+Amendment by Pub. L. 116–94 applicable to taxable years beginning after Dec. 31, 2017, see section 501(c)(2) of Pub. L. 116–94, set out in a note under section 1 of this title.
 
 ### Effective Date of 2017 Amendment
 

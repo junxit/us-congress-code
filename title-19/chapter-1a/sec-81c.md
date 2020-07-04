@@ -27,10 +27,6 @@ section: 81c
 
 ## Notes
 
-### Amendment of Subsection (a)
-
-Pub. L. 116–113, title V, § 501(e)(5), (g), Jan. 29, 2020, 134 Stat. 69, provided that, effective on the date the USMCA enters into force and applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after that date, subsection “(a)(2)” of this section is amended in the flush text by substituting “goods subject to USMCA drawback, as defined in section 4534(a) of this title” for “goods subject to NAFTA drawback, as defined in section 3333(a) of this title”, “a USMCA country, as defined in section 4502 of this title” for “a NAFTA country, as defined in section 3301(4) of this title”, and “USMCA” for “NAFTA” wherever appearing. See 2020 Amendment note below.
-
 ### Amendment of Section
 
 For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below. For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.
@@ -45,7 +41,7 @@ The Tariff Act of 1930, referred to in subsec. (a)(1), is act June 17, 1930, ch.
 
 ### Effective Date of 2020 Amendment
 
-Pub. L. 116–113, title V, § 501(g), Jan. 29, 2020, 134 Stat. 69, provided that: “(1) In general.—Each transfer, redesignation, and amendment made by subsections (b) through (e) [amending this section and sections 1311 to 1313, 1562, 3333, and 4534 of this title] shall—“(A) take effect on the date on which the USMCA enters into force; and “(B) apply with respect to a good entered, or withdrawn from warehouse for consumption, on or after that date. “(2) Transition from nafta treatment.—In the case of a good entered, or withdrawn from warehouse for consumption, before the date on which the USMCA enters into force—“(A) the amendments made by subsections (b) through (e) shall not apply with respect to the good; and “(B) the provisions of law amended by such subsections, as such provisions were in effect on the day before that date, shall continue to apply on and after that date with respect to the good.” [For definition of “USMCA” as used in section 501(g) of Pub. L. 116–113, set out above, see section 4502 of this title.]
+Pub. L. 116–113, title V, § 501(g), Jan. 29, 2020, 134 Stat. 69, provided that: “(1) In general.—Each transfer, redesignation, and amendment made by subsections (b) through (e) [amending this section and sections 1311 to 1313, 1562, 3333, and 4534 of this title] shall—“(A) take effect on the date on which the USMCA enters into force [July 1, 2020]; and “(B) apply with respect to a good entered, or withdrawn from warehouse for consumption, on or after that date. “(2) Transition from nafta treatment.—In the case of a good entered, or withdrawn from warehouse for consumption, before the date on which the USMCA enters into force—“(A) the amendments made by subsections (b) through (e) shall not apply with respect to the good; and “(B) the provisions of law amended by such subsections, as such provisions were in effect on the day before that date, shall continue to apply on and after that date with respect to the good.” [For definition of “USMCA” as used in section 501(g) of Pub. L. 116–113, set out above, see section 4502 of this title.]
 
 ### Effective and Termination Dates of 2003 Amendment
 
@@ -57,7 +53,7 @@ Pub. L. 104–295, § 31(b), Oct. 11, 1996, 110 Stat. 3537, provided that: “Th
 
 ### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
+Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, formerly set out as an Effective Date note under section 3331 of this title.
 
 ### Effective Date of 1990 Amendment
 

@@ -35,7 +35,7 @@ section: 589b
 
 ## Source credit
 
-(Added Pub. L. 109–8, title VI, § 602(a), Apr. 20, 2005, 119 Stat. 120; Pub. L. 116–54, § 4(b)(2), Aug. 23, 2019, 133 Stat. 1086.)
+(Added Pub. L. 109–8, title VI, § 602(a), Apr. 20, 2005, 119 Stat. 120; amended Pub. L. 116–54, § 4(b)(2), Aug. 23, 2019, 133 Stat. 1086.)
 
 ## Notes
 
