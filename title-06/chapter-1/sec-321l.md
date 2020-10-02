@@ -28,6 +28,8 @@ section: 321l
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsecs. (a), (c). Pub. L. 115–278 substituted “Director of Cybersecurity and Infrastructure Security” for “Assistant Secretary for Infrastructure Protection”.

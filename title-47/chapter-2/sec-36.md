@@ -15,9 +15,13 @@ The President is empowered to prevent the landing of any cable about to be lande
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Submarine Cable Act which comprises this chapter.
+
+### Executive Documents
 
 ### Delegation of Functions
 

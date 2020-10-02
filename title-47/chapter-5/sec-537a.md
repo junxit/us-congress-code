@@ -24,6 +24,8 @@ section: 537a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2018, and not as part of the Communications Act of 1934 which comprises this chapter.

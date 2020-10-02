@@ -15,6 +15,8 @@ If any railroad or telegraph company referred to in section 9 of this title, or 
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Transfer of Functions
 
 Duties, powers, and functions under this section relating to operation of telegraph lines by railroad and telegraph lines granted Government aid in construction of their lines imposed on and vested in Federal Communications Commission by act June 19, 1934. See section 601 of this title.

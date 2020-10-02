@@ -35,9 +35,13 @@ section: 106A
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 610(a) of the Visual Artists Rights Act of 1990 [Pub. L. 101–650], referred to in subsec. (d), is set out as an Effective Date note below.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

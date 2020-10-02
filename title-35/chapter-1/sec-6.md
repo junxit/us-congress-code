@@ -22,6 +22,8 @@ section: 6
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (d), probably means the date of enactment of Pub. L. 112–29, which amended this section generally and was approved Sept. 16, 2011.
@@ -33,6 +35,8 @@ A prior section 6, acts July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 92–132, 
 ### Amendments
 
 2011—Pub. L. 112–29 amended section generally. Prior to amendment, section related to the establishment, composition, and function of the Board of Patent Appeals and Interferences and to the appointment of administrative patent judges. 2008—Subsec. (a). Pub. L. 110–313, § 1(a)(1)(A), (B), substituted “Deputy Director” for “Deputy Commissioner” in second sentence and “Secretary of Commerce, in consultation with the Director” for “Director” in last sentence. Subsecs. (c), (d). Pub. L. 110–313, § 1(a)(1)(C), which directed addition of subsecs. (c) and (d) at end of subsec. (a), was executed by adding subsecs. (c) and (d) at end of section to reflect the probable intent of Congress. 2002—Subsec. (a). Pub. L. 107–273, which directed amendment of subsec. (a) by inserting “the Deputy Commissioner,” after “Commissioner,”, was executed by making the insertion after “The Director,” to reflect the probable intent of Congress.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2011 Amendment
 

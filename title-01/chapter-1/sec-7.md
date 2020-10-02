@@ -15,6 +15,8 @@ In determining the meaning of any Act of Congress, or of any ruling, regulation,
 
 ## Notes
 
+### Editorial Notes
+
 ### Constitutionality
 
 For information regarding constitutionality of this section, as added by section 3(a) of Pub. L. 104–199, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.

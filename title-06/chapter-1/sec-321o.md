@@ -53,9 +53,13 @@ section: 321o
 
 1 So in original. Probably should be “functional”.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 2(b) of the Integrated Public Alert and Warning System Modernization Act of 2015, referred to in subsec. (b)(9), is section 2(b) of Pub. L. 114–143, Apr. 11, 2016, 130 Stat. 329, which is not classified to the Code.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Construction
 

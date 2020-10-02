@@ -25,6 +25,8 @@ section: 765a
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 763c of this title, referred to in subsec. (a)(2), was amended generally by Pub. L. 109–34, § 3, July 12, 2005, 119 Stat. 377, and no longer relates to specific criteria for Inmarsat privatization.

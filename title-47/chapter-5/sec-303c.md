@@ -25,6 +25,8 @@ section: 303c
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Television Program Improvement Act of 1990 and also as part of the Judicial Improvements Act of 1990, and not as part of the Communications Act of 1934 which comprises this chapter.

@@ -24,6 +24,8 @@ section: 321q
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (a). Pub. L. 115–387 substituted “the Countering Weapons of Mass Destruction Office,” for “Health Affairs,”.

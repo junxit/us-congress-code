@@ -15,6 +15,8 @@ Whoever knowingly commits, instigates, or assists in any act forbidden by sectio
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Submarine Cable Act which comprises this chapter.

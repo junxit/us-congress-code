@@ -20,6 +20,8 @@ section: 303b
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Children’s Television Act of 1990, and not as part of the Communications Act of 1934 which comprises this chapter.

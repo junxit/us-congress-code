@@ -21,9 +21,13 @@ section: 1
 
 Based on Title 35, U.S.C., 1946 ed., § 1 (R.S. 475 and Executive Order 4175, Mar. 17, 1925). The word “all” is omitted from the corresponding section of the existing statute and “except as otherwise provided by law” added, since some old records are kept in the National Archives, see 44 U.S.C., 1946 ed., ch. 8A. The word “models” has been omitted to remove emphasis on models since they are no longer generally required. They are included by the word “things.” The phrase “and to trade-mark registrations” is added. There is no enactment corresponding to this section in the trade-mark law. The original chapter of the Revised Statutes containing this section deals with the Patent Office as such in its administration of trade-marks as well as patents. This is explicitly brought out in some of the corresponding sections of the present chapter. Changes in language are made.
 
+### Editorial Notes
+
 ### Amendments
 
 1999—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The Patent and Trademark Office shall continue as an office in the Department of Commerce, where records, books, drawings, specifications, and other papers and things pertaining to patents and to trademark registrations shall be kept and preserved, except as otherwise provided by law.” 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

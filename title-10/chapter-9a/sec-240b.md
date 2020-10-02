@@ -32,10 +32,10 @@ section: 240b
       - **(vi)** A certification of the results of the audit of the financial statements of the Department performed for the preceding fiscal year, and a statement summarizing, based on such results, the current condition of the financial statements of the Department.
       - **(vii)** If less than 50 percent of the auditing services under contract, as described in the briefing required under paragraph (2), are being performed by professionals meeting the qualifications described in section 240d(b) of this title, a detailed description of the risks associated with the risks of the acquisition strategy of the Department with respect to conducting audits and an explanation of how the strategy complies with the policies expressed by Congress.
       - **(viii)** If less than 25 percent of the auditing services under contract, as described in the briefing required under paragraph (2), are being performed by professionals meeting the qualifications described in section 240d(b) of this title, a written certification that the staffing ratio complies with commercial best practices and presents no increased risk of delay in the Department’s ability to achieve a clean audit opinion.
-      - **(ix)** If less than 50 percent of the audit remediation services under contract, as described in the briefing required under paragraph (2)(B), are being performed by individual professionals meeting the qualifications described in suhsection (c), a detailed description of the risks associated with the risks of the acquisition strategy of the Department with respect to conducting audit remediation activities and an explanation of how the strategy complies with the policies expressed by Congress.
+      - **(ix)** If less than 50 percent of the audit remediation services under contract, as described in the briefing required under paragraph (2)(B), are being performed by individual professionals meeting the qualifications described in suhsection 11 So in original. Probably should be “subsection”. (c), a detailed description of the risks associated with the risks of the acquisition strategy of the Department with respect to conducting audit remediation activities and an explanation of how the strategy complies with the policies expressed by Congress.
       - **(x)** If less than 25 percent of the audit remediation services under contract, as described in the briefing required under paragraph (2)(B), are being performed by individual professionals meeting the qualifications described in subsection (c), a written certification that the staffing ratio complies with commercial best practices and presents no increased risk of delay in the Department’s ability to achieve a clean audit opinion.
       - **(xi)** A description of audit activities and results for classified programs, including a description of the use of procedures and requirements to prevent unauthorized exposure of classified information in such activities.
-      - **(xii)** An identification 11 So in original. The word “of” probably should appear. the manner in which the corrective action plan or plans of each department, agency, component, or element of the Department of Defense, and the corrective action plan of the Department as a whole, support the National Defense Strategy (NDS) of the United States.
+      - **(xii)** An identification 22 So in original. The word “of” probably should appear. the manner in which the corrective action plan or plans of each department, agency, component, or element of the Department of Defense, and the corrective action plan of the Department as a whole, support the National Defense Strategy (NDS) of the United States.
     - **(C)** *Additional requirements.—*
       - **(i)** *Unclassified form.—* A description submitted pursuant to clause (vii) or (ix) of subparagraph (B) or a certification submitted pursuant to clause (viii) of such subparagraph shall be submitted in unclassified form, but may contain a classified annex.
       - **(ii)** *Delegation.—* The Secretary may not delegate the submission of a certification pursuant to clause (viii) of subparagraph (B) to any official other than the Deputy Secretary of Defense, the Chief Management Officer, or the Under Secretary of Defense (Comptroller).
@@ -51,7 +51,9 @@ section: 240b
 
 ## Notes
 
-1 So in original. The word “of” probably should appear.
+1 So in original. Probably should be “subsection”.
+
+2 So in original. The word “of” probably should appear.
 
 ### Codification
 

@@ -15,6 +15,8 @@ No right shall accrue to any government, person, or corporation under the terms 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Submarine Cable Act which comprises this chapter.

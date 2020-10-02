@@ -20,6 +20,8 @@ section: 10
 
 Based on Title 35, U.S.C., 1946 ed., §§ 13 and 16 (R.S. 489; July 9, 1947, ch. 211, § 301 (part), 61 Stat. 299, repeated in prior and subsequent appropriation acts). Section is amplified to list the publications of the Patent Office, based on 44 U.S.C., 1946 ed., §§ 283, 283a. The second sentence of item 1 of the revised section is a provision appearing annually in appropriation acts to enable the Patent Office to maintain a small printing press to place headings on drawings before the drawings are reproduced. Language is changed.
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 10 was renumbered section 9 of this title.
@@ -27,6 +29,8 @@ A prior section 10 was renumbered section 9 of this title.
 ### Amendments
 
 2002—Subsec. (a). Pub. L. 107–273, § 13206(b)(3)(A), amended directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4804(b)]. See 1999 Amendment note below. Subsec. (a)1. Pub. L. 107–273, § 13205(2)(A), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(1)]. See 1999 Amendment note below. Subsec. (b). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below. 1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)], renumbered section 11 of this title as this section. Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4804(b)], as amended by Pub. L. 107–273, § 13206(b)(3)(A), which directed the general amendment of the introductory provisions of subsec. (a) of section 10 of this title to read “The Director may publish in printed, typewritten, or electronic form, the following:”, was executed to this section, which was section 11 of this title, to reflect the probable intent of Congress. This section was subsequently renumbered section 10 of this title by Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)]. Prior to amendment, introductory provisions of subsec. (a) read as follows: “The Commissioner may print, or cause to be printed, the following:”. See note above and Effective Date of 1999 Amendment note below. Subsec. (a)1. Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(1)], as amended by Pub. L. 107–273, § 13205(2)(A), inserted “and published applications for patents” after “Patents”. Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner”. 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”, wherever appearing.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1999 Amendment
 

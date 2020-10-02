@@ -15,6 +15,8 @@ While the two Houses shall be in meeting as provided in this chapter, the Presid
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1954—Act Sept. 3, 1954, substituted “chapter” for “subchapter”.

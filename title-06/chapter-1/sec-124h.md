@@ -105,9 +105,13 @@ section: 124h
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2020—Subsecs. (j) to (l). Pub. L. 116–116 added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (l), respectively. 2018—Subsec. (c)(2)(B). Pub. L. 115–278 substituted “Cybersecurity and Infrastructure Security Agency” for “Office of Infrastructure Protection”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Office of Intelligence and Analysis Field Personnel Support to Fusion Centers
 

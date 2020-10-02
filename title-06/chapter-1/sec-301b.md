@@ -18,6 +18,8 @@ Nothing in this part or in section 4 of the Cross-Border Trade Enhancement Act o
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 4 of the Cross-Border Trade Enhancement Act of 2016, referred to in text, is section 4 of Pub. L. 114–279, Dec. 16, 2016, 130 Stat. 1422, which repealed section 560 of division D of Pub. L. 113–6 and section 559 of title V of division F of Pub. L. 113–76. Section 560 of Pub. L. 113–6, was not classified to the Code. Section 559 of Pub. L. 113–76 was classified as a note under section 211 of this title.

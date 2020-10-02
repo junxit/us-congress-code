@@ -50,6 +50,8 @@ section: 615c
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 158(e)(4) of the National Telecommunications and Information Administration Organization Act, referred to in subsec. (c)(7), probably means section 158(f)(4) of title I of Pub. L. 102–538, which was formerly classified to section 942(f)(4) of this title and was omitted from the Code. The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.

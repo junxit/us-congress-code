@@ -55,6 +55,8 @@ section: 2
 
 Based on Title 35, U.S.C., 1946 ed., § 3 (R.S. 478). “Certificates of trade-mark registrations” is added, see note under section 1. Changes in language are made and the specific date eliminated.
 
+### Editorial Notes
+
 ### References in Text
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(A), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§ 11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
@@ -62,6 +64,8 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(A), is
 ### Amendments
 
 2011—Subsec. (b)(2)(E). Pub. L. 112–29, § 20(j), struck out “of this title” after “41(h)(1)”. Subsec. (b)(2)(G). Pub. L. 112–29, § 25, added subpar. (G). Subsec. (b)(4)(A). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”. Subsec. (b)(11). Pub. L. 112–29, § 21(a), inserted “, and the Office is authorized to expend funds to cover the subsistence expenses and travel-related expenses, including per diem, lodging costs, and transportation costs, of persons attending such programs who are not Federal employees” after “world”. 2003—Subsec. (b)(4)(A). Pub. L. 108–178 substituted “subtitle I and chapter 33 of title 40, title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.),” for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.), the Public Buildings Act (40 U.S.C. 601 et seq.),”. 2002—Subsec. (b)(2)(B), (4)(B). Pub. L. 107–273 struck out “, United States Code” before semicolon at end. 2000—Subsec. (b)(4)(A). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”. 1999—Pub. L. 106–113 amended section catchline and text generally. Prior to amendment, text read as follows: “The Patent and Trademark Office shall have a seal with which letters patent, certificates of trade-mark registrations, and papers issued from the Office shall be authenticated.” 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2011 Amendment
 

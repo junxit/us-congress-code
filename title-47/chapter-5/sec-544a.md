@@ -45,9 +45,13 @@ section: 544a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (b)(1). Pub. L. 115–141, in heading, substituted “Regulations” for “Report; regulations”, and in text, substituted “The Commission shall issue such regulations as are necessary to assure” for “Within 1 year after October 5, 1992, the Commission, in consultation with representatives of the cable industry and the consumer electronics industry, shall report to Congress on means of assuring” and struck out at end “Within 180 days after the date of submission of the report required by this subsection, the Commission shall issue such regulations as are necessary to assure such compatibility.” 1996—Subsec. (a)(4). Pub. L. 104–104, § 301(f)(1), added par. (4). Subsec. (c)(1)(A) to (C). Pub. L. 104–104, § 301(f)(2), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively. Subsec. (c)(2)(D) to (F). Pub. L. 104–104, § 301(f)(3), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

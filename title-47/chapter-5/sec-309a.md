@@ -21,6 +21,8 @@ section: 309a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of section 512 of div. P of Pub. L. 115–141. Subsec. (a) of section 512 of div. P of Pub. L. 115–141 amended section 309 of this title.

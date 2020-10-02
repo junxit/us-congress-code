@@ -18,6 +18,8 @@ It is the sense of Congress that—
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 319 of this title prior to renumbering by Pub. L. 109–295.

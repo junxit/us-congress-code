@@ -15,6 +15,8 @@ In fiscal year 2004 and thereafter, students attending training at any Center si
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Center, referred to in text, means the Federal Law Enforcement Training Center.

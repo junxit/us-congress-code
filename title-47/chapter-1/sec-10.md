@@ -17,6 +17,8 @@ Whenever any telegraph company which shall have accepted the provisions of secti
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 1 to 6 and 8 of this title, referred to in text, were repealed by act July 16, 1947, ch. 256, § 1, 61 Stat. 327.

@@ -62,6 +62,8 @@ section: 195c
 
 1 So in original. The word “and” probably should not appear.
 
+### Editorial Notes
+
 ### References in Text
 
 The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec. (h)(1), is Pub. L. 95–426, Oct. 7, 1978, 92 Stat. 963. Title V of the Act is classified generally to sections 2656a to 2656d of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Tables.
@@ -69,6 +71,8 @@ The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec
 ### Amendments
 
 2018—Subsec. (f). Pub. L. 115–387 substituted “the Assistant Secretary for the Countering Weapons of Mass Destruction Office,” for “the Chief Medical Officer,”. 2016—Subsec. (e)(3), (4). Pub. L. 114–304, § 2(a)(1), added pars. (3) and (4). Subsecs. (g) to (i). Pub. L. 114–304, § 2(a)(2), (3), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Findings
 

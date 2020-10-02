@@ -25,6 +25,8 @@ section: 6
 
 Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 636:174.June 22, 1942, ch. 435, § 2, 56 Stat. 378; Dec. 22, 1942, ch. 806, § 2, 56 Stat. 1074; July 7, 1976, Pub. L. 94–344, (2)–(5), 90 Stat. 810. In subsection (d), the words “Veterans Day” are substituted for “Armistice Day” because of the Act of June 1, 1954 (ch. 250, 68 Stat. 168).
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Subsec. (d). Pub. L. 115–15 inserted “National Vietnam War Veterans Day, March 29;” after “third Monday in February;”. 2009—Subsec. (d). Pub. L. 111–41 inserted “National Korean War Veterans Armistice Day, July 27;” after “July 4;”. 2008—Subsec. (d). Pub. L. 110–239 inserted “Father’s Day, third Sunday in June;” after “Flag Day, June 14;”. 1999—Subsec. (d). Pub. L. 106–80 inserted “Martin Luther King Jr.’s birthday, third Monday in January;” after “January 20;”.

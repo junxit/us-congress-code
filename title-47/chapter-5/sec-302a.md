@@ -41,9 +41,13 @@ section: 302a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Subsec. (f). Pub. L. 106–521 added subsec. (f). 1996—Subsec. (e). Pub. L. 104–104 added subsec. (e). 1992—Subsec. (d). Pub. L. 102–556 added subsec. (d). 1982—Subsec. (a). Pub. L. 97–259, § 108(a)(1), (2), inserted “(1)” after “regulations” and “; and (2) establishing minimum performance standards for home electronic equipment and systems to reduce their susceptibility to interference from radio frequency energy” after “radio communications”, and substituted “or shipment of such devices and home electronic equipment and systems, and to the use of such devices” for “shipment, or use of such devices”. Subsec. (b). Pub. L. 97–259, § 108(a)(3), substituted “or ship devices or home electronic equipment and systems, or use devices,” for “ship, or use devices”. Subsec. (c). Pub. L. 97–259, § 108(a)(4), inserted “or home electronic equipment and systems” after “devices” wherever appearing, inserted “and home electronic equipment and systems” after “Devices”, substituted “objectives” for “common objective”, and inserted “and to home electronic equipment and systems” after “reception”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effect on Other Laws
 
@@ -51,4 +55,4 @@ Pub. L. 102–556, title IV, § 403(c), Oct. 28, 1992, 106 Stat. 4195, provided 
 
 ### Minimum Performance Standards; Home Electronic Equipment and Systems Manufactured Before September 13, 1982
 
-Pub. L. 97–259, title I, § 108(b), Sept. 13, 1982, 96 Stat. 1092, provided that: “Any minimum performance standard established by the Federal Communications Commission under section 302(a)(2) of the Communications Act of 1934 [subsec. (a)(2) of this section], as added by the amendment made in subsection (a)(1), shall not apply to any home electronic equipment or systems manufactured before the date of the enactment of this Act [Sept. 13, 1982].”
+Pub. L. 97–259, title I, § 108(b), Sept. 13, 1982, 96 Stat. 1092, provided that any minimum performance standard established by the Federal Communications Commission under subsec. (a)(2) of this section would not apply to any home electronic equipment or systems manufactured before Sept. 13, 1982.

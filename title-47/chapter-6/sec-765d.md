@@ -22,6 +22,8 @@ Effective on the dates specified, the following provisions of this chapter shall
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The transfer of assets and receipt by signatories of ownership shares in the successor entity of INTELSAT, referred to in par. (2), occurred on July 18, 2001. See FCC Report to Congress as Required by the ORBIT Act, FCC 02-170, 17 FCC Rcd. 11458 (released June 14, 2002). The effective date of the Commission order relating to Inmarsat privatization, referred to in par. (3), is June 14, 2005. See In the Matter of Inmarsat Group Holdings Limited Petition for Declaratory Ruling Pursuant to Section 621(5)(F) of the ORBIT Act, Memorandum Opinion and Order, IB Docket 04-439, FCC 05-126 (released June 14, 2005). Section 763c of this title, referred to in par. (3), was amended generally by Pub. L. 109–34, § 3, July 12, 2005, 119 Stat. 377, and no longer relates to specific criteria for Inmarsat privatization. The effective date of the Commission order relating to INTELSAT privatization, referred to in par. (4), is Apr. 15, 2005. See In the Matter of Intelsat, Ltd. Petition for Declaratory Ruling that Intelsat, Ltd. Complies With Section 621(5)(F) of the ORBIT Act, Memorandum Opinion and Order, IB Docket 05-18, FCC 05-86 (released April 15, 2005).

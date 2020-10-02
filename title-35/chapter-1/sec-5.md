@@ -34,6 +34,8 @@ section: 5
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -45,6 +47,8 @@ A prior section 5, act July 19, 1952, ch. 950, 66 Stat. 793, related to bond of 
 ### Amendments
 
 2013—Subsec. (a)(1). Pub. L. 112–274, § 1(l)(1)(A), substituted “In each year, 3 members shall be appointed to each Advisory Committee for 3-year terms that shall begin on December 1 of that year. Any vacancy on an Advisory Committee shall be filled within 90 days after it occurs. A new member who is appointed to fill a vacancy shall be appointed to serve for the remainder of the predecessor’s term.” for “Members of each Public Advisory Committee shall be appointed for a term of 3 years, except that of the members first appointed, three shall be appointed for a term of 1 year, and three shall be appointed for a term of 2 years. In making appointments to each Committee, the Secretary of Commerce shall consider the risk of loss of competitive advantage in international commerce or other harm to United States companies as a result of such appointments.” Subsec. (a)(2). Pub. L. 112–274, § 1(l)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary shall designate a chair of each Advisory Committee, whose term as chair shall be for 3 years.” Subsec. (a)(3). Pub. L. 112–274, § 1(l)(1)(C), struck out par. (3). Text read as follows: “Initial appointments to each Advisory Committee shall be made within 3 months after the effective date of the Patent and Trademark Office Efficiency Act. Vacancies shall be filled within 3 months after they occur.” 2002—Subsec. (e). Pub. L. 107–273, § 13206(a)(3), struck out “, United States Code” after “title 5” in two places. Subsec. (g). Pub. L. 107–273, § 13206(a)(3), struck out “, United States Code” after “title 18”. Subsec. (i). Pub. L. 107–273, § 13203(b)(1), inserted “, privileged,” after “personnel”. Subsec. (j). Pub. L. 107–273, § 13203(b)(2), added subsec. (j).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2013 Amendment
 

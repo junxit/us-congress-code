@@ -23,6 +23,8 @@ section: 112a
 
 1 So in original. The comma probably should be a semicolon.
 
+### Editorial Notes
+
 ### References in Text
 
 The date of enactment of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 103–236, which was approved Apr. 30, 1994.
@@ -30,6 +32,8 @@ The date of enactment of the Foreign Relations Authorization Act, Fiscal Years 1
 ### Amendments
 
 2004—Subsec. (d). Pub. L. 108–458 added subsec. (d). 1994—Pub. L. 103–236 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2004 Amendment
 

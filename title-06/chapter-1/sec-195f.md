@@ -74,6 +74,8 @@ section: 195f
 
 1 So in original. Probably should be “construed—”.
 
+### Editorial Notes
+
 ### References in Text
 
 Executive Order 13865, referred to in subsec. (e)(1), is Ex. Ord. No. 13865, Mar. 26, 2019, 84 F.R. 12041, which is set out as a note under this section. Section 61003(c) of division F of the Fixing America’s Surface Transportation Act, referred to in subsec. (e)(1), is section 61003(c) of Pub. L. 114–94, div. F, Dec. 4, 2015, 129 Stat. 1778, which is set out as a note under section 121 of this title.
@@ -82,9 +84,13 @@ Executive Order 13865, referred to in subsec. (e)(1), is Ex. Ord. No. 13865, Mar
 
 2019—Pub. L. 116–92, § 1740(a)(1)(A), inserted “and threat assessment, response, and recovery” after “development” in section catchline. Subsecs. (d), (e). Pub. L. 116–92, § 1740(a)(1)(B), added subsecs. (d) and (e). 2018—Subsec. (c)(1). Pub. L. 115–278, § 2(g)(3)(C), substituted “Section 673 of this title” for “Section 133 of this title”.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Benchmarks; Definitions
 
 Pub. L. 116–92, div. A, title XVII, § 1740(d), (h), Dec. 20, 2019, 133 Stat. 1824, 1825, provided that: “(d) Benchmarks.—Not later than March 26, 2020, and as appropriate thereafter, the Secretary of Energy, in consultation with the Secretary of Defense, the Secretary of Homeland Security, and, as appropriate, the private sector, may develop or update, as necessary, quantitative and voluntary benchmarks that sufficiently describe the physical characteristics of EMPs, including waveform and intensity, in a form that is useful to and can be shared with owners and operators of critical infrastructure. Nothing in this subsection shall affect the authority of the Electric Reliability Organization to develop and enforce, or the authority of the Federal Energy Regulatory Commission to approve, reliability standards. “(h) Definitions.—In this section [amending this section and section 347 of this title and enacting this note and provisions not set out in the Code]:“(1) The term ‘appropriate congressional committees’ has the meaning given that term in subsection (d) of section 320 of the Homeland Security Act of 2002 [6 U.S.C. 195f(d)], as added by subsection (a) of this section; and “(2) The terms ‘critical infrastructure’, ‘EMP’, and ‘GMD’ have the meanings given such terms in section 2 of the Homeland Security Act of 2002 (6 U.S.C. 101).”
+
+### Executive Documents
 
 ### Ex. Ord. No. 13865. Coordinating National Resilience to Electromagnetic Pulses
 

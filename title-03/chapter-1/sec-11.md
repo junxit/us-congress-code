@@ -15,9 +15,13 @@ The electors shall dispose of the certificates so made by them and the lists att
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1984—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services” two places in par. “Third”. 1951—Act Oct. 31, 1951, substituted “Administrator of General Services” for “Secretary of State” two places in par. “Third”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1984 Amendment
 

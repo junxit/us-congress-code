@@ -16,9 +16,13 @@ section: 321c
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsecs. (b), (c). Pub. L. 115–278 redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “There is in the Department an Assistant Secretary for Cybersecurity and Communications.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

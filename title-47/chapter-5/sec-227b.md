@@ -74,6 +74,8 @@ section: 227b
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 13, referred to in subsec. (b)(5)(C)(ii), is section 13 of Pub. L. 116–105, which is set out as a note under section 227 of this title. Section 10, referred to in subsec. (c), means section 10 of Pub. L. 116–105.
@@ -81,6 +83,8 @@ Section 13, referred to in subsec. (b)(5)(C)(ii), is section 13 of Pub. L. 116�
 ### Codification
 
 Section was enacted as part of the Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act, also known as the Pallone-Thune TRACED Act, and not as part of the Communications Act of 1934 which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definition
 

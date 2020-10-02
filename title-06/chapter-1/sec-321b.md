@@ -27,9 +27,13 @@ section: 321b
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Executive Order No. 13347, referred to in subsecs. (a) and (b)(2), is set out as a note under section 314 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

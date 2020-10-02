@@ -70,9 +70,13 @@ section: 195b
 
 1 So in original. No par. (2) has been enacted.
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (a). Pub. L. 115–387 substituted “Secretary, acting through the Assistant Secretary for the Countering Weapons of Mass Destruction Office, shall” for “Secretary shall”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Deadline for Implementation
 

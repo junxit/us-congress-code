@@ -18,6 +18,8 @@ section: 615a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Wireless Communications and Public Safety Act of 1999, and not as part of the Communications Act of 1934 which comprises this chapter.

@@ -31,6 +31,8 @@ As used in this Act:
 
 1 So in original. Two pars. (8) have been enacted.
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in text, is Pub. L. 106–81, Oct. 26, 1999, 113 Stat. 1286, known as the Wireless Communications and Public Safety Act of 1999, which enacted sections 615 to 615b of this title, amended sections 222 and 251 of this title, and enacted provisions set out as notes under sections 609 and 615 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendments note set out under section 609 of this title and Tables. The Communications Act of 1934, referred to in par. (9)(A), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.

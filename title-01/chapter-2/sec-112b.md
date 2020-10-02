@@ -32,6 +32,8 @@ section: 112b
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), which was classified to section 2405(j)(1)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4605(j)(1)(A) of Title 50, was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
@@ -39,6 +41,8 @@ Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subs
 ### Amendments
 
 2004—Subsec. (a). Pub. L. 108–458, § 7121(b), substituted “Committee on International Relations” for “Committee on Foreign Affairs”. Subsec. (d). Pub. L. 108–458, § 7121(c), added subsec. (d). Former subsec. (d) redesignated (e). Subsec. (e). Pub. L. 108–458, § 7121(d), designated existing provisions as par. (1), substituted “Subject to paragraph (2), the Secretary of State” for “The Secretary of State”, and added par. (2). Pub. L. 108–458, § 7121(c)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f). Subsec. (f). Pub. L. 108–458, § 7121(c)(1), redesignated subsec. (e) as (f). 1994—Subsec. (a). Pub. L. 103–437 substituted “Committee on Foreign Affairs” for “Committee on International Relations”. 1978—Pub. L. 95–426 designated existing provisions as subsec. (a), inserted “(including the text of any oral international agreement, which agreement shall be reduced to writing)”, and added subsecs. (b) to (e). 1977—Pub. L. 95–45 substituted “Committee on International Relations of the House of Representatives” for “Committee on Foreign Affairs of the House of Representatives” and inserted requirement that any department or agency of the United States Government which enters into any international agreement on behalf of the United States transmit to the Department of State the text of such agreement not later than twenty days after the agreement has been signed.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

@@ -35,6 +35,8 @@ section: 596a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 1036 of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (a)(1)(C)(i), is section 1036 of Pub. L. 111–84, Oct. 28, 2009, 123 Stat. 2190, which is not classified to the Code. For complete classification of this Act to the Code, see Tables.
@@ -42,6 +44,8 @@ Section 1036 of the National Defense Authorization Act for Fiscal Year 2010, ref
 ### Amendments
 
 2018—Subsec. (a)(1)(C). Pub. L. 115–387, § 2(a)(9)(A), substituted “Assistant Secretary” for “Director of the Domestic Nuclear Detection Office” in introductory provisions. Subsec. (c). Pub. L. 115–387, § 2(a)(9)(B), made technical amendment to reference in original act which appears in text as reference to section 592 of this title. 2010—Subsec. (a)(1)(C). Pub. L. 111–140 added subpar. (C).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

@@ -27,6 +27,8 @@ section: 592a
 
 2 See Change of Name note below.
 
+### Editorial Notes
+
 ### References in Text
 
 This title, referred to in subsec. (c)(1), is title V of Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1932, which enacted this subchapter and this section and amended sections 113 and 182 of this title. For complete classification of title V to the Code, see Tables.
@@ -34,6 +36,8 @@ This title, referred to in subsec. (c)(1), is title V of Pub. L. 109–347, Oct.
 ### Codification
 
 Section was enacted as part of the Security and Accountability For Every Port Act of 2006, also known as the SAFE Port Act, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

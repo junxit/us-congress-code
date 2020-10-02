@@ -15,9 +15,13 @@ Any officer or agent of said railroad or telegraph companies, or of any company 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Words “circuit or” which preceded “district court” were omitted in view of the abolition of the circuit courts and the transfer of their jurisdiction to the district courts by act Mar. 3, 1911.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Functions
 

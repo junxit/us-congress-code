@@ -17,6 +17,8 @@ For fiscal year 2010 and thereafter, the Secretary of Homeland Security may coll
 
 1 So in original.
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Department of Homeland Security Appropriations Act, 2010, and not as part of the Homeland Security Act of 2002 which comprises this chapter.

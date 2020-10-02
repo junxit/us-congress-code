@@ -15,6 +15,8 @@ To the maximum extent practicable, the Secretary shall use national private sect
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 318 of this title prior to renumbering by Pub. L. 109–295.

@@ -15,9 +15,13 @@ It shall be the duty of the executive of each State, as soon as practicable afte
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1984—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services” in section catchline and wherever appearing in text and “National Archives and Records Administration” for “General Services Administration”. 1951—Act Oct. 31, 1951, substituted “Administrator of General Services” for “Secretary of State” in section catchline and several places in text, and for “Secretary of State of the United States” in one place, and “General Services Administration” for “State Department”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1984 Amendment
 

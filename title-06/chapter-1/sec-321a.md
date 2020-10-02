@@ -32,9 +32,13 @@ section: 321a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2007—Subsec. (b)(5)(A). Pub. L. 110–53 inserted “, including the elderly” after “needs”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

@@ -19,9 +19,13 @@ Officers and employees of the Patent and Trademark Office shall be incapable, du
 
 Based on Title 35, U.S.C., 1946 ed., § 4 (R.S. 480). The language is revised and inability to apply for a patent, included in the original language, is made explicit. The period of disability is increased to include one year after leaving the Office. The further restriction, that no priority date earlier than one year after leaving the Office can be claimed, is added. The one year period is made inapplicable to applications which may be pending when the revised title goes into effect by section 4(g) of the bill.
 
+### Editorial Notes
+
 ### Amendments
 
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+### Statutory Notes and Related Subsidiairies
 
 ### Effective Date of 1975 Amendment
 

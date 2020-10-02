@@ -15,6 +15,8 @@ Any person who shall willfully and wrongfully break or injure, or attempt to bre
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Short Title
 
 Act Feb. 29, 1888, ch. 17, 25 Stat. 41, which enacted sections 21 to 33 of this title, is popularly known as the “Submarine Cable Act”.
