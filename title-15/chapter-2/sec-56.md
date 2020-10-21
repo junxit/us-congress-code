@@ -48,7 +48,7 @@ For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date
 
 ### Termination Date of 2006 Amendment
 
-Amendment by sections 5 and 7(b) of Pub. L. 109–455 repealed effective Sept. 30, 2020, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
+Amendment by sections 5 and 7(b) of Pub. L. 109–455 repealed effective Sept. 30, 2027, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
 
 ### Effective Date of 1975 Amendment
 
