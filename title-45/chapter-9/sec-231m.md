@@ -27,9 +27,13 @@ section: 231m
 
 1 So in original. Probably should be followed by a period.
 
+### Editorial Notes
+
 ### Amendments
 
 2008—Subsec. (b)(3). Pub. L. 110–458 added par. (3). 1986—Subsecs. (a), (b)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”. 1983—Subsec. (a). Pub. L. 98–76, § 419(a)(1), substituted “(a) Except as provided in subsection (b) of this section and the Internal Revenue Code of 1954, notwithstanding” for “Notwithstanding”. Subsec. (b)(1). Pub. L. 98–76, § 419(a)(2), substituted “(b)(1) This” for “: Provided, however, That the provisions of this”. Subsec. (b)(2). Pub. L. 98–76, § 419(a)(3), added par. (2).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2008 Amendment
 

@@ -15,9 +15,13 @@ Notwithstanding any other provision of law or contract, Conrail shall be relieve
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1981 and also as part of the Northeast Rail Service Act of 1981, and not as part of the Regional Rail Reorganization Act of 1973 which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

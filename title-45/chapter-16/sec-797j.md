@@ -15,6 +15,8 @@ No State may adopt or continue in force any law, rule, regulation, order, or sta
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Pub. L. 103–272 struck out “, the National Railroad Passenger Corporation, or the Amtrak Commuter Services Corporation” before “to employ any”.

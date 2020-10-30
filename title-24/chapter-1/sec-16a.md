@@ -15,6 +15,8 @@ On and after May 29, 1945, additional commissioned, warranted, appointed, enlist
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is from act May 29, 1945, popularly known as the Naval Appropriation Act, 1946.
@@ -22,6 +24,8 @@ Section is from act May 29, 1945, popularly known as the Naval Appropriation Act
 ### Amendments
 
 1991—Pub. L. 102–54 substituted “Department of Veterans Affairs” for “United States Veterans’ Administration”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Similar Provisions
 

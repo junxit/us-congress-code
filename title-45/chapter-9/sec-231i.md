@@ -18,6 +18,8 @@ section: 231i
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Railroad Unemployment Insurance Act, referred to in subsecs. (a) and (c), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see section 367 of this title and Tables. The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -25,6 +27,8 @@ The Railroad Unemployment Insurance Act, referred to in subsecs. (a) and (c), is
 ### Amendments
 
 1981—Subsec. (a). Pub. L. 97–35 inserted provisions authorizing Board to recover from any payment which would be made to an individual by Board under section 231f(b)(2) of this title amount of annuity payments made to such individual which are erroneous because of such individual’s entitlement to monthly insurance benefits under title II of the Social Security Act.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1981 Amendment
 

@@ -17,6 +17,8 @@ The 15 percent limitation contained in section 322 11 See References in Text not
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 322 of the Act of June 30, 1932 (47 Stat. 412), referred to in text, was repealed by Pub. L. 100–678, § 7, Nov. 17, 1988, 102 Stat. 4052.
@@ -24,6 +26,8 @@ Section 322 of the Act of June 30, 1932 (47 Stat. 412), referred to in text, was
 ### Amendments
 
 2003—Pub. L. 108–178 struck out “; 40 U.S.C. 278a” after “47 Stat. 412”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2003 Amendment
 

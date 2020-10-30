@@ -21,6 +21,8 @@ section: 797g
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 774 of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 97–35, title XI, § 1144(a)(1), Aug. 13, 1981, 95 Stat. 669.

@@ -15,9 +15,13 @@ Every common carrier by railroad while engaging in commerce between any of the s
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1939—Act Aug. 11, 1939, inserted last par.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

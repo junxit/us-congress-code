@@ -15,6 +15,8 @@ This subchapter may be cited as the “Railroad Retirement Act of 1974”.
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Short Title of 2007 Amendment
 
 Pub. L. 109–478, § 1, Jan. 12, 2007, 120 Stat. 3573, provided that: “This Act [amending section 231a of this title and enacting provisions set out as a note under section 231a of this title] may be cited as the ‘Railroad Retirement Disability Earnings Act’.”

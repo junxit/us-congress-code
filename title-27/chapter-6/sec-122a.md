@@ -47,6 +47,8 @@ section: 122a
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date
 
 Pub. L. 106–386, div. C, § 2004(b), Oct. 28, 2000, 114 Stat. 1548, provided that: “This section [enacting this section and section 122b of this title and provisions set out as a note under this section] and the amendments made by this section shall become effective 90 days after the date of the enactment of this Act [Oct. 28, 2000].”

@@ -18,9 +18,13 @@ The Surface Transportation Board shall impose no labor protection conditions in 
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 797l, Pub. L. 93–236, title VII, § 713, as added Pub. L. 97–35, title XI, § 1143(a), Aug. 13, 1981, 95 Stat. 668, authorized appropriations to carry out activities for protection of employees of Consolidated Rail Corporation, prior to repeal by Pub. L. 99–509, title IV, § 4033(a)(2), Oct. 21, 1986, 100 Stat. 1908.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

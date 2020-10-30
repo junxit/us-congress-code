@@ -15,9 +15,13 @@ Hospitalization of the dependents of naval and Marine Corps personnel and of the
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1986—Pub. L. 99–251 amended second sentence generally. Prior to amendment, second sentence read as follows: “Dental treatment shall be administered only as an adjunct to inpatient hospital care and shall not include dental prosthesis or orthodontia.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Partial Repeal; Effective Date
 

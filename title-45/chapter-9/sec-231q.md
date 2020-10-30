@@ -16,6 +16,8 @@ section: 231q
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Social Security Act, referred to in par. (2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -23,6 +25,8 @@ The Social Security Act, referred to in par. (2), is act Aug. 14, 1935, ch. 531,
 ### Amendments
 
 2001—Par. (2). Pub. L. 107–90 inserted “(or less than five years of service, all of which accrues after December 31, 1995)” after “ten years of service” in two places and inserted “(or five or more years of service, all of which accrues after December 31, 1995)” after “ten or more years of service”. 1981—Par. (2). Pub. L. 97–35 inserted “and section 216(i)” after “203”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2001 Amendment
 

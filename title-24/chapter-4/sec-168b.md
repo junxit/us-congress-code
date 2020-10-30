@@ -17,6 +17,8 @@ Amounts chargeable to and available from Federal sources for inpatient and outpa
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 191, 196, 211, 212, and 222 of this title, referred to in text, were repealed by Pub. L. 98–621, § 10(a), (f)(2), (m), Nov. 8, 1984, 98 Stat. 3379, 3380. Section 253 of this title, referred to in text, does not exist. This heading, referred to in text, refers to the headings “Alcohol, Drug Abuse, and Mental Health Administration” and “federal subsidy for saint elizabeths hospital” of title II, “Department of Health and Human Services”, of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriation Act, 1989, Pub. L. 100–436.
@@ -24,6 +26,8 @@ Sections 191, 196, 211, 212, and 222 of this title, referred to in text, were re
 ### Codification
 
 Section is from the appropriation act cited as the credit to this section.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Similar Provisions
 

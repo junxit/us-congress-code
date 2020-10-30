@@ -15,6 +15,8 @@ No action shall be maintained under this chapter unless commenced within three y
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 The first par. of this section is from act Apr. 22, 1908. The second par. of this section is from act Apr. 5, 1910.
@@ -22,6 +24,8 @@ The first par. of this section is from act Apr. 22, 1908. The second par. of thi
 ### Amendments
 
 1948—Act June 25, 1948, struck out provision in last sentence relating to removal of actions. 1939—Act Aug. 11, 1939, changed limitation in first sentence from two to three years.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

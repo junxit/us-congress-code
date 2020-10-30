@@ -48,6 +48,8 @@ section: 225b
 
 1 So in original. Probably should be “responsibilities”.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 422 of the District of Columbia Home Rule Act, referred to in subsec. (b)(3), is section 422 of Pub. L. 93–198, title IV, Dec. 24, 1973, 87 Stat. 790, as amended, which is not classified to the Code. The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in Title 5, Appendix, Government Organization and Employees.
@@ -55,6 +57,8 @@ Section 422 of the District of Columbia Home Rule Act, referred to in subsec. (b
 ### Amendments
 
 1997—Subsec. (b)(3). Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”. 1991—Subsec. (a)(2). Pub. L. 102–150, § 3(a), substituted “October 1, 1993” for “October 1, 1991”. Subsec. (f)(2)(A). Pub. L. 102–150, §§ 2(1), 3(a), substituted “and, except as provided under an agreement entered into pursuant to subparagraph (C), complete” for “and complete” and “October 1, 1993” for “October 1, 1991”. Subsec. (f)(2)(C). Pub. L. 102–150, § 2(2), added subpar. (C).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

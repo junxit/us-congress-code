@@ -15,6 +15,8 @@ For every Navy officer, seaman, or marine admitted into a Navy hospital, the ins
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 4812 derived from act Feb. 26, 1811, ch. 26, § 5, 2 Stat. 650.

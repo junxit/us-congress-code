@@ -20,6 +20,8 @@ section: 25
 
 Based on title 13, U.S.C., 1952 ed., §§ 122, 205, and section 1442 of title 42, U.S.C., 1952 ed., The Public Health and Welfare (June 18, 1929, ch. 28, § 5, 46 Stat. 22; June 19, 1948, ch. 502, § 2, 62 Stat. 479; July 15, 1949, ch. 338, title VI, § 607, 63 Stat. 441). Section consolidates section 205 of title 13, U.S.C., 1952 ed., with that part of section 122 of such title which made such section 205 applicable to the surveys provided for by section 121 of such title (see subchapter IV of chapter 5), and with that part of subsection (b) of section 1442 of title 42, U.S.C., 1952 ed., which made such section 205 applicable to the censuses of housing. References to the Secretary, meaning the Secretary of Commerce, were substituted for references to the Director of the Census, to conform with 1950 Reorganization Plan No. 5, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title. Changes were made in phraseology and arrangement.
 
+### Editorial Notes
+
 ### Amendments
 
 1964—Subsec. (c). Pub. L. 88–530 repealed subsec. (c) which related to duties of enumerators in Bureau of the Census.

@@ -21,9 +21,13 @@ section: 225f
 
 1 So in original. Probably should be “identified”.
 
+### Editorial Notes
+
 ### Amendments
 
 1991—Subsec. (b). Pub. L. 102–150 substituted “October 1, 1992” for “October 1, 1991” and “2-year” for “twelve-month”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

@@ -20,9 +20,13 @@ section: 797i
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 797 of this title, referred to in subsecs. (a) and (b)(1), was repealed by Pub. L. 99–509, title IV, § 4024(c), Oct. 21, 1986, 100 Stat. 1904, effective on the sale date (Apr. 2, 1987). Section 797l of this title, referred to in subsec. (a), was repealed by Pub. L. 99–509, title IV, § 4033(a)(2), Oct. 21, 1986, 100 Stat. 1908, and a new section 797l of this title was subsequently added by Pub. L. 104–88, § 327(5).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Abolition of Interstate Commerce Commission and Transfer of Functions
 

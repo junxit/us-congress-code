@@ -15,6 +15,8 @@ Whenever any officer, seaman, or marine entitled to a pension is admitted to a n
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 4813 derived from act Feb. 26, 1811, ch. 26, § 5, 2 Stat. 650.

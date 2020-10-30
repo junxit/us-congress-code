@@ -31,9 +31,13 @@ section: 797c
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1986—Subsec. (c). Pub. L. 99–272, § 4011(a), designated existing provisions as par. (1) and added par. (2). Subsec. (f). Pub. L. 99–272, § 4011(b), substituted “6-year” for “4-year”. 1983—Subsec. (f). Pub. L. 97–468, § 235(a), substituted “4-year” for “3-year”. Subsec. (g). Pub. L. 97–468, § 235(b), substituted “this section, section 797b of this title, section 907 of this title, or section 1004 of this title” for “this section or section 797b of this title” wherever appearing.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1986 Amendment
 

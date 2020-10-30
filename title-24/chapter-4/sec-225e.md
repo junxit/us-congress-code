@@ -32,6 +32,8 @@ section: 225e
 
 1 So in original. Probably should not be capitalized.
 
+### Editorial Notes
+
 ### References in Text
 
 The District of Columbia Government Comprehensive Merit Personnel Act of 1978, referred to in subsecs. (a)(1), (3), (4), (8), (b), and (c)(2), is D.C. Law 2–139, Mar. 3, 1979, as amended, which is not classified to the Code.

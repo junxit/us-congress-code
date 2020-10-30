@@ -15,6 +15,8 @@ The purposes of the chapter are: (1) To avoid any interruption to commerce or to
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of the first sentence of section 2 of act May 20, 1926. The remainder of section 2 of act May 20, 1926, is classified to section 152 of this title.

@@ -15,6 +15,8 @@ Any person, whether or not in the employ of the United States, who shall furnish
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1941—Act July 30, 1941, struck out requirement that donor had to be in the Military Establishment or a Government employee and that patient had to be in a Government hospital to have donor qualify for payment. 1939—Act June 2, 1939, included the furnishing of blood by employees of the United States Government.

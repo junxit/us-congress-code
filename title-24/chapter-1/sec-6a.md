@@ -17,9 +17,13 @@ Pensions of inmates of a naval hospital, required by law prior to July 1, 1943, 
 
 1 So in original. The words “home or” probably should not appear.
 
+### Editorial Notes
+
 ### Amendments
 
 1990—Pub. L. 101–510 struck out “naval home or” before “naval hospital”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1990 Amendment
 

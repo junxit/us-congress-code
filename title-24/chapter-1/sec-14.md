@@ -15,6 +15,8 @@ The Secretary of the Navy shall procure at suitable places proper sites for Navy
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 4810 derived from acts Feb. 26, 1811, ch. 26, § 3, 2 Stat. 650; July 10, 1832, ch. 194, § 5, 4 Stat. 573.

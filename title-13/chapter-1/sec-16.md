@@ -31,9 +31,13 @@ section: 16
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 3 of the Census Address List Improvement Act of 1994, referred to in subsec. (a)(3), is section 3 of Pub. L. 103–430, set out below.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Development of Appeals Process by Administrator of Office of Information and Regulatory Affairs
 
