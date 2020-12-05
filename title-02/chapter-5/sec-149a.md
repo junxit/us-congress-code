@@ -17,6 +17,8 @@ section: 149a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is from the Legislative Branch Appropriations Act, 2012, which is div. G of the Consolidated Appropriations Act, 2012.

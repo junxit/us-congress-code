@@ -21,6 +21,8 @@ section: 277g
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Short Title
 
 Pub. L. 100–465, § 1, Oct. 3, 1988, 102 Stat. 2272, provided that: “This Act [enacting this section and sections 277g–1 to 277g–3 of this title] may be cited as the ‘Rio Grande Pollution Correction Act of 1987’.”

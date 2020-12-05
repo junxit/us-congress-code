@@ -18,6 +18,8 @@ There is hereby authorized to be appropriated to the Department of State, out of
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Subchapter XVII [§ 287m et seq.] of this chapter, referred to in subsec. (b), was in the original a reference to the Act of July 30, 1946 (Public Law 565, Seventy-ninth Congress).
@@ -29,6 +31,8 @@ In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” and
 ### Amendments
 
 1949—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Repeals
 

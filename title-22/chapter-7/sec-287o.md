@@ -17,6 +17,8 @@ In fulfillment of article VII of the constitution of the Organization, the Secre
 
 1 So in original. Probably should be “Cooperation”.
 
+### Editorial Notes
+
 ### References in Text
 
 Article VII of the constitution of the Organization, referred to in text, is article VII of the Constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under section 287m of this title.

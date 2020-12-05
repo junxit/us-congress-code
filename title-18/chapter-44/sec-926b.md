@@ -34,6 +34,8 @@ section: 926B
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The National Firearms Act, referred to in subsec. (e), is classified generally to chapter 53 (§ 5801 et seq.) of Title 26, Internal Revenue Code. See section 5849 of Title 26. Section 5845 of the Act is classified to section 5845 of Title 26.
@@ -41,6 +43,8 @@ The National Firearms Act, referred to in subsec. (e), is classified generally t
 ### Amendments
 
 2013—Subsec. (c)(1). Pub. L. 112–239, § 1089(1)(A), inserted “or apprehension under section 807(b) of title 10, United States Code (article 7(b) of the Uniform Code of Military Justice)” after “arrest”. Subsec. (d). Pub. L. 112–239, § 1089(1)(B), substituted “that identifies the employee as a police officer or law enforcement officer of the agency” for “as a law enforcement officer”. Subsec. (f). Pub. L. 112–239, § 1089(1)(C), inserted “or apprehension under section 807(b) of title 10, United States Code (article 7(b) of the Uniform Code of Military Justice)” after “arrest”. 2010—Subsec. (c)(3). Pub. L. 111–272, § 2(a)(1), inserted “which could result in suspension or loss of police powers” after “agency”. Subsec. (e). Pub. L. 111–272, § 2(b), added subsec. (e) and struck out former subsec. (e) which read as follows: “As used in this section, the term ‘firearm’ does not include— “(1) any machinegun (as defined in section 5845 of the National Firearms Act); “(2) any firearm silencer (as defined in section 921 of this title); and “(3) any destructive device (as defined in section 921 of this title).” Subsec. (f). Pub. L. 111–272, § 2(a)(2), added subsec. (f).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Federal Law Enforcement Self-Defense and Protection
 

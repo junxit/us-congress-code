@@ -33,9 +33,13 @@ section: 28c
 
 1 So in original. Probably should be followed by a comma.
 
+### Editorial Notes
+
 ### Amendments
 
 1996—Subsec. (c)(2). Pub. L. 104–186, § 202(3)(A), substituted “Representatives, each” for “Representives, each”. Subsec. (c)(5). Pub. L. 104–186, § 202(3)(B), substituted “and to the Sergeant at Arms of the House of Representatives, each two sets” for “, to the Sergeant at Arms of the House of Representatives, and to the Doorkeeper of the House of Representatives, each, two sets”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

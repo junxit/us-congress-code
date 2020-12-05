@@ -24,9 +24,13 @@ section: 276l
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of section 168 of Pub. L. 102–138. Subsec. (g) of section 168 of Pub. L. 102–138 amended section 1928e of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Appropriations for Expenses of Interparliamentary Groups
 

@@ -26,6 +26,8 @@ section: 286zz
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Another section 73 of the Bretton Woods Agreements Act was enacted by Pub. L. 116–92 and is classified to section 286yy of this title.

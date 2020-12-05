@@ -9,9 +9,13 @@ section: 78
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 78 was editorially reclassified as section 5604 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Law Enforcement Authority of Sergeant at Arms
 

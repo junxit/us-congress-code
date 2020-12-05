@@ -34,6 +34,8 @@ section: 292a
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 2151q of this title, referred to in subsec. (a)(3), was repealed by Pub. L. 96–533, title III, § 304(g), Dec. 16, 1980, 94 Stat. 3147. See section 2151d(a)(2), (b)(2), (c) of this title. Section 101(a)(1) of this Act, referred to in subsec. (d), means section 101(a)(1) of Pub. L. 95–426, which is not classified to the Code.

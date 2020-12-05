@@ -21,9 +21,13 @@ section: 262s
 
 1 So in original. Two subsecs. (b) have been enacted.
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 262q of this title prior to renumbering by Pub. L. 101–240.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

@@ -31,9 +31,13 @@ section: 286s
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1989—Subsec. (c). Pub. L. 101–240 struck out subsec. (c) which required inclusion of statement detailing progress made in carrying out subsecs. (a) and (b) requirements in Council’s annual report to Congress.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

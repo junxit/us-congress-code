@@ -16,6 +16,8 @@ section: 30a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is from the Legislative Branch Appropriations Act, 1991.

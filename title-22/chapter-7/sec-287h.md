@@ -15,6 +15,8 @@ The total amount of money that may be loaned to the United Nations pursuant to t
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act Dec. 20, 1945, ch. 583, 59 Stat. 619, known as the United Nations Participation Act of 1945, which comprises this subchapter.

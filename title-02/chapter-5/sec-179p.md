@@ -21,6 +21,8 @@ section: 179p
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in subsec. (a), is Pub. L. 104–285, Oct. 11, 1996, 110 Stat. 3377, which enacted this section and sections 179l to 179o and 179q to 179w of this title and sections 5701 to 5708 of former Title 36, Patriotic Societies and Observances, repealed sections 179 to 179k of this title, enacted provisions set out as a note under section 179l of this title, and repealed provisions set out as a note under section 179 of this title. Sections 5701 to 5708 of former Title 36 were repealed and reenacted as chapter 1517 (§ 151701 et seq.) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, by Pub. L. 105–225, § 5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36. For complete classification of this Act to the Code, see Tables.

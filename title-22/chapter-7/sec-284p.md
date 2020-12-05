@@ -16,9 +16,13 @@ section: 284p
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 18 of Pub. L. 86–565 is based on section 901 of S. 2582, Ninety-eighth Congress, as reported Apr. 18, 1984, and enacted into law by Pub. L. 98–473.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Credits Available to Sub-Saharan Africa
 

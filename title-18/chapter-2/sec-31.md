@@ -30,9 +30,13 @@ section: 31
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Pub. L. 106–181 added subsecs. (a) and (b) and struck out former text which read as follows: “When used in this chapter the term— “ ‘Aircraft engine’, ‘air navigation facility’, ‘appliance’, ‘civil aircraft’, ‘foreign air commerce’, ‘interstate air commerce’, ‘landing area’, ‘overseas air commerce’, ‘propeller’, ‘spare part’ and ‘special aircraft jurisdiction of the United States’ shall have the meaning ascribed to those terms in sections 40102(a) and 46501 of title 49. “ ‘Motor vehicle’ means every description of carriage or other contrivance propelled or drawn by mechanical power and used for commercial purposes on the highways in the transportation of passengers, passengers and property, or property or cargo; “ ‘Destructive substance’ means any explosive substance, flammable material, infernal machine, or other chemical, mechanical, or radioactive device or matter of a combustible, contaminative, corrosive, or explosive nature; “ ‘Used for commercial purposes’ means the carriage of persons or property for any fare, fee, rate, charge or other consideration, or directly or indirectly in connection with any business, or other undertaking intended for profit; “ ‘In flight’ means any time from the moment all the external doors of an aircraft are closed following embarkation until the moment when any such door is opened for disembarkation. In the case of a forced landing the flight shall be deemed to continue until competent authorities take over the responsibility for the aircraft and the persons and property on board; and “ ‘In service’ means any time from the beginning of preflight preparation of the aircraft by ground personnel or by the crew for a specific flight until twenty-four hours after any landing; the period of service shall, in any event, extend for the entire period during which the aircraft is in flight.” 1994—Pub. L. 103–272 substituted “sections 40102(a) and 46501 of title 49” for “the Federal Aviation Act of 1958, as amended” in par. beginning with definition of “Aircraft engine”. 1988—Pub. L. 100–690 substituted “door is opened” for “door in opened” in definition of “in flight”. 1984—Pub. L. 98–473, § 2013(a)(1), in first par. struck out “and” before “spare part”, inserted “and ‘special aircraft jurisdiction of the United States’ ”, and substituted “Federal Aviation Act of 1958” for “Civil Aeronautics Act of 1938”. Pub. L. 98–473, § 1010, substituted “passengers and property, or property or cargo” for “or passengers and property” in definition of motor vehicle. Pub. L. 98–473, § 2013(a)(2)–(4), inserted definitions of “in flight” and “in service”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2000 Amendment
 

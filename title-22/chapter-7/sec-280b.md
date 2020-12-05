@@ -20,6 +20,8 @@ There is hereby authorized to be appropriated to the Department of State, out of
 
 1 So in original. Probably should be capitalized.
 
+### Editorial Notes
+
 ### References in Text
 
 Subchapter XVII [§ 287m et seq.] of this chapter, referred to in subsec. (b), was in the original a reference to the Act of July 30, 1946 (Public Law 565, Seventy-ninth Congress).
@@ -31,6 +33,8 @@ In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” and
 ### Amendments
 
 1972—Subsec. (a). Pub. L. 92–490 struck out “not to exceed $250,000 per fiscal year” after “annually” and inserted “except that in no event shall that payment for any fiscal year of the Commission exceed 20 per centum of all expenses apportioned among participating governments of the Commission for that year” after “as amended”. 1970—Subsec. (a). Pub. L. 91–632 substituted “$250,000” for “$200,000”. 1965—Subsec. (a). Pub. L. 89–91 substituted “such sums as may be required annually, not to exceed $200,000 per fiscal year” for “Not more than $150,000 for the fiscal year 1965, and $150,000 for the fiscal year 1966”. 1964—Subsec. (a). Pub. L. 88–263 substituted “$150,000 for the fiscal year 1965, and $150,000 for the fiscal year 1966,” for “$100,000 annually”. 1960—Subsec. (a). Pub. L. 86–472 substituted “$100,000” for “$75,000”. 1950—Subsec. (a). Joint Res. Sept. 21, 1950, substituted “$75,000” for “$20,000”. 1949—Subsec. (a). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Repeals
 

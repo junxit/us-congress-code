@@ -15,6 +15,8 @@ All votes for Representatives in Congress must be by written or printed ballot, 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 27 derived from acts Feb. 28, 1871, ch. 99, § 19, 16 Stat. 440, and May 30, 1872, ch. 239, 17 Stat. 192.

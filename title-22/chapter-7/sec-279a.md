@@ -15,9 +15,13 @@ There is hereby authorized to be appropriated, out of any money in the Treasury 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1961—Pub. L. 87–195 struck out provisions which limited the annual appropriations to not more than $3,000,000. 1957—Pub. L. 85–141, § 11(b)(2), added section 544(b) to act August 26, 1954, which section 544(b) amended this section by increasing the maximum percentage contribution from 31.5 to 33.33 per centum. 1956—Act July 18, 1956, increased authorized annual appropriation from $2,000,000, to $3,000,000, and inserted provisions limiting percentage contribution of United States to total annual budget to not more than 31.5 per centum. 1950—Joint Res. Sept. 21, 1950, increased authorized annual appropriation from $1,250,000 to $2,000,000.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Repeals
 

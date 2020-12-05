@@ -20,6 +20,8 @@ section: 481i
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (b)(1). Pub. L. 115–232 substituted “at a recruiting facility” for “as a recruiter for any”. 2011—Pub. L. 112–81, § 631(d)(2), renumbered section 411i of this title as this section. Subsec. (c). Pub. L. 112–81, § 631(e)(22), added subsec. (c).

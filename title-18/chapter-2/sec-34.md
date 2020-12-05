@@ -15,6 +15,8 @@ Whoever is convicted of any crime prohibited by this chapter, which has resulted
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Pub. L. 103–322 substituted “imprisonment for life.” for “imprisonment for life, if the jury shall in its discretion so direct, or, in the case of a plea of guilty, or a plea of not guilty where the defendant has waived a trial by jury, if the court in its discretion shall so order.”

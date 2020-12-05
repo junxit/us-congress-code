@@ -30,6 +30,8 @@ section: 476c
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 2634 of title 10, referred to in subsec. (c), was repealed by Pub. L. 113–66, div. A, title VI, § 621(g)(1), Dec. 26, 2013, 127 Stat. 784.
@@ -37,6 +39,8 @@ Section 2634 of title 10, referred to in subsec. (c), was repealed by Pub. L. 11
 ### Amendments
 
 2013—Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below. 2011—Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404” in concluding provisions of subsec. (a)(1) and in subsec. (b)(1) and “476” for “406” in subsec. (c). Pub. L. 112–81, § 631(d)(2), renumbered section 406c of this title as this section. Subsec. (e). Pub. L. 112–81, § 631(e)(9), added subsec. (e). 1991—Subsec. (b)(1). Pub. L. 102–190 substituted “the designated home port of the ship, or the area where the dependents of the member are residing,” for “the location that was the home port of the ship before commencement of construction”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2013 Amendment
 

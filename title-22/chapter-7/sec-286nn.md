@@ -21,9 +21,13 @@ For the purpose of mobilizing the resources of the Fund in order to help reduce 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Par. (1)(B), (D). Pub. L. 106–429 inserted “and” at end of subpar. (B) and struck out subpar. (D) which read as follows: “shall not use more than 9⁄14 of the earnings on the investment of the profits of such sales; and”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Certification to Congress Relating To Use of Profits To Augment International Monetary Fund
 

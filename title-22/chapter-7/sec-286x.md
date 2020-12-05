@@ -15,6 +15,8 @@ It is the sense of the Congress that in providing assistance through loans or ot
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date
 
 Section effective Oct. 7, 1980, see section 12 of Pub. L. 96–389, set out as a note under section 286s of this title.

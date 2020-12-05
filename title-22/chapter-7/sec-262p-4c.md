@@ -25,9 +25,13 @@ section: 262p–4c
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 1608 of Pub. L. 95–118 is based on section 8 of H.R. 4645, One Hundredth Congress, as reported Sept. 28, 1988, and enacted into law by Pub. L. 100–461.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definitions
 

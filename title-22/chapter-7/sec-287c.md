@@ -28,6 +28,8 @@ section: 287c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Article 41 of said Charter, referred to in subsec. (a), is an article of the United Nations Charter.
@@ -35,6 +37,8 @@ Article 41 of said Charter, referred to in subsec. (a), is an article of the Uni
 ### Amendments
 
 2010—Subsec. (b). Pub. L. 111–195 substituted “fined not more than $1,000,000” for “find not more than $10,000” and “20 years, or both.” for “ten years, or both; and the officer, director, or agent of any corporation who knowingly participates in such violation or evasion shall be punished by a like fine, imprisonment, or both, and any property, funds, securities, papers, or other articles or documents, or any vessel, together with her tackle, apparel, furniture, and equipment, or vehicle, or aircraft, concerned in such violation shall be forfeited to the United States.” 1977—Subsec. (a). Pub. L. 95–12, § 1(1), inserted provision permitting enforcement of any Executive order, issued under this subsection, applying measures against Southern Rhodesia and permitting Presidential exemption from that Executive order of any shipment of chromium in transit to the United States on Mar. 18, 1977. Subsec. (c). Pub. L. 95–12, § 1(2), added subsec. (c). 1949—Subsec. (b). Act Oct. 10, 1949, made aircraft subject to forfeiture.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Importation of Strategic and Critical Materials From Zimbabwe-Rhodesia
 
@@ -51,6 +55,8 @@ Pub. L. 95–384, § 27, Sept. 26, 1978, 92 Stat. 746, which related to enforcem
 ### Suspension of Amendment Operation by President; Report to Congress
 
 Pub. L. 95–12, § 2, Mar. 18, 1977, 91 Stat. 23, provided that: “(a) Upon the enactment of this Act [Mar. 18, 1977], the President may suspend the operation of the amendments contained in this Act [amending this section] if he determines that such suspension would encourage meaningful negotiations and further the peaceful transfer of governing power from minority rule to majority rule in Southern Rhodesia. Such suspension shall remain in effect for such duration as deemed necessary by the President. “(b) If the President suspends the operation of the amendments contained in this Act [amending this section], he shall so report to the Congress. In addition, the President shall report to the Congress when he terminates such suspension. “(c) If the President suspends the operation of the amendments contained in this Act [amending this section], any reference in those amendments to date of enactment [Mar. 18, 1977] shall be deemed to be a reference to the date on which such suspension is terminated by the President.”
+
+### Executive Documents
 
 ### Executive Order No. 11322
 

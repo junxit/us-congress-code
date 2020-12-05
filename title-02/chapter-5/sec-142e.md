@@ -15,6 +15,8 @@ From and after January 1, 1976, the Disbursing Officer of the Library of Congres
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 In the second par., “section 3726 of title 31” substituted for “section 244 of title 31” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance. Section is based on section 207 of title II of H.R. 7593, as passed the House of Representatives on July 21, 1980, and incorporated by reference in section 101(c) of Pub. L. 96–536, to be effective as if enacted into law.

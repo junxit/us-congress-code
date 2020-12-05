@@ -23,6 +23,8 @@ Based on title 18, U.S.C., 1940 ed., §§ 39, 133, 346, 381, 502, and 632, and s
 
 Words “, except the Canal Zone.” were substituted for the period in this section by Senate amendment. See Senate Report No. 1620, amendment No. 2, 80th Cong.
 
+### Editorial Notes
+
 ### References in Text
 
 For definition of Canal Zone, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.

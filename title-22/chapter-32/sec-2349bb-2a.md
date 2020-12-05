@@ -21,6 +21,8 @@ section: 2349bb–2a
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 584 of Pub. L. 87–195 was renumbered section 585 and is classified to section 2349bb–3 of this title.

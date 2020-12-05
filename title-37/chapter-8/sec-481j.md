@@ -33,9 +33,13 @@ section: 481j
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2013—Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below. 2011—Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “481h” for “411h” in subsecs. (c) and (d)(3) and “474” for “404” in subsec. (d)(2). Pub. L. 112–81, § 631(d)(2), renumbered section 411j of this title as this section. Subsec. (e). Pub. L. 112–81, § 631(e)(23), added subsec. (e).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2013 Amendment
 

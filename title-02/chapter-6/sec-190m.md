@@ -15,6 +15,8 @@ It shall be the duty of the marshal of the United States for the district in whi
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Upon its incorporation into the Code, references in this section to the circuit courts were omitted or changed to refer to the district courts to conform to act Mar. 3, 1911, which abolished the circuit courts. Section was formerly classified to section 230 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
@@ -22,6 +24,8 @@ Upon its incorporation into the Code, references in this section to the circuit 
 ### Amendments
 
 1996—Pub. L. 104–186 substituted “contingent fund of the Senate, in the case of a committee of the Senate, or the applicable accounts of the House of Representatives, in the case of a committee of the House of Representatives.” for “contingent fund of the branch of Congress appointing such committee.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

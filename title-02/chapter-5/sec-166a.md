@@ -79,6 +79,8 @@ section: 166a
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The effective date of this Act and such effective date, referred to in subsec. (a)(2)(B)(ii), are the date of enactment of div. I of Pub. L. 115–141, which was approved Mar. 23, 2018. For the effective date of this section, see subsec. (f) of this section. 2 U.S.C. 136–1, referred to in subsec. (a)(3)(D), was so in the original, but probably should have been a reference to section 2 of the Librarian of Congress Succession Modernization Act of 2015, Pub. L. 114–86, which is classified to section 136–1 of this title. For the amendments made by this section, referred to in subsec. (f)(1), (2)(C), see Codification note below.

@@ -16,6 +16,8 @@ section: 286k
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1977—Pub. L. 95–147 designated existing provisions as subsec. (a) and added subsec. (b).

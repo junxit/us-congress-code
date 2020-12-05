@@ -16,9 +16,13 @@ section: 262p–4g
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 1612 of Pub. L. 95–118 was renumbered section 1622 and is classified to section 262p–5 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definitions
 

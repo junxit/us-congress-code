@@ -25,9 +25,13 @@ section: 262p–4l
 
 1 So in original. Probably should be followed by a comma.
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 1617 of Pub. L. 95–118 was renumbered section 1622 and is classified to section 262p–5 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definitions
 

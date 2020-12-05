@@ -15,6 +15,8 @@ Funds expended by the Legislative Counsel of the Senate for travel and related e
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Congressional Operations Appropriation Act, 1984, which is title I of the Legislative Branch Appropriation Act, 1984, and not as part of section 1303 of act Feb. 24, 1919 which comprises this subchapter. Section, as it relates to funds expended by the Senate Legal Counsel, is classified to section 288n of this title.

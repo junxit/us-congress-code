@@ -16,9 +16,13 @@ section: 283w
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1981—Subsec. (b). Pub. L. 97–35 inserted provision limiting amount of appropriations available for Fund for Special Operations for fiscal year 1982.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1981 Amendment
 

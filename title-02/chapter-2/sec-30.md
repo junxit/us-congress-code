@@ -15,6 +15,8 @@ In all cases where Members of Congress or Senators are appointed to represent Co
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 722 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.

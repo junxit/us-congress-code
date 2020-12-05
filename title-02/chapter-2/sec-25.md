@@ -15,6 +15,8 @@ At the first session of Congress after every general election of Representatives
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 30 derived from act June 1, 1789, ch. 1, § 2, 1 Stat. 23. The last paragraph of this section, which permitted Members and Delegates of the House of Representatives of the Eightieth Congress to subscribe and deliver two signed copies of the printed oath of office at any time before the expiration of the Eightieth Congress, was omitted.

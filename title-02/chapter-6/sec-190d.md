@@ -21,9 +21,13 @@ section: 190d
 
 1 See Partial Repeal note below.
 
+### Editorial Notes
+
 ### Amendments
 
 1996—Subsec. (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration”. 1974—Subsec. (a). Pub. L. 93–344, § 701, authorized the committees to carry out the required analysis, appraisal, and evaluation themselves, or by contract, or to require a Government agency to do so and furnish a report thereon to the Congress, and authorized the committees to rely on such techniques as pilot testing, analysis of costs in comparison with benefits, or provision for evaluation after a defined period of time. Subsec. (c). Pub. L. 93–344, § 903(b), substituted “Committees on Appropriations and the Budget of the Senate and the Committees on Appropriations, the Budget,” for “Committee on Appropriations of the Senate and the Committee on Appropriations,”. 1971—Subsec. (a). Pub. L. 92–136 substituted “Congress” for “Senate” in provisions preceding cl. (1) and inserted reference to the House of Representatives in provisions following cl. (2). Subsec. (b). Pub. L. 92–136 substituted “In each odd-numbered year beginning on or after January 1, 1973, each” for “Each” and “March 31, to the Senate, and each standing committee of the House shall submit, not later than January 2, to the House,” for “March 31 of each odd-numbered year beginning on and after January 1, 1973, to the Senate”. Subsec. (c). Pub. L. 92–136 inserted reference to Committees on Appropriations, House Administration, Rules, and Standards of Official Conduct of the House. 1970—Subsec. (a). Pub. L. 91–510 incorporated existing subject matter in provisions designated as subsec. (a), restricted the text to standing committees of Senate, revised phraseology to require standing committees to review and study, on a continuing basis, application, administration, and execution of laws and parts of laws for prior provision for exercise of continuous watchfulness of execution of laws by administrative agencies concerned, and in providing for assistance to the Senate, rather than the Congress, included analysis and evaluation of laws enacted by Congress and substituted provision for formulation, consideration, and enactment of modifications or changes in the laws and of additional legislation as necessary or appropriate for prior provisions for assistance in developing amendments or related legislation as may be necessary. Subsecs. (b), (c). Pub. L. 91–510 added subsecs. (b) and (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

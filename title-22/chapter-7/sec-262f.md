@@ -15,9 +15,13 @@ The United States Government, in connection with its voice and vote in the Inter
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1981—Pub. L. 97–35 redesignated subsec. (a) as entire section, inserted reference to African Development Bank, and struck out subsec. (b) which related to an annual report to Congress on progress toward achieving goals of this section.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1981 Amendment
 

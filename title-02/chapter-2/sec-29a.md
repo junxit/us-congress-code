@@ -27,6 +27,8 @@ section: 29a
 
 1 So in original. Probably should be capitalized.
 
+### Editorial Notes
+
 ### Codification
 
 Section is based on section 202 of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, which was enacted into permanent law by Pub. L. 93–554.
@@ -34,6 +36,8 @@ Section is based on section 202 of House Resolution No. 988, Ninety-third Congre
 ### Amendments
 
 2004—Subsec. (a)(1). Pub. L. 108–447, § 107(a), substituted “conference of all” for “conference, to begin on or after the first day of December and conclude on or before the twentieth day of December in such year and to be attended by all”. Subsec. (b)(1)(B). Pub. L. 108–447, § 107(b)(1), substituted a period for “for a period not to exceed the shorter of the following— “(i) the period beginning with the day before the designated date upon which such caucus or conference is to convene and ending with the day after the date of the final adjournment of such caucus or conference; or “(ii) fourteen days.” Subsec. (d). Pub. L. 108–447, § 107(c)(1), added subsec. (d). 1996—Subsec. (b)(2). Pub. L. 104–186, § 202(4)(A), substituted “House Oversight” for “House Administration” in two places. Subsec. (c). Pub. L. 104–186, § 202(4)(B), substituted “applicable accounts of the House of Representatives are” for “contingent fund of the House is”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

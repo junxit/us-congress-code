@@ -15,6 +15,8 @@ Any moneys contributed by or received from the United Mexican States, the North 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2002—Pub. L. 107–228 inserted “, the North American Development Bank, or the Border Environment Cooperation Commission” after “United Mexican States”.

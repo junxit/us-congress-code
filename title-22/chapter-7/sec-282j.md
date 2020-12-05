@@ -18,6 +18,8 @@ section: 282j
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 12 of act Aug. 11, 1955, is based on section 3 of H.R. 1948, Ninety-ninth Congress, as introduced Apr. 3, 1985, and enacted into law by Pub. L. 99–190.

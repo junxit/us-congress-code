@@ -15,9 +15,13 @@ The President is hereby authorized to accept membership for the United States in
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is based on section 202 of title II of S. 2416, Ninety-eighth Congress, as introduced Mar. 13, 1984, and enacted into law by Pub. L. 98–473.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

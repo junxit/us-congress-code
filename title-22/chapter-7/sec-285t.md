@@ -16,9 +16,13 @@ section: 285t
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1981—Subsec. (b). Pub. L. 97–35 inserted provision limiting amount of appropriations available for contributions for fiscal year 1982.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1981 Amendment
 

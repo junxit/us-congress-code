@@ -15,6 +15,8 @@ For purposes of a reported bill or joint resolution considered in the House of R
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2013—Pub. L. 113–67 inserted at end “In the case of a reported bill or joint resolution considered pursuant to a special order of business, a point of order under section 634 of this title shall be determined on the basis of the text made in order as an original bill or joint resolution for the purpose of amendment or to the text on which the previous question is ordered directly to passage, as the case may be.”

@@ -15,9 +15,13 @@ The President is hereby authorized (a) to accept the amendment to the articles o
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, known as the Bretton Woods Agreement Act, which comprises this subchapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

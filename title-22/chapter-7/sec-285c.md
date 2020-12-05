@@ -15,6 +15,8 @@ Unless the Congress by law authorizes such action, neither the President nor any
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Subsequent Replenishments
 
 Pub. L. 105–118, title V, § 560(a), Nov. 26, 1997, 111 Stat. 2425, provided in part that the Secretary of the Treasury may contribute on behalf of the United States to the sixth replenishment of the resources of the Asian Development Fund, subject to obtaining the necessary appropriations, and authorized $400,000,000 to be appropriated without fiscal year limitation. Pub. L. 103–87, title V, § 526, Sept. 30, 1993, 107 Stat. 952, provided in part that the Secretary of the Treasury is authorized to agree on behalf of the United States to participate in the fifth replenishment of the Asian Development Fund, subject to obtaining the necessary appropriations.

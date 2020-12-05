@@ -9,6 +9,8 @@ section: 43b–2
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 43b–2 was editorially reclassified as section 5343 of this title.

@@ -20,6 +20,8 @@ There are hereby authorized to be appropriated to the Department of State for co
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Subchapter XVII [§ 287m et seq.] of this chapter, referred to in subsec. (b)(2), was in the original a reference to the Act of July 30, 1946, Public Law 565, Seventy-ninth Congress.
@@ -31,6 +33,8 @@ In subsec. (b)(1), “chapter 51 and subchapter III of chapter 53 of title 5” 
 ### Amendments
 
 1955—Subsec. (a). Act July 8, 1955, removed limitation of $3,000,000 which may be appropriated annually, and limited payments by United States to not more than 33⅓ per centum of total assessments. 1950—Opening par. amended by Joint Res. Sept. 21, 1950, § 1(d)(1), to provide for a contribution of $560,000 to working capital fund. Subsec. (a). Joint Res. Sept. 21, 1950, § 1(d)(2), increased authorized annual appropriation from $1,920,000 to $3,000,000. 1949—Subsec. (b)(1). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Repeals
 

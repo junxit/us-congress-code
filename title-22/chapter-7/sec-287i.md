@@ -15,6 +15,8 @@ There shall be deducted from the annual payment of the assessed share of the Uni
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act Dec. 20, 1945, ch. 583, 59 Stat. 619, known as the United Nations Participation Act of 1945, which comprises this subchapter.

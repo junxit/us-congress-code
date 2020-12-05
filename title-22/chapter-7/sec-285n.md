@@ -15,6 +15,8 @@ For the purpose of providing United States Special Resources to the Bank there i
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1973—Pub. L. 93–189 substituted “$100,000,000” for “$60,000,000 for the fiscal year 1972 and $40,000,000 for the fiscal year 1973”.

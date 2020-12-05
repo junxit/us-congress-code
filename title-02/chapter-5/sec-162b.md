@@ -44,9 +44,13 @@ section: 162b
 
 2 So in original. Probably should be followed by “of title 5”.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 205(g)(1) of the Legislative Branch Appropriations Act, 1991, referred to in subsec. (a)(1)(A), is section 205(g)(1) of Pub. L. 101–520, which is set out as a note under section 141 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Funding for Little Scholars Child Development Center and Tiny Findings Child Development Center
 

@@ -36,9 +36,13 @@ section: 182b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Pub. L. 115–141, § 151(1)(A), substituted “Revolving fund for sales shop and other services” for “Revolving fund for gift shop, decimal classification, photo duplication, and related services” in section catchline. Subsec. (a)(5). Pub. L. 115–141, § 151(1)(B), added par. (5). 2010—Subsec. (e). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(f)(1). See 2007 Amendment note below. 2008—Subsec. (e). Pub. L. 110–178 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Amounts in the accounts of the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the programs and activities covered by such accounts.” 2007—Subsec. (e). Pub. L. 110–161, § 1004(f)(1), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below. 2001—Subsec. (a)(4). Pub. L. 107–68 added par. (4).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

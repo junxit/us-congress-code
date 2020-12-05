@@ -94,6 +94,8 @@ section: 287b
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The National Security Act of 1947, referred to in subsec. (d)(2)(A)(iv), (B)(iv), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
@@ -106,6 +108,8 @@ Another subsec. (a)(2) of section 724 of Pub. L. 106–113, div. B, § 1000(a)(7
 
 2016—Subsec. (c)(1)(A). Pub. L. 114–323, § 306(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In accordance with section 407(a)(5)(B) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995, a description of all assistance provided by the United States to the United Nations to support peacekeeping operations during the previous calendar quarter and during the previous year.” Subsec. (c)(1)(D). Pub. L. 114–323, § 306(a)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “In the case of the first 2 reports submitted pursuant to this subsection, a projection of all United States costs for United Nations peacekeeping operations during each of the next 2 fiscal years, including assessed and voluntary contributions.” Subsec. (c)(1)(E). Pub. L. 114–323, § 306(a)(3), added subpar. (E). 2002—Subsec. (b). Pub. L. 107–228, § 405(a)(1), (2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Not later than 3 days (excluding Saturdays, Sundays, and legal holidays) after adoption of any resolution by the Security Council, the Secretary of State shall transmit the text of such resolution and any supporting documentation to the designated congressional committees.” Subsecs. (c), (d). Pub. L. 107–228, § 405(a)(1), (4), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary of State shall promptly transmit to the designated congressional committees any published report prepared by the United Nations and distributed to the members of the Security Council that contains assessments of any proposed, ongoing, or concluded United Nations peacekeeping operation.” Subsec. (e). Pub. L. 107–228, § 405(a)(4), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d). Subsec. (e)(5)(B). Pub. L. 107–228, § 405(a)(3), added subpar. (B) and struck out former subpar. (B) which related to quarterly reports. Subsecs. (f), (g). Pub. L. 107–228, § 405(a)(4), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e). 1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(7) [title VII, § 724(a)(1)], struck out at end “He shall make special current reports on decisions of the Security Council to take enforcement measures under the provisions of the Charter of the United Nations, and on the participation therein under his instructions, of the representative of the United States.” Subsecs. (e) to (g). Pub. L. 106–113, § 1000(a)(7) [title VII, § 724(a)(2), (b)], added subsecs. (e) to (g) and struck out heading and text of former subsec. (e). Text read as follows: “As used in this section, the term ‘designated congressional committees’ has the meaning given that term by section 415 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995.” 1994—Pub. L. 103–236 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -113,10 +117,6 @@ Committee on International Relations of House of Representatives changed to Comm
 ### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to reporting to Congress not less than once each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 39 of House Document No. 103–7.
-
-### Delegation of Functions
-
-For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, 46074, set out as a note under section 301 of Title 3, The President.
 
 ### Public Availability of Information
 
@@ -133,3 +133,9 @@ Pub. L. 103–236, title IV, § 415, Apr. 30, 1994, 108 Stat. 456, provided that
 ### Report on Policies Pursued by Other Countries in International Organizations
 
 Pub. L. 98–164, title I, § 117, Nov. 22, 1983, 97 Stat. 1022, as amended by Pub. L. 100–204, title VII, § 707, Dec. 22, 1987, 101 Stat. 1390, directed Secretary of State to transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, by Jan. 31 of each year, a report regarding policies which each member country of United Nations pursued in international organizations of which United States was a member, prior to repeal by Pub. L. 103–236, title I, § 139(27), Apr. 30, 1994, 108 Stat. 399.
+
+### Executive Documents
+
+### Delegation of Functions
+
+For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, 46074, set out as a note under section 301 of Title 3, The President.

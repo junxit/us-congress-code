@@ -19,6 +19,8 @@ section: 481c
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2011—Pub. L. 112–81, § 631(d)(2), renumbered section 411c of this title as this section. Subsec. (c). Pub. L. 112–81, § 631(e)(17), added subsec. (c). 1998—Pub. L. 105–261, § 633(b)(1), substituted “rest and recuperative leave from certain stations” for “leave from certain stations” in section catchline. Subsec. (b). Pub. L. 105–261, § 633(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “The transportation authorized by this section is limited to transportation of the member, and of each dependent of the member, for one round-trip during any tour of at least 24, but less than 36, consecutive months or two round-trips during any tour of at least 36 consecutive months.” 1987—Subsec. (b). Pub. L. 100–26 substituted “round-trip” for “roundtrip” and “round-trips” for “roundtrips”.

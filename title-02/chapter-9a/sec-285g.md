@@ -15,6 +15,8 @@ Until such time as funds are appropriated by law to carry out the purpose of thi
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is based on section 205(h) of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, which was enacted into permanent law by Pub. L. 93–554.

@@ -25,9 +25,13 @@ section: 286b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1989—Subsec. (b). Pub. L. 101–240 redesignated pars. (7) and (8) as (5) and (6), respectively, and struck out former pars. (5) and (6) which read as follows: “(5) The Council shall transmit to the President and to the Congress an annual report with respect to the participation of the United States in the Fund and Bank. “(6) Each such report shall contain such data concerning the operations and policies of the Fund and Bank, such recommendations concerning the Fund and Bank, and such other data and material as the Council may deem appropriate.” 1983—Subsec. (b)(8). Pub. L. 98–181 added par. (8). 1965—Subsec. (b)(5). Pub. L. 89–126 substituted provisions requiring an annual report, for provisions which required the Council to report from time to time, but not less frequently than every six months. Subsec. (b)(6). Pub. L. 89–126 struck out provisions which required special reports on operations and policies of the Fund and Bank and prescribed contents of such reports, and inserted provisions requiring the annual report to contain such data concerning the operations and policies of the Fund and Bank, such recommendations concerning the Fund and the Bank, and such other data and material as deemed appropriate. 1954—Subsec. (a). Act Aug. 9, 1954, provided membership on Council for President of the Export-Import Bank of Washington. 1951—Subsec. (a). Act Oct. 10, 1951, substituted “Mutual Security Agency” for “Economic Cooperation Administration”, and “Director for Mutual Security” for “Administrator for Economic Cooperation”. 1948—Subsec. (a). Act Apr. 3, 1948, ch. 169, title I, § 106, 62 Stat. 141, added Administrator for Economic Cooperation, during existence of the Administration, to membership of National Advisory Council.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 
@@ -40,6 +44,8 @@ Amendment by act Aug. 9, 1954, effective upon initial appointment of President, 
 ### Repeals
 
 Act Apr. 3, 1948, cited as a credit to this section, was repealed by act June 20, 1952, ch. 449, § 7(c), 66 Stat. 144.
+
+### Executive Documents
 
 ### Transfer of Functions
 

@@ -9,9 +9,13 @@ section: 104b
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 104b was editorially reclassified as section 5535 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Reporting Payments Made to Witnesses Before Committee on Standards of Official Conduct
 

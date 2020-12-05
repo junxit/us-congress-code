@@ -33,6 +33,8 @@ section: 286gg
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.

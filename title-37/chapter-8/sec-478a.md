@@ -30,9 +30,13 @@ section: 478a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Subsec. (e). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”. 2016—Subsec. (c). Pub. L. 114–328, § 621, substituted “(1) Except as provided by paragraph (2), the amount” for “The amount” and added par. (2). Subsec. (e). Pub. L. 114–328, § 611(7), substituted “December 31, 2017” for “December 31, 2016”. 2015—Subsec. (e). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”. 2014—Subsec. (e). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”. 2013—Subsec. (e). Pub. L. 113–66, § 611(7), substituted “December 31, 2014” for “December 31, 2013”. Pub. L. 112–239, § 611(7), as amended by Pub. L. 113–66, § 1091(b)(3), substituted “December 31, 2013” for “December 31, 2012”. 2011—Pub. L. 112–81, § 631(d)(2), renumbered section 408a of this title as this section. Subsec. (e). Pub. L. 112–81, § 621, substituted “December 31, 2012” for “December 31, 2011”. Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2013 Amendment
 

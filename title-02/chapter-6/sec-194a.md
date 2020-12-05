@@ -15,9 +15,13 @@ Upon the request of a committee of either House of Congress, a joint committee o
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1998—Pub. L. 105–277, § 1335(n), struck out “the United States Information Agency,” after “Department of State,”. Pub. L. 105–277, § 1225(g), struck out “the United States Arms Control and Disarmament Agency,” after “International Development,”. 1973—Pub. L. 93–126 substituted “or employee of” for “appointed by the President, by and with the advice and consent of the Senate, to a position in”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1998 Amendment
 

@@ -15,9 +15,13 @@ The district courts and the United States magistrate judges shall have power to 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 393 of Title 28 prior to the general revision and enactment of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, § 1, 62 Stat. 869.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

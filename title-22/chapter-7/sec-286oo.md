@@ -28,6 +28,8 @@ It is the policy of the United States to work to implement reforms in the Intern
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 101(a) [title VIII, § 805] of Pub. L. 106–429, which directed amendment of the Bretton Woods Agreement Act by adding this section, was executed by amending the Bretton Woods Agreements Act by adding this section, to reflect the probable intent of Congress.

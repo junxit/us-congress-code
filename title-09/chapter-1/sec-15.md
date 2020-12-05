@@ -15,6 +15,8 @@ Enforcement of arbitral agreements, confirmation of arbitral awards, and executi
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Another section 15 of this title was renumbered section 16 of this title.

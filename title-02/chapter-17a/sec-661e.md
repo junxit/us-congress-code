@@ -17,6 +17,8 @@ section: 661e
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 506 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, amended section 105 of Title 1, General Provisions, and enacted provisions set out as a note under section 105 of Title 1, prior to the general revision of title V of Pub. L. 93–344 by Pub. L. 101–508.

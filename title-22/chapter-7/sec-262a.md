@@ -15,6 +15,8 @@ All financial contributions by the United States to the normal operations of the
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in text, is act Sept. 21, 1950, ch. 976, 64 Stat. 903, which enacted section 262a of this title, and amended sections 269b, 272a, 279a, 280b, 290b of this title. For complete classification of this Act to the Code, see Tables. The international organizations covered by this Act, referred to in text, are the Inter-American Children’s Institute, the International Labor Organization, the United Nations Food and Agriculture Organization, the South Pacific Commission, and the World Health Organization.

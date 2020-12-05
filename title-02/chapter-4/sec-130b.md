@@ -9,6 +9,8 @@ section: 130b
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 130b was editorially reclassified as section 4503 of this title.

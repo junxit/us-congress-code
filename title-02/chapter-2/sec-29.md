@@ -15,6 +15,8 @@ The Parliamentarian of the House of Representatives shall prepare, compile, and 
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 “Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.

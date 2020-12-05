@@ -23,9 +23,13 @@ section: 301d
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2008—Subsec. (a)(2). Pub. L. 110–181 substituted “$75,000” for “$50,000”. 2006—Subsec. (c). Pub. L. 109–163 amended heading and text of subsec. (c) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer fails to complete total period of active duty. 2002—Subsec. (a)(2). Pub. L. 107–314 substituted “$50,000” for “$14,000”. 1992—Subsec. (c)(2). Pub. L. 102–484, § 1054(a)(2)(A), substituted “owed” for “owned”. Subsec. (c)(3). Pub. L. 102–484, § 1054(a)(2)(B), substituted “November 5, 1990” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1991”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2008 Amendment
 

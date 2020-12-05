@@ -18,6 +18,8 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Definitions
 
 The definitions in section 262p–5 of this title apply to this section.

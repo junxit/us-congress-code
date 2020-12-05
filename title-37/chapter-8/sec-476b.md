@@ -21,6 +21,8 @@ section: 476b
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 2634 of title 10, referred to in subsec. (c), was repealed by Pub. L. 113–66, div. A, title VI, § 621(g)(1), Dec. 26, 2013, 127 Stat. 784.
@@ -28,6 +30,8 @@ Section 2634 of title 10, referred to in subsec. (c), was repealed by Pub. L. 11
 ### Amendments
 
 2013—Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below. 2011—Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404” in subsecs. (a) and (b) and “476” for “406” in subsec. (c). Pub. L. 112–81, § 631(d)(2), renumbered section 406b of this title as this section. Subsec. (e). Pub. L. 112–81, § 631(e)(8), added subsec. (e). 1992—Subsec. (d). Pub. L. 102–484 substituted “Section 421” for “Section 420”. 1989—Subsec. (c). Pub. L. 101–189 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A member of the uniformed services on permanent duty aboard a ship which undergoes a change of home port to the overhaul or inactivation port and the member’s dependents may be provided the transportation allowances prescribed in subsections (a) and (b) of this section in lieu of the transportation authorized by section 406 of this title and section 2634 of title 10.” 1987—Subsecs. (a), (b). Pub. L. 100–26, as amended by Pub. L. 100–180, substituted “round-trip” for “round trip” wherever appearing in subsec. (a) and “round-trip” for “roundtrip” in subsec. (b). 1985—Pub. L. 99–145, § 616(c)(1), struck out “away from home port” in section catchline. Subsecs. (a) to (d). Pub. L. 99–145, § 616(a), designated existing provisions as subsec. (a), substituted “calendar day, and every sixtieth calendar day after the thirty-first calendar day” for “, ninety-first, and one hundred and fifty-first calendar day”, and added subsecs. (b) to (d). 1981—Pub. L. 97–22 substituted “uniformed services” for “Uniformed Services” in section catchline. 1980—Pub. L. 96–513 substituted “uniformed services” for “Uniformed Services”, “title” for “chapter”, and “later. However,” for “later: Provided, however, That”. 1973—Pub. L. 93–170 substituted “overhauling or inactivating” for “overhauling” in section catchline, and “overhauled or inactivated” and “overhaul or inactivation” for “overhauled” and “overhaul” respectively, wherever appearing in text.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2013 Amendment
 

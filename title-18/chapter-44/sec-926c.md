@@ -46,6 +46,8 @@ section: 926C
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The National Firearms Act, referred to in subsec. (e)(1)(B), (C)(i), is classified generally to chapter 53 (§ 5801 et seq.) of Title 26, Internal Revenue Code. See section 5849 of Title 26. Section 5845 of such Act is classified to section 5845 of Title 26.

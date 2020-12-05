@@ -16,6 +16,8 @@ section: 286p
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, known as the Bretton Woods Agreement Act, which comprises this subchapter.

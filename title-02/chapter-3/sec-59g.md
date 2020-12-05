@@ -9,6 +9,8 @@ section: 59g
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 59g was editorially reclassified as section 505 of this title.

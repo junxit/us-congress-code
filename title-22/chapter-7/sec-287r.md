@@ -15,6 +15,8 @@ There is hereby authorized to be appropriated annually to the Department of Stat
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Article IX of the constitution of the Organization, referred to in text, is article IX of the constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under section 287m of this title. The Subsistence Expenses Act of 1926, as amended, referred to in clause (b), was repealed and superseded by the Travel Expense Act of 1949, which is now covered by subchapter I of chapter 57 of Title 5. Section 9(a) of the 1949 Act provided in part: “All Acts . . . applicable to civilian officers or employees of the departments and establishments, providing for reimbursement of actual travel or transportation expense, and all other Acts, general or special, which are in conflict with the provisions of this Act . . . are hereby modified, but only to the extent of inconsistency or conflict with the provisions of this Act . . .”
@@ -26,6 +28,8 @@ In cl. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substit
 ### Amendments
 
 1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Repeals
 

@@ -21,6 +21,8 @@ section: 262p–4q
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 4605(j) of title 50, referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
@@ -32,6 +34,8 @@ Another section 1621 of Pub. L. 95–118 is classified to section 262p–4p of t
 ### Similar Provisions
 
 Similar provisions are contained in section 262p–11 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definitions
 

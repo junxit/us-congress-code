@@ -18,6 +18,8 @@ section: 135b
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 135a–1 of this title, referred to in subsec. (a), was repealed by Pub. L. 116–94, div. P, title XIV, § 1403(b), Dec. 20, 2019, 133 Stat. 3207. See section 135a of this title.

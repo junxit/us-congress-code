@@ -25,9 +25,13 @@ section: 302f
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2006—Subsec. (c). Pub. L. 109–163 substituted “repay in the manner provided in section 303a(e) of this title” for “refund”. 2000—Subsec. (d). Pub. L. 106–398 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “While a reserve medical officer receives a special pay under section 302 of this title by reason of subsection (a), the officer shall not be entitled to special pay under subsection (h) of that section.” 1996—Subsec. (b)(2), (3)(A). Pub. L. 104–106 substituted “section 12305 of title 10” for “section 673c of title 10”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1996 Amendment
 

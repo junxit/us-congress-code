@@ -18,6 +18,8 @@ Under such terms and conditions as he shall determine and consonant with the pur
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the International Organizations Immunities Act which comprises this subchapter.
@@ -25,6 +27,8 @@ Section was not enacted as part of the International Organizations Immunities Ac
 ### Amendments
 
 1987—Pub. L. 100–204 inserted sentence at end.
+
+### Executive Documents
 
 ### Ex. Ord. No. 12651. Offices of the Commission of the European Communities
 

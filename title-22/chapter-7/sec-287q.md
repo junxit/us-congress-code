@@ -17,6 +17,8 @@ The National Commission shall call general conferences for the discussion of mat
 
 1 See Termination of Reporting Requirements note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The constitution of the Organization, referred to in text, is the Constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under section 287m of this title.
@@ -28,6 +30,8 @@ The constitution of the Organization, referred to in text, is the Constitution o
 ### Amendments
 
 1983—Pub. L. 98–164 struck out provision prohibiting acceptance of gifts or bequests aggregating more than $200,000 in any year. 1961—Pub. L. 87–139 substituted provisions authorizing payment of transportation and other expenses of attending experts as authorized by section 5703 of title 5, for provisions which allowed the experts $10 per diem plus actual transportation expenses. 1958—Pub. L. 85–477 authorized the National Commission to receive and accept services and gifts or bequests of money or materials.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Termination of Reporting Requirements
 

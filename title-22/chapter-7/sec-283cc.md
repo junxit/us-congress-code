@@ -15,6 +15,8 @@ The provisions of section 286b of this title shall apply with respect to the Cor
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is based on section 204 of title II of S. 2416, Ninety-eighth Congress, as introduced Mar. 13, 1984, and enacted into law by Pub. L. 98–473.

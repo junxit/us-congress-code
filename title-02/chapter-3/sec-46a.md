@@ -9,6 +9,8 @@ section: 46a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 46a was editorially reclassified as section 6117 of this title.

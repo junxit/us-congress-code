@@ -17,9 +17,13 @@ section: 481e
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2013—Subsec. (a). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below. 2011—Pub. L. 112–81, § 631(d)(2), renumbered section 411e of this title as this section. Subsec. (a). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404”. Subsec. (c). Pub. L. 112–81, § 631(e)(19), added subsec. (c). 1988—Subsec. (a). Pub. L. 100–456 substituted “incident to a personal emergency of the member” for “incident to the serious illness or injury or the death of a dependent of the member”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2013 Amendment
 

@@ -46,9 +46,13 @@ section: 48
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2019—Pub. L. 116–72 amended section generally. Prior to amendment, section related to animal crush videos. 2010—Pub. L. 111–294 amended section generally. Prior to amendment, section related to depiction of animal cruelty.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Severability
 

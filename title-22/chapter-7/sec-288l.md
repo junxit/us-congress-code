@@ -15,9 +15,13 @@ Under such terms and conditions as the President shall determine, the President 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Department of State Authorities Act of 2006, and not as part of the International Organizations Immunities Act which comprises this subchapter.
+
+### Executive Documents
 
 ### Ex. Ord. No. 13427. Extending Privileges and Immunities to the Permanent Observer Mission of the Holy See to the United Nations
 

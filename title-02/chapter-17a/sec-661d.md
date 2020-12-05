@@ -34,6 +34,8 @@ section: 661d
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 505 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, repealed sections 66 and 81 of this title.

@@ -21,9 +21,13 @@ section: 474A
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1996—Subsecs. (a), (b). Pub. L. 104–208, §§ 101(f) [title VI, § 648(a)] and 2603(a), amended section identically, substituting “class B felony” for “class C felony”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1996 Amendment
 

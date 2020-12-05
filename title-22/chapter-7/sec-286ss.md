@@ -15,9 +15,13 @@ The United States Governor of the Fund may agree to and accept the amendment to 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2009—Pub. L. 111–117 substituted “resolution numbered 52–4” for “resolution numbered 54–4”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2009 Amendment
 

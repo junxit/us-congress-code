@@ -19,6 +19,8 @@ If the gift is not so approved within the 12-month period after the Librarian so
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of fourth par. of section 2 of act Mar. 3, 1925, as added by Pub. L. 102–246. First, second, and third pars. of section 2 are classified to sections 156, 157, and 158 of this title, respectively.

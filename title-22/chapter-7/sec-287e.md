@@ -15,6 +15,8 @@ There is hereby authorized to be appropriated annually to the Department of Stat
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Article 17 of the Charter, referred to in text, is article 17 of the United Nations Charter.
@@ -26,6 +28,8 @@ In text, “chapter 51 and subchapter III of chapter 53 of title 5” substitute
 ### Amendments
 
 1988—Pub. L. 100–459 inserted “serving abroad” after “use of the representatives provided for in section 287 of this title”, inserted “abroad” after “such living quarters” and struck out at end “Any payments made by United States Government personnel for occupancy by them of living quarters leased or rented under this section shall be credited to the appropriation, fund, or account utilized by the Secretary of State for such lease or rental or to the appropriation, fund, or account currently available for such purpose.” 1982—Pub. L. 97–241 substituted “use of the representatives provided for in section 287 of this title and of their appropriate staffs” for “use of the representative of the United States to the United Nations referred to in subsection (a) of section 287 of this title” and inserted provision that payments made by United States Government personnel for occupancy of living quarters leased or rented be credited to the appropriation, fund, or account utilized for such lease or rental or to the appropriation, fund, or account currently available for such purpose. 1980—Pub. L. 96–465 substituted reference to section 4085 of this title for reference to section 1131 of this title. 1960—Pub. L. 86–707 substituted “and unusual expenses similar to those authorized by section 5913 of title 5, incident to the operation and maintenance of such living quarters” for “and the allotment of funds, similar to the allotment authorized by section 1132 of this title, for unusual expenses incident to the operation and maintenance of such living quarters, to be accounted for in accordance with section 1133 of this title.” 1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”. Act Oct. 10, 1949, which renumbered section as section 8 of act Dec. 20, 1945, from section 7, authorized lease or rental, for periods not to exceed 10 years, of a residence for our representative to the United Nations, and clarified references to the civil service and classification laws, subsistence allowances, and travel expense.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1988 Amendment
 
@@ -81,7 +85,7 @@ Pub. L. 98–164, title I, § 114, Nov. 22, 1983, 97 Stat. 1020, as amended by P
 
 ### Annual Review for Projects Providing Political Benefits to Palestine Liberation Organization; Report to Congress on Withholding of Assessed Contribution
 
-Section 104(c) of Pub. L. 97–241 provided that: “The President shall annually review the budgets of the United Nations and its specialized agencies to determine which projects have the primary purpose of providing political benefit to the Palestine Liberation Organization. The President shall report to the Congress on any such project for which a portion of the United States assessed contribution is withheld and the amount withheld.” [Functions of the President under section 104(c) of Pub. L. 97–241, set out as a note above, delegated to the Secretary of State, see Ex. Ord. No. 12374, July 28, 1982, 47 F.R. 32903, as amended by Ex. Ord. No. 12408, Feb. 23, 1983, 48 F.R. 8035.]
+Pub. L. 97–241, title I, § 104(c), Aug. 24, 1982, 96 Stat. 274, provided that: “The President shall annually review the budgets of the United Nations and its specialized agencies to determine which projects have the primary purpose of providing political benefit to the Palestine Liberation Organization. The President shall report to the Congress on any such project for which a portion of the United States assessed contribution is withheld and the amount withheld.” [Functions of the President under section 104(c) of Pub. L. 97–241, set out as a note above, delegated to the Secretary of State, see Ex. Ord. No. 12374, July 28, 1982, 47 F.R. 32903, as amended by Ex. Ord. No. 12408, Feb. 23, 1983, 48 F.R. 8035.]
 
 ### Limit on Payments to United Nations and Affiliated Agencies
 

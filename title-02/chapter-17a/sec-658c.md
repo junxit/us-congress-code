@@ -32,9 +32,13 @@ section: 658c
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1999—Subsec. (a)(3), (4). Pub. L. 106–141 added par. (3) and redesignated former par. (3) as (4).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

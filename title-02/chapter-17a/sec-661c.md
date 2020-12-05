@@ -29,6 +29,8 @@ section: 661c
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 504 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, was classified to section 1020a of former Title 31, prior to repeal by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068.

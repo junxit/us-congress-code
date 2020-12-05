@@ -18,6 +18,8 @@ section: 286e–1k
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 53 of act July 31, 1945, is based on section 1 of H.R. 4645, One Hundredth Congress, as reported Sept. 28, 1988, and enacted into law by Pub. L. 100–461.

@@ -24,6 +24,8 @@ section: 28d
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 “Director of the Government Publishing Office” substituted for “Public Printer” in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents. Substitution was also made in section catchline that had been supplied editorially.

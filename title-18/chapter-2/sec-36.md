@@ -25,9 +25,13 @@ section: 36
 
 1 So in original. Probably should be preceded by “or”.
 
+### Editorial Notes
+
 ### Amendments
 
 1996—Subsec. (a)(1), (2). Pub. L. 104–294 substituted “408(c)” for “403(c)” in par. (1) and “Export” for “Export Control” in par. (2).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1996 Amendment
 

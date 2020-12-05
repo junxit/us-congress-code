@@ -16,6 +16,8 @@ section: 179t
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The General Schedule, referred to in subsec. (b), is set out under section 5332 of Title 5, Government Organization and Employees.

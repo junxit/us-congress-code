@@ -52,6 +52,8 @@ section: 262l
 
 1 So in original. The period probably should be a semicolon.
 
+### Editorial Notes
+
 ### Codification
 
 Section is from the Foreign Assistance and Related Programs Appropriations Act, 1987. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
@@ -59,6 +61,8 @@ Section is from the Foreign Assistance and Related Programs Appropriations Act, 
 ### Prior Provisions
 
 A prior section 262l, Pub. L. 102–391, title V, § 532, Oct. 6, 1992, 106 Stat. 1666, which related to environmental and energy initiatives, benchmarks, Global Warming Initiative, and appropriations, was transferred to section 262l–3 of this title. Another prior section 262l, Pub. L. 101–167, title V, § 533, Nov. 21, 1989, 103 Stat. 1225, is set out as a note below. Another prior section 262l, Pub. L. 100–461, title V, § 535, Oct. 1, 1988, 102 Stat. 2268–28, which related to sustainable use of natural resources and use of agricultural and industrial chemicals, was transferred to section 262l–2 of this title. Another prior section 262l, Pub. L. 100–202, § 101(e) [title V, § 537], Dec. 22, 1987, 101 Stat. 1329–131, 1329–161; Pub. L. 101–240, title V, § 541(d)(8), Dec. 19, 1989, 103 Stat. 2518, which related to sustainable economic growth and management of natural resources, environmental impact of loans, pest management, addition of trained professionals, and “early warning system”, was transferred to section 262l–1 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Similar Provisions
 

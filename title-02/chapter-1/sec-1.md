@@ -15,6 +15,8 @@ At the regular election held in any State next preceding the expiration of the t
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1934—Act June 5, 1934, substituted “3d day of January” for “fourth day of March”.

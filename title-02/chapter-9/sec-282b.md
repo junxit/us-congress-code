@@ -16,6 +16,8 @@ section: 282b
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Amendment by Pub. L. 95–94 is based on par. (2) of House Resolution No. 8, Ninety-fifth Congress, Jan. 4, 1977, which was enacted into permanent law by Pub. L. 95–94.
@@ -27,6 +29,8 @@ House Resolution 312, 89th Congress, Mar. 31, 1965, which was enacted into perma
 ### Amendments
 
 2019—Subsec. (a). Pub. L. 116–94, § 212(b)(3)(A)(i), substituted “equal to the greater of $173,900 or the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title.” for “equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule of section 5314 of title 5.” Subsec. (b). Pub. L. 116–94, § 212(b)(3)(A)(ii), substituted “in excess of the applicable rate of pay in effect under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title.” for “in excess of the rate of basic pay for one pay level above the maximum pay level for employees of the House of Representatives provided under clause 6(c) of Rule XI of the Rules of the House of Representatives.” 1977—Subsec. (b). Pub. L. 95–94 substituted provisions authorizing compensation at a rate not in excess of the rate of basic pay for one pay level above the maximum pay level for House employees provided under cl. 6(c) of Rule XI of the Rules of the House of Representatives, for provisions authorizing compensation at per annum gross rates not in excess of a per annum gross rate equal to the rate of basic pay for level V of the Executive Schedule of section 5316 of title 5.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2019 Amendment
 

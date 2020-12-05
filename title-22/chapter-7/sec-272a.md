@@ -20,6 +20,8 @@ There is hereby authorized to be appropriated annually to the Department of Stat
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Subchapter XVII [§ 287m et seq.] of this chapter, referred to in subsec. (b)(2), was in the original a reference to the Act of July 30, 1946, Public Law 565, Seventy-ninth Congress.
@@ -31,6 +33,8 @@ In subsec. (b)(1), “chapter 51 and subchapter III of chapter 53 of title 5” 
 ### Amendments
 
 1958—Subsec. (a). Pub. L. 85–477 substituted provisions limiting appropriations to not more than 25 per centum of the expenses for provisions which authorized an appropriation of not more than $1,750,000 per annum for payment of expenses. 1950—Subsec. (a). Joint Res. Sept. 21, 1950, § 1(e)(1), (2), increased the authorized annual appropriation from $1,091,739 to $1,750,000, and changed the reference to the Organization’s constitution from article 13(c) to article 13(2)(c) and 13(3). Subsec. (b). Joint Res. Sept. 21, 1950, § 1(e)(3), struck out limitation of $95,000 on the authorized annual appropriation for expenses. 1949—Subsec. (b)(1). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Limitation of Contributions
 

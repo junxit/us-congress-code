@@ -21,6 +21,8 @@ section: 1465cc
 
 Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Television Broadcasting to Cuba Act which comprises this subchapter, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.
@@ -28,6 +30,8 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 ### Amendments
 
 1998—Pub. L. 105–277, § 1325(4)(A), struck out “of the United States Information Agency” after “Service” in section catchline. Subsec. (a). Pub. L. 105–277, § 1325(4)(B)(ii), which directed amendment of subsec. (a) in second sentence by substituting “Broadcasting Board of Governors” for “Director of the United States Information Agency” and “the International Broadcasting Bureau” for “the Director of the Voice of America”, was executed by making the substitutions in third sentence, to reflect the probable intent of Congress. Pub. L. 105–277, § 1325(4)(B)(i), substituted “There is” for “The Director of the United States Information Agency shall establish” in first sentence. Subsec. (b). Pub. L. 105–277, § 1325(4)(C), substituted “Board facilities” for “Agency facilities” and “International” for “Information Agency”. Subsec. (c). Pub. L. 105–277, § 1325(3), (4)(D), in heading struck out “USIA” before “Authority”, and in text substituted “Board” for “Agency” in two places.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

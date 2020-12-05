@@ -15,6 +15,8 @@ The management, supervision, and administration of the Office are vested in the 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is based on section 205(d) of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, which was enacted into permanent law by Pub. L. 93–554.

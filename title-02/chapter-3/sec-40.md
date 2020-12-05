@@ -9,6 +9,8 @@ section: 40
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 40 was editorially reclassified as section 4522 of this title.

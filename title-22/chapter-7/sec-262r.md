@@ -47,6 +47,8 @@ section: 262r
 
 3 So in original.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 2018(c) of the International Narcotics Act of 1986, referred to in subsec. (b)(6), means section 2018(c) of Pub. L. 99–570, known as the International Narcotics Control Act of 1986, which is set out as a note under section 2291 of this title. This title and titles VII, XIII, XVIII, and XIX, referred to in subsecs. (b)(9), (10) and (c), are titles XVII, VII, XIII, XVIII, and XIX, respectively, of Pub. L. 95–118. Title VII enacted sections 262d and 262e of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as a note under section 262c of this title. Title XIII is classified to sections 262m to 262m–8 of this title. Title XVII is classified to sections 262r to 262r–5 of this title. Title XVIII is classified to sections 262s to 262s–2 of this title. Title XIX is classified to section 262t of this title. For complete classification of these titles to the Code, see Tables. Section 262d(c) of this title, referred to in subsec. (b)(9), was repealed by Pub. L. 113–188, title XVI, § 1601(b), Nov. 26, 2014, 128 Stat. 2025. Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -54,6 +56,8 @@ Section 2018(c) of the International Narcotics Act of 1986, referred to in subse
 ### Amendments
 
 1998—Subsec. (e). Pub. L. 105–277 added subsec. (e). 1996—Subsec. (c)(2). Pub. L. 104–208 inserted “Bank for Economic Cooperation and Development in the Middle East and North Africa,” after “Inter-American Development Bank”. 1990—Subsec. (c)(2). Pub. L. 101–513 inserted “European Bank for Reconstruction and Development,” before “International Development Association,”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

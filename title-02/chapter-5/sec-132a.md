@@ -15,6 +15,8 @@ The unexpended balance of any sums appropriated by Congress for the increase of 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 82 derived from acts Apr. 24, 1800, ch. 37, § 5, 2 Stat. 56, and Jan. 26, 1802, ch. 2, § 6, 2 Stat. 129.
@@ -22,6 +24,8 @@ R.S. § 82 derived from acts Apr. 24, 1800, ch. 37, § 5, 2 Stat. 56, and Jan. 2
 ### Amendments
 
 1946—Act Aug. 2, 1946, changed composition of Joint Committee. See section 132b of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1946 Amendment
 

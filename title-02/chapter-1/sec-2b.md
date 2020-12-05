@@ -15,6 +15,8 @@ Each State shall be entitled, in the Seventy-eighth and in each Congress thereaf
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Certificates to Executives of States
 
 Act Nov. 15, 1941, ch. 470, § 2(b), 55 Stat. 762, required Clerk of House of Representatives, within 15 days of Nov. 15, 1941, to send a new certificate of entitlement of a State to Representatives, if such a certificate had been sent prior to Nov. 15, 1941, under provisions of section 2a of this title.

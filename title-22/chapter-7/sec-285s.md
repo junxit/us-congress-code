@@ -16,9 +16,13 @@ section: 285s
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1981—Subsec. (a). Pub. L. 97–35 substituted “effective only to such extent or in such amounts as are provided in advance in appropriation Acts” for “made only after the amount required for such subscription has been appropriated”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1981 Amendment
 

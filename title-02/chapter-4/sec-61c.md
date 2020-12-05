@@ -9,6 +9,8 @@ section: 61c
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section, Pub. L. 94–59, title I, July 25, 1975, 89 Stat. 270, which set the compensation for certain positions in office of Secretary of Senate, was omitted for lack of general applicability.

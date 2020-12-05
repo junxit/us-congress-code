@@ -9,6 +9,8 @@ section: 60g–2
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 60g–2 was editorially reclassified as section 5322 of this title.

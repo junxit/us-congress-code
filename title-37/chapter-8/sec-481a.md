@@ -17,9 +17,13 @@ section: 481a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Subsec. (a). Pub. L. 114–328 inserted “or 351” after “section 310”. 2013—Subsec. (b). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below. 2011—Pub. L. 112–81, § 631(d)(2), renumbered section 411a of this title as this section. Subsec. (b). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404”. Subsec. (c). Pub. L. 112–81, § 631(e)(15), added subsec. (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2013 Amendment
 

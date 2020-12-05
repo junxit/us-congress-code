@@ -15,6 +15,8 @@ Whenever a contract is made for the construction, alteration, or repair of a For
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as a part of the Foreign Service Buildings Act, 1926, which comprises this chapter.

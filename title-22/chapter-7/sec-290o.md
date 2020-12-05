@@ -15,9 +15,13 @@ The President is hereby authorized to accept membership for the United States in
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This subchapter, referred to in text, was in the original “this title”, meaning title I, § 101(c) [title VII], of div. A of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–121, 3009–179, which is classified principally to this subchapter. For complete classification of title I, § 101(c) [title VII], to the Code, see Short Title note below and Tables.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

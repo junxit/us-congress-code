@@ -15,6 +15,8 @@ The Secretary of the Treasury is authorized to pay the balance of the subscripti
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Subsection (a), referred to in the first par., means section 7(a) of act July 31, 1945, ch. 339, 59 Stat. 514, which generally amended subsec. (c) of section 822a of former Title 31, Money and Finance. Section 822a(c) of former Title 31 was repealed and reenacted as section 5302(d) of Title 31 by Pub. L. 97–258, § 4(a), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31.
@@ -26,6 +28,8 @@ In first and second pars., “chapter 31 of title 31” and “that chapter” s
 ### Amendments
 
 1962—Pub. L. 87–490 included in the limitation of face amount of special notes issued to the Fund the dollar equivalent of currencies and gold which the United States shall have purchased from the Fund in accordance with the Articles of Agreement. 1959—Pub. L. 86–48 struck out “of $950,000,000” after “is authorized to pay the balance”, and substituted “$8,675,000,000” for “not to exceed $4,125,000,000”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Increase in Quota of United States; Appropriation Requirements; Transfers and Credits; Restrictions
 

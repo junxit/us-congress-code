@@ -15,6 +15,8 @@ In accordance with policies and procedures approved by the Speaker, the Parliame
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is based on section 5 of House Resolution No. 502, Ninety-fifth Congress, Apr. 20, 1977, which was enacted into permanent law by Pub. L. 95–94.

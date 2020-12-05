@@ -15,9 +15,13 @@ The Joint Committee of Congress on the Library shall, on and after January 3, 19
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1996—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

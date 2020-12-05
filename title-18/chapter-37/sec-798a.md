@@ -15,6 +15,8 @@ The provisions of section 794 of this title, as amended and extended by section 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 1(a)(29) of the Emergency Powers Continuation Act (66 Stat. 333) as further amended by Public Law 12, Eighty-third Congress, referred to in text, was formerly set out as a note under section 791 of this title and was repealed by section 7 of act June 30, 1953. Proc. 2912, 3 C.F.R., 1950 Supp., p. 71, referred to in text, probably should refer to Proc. 2914, which is set out as a note preceding section 1 of Title 50, War and National Defense.
@@ -22,6 +24,8 @@ Section 1(a)(29) of the Emergency Powers Continuation Act (66 Stat. 333) as furt
 ### Amendments
 
 1990—Pub. L. 101–647 renumbered the second section 798 of this title as this section.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Termination of National Emergency
 

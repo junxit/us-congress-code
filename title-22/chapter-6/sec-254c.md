@@ -18,9 +18,13 @@ section: 254c
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Subsec. (b)(2). Pub. L. 115–94 substituted “and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations” for “of the House of Representatives and the Committee on Foreign Relations”. 2016—Pub. L. 114–323 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b). 1982—Pub. L. 97–241 substituted “immunities for the mission, the members” for “immunities for members” and “diplomatic couriers which” for “diplomatic couriers of any sending state which”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1982 Amendment
 
@@ -29,6 +33,8 @@ Amendment by Pub. L. 97–241 effective Oct. 1, 1982, see section 204 of Pub. L.
 ### Effective Date
 
 Section effective at end of ninety-day period beginning on Sept. 30, 1978, see section 9 of Pub. L. 95–393, set out as a note under section 254a of this title.
+
+### Executive Documents
 
 ### Ex. Ord. No. 12101. Delegation of Functions to Secretary of State Respecting Privileges and Immunities for Diplomatic Missions and Personnel
 

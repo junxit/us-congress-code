@@ -20,6 +20,8 @@ section: 661b
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 503 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, was classified to section 701 of former Title 31, prior to repeal and reenactment in section 1552(a) of Title 31, Money and Finance, by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.

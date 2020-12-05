@@ -24,9 +24,13 @@ section: 474b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2013—Subsec. (b)(2). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below. 2011—Pub. L. 112–81, § 631(d)(2), renumbered section 404b of this title as this section. Subsec. (b)(2). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474(a)(4)” for “404(a)(4)”. Subsec. (e). Pub. L. 112–81, § 631(e)(3), added subsec. (e). 2006—Pub. L. 109–163, § 651(b)(1), substituted “Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member” for “Travel and transportation allowances: lodging expenses at temporary duty location for members on authorized leave” in section catchline. Subsec. (a). Pub. L. 109–163, § 651(a)(1), substituted “during an authorized absence of the member from the temporary duty location” for “while the member is in an authorized leave status”. Subsec. (b)(1). Pub. L. 109–163, § 651(a)(2)(A), substituted “the authorized absence” for “taking the authorized leave”. Subsec. (b)(3). Pub. L. 109–163, § 651(a)(2)(B), substituted “before the end of the authorized absence” for “immediately after completing the authorized leave”. Subsec. (c)(1). Pub. L. 109–163, § 651(a)(3), substituted “during the authorized absence of the member” for “while the member was in an authorized leave status”. Subsec. (d). Pub. L. 109–163, § 651(a)(4), added subsec. (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2013 Amendment
 

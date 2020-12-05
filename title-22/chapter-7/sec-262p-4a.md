@@ -23,6 +23,8 @@ section: 262p–4a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 1606 of Pub. L. 95–118 is based on section 6 of H.R. 4645, One Hundredth Congress, as reported Sept. 28, 1988, and enacted into law by Pub. L. 100–461.
@@ -30,6 +32,8 @@ Section 1606 of Pub. L. 95–118 is based on section 6 of H.R. 4645, One Hundred
 ### Prior Provisions
 
 A prior section 1606 of Pub. L. 95–118 was renumbered section 1622 and is classified to section 262p–5 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definitions
 

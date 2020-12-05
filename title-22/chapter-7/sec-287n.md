@@ -15,6 +15,8 @@ The President by and with the consent of the Senate shall designate from time to
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Article V of the constitution of the Organization, referred to in text, is article V of the Constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under section 287m of this title.
@@ -22,6 +24,8 @@ Article V of the constitution of the Organization, referred to in text, is artic
 ### Amendments
 
 1980—Pub. L. 96–465 substituted “members of the Senior Foreign Service under section 3962 of this title, or provided for Foreign Service officers under section 3963 of this title,” for “Foreign Service officers in the schedule contained in section 867 of this title,”. 1964—Pub. L. 88–426, § 306(g), substituted provisions permitting payment of compensation at such rates provided for Foreign Service officers in the schedule contained in section 867 of this title for provisions which limited compensation at not more than $15,000 per annum. 1956—Act July 31, 1956, increased maximum compensation of representatives and alternatives from $12,000 to $15,000.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1980 Amendment
 

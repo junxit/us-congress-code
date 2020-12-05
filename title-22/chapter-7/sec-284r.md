@@ -16,6 +16,8 @@ section: 284r
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 20 of Pub. L. 86–565 is based on section 101 of title I of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.

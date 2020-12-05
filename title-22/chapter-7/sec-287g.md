@@ -15,6 +15,8 @@ There is hereby authorized to be appropriated to the President, without fiscal-y
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act Dec. 20, 1945, ch. 583, 59 Stat. 619, known as the United Nations Participation Act of 1945, which comprises this subchapter.

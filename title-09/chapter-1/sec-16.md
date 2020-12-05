@@ -28,6 +28,8 @@ section: 16
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1990—Pub. L. 101–650 renumbered the second section 15 of this title as this section.

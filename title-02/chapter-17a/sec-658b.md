@@ -31,9 +31,13 @@ section: 658b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1999—Subsec. (d)(3). Pub. L. 106–141 added par. (3).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

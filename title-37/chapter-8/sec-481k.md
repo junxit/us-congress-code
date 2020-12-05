@@ -32,9 +32,13 @@ section: 481k
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2013—Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below. 2011—Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “481h” for “411h” in subsec. (d)(1) and “474” for “404” in subsec. (d)(3). Pub. L. 112–81, § 631(d)(2), renumbered section 411k of this title as this section. Subsec. (d)(1). Pub. L. 111–383 substituted “allowances under section” for “allowances section”. Subsec. (e). Pub. L. 112–81, § 631(e)(24), added subsec. (e).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2013 Amendment
 

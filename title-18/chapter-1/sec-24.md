@@ -20,6 +20,8 @@ section: 24
 
 1 So in original. The second comma probably should follow “1954 of this title”.
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 411, 518, and 511 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2), are classified to sections 1111, 1148, and 1141, respectively, of Title 29, Labor.

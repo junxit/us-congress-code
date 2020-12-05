@@ -31,6 +31,8 @@ The term “special maritime and territorial jurisdiction of the United States�
 
 Based on title 18, U.S.C., 1940 ed., § 451 (Mar. 4, 1909, ch. 321, § 272, 35 Stat. 1142; June 11, 1940, ch. 323, 54 Stat. 304). The words “The term ‘special maritime and territorial jurisdiction of the United States’ as used in this title includes:” were substituted for the words “The crimes and offenses defined in sections 451–468 of this title shall be punished as herein prescribed.” This section first appeared in the 1909 Criminal Code. It made it possible to combine in one chapter all the penal provisions covering acts within the admiralty and maritime jurisdiction without the necessity of repeating in each section the places covered. The present section has made possible the allocation of the diverse provisions of chapter 11 of Title 18, U.S.C., 1940 ed., to particular chapters restricted to particular offenses, as contemplated by the alphabetical chapter arrangement. In several revised sections of said chapter 11 the words “within the special maritime and territorial jurisdiction of the United States” have been added. Thus the jurisdictional limitation will be preserved in all sections of said chapter 11 describing an offense. Enumeration of names of Great Lakes was omitted as unnecessary. Other minor changes were necessary now that the section defines a term rather than the place of commission of crime or offense; however, the extent of the special jurisdiction as originally enacted has been carefully followed.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 101 of the Immigration and Nationality Act, referred to in par. (9), is classified to section 1101 of Title 8, Aliens and Nationality.
@@ -38,6 +40,8 @@ Section 101 of the Immigration and Nationality Act, referred to in par. (9), is 
 ### Amendments
 
 2001—Par. (9). Pub. L. 107–56 added par. (9). 1994—Par. (8). Pub. L. 103–322 added par. (8). 1984—Par. (7). Pub. L. 98–473 added par. (7). 1981—Par. (6). Pub. L. 97–96 added par. (6). 1952—Par. (5). Act July 12, 1952, added par. (5).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Territorial Sea Extending to Twelve Miles Included in Special Maritime and Territorial Jurisdiction
 

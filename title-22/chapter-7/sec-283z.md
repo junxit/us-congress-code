@@ -16,6 +16,8 @@ section: 283z
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 28 of Pub. L. 86–147, as added by section 103(a)(1) of Pub. L. 94–302, was classified to section 283y of this title prior to repeal by Pub. L. 95–118, title VII, § 702, Oct. 3, 1977, 91 Stat. 1070.

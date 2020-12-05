@@ -15,6 +15,8 @@ For the purposes of any civil action which may be brought within the United Stat
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is based on section 208 of title II of S. 2416, Ninety-eighth Congress, as introduced Mar. 13, 1984, and enacted into law by Pub. L. 98–473.

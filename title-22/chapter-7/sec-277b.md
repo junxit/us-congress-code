@@ -18,6 +18,8 @@ section: 277b
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The first undesignated paragraph under the heading “International Obligations” contained in the Act of April 25, 1945 (59 Stat. 89), referred to in subsec. (b), is not classified to the Code.

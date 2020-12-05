@@ -15,6 +15,8 @@ In fiscal year 2018 and thereafter, for all contracts for goods and services to 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of title II of the Congressional Budget and Impoundment Control Act of 1974 which comprises this chapter.

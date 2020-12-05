@@ -15,6 +15,8 @@ The Tuesday next after the 1st Monday in November, in every even numbered year, 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 25 derived from act Feb. 2, 1872, ch. 11, § 3, 17 Stat. 28. The second sentence of this section, which was based on section 6 of the act Mar. 3, 1875 and made this section inapplicable to any State that had not yet changed its day of election and whose constitution required an amendment to change the day of election of its State officers, was omitted.

@@ -19,6 +19,8 @@ section: 262p–4p
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Another section 1621 of Pub. L. 95–118 is classified to section 262p–4q of this title.
@@ -26,6 +28,8 @@ Another section 1621 of Pub. L. 95–118 is classified to section 262p–4q of t
 ### Amendments
 
 1996—Subsec. (a)(1). Pub. L. 104–188 substituted “2467(4)” for “2462(a)(4)”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

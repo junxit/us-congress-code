@@ -15,9 +15,13 @@ Under such terms and conditions as he shall determine and consonant with the pur
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the International Organizations Immunities Act which comprises this subchapter.
+
+### Executive Documents
 
 ### Executive Order No. 11771
 

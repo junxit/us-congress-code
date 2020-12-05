@@ -9,6 +9,8 @@ section: 33
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 33 was editorially reclassified as section 6301 of this title.

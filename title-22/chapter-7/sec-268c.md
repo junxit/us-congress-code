@@ -15,6 +15,8 @@ Funds appropriated on and after September 30, 1996, or otherwise made available 
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Similar Provisions
 
 Similar provisions were contained in the following prior appropriation acts: Pub. L. 103–317, title V, § 503, Aug. 26, 1994, 108 Stat. 1764. Pub. L. 103–121, title V, § 503, Oct. 27, 1993, 107 Stat. 1189.

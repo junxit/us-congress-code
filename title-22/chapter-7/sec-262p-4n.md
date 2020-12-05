@@ -15,9 +15,13 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 1619 of Pub. L. 95–118 was renumbered section 1622 and is classified to section 262p–5 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definitions
 

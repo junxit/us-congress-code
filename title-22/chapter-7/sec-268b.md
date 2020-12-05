@@ -15,6 +15,8 @@ Advances of money under the appropriation “Boundary line, Alaska and Canada, a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is from the Diplomatic and Consular Service Appropriation Act of Mar. 2, 1921. Similar provisions were contained in act Apr. 15, 1918, and other prior acts. Acts Apr. 29, 1926; Feb. 24, 1927; Feb. 15, 1928; Jan. 25, 1929; and Apr. 18, 1930, were appropriation acts for the fiscal years 1927, 1928, 1929, 1930, and 1931, respectively. These Acts made applicable boundary appropriations for the enumerated fiscal years. Section was formerly classified to section 535 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.

@@ -20,6 +20,8 @@ section: 39
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Another section 39 was renumbered section 40 of this title.

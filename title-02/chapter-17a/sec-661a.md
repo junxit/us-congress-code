@@ -40,6 +40,8 @@ For purposes of this subchapter—
 
 1 So in original. Probably should be capitalized.
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 502 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, was set out as a note under section 1020 of former Title 31, prior to repeal by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068.

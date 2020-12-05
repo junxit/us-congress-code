@@ -20,6 +20,8 @@ section: 179q
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2005—Subsec. (a)(1). Pub. L. 109–9, § 302(d)(1), inserted “in any format” after “or any copy” in introductory provisions. Subsec. (a)(2). Pub. L. 109–9, § 302(d)(2), substituted “in any format” for “or film copy”.

@@ -21,6 +21,8 @@ The Secretary of the Treasury shall—
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is based on section 4 of H.R. 4645, One Hundredth Congress, as reported Sept. 28, 1988, and enacted into law by Pub. L. 100–461. Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, known as the Bretton Woods Agreements Act, which comprises this subchapter.

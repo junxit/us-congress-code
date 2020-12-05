@@ -23,6 +23,8 @@ section: 262k
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 “United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (c)(2) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of Title 30, Mineral Lands and Mining.

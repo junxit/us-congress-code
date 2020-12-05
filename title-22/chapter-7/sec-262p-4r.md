@@ -17,9 +17,13 @@ section: 262p–4r
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Subsec. (a). Pub. L. 108–458, § 6202(l)(1), inserted “the” after “utilization of the funds of”. Subsec. (b). Pub. L. 108–458, § 6202(l)(2), substituted “at such institution” for “at such institutions”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2004 Amendment
 

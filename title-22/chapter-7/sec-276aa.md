@@ -15,9 +15,13 @@ There is established in the Department of the Army a board to be known as the Tr
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 224 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

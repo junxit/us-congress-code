@@ -23,9 +23,13 @@ section: 475a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2011—Pub. L. 112–81, § 631(d)(2), renumbered section 405a of this title as this section. Subsec. (c). Pub. L. 112–81, § 631(e)(5), added subsec. (c). 1998—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1) and added par. (2). 1996—Subsec. (a). Pub. L. 104–106 substituted “authorized or ordered” for “ordered” wherever appearing. 1992—Subsec. (a)(2) to (4). Pub. L. 102–484 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. 1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”. 1986—Pub. L. 99–661 substituted “departure” for “evacuation” in section catchline. 1981—Subsec. (a). Pub. L. 97–60, § 123, inserted provision authorizing the payment of allowances in advance. Subsec. (b). Pub. L. 97–60, § 121(c), substituted “that is owned by the member (or a dependent of the member) and is for the personal use of the member or his dependents” for “owned by him and for his personal use, or the use of the dependents,”. 1980—Subsec. (a). Pub. L. 96–465 substituted “to depart” and “departure” for “evacuated” and “evacuation”, respectively, wherever appearing. 1966—Subsec. (a). Pub. L. 89–608 struck out provision requiring that to qualify for allowances the evacuated dependents have been evacuated from places outside the United States to places inside the United States.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1998 Amendment
 

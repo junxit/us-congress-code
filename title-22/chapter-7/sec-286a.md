@@ -21,9 +21,13 @@ section: 286a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1978—Subsec. (d). Pub. L. 95–435 designated existing provisions as par. (1) and added pars. (2) and (3). 1976—Subsec. (c). Pub. L. 94–564, § 2(1), amended subsec. (c) generally to provide that the Governor serve as councillor and designate an alternate and associates. Former provisions relating to compensation were included in subsec. (d). Subsec. (d). Pub. L. 94–564, § 2(2), added subsec. (d). 1973—Subsec. (b). Pub. L. 93–94 substituted “and an alternate for the governor of the Bank” for “who shall also serve as alternate for the governor of the Bank”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1976 Amendment
 

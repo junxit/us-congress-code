@@ -18,6 +18,8 @@ section: 282a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1971—Subsec. (b). Pub. L. 92–51 substituted provisions for designation of one attorney as Deputy Legislative Counsel to perform functions of Legislative Counsel during his absence or disability or when office is vacant and for delegation of functions to Deputy Legislative Counsel and other employees for former provisions for appointment of full-time Office Administrator to exercise management, supervisory, and administrative functions of the Office as delegated to him by the Legislative Counsel.

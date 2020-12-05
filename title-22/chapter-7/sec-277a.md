@@ -15,9 +15,13 @@ The Secretary of State, acting through the American Commissioner, International 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1990—Pub. L. 101–246 inserted reference to drainage of transboundary storm waters. 1935—Act Aug. 19, 1935, amended section generally. 1927—Act Mar. 3, 1927, increased appropriation from $20,000 to $50,000.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

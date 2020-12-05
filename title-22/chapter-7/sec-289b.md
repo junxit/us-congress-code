@@ -20,6 +20,8 @@ There is hereby authorized to be appropriated annually to the Department of Stat
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Subchapter XVI [§ 287 et seq.] of this chapter, referred to in subsec. (b)(2), was in the original a reference to the United Nations Participation Act of 1945.
@@ -31,6 +33,8 @@ In subsec. (b)(1), “chapter 51 and subchapter III of chapter 53 of title 5” 
 ### Amendments
 
 1949—Subsec. (b)(1). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Repeals
 

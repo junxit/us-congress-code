@@ -15,9 +15,13 @@ The board is authorized to accept from Mrs. Kermit Roosevelt such money and prop
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 225 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

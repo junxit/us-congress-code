@@ -15,6 +15,8 @@ To enable the United States to become an adhering member of the Inter American S
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1945—Act July 2, 1945, substituted the single proviso for two provisos.

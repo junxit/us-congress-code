@@ -20,9 +20,13 @@ section: 167j
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2010—Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(2)(D). See 2007 Amendment notes below. 2008—Subsec. (a). Pub. L. 110–178, § 4(b)(4)(A), substituted “The” for “For the purposes of sections 167 to 167j of this title the”. Subsecs. (b) to (d). Pub. L. 110–178, § 4(b)(4)(B)–(D), substituted “The” for “For the purposes of sections 167 to 167j of this title, the”. 2007—Subsec. (a). Pub. L. 110–161, § 1004(d)(2)(D)(i), which made amendment identical to that made by Pub. L. 110–178, § 4(b)(4)(A), was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below. Subsecs. (b) to (d). Pub. L. 110–161, § 1004(d)(2)(D)(ii)–(iv), which directed substitution of “The” for “For the purposes of sections 167 to 167j of this title the”, but could not be executed because “For the purposes of sections 167 to 167j of this title the” did not appear in text, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below. 2003—Subsec. (d)(1). Pub. L. 108–83 added par. (1) and struck out former par. (1) which read as follows: “Three parcels totaling approximately 41 acres, more or less, located in Culpeper County, Virginia, and identified as Culpeper County Tax Parcel Numbers 51–80B, 51–80C, and 51–80D, further described as real estate (consisting of 15.949 acres) conveyed to Federal Reserve Bank of Richmond by deed from Russell H. Inskeep and Jean H. Inskeep, his wife, dated October 1, 1964, and recorded October 7, 1964, in the Clerk’s Office, Circuit Court of Culpeper County, Virginia, in Deed Book 177, page 431; and real estate (consisting of 20.498 acres and consisting of 4.502 acres) conveyed to Federal Reserve Bank of Richmond by deed from Russell H. Inskeep and Jean H. Inskeep, his wife, dated November 11, 1974, and recorded November 12, 1974, in the Clerk’s Office, Circuit Court of Culpeper County, Virginia, in Deed Book 247, page 246.” 1997—Subsec. (d). Pub. L. 105–144 added subsec. (d). 1990—Subsec. (c). Pub. L. 101–520 and Pub. L. 101–562 made substantially identical amendments, adding subsec. (c). The text of subsec. (c) is based on amendment by Pub. L. 101–562. 1970—Pub. L. 91–281 designated existing provisions as subsec. (a) and added subsec. (b).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

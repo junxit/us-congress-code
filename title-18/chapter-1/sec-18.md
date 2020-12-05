@@ -15,6 +15,8 @@ As used in this title, the term “organization” means a person other than an 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1988—Pub. L. 100–690 made technical correction of directory language of Pub. L. 99–646, § 38(a), similar to that made by Pub. L. 100–185. 1987—Pub. L. 100–185 made technical correction in directory language of Pub. L. 99–646, § 38(a).

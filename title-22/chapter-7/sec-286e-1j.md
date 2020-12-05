@@ -18,6 +18,8 @@ section: 286e–1j
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 51 of act July 31, 1945, is based on section 301 of title III of H.R. 2253, Ninety-ninth Congress, as reported May 15, 1985, and enacted into law by Pub. L. 99–190.

@@ -97,6 +97,8 @@ Section 23i, act May 24, 1924, ch. 182, § 33, as added Feb. 23, 1931, ch. 276, 
 
 Section 23j, act May 24, 1924, ch. 182, § 34, as added Feb. 23, 1931, ch. 276, § 7, 46 Stat. 1216, related to reduction of salary upon promotion to a higher grade.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of Repeal
 
 Repeal effective three months after Aug. 13, 1946, see act Aug. 13, 1946, ch. 957, title XI, § 1141, 60 Stat. 1040.

@@ -15,6 +15,8 @@ Before the first meeting of each Congress the Clerk of the next preceding House 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 31 derived from acts Feb. 21, 1867, ch. 56, § 1, 14 Stat. 397 and Mar. 3, 1863, ch. 108, 12 Stat. 804. R.S. §§ 32 and 33 derived from act Feb. 21, 1867, ch. 56, § 2, 14 Stat. 397. R.S. § 31 constitutes first sentence; R.S. § 32 constitutes second sentence; and R.S. § 33 constituted the third sentence, prior to repeal by Pub. L. 104–186. See 1996 Amendment note below.

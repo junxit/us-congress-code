@@ -17,15 +17,19 @@ section: 37
 
 ## Source credit
 
-(Added Pub. L. 103–322, title VI, § 60021(a), Sept. 13, 1994, 108 Stat. 1979; amended Pub. L. 104–132, title VII, §§ 721(g), 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300; Pub. L. 104–294, title VI, §§ 601(q), 607(o), Oct. 11, 1996, 110 Stat. 3502, 3512.)
+(Added Pub. L. 103–322, title VI, § 60021(a), Sept. 13, 1994, 108 Stat. 1979; amended Pub. L. 104–132, title VII, §§ 721(g), 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300; Pub. L. 104–294, title VI, §§ 601(q), 607(o), Oct. 11, 1996, 110 Stat. 3502, 3512.)§
 
 ## Notes
 
 1 So in original. Probably should be section “13(c)”.
 
+### Editorial Notes
+
 ### Amendments
 
 1996—Subsec. (a). Pub. L. 104–132, § 723(a)(1), inserted “or conspires” after “attempts” in concluding provisions. Subsec. (b)(2). Pub. L. 104–132, § 721(g), inserted subpar. (A) designation and added subpar. (B). Subsec. (c). Pub. L. 104–294 inserted heading and inserted “, and the term ‘State’ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States” before period at end.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

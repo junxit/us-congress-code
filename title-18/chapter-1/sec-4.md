@@ -19,6 +19,8 @@ Whoever, having knowledge of the actual commission of a felony cognizable by a c
 
 Based on title 18, U.S.C. 1940 ed., § 251 (Mar. 4, 1909, ch. 321, § 146, 35 Stat. 1114). Changes in phraseology only.
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
