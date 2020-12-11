@@ -17,6 +17,8 @@ The Secretary of the Interior is directed to retain in his custody until otherwi
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 233 of this title, referred to in text, was repealed by act June 22, 1948, ch. 605, § 3, 62 Stat. 576.

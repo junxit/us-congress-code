@@ -19,9 +19,13 @@ section: 229a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1976—Subsec. (a). Pub. L. 94–579 struck out proviso relating to reservation of land as a water hole under section 300 of title 43.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1976 Amendment
 

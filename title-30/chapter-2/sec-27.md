@@ -15,6 +15,8 @@ Where a tunnel is run for the development of a vein or lode, or for the discover
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 2323 derived from act May 10, 1872, ch. 152, § 4, 17 Stat. 92.

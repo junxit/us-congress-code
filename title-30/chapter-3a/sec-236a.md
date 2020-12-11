@@ -17,6 +17,8 @@ Nothing in sections 185, 221,11 See References in Text note below. 223, 223a,1 a
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 221 of this title, referred to in text, was omitted from the Code. Section 223a of this title, referred to in text, was repealed by act Aug. 8, 1946, ch. 916, § 14, 60 Stat. 958.

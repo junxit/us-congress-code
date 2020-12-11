@@ -15,6 +15,8 @@ The Director of the Bureau of Land Management may appoint in each land district 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and section 661 of title 43, referred to in text, were in the original “this chapter”, meaning chapter 6 of title 32 of the Revised Statutes, consisting of R.S. §§ 2318 to 2352.
@@ -26,6 +28,8 @@ R.S. § 2334 derived from act May 10, 1872, ch. 152, § 12, 17 Stat. 95.
 ### Amendments
 
 1925—Act Mar. 3, 1925, affected words in first sentence of text, now reading “The United States supervisor of surveys,” and words in third sentence of text, now reading “money paid the register of the Land Office.” Such words formerly read “the surveyor-general of the United States,” and “and money paid the register and the receiver of the land-office.” Such act is treated more fully in note under section 29 of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

@@ -15,9 +15,13 @@ For tests or investigations authorized by the Secretary of the Interior under th
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1932—Act June 30, 1932, substituted “Secretary of Commerce” for “Secretary of the Interior” and changed a reasonable fee to be charged to a fee sufficient to compensate for entire cost of services rendered.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

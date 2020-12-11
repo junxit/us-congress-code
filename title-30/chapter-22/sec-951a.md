@@ -19,9 +19,13 @@ section: 951a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

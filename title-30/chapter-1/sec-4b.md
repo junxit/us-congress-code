@@ -15,6 +15,8 @@ The Secretary of the Interior and the Secretary of Commerce jointly are hereby a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1927—Act Mar. 3, 1927, amended provisions generally.

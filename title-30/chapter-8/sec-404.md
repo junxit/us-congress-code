@@ -15,6 +15,8 @@ The Secretary of the Interior, acting through the United States Bureau of Mines,
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Transfer of Functions
 
 For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of this title.

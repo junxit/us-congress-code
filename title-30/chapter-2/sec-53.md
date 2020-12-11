@@ -15,6 +15,8 @@ No possessory action between persons, in any court of the United States, for the
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 910 derived from act Feb. 27, 1865, ch. 64, § 9, 13 Stat. 441. Section was formerly classified to section 690 of Title 28 prior to the general revision and enactment of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, § 1, 62 Stat. 869.

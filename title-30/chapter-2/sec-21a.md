@@ -15,9 +15,13 @@ The Congress declares that it is the continuing policy of the Federal Government
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1995—Pub. L. 104–66 in last par. struck out at end “For this purpose the Secretary of the Interior shall include in his annual report to the Congress a report on the state of the domestic mining, minerals, and mineral reclamation industries, including a statement of the trend in utilization and depletion of these resources, together with such recommendations for legislative programs as may be necessary to implement the policy of this section.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

@@ -15,6 +15,8 @@ Notwithstanding the provisions of any Act of Congress to the contrary, any perso
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Similar Provisions
 
 Provisions similar to this section were contained in act June 17, 1949, ch. 221, § 2, 63 Stat. 201.

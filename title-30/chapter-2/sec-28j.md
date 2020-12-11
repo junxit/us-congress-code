@@ -20,9 +20,13 @@ section: 28j
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of section 10105 of Pub. L. 103–66. Subsec. (b) of section 10105 of Pub. L. 103–66 amended section 28 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Similar Provisions
 

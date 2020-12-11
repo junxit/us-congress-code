@@ -15,9 +15,13 @@ Claims usually called “placers,” including all forms of deposit, excepting v
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 2329 derived from act July 9, 1870, ch. 235, § 12, 16 Stat. 217. R.S. § 2331 derived from act May 10, 1872, ch. 152, § 10, 17 Stat. 94.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Submerged Lands Act
 

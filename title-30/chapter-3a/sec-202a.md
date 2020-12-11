@@ -26,6 +26,8 @@ section: 202a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The date of enactment of this Act, referred to in par. (5), probably means the date of enactment of Pub. L. 94–377, which was approved Aug. 4, 1976. This section, referred to in pars. (5) and (8), is section 2 of act Feb. 25, 1920, as amended, which is comprised of subsecs. (a) to (d). Subsecs. (a) and (b) of section 2 are classified to section 201 of this title, subsec. (c) of section 2 is classified to section 202 of this title, and subsec. (d) of section 2, as added by section 5(b) of Pub. L. 94–377, is classified to this section.
@@ -37,6 +39,8 @@ Section is comprised of subsec. (d) of section 2 of act Feb. 25, 1920, as added 
 ### Amendments
 
 2005—Par. (2). Pub. L. 109–58 designated existing provisions as subpar. (A) and added subpar. (B).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2005 Amendment
 

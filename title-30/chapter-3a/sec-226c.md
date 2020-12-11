@@ -15,9 +15,13 @@ From and after August 8, 1946, the royalty obligation to the United States under
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Savings Provision
 

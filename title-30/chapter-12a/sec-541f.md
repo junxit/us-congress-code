@@ -17,6 +17,8 @@ All moneys received under the provisions of this chapter shall be paid into the 
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 437, 438, and 439 of title 48, referred to in text, were repealed by Pub. L. 86–252, § 1, Sept. 9, 1959, 73 Stat. 490.

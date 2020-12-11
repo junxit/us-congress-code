@@ -15,9 +15,13 @@ The recorders for the several divisions or districts of Alaska shall collect the
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 385 of Title 48, Territories and Insular Possessions.
+
+### Executive Documents
 
 ### Admission of Alaska as State
 

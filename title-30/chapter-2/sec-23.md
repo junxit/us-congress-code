@@ -15,6 +15,8 @@ Mining claims upon veins or lodes of quartz or other rock in place bearing gold,
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 2320 derived from act May 10, 1872, ch. 152, § 2, 17 Stat. 91.

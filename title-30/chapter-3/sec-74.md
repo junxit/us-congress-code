@@ -15,9 +15,13 @@ Sections 71 to 73 of this title shall be held to authorize only one entry by the
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 2350 derived from act Mar. 3, 1873, ch. 279, § 4, 17 Stat. 607.
+
+### Executive Documents
 
 ### Indian Lands Excepted
 

@@ -15,6 +15,8 @@ The United States shall, at all times, have the preference right to purchase so 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in text, is act May 28, 1908, ch. 211, 35 Stat. 424. Sections 1, 3, and 4 of this Act related to consolidation of claims permitted and the limit of acreage, prohibition against unlawful trusts, etc., and contents of patents, respectively, and are not classified to the Code.
@@ -26,6 +28,8 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 ### Amendments
 
 1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”. 1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1992 Amendment
 

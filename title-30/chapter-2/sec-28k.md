@@ -15,6 +15,8 @@ The Secretary of the Interior shall promulgate rules and regulations to carry ou
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Similar Provisions
 
 Similar provisions were contained in Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1378, 1379.

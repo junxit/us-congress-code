@@ -17,6 +17,8 @@ section: 191a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Congaree Swamp National Monument Expansion and Wilderness Act, and not as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which com­prises this chapter.

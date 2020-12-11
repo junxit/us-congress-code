@@ -15,6 +15,8 @@ The Secretary of the Interior is authorized to accept lands, buildings, or other
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Transfer of Functions
 
 See note set out under section 1 of this title.

@@ -15,9 +15,13 @@ During each year and until patent has been issued therefor, at least $100 worth 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 “Sections 1621 and 1622 of title 18” substituted in text for “sections fifty-three hundred and ninety-two and fifty-three hundred ninety-three of the Revised Statutes”, which had been classified to section 231 and 232 of former Title 18, Criminal Code and Criminal Procedure, on authority of act June 25, 1948, ch. 645, 62 Stat. 683, the first section of which enacted Title 18, Crimes and Criminal Procedure. Section was formerly classified to section 384 of Title 48, Territories and Insular Possessions.
+
+### Executive Documents
 
 ### Admission of Alaska as State
 

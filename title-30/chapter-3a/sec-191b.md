@@ -15,9 +15,13 @@ Beginning in fiscal year 1996 and thereafter, the Secretary shall take appropria
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Similar Provisions
 

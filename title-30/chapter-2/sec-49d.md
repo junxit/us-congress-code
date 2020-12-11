@@ -15,6 +15,8 @@ Miners in any organized mining district may make rules and regulations governing
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in text, means act June 6, 1900, ch. 786, 31 Stat. 321, as amended. For complete classification of title I of this act to the Code, see Tables. Title III of this act provided for the Alaska Civil Code.

@@ -15,9 +15,13 @@ Legal subdivisions of forty acres may be subdivided into ten-acre tracts; and tw
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 2330 derived from act July 9, 1870, ch. 235, § 12, 16 Stat. 217.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Submerged Lands Act
 

@@ -15,6 +15,8 @@ The holders of coal leases issued under the provision of the mineral leasing law
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Atomic Energy Act of 1954, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
