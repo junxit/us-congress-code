@@ -15,9 +15,13 @@ All moneys received during any fiscal year on account of such fees in excess of 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 471h of Title 48, Territories and Insular Possessions.
+
+### Executive Documents
 
 ### Admission of Alaska as State
 

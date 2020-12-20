@@ -15,9 +15,13 @@ The Secretary of the Interior is authorized to issue or cause to be issued permi
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1976—Pub. L. 94–579 substituted provisions authorizing fees to be fixed in accordance with governing law, for provisions authorizing fees to take into account public benefits to users of grazing districts over and above benefits accruing to users of forage resources and provisions requiring fees to consist of a grazing fee and a range-improvement fee. 1947—Act Aug. 6, 1947, provided for method to be used by Secretary of the Interior in fixing amount of grazing fees and by assessing a separate grazing fee and a range-improvement fee.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Savings Provision
 

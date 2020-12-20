@@ -15,9 +15,13 @@ The dam and reservoir provided for by section 617 of this title shall be used: F
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Power Act, referred to in text, which was in the original the “Federal Water Power Act”, is defined in section 617k of this title. For further details, see note set out under section 617k of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Functions
 

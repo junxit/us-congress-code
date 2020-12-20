@@ -15,6 +15,8 @@ The purpose of this subchapter is to encourage State and local participation in 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal reclamation laws, referred to in text, are defined in section 422b of this title.
@@ -22,6 +24,8 @@ The Federal reclamation laws, referred to in text, are defined in section 422b o
 ### Amendments
 
 1986—Pub. L. 99–546 inserted “, with emphasis on rehabilitation and betterment of existing projects for purposes of significant conservation of water, energy and the environment and for purpose of water quality control,” after “laws”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1986 Amendment
 

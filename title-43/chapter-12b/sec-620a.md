@@ -15,6 +15,8 @@ In carrying out further investigations of proj­ects under the Federal reclamati
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal reclamation laws, referred to in text, are identified in section 620c of this title.
@@ -26,6 +28,8 @@ The provisions of subsec. (a) of section 501 of Pub. L. 90–537 which amended t
 ### Amendments
 
 1968—Pub. L. 90–537 substituted Basalt, Middle Park (including Troublesome, Rabbit Ear, and Azure units), Upper Gunnison (including the East River, Ohio Creek, and Tomichi Creek units), Lower Yampa (including Juniper and Great Northern units), and Upper Yampa (including Hayden Mesa, Wessels, and Toponas units) projects for Parshall, Troublesome, Rabbit Ear, San Miguel, West Divide, Tomichi Creek, East River, Ohio Creek, Dallas Creek, Dolores, Fruit Growers Extension, and Animas-La Plata projects, added Ute Indian unit of the Central Utah Project, San Juan County (Utah), Price River, Grand County (Utah), Gray Canyon, and Juniper (Utah) projects, and that portion of the Sublette projects consisting of a diversion of water from the Green River to the North Platte River Basin in Wyoming to the list of participating projects, and inserted proviso that planning report for Ute Indian unit of Central Utah project be completed on or before December 31, 1974. 1964—Pub. L. 88–568 struck out “, Fruitland Mesa, Bostwick Park” and “, Savery-Pot Hook” after “Ohio Creek” and “Dallas Creek”, respectively. 1962—Pub. L. 87–483 struck out “San Juan-Chama, Navajo” after “Gooseberry,” in first sentence.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Storage of Water at Abiquiu Dam in New Mexico
 

@@ -25,6 +25,8 @@ All receipts from the project shall be paid into the Colorado River Dam Fund and
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Project Act, referred to in text, is defined in section 618k of this title. The Colorado River Basin Project Act, referred to in subd. (e), is Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, which is classified principally to chapter 32 (§ 1501 et seq.) of this title. Title IV of the Act is classified to subchapter IV (§ 1541 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
@@ -32,6 +34,8 @@ The Project Act, referred to in text, is defined in section 618k of this title. 
 ### Amendments
 
 1984—Pub. L. 98–381, § 104(a)(4)(i), amended introductory provisions generally, inserting “, without further appropriation,” after “available”. Subd. (a). Pub. L. 98–381, § 104(a)(4)(i), substituted “Defraying the costs of operation (including purchase of supplemental energy to meet temporary deficiencies in firm energy which the Secretary of Energy is obligated by contract to supply), maintenance and replacements of, and emergency expenditures for, all facilities of the project, within such separate limitations as may be included in annual appropriations Acts;” for “Annual appropriation for the operation, maintenance, and replacements of the project, including emergency replacements necessary to insure continuous operations;”. Subd. (e). Pub. L. 98–381, § 104(a)(4)(ii), substituted provisions relating to the transfer of funds to the Lower Colorado River Basin Development Fund for provisions which had made available receipts from the project paid into the Colorado River Dam Fund, for annual appropriation for fiscal years 1948 to 1951 for payment to Boulder City School District as reimbursement for pupil instructions not exceeding $65 per semester per pupil. 1948—Subd. (d). Act June 1, 1948, inserted proviso to fourth sentence to provide for distribution of receipts for fiscal years 1949 to 1955, inclusive. Subd. (e). Act May 14, 1948, added subd. (e).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

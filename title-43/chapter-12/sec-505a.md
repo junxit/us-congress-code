@@ -25,6 +25,8 @@ In sections 505a to 505a–2 of this title:
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 505a to 505a–2 of this title, referred to in text, was in the original “this part”, which was translated as reading “this subtitle”, meaning subtitle G of title VIII of Pub. L. 116–9, which is classified generally to sections 505a to 505a–2 of this title, to reflect the probable intent of Congress. Subtitle G of title VIII of Pub. L. 116–9 does not contain parts.

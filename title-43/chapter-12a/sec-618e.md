@@ -15,6 +15,8 @@ Whenever by the terms of the Project Act [43 U.S.C. 617 et seq.] or this subchap
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Project Act, referred to in text, is defined in section 618k of this title.

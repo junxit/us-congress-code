@@ -15,6 +15,8 @@ The Secretary of the Interior (hereinafter referred to as the “Secretary”), 
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Short Title
 
 Pub. L. 98–434, § 1, Sept. 28, 1984, 98 Stat. 1675, provided: “That this Act [enacting sections 390g to 390g–8 of this title] may be cited as the ‘High Plains States Groundwater Demonstration Program Act of 1983’.”

@@ -15,6 +15,8 @@ Nothing in this subchapter shall be construed as interfering with such rights as
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Project Act, referred to in text, is defined in section 618k of this title.

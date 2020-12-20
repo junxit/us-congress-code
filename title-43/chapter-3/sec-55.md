@@ -15,9 +15,13 @@ Under the authority and direction of the Secretary of the Interior or such offic
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 The word “such” before “field notes” was omitted and the words “mentioned in section 53 of this title” were inserted after “papers,”. R.S. § 2220 derived from act Jan. 22, 1853, ch. 24, § 2, 10 Stat. 152.
+
+### Executive Documents
 
 ### Transfer of Functions
 

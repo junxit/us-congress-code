@@ -47,9 +47,11 @@ section: 31k
 
 ## Source credit
 
-(Pub. L. 116–9, title V, § 5001, Mar. 12, 2019, 133 Stat. 766.
+(Pub. L. 116–9, title V, § 5001, Mar. 12, 2019, 133 Stat. 766.)
 
 ## Notes
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definition of “Secretary”
 

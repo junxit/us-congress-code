@@ -15,6 +15,8 @@ All official books, papers, instruments of writing, documents, archives, officia
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 2229 derived from act May 18, 1858, ch. 39, § 1, 11 Stat. 289.
@@ -22,6 +24,8 @@ R.S. § 2229 derived from act May 18, 1858, ch. 39, § 1, 11 Stat. 289.
 ### Amendments
 
 1951—Act Oct. 25, 1951, inserted “until disposed of as provided by law”.
+
+### Statutory Notes and Executive Documents
 
 ### Transfer of Functions
 

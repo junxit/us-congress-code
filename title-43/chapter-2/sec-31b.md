@@ -26,6 +26,8 @@ In sections 31a to 31h of this title:
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 31a to 31h of this title, referred to in text, was in the original “this Act”, meaning Pub. L. 102–285, known as the National Geologic Mapping Act of 1992, which is classified principally to sections 31a to 31h of this title. For complete classification of this Act to the Code, see Short Title note set out under section 31a of this title and Tables.

@@ -15,9 +15,13 @@ The officers, clerks, and employees in the Bureau of Land Management are prohibi
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 452 derived from acts Apr. 25, 1812, ch. 68, § 10, 2 Stat. 717; July 4, 1836, ch. 352, § 14, 5 Stat. 112.
+
+### Executive Documents
 
 ### Transfer of Functions
 

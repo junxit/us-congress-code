@@ -15,9 +15,13 @@ Transcripts of the records in the district land offices, when made and duly cert
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 The words “and receivers” which followed “registers” in the original text were omitted as superseded by acts Oct. 28, 1921, and Mar. 3, 1925, providing for consolidation of the two offices. See, also, Transfer of Functions note below.
+
+### Executive Documents
 
 ### Transfer of Functions
 

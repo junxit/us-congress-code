@@ -15,6 +15,8 @@ Any contracting entity subject to the ownership or pricing limitations of Federa
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Federal reclamation law, referred to in text, is defined in section 390aa of this title.

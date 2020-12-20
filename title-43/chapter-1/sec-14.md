@@ -15,9 +15,13 @@ All returns relative to the public lands shall be made to the Secretary of the I
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 456 derived from act Apr. 25, 1812, ch. 68, § 9, 2 Stat. 717.
+
+### Executive Documents
 
 ### Transfer of Functions
 

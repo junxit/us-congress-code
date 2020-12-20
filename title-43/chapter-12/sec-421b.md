@@ -15,6 +15,8 @@ To assist financially in the construction of the aforesaid local distribution an
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Act of June 3, 1960, referred to in text, is Pub. L. 86–488, June 3, 1960, 74 Stat. 156, which is not classified to the Code.
@@ -22,6 +24,8 @@ Act of June 3, 1960, referred to in text, is Pub. L. 86–488, June 3, 1960, 74 
 ### Amendments
 
 1972—Pub. L. 92–487 substituted provisions relating to financial assistance in the construction of local distribution and drainage systems, for provisions relating to financial assistance in the construction of local irrigation distribution systems, and inserted provisions relating to loans for a distribution and drainage system receiving water from the San Luis unit, Central Valley project, and provisions setting forth a specified time period for repayment of loans.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Sale of Bureau of Reclamation Loans
 

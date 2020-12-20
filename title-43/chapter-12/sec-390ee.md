@@ -24,6 +24,8 @@ section: 390ee
 
 1 So in original. The comma probably should be a semicolon.
 
+### Editorial Notes
+
 ### References in Text
 
 Federal reclamation law, referred to in subsec. (b), is defined in section 390aa of this title.

@@ -15,6 +15,8 @@ For the purposes of sections 971a to 971e of this title, the words “restored l
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 420d of Title 48, Territories and Insular Possessions.

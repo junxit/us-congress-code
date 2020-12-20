@@ -21,6 +21,8 @@ Appropriations for the Bureau of Reclamation in this Act or in subsequent Energy
 
 3 So in original. Probably should be “Services”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Interior Department Appropriations Act 1945, referred to in text, is act June 28, 1944, ch. 298, 58 Stat. 463, which is not classified to the Code. The heading “Operation and maintenance administration” appears at 58 Stat. 487 following the heading “Bureau of Reclamation” which appears at 58 Stat. 486. Act of April 19, 1945 (43 U.S.C. 377), referred to in text, is act April 19, 1945, ch. 80, 59 Stat. 54, which amended section 377 of this title. For complete classification of this Act to the Code, see Tables. The date of this Act, referred to in text, probably means the date of enactment of Pub. L. 102–377, which enacted this section, and which was approved Oct. 2, 1992. The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377. Title IX of the Act, which was classified generally to subchapter VI (§ 541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§ 1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
@@ -32,6 +34,8 @@ Section is comprised of the second, third, fourth, and sixth undesignated pars. 
 ### Amendments
 
 2014—Pub. L. 113–287, which directed that the second paragraph under the heading “administrative provisions” under the heading “Bureau of Reclamation” (43 U.S.C. 377b), be amended by substituting “chapters 3125 and 3201 of title 54” for “the Acts of August 21, 1935 (16 U.S.C. 461–467) and June 27 1960 (16 U.S.C. 469)” without specifying a public law, was executed by making the substitution for “the Acts of August 21, 1935 (16 U.S.C. 461–467) and June 27, 1960 (16 U.S.C. 469)” in the first paragraph of this section, which is the second undesignated par. under the headings “Bureau of Reclamation” and “administrative provisions” in title II of Pub. L. 102–377, Oct. 2, 1992, 106 Stat. 1330, to reflect the probable intent of Congress. See Codification note above. 2003—Pub. L. 108–137 inserted in first par. “, not to exceed $5,000,000 for each causal event giving rise to a claim or claims” after “activities of the Bureau of Reclamation”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Operations and Maintenance Costs of Certain Bureau of Reclamation Dikes
 

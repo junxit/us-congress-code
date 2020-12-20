@@ -15,6 +15,8 @@ There is hereby established in the Treasury of the United States a working capit
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Provisions relating to the special fund authorized by Public Law 99–190, referred to in text, were formerly classified to this section. See Prior Provisions note below.
@@ -26,6 +28,8 @@ A prior section 50a, Pub. L. 99–190, § 101(d) [title I], Dec. 19, 1985, 99 St
 ### Amendments
 
 1994—Pub. L. 103–332 in first par., in second sentence after “work,” inserted “facilities,”, in third sentence after “include” inserted “laboratory modernization and equipment replacement,”, after “operations” inserted “, maintenance,”, and after “replacement of computer,” inserted “publications, scientific instrumentation,” and in second par., in second proviso after “depreciation of equipment” inserted “and facilities,”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

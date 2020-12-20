@@ -15,6 +15,8 @@ This subchapter shall be effective immediately for the purpose of the promulgati
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 “Hoover Power Plant” substituted in text for “Boulder Power Plant” on authority of act Apr. 30, 1947, which changed name of Boulder Dam to Hoover Dam.

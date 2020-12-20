@@ -20,6 +20,8 @@ As used in this subchapter—
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 471a of Title 48, Territories and Insular Possessions.

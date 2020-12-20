@@ -15,6 +15,8 @@ In administering the provisions of section 315q of this title, payments of renta
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as a part of act June 28, 1934, known as the Taylor Grazing Act, which comprises this subchapter.

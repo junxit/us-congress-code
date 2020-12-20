@@ -19,6 +19,8 @@ section: 485f
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 485c of this title, referred to in subsec. (a), was repealed by Pub. L. 85–611, § 3, Aug. 8, 1958, 72 Stat. 543.

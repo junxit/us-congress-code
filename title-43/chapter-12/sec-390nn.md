@@ -18,6 +18,8 @@ section: 390nn
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Federal reclamation law, referred to in subsec. (a), is defined in section 390aa of this title.

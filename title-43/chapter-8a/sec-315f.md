@@ -17,6 +17,8 @@ The Secretary of the Interior is authorized, in his discretion, to examine and c
 
 1 So in original. Probably should be “scrip”.
 
+### Editorial Notes
+
 ### References in Text
 
 Act of February 25, 1920, as amended, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.

@@ -16,6 +16,8 @@ section: 316m
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 471m of Title 48, Territories and Insular Possessions.
@@ -23,6 +25,8 @@ Section was formerly classified to section 471m of Title 48, Territories and Ins
 ### Amendments
 
 1968—Pub. L. 90–403 designated existing provisions as subsec. (a) and added subsec. (b).
+
+### Executive Documents
 
 ### Transfer of Functions
 

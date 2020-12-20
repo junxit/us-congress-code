@@ -15,6 +15,8 @@ Before, on, and after October 18, 1986, in carrying out work involving cooperati
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This appropriation, referred to in text, probably means appropriations under the headings “Geological Survey” and “surveys, investigations, and research” of the annual Department of the Interior and Related Agencies Appropriations Act.
@@ -22,6 +24,8 @@ This appropriation, referred to in text, probably means appropriations under the
 ### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500. In text, “Before, on, and after October 18, 1986” substituted for “heretofore and hereafter”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

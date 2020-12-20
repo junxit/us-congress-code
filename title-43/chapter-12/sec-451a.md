@@ -17,6 +17,8 @@ The benefits of section 451 of this title shall, and those of sections 451b to 4
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 161 of this title, referred to in text, was repealed by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787. The Federal reclamation laws, referred to in par. (b)(ii), are identified in section 451i of this title.

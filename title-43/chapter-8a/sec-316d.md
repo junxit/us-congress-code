@@ -15,6 +15,8 @@ Before establishing or altering a district the Secretary shall publish once a we
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 471d of Title 48, Territories and Insular Possessions.

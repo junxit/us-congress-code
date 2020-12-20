@@ -15,6 +15,8 @@ This subchapter as heretofore and hereafter amended, shall apply to the State of
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as a part of the Hawaii Omnibus Act, and not as a part of the Small Reclamation Projects Act of 1956 which comprises this subchapter.

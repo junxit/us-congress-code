@@ -15,6 +15,8 @@ Nothing in sections 971a to 971e of this title shall affect adversely any valid 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 420c of Title 48, Territories and Insular Possessions.

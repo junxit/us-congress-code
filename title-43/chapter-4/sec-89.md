@@ -15,9 +15,13 @@ The Secretary of the Interior or such officer as he may designate shall make to 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 The office of receiver consolidated with that of register by act Mar. 3, 1925, under a register only, the office of receiver being abolished. See, also, Transfer of Functions note below. R.S. § 2245 derived from act July 4, 1836, ch. 352, § 9, 5 Stat. 111.
+
+### Executive Documents
 
 ### Transfer of Functions
 

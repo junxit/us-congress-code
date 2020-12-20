@@ -15,6 +15,8 @@ Neither the ownership limitations of this subchapter nor the ownership limitatio
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Federal reclamation law, referred to in text, is defined in section 390aa of this title.

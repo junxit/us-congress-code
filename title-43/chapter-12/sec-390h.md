@@ -47,6 +47,8 @@ section: 390h
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Reclamation Act of 1902 (Act of June 17, 1902, 32 Stat. 388), referred to in subsec. (a), is act June 17, 1902, ch. 1093, 32 Stat. 388, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables. Hereafter, referred to in subsec. (a), means hereafter in title XVI of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4663, which enacted sections 390h to 390h–39 of this title. The enactment of this Act, referred to in subsec. (e)(1)(C), probably means the date of enactment of Pub. L. 114–322, which added subsec. (e) and was approved Dec. 16, 2016.
@@ -54,6 +56,8 @@ The Reclamation Act of 1902 (Act of June 17, 1902, 32 Stat. 388), referred to in
 ### Amendments
 
 2016—Subsecs. (e) to (g). Pub. L. 114–322 added subsecs. (e) to (g). 2000—Subsec. (b). Pub. L. 106–566 inserted “, and the State of Hawaii” before period at end.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 2005 Amendment
 

@@ -15,6 +15,8 @@ Lessees of irrigable lands owned by States, political subdivisions, and agencies
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal reclamation law, referred to in text, probably means act June 17, 1902, ch. 1093, 32 Stat. 388, and Acts amendatory thereof and supplementary thereto. See section 425 of this title. Act June 17, 1902, popularly known as the Reclamation Act, is classified generally to this chapter. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under section 371 of this title and Tables.

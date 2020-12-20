@@ -15,6 +15,8 @@ No funds appropriated to the Bureau of Reclamation for operation and maintenance
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is from the appropriation act cited as the credit to this section.

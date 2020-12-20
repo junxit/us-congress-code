@@ -15,6 +15,8 @@ Any exchange pursuant to this subchapter of land that is subject to a mortgage c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522, as amended, which is classified generally to chapter 33 (§ 1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1000 of Title 7 and Tables.

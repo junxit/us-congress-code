@@ -15,6 +15,8 @@ The adjustments under sections 1 to 40, inclusive, of the Act of Congress of May
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 1 to 40 of the Act of May 25, 1926, referred to in text, are not classified to the Code. The reclamation law, referred to in text, probably means act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.

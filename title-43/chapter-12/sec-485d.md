@@ -15,6 +15,8 @@ The Secretary in this discretion may require, in connection with any contract en
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Extension of Secretary’s Authority To Enter Into Amendatory Contracts
 
 Secretary’s authority extended through Dec. 31, 1960, see section 485b–1 of this title.

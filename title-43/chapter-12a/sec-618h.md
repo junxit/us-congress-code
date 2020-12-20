@@ -15,9 +15,13 @@ The Secretary is authorized to negotiate for and enter into a contract for the t
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Project Act, referred to in text, is defined in section 618k of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

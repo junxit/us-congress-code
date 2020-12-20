@@ -15,9 +15,13 @@ There is established a Board on Geographic Names, hereinafter called the Board. 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1949—Act Aug. 10, 1949, established Department of Defense as an Executive Department and reduced Departments of the Army, Navy, and Air Force to status of military departments in Department of Defense.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

@@ -15,9 +15,13 @@ At the time of making such deposit the officer designated by the Secretary of th
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 This section, as originally enacted, related to receivers of public moneys for land districts. The office of receiver was consolidated with that of register by acts Mar. 3, 1925, and Oct. 28, 1921, under which the office of receiver was abolished. See, also, Transfer of Functions note below.
+
+### Executive Documents
 
 ### Transfer of Functions
 

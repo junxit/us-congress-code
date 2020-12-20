@@ -15,6 +15,8 @@ The United States Geological Survey may on and after November 29, 1999, contract
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 In text, “section 6101 of title 41” substituted for “41 U.S.C. 5” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.

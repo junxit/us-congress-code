@@ -15,9 +15,13 @@ Subject to the authority conferred upon the Secretary of the Interior by this se
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 365 of Title 48, Territories and Insular Possessions.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Land Districts and Land Offices Continued
 

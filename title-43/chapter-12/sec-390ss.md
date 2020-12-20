@@ -19,6 +19,8 @@ An individual religious or charitable entity or organization (including but not 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.

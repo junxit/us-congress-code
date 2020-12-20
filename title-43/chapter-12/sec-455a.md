@@ -15,6 +15,8 @@ The lands of any desert-land entryman located within an irrigation project const
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Reclamation Act, referred to in text, is identified in section 455 of this title.

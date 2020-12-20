@@ -15,6 +15,8 @@ The Secretary may sell such restored lands for not less than their appraised val
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 420a of Title 48, Territories and Insular Possessions.

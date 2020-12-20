@@ -15,9 +15,13 @@ The officer designated by the Secretary of the Interior is authorized, and it sh
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 The words “or receiver” which followed “register” in the original text were omitted, in view of act Mar. 3, 1925 (classified to section 71 of this title), providing for the consolidation of the offices of register and receiver. See, also, Transfer of Functions note below. R.S. § 2246 derived from act June 12, 1840, ch. 35, 5 Stat. 384.
+
+### Executive Documents
 
 ### Transfer of Functions
 

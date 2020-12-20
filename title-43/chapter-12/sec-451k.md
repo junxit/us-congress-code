@@ -15,6 +15,8 @@ Appropriations heretofore or hereafter made for carrying on the functions of the
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal reclamation laws, referred to in text, are identified in section 451i of this title.

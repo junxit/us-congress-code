@@ -15,9 +15,13 @@ It shall be the duty of such officers or employees of the Bureau of Land Managem
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 459 derived from acts Apr. 25, 1812, ch. 68, § 8, 2 Stat. 717; July 4, 1836, ch. 352, § 4, 5 Stat. 111.
+
+### Executive Documents
 
 ### Transfer of Functions
 

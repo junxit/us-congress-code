@@ -19,6 +19,8 @@ After any district is established the area embraced therein may be altered in an
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 471c of Title 48, Territories and Insular Possessions.

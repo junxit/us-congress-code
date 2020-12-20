@@ -15,6 +15,8 @@ This subchapter shall be a supplement to the Federal reclamation laws and may be
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal reclamation laws, referred to in text, are defined in section 422b of this title.

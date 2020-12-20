@@ -16,6 +16,8 @@ section: 617c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The reclamation law, referred to in text, is defined in section 617k of this title.

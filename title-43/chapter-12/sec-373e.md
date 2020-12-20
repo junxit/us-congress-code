@@ -31,6 +31,8 @@ section: 373e
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in subsec. (c)(5), means Pub. L. 110–229, May 8, 2008, 122 Stat. 754, known as the Consolidated Natural Resources Act of 2008. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 1 of Title 16, Conservation, and Tables.

@@ -15,9 +15,13 @@ In fiscal year 1987 and thereafter the United States Geological Survey is author
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

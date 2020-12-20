@@ -15,9 +15,13 @@ The scientific employees of the United States Geological Survey shall be selecte
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 “United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

@@ -15,6 +15,8 @@ Within ninety days after receipt of notice of the approval by the Secretary of t
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal reclamation laws, referred to in text, are identified in section 451i of this title.

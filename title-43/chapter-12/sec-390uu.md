@@ -15,6 +15,8 @@ Consent is given to join the United States as a necessary party defendant in any
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Federal reclamation law, referred to in text, is defined in section 390aa of this title.

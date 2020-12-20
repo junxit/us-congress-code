@@ -15,6 +15,8 @@ This subchapter shall be deemed a supplement to the reclamation law, which said 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The reclamation law, referred to in text, is defined in section 617k of this title.

@@ -15,6 +15,8 @@ Any contractor for energy from the project failing or refusing to execute a cont
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Project Act, referred to in text, is defined in section 618k of this title.

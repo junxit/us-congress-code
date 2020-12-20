@@ -18,6 +18,8 @@ section: 316n
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 This subchapter, referred to in subsec. (a), was in the original “this title” and has been translated as if the reference was to “this Act” to reflect the probable intent of Congress inasmuch as the act of Mar. 4, 1927, was not divided into titles.
@@ -30,9 +32,13 @@ In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” sub
 
 1949—Subsec. (a). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Repeals
 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, § 8, Sept. 6, 1966, 80 Stat. 632, 655.
+
+### Executive Documents
 
 ### Transfer of Functions
 

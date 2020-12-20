@@ -15,6 +15,8 @@ Lands found to be practicable of irrigation and reclamation by irrigation works 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Act of March 6, 1946 (43 U.S.C. 617(h)), referred to in text, probably means act Mar. 6, 1946, ch. 58, 60 Stat. 36, which amended this section and which authorized all lands of the United States found by the Secretary of the Interior to be practicable of irrigation and reclamation by the irrigation works authorized by the act of Dec. 21, 1928, ch. 42, 45 Stat. 1057, to be withdrawn from public entry. The reclamation law, referred to in text, is defined in section 617k of this title.
@@ -22,6 +24,8 @@ Act of March 6, 1946 (43 U.S.C. 617(h)), referred to in text, probably means act
 ### Amendments
 
 1976—Pub. L. 94–579 substituted “Lands found to be practicable of irrigation and reclamation by irrigation works and withdrawn under the Act of March 6, 1946 (43 U.S.C. 617(h))” for “Thereafter, at the direction of the Secretary of the Interior, such lands”, and struck out provisions authorizing withdrawal from public entry of all public lands found by Secretary of the Interior to be practicable of irrigation and reclamation by irrigation works authorized under the act of Dec. 21, 1928, ch. 42, 45 Stat. 1057. 1946—Act Mar. 6, 1946, struck out “or” before “Marine Corps” and inserted “or Coast Guard during World War II” after “Marine Corps,” and second proviso.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

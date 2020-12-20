@@ -24,6 +24,8 @@ section: 485g
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal reclamation laws, referred to in subsec. (c), are defined in section 485a of this title. Section 485c of this title, referred to in subsec. (g), was repealed by Pub. L. 85–611, § 3, Aug. 8, 1958, 72 Stat. 543.

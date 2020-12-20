@@ -32,6 +32,8 @@ As used in this subchapter:
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Federal reclamation law, referred to in pars. (1), (3)(A), (8), and (10), is defined in section 390aa of this title.

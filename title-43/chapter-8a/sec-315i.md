@@ -17,6 +17,8 @@ Except as provided in sections 315h and 315j of this title, all moneys received 
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 315m of this title, referred to in text, was in the original “said section”, referring back to section 315m cited in a preceding provision which was deleted by Pub. L. 94–579 without correction to phrase “said section”.
@@ -24,6 +26,8 @@ Section 315m of this title, referred to in text, was in the original “said sec
 ### Amendments
 
 1976—Pub. L. 94–579 in cl. (b) struck out authorization of availability of 25 per centum of all moneys collected under section 315m of this title during any fiscal year for construction, etc., of range improvements. 1947—Act Aug. 6, 1947, reduced States’ share of grazing fees collected under section 315b of this title from 50 to 12½ per centum and provided for distribution of grazing fees collected under section 315m of this title with 25 per centum available for range improvements and 50 per centum paid to the State. 1936—Act June 26, 1936, substituted “under this subchapter during any fiscal year” for “from each grazing district during any fiscal year”, wherever appearing, “in which the grazing districts or lands producing such moneys are situated” for “in which said grazing district is situated” wherever appearing, and inserted in proviso “or leased tract” after “grazing district” wherever appearing.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Savings Provision
 

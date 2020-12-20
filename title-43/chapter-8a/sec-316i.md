@@ -15,6 +15,8 @@ The lessee may, with the approval of the Secretary, assign in whole or in part a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 471i of Title 48, Territories and Insular Possessions.

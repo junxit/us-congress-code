@@ -15,9 +15,13 @@ The Secretary of the Treasury is authorized and directed to pay, out of any unex
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 This section, as originally enacted, referred to receivers of public moneys. The office of receiver was consolidated with that of register by acts Mar. 3, 1925, and Oct. 28, 1921, under which the office of receiver was abolished. See, also, Transfer of Functions note below.
+
+### Executive Documents
 
 ### Transfer of Functions
 

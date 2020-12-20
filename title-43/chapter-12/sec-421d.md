@@ -15,6 +15,8 @@ Except as otherwise provided in sections 421a to 421h of this title, the provisi
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1972—Pub. L. 92–487 reenacted section without change.

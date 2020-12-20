@@ -15,6 +15,8 @@ In considering applications to lease grazing privileges the Secretary shall, as 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 471e of Title 48, Territories and Insular Possessions.

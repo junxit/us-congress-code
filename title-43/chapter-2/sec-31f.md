@@ -23,6 +23,8 @@ section: 31f
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Executive Order 12906, referred to in subsec. (b)(1), is set out as a note under section 1457 of this title.

@@ -17,9 +17,13 @@ section: 600c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Public Law 491, Eighty-first Congress, referred to in subsec. (b), is act Apr. 29, 1950, ch. 135, 64 Stat. 93, which is set out as a note below.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Consent of Congress to Compact
 

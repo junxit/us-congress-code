@@ -19,9 +19,13 @@ As used in this chapter— The terms “Colorado River Basin”, “Colorado Riv
 
 For termination of renumbering of this section by section 10701(e)(2) of Pub. L. 111–11, see Termination Date of 2009 Amendment note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Act of April 6, 1949, referred to in text, is act Apr. 6, 1949, ch. 48, 63 Stat. 31, which is not classified to the Code. Act of May 31, 1939, referred to in text, is act May 31, 1939, ch. 155, 53 Stat. 785, which is not classified to the Code.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Termination Date of 2009 Amendment
 

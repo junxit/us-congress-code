@@ -15,9 +15,13 @@ Whenever any person claiming to be interested in or entitled to land, under any 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 460 derived from acts Jan. 23, 1823, ch. 6, 3 Stat. 721; July 4, 1836, ch. 352, § 7, 5 Stat. 111.
+
+### Executive Documents
 
 ### Transfer of Functions
 

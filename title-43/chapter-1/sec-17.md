@@ -15,9 +15,13 @@ The Secretary of the Interior or such officer as he may designate shall, when re
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 455 derived from act Apr. 25, 1812, ch. 68, § 6, 2 Stat. 717.
+
+### Executive Documents
 
 ### Transfer of Functions
 

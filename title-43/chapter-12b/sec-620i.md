@@ -17,6 +17,8 @@ Expenditures for the Flaming Gorge, Glen Canyon, Wayne N. Aspinall, and Navajo i
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 390a of this title, referred to in text, was in the original a reference to the Interior Department Appropriation Act, 1954. The soil survey and land classification requirements of that Act (act July 31, 1953, ch. 298, 67 Stat. 261, 266) were classified to section 390a of this title, prior to repeal by Pub. L. 105–362, title IX, § 901(e)(2), Nov. 10, 1998, 112 Stat. 3289.
