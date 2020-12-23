@@ -19,9 +19,13 @@ Florida is divided into three judicial districts to be known as the Northern, Mi
 
 Based on title 28, U.S.C., 1940 ed., § 149 (Mar. 3, 1911, ch. 231, § 76, 36 Stat. 1108; June 15, 1933, ch. 77, 48 Stat. 147; Aug. 25, 1937, ch. 763, § 1, 50 Stat. 800). A provision requiring rooms and accommodations to be furnished at Orlando without cost to the United States was omitted as obsolete, upon advice of the Director of the Administrative Office for the United States Courts that Federal accommodations are now available in Orlando. A provision requiring court to be open at all times was omitted as covered by section 452 of this title. A provision that no deputy clerk or deputy marshal should be appointed at Fort Pierce, was omitted as incongruous with other sections of this title. See sections 541 [see 561], 542 [see 561], and 751 of this title. The provision respecting court accommodations at Fort Pierce and Panama City was omitted as covered by section 142 of this title. Changes in arrangement and phraseology were made.
 
+### Editorial Notes
+
 ### Amendments
 
 1988—Subsec. (b). Pub. L. 100–702, § 1021(a)(1), added Collier, Glades, and Hendry to the counties comprising the Middle District. Subsec. (c). Pub. L. 100–702, § 1021(a)(2), struck out Collier, Glades, and Hendry from the counties comprising the Southern District. 1978—Subsec. (a). Pub. L. 95–408, § 4(a)(1), added Madison to the counties comprising the Northern District. Subsec. (b). Pub. L. 95–408, § 4(a)(2), struck out Madison from the counties comprising the Middle District. 1970—Subsec. (c). Pub. L. 91–272 provided for holding court at Fort Lauderdale. 1962—Pub. L. 87–562 struck out provisions which authorized court for the Northern District to be held at Live Oak, and for the Southern District at Fernandina, Fort Myers, Jacksonville, Ocala, Orlando, and Tampa, and removed the counties of Baker, Bradford, Brevard, Charlotte, Citrus, Clay, Columbia, De Soto, Duval, Flagler, Hamilton, Hardee, Hernando, Hillsborough, Lake, Lee, Madison, Manatee, Marion, Nassau, Orange, Osceola, Pasco, Pinellas, Polk, Putnam, Saint Johns, Sarasota, Seminole, Sumter, Suwannee, Union, and Volusia from the Southern District and created the Middle District to comprise such counties. 1961—Subsec. (a). Pub. L. 87–36 provided for holding court at Live Oak. 1952—Subsec. (b). Act July 17, 1952, provided for holding court at Fort Myers and West Palm Beach.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1988 Amendment
 

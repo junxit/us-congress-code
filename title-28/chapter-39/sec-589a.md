@@ -42,6 +42,8 @@ section: 589a
 
 1 See Deposits of Certain Fees for Fiscal Years 2018 Through 2022 note below.
 
+### Editorial Notes
+
 ### Codification
 
 Amendment by Pub. L. 104–91 is based on section 111(b) and (c) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
@@ -49,6 +51,8 @@ Amendment by Pub. L. 104–91 is based on section 111(b) and (c) of H.R. 2076, O
 ### Amendments
 
 2012—Subsec. (b)(2). Pub. L. 112–121 substituted “48.89” for “55”. 2007—Subsec. (b)(10). Pub. L. 110–161 added par. (10). 2005—Subsec. (b)(1). Pub. L. 109–8, § 325(b)(1), as amended by Pub. L. 109–13, § 6058(a), added par. (1) and struck out former par. (1), which read as follows: “27.42 percent of the fees collected under section 1930(a)(1) of this title;”. Subsec. (b)(2). Pub. L. 109–8, § 325(b)(2), as amended by Pub. L. 109–13, § 6058(a), substituted “55 percent” for “one-half”. 1999—Subsec. (b)(1). Pub. L. 106–113, § 1000(a)(1) [title I, § 113], substituted “27.42 percent” for “23.08 percent”. Subsec. (b)(9). Pub. L. 106–113, § 1000(a)(1) [title I], added par. (9). 1996—Pub. L. 104–208 reenacted section catchline without change and amended text generally, revising and restating as subsecs. (a) to (e) provisions of former subsecs. (a) to (f). Subsec. (b)(5). Pub. L. 104–91, as amended by Pub. L. 104–99, inserted “until a reorganization plan is confirmed” before semicolon. Subsec. (f)(2). Pub. L. 104–91, as amended by Pub. L. 104–99, substituted “until a reorganization plan is confirmed;” for period at end. Subsec. (f)(3). Pub. L. 104–91, as amended by Pub. L. 104–99, added par. (3). 1993—Subsec. (b)(1). Pub. L. 103–121, § 111(a)(2), substituted “23.08 per centum” for “one-fourth”. Subsec. (b)(2). Pub. L. 103–121, § 111(b)(2), substituted “37.5 per centum” for “50 per centum”. Subsec. (f)(1). Pub. L. 103–121, § 111(b)(3), substituted “12.5 per centum” for “16.7 per centum”. 1991—Subsec. (b)(2). Pub. L. 102–140, § 111(b)(1), substituted “50 per centum” for “three-fifths”. Subsec. (b)(5). Pub. L. 102–140, § 111(b)(2), substituted “60 per centum” for “all”. Subsec. (f). Pub. L. 102–140, § 111(c), added subsec. (f). 1989—Subsec. (b)(1). Pub. L. 101–162 substituted “one-fourth” for “one-third”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2012 Amendment
 

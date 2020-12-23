@@ -39,6 +39,8 @@ section: 589b
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 For the effective date of this section, referred to in subsec. (a), see Effective Date note set out below.
@@ -50,6 +52,8 @@ For the effective date of this section, referred to in subsec. (a), see Effectiv
 ### Effective Date of 2019 Amendment
 
 Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under section 101 of Title 11, Bankruptcy.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

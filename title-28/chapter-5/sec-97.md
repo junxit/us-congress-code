@@ -19,9 +19,13 @@ Kentucky is divided into two judicial districts to be known as the Eastern and W
 
 Based on title 28, U.S.C., 1940 ed., § 158 (Mar. 3, 1911, ch. 231, § 83, 36 Stat. 1112; Jan. 29, 1920, ch. 57, 41 Stat. 400; June 22, 1936, ch. 707, 49 Stat. 1822). Last paragraph of section 158 of title 28, U.S.C., 1940 ed., relating to process, was omitted as covered by Rule 4 of the Federal Rules of Civil Procedure. Provisions relating to maintenance of clerk’s offices were omitted as covered by sections 452 and 751 of this title. Provisions for furnishing rooms and accommodations at Lexington and Pikeville were omitted as obsolete on advice of the Director of the Administrative Office of the United States Courts that Federal accommodations are now available in each of those places. Words “with the waters thereof,” after the list of counties in each district, were omitted as unnecessary and inconsistent with other sections of this chapter. McCreary County of the Eastern District was formed from parts of the counties of Pulaski, Wayne, and Whitley since the latest amendment of the Judicial Code. Changes in arrangement and phraseology were made.
 
+### Editorial Notes
+
 ### Amendments
 
 1978—Subsec. (a). Pub. L. 95–408 provided for holding court at Ashland.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1978 Amendment; Savings Provision
 

@@ -19,9 +19,13 @@ Georgia is divided into three judicial districts to be known as the Northern, Mi
 
 Based on title 28, U.S.C., 1940 ed., § 150 (Mar. 3, 1911, ch. 231, § 77, 36 Stat. 1108; May 28, 1926, ch. 414, §§ 1, 2, 44 Stat. 670; Aug. 22, 1935, ch. 603, §§ 1–3, 49 Stat. 680, 681; June 20, 1936, ch. 639, 49 Stat. 1561; Aug. 21, 1937, ch. 728, §§ 1, 2, 50 Stat. 739, 740; Mar. 6, 1942, ch. 153, §§ 1–3, 56 Stat. 139; Oct. 29, 1945, ch. 435, 59 Stat. 550). Provisions for furnishing rooms and accommodations at Americus and Dublin were omitted as obsolete upon advice of the Director of the Administrative Office of the United States Courts that Federal accommodations are now available in each of those places. The provisions respecting court accommodations at Brunswick, Newnan, or Thomasville were omitted as covered by section 142 of this title. Since the latest amendment of section 150 of title 28, U.S.C., 1940 ed., the former counties of Campbell and Milton were merged with Fulton County in the Atlanta Division of the Northern District. Changes in arrangement and phraseology were made.
 
+### Editorial Notes
+
 ### Amendments
 
 1986—Subsec. (c)(1). Pub. L. 99–657, § 3(1), substituted “Jefferson, Lincoln” for “Lincoln”. Subsec. (c)(3). Pub. L. 99–657, § 3(2), substituted “and Liberty” for “Evans, Liberty, Screven, and Tattnall”. Subsec. (c)(6). Pub. L. 99–657, § 3(3), substituted “Evans, Jenkins, Screven, Tattnall” for “Jefferson, Jenkins”. 1984—Subsec. (a)(1). Pub. L. 98–620, § 408(a), added Fannin, Gilmer, and Pickens to the counties comprising the Gainesville Division of the Northern District. Subsec. (a)(2). Pub. L. 98–620, § 408(b), struck out Fannin, Gilmer, and Pickens from the counties comprising the Atlanta Division of the Northern District. Subsec. (c)(6). Pub. L. 98–620, § 408(c), substituted “Statesboro” for “Swainsboro” in three places. 1951—Subsec. (c)(6). Act Oct. 31, 1951, struck out “Washington,”. 1949—Subsec. (c). Act Aug. 16, 1949, created a Swainsboro division and provided for holding court there.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1986 Amendment
 

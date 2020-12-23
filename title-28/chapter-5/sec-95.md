@@ -19,9 +19,13 @@ Iowa is divided into two judicial districts to be known as the Northern and Sout
 
 Based on title 28, U.S.C., 1940 ed., §§ 156 and 156a (Mar. 3, 1911, ch. 231, § 81, 36 Stat. 1111; Mar. 3, 1913, ch. 122, 37 Stat. 734; Feb. 23, 1916, ch. 32, 39 Stat. 12; Apr. 27, 1916, ch. 90, 39 Stat. 55; Mar. 4, 1923, ch. 256, 42 Stat. 1483; Jan. 28, 1925, ch. 104, 43 Stat. 794; July 5, 1937, ch. 428, 50 Stat. 474). A provision relating to the maintenance of clerk’s office was omitted as covered by section 751 of this title. Changes in arrangement and phraseology were made.
 
+### Editorial Notes
+
 ### Amendments
 
 1980—Subsec. (b)(3). Pub. L. 96–462, § 3(a)(1), added Fremont and Page counties to Western Division of Southern District. Subsec. (b)(4). Pub. L. 96–462, § 3(a)(2), struck out references to Fremont and Page counties in list of counties comprising Southern Division of Southern District.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1980 Amendment; Savings Provision
 

@@ -19,6 +19,8 @@ The records and proceedings of the court of appeals, appointed previous to the a
 
 Based on title 28, U.S.C., 1940 ed., § 329 (Mar. 3, 1911, ch. 231, § 222, 36 Stat. 1153). In a letter dated August 8, 1944, the clerk of the Supreme Court advised that many of the early records mentioned in this section were destroyed by fire. Others are on file in the Clerk’s office. Minor changes in phraseology were made.
 
+### Editorial Notes
+
 ### Amendments
 
 1951—Act Oct. 25, 1951, inserted “until deposited with the National Archives of the United States” in first sentence.

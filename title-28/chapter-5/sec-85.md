@@ -19,9 +19,13 @@ Colorado constitutes one judicial district. Court shall be held at Boulder, Colo
 
 Based on title 28, U.S.C., 1940 ed., § 146 (Mar. 3, 1911, ch. 231, § 73, 36 Stat. 1108; June 12, 1916, ch. 143, 39 Stat. 225; May 29, 1924, ch. 209, 43 Stat. 243). A provision for furnishing rooms and accommodations at Sterling was omitted as obsolete upon advice from the Director of the Administrative Office of the United States Courts that Federal accommodations are now available. A provision authorizing adjournment at Denver when there is not business for terms at other places, is incorporated in section 138 of this title. Provisions as to clerk’s and marshal’s deputies and maintenance of offices were deleted as covered by sections 541 [see 561], 542 [see 561], and 751 of this title. Changes in arrangement and phraseology were made.
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Pub. L. 108–455 and 108–482 amended section identically, inserting “Colorado Springs,” after “Boulder,”. 1984—Pub. L. 98–620 provided for holding court at Boulder.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1984 Amendment
 

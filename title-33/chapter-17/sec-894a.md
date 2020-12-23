@@ -17,7 +17,7 @@ section: 894a
   - **(4)** Easy and ready availability of information described in paragraph (3).
   - **(5)** Establishing a mechanism by which—
     - **(A)** questions regarding sexual assault can be confidentially asked and confidentially answered; and
-    - **(B)** incidents of sexual assault can be confidentially reported.
+    - **(B)** incidents of sexual assault can be reported on a restricted or unrestricted basis.
   - **(6)** Protocols for the investigation of complaints by command and law enforcement personnel.
   - **(7)** Prohibiting retaliation and consequences for retaliatory actions against someone who reports a sexual assault.
   - **(8)** Oversight by the Under Secretary of administrative and disciplinary actions in response to substantiated incidents of sexual assault.
@@ -47,4 +47,10 @@ section: 894a
 
 ## Source credit
 
-(Pub. L. 114–328, div. C, title XXXV, § 3542, Dec. 23, 2016, 130 Stat. 2801.)
+(Pub. L. 114–328, div. C, title XXXV, § 3542, Dec. 23, 2016, 130 Stat. 2801; Pub. L. 116–259, title V, § 504(a)(2), Dec. 23, 2020, 134 Stat. 1180.)
+
+## Notes
+
+### Amendments
+
+2020—Subsec. (b)(5)(B). Pub. L. 116–259 substituted “can be reported on a restricted or unrestricted basis” for “can be confidentially reported”.

@@ -19,9 +19,13 @@ Maine constitutes one judicial district. Court shall be held at Bangor and Portl
 
 Based on title 28, U.S.C., 1940 ed., § 160 (Mar. 3, 1911, ch. 231, § 85, 36 Stat. 1114; Dec. 22, 1911, ch. 7, 37 Stat. 51; Sept. 8, 1916, ch. 475, §§ 1, 3, 39 Stat. 850; Mar. 4, 1923, ch. 279, 42 Stat. 1506). Changes in arrangement and phraseology were made.
 
+### Editorial Notes
+
 ### Amendments
 
 1978—Pub. L. 95–573 struck out provision for two separate divisions, (1) the Northern Division comprising the counties of Aroostook, Hancock, Penobscot, Piscataquis, Somerset, Waldo, and Washington and (2) the Southern Division comprising the counties of Androscoggin, Cumberland, Franklin, Kennebec, Knox, Lincoln, Oxford, Sagadahoc, and York.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1978 Amendment
 

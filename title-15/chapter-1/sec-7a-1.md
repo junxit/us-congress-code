@@ -1,11 +1,11 @@
 ---
-identifier: /us/usc/t15/s7a—1
+identifier: /us/usc/t15/s7a–1
 title: 15
 chapter: 1
-section: 7a—1
+section: 7a–1
 ---
 
-# § 7a—1. Limitation on recovery
+# § 7a–1. Limitation on recovery
 
 - **(a)** *In general* Subject to subsection (d), in any civil action alleging a violation of section 1 or 3 of this title, or alleging a violation of any similar State law, based on conduct covered by a currently effective antitrust leniency agreement, the amount of damages recovered by or on behalf of a claimant from an antitrust leniency applicant who satisfies the requirements of subsection (b), together with the amounts so recovered from cooperating individuals who satisfy such requirements, shall not exceed that portion of the actual damages sustained by such claimant which is attributable to the commerce done by the applicant in the goods or services affected by the violation.
 - **(b)** *Requirements* Subject to subsection (c), an antitrust leniency applicant or cooperating individual satisfies the requirements of this subsection with respect to a civil action described in subsection (a) if the court in which the civil action is brought determines, after considering any appropriate pleadings from the claimant, that the applicant or cooperating individual, as the case may be, has provided satisfactory cooperation to the claimant with respect to the civil action, which cooperation shall include—

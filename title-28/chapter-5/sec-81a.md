@@ -15,9 +15,13 @@ Alaska constitutes one judicial district. Court shall be held at Anchorage, Fair
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1959—Pub. L. 86–70 inserted “Ketchikan,”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1959 Amendment
 
@@ -50,6 +54,8 @@ Pub. L. 85–508, § 18, July 7, 1958, 72 Stat. 350, provided that: “The provi
 ### Schedule of Fees, Mileage, or Other Compensation
 
 Pub. L. 86–70, § 23(c), June 25, 1959, 73 Stat. 147, provided that: “Such authority as has been exercised by the Attorney General heretofore, with regard to the Federal court system in Alaska, pursuant to section 30 of the Act of June 6, 1900 (48 U.S.C. 25) shall continue to be exercised by him after the court created by section 12(b) of the Act of July 7, 1958 (72 Stat. 339, 348) [this section], providing for the admission of the State of Alaska into the Union, is established.”
+
+### Executive Documents
 
 ### Ex. Ord. No. 10867. Assumption of Functions by United States District Court for District of Alaska
 

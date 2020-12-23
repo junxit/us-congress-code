@@ -19,6 +19,8 @@ Alabama is divided into three judicial districts to be known as the Northern, Mi
 
 Based on title 28, U.S.C., 1940 ed. § 142 (Mar. 3, 1911, ch. 231, § 70, 36 Stat. 1105; Feb. 28, 1913, ch. 89, 37 Stat. 698; June 27, 1922, ch. 247, 42 Stat. 667). Provisions relating to the places for the maintenance of the clerks’ offices were omitted as covered by section 751 of this title, providing that deputy clerks may be designated to reside and maintain offices at such places for holding court as the judge may determine. Provisions that the offices of the court shall be kept open at all times were omitted as covered by section 452 of this title. A provision requiring the district judge for the northern district to reside at Birmingham was omitted as incongruous with section 134 of this title, requiring every district judge to reside within the district for which he is appointed. Likewise the provision of section 142 of title 28, U.S.C., 1940 ed., requiring the court to remain in session at Birmingham at least 6 months in each calendar year was omitted as unnecessary and not in harmony with provisions respecting other districts. The provisions for furnishing rooms and accommodations at Florence, Gadsden, Jasper and Opelika were omitted as obsolete upon advice of the Director of the Administrative Office of the United States Courts that Federal accommodations are now available in each of these places. Changes in arrangement and phraseology were made.
 
+### Editorial Notes
+
 ### Amendments
 
 1961—Subsec. (a)(2). Pub. L. 87–36 provided for holding court at Decatur.

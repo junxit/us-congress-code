@@ -81,6 +81,8 @@ section: 530C
 
 1 So in original. Probably should be “(ii)”.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 102(b) of Public Law 102–395, referred to in subsec. (a)(5), is section 102(b) of Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1838, as amended, which is set out as a note under section 533 of this title. Section 815(d) of Public Law 104–132, referred to in subsec. (a)(5), is section 815(d) of Pub. L. 104–132, title VIII, Apr. 24, 1996, 110 Stat. 1315, which is set out as a note under section 533 of this title. Public Law 106–110, referred to in subsec. (e), is Pub. L. 106–110, Nov. 24, 1999, 113 Stat. 1497, which amended section 10211 of Title 34, Crime Control and Law Enforcement.
@@ -88,6 +90,8 @@ Section 102(b) of Public Law 102–395, referred to in subsec. (a)(5), is sectio
 ### Amendments
 
 2013—Subsec. (b)(1)(L)(i). Pub. L. 112–265, § 2(a)(1), substituted “$3,000,000” for “$2,000,000” in introductory provisions. Subsec. (b)(1)(M). Pub. L. 112–265, § 2(a)(2), added subpar. (M). 2004—Subsec. (b)(2)(A), (B). Pub. L. 108–199 inserted “for the Bureau of Alcohol, Tobacco, Firearms and Explosives,” after “Marshals Service,”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
