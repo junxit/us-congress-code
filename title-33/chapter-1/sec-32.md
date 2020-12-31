@@ -15,6 +15,8 @@ Lake George, in Yazoo County, in the State of Mississippi, is declared to be not
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 The two sentences comprising this section are respectively sections 1 and 2 of act May 24, 1922, entitled “An act declaring Lake George, Yazoo County, Mississippi, to be a nonnavigable stream”.

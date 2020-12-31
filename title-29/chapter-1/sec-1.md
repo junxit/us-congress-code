@@ -15,9 +15,13 @@ The general design and duties of the Bureau of Labor Statistics shall be to acqu
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Act June 27, 1884, created Bureau of Labor in Department of the Interior. Section 1 of act June 13, 1888, created Department of Labor and outlined its general design and duties, and section 9 of that act transferred Bureau of Labor to Department of Labor. Act Feb. 14, 1903, placed Department of Labor under jurisdiction and made it a part of Department of Commerce and Labor. Act Mar. 18, 1904, changed name of Department of Labor to Bureau of Labor in Department of Commerce and Labor. Act Mar. 4, 1913, created Department of Labor and transferred Bureau of Labor from Department of Commerce and Labor to newly created Department of Labor, redesignating such transferred Bureau as Bureau of Labor Statistics.
+
+### Executive Documents
 
 ### Transfer of Functions
 

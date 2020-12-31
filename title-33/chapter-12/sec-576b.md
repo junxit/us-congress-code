@@ -15,6 +15,8 @@ Notwithstanding any other provision of law, the Secretary may lease space availa
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Civil Functions Appropriations Act, 1954, referred to in text, is act July 27, 1953, ch. 245, 67 Stat. 197. For complete classification of this Act to the Code, see Tables.

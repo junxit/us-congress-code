@@ -15,6 +15,8 @@ The President may, in his discretion, consolidate two or more agencies into one,
 
 ## Notes
 
+### Executive Documents
+
 ### Delegation of Functions
 
 For delegation to Secretary of the Interior of authority vested in President by this section, see Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, set out as a note under section 301 of Title 3, The President.

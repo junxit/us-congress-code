@@ -15,6 +15,8 @@ The Secretary of Labor is authorized and directed to formulate and promote the f
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 17 of title 20, referred to in text, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 643.
@@ -26,6 +28,8 @@ Words “with the National Youth Administration” were omitted from text in vie
 ### Amendments
 
 1973—Pub. L. 93–198 inserted provision that “State” includes the District of Columbia.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1973 Amendment
 
@@ -41,7 +45,13 @@ The act of Aug. 16, 1937, ch. 663, 50 Stat. 664, which enacted this chapter, is 
 
 ### Transfer of Functions
 
-“Secretary of Education” substituted in text for “Office of Education under the Department of Health, Education, and Welfare”, pursuant to section 301(a)(1) of Pub. L. 96–88, which is classified to section 3441(a)(1) of Title 20, Education, and which transferred all functions of Office of Education to Secretary of Education. Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Reorg. Plan No. I of 1939, consolidated National Youth Administration and Office of Education, with other agencies, into Federal Security Agency under supervision and direction of Federal Security Administrator.
+“Secretary of Education” substituted in text for “Office of Education under the Department of Health, Education, and Welfare”, pursuant to section 301(a)(1) of Pub. L. 96–88, which is classified to section 3441(a)(1) of Title 20, Education, and which transferred all functions of Office of Education to Secretary of Education.
+
+### Executive Documents
+
+### Transfer of Functions
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Reorg. Plan No. I of 1939, consolidated National Youth Administration and Office of Education, with other agencies, into Federal Security Agency under supervision and direction of Federal Security Administrator.
 
 ### Ex. Ord. No. 13801. Expanding Apprenticeships in America
 

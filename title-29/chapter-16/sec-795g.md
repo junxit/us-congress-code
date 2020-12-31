@@ -15,6 +15,8 @@ It is the purpose of this subchapter to authorize allotments, in addition to gra
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 Provisions similar to this section were contained in section 795j of this title prior to the general amendment of this subchapter by Pub. L. 105–220. A prior section 795g, Pub. L. 93–112, title VI, § 621, as added Pub. L. 95–602, title II, § 201, Nov. 6, 1978, 92 Stat. 2993; amended Pub. L. 98–221, title I, §§ 162, 163, Feb. 22, 1984, 98 Stat. 29, 30; Pub. L. 99–506, title I, § 103(d)(2)(B), (C), title VII, § 703(a)(1)–(3), (b)–(d), Oct. 21, 1986, 100 Stat. 1810, 1831, 1832; Pub. L. 100–630, title II, § 207(b), Nov. 7, 1988, 102 Stat. 3313; Pub. L. 102–569, title VI, § 611, Oct. 29, 1992, 106 Stat. 4434, related to Projects With Industry, prior to the general amendment of this subchapter by Pub. L. 105–220.

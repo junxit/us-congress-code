@@ -18,6 +18,8 @@ section: 467e
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 467e, Pub. L. 92–367, § 6, Aug. 8, 1972, 86 Stat. 507, directed that existing liabilities and obligations be unaffected, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685. A prior section 7 of Pub. L. 92–367 was classified to section 467f of this title prior to repeal by Pub. L. 104–303.
@@ -25,6 +27,8 @@ A prior section 467e, Pub. L. 92–367, § 6, Aug. 8, 1972, 86 Stat. 507, direct
 ### Amendments
 
 2014—Subsec. (a)(2). Pub. L. 113–121 substituted “Administrator” for “Director”. 2002—Subsec. (b). Pub. L. 107–310 substituted “Federal programs” for “Federal and State programs” and “through coordination and information exchange among Federal agencies concerning implementation of the Federal Guidelines for Dam Safety.” for “through— “(1) coordination and information exchange among Federal agencies and State dam safety agencies; and “(2) coordination and information exchange among Federal agencies concerning implementation of the Federal Guidelines for Dam Safety.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Functions
 

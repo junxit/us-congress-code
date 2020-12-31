@@ -15,6 +15,8 @@ Notwithstanding any other provision of law, any bond issued under section 985 of
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Department of Transportation and Related Agencies Appropriations Act, 1983, and not as part of act May 13, 1954, ch. 201, 68 Stat. 903, which comprises this chapter. Section consists of a part of section 311 of Pub. L. 97–369. The remainder of section 311 of Pub. L. 97–369 amended sections 984 and 988 of this title.

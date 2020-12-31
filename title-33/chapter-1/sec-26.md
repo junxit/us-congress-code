@@ -15,6 +15,8 @@ The portion of the old channel of the Calumet River in the northwest quarter of 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Act of Congress approved July 5, 1884, referred to in text, is act July 5, 1884, ch. 229, 23 Stat. 143, which provided in part for the appropriation of $50,000 for the continuing improvement of the Calumet River, provided that no part of such appropriation be expended until the right of way should have been conveyed to the United States, free from expense, and the United States released from liability to adjacent property owners, to the satisfaction of the Secretary of War.

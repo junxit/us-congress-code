@@ -15,9 +15,13 @@ The United States shall provide flowage rights for additional destructive flood 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1945—Act Nov. 30, 1945, substituted second sentence of second par. for a sentence which read “In all such proceedings the court, for the purpose of ascertaining the value of the property and assessing the compensation to be paid, shall appoint three commissioners, whose award, when confirmed by the court, shall be final.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

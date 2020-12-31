@@ -16,9 +16,13 @@ section: 578a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 6002 of the Water Resources Reform and Development Act of 2014, referred to in text, is section 6002 of Pub. L. 113–121, title VI, June 10, 2014, 128 Stat. 1349, which is not classified to the Code.
+
+### Statutory Notes and Related Subsidiaries
 
 ### “Secretary” Defined
 

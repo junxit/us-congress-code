@@ -57,6 +57,8 @@ section: 878a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is from the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012, which is division B of the Consolidated and Further Continuing Appropriations Act, 2012.
@@ -68,6 +70,8 @@ Provisions similar to those in this section were contained in the following prio
 ### Amendments
 
 2013—Subsec. (f). Pub. L. 113–6 substituted “subsection (e)(2)” for “paragraph (2)” and “subsection (e)” for “this subsection”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Requirements Adopted by Reference
 

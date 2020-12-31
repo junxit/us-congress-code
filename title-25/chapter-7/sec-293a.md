@@ -15,6 +15,8 @@ The Secretary of the Interior, or his authorized representative, is authorized t
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1962—Pub. L. 87–417 increased land conveyance limitation from twenty to fifty acres. 1957—Pub. L. 85–31 inserted last sentence allowing the former beneficial owner, if an Indian or Indian tribe, to petition for declaration of forfeiture of conveyance where grantee has failed for period of one year to observe provisions of transfer agreement and Secretary has not declared forfeiture.

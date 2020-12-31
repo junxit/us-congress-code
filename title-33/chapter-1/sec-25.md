@@ -15,6 +15,8 @@ The Cache River in the State of Arkansas is declared to be a nonnavigable stream
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was a provision of section 1 of act July 27, 1916, popularly known as the “Rivers and Harbors Appropriation Act of 1916”.

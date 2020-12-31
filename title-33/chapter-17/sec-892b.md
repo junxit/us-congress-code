@@ -31,6 +31,8 @@ section: 892b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2002—Subsec. (b)(1). Pub. L. 107–372 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Administrator may— “(A) develop and implement a quality assurance program that is equally available to all applicants, under which the Administrator may certify hydrographic products that satisfy the standards promulgated by the Administrator under section 892a(a)(3) of this title; “(B) authorize the use of the emblem or any trademark of the Administration on a hydrographic product certified under subparagraph (A); and “(C) charge a fee for such certification and use.”

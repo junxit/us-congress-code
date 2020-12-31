@@ -21,9 +21,13 @@ section: 576c
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 331 of the FAA Modernization and Reform Act of 2012, referred to in subsec. (a)(1), is section 331 of Pub. L. 112–95, which was set out in a note under section 40101 of Title 49, Transportation, and was transferred and is now set out in a note under section 44802 of Title 49.
+
+### Statutory Notes and Related Subsidiaries
 
 ### “Secretary” Defined
 

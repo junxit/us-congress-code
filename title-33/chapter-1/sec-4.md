@@ -15,6 +15,8 @@ The Secretary of the Army is authorized and directed to have water gauges establ
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5252 derived from Res. Feb. 21, 1871, No. 40, 16 Stat. 598. The first paragraph of this section is from R.S. § 5252, which, as enacted, authorized and directed the establishment of water gauges and the making of daily observations at or in the vicinity of certain enumerated places, and at such other places as the Secretary of War might deem advisable. It further provided that the expenditure should be made from the appropriation for the improvement of rivers and harbors and that the annual cost of the observations should not exceed $5,000. These latter provisions were apparently modified by section 6 of act Aug. 11, 1888, as amended by section 9 of act June 13, 1902, which was substantially the second paragraph of this section. As originally enacted, section 6 of act Aug. 11, 1888, provided for the gauging of the waters of the Lower Mississippi and tributaries, and limited the cost for each year to the amount appropriated in the act for such purpose.
@@ -22,6 +24,8 @@ R.S. § 5252 derived from Res. Feb. 21, 1871, No. 40, 16 Stat. 598. The first pa
 ### Amendments
 
 1954—Act Aug. 30, 1954, repealed proviso requiring that an itemized statement of expenses incurred in gauging waters of the Mississippi River and its tributaries, as provided in this section, should accompany the annual report of the Chief of Engineers.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

@@ -17,9 +17,13 @@ section: 416a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Subsec. (c). Pub. L. 108–329, in first sentence, substituted “Any contract, including a lease, affecting land” for “Any lease entered into under sections 416 to 416j or 415 to 415d of this title or any contract entered into under section 81 of this title, affecting land” and “such contract” for “such lease or contract” and, in second sentence, substituted “Such contracts” for “Such leases or contracts entered into pursuant to such sections”. 1983—Subsec. (c). Pub. L. 98–163 added subsec. (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2004 Amendment
 

@@ -38,6 +38,8 @@ section: 795k
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 Provisions similar to this section were contained in section 795n of this title prior to the general amendment of this subchapter by Pub. L. 105–220. A prior section 795k, Pub. L. 93–112, title VI, § 632, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4439, related to allotments, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 795h of this title. Another prior section 795k, Pub. L. 93–112, title VI, § 632, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1834, related to eligibility for services under former part C of this subchapter, prior to repeal by Pub. L. 102–569, § 621(a).

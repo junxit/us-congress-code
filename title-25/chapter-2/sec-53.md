@@ -15,9 +15,13 @@ Any disbursing agent of the Indian Service, with the approval of the Commissione
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1972—Pub. L. 92–310 struck out provisions which related to official bond of disbursing agent.
+
+### Executive Documents
 
 ### Transfer of Functions
 

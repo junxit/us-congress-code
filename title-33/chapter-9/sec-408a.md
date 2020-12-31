@@ -46,9 +46,13 @@ section: 408a
 
 1 So in original. Probably should be preceded by “to”.
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Subsecs. (f), (g). Pub. L. 114–322 added subsecs. (f) and (g).
+
+### Statutory Notes and Related Subsidiaries
 
 ### “Secretary” Defined
 

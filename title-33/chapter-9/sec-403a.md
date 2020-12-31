@@ -15,6 +15,8 @@ The creation of any obstruction, not affirmatively authorized by law, to the nav
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This act, referred to in text, is act Sept. 19, 1890, ch. 907, 26 Stat. 426. Sections 6 to 9 of the Act are not classified to the Code. For complete classification of this act to the Code, see Tables.

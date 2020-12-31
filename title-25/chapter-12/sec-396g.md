@@ -15,6 +15,8 @@ The Secretary of the Interior, to avoid waste or to promote the conservation of 
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Repeal of Inconsistent Acts
 
 For repeal of inconsistent acts, see section 7 of act May 11, 1938, set out as a note under section 396a of this title.

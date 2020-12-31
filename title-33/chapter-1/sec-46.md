@@ -15,6 +15,8 @@ Tchula Lake, in Holmes County, in the State of Mississippi, is declared to be a 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 The two sentences comprising this section are, respectively, sections 1 and 2 of act July 1, 1922, entitled “An act declaring Tchula Lake, Holmes County, Mississippi, to be a nonnavigable stream”.

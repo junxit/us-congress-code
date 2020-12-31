@@ -15,9 +15,13 @@ Bayou Lafourche, in the State of Louisiana, between Canal Boulevard, city of Thi
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The provisions of the Acts of August 30, 1935 (49 Stat. 1028) and July 14, 1960 (74 Stat. 480), referred to in text, authorizing the Bayou Lafourche, Louisiana, project, are not classified to the Code.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Portion of Bayou Lafourche Declared To Be Navigable Waterway
 

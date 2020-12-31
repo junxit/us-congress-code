@@ -15,6 +15,8 @@ Whenever the Secretary considers a permit application for a dock or a boat launc
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### “Secretary” Defined
 
 Secretary means the Secretary of the Army, see section 2201 of this title.

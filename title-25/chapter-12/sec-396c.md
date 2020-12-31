@@ -15,6 +15,8 @@ On and after May 11, 1938, lessees of restricted Indian lands, tribal or allotte
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Repeal of Inconsistent Acts
 
 For repeal of inconsistent acts, see section 7 of act May 11, 1938, set out as a note under section 396a of this title.

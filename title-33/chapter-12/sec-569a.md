@@ -15,6 +15,8 @@ The Chief of Engineers is authorized to procure the temporary or intermittent se
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 “Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -22,6 +24,8 @@ The Chief of Engineers is authorized to procure the temporary or intermittent se
 ### Amendments
 
 1970—Pub. L. 91–611 substituted provision that compensation “may be paid at rates not to exceed the daily equivalent of the rate for GS–18 for each day of their services” for “shall not be paid in excess of $100 per day for their services”. 1950—Act May 17, 1950, amended section generally, providing for employment of experts and consultants and omitting provisions relating to stenographic assistance.
+
+### Statutory Notes and Related Subsidiaries
 
 ### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

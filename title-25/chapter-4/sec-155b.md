@@ -15,6 +15,8 @@ Except in the case of funds held in trust for Indian tribes or individuals, the 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The purposes for which funds are appropriated under the subheading “Operation of Indian Programs”, referred to in text, are the purposes enumerated in the Department of the Interior and Related Agencies Appropriation Act, 1982, Pub. L. 97–100, title I, § 100, Dec. 23, 1981, 95 Stat. 1399.

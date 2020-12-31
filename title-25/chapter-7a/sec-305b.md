@@ -15,6 +15,8 @@ The Board shall prescribe from time to time rules and regulations governing the 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in text, is act Aug. 27, 1935, ch. 748, 49 Stat. 891, as amended, which is classified generally to section 305 et seq. of this title. For complete classification of this Act to the Code, see Tables.
@@ -22,6 +24,8 @@ This Act, referred to in text, is act Aug. 27, 1935, ch. 748, 49 Stat. 891, as a
 ### Amendments
 
 2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
+### Executive Documents
 
 ### Transfer of Functions
 

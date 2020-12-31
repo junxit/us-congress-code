@@ -69,6 +69,8 @@ section: 796d
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 796d, Pub. L. 93–112, title VII, § 705, as added Pub. L. 102–569, title VII, § 701(2), Oct. 29, 1992, 106 Stat. 4446; amended Pub. L. 103–73, title I, § 114(c), Aug. 11, 1993, 107 Stat. 728, related to Statewide Independent Living Councils, prior to the general amendment of this subchapter by Pub. L. 105–220. Another prior section 796d, Pub. L. 93–112, title VII, § 705, as added Pub. L. 95–602, title III, § 301, Nov. 6, 1978, 92 Stat. 2997; amended Pub. L. 99–506, title I, § 103(d)(2)(B), (C), (h)(2), title VIII, § 802, title X, § 1001(g)(3), Oct. 21, 1986, 100 Stat. 1810, 1811, 1837, 1843; Pub. L. 100–630, title II, § 208(d), Nov. 7, 1988, 102 Stat. 3314; Pub. L. 102–119, § 26(e), Oct. 7, 1991, 105 Stat. 607, related to State plans for providing comprehensive services for independent living, prior to repeal by Pub. L. 102–569, § 701(1).

@@ -23,6 +23,8 @@ section: 49h
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Inspector General Act, referred to in subsec. (b)(2), probably means the Inspector General Act of 1978, Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -30,6 +32,8 @@ The Inspector General Act, referred to in subsec. (b)(2), probably means the Ins
 ### Amendments
 
 1982—Pub. L. 97–300 amended section generally, substituting provisions requiring the States to prepare accounting procedures under Federal guidance, to submit to biennial audit with evaluation of expenditures by the Comptroller General and providing for repayment of improperly expended funds, for provisions requiring reports on expenditures to the Secretary under his regulations and giving him authority to revoke State certification.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1982 Amendment
 

@@ -15,9 +15,13 @@ In carrying out the provisions of this chapter the Secretary is authorized and d
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1998—Pub. L. 105–220, § 307(2), which directed the substitution of “Secretary” for “Director”, was executed by making the substitution for “director” to reflect the probable intent of Congress. Pub. L. 105–220, § 307(1), redesignated subsec. (b) as entire section and struck out subsec. (a) which provided for establishment and composition of a Federal Advisory Council, and similar State advisory councils, to work on problems relating to employment. 1982—Subsec. (a). Pub. L. 97–300 inserted provision that nothing in this section should be construed to prohibit the Governor from carrying out functions of the State advisory council through the State job training coordinating council in accordance with section 1532(c) of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1998 Amendment
 

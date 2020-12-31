@@ -22,6 +22,8 @@ section: 49d
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Unemployment Tax Act, referred to in subsec. (b)(1), is act Aug. 16, 1954, ch. 736, §§ 3301 to 3311, 68A Stat. 454, as amended, which is classified generally to chapter 23 (§ 3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
@@ -29,6 +31,8 @@ The Federal Unemployment Tax Act, referred to in subsec. (b)(1), is act Aug. 16,
 ### Amendments
 
 1998—Subsec. (c)(3). Pub. L. 105–220 struck out par. (3) which read as follows: “(3)(A) Appropriations for fiscal year 1984 shall be available both to fund activities for the period between October 1, 1983, and July 1, 1984, and for the program year beginning July 1, 1984. “(B) There are authorized to be appropriated such additional sums as may be necessary to carry out the provisions of this paragraph for the transition to program year funding.” 1982—Subsec. (b). Pub. L. 97–300 added subsec. (b). Former subsec. (b), which related to certification of compliance by the Secretary to the Secretary of the Treasury with regard to the Federal Unemployment Tax Act by State programs and payment of monies for the operation of the State systems, was struck out. Subsec. (c). Pub. L. 97–300 added subsec. (c). 1981—Subsec. (b). Pub. L. 97–35 inserted provisions authorizing appropriations for fiscal year beginning Oct. 1, 1981, and definition of “proper and efficient administration of its public employment offices”. 1976—Subsec. (b). Pub. L. 94–566 substituted “Guam” for “Guam and the Virgin Islands”. 1960—Subsec. (b). Pub. L. 86–778 substituted “Guam and the Virgin Islands” for “Puerto Rico, Guam, and the Virgin Islands”. 1956—Subsec. (b). Act Aug. 1, 1956, inserted “Guam” after “Puerto Rico”. 1950—Subsec. (a). Act, Sept. 8, 1950, struck out apportionment formula and requirement that States match the funds granted them. 1938—Subsec. (a). Act June 29, 1938, substituted “The annual appropriation under this chapter shall designate the amount to” for “Seventy-five per centum of the amounts appropriated under this chapter shall”, at beginning of second sentence, and “the said amount among the several States” for “said 75 per centum of amounts appropriated after January 1, 1935, under this chapter” in proviso. 1935—Subsec. (a). Act May 10, 1935, inserted proviso.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1998 Amendment
 

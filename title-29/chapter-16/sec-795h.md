@@ -24,6 +24,8 @@ section: 795h
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Part B of this subchapter (as in effect on September 30, 1992), referred to in subsec. (a)(1)(B), consisted of sections 795g to 795i and related to projects with industry and business opportunities for individuals with handicaps.

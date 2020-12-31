@@ -40,6 +40,8 @@ section: 162a
 
 2 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 12B of the Federal Reserve Act, referred to in subsec. (a), formerly classified to section 264 of Title 12, Banks and Banking, has been withdrawn from the Federal Reserve Act and incorporated in the Federal Deposit Insurance Act which is classified to chapter 16 (§ 1811 et seq.) of Title 12. Section 955 of this title, referred to in subsec. (c)(3), which related to tax exemptions for equalization allotments and cash payments received in lieu thereof by members of the Agua Caliente Band, was omitted from the Code as being of special and not general application.
@@ -48,9 +50,13 @@ Section 12B of the Federal Reserve Act, referred to in subsec. (a), formerly cla
 
 1994—Subsec. (a). Pub. L. 103–412, § 103(b), inserted “to withdraw from the United States Treasury and” after “prescribe,” in second sentence. Subsecs. (b), (c). Pub. L. 103–412, § 103(c), redesignated subsec. (b), relating to investment of trust funds, as (c). Subsec. (d). Pub. L. 103–412, § 101, added subsec. (d). 1990—Subsec. (a). Pub. L. 101–644, which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b), was executed by adding subsec. (b) relating to investment of trust funds. See 1983 Amendment note below. 1983—Pub. L. 98–146 designated existing provisions as subsec. (a) and added subsec. (b).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Repeal of Inconsistent Provisions and Construction With Other Laws
 
 Act June 24, 1938, ch. 648, § 2, 52 Stat. 1037, repealed act May 25, 1918, ch. 86, § 28, 40 Stat. 591, which was contained in former section 162 of this title, and all other inconsistent acts. Act June 24, 1938, ch. 648, § 3, 52 Stat. 1038, provided: “Nothing contained in this act shall be construed as affecting the provisions of the Federal Reserve Act or regulations issued thereunder relating to the payment of interest on deposits.”
+
+### Executive Documents
 
 ### Transfer of Functions
 

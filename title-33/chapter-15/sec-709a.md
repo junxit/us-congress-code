@@ -18,9 +18,13 @@ section: 709a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2014—Subsec. (d). Pub. L. 113–121 substituted “$50,000,000” for “$15,000,000”. 1999—Subsec. (b). Pub. L. 106–53, § 216, added subsec. (b). Former subsec. (b) redesignated (c). Pub. L. 106–53, § 202, inserted before period at end of third sentence “, but the Secretary of the Army may accept funds voluntarily contributed by such entities for the purpose of expanding the scope of the services requested by the entities”. Subsecs. (c), (d). Pub. L. 106–53, § 216(1), redesignated subsecs. (b) and (c) as (c) and (d), respectively. 1990—Pub. L. 101–640 added subsec. (b) and redesignated former subsec. (b) as (c). 1974—Subsec. (b). Pub. L. 93–251 substituted “$15,000,000” for “$11,000,000”. 1970—Subsec. (b). Pub. L. 91–611 substituted “$11,000,000” for “$7,000,000”. 1966—Subsec. (a). Pub. L. 89–789, in amending subsec. (a) generally, substituted “political subdivisions thereof” for “municipalities” and “advice” for “engineering advice”, inserted provision “to assure that Federal departments and agencies may take proper cognizance of flood hazards”, provided for guidance of Federal and non-Federal interests and agencies and advice to other Federal agencies, and for surveys and guides upon request of a State or political subdivision in lieu of surveys and studies for specific localities upon request of a State or responsible local governmental agency. Subsec. (b). Pub. L. 89–789 substituted “expend not to exceed $7,000,000 per fiscal year for the compilation and dissemination of information under this section” for “allot, from any appropriations hereafter made for flood control, sums not to exceed $2,500,000 in any one fiscal year for the compilation and dissemination of such information”. 1965—Subsec. (b). Pub. L. 89–298 substituted “$2,500,000” for “$1,000,000”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

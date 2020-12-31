@@ -15,6 +15,8 @@ The Big Tarkio River, in the counties of Holt and Atchison, in the State of Miss
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 The first sentence hereof is section 1 and the last sentence section 2 of act Feb. 15, 1910, entitled “An Act to declare Big Tarkio River, in Holt and Atchison counties, Missouri, nonnavigable”.

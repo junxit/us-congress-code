@@ -15,9 +15,13 @@ When the authorization of a project of river and harbor improvement requires tha
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 A prior provision that the reduction authorized by this section was not to apply to contributions made prior to Mar. 3, 1933, was omitted as obsolete.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

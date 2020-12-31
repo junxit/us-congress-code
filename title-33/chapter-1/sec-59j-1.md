@@ -42,6 +42,8 @@ section: 59j–1
 
 [Omitted]
 
+### Editorial Notes
+
 ### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -53,6 +55,8 @@ The text of the boundary descriptions contained in pars. (1) to (5) of subsec. (
 ### Amendments
 
 2016—Subsec. (c). Pub. L. 114–322 struck out “(except 30 years from November 17, 1988, in the case of the area or any part thereof described in subsection (a)(5))” after “in subsection (a)” and inserted at end “Notwithstanding the preceding sentence, the declaration of nonnavigability for the area described in subsection (a)(5), or any part thereof, shall not expire.” 2007—Subsec. (c). Pub. L. 110–114 substituted “subsection (a) (except 30 years from November 17, 1988, in the case of the area or any part thereof described in subsection (a)(5))” for “subsection (a) of this section”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### “Secretary” Defined
 

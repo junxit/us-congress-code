@@ -17,6 +17,8 @@ Appropriations in this title 11 See References in Text note below. or appropriat
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 This title, referred to in text, is title I of Pub. L. 102–377, Oct. 2, 1992, 106 Stat. 1315. For complete classification of title I to the Code, see Tables.

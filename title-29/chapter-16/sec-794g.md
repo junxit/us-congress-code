@@ -55,6 +55,8 @@ section: 794g
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The effective date of this section, referred to in subsec. (a)(1), means 2 years after July 22, 2014. See Effective Date note below. The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(A) and (d)(2)(A)(ii), (iii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables. The Fair Labor Standards Act of 1938, referred to in subsec. (b)(3), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables. The effective date of this Act, referred to in subsec. (b)(3), may mean the effective date of Pub. L. 93–112 (Sept. 26, 1973), the effective date of Pub. L. 113–128, which added this section (see Effective Date note set out under section 3101 of this title), or the effective date of this section (see Effective Date note below).
@@ -62,6 +64,8 @@ The effective date of this section, referred to in subsec. (a)(1), means 2 years
 ### Amendments
 
 2015—Subsec. (b)(2). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2015 Amendment
 

@@ -17,6 +17,8 @@ Notwithstanding any other provision of law, any funds appropriated pursuant to s
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 5325(a)(3) of this title, referred to in text, was repealed and a new subsec. (a)(3) of section 5325 was added by Pub. L. 103–413, title I, § 102(14)(C), Oct. 25, 1994, 108 Stat. 4257. See section 5325(a)(4) of this title.

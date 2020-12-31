@@ -50,6 +50,8 @@ section: 579a
 
 1 So in original.
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in subsec. (a), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables. Section 219 of the Water Resources Development Act of 1992, referred to in subsec. (b)(3)(A)(iii), is section 219 of Pub. L. 102–580, title II, Oct. 31, 1992, 106 Stat. 4835, which is not classified to the Code.
@@ -57,6 +59,8 @@ This Act, referred to in subsec. (a), is Pub. L. 99–662, Nov. 17, 1986, 100 St
 ### Amendments
 
 2018—Pub. L. 115–270, § 1154(a)(1), substituted “Corps budgeting; project deauthorizations; comprehensive backlog report” for “Project deauthorizations” in section catchline. Subsec. (b)(3), (4). Pub. L. 115–270, § 1154(a)(2), added pars. (3) and (4) and struck out former pars. (3) and (4) which related to minimum funding lists and comprehensive backlog reports, respectively. 2014—Subsec. (b)(3), (4). Pub. L. 113–121 added pars. (3) and (4). 2007—Subsec. (b)(2). Pub. L. 110–114, § 2046(3), which directed the substitution of “such period” for “such 30 month period” in last sentence, was executed by making the substitution for “such 30-month period” to reflect the probable intent of Congress. Pub. L. 110–114, § 2046(2), in last sentence, substituted “the last date of the fiscal year following the fiscal year in which” for “30 months after the date”. Pub. L. 110–114, § 2046(1), in first sentence, substituted “year” for “two years” and “5” for “7”. 1999—Subsec. (b)(2). Pub. L. 106–109, in first sentence, substituted “Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), every” for “Every”. 1996—Subsec. (b)(2). Pub. L. 104–303 substituted “7 full” for “10 full”, “Upon submission” for “Before submission”, and “for the planning, design, or construction” for “for construction”. 1990—Subsec. (b)(2). Pub. L. 101–640 inserted after first sentence “Before submission of such list to Congress, the Secretary shall notify each Senator in whose State, and each Member of the House of Representatives in whose district, a project (including any part thereof) on such list would be located.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Savings Clause
 

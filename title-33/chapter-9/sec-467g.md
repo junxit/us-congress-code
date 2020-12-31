@@ -20,6 +20,8 @@ section: 467g
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 467g, Pub. L. 92–367, § 8, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4261, set out the requisite features of State dam safety programs and provided for program approval and periodic review, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685. A prior section 9 of Pub. L. 92–367 was classified to section 467h of this title prior to repeal by Pub. L. 104–303.

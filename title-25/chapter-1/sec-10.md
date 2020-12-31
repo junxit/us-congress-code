@@ -15,9 +15,13 @@ The Commissioner of Indian Affairs, with the approval of the Secretary of the In
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is from the Indian Department Appropriation Act, 1910.
+
+### Executive Documents
 
 ### Transfer of Functions
 

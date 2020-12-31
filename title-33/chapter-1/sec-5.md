@@ -22,6 +22,8 @@ section: 5
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is from act July 5, 1884, popularly known as the “Rivers and Harbors Appropriation Act of 1884”. The section, as originally enacted, was as follows: “No tolls or operating charges whatsoever shall be levied or collected upon any vessel or vessels, dredges, or other passing water-craft through any canal or other work for the improvement of navigation belonging to the United States; and for the purpose of preserving and continuing the use and navigation of said canals, rivers, and other public works without interruption, the Secretary of War, upon the application of the chief engineer in charge of said works, is hereby authorized to draw his warrant or requisition from time to time upon the Secretary of the Treasury to pay the actual expenses of operating and keeping said works in repair, which warrants or requisitions shall be paid by the Secretary of the Treasury, out of any money in the Treasury not otherwise appropriated: Provided, however, That an itemized statement of said expenses shall accompany the annual report of the chief of engineers.” It was amended by act March 3, 1909, to read substantially as set forth above.
@@ -29,6 +31,8 @@ Section is from act July 5, 1884, popularly known as the “Rivers and Harbors A
 ### Amendments
 
 2003—Subsec. (b)(3). Pub. L. 108–176 added par. (3). 2002—Pub. L. 107–295 designated existing provisions as subsec. (a) and added subsec. (b). 1954—Act Aug. 30, 1954, repealed last proviso requiring that an itemized statement of expenses incurred in operating, maintaining, keeping in repair, and reconstructing locks, canals, etc., other than the Panama Canal, as provided in this section, should accompany the annual report of the Chief of Engineers.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

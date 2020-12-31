@@ -15,6 +15,8 @@ As soon as practicable after inspection of a dam, the Secretary shall notify the
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 4 of Pub. L. 92–367 was renumbered section 5 and is classified to section 467c of this title.

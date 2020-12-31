@@ -15,9 +15,13 @@ Changes in the boundaries of reservations created by Executive order, proclamati
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1976—Pub. L. 94–579 struck out proviso relating to nonapplicability of provisions to temporary withdrawals by Secretary of the Interior.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1976 Amendment
 

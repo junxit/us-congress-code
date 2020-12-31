@@ -15,9 +15,13 @@ The Secretary is authorized to make such rules and regulations as may be necessa
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1998—Pub. L. 105–220, which directed the substitution of “The Secretary” for “The Director, with the approval of the Secretary of Labor,”, was executed by making the substitution for text which read in part “director” rather than “Director”, to reflect the probable intent of Congress.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1998 Amendment
 

@@ -18,6 +18,8 @@ section: 794a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Civil Rights Act of 1964, referred to in subsec. (a)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
@@ -25,6 +27,8 @@ The Civil Rights Act of 1964, referred to in subsec. (a)(2), is Pub. L. 88–352
 ### Amendments
 
 2009—Subsec. (a)(1). Pub. L. 111–2, § 5(c)(1)(A), inserted “(and the application of section 706(e)(3) (42 U.S.C. 2000e–5(e)(3)) to claims of discrimination in compensation)” after “(42 U.S.C. 2000e–5(f) through (k))”. Subsec. (a)(2). Pub. L. 111–2, § 5(c)(1)(B), inserted “(42 U.S.C. 2000d et seq.) (and in subsection (e)(3) of section 706 of such Act (42 U.S.C. 2000e–5), applied to claims of discrimination in compensation)” after “1964”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2009 Amendment
 

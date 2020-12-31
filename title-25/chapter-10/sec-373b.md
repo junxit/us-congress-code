@@ -17,9 +17,13 @@ If an Indian found to have died intestate without heirs was the holder of a rest
 
 1 So in original. Probably should be followed by a colon.
 
+### Editorial Notes
+
 ### Amendments
 
 1983—Pub. L. 98–25, § 2, inserted proviso that interests in all Burns public domain allotments located in Harney County, Oregon, belonging to Indians who die intestate without heirs shall be held in trust by the United States for the Burns Paiute Indian Colony of Oregon and shall be part of the Burns Paiute Indian Reservation. Pub. L. 98–25, § 3, substituted “$50,000” for “$2,000”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Non-Indian Lands in Harney County, Oregon
 

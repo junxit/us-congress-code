@@ -69,9 +69,13 @@ section: 579d
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of section 1301 of Pub. L. 114–322. Subsec. (g) of section 1301 of Pub. L. 114–322 amended section 579b of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### “Secretary” Defined
 

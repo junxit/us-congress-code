@@ -26,6 +26,8 @@ section: 633a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The amendments made to this section by the Age Discrimination in Employment Act Amendments of 1978, referred to in subsec. (g)(1), are amendments by section 5(a) and (e) of Pub. L. 95–256, which amended subsecs. (a), (f), and (g) of this section.
@@ -33,6 +35,8 @@ The amendments made to this section by the Age Discrimination in Employment Act 
 ### Amendments
 
 2009—Subsec. (f). Pub. L. 111–2 substituted “of sections 626(d)(3) and” for “of section”. 2006—Subsec. (a). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”. 2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”. 1998—Subsec. (a). Pub. L. 105–220 inserted “in the Smithsonian Institution,” before “and in the Government Printing Office”. 1995—Subsec. (a). Pub. L. 104–1 substituted “units of the judicial branch” for “units of the legislative and judicial branches” and inserted “Government Printing Office, the General Accounting Office, and the” before “Library of Congress”. 1978—Subsec. (a). Pub. L. 95–256, § 5(a), inserted age requirement of at least 40 years of age, and “personnel actions” after “except”. Subsecs. (f), (g). Pub. L. 95–256, § 5(e), added subsecs. (f) and (g).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 
@@ -48,7 +52,7 @@ Pub. L. 105–220, title III, § 341(d), Aug. 7, 1998, 112 Stat. 1092, which pro
 
 ### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see section 1311(d) of Title 2, The Congress.
+Amendment by Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see section 1311(e) of Title 2, The Congress.
 
 ### Effective Date of 1978 Amendment
 
@@ -57,6 +61,8 @@ Pub. L. 95–256, § 5(f), Apr. 6, 1978, 92 Stat. 192, provided that: “The ame
 ### Effective Date
 
 Section effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as an Effective Date of 1974 Amendment note under section 202 of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

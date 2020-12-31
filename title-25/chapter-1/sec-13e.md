@@ -17,6 +17,8 @@ On and after October 12, 1984, such appropriations [appropriations for the Burea
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Act of June 4, 1936, referred to in text, probably means act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended generally by act June 4, 1936, ch. 490, 49 Stat. 1458, known as the Johnson-O’Malley Act, which was classified generally to section 452 et seq. of this title prior to editorial reclassification as section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables. Act of August 3, 1956, referred to in text, probably means act Aug. 3, 1956, ch. 930, 70 Stat. 986, which is classified generally to section 309 et seq. of this title. For complete classification of this Act to the Code, see Tables.

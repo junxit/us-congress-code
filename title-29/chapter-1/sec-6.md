@@ -15,6 +15,8 @@ The Commissioner of Labor Statistics shall annually make a report in writing to 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Act Mar. 4, 1913, authorized substitution of “Commissioner of Labor Statistics” for “Commissioner of Labor”.
@@ -23,9 +25,13 @@ Act Mar. 4, 1913, authorized substitution of “Commissioner of Labor Statistics
 
 1976—Pub. L. 94–273 substituted “March” for “December”.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in this section requiring the Commissioner of Labor Statistics, on or before March 15 each year, to report to Congress on all moneys expended under the Commissioner’s direction, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 124 of House Document No. 103–7.
+
+### Executive Documents
 
 ### Transfer of Functions
 

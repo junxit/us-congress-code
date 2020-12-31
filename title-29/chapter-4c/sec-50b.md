@@ -15,6 +15,8 @@ The Secretary of Labor is authorized to appoint such employees as he may from ti
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Proviso authorizing employment of certain persons in the division of apprentice training of National Youth Administration, was omitted in view of abolition of that agency by act July 12, 1943. Provision formerly in this section relieved National Youth Administration, after August 16, 1937, of responsibility for promotion of labor standards of apprenticeship, and directed transfer of records and papers to Department of Labor.

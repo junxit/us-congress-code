@@ -83,6 +83,8 @@ section: 796k
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Part C, as in effect on the day before October 29, 1992, referred to in subsec. (b)(2)(B), means former part C (§ 796f) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, § 701(1), Oct. 29, 1992, 106 Stat. 4443.

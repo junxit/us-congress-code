@@ -15,9 +15,13 @@ In order to obtain the benefits of appropriations apportioned under section 49d 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1998—Pub. L. 105–220 substituted “, pursuant to State statute,” for “, through its legislature,”, inserted “, in accordance with such State statute, the Governor shall” after “the provisions of this chapter and”, and substituted “Secretary” for “United States Employment Service”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1998 Amendment
 

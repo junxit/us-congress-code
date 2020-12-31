@@ -15,9 +15,13 @@ It shall be the duty of the Secretary of the Army to prescribe such regulations 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 The first paragraph of this section is from section 4 of act Aug. 18, 1894, popularly known as the “River and Harbor Act of 1894”, as amended. As originally enacted, said section 4 made it the duty of the Secretary of War to prescribe rules and regulations for the use, administration, and navigation of any or all canals and similar works of navigation owned, operated, or maintained by the United States, and provided for the posting of such regulations and the punishment of violations thereof. Said section 4 was amended by section 11 of act June 13, 1902, principally by adding to the original section provisions authorizing the Secretary also to prescribe regulations to govern the speed and movement of vessels and other water craft in any public navigable channel which had been improved under authority of Congress, whenever in his judgment such regulations were necessary to protect such improved channel from injury or to prevent interference with the operations of the United States in improving navigable waters or injury to any plant that might be employed in such operations. Section 4 was also amended by section 7 of act Aug. 8, 1917, to read as set forth in the first paragraph hereof. The last paragraph of this section is from section 6 of act June 13, 1902. Said section 6 is also the source of the last proviso in section 499 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

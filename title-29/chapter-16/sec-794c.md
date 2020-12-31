@@ -20,9 +20,13 @@ section: 794c
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2014—Subsec. (a). Pub. L. 113–128 inserted “the Chairperson of the National Council on Disability,” before “and such other”. 1992—Pub. L. 102–569 amended section generally, changing Council name from Interagency Coordinating Council to Interagency Disability Coordinating Council, including as members Secretary of Housing and Urban Development, Secretary of Transportation, and such other officials as designated by the President, requiring Council to be responsible for developing and implementing policies and practices to eliminate inconsistencies among Federal departments and agencies responsible for enforcement of provisions of this subchapter and to carry out such studies and other activities, with advice from the National Council on Disability, to identify methods for overcoming barriers to integration into society, independence, and productivity of individuals with disabilities, and directing in annual report inclusion of any comments submitted by National Council on Disability as to effectiveness of activities and recommendations in meeting needs of individuals with disabilities. 1986—Pub. L. 99–506, § 602, inserted reference to Assistant Secretary of the Interior for Indian Affairs. Pub. L. 99–506, § 1001(f)(4), which directed the substitution of “Chairperson” for “Chairman” was executed by substituting “Chairperson of the Architectural and Transportation Barriers Compliance Board” for “Chairman of the Architectural and Transportation Barriers Compliance Board” to reflect the probable intent of Congress. 1984—Pub. L. 98–221 substituted “Chairman of the Office of Personnel Management” for “Chairman of the United States Civil Service Commission” and purported to substitute “Secretary of Education, the Secretary of Health and Human Services,” for “Secretary of Health, Education, and Welfare” which amendment could not be executed in view of the previous amendment by Pub. L. 96–88. See 1979 Amendment note below. 1979—Pub. L. 96–88 substituted requirement that the Secretaries of Education and Health and Human Services be members of the Council for requirement that the Secretary of Health, Education, and Welfare be a member.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1979 Amendment
 

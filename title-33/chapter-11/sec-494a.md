@@ -15,6 +15,8 @@ The Commandant of the Coast Guard shall submit to the Committee on Commerce, Sci
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Act of March 23, 1906 (33 U.S.C. 491 et seq.), popularly known as the Bridge Act of 1906, referred to in text, is act Mar. 23, 1906, ch. 1130, 34 Stat. 84, which enacted sections 491 to 494 and 495 to 498 of this title. For complete classification of this Act of the Code, see Short Title note set out under section 491 of this title and Tables.

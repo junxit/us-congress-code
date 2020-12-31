@@ -15,6 +15,8 @@ There are authorized to be appropriated to carry out this part $33,317,000 for f
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 796l, Pub. L. 93–112, title VII, § 753, as added Pub. L. 102–569, title VII, § 703(a), Oct. 29, 1992, 106 Stat. 4468, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–220.

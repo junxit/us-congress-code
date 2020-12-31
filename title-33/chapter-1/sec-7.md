@@ -15,9 +15,13 @@ The Government iron pier in Delaware Bay near Lewes, Delaware, shall be open to 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is from act July 27, 1916, popularly known as the “Rivers and Harbors Appropriation Act of 1916”. A further provision of act July 27, 1916, repealed act Mar. 3, 1891, ch. 542, 26 Stat. 969, which authorized a transfer of the iron pier to the Treasury Department.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

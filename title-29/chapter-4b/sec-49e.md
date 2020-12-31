@@ -23,6 +23,8 @@ section: 49e
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 49e, act June 6, 1933, ch. 49, § 6, 48 Stat. 115, related to apportionment of appropriations, and certification to Secretary of the Treasury, prior to repeal by act Sept. 8, 1950, ch. 933, § 3, 64 Stat. 823.
@@ -30,6 +32,8 @@ A prior section 49e, act June 6, 1933, ch. 49, § 6, 48 Stat. 115, related to ap
 ### Amendments
 
 2014—Subsec. (a). Pub. L. 113–128, § 304(1), substituted “funds appropriated and (except for Guam) certified under section 49d of this title and made available for allotments under this section” for “amounts appropriated pursuant to section 49d of this title”. Subsec. (b)(1). Pub. L. 113–128, § 304(2), in introductory provisions, inserted “after making the allotments required by subsection (a),” before “the Secretary” and substituted “funds described in subsection (a)” for “sums appropriated and certified pursuant to section 49d of this title”; in subpars. (A) and (B), substituted “remainder” for “sums”; and, in concluding provisions, inserted “For purposes of this paragraph, the term ‘State’ does not include Guam or the Virgin Islands.” at end. 1998—Subsec. (b)(1). Pub. L. 105–220 substituted “Secretary” for “Secretary of Labor” in concluding provisions.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2014 Amendment
 

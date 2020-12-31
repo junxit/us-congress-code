@@ -15,9 +15,13 @@ Any State desiring to receive assistance under section 49e of this title shall p
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2014—Pub. L. 113–128 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to submission, required content, and approval of State plans. 1998—Subsec. (a). Pub. L. 105–220, § 306(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any State desiring to receive the benefits of this chapter shall, by the agency designated to cooperate with the United States Employment Service, submit to the Secretary of Labor detailed plans for carrying out the provisions of this chapter within such State.” Subsec. (b). Pub. L. 105–220, § 306(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which contained certain requirements for plan preparation at State and national levels. Subsec. (c). Pub. L. 105–220, § 306(2), (4), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Governor of the State shall be afforded the opportunity to review and transmit to the Secretary proposed modifications of such plans submitted.” Subsec. (d). Pub. L. 105–220, § 306(5), (6), redesignated subsec. (e) as (d) and substituted “such detailed plans” for “such plans”. Former subsec. (d) redesignated (b). Subsec. (e). Pub. L. 105–220, § 306(5), redesignated subsec. (e) as (d). 1982—Pub. L. 97–300, § 601(d)(1), substituted “Secretary of Labor” for “Director” wherever appearing. Subsec. (a). Pub. L. 97–300, § 601(d)(2), designated provisions relating to the submission of a plan to the Secretary by any State desiring to receive benefits under certain sections of this chapter as subsec. (a). Subsecs. (b), (c). Pub. L. 97–300, § 601(d)(5), added subsecs. (b) and (c). Subsec. (d). Pub. L. 97–300, § 601(d)(3), designated provisions relating to the inclusion in State plans of provision for handicapped persons employment opportunities and coordination with State agencies similarly concerned as subsec. (d). Subsec. (e). Pub. L. 97–300, § 601(d)(4), designated provisions relating to approval and notice by the Secretary of the State plans as subsec. (e). 1954—Act Aug. 3, 1954, inserted provisions relating to promotion and development of employment opportunities and for job counseling and placement of handicapped persons.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2014 Amendment
 

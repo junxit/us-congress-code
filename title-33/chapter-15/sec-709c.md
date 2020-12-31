@@ -24,6 +24,8 @@ section: 709c
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### “Secretary” Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.

@@ -18,6 +18,8 @@ section: 467a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
@@ -29,6 +31,8 @@ A prior section 3 of Pub. L. 92–367 was renumbered section 4 and is classified
 ### Amendments
 
 2014—Subsec. (b)(1). Pub. L. 113–121 substituted “maintenance, condition, or provisions for emergency operations” for “or maintenance”. 1996—Pub. L. 104–303 inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Functions
 

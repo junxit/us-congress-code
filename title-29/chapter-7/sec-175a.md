@@ -25,6 +25,8 @@ section: 175a
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Short Title
 
 For short title of section 6 of Pub. L. 95–524 as the Labor Management Cooperation Act of 1978, see Short Title of 1978 Amendment note set out under section 141 of this title.

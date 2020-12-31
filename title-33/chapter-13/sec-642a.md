@@ -15,6 +15,8 @@ Any officer of the Corps of Engineers who has served or shall serve four years a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 1026b of title 10 prior to the general revision and enactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, § 1, 70A Stat. 1.

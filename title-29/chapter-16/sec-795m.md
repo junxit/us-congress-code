@@ -16,6 +16,8 @@ section: 795m
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 Provisions similar to this section were contained in section 795p of this title prior to the general amendment of this subchapter by Pub. L. 105–220. A prior section 795m, Pub. L. 93–112, title VI, § 634, as added Pub. L. 102–569, title VI, § 621(a), Oct. 29, 1992, 106 Stat. 4440, related to eligibility for services, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 795j of this title. Another prior section 795m, Pub. L. 93–112, title VI, § 634, as added Pub. L. 99–506, title VII, § 704(a)(1), Oct. 21, 1986, 100 Stat. 1835; amended Pub. L. 100–630, title II, § 207(f), Nov. 7, 1988, 102 Stat. 3313; Pub. L. 102–119, § 26(e), Oct. 7, 1991, 105 Stat. 607, provided for submission of State plans for assistance under former part C of this subchapter, prior to repeal by Pub. L. 102–569, § 621(a).

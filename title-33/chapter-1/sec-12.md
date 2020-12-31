@@ -15,6 +15,8 @@ After there shall be conveyed to the United States, free of cost, a valid title 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 This section is from a proviso following provisions establishing an additional collection district in the State of Texas to be known as the district of Sabine; the establishment of the said district being conditioned on the making of the conveyance referred to in this section. Further provisions of the said proviso authorizing the Secretary of War to accept the said waterways as the property of the United States, and directing that the Act take effect only when the requirements of the section be fully complied with to the satisfaction of the Secretary of War, have been omitted as executed and obsolete.

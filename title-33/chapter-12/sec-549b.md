@@ -18,6 +18,8 @@ section: 549b
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### “Secretary” Defined
 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under section 2201 of this title.

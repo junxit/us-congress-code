@@ -32,6 +32,8 @@ section: 893a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Subsec. (a). Pub. L. 114–329, § 314(a), substituted “the agency, with consideration given to the goal of promoting the participation of individuals identified in sections 1885a and 1885b of title 42” for “agency, with consideration given to the goal of promoting the participation of individuals from underrepresented groups”. Subsec. (b)(4)(C) to (E). Pub. L. 114–329, § 314(b), added subpars. (C) and (E) and redesignated former subpar. (C) as (D). Subsecs. (d) to (f). Pub. L. 114–329, § 314(c), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively. 2011—Subsec. (a). Pub. L. 111–358, § 302(1), substituted “agency, with consideration given to the goal of promoting the participation of individuals from underrepresented groups in STEM fields and in promoting the acquisition and retention of highly qualified and motivated young scientists to complement and supplement workforce needs.” for “the agency.” Subsec. (b). Pub. L. 111–358, § 302(3), added subsec. (b). Former subsec. (b) redesignated (c). Subsec. (c). Pub. L. 111–358, § 302(4), substituted “maintain” for “develop”. Pub. L. 111–358, § 302(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d). Subsec. (d). Pub. L. 111–358, § 302(2), redesignated subsec. (c) as (d). Subsec. (e). Pub. L. 111–358, § 302(5), added subsec. (e).

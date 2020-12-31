@@ -27,6 +27,8 @@ section: 305d
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in subsec. (b), is act Aug. 27, 1935, ch. 748, 49 Stat. 891, which is classified generally to section 305 et seq. of this title. For complete classification of this Act to the Code, see Tables.

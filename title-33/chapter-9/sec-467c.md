@@ -15,6 +15,8 @@ For the purpose of determining whether a dam (including the waters impounded by 
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 5 of Pub. L. 92–367 was classified to section 467d of this title prior to repeal by Pub. L. 104–303.

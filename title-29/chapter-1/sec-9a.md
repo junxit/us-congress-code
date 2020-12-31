@@ -17,6 +17,8 @@ All moneys hereinafter 11 So in original. Probably should be “hereafter”. re
 
 1 So in original. Probably should be “hereafter”.
 
+### Editorial Notes
+
 ### Codification
 
 This section and sections 9 and 9b of this title comprised sections 1 to 3 of act Apr. 13, 1934, which were to terminate one year after Apr. 13, 1934, pursuant to section 4 of act Apr. 13, 1934, set out as a Codification note under section 9 of this title. Such sections were temporarily extended by acts Apr. 11, 1935, and June 15, 1937, and were made permanent by act Apr. 15, 1939.

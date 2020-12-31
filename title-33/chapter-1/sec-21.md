@@ -15,6 +15,8 @@ Bayou Cocodrie, from its source to its junction with Bayou Chicot, in the State 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 The first sentence hereof is section 1 and the second sentence section 2 of act Feb. 25, 1921, entitled “An Act to declare Bayou Cocodrie nonnavigable from its source to its junction with Bayou Chicot”.

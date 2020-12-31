@@ -15,6 +15,8 @@ Land allotted to any applicant for enrollment as a citizen in the Five Civilized
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Act of March third, nineteen hundred and eleven, referred to in text, is act Mar. 3, 1911, ch. 210, 36 Stat. 1060, as amended, which, insofar as classified to the Code, enacted sections 11, 118, 143, 156, 300, and 301 of this title. For classification of this Act to the Code, see Tables.
@@ -23,9 +25,13 @@ Act of March third, nineteen hundred and eleven, referred to in text, is act Mar
 
 1948—Act June 25, 1948, struck out provisions relating to prohibiting contracts for compensation for services in relation to enrollment in the Five Civilized Tribes.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 1948 Amendment
 
 Amendment by act June 25, 1948 effective Sept. 1, 1948.
+
+### Executive Documents
 
 ### Transfer of Functions
 

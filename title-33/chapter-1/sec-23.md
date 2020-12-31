@@ -15,6 +15,8 @@ Bear Creek in Humphreys, Leflore, and Sunflower Counties, in the State of Missis
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 The first sentence hereof is section 1 and the last sentence section 2 of act Mar. 3, 1923, entitled “An Act declaring Bear Creek in Humphreys, Leflore, and Sunflower counties, Mississippi, to be a nonnavigable stream”.

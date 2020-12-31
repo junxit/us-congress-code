@@ -15,9 +15,13 @@ The Commissioner of Indian Affairs, with the approval of the Secretary of the In
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1972—Pub. L. 92–310 struck out provisions which required the superintendent of the Indian school to give a bond as other Indian agents.
+
+### Executive Documents
 
 ### Transfer of Functions
 

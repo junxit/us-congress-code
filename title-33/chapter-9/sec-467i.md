@@ -19,6 +19,8 @@ Nothing in this subchapter and no action or failure to act under this subchapter
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 467i, Pub. L. 92–367, § 10, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4262, related to consultation of Federal officers with State officials when dam operated or proposed by Federal agency is operated or proposed in a State, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685. A prior section 13 of Pub. L. 92–367 was renumbered section 14, and is classified to section 467j of this title. Another prior section 13 of Pub. L. 92–367 was classified to section 467l of this title prior to repeal by Pub. L. 104–303.

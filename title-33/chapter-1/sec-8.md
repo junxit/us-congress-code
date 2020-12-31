@@ -15,6 +15,8 @@ The Tennessee, Coosa, Cahawba, and Black Warrior Rivers, within the State of Ala
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5244 derived from act May 23, 1828, ch. 75, § 7, 4 Stat. 290. Another R.S. 5244 is classified to section 43 of Title 12, Banks and Banking.

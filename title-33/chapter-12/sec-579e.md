@@ -23,9 +23,13 @@ section: 579e
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 21 of the Federal Assets Sale and Transfer Act of 2016, referred to in subsecs. (b)(2) and (e), is section 21 of Pub. L. 114–287, which is set out in a note under section 1303 of Title 40, Public Buildings, Property, and Works.
+
+### Statutory Notes and Related Subsidiaries
 
 ### “Secretary” Defined
 

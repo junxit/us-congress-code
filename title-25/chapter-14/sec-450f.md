@@ -9,9 +9,13 @@ section: 450f
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 450f was editorially reclassified as section 5321 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Tribal Self-Governance Demonstration Project
 

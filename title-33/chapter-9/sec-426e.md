@@ -43,6 +43,8 @@ section: 426e
 
 2 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 426h of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 110–114, title II, § 2038(b), Nov. 8, 2007, 121 Stat. 1100.
@@ -54,6 +56,8 @@ Coastal Engineering Research Center, referred to in subsec. (e), has been substi
 ### Amendments
 
 1996—Subsec. (a). Pub. L. 104–303, § 227(a), inserted “and beaches” after “damage to the shores” and substituted “sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.” for “the following provisions of sections 426e to 426h of this title to assist in the construction, but not the maintenance, of works for the restoration and protection against erosion, by waves and currents, of the shores of the United States, its Territories and possessions.” Subsec. (b)(3). Pub. L. 104–303, § 227(e)(2), substituted “Secretary” for “Secretary of the Army, acting through the Chief of Engineers,” and struck out second period at end. Subsec. (e). Pub. L. 104–303, § 227(b), (e)(2)(B), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, realigned margin, inserted “or 426h” after “under section 426g”, and added pars. (2) and (3). 1970—Subsec. (b). Pub. L. 91–611 provided for designation of existing provisions as cls. (1) and (2) by insertion of “(1)” after “except that” and substitution of “(2)” for “and, further, that” and added cl. (3). 1962—Subsec. (b). Pub. L. 87–874, § 103(a)(1), (2), increased maximum limit on amount of Federal contributions from one-third to one-half of project cost, provided that costs for restoration and protection of Federal property shall be borne fully by the Federal Government, and that costs for restoration and protection of State, county and other publicly owned shore parks and conservation areas may be borne by Federal Government up to not more than 70 per centum, exclusive of land costs, when such areas include a zone which excludes permanent human habitation, include recreational beaches, satisfy criteria for conservation and development of natural resources, extend landward enough to include natural features to protect uplands, and provide essentially full park facilities for public use, all of which meet with approval of Chief of Engineers. Subsec. (e). Pub. L. 87–874, § 103(a)(3), required approval of plans by Chief of Engineers in case of a small project under section 426g of this title. 1956—Act July 28, 1956, extended assistance to privately owned shores, to include shores of Territories and possessions, substituted “restoration” for “improvement”, defined “construction”, and struck out provisions which authorized Federal aid toward the repair and protection of seawalls constructed by political subdivisions to protect important public highways.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Beach Recreation
 

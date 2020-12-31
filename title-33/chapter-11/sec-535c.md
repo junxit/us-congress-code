@@ -15,6 +15,8 @@ The approval of the Secretary of the department in which the Coast Guard is oper
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Pub. L. 114–120 substituted “Secretary of the department in which the Coast Guard is operating” for “Secretary of Transportation”.

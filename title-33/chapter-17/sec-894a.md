@@ -51,6 +51,8 @@ section: 894a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2020—Subsec. (b)(5)(B). Pub. L. 116–259 substituted “can be reported on a restricted or unrestricted basis” for “can be confidentially reported”.

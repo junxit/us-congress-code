@@ -15,6 +15,8 @@ Except for electric utility systems constructed and operated as a part of an irr
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the Senate and the House of Representatives”.

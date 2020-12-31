@@ -15,6 +15,8 @@ The Bureau of Labor Statistics of the United States Department of Labor is autho
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Provision of this section authorizing appropriations of up to $100,000 for studies by the bureau in the first fiscal year was omitted.
@@ -22,6 +24,8 @@ Provision of this section authorizing appropriations of up to $100,000 for studi
 ### Amendments
 
 1954—Act Aug. 30, 1954, repealed second par. which required Secretary of Labor to submit annually to Congress reports of findings under this section.
+
+### Executive Documents
 
 ### Transfer of Functions
 

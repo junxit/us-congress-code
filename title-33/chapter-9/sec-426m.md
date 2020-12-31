@@ -26,6 +26,8 @@ section: 426m
 
 1 So in original.
 
+### Editorial Notes
+
 ### Amendments
 
 1986—Subsec. (f). Pub. L. 99–662 amended subsec. (f) generally, substituting “such sums as may be necessary for fiscal years beginning after Sept. 30, 1986” for “not to exceed $4,000,000 per fiscal year for fiscal years 1978 and 1979”.

@@ -15,9 +15,13 @@ section: 3
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Undesignated pars. 1 to 4 of this section are from sections 1 to 4, respectively, of act July 9, 1918, popularly known as the “Army Appropriation Act of 1919”. Undesignated pars. 1 and 2 of this section superseded similar provisions of act Aug. 8, 1917, ch. 49, § 8, 40 Stat. 266.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

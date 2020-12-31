@@ -18,6 +18,8 @@ section: 535e
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 535d of this title, referred to in subsec. (b), was repealed by Pub. L. 100–17, title I, § 135(g), Apr. 2, 1987, 101 Stat. 174.

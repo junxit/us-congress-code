@@ -15,6 +15,8 @@ All of that portion of the West Fork of the South Branch of the Chicago River in
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 7 of the Act of September 19, 1890, referred to in text, is section 7 of act Sept. 19, 1890, ch. 907, 26 Stat. 454, as amended generally by act July 13, 1892, ch. 158, § 3, 27 Stat. 110, which prohibited construction of certain structures in the navigable waters of the United States, with certain conditions and exceptions, and is not classified to the Code. Provisions similar to those in section 7 of act Sept. 19, 1890, were subsequently enacted by sections 9 and 10 of act Mar. 3, 1899, ch. 425, 30 Stat. 1151, which are classified, respectively, to sections 401 and 403 of this title.
@@ -22,6 +24,8 @@ Section 7 of the Act of September 19, 1890, referred to in text, is section 7 of
 ### Codification
 
 The two sentences comprising the first paragraph of this section are, respectively, sections 1 and 2 of act Jan. 24, 1923. The second paragraph of this section is from act Feb. 27, 1923. The last paragraph of this section is from act June 7, 1924.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

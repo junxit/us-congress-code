@@ -35,6 +35,8 @@ section: 892a
 
 2 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 This subchapter, referred to in subsecs. (a) and (b), was in the original “this Act”, and was translated, to reflect the probable intent of Congress, as reading “this title”, meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, known as the Hydrographic Services Improvement Act of 1998, which is classified principally to this subchapter. For complete classification of title III to the Code, see Short Title of 1998 Amendment note set out under section 851 of this title and Tables. Subchapter VI of chapter 10 of title 40, referred to in subsec. (b)(6), probably means title IX of the Federal Property and Administrative Services Act of 1949, act June 30, 1949, ch. 288, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1278. Title IX of the Act, which was classified generally to subchapter VI (§ 541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§ 1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of act June 30, 1949, to the Code, see Tables.
@@ -42,6 +44,8 @@ This subchapter, referred to in subsecs. (a) and (b), was in the original “thi
 ### Amendments
 
 2008—Subsec. (a). Pub. L. 110–386, § 3(1), substituted “the Coast and Geodetic Survey Act, promote safe, efficient and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter,” for “the Act of 1947,” in introductory provisions. Subsec. (a)(1). Pub. L. 110–386, § 3(2), substituted “data and provide hydrographic services;” for “data;”. Subsec. (b). Pub. L. 110–386, § 3(3), added subsec. (b) and struck out former subsec. (b) which related to actions of Administrator to fulfill data gathering and dissemination duties of the Administration under the Act of 1947. 2002—Subsec. (b)(4). Pub. L. 107–372, § 103(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “may design and install where appropriate Physical Oceanographic Real-Time Systems to enhance navigation safety and efficiency.” Subsec. (c). Pub. L. 107–372, § 103(b), added subsec. (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Charting and Survey Services
 

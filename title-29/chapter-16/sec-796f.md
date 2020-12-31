@@ -37,6 +37,8 @@ section: 796f
 
 1 So in original.
 
+### Editorial Notes
+
 ### References in Text
 
 Part B of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (c)(1)(B), (C), means former part B (§ 796e) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, § 701(1), Oct. 29, 1992, 106 Stat. 4443.

@@ -24,9 +24,13 @@ section: 579f
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of section 1154 of Pub. L. 115–270. Subsec. (a) of section 1154 of Pub. L. 115–270 amended section 579a of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### “Secretary” Defined
 

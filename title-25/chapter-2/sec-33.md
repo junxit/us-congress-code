@@ -15,9 +15,13 @@ Superintendents and acting superintendents in charge of Indian reservations, sch
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is from the Indian Appropriation Act, 1914.
+
+### Executive Documents
 
 ### Transfer of Functions
 

@@ -18,6 +18,8 @@ section: 111A
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2020—Subsec. (a)(2). Pub. L. 116–159 substituted “September 30, 2022” for “September 30, 2020”. 2018—Subsec. (a)(2). Pub. L. 115–251 substituted “September 30, 2020” for “September 30, 2019”. 2017—Subsec. (a)(2). Pub. L. 115–62 substituted “September 30, 2019” for “December 31, 2017”. 2016—Subsec. (a)(2). Pub. L. 114–228 substituted “December 31, 2017” for “December 31, 2016”. 2015—Subsec. (a)(2). Pub. L. 114–58 substituted “December 31, 2016” for “December 31, 2015”. 2014—Subsec. (a)(2). Pub. L. 113–175 substituted “December 31, 2015” for “December 31, 2014”. 2013—Subsec. (a)(2). Pub. L. 113–59 substituted “December 31, 2014” for “the date that is one year after the date of the enactment of this section”. Subsec. (b). Pub. L. 112–260, § 202(b), transferred subsec. (h) of section 111 of this title to this section, redesignated it as subsec. (b), and inserted heading.

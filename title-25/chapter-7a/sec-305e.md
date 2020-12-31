@@ -55,6 +55,8 @@ section: 305e
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in subsec. (f), is act Aug. 27, 1935, ch. 748, 49 Stat. 891, as amended, which is classified generally to section 305 et seq. of this title. For complete classification of this Act to the Code, see Tables.
@@ -66,6 +68,8 @@ A prior section, act Aug. 27, 1935, ch. 748, § 6, 49 Stat. 893, related to offe
 ### Amendments
 
 2010—Subsec. (a). Pub. L. 111–211, § 102(b)(3), added subsec. (a). Former subsec. (a) redesignated (b). Subsec. (b). Pub. L. 111–211, § 102(b)(2), (4), redesignated subsec. (a) as (b) and substituted “subsection (d)” for “subsection (c)” in introductory provisions. Former subsec. (b) redesignated (c). Subsec. (c). Pub. L. 111–211, § 102(b)(2), (5), redesignated subsec. (b) as (c) and substituted “subsection (b)” for “subsection (a)” and “the civil action” for “suit”. Former subsec. (c) redesignated (d). Subsec. (d). Pub. L. 111–211, § 102(b)(6), added subsec. (d) and struck out former subsec. (d) relating to persons who may initiate civil actions. Pub. L. 111–211, § 102(b)(1), (2), redesignated subsec. (c) as (d) and struck out former subsec. (d) relating to definitions. Subsec. (e). Pub. L. 111–211, § 102(b)(7), inserted heading and substituted “If” for “In the event that”. 2000—Subsec. (a). Pub. L. 106–497, § 2(1), inserted “, directly or indirectly,” after “against a person who” in introductory provisions and inserted at end “For purposes of paragraph (2)(A), damages shall include any and all gross profits accrued by the defendant as a result of the activities found to violate this subsection.” Subsec. (c)(1)(C). Pub. L. 106–497, § 2(2)(A), added subpar. (C). Subsec. (c)(2)(A). Pub. L. 106–497, § 2(2)(B), designated existing text as cl. (i) and added cl. (ii). Subsec. (d)(2). Pub. L. 106–497, § 2(3), inserted “subject to subsection (f) of this section,” before “the terms”. Subsec. (f). Pub. L. 106–497, § 2(4), added subsec. (f).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Certification of Indian Artisans
 

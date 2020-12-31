@@ -15,9 +15,13 @@ There is authorized to be appropriated out of any sums in the Treasury not other
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in text, is act Aug. 27, 1935, ch. 748, 49 Stat. 891, which is classified generally to section 305 et seq. of this title. For complete classification of this Act to the Code, see Tables.
+
+### Executive Documents
 
 ### Transfer of Functions
 

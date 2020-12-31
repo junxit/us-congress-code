@@ -15,9 +15,13 @@ On and after March 11, 2009, the Secretary of Commerce is permitted to prescribe
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Department of Commerce Appropriations Act, 2009, which is title I of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2009, which is div. B of the Omnibus Appropriations Act, 2009.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Similar Provisions
 

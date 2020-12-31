@@ -26,6 +26,8 @@ section: 893c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 302 of this Act, referred to in subsec. (c), is section 302 of Pub. L. 111–358, which amended section 893a of this title.

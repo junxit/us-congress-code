@@ -21,9 +21,13 @@ section: 426i
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (c). Pub. L. 115–270 substituted “$12,500,000” for “$10,000,000”. 2016—Subsec. (b). Pub. L. 114–322, § 1169(1), substituted “measures, including a study, shall be cost-shared in the same proportion as the cost-sharing provisions applicable to construction of the project” for “measures under this section shall be cost-shared in the same proportion as the cost-sharing provisions applicable to the project”. Subsec. (e). Pub. L. 114–322, § 1169(2), added subsec. (e). 2014—Subsec. (c). Pub. L. 113–121 substituted “$10,000,000” for “$5,000,000”. 1999—Pub. L. 106–53 designated first sentence as subsec. (a), inserted heading, and inserted “and shore damage attributable to the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway” after “navigation works”, designated second sentence as subsec. (b) and inserted heading, and designated third sentence as subsec. (c), inserted heading, and substituted “$5,000,000” for “$2,000,000”, and added subsec. (d). 1986—Pub. L. 99–662, § 940, amended section generally. Prior to amendment, section read as follows: “The Secretary of the Army, acting through the Chief of Engineers, is authorized to investigate, study, and construct projects for the prevention or mitigation of shore damages attributable to Federal navigation works. The cost of installing, operating, and maintaining such projects shall be borne entirely by the United States. No such project shall be constructed without specific authorization by Congress if the estimated first cost exceeds $2,000,000.” Pub. L. 99–662, § 915(f), substituted “$2,000,000” for “$1,000,000”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1986 Amendment
 

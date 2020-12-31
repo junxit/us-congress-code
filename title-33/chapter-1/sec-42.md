@@ -15,6 +15,8 @@ The Platte River in the State of Missouri is declared to be a nonnavigable strea
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 The two sentences of this section are, respectively, from sections 1 and 2 of act Feb. 16, 1921, entitled “An Act declaring the Platte River to be a nonnavigable stream”.

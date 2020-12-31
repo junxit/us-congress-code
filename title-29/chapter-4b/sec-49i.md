@@ -24,9 +24,13 @@ section: 49i
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1982—Pub. L. 97–300 amended section generally, substituting provisions relating to State maintenance of records and investigations by the Secretary and Comptroller General for provisions which limited expenditures in States prior to adoption of State systems to the current fiscal year and two fiscal years thereafter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1982 Amendment
 

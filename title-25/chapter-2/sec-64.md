@@ -15,6 +15,8 @@ It shall be the duty of the President to dispense with the services of such Indi
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 2053 derived from act Feb. 14, 1873, ch. 138, § 1, 17 Stat. 437.

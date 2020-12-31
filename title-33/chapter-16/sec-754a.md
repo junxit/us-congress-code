@@ -15,9 +15,13 @@ Officers and crews of vessels of the Lighthouse Service and light keepers and de
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Pub. L. 115–232 substituted “enlisted members” for “enlisted men”.
+
+### Statutory Notes and Executive Documents
 
 ### Transfer of Functions
 

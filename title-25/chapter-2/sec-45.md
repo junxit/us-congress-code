@@ -15,9 +15,13 @@ In all cases of the appointments of interpreters or other persons employed for t
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 2069 derived from act June 30, 1834, ch. 162, § 9, 4 Stat. 737.
+
+### Executive Documents
 
 ### Transfer of Functions
 
