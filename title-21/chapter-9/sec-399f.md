@@ -25,6 +25,8 @@ section: 399f
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Food and Drug Administration Safety and Innovation Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.

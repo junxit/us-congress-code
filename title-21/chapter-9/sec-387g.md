@@ -86,6 +86,8 @@ section: 387g
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 907 of act June 25, 1938, was renumbered section 1007 and is classified to section 397 of this title.

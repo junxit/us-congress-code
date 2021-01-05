@@ -71,9 +71,13 @@ section: 360fff–3
 
 1 So in original. Probably should be preceded by “section”.
 
+### Editorial Notes
+
 ### Amendments
 
 2020—Subsec. (b)(7). Pub. L. 116–136, § 3854(b)(2), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B). Subsec. (e)(3). Pub. L. 116–136, § 3854(b)(1), amended par. (3) generally. Prior to amendment, par. (3) related to inclusion of ingredients that are subjects of final orders in the sunscreen monograph. Subsec. (f). Pub. L. 116–136, § 3854(b)(3), added subsec. (f).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Review of Nonprescription Sunscreen Active Ingredients
 

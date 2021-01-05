@@ -24,9 +24,13 @@ section: 360bb
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1997—Subsec. (a)(1). Pub. L. 105–115, § 125(b)(2)(H), struck out “the submission of an application for certification of the drug under section 357 of this title,” before “or the submission of an application for licensing of the drug” in introductory provisions, inserted “or” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “if a certification for such drug is issued under section 357 of this title, or”. Subsec. (b)(1). Pub. L. 105–115, § 125(b)(2)(I)(i), struck out “, a certificate was issued for the drug under section 357 of this title,” before “or a license was issued”. Subsec. (b)(2). Pub. L. 105–115, § 125(b)(2)(I)(ii), struck out “, a certificate has not been issued for the drug under section 357 of this title,” before “or a license has not been issued” and “, approval of an application for certification under section 357 of this title,” before “or approval of a license”. 1988—Subsec. (a)(1). Pub. L. 100–290, § 2(a), inserted after first sentence “A request for designation of a drug shall be made before the submission of an application under section 355(b) of this title for the drug, the submission of an application for certification of the drug under section 357 of this title, or the submission of an application for licensing of the drug under section 262 of title 42.” Subsecs. (b) to (d). Pub. L. 100–290, § 2(b), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. 1985—Subsec. (a)(1). Pub. L. 99–91 struck out “or” at end of subpar. (A), struck out subpar. (B) and substituted subpars. (B) and (C), and inserted “, certification,” after “approval”. 1984—Subsec. (a)(2). Pub. L. 98–551 substituted “which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which” for “which occurs so infrequently in the United States that”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1985 Amendment
 

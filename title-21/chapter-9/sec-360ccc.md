@@ -89,6 +89,8 @@ section: 360ccc
 
 3 So in original. The word “section” probably should appear.
 
+### Editorial Notes
+
 ### References in Text
 
 The Controlled Substances Act, referred to in subsec. (d)(4)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
@@ -96,6 +98,8 @@ The Controlled Substances Act, referred to in subsec. (d)(4)(A), is title II of 
 ### Amendments
 
 2018—Pub. L. 115–234, § 304(a)(1), substituted “species and certain new animal drugs” for “species” in section catchline. Subsec. (a)(1). Pub. L. 115–234, § 304(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraph (3) of this section, any person may file with the Secretary an application for conditional approval of a new animal drug intended for a minor use or a minor species. Such an application may not be a supplement to an application approved under section 360b of this title. Such application must comply in all respects with the provisions of section 360b of this title except sections 360b(a)(4), 360b(b)(2), 360b(c)(1), 360b(c)(2), 360b(c)(3), 360b(d)(1), 360b(e), 360b(h), and 360b(n) of this title unless otherwise stated in this section, and any additional provisions of this section. New animal drugs are subject to application of the same safety standards that would be applied to such drugs under section 360b(d) of this title (including, for antimicrobial new animal drugs, with respect to antimicrobial resistance).” Subsec. (a)(3). Pub. L. 115–234, § 304(a)(2)(B), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), and added subpar. (B). Subsec. (a)(4). Pub. L. 115–234, § 301(b), added par. (4). Subsec. (f)(1). Pub. L. 115–234, § 304(a)(3)(A), inserted “for the conditionally approved use” after “shall” in introductory provisions. Subsec. (f)(2). Pub. L. 115–234, § 304(a)(3)(B), substituted “The Secretary shall, through regulation or guidance, determine under what conditions an intended use” for “An intended use” and “may be included” for “shall not be included”. Subsec. (k). Pub. L. 115–234, § 304(a)(4), added subsec. (k). 2015—Subsec. (d)(4). Pub. L. 114–89 added par. (4).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Findings
 

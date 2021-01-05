@@ -22,9 +22,13 @@ section: 356g
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Subsec. (b)(1)(A). Pub. L. 115–52 substituted “identify” for “identity”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Guidance Regarding Devices Used in the Recovery, Isolation, or Delivery of Regenerative Advanced Therapies
 

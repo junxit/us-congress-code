@@ -32,9 +32,13 @@ section: 360bbb
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2007—Subsec. (c). Pub. L. 109–482 substituted “section 282(i)(3)” for “section 282(j)(3)” in concluding provisions.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2007 Amendment
 

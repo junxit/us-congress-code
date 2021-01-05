@@ -27,6 +27,8 @@ section: 360bbb–0
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Subsec. (f). Pub. L. 115–52 substituted “earlier” for “later” in introductory provisions, added par. (2), redesignated former par. (2) as (1), and struck out former par. (1) which read as follows: “the date that is 60 calendar days after December 13, 2016; or”.

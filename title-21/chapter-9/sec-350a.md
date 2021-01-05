@@ -87,9 +87,13 @@ section: 350a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1993—Subsec. (h)(1). Pub. L. 103–80 substituted “(e)(1)(B)” for “(c)(1)(B),” in concluding provisions. 1986—Subsecs. (a) to (d). Pub. L. 99–570, § 4014(a)(7), added subsecs. (a) to (d) and struck out former subsecs. (a) relating to adulteration and regulatory oversight, (b) relating to notice to the Secretary by a manufacturer and requirements and scope of that notice, (c) relating to additional notice requirements for the manufacturer, and (d) relating to procedures applicable to recalls by a manufacturer. Subsecs. (e), (f). Pub. L. 99–570, § 4014(a)(1), (7), added subsecs. (e) and (f) and redesignated former subsecs. (e) and (f) as (g) and (h), respectively. Subsec. (g). Pub. L. 99–570, § 4014(a)(1), (2), redesignated subsec. (e) as (g) and substituted “Such records shall be retained for at least one year after the expiration of the shelf life of the infant formula” for “No manufacturer shall be required under this subsection to retain any record respecting the distribution of an infant formula for a period of longer than 2 years from the date the record was made”. Former subsec. (g) redesignated (i). Subsec. (h). Pub. L. 99–570, § 4014(a)(1), redesignated subsec. (f) as (h). Subsec. (h)(1). Pub. L. 99–570, § 4014(a)(3), (4), substituted “(a), (b), and (c)” for “(a) and (b)” and “(e)(1)” for “(c)(1)”. Pub. L. 99–570, § 4014(a)(5), which directed that “(d)(1)(B)” be substituted for “(e)(1)(B)” in second sentence could not be executed because “(e)(1)(B)” did not appear. See 1993 Amendment note above. Subsec. (h)(2). Pub. L. 99–570, § 4014(a)(6), substituted “(a), (b), and (c)” for “(a) and (b)”. Subsec. (i). Pub. L. 99–570, § 4014(a)(1), (b)(1), redesignated subsec. (g) as (i), designated existing provisions as par. (1), substituted “paragraph (2)” for “subsection (a)(2) of this section”, substituted a period for the colon after “as so revised”, and added par. (2).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1980 Amendment
 

@@ -114,9 +114,13 @@ section: 384d
 
 3 So in original. Probably should be followed by “the”.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 381(q) of this title, referred to in subsec. (c)(2)(C)(ii), was in the original “301(g)”, and was translated as reading “801(q)”, meaning section 801(q) of act June 25, 1938, ch. 675, which is classified to section 381(q) of this title, to reflect the probable intent of Congress, because section 381(q) of this title relates to food certification, whereas section 301(g) of act June 25, 1938, ch. 675, which is classified to section 331(g) of this title, does not relate to food certification. Section 1622(h) of title 7, referred to in subsec. (c)(8), was in the original “section 203(h) of the Agriculture Marketing Act of 1946”, and was translated as reading “section 203(h) of the Agricultural Marketing Act of 1946”, meaning section 203(h) of act Aug. 14, 1946, ch. 966, which is classified to section 1622(h) of Title 7, Agriculture, to reflect the probable intent of Congress.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Construction
 

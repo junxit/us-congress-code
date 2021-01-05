@@ -38,6 +38,8 @@ section: 387c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (b), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables.
@@ -49,6 +51,8 @@ A prior section 903 of act June 25, 1938, was renumbered section 1003 and is cla
 ### Amendments
 
 2019—Subsec. (a)(7)(B). Pub. L. 116–94 inserted “section 387f(d)(5) of this title or of” after “violation of”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

@@ -31,6 +31,8 @@ section: 844a
 
 1 So in original. Probably should be “section”.
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 405 of Pub. L. 91–513 was renumbered section 418 and is classified to section 859 of this title.

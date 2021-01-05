@@ -62,9 +62,13 @@ section: 356c
 
 1 So in original.
 
+### Editorial Notes
+
 ### Amendments
 
 2020—Subsec. (a). Pub. L. 116–136, § 3112(a)(2), in concluding provisions, inserted “, or a permanent discontinuance in the manufacture of an active pharmaceutical ingredient or an interruption in the manufacture of the active pharmaceutical ingredient of such drug that is likely to lead to a meaningful disruption in the supply of the active pharmaceutical ingredient of such drug,” before “and the reasons” and inserted at end “Notification under this subsection shall include disclosure of reasons for the discontinuation or interruption, and if applicable, an active pharmaceutical ingredient is a reason for, or risk factor in, such discontinuation or interruption, the source of the active pharmaceutical ingredient and any alternative sources for the active pharmaceutical ingredient known by the manufacturer; whether any associated device used for preparation or administration included in the drug is a reason for, or a risk factor in, such discontinuation or interruption; the expected duration of the interruption; and such other information as the Secretary may require.” Subsec. (a)(1)(C). Pub. L. 116–136, § 3112(a)(1), inserted “or any such drug that is critical to the public health during a public health emergency declared by the Secretary under section 247d of title 42” after “during surgery”. Subsec. (g). Pub. L. 116–136, § 3111(1), which directed substitution of “the Secretary shall, as appropriate” for “the Secretary may” in par. (1), was executed by making the substitution in introductory provisions to reflect the probable intent of Congress. Subsec. (g)(1). Pub. L. 116–136, § 3111(2), inserted “prioritize and” before “expedite the review”. Subsec. (g)(2). Pub. L. 116–136, § 3111(3), inserted “prioritize and” before “expedite an inspection”. Subsec. (j). Pub. L. 116–136, § 3112(b), added subsec. (j). 2016—Subsec. (c). Pub. L. 114–255, § 3101(a)(2)(E)(i), substituted “discontinuance” for “discontinuation”. Subsec. (g)(1). Pub. L. 114–255, § 3101(a)(2)(E)(ii), substituted “section 355(j) of this title, that could help” for “section 355(j) of this title that could help”. 2012—Pub. L. 112–144 amended section generally. Prior to amendment, section related to discontinuance of life saving products.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2020 Amendment
 
@@ -81,6 +85,8 @@ Pub. L. 116–136, div. A, title III, § 3112(f), Mar. 27, 2020, 134 Stat. 363, 
 ### Effect of Notification
 
 Pub. L. 112–144, title X, § 1001(b), July 9, 2012, 126 Stat. 1101, provided that: “The submission of a notification to the Secretary of Health and Human Services (referred to in this title [see Tables for classification] as the ‘Secretary’) for purposes of complying with the requirement in section 506C(a) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 356c(a)] (as amended by subsection (a)) shall not be construed— “(1) as an admission that any product that is the subject of such notification violates any provision of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.); or “(2) as evidence of an intention to promote or market the product for an indication or use for which the product has not been approved by the Secretary.”
+
+### Executive Documents
 
 ### Ex. Ord. No. 13588. Reducing Prescription Drug Shortages
 

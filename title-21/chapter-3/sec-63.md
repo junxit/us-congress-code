@@ -15,6 +15,8 @@ Any person violating any provision of this chapter shall upon conviction thereof
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 The original text of this section contained a further provision that no penalty should be enforced for any violation occurring within 30 days after act Mar. 4, 1923 became law and was omitted as temporary and obsolete.

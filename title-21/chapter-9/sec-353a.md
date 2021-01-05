@@ -50,9 +50,13 @@ section: 353a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2013—Subsec. (a). Pub. L. 113–54, § 106(a)(1), struck out “unsolicited” before “receipt of a valid prescription” in introductory provisions. Subsec. (b)(1)(A)(i)(III). Pub. L. 113–54, § 106(a)(4), substituted “subsection (c)” for “subsection (d)”. Subsecs. (c) to (f). Pub. L. 113–54, § 106(a)(2), (3), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c). Prior to amendment, subsec. (c) read as follows: “A drug may be compounded under subsection (a) of this section only if the pharmacy, licensed pharmacist, or licensed physician does not advertise or promote the compounding of any particular drug, class of drug, or type of drug. The pharmacy, licensed pharmacist, or licensed physician may advertise and promote the compounding service provided by the licensed pharmacist or licensed physician.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

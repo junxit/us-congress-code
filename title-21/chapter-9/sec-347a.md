@@ -15,6 +15,8 @@ The Congress hereby finds and declares that the sale, or the serving in public e
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 301 of this title and Tables.
@@ -22,6 +24,8 @@ The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1
 ### Codification
 
 Section was not enacted as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

@@ -26,6 +26,8 @@ section: 387i
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 909 of act June 25, 1938, was renumbered section 1009 and is classified to section 399 of this title.

@@ -34,6 +34,8 @@ section: 387t
 
 1 So in original. Probably should be “the Family”.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 201 of the Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (a)(1), is section 201 of div. A of Pub. L. 111–31.

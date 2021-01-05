@@ -38,6 +38,8 @@ section: 862a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Social Security Act, referred to in subsecs. (a)(1), (b)(1), (e)(1), and (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables. The Food and Nutrition Act of 2008, referred to in subsecs. (a)(2), (b)(2), and (e)(2), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
@@ -49,6 +51,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 ### Amendments
 
 2014—Subsec. (a)(2). Pub. L. 113–79, § 4030(n)(1), substituted “supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012)) or any State program carried out under that Act” for “food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977) or any State program carried out under the Food Stamp Act of 1977”. Subsec. (b)(2). Pub. L. 113–79, § 4030(n)(2), substituted “supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012)), or any State program carried out under that Act” for “food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977), or any State program carried out under the Food Stamp Act of 1977”. Subsec. (e)(2). Pub. L. 113–79, § 4030(n)(3), substituted “section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012), when referring to the supplemental nutrition assistance program (as defined in that section) or any State program carried out under that Act” for “section 3(s) of the Food Stamp Act of 1977, when referring to the food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977) or any State program carried out under the Food Stamp Act of 1977”. 2008—Subsecs. (a)(2), (b)(2). Pub. L. 110–246, § 4115(c)(2)(C)(i), substituted “section 3(l)” for “section 3(h)”. Subsec. (e)(2). Pub. L. 110–246, § 4115(c)(2)(C), substituted “section 3(s)” for “section 3(m)” and “section 3(l)” for “section 3(h)”. 1997—Subsec. (d)(2). Pub. L. 105–33 substituted “a conviction if the conviction is for conduct” for “convictions”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

@@ -43,6 +43,8 @@ section: 360bbb–8
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsecs. (a)(1) and (f)(2), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title.

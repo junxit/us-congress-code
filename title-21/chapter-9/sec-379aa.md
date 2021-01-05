@@ -61,6 +61,8 @@ section: 379aa
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date
 
 Section effective 1 year after Dec. 22, 2006, see section 2(e)(1) of Pub. L. 109–462, set out as an Effective Date of 2006 Amendment note under section 352 of this title.

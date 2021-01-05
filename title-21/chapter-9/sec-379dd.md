@@ -123,6 +123,8 @@ section: 379dd
 
 1 So in original. Probably should be “subsection (g).”
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Subsec. (d)(1)(C)(ii). Pub. L. 114–255, § 3076(a)(1)(B), added cl. (ii). Former cl. (ii) redesignated (iii). Subsec. (d)(1)(C)(iii). Pub. L. 114–255, § 3076(a)(1)(A), redesignated cl. (ii) as (iii). Subsec. (d)(1)(C)(iii)(I). Pub. L. 114–255, § 3076(a)(1)(C), substituted “The ex officio members, acting pursuant to clause (i), and the Board, acting pursuant to clause (ii), shall ensure” for “The ex officio members shall ensure”. Subsec. (d)(1)(C)(iii)(II). Pub. L. 114–255, § 3076(a)(2), inserted at end “For purposes of this section, the term ‘employee of the Federal Government’ does not include a special Government employee, as that term is defined in section 202(a) of title 18.” Subsec. (d)(3)(A). Pub. L. 114–255, § 3076(a)(3), amended subpar. (A) generally. Prior to amendment, text read as follows: “The term of office of each member of the Board appointed under paragraph (1)(C) shall be 4 years, except that the terms of offices for the initial appointed members of the Board shall expire on a staggered basis as determined by the ex officio members.” Subsec. (g)(2). Pub. L. 114–255, § 3076(b), struck out before period at end “but shall not be greater than the compensation of the Commissioner”. Subsec. (m). Pub. L. 114–255, § 3076(c), substituted “are managed as individual programmatic funds under subsection (i), according to best accounting practices” for “are held in separate accounts from funds received from entities under subsection (i)”.

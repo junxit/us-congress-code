@@ -23,6 +23,8 @@ As used in this part—
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was classified to section 263c of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
@@ -30,6 +32,8 @@ Section was classified to section 263c of Title 42, The Public Health and Welfar
 ### Amendments
 
 1993—Pub. L. 103–80 amended directory language of Pub. L. 101–629, § 19(a)(4), which renumbered section 263c of Title 42, The Public Health and Welfare, as this section. 1990—Pub. L. 101–629, § 19(a)(1)(B), substituted “this part” for “this subpart” in introductory provisions. 1976—Par. (5). Pub. L. 94–484 defined “State” to include Northern Mariana Islands.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

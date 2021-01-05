@@ -21,6 +21,8 @@ section: 384e
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Subsec. (a)(1). Pub. L. 115–52 substituted “paragraph (2) or (3) of section 360(h)” for “section 360(h)(3)”. 2016—Subsec. (a)(2). Pub. L. 114–255 substituted “conducting” for “conduction”.

@@ -18,6 +18,8 @@ section: 360mm
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was classified to section 263h of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
@@ -25,6 +27,8 @@ Section was classified to section 263h of Title 42, The Public Health and Welfar
 ### Amendments
 
 1993—Pub. L. 103–80 amended directory language of Pub. L. 101–629, § 19(a)(4), which renumbered section 263h of Title 42, The Public Health and Welfare, as this section. 1992—Subsecs. (a), (b). Pub. L. 102–300 substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing. 1990—Subsec. (a). Pub. L. 101–629, § 19(a)(1)(B), (2)(D), substituted “this part” for “this subpart”, “section 360kk(h)” for “section 263f(h)”, and “section 360kk” for “section 263f”. Subsec. (b). Pub. L. 101–629, § 19(a)(2)(D), substituted “section 360kk” for “section 263f”. Subsec. (d). Pub. L. 101–629, § 19(a)(1)(B), substituted “this part” for “this subpart” in two places.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Noninterference With Other Federal Agencies
 

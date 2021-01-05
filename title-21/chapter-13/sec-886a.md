@@ -22,6 +22,8 @@ section: 886a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993, and not as part of the Controlled Substances Act which comprises this subchapter.

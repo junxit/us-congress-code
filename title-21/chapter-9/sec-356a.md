@@ -40,6 +40,8 @@ section: 356a
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date
 
 Pub. L. 105–115, title I, § 116(b), Nov. 21, 1997, 111 Stat. 2315, provided that: “The amendment made by subsection (a) [enacting this section] takes effect upon the effective date of regulations promulgated by the Secretary of Health and Human Services to implement such amendment, or upon the expiration of the 24-month period beginning on the date of the enactment of this Act [Nov. 21, 1997], whichever occurs first.”

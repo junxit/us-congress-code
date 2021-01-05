@@ -16,6 +16,8 @@ section: 379d
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 711 of act June 25, 1938, was renumbered section 731 by Pub. L. 102–571 and is classified to section 379f of this title.

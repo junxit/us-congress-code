@@ -115,6 +115,8 @@ section: 353b
 
 2 So in original. Two subsecs. (d) have been enacted.
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 503B of act June 25, 1938, ch. 675, was renumbered section 503C by Pub. L. 113–54, § 102(a)(1), Nov. 27, 2013, 127 Stat. 587, and transferred to section 353c of this title.

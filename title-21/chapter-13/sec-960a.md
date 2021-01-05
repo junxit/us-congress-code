@@ -25,6 +25,8 @@ section: 960a
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 841, referred to in the original in subsec. (a), probably should have been a reference to section 401 of Pub. L. 91–513, which is classified to section 841 of this title. Pub. L. 91–513 does not contain a section 841.

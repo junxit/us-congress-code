@@ -25,6 +25,8 @@ section: 356b
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The effective date of this subsection, referred to in subsec. (e), is Oct. 1, 2002, see Effective Date of 2002 Amendment note set out below.
@@ -32,6 +34,8 @@ The effective date of this subsection, referred to in subsec. (e), is Oct. 1, 20
 ### Amendments
 
 2012—Subsec. (e). Pub. L. 112–144 substituted “section 356(c)(2)(A) of this title” for “section 356(b)(2)(A) of this title” in two places. 2002—Subsecs. (d), (e). Pub. L. 107–188 added subsecs. (d) and (e).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2002 Amendment
 

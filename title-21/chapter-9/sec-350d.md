@@ -47,9 +47,13 @@ section: 350d
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2011—Subsec. (a)(2). Pub. L. 111–353, § 102(a)(1), (b)(1)(A), substituted “conducts business, the e-mail address for the contact person of the facility or, in the case of a foreign facility, the United States agent for the facility, and” for “conducts business and”, inserted “, or any other food categories as determined appropriate by the Secretary, including by guidance” after “Code of Federal Regulations”, and inserted after first sentence “The registration shall contain an assurance that the Secretary will be permitted to inspect such facility at the times and in the manner permitted by this chapter.” Subsec. (a)(3) to (5). Pub. L. 111–353, § 102(a)(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Subsecs. (b), (c). Pub. L. 111–353, § 102(b)(1)(B), (C), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d). Subsec. (d). Pub. L. 111–353, § 102(b)(1)(B), (d)(2), redesignated subsec. (c) as (d) and inserted “for a facility to be registered, except with respect to the reinstatement of a registration that is suspended under subsection (b)” before period at end.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Regulations
 

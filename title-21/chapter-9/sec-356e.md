@@ -32,9 +32,13 @@ section: 356e
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2020—Subsec. (d). Pub. L. 116–136 added subsec. (d). 2016—Subsec. (b)(3)(E). Pub. L. 114–255, which directed substitution of “discontinuance” for “discontinuation”, was executed by substituting “Discontinuance” for “Discontinuation” to reflect the probable intent of Congress.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2020 Amendment
 

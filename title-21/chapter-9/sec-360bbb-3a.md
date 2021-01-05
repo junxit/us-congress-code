@@ -49,6 +49,8 @@ section: 360bbb–3a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Public Health Service Act, referred to in subsecs. (b)(3), (c)(2), and (e)(2), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.

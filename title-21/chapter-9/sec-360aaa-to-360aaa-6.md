@@ -9,9 +9,13 @@ section: 360aaa to 360aaa–6
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Sections 360aaa to 360aaa–6 ceased to be effective pursuant to section 401(e) of Pub. L. 105–115, set out as an Effective and Termination Dates note below. Section 360aaa, act June 25, 1938, ch. 675, § 551, as added Pub. L. 105–115, title IV, § 401(a), Nov. 21, 1997, 111 Stat. 2356, related to requirements for dissemination of treatment information on drugs or devices. Section 360aaa–1, act June 25, 1938, ch. 675, § 552, as added Pub. L. 105–115, title IV, § 401(a), Nov. 21, 1997, 111 Stat. 2358, related to information authorized to be disseminated under section 360aaa. Section 360aaa–2, act June 25, 1938, ch. 675, § 553, as added Pub. L. 105–115, title IV, § 401(a), Nov. 21, 1997, 111 Stat. 2359, related to establishment of list of articles and publications disseminated and list of providers that received articles and reference publications. Section 360aaa–3, act June 25, 1938, ch. 675, § 554, as added Pub. L. 105–115, title IV, § 401(a), Nov. 21, 1997, 111 Stat. 2359, related to requirement regarding submission of supplemental application for new use and an exemption from that requirement. Section 360aaa–4, act June 25, 1938, ch. 675, § 555, as added Pub. L. 105–115, title IV, § 401(a), Nov. 21, 1997, 111 Stat. 2361, related to corrective actions and cessation of dissemination. Section 360aaa–5, act June 25, 1938, ch. 675, § 556, as added Pub. L. 105–115, title IV, § 401(a), Nov. 21, 1997, 111 Stat. 2362, related to definitions. Section 360aaa–6, act June 25, 1938, ch. 675, § 557, as added Pub. L. 105–115, title IV, § 401(a), Nov. 21, 1997, 111 Stat. 2363, related to rules of construction.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective and Termination Dates
 

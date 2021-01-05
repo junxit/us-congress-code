@@ -151,6 +151,8 @@ section: 335a
 
 1 So in original. Probably should be “section”.
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 306 of act June 25, 1938, was renumbered section 309 and is classified to section 336 of this title.
@@ -158,6 +160,8 @@ A prior section 306 of act June 25, 1938, was renumbered section 309 and is clas
 ### Amendments
 
 2018—Subsec. (b)(1). Pub. L. 115–271, § 3022(b)(2)(A)(i), inserted “or (3)” after “paragraph (2)” in introductory provisions. Subsec. (b)(1)(D). Pub. L. 115–271, § 3022(b)(2)(A)(ii)–(v), added subpar. (D). Subsec. (b)(3). Pub. L. 115–271, § 3022(b)(2)(B)(i), inserted “or drug” after “food” in heading. Subsec. (b)(3)(C), (D). Pub. L. 115–271, § 3022(b)(2)(B)(ii)–(iv), added subpars. (C) and (D). Subsec. (b)(5). Pub. L. 115–271, § 3022(b)(2)(C), added par. (5). 2002—Subsec. (a). Pub. L. 107–188, § 304(b)(1), substituted “Mandatory debarment; certain drug applications” for “Mandatory debarment” in heading. Subsec. (b). Pub. L. 107–188, § 304(b)(2)(A), substituted “Permissive debarment; certain drug applications; food imports” for “Permissive debarment” in heading. Subsec. (b)(1)(C). Pub. L. 107–188, § 304(a)(1), added subpar. (C). Subsec. (b)(2). Pub. L. 107–188, § 304(b)(2)(B), substituted “permissive debarment; certain drug applications” for “permissive debarment” in heading. Pub. L. 107–188, § 304(a)(2)(A), inserted “subparagraph (A) or (B) of” before “paragraph (1)” in introductory provisions. Subsec. (b)(3), (4). Pub. L. 107–188, § 304(a)(2)(B), (C), added par. (3) and redesignated former par. (3) as (4). Subsec. (c)(2)(A)(iii). Pub. L. 107–188, § 304(b)(3), substituted “paragraph (2) or (3) of subsection (b)” for “subsection (b)(2)”. Subsec. (d)(3)(A)(i). Pub. L. 107–188, § 304(b)(4)(A), substituted “subsection (a)(1) or paragraph (2)(A) or (3) of subsection (b)” for “subsection (a)(1) or (b)(2)(A)”. Subsec. (d)(3)(A)(ii)(II). Pub. L. 107–188, § 304(b)(4)(B), inserted “in applicable cases,” before “sufficient audits”. Subsec. (d)(3)(B)(i). Pub. L. 107–188, § 304(b)(4)(C), inserted “or subsection (b)(3)” after “subsection (b)(2)(B)”. Subsec. (d)(3)(B)(ii). Pub. L. 107–188, § 304(b)(4)(C), (D), inserted “or subsection (b)(3)” after “subsection (b)(2)(B)” and “or the food importation process, as the case may be” before period. Subsec. (l)(2). Pub. L. 107–188, § 304(c), in first sentence struck out “and” after “subsection (b)(2),” and inserted “, and subsection (b)(3)(A)” after “subsection (b)(2)(B)” and in second sentence inserted “, subsection (b)(3)(B),” after “subsection (b)(2)(B)”. Subsec. (m). Pub. L. 107–250 added subsec. (m). 1997—Subsec. (d)(4)(B)(ii). Pub. L. 105–115 struck out “or 357” after “355”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Construction
 

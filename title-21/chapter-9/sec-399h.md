@@ -19,6 +19,8 @@ section: 399h
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the 21st Century Cures Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.

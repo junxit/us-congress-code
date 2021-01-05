@@ -27,6 +27,8 @@ section: 360bbb–3c
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of Pub. L. 115–92, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.

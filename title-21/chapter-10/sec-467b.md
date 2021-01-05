@@ -31,6 +31,8 @@ section: 467b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1989—Subsec. (a). Pub. L. 101–205 designated first sentence as par. (1) and redesignated cls. (1) to (3) as cls. (A) to (C), respectively, designated second sentence as par. (2) and inserted “(A) be distributed in accordance with paragraph (5), or (B)” after “entry of the decree,”, designated third and fourth sentences as pars. (3) and (4), respectively, and added par. (5).

@@ -26,9 +26,13 @@ section: 353c
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 353b of this title prior to renumbering by Pub. L. 113–54.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

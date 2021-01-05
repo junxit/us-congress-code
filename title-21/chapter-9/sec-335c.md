@@ -20,6 +20,8 @@ section: 335c
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Construction
 
 This section not to preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by Pub. L. 102–282, see section 7 of Pub. L. 102–282, set out as a note under section 335a of this title.

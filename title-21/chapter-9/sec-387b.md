@@ -26,6 +26,8 @@ A tobacco product shall be deemed to be adulterated if—
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 902 of act June 25, 1938, was renumbered section 1002. Subsec. (a) of section 1002 is set out as a note under section 301 of this title. Subsecs. (b) and (c) of section 1002 are classified to section 392 of this title. Subsec. (d) of section 1002 is set out as a note under section 392 of this title.

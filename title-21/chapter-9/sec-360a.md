@@ -16,6 +16,8 @@ section: 360a
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 360a, act June 25, 1938, ch. 675, § 511, as added July 15, 1965, Pub. L. 89–74, § 3(b), 79 Stat. 227; amended Oct. 24, 1968, Pub. L. 90–639, § 2(a), 82 Stat. 1361, regulated the manufacture, compounding, and processing of depressant and stimulant drugs and their sale, delivery, disposal, possession, and recordkeeping activities connected therewith, prior to repeal by Pub. L. 91–513, title II, §§ 701(a), 704, Oct. 27, 1970, 84 Stat. 1281, 1284, effective on the first day of the seventh calendar month that began after Oct. 26, 1970.

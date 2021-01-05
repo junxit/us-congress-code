@@ -37,6 +37,8 @@ section: 335b
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 307 of act June 25, 1938, was renumbered section 310 and is classified to section 337 of this title.
@@ -44,6 +46,8 @@ A prior section 307 of act June 25, 1938, was renumbered section 310 and is clas
 ### Amendments
 
 1993—Subsec. (b)(3)(A). Pub. L. 103–80 made technical amendment to reference to May 13, 1992, to reflect correction of corresponding provision of original act.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Construction
 

@@ -25,6 +25,8 @@ section: 871a
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The Controlled Substances Act, referred to in subsec. (a)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables. Section 711(a)(1), referred to in subsec. (a)(2)(A), is section 711(a)(1) of Pub. L. 109–177, which amended section 802 of this title.
@@ -32,6 +34,8 @@ The Controlled Substances Act, referred to in subsec. (a)(1), is title II of Pub
 ### Codification
 
 Section was enacted as part of the USA PATRIOT Improvement and Reauthorization Act of 2005 and also as part of the Combat Methamphetamine Epidemic Act of 2005, and not as part of the Controlled Substances Act which comprises this subchapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

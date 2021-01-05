@@ -52,6 +52,8 @@ section: 360bbb–4a
 
 2 So in original. Probably should be designated as subpar. (B).
 
+### Editorial Notes
+
 ### References in Text
 
 Section 101(b) of the Food and Drug Administration Safety and Innovation Act, referred to in subsec. (a)(2), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title. The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.

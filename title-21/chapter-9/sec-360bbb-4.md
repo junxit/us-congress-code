@@ -93,9 +93,13 @@ section: 360bbb–4
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2019—Subsec. (f)(3) to (5). Pub. L. 116–22, § 503(1), (2), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6). Subsec. (f)(6). Pub. L. 116–22, § 503(1), (3), redesignated par. (5) as (6) and, in introductory provisions, substituted “paragraph (5)(A)” for “paragraph (4)(A)” and “paragraph (5)(B)” for “paragraph (4)(B)”. Former par. (6) redesignated (7). Subsec. (f)(7). Pub. L. 116–22, § 503(1), redesignated par. (6) as (7). Subsec. (f)(7)(A). Pub. L. 116–22, § 503(4), substituted “paragraph (4)(A)” for “paragraph (3)(A)”. 2013—Pub. L. 113–5, § 304(1), substituted “Countermeasure development, review, and technical assistance” for “Technical assistance” in section catchline. Pub. L. 113–5, § 303, designated existing provisions as subsec. (b) and inserted heading. Subsec. (a). Pub. L. 113–5, § 303, added subsec. (a). Subsec. (b). Pub. L. 113–5, § 304(2), reenacted heading without change, substituted “In order to accelerate the development, stockpiling, approval, licensure, and clearance of qualified countermeasures, security countermeasures, and qualified pandemic or epidemic products, the Secretary, in consultation with the Assistant Secretary for Preparedness and Response, shall—” for “The Secretary, in consultation with the Commissioner of Food and Drugs, shall”, added pars. (1) to (4), and designated remainder of existing provisions as par. (5). Subsecs. (c) to (e). Pub. L. 113–5, § 304(3), added subsecs. (c) to (e). Subsec. (f). Pub. L. 113–5, § 305, added subsec. (f). Subsec. (g). Pub. L. 113–5, § 306, added subsec. (g).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Predictable Review Timelines of Vaccines by the Advisory Committee on Immunization Practices
 

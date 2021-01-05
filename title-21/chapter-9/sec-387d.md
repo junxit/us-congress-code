@@ -31,9 +31,13 @@ section: 387d
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 904 of act June 25, 1938, was renumbered section 1004 and is classified to section 394 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Modification of Deadlines for Secretarial Action
 

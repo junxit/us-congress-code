@@ -52,6 +52,8 @@ section: 360ddd–1
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Subsec. (a)(1). Pub. L. 114–255, § 3101(a)(2)(S)(i), inserted “who seeks to initially introduce or deliver for introduction a designated medical gas into interstate commerce” after “any person” in introductory provisions. Subsec. (a)(3)(A)(i)(VIII). Pub. L. 114–255, § 3101(a)(2)(S)(ii)(I)(aa), inserted “for a new drug” after “any period of exclusivity”. Subsec. (a)(3)(A)(ii). Pub. L. 114–255, § 3101(a)(2)(S)(ii)(I)(bb), inserted “the” before “final use” in introductory provisions. Subsec. (a)(3)(B)(i). Pub. L. 114–255, § 3101(a)(2)(S)(ii)(II)(aa), inserted “for a new drug” after “any period of exclusivity”. Subsec. (a)(3)(B)(ii). Pub. L. 114–255, § 3101(a)(2)(S)(ii)(II)(bb), inserted comma after “drug product”.

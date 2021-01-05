@@ -65,6 +65,8 @@ section: 360n
 
 1 So in original. The period probably should be a semicolon.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), is section 101(c) of Pub. L. 110–85, which is set out as a note under section 379g of this title.
@@ -72,6 +74,8 @@ Section 101(c) of the Food and Drug Administration Amendments Act of 2007, refer
 ### Amendments
 
 2017—Subsec. (a)(4)(A)(iii), (iv). Pub. L. 115–52 added cls. (iii) and (iv). 2016—Subsec. (a)(3)(Q). Pub. L. 114–146, § 2(2), substituted “Filovirus Diseases” for “Filoviruses”. Subsec. (a)(3)(R), (S). Pub. L. 114–146, § 2(1), (3), added subpar. (R) and redesignated former subpar. (R) as (S). Subsec. (c)(4)(A). Pub. L. 114–255 made technical amendment to reference in original act which appears in text as reference to section 262 of title 42. 2014—Subsec. (a)(3)(Q), (R). Pub. L. 113–233, § 2(1), added subpar. (Q), redesignated former subpar. (Q) as (R), and in subpar. (R) substituted “order of” for “regulation by”. Subsec. (b)(2). Pub. L. 113–233, § 2(2)(A), inserted at end “There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.” Subsec. (b)(4). Pub. L. 113–233, § 2(2)(B), substituted “90 days” for “365 days”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2017 Amendment
 

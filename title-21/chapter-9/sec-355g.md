@@ -45,6 +45,8 @@ section: 355g
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Subsec. (b). Pub. L. 115–52, § 901(c), substituted “traditional” for “randomized”. Subsec. (d). Pub. L. 115–52, § 901(d), substituted “3 years” for “2 years”.

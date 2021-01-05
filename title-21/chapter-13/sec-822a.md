@@ -23,9 +23,13 @@ section: 822a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2016, and not as part of the Controlled Substances Act which comprises this subchapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Access to Increased Drug Disposal
 

@@ -26,6 +26,8 @@ section: 360jj
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Atomic Energy Act of 1954, referred to in subsec. (a)(1)(A), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
@@ -37,6 +39,8 @@ Section was classified to section 263e of Title 42, The Public Health and Welfar
 ### Amendments
 
 1993—Pub. L. 103–80 amended directory language of Pub. L. 101–629, § 19(a)(4), which renumbered section 263e of Title 42, The Public Health and Welfare, as this section. 1990—Subsec. (a)(3). Pub. L. 101–629, § 19(a)(1)(B), substituted “this part” for “this subpart”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Noninterference With Other Federal Agencies
 

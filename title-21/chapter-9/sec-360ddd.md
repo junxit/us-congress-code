@@ -28,9 +28,13 @@ In this part:
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Par. (1)(H). Pub. L. 114–255 inserted “for a new drug” after “any period of exclusivity” and “or any period of exclusivity for a new animal drug under section 360b(c)(2)(F) of this title,” after “section 355a of this title,”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Changes to Regulations
 

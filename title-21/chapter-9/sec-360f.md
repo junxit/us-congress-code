@@ -18,6 +18,8 @@ section: 360f
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1990—Subsec. (a). Pub. L. 101–629 struck out “and after consultation with the appropriate panel or panels under section 360c of this title” after “data and information” in introductory provisions and struck out at end “The Secretary shall afford all interested persons opportunity for an informal hearing on a regulation proposed under this subsection.”

@@ -24,9 +24,13 @@ section: 350b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2011—Subsecs. (c), (d). Pub. L. 111–353 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Guidance
 

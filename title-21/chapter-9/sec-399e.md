@@ -25,6 +25,8 @@ section: 399e
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 301 of this title and Tables. This Act, referred to in subsec. (b)(6), is Pub. L. 112–144, July 9, 2012, 126 Stat. 993, known as the Food and Drug Administration Safety and Innovation Act. For complete classification of this Act to the Code, see Tables.

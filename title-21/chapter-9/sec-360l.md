@@ -30,9 +30,13 @@ section: 360l
 
 1 So in original. Probably should be “this”.
 
+### Editorial Notes
+
 ### Amendments
 
 2012—Subsec. (a)(1)(A). Pub. L. 112–144, § 616(1), inserted “, at the time of approval or clearance of a device or at any time thereafter,” after “by order” in introductory provisions. Subsec. (b)(1). Pub. L. 112–144, § 616(2), inserted “The manufacturer shall commence surveillance under this section not later than 15 months after the day on which the Secretary issues an order under this section.” after “the public health.” 2007—Pub. L. 110–85, § 307(1), made technical amendment to section catchline. Subsec. (a). Pub. L. 110–85, § 307(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary may by order require a manufacturer to conduct postmarket surveillance for any device of the manufacturer which is a class II or class III device the failure of which would be reasonably likely to have serious adverse health consequences or which is intended to be— “(1) implanted in the human body for more than one year, or “(2) a life sustaining or life supporting device used outside a device user facility.” Subsec. (b). Pub. L. 110–85, § 307(3), designated existing provisions as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), the Secretary, in consultation” for “The Secretary, in consultation” and “Except as provided in paragraph (2), any determination” for “Any determination”, and added par. (2). Subsec. (c). Pub. L. 110–85, § 307(3)(D), added subsec. (c). 1997—Pub. L. 105–115 amended section generally, substituting present provisions for former provisions which related to required surveillance, discretionary surveillance, and surveillance approval. 1992—Subsec. (b). Pub. L. 102–300 substituted “(a)(1)” for “(a)”, inserted comma after “commerce”, and inserted after first sentence “Each manufacturer required to conduct a surveillance of a device under subsection (a)(2) of this section shall, within 30 days after receiving notice that the manufacturer is required to conduct such surveillance, submit, for the approval of the Secretary, a protocol for the required surveillance.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1997 Amendment
 

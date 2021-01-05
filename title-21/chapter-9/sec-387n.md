@@ -20,6 +20,8 @@ section: 387n
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Cigarette Labeling and Advertising Act, referred to in subsec. (b), is Pub. L. 89–92, July 27, 1965, 79 Stat. 282, which is classified generally to chapter 36 (§ 1331 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 15 and Tables. The Comprehensive Smokeless Tobacco Health Education Act of 1986, referred to in subsec. (b), is Pub. L. 99–252, Feb. 27, 1986, 100 Stat. 30, which is classified principally to chapter 70 (§ 4401 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 4401 of Title 15 and Tables.

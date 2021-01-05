@@ -15,6 +15,8 @@ Any person, firm or corporation, or association who shall knowingly pack or caus
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is also set out as section 233 of Title 15, Commerce and Trade.

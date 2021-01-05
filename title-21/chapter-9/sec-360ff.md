@@ -99,6 +99,8 @@ section: 360ff
 
 2 So in original.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (a)(1), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title. The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
@@ -106,6 +108,8 @@ Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to
 ### Amendments
 
 2020—Subsec. (b)(5). Pub. L. 116–215 substituted “December 18, 2020” for “December 11, 2020” in introductory provisions and in subpar. (A) and substituted “December 18, 2022” for “December 11, 2022” in subpar. (B). Pub. L. 116–159 substituted “December 11, 2020” for “September 30, 2020” in introductory provisions and in subpar. (A) and substituted “December 11, 2022” for “September 30, 2022” in subpar. (B). 2016—Subsec. (a)(3)(A). Pub. L. 114–229, § 2(a)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The disease primarily affects individuals aged from birth to 18 years, including age groups often called neonates, infants, children, and adolescents.” Subsec. (a)(4)(F). Pub. L. 114–229, § 2(a)(1)(B), substituted “September 30, 2016” for “July 9, 2012”. Subsec. (b)(4). Pub. L. 114–229, § 2(a)(2)(A), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “(A) In general.—The sponsor of a human drug application shall notify the Secretary not later than 90 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay for the user fee to be assessed in accordance with this section. “(B) Transfer after notice.—The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under subparagraph (A) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification.” Subsec. (b)(5). Pub. L. 114–255 added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The Secretary may not award any priority review vouchers under paragraph (1) after December 31, 2016.” Pub. L. 114–229, § 2(a)(2)(B), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The Secretary may not award any priority review vouchers under paragraph (1) after September 30, 2016.” Subsec. (g). Pub. L. 114–229, § 2(a)(3), inserted before period at end “, except that no sponsor of a rare pediatric disease product application may receive more than one priority review voucher issued under any section of this chapter with respect to the drug for which the application is made.” 2015—Subsec. (b)(5). Pub. L. 114–113 substituted “September 30, 2016.” for “the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Construction
 

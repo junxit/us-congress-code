@@ -59,6 +59,8 @@ section: 552b
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 552(e) of this title, referred to in subsec. (a)(1), was redesignated section 552(f) of this title by section 1802(b) of Pub. L. 99–570. 180 days after the date of enactment of this section, referred to in subsec. (g), means 180 days after the date of enactment of Pub. L. 94–409, which was approved Sept. 13, 1976.
@@ -66,6 +68,8 @@ Section 552(e) of this title, referred to in subsec. (a)(1), was redesignated se
 ### Amendments
 
 1995—Subsec. (j). Pub. L. 104–66 amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “Each agency subject to the requirements of this section shall annually report to Congress regarding its compliance with such requirements, including a tabulation of the total number of agency meetings open to the public, the total number of meetings closed to the public, the reasons for closing such meetings, and a description of any litigation brought against the agency under this section, including any costs assessed against the agency in such litigation (whether or not paid by the agency).”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

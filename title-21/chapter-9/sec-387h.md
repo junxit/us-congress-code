@@ -26,6 +26,8 @@ section: 387h
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 908 of act June 25, 1938, was renumbered section 1008 and is classified to section 398 of this title.

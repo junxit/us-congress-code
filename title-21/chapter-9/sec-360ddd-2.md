@@ -15,6 +15,8 @@ A designated medical gas, alone or in combination with another designated gas or
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Pub. L. 114–255 inserted “or 379j–12(a)” after “section 379h(a)”.

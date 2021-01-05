@@ -16,6 +16,8 @@ section: 360bbb–8b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Pub. L. 114–255 substituted “drug, biological product, or device” for “drug or device” wherever appearing.

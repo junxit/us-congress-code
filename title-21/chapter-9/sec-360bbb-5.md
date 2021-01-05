@@ -32,6 +32,8 @@ section: 360bbb–5
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Subsec. (f). Pub. L. 115–52 substituted “2018 through 2022” for “2013 through 2017”. 2012—Subsec. (f). Pub. L. 112–144 amended subsec. (f) generally. Prior to amendment, text read as follows: “To carry out this section, there are authorized to be appropriated $5,000,000 for fiscal year 2008 and such sums as may be necessary for each of fiscal years 2009 through 2012.”

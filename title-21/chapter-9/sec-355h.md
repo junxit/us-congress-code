@@ -269,6 +269,8 @@ section: 355h
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Drugs Excluded From the Over-the-Counter Drug Review
 
 Pub. L. 116–136, div. A, title III, § 3853, Mar. 27, 2020, 134 Stat. 454, provided that: “(a) In General.—Nothing in this Act [probably should be “this subtitle”, meaning subtitle F (§§ 3851–3862) of title III of div. A of Pub. L. 116–136, enacting this section, section 360fff–8 of this title, and subpart 10 of part C of subchapter VII of this chapter, amending sections 352, 360fff–3, 379j–52, 379r, and 381 of this title, repealing section 360fff–5 of this title, and enacting provisions set out as notes under this section and sections 360fff–3, 360fff–6, 379j–52, and 379j–71 of this title] (or the amendments made by this Act) shall apply to any nonprescription drug (as defined in section 505G(q) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355h(q)], as added by section 3851 of this subtitle) which was excluded by the Food and Drug Administration from the Over-the-Counter Drug Review in accordance with the paragraph numbered 25 on page 9466 of volume 37 of the Federal Register, published on May 11, 1972. “(b) Rule of Construction.—Nothing in this section shall be construed to preclude or limit the applicability of any other provision of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.).”

@@ -27,6 +27,8 @@ section: 360ee
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Orphan Drug Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
@@ -34,6 +36,8 @@ Section was enacted as part of the Orphan Drug Act, and not as part of the Feder
 ### Amendments
 
 2017—Subsec. (c). Pub. L. 115–52 substituted “2018 through 2022” for “2013 through 2017”. 2016—Subsec. (a)(1). Pub. L. 114–255, § 3015(1), added par. (1) and struck out former par. (1) which read as follows: “defraying the costs of qualified testing expenses incurred in connection with the development of drugs for rare diseases and conditions,”. Subsec. (b)(1)(C). Pub. L. 114–255, § 3015(2), added subpar. (C). 2012—Subsec. (b)(1)(A)(ii). Pub. L. 112–144, § 906(a), struck out “after the date such drug is designated under section 360bb of this title and” after “which occurs”. Subsec. (c). Pub. L. 112–144, § 906(b), amended subsec. (c) generally. Prior to amendment, text read as follows: “For grants and contracts under subsection (a), there is authorized to be appropriated $30,000,000 for each of fiscal years 2008 through 2012.” 2007—Subsec. (c). Pub. L. 110–85 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants and contracts under subsection (a) of this section, there are authorized to be appropriated such sums as already have been appropriated for fiscal year 2002, and $25,000,000 for each of the fiscal years 2003 through 2006.” 2002—Subsec. (c). Pub. L. 107–281 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants and contracts under subsection (a) of this section there are authorized to be appropriated $10,000,000 for fiscal year 1988, $12,000,000 for fiscal year 1989, $14,000,000 for fiscal year 1990.” 1997—Subsec. (b)(1)(A)(ii), (B). Pub. L. 105–115 struck out “or 357” after “355(b)”. 1988—Subsec. (a). Pub. L. 100–290, § 3(a)(1), (b)(1), inserted “(1)” after “assist in” and added pars. (2) and (3). Subsec. (b)(2). Pub. L. 100–290, § 3(a)(2), (b)(2), inserted “(1) in the case of a drug,” after “means”, added cls. (2) and (3), and substituted “under section 360bb of this title” for “under this subsection” in last sentence. Subsec. (b)(3). Pub. L. 100–290, § 3(b)(3), added par. (3). Subsec. (c). Pub. L. 100–290, § 3(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants and contracts under subsection (a) of this section there are authorized to be appropriated $4,000,000 for fiscal year 1986, $4,000,000 for fiscal year 1987, and $4,000,000 for fiscal year 1988.” 1985—Subsec. (a). Pub. L. 99–91, § 5(a)(1), struck out “clinical” before “testing”. Subsec. (b)(1). Pub. L. 99–91, § 5(a)(2), substituted provisions defining “qualified testing” for provisions defining “qualified clinical testing”. Subsec. (c). Pub. L. 99–91, § 5(b), substituted provisions authorizing appropriations for fiscal years 1986 to 1988, for provisions authorizing appropriations for fiscal years 1983 and the two succeeding fiscal years. 1984—Subsec. (b)(2). Pub. L. 98–551 substituted “which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which” for “which occurs so infrequently in the United States that”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1985 Amendment
 

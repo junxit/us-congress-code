@@ -38,6 +38,8 @@ section: 356h
 
 1 So in original. Probably should be “drug”.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Guidance; Amended Regulations
 
 Pub. L. 115–52, title VIII, § 803(b), Aug. 18, 2017, 131 Stat. 1071, provided that: “(1) In general.—“(A) Issuance.—The Secretary of Health and Human Services shall—“(i) not later than 18 months after the date of enactment of this Act [Aug. 18, 2017], issue draft guidance on section 506H of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 356h], as added by subsection (a); and “(ii) not later than 1 year after the close of the comment period for the draft guidance, issue final guidance on such section 506H. “(B) Contents.—The guidance issued under this paragraph shall—“(i) specify the process and criteria by which the Secretary makes a designation under section 506H of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a); “(ii) specify the actions the Secretary may take to expedite the development and review of a competitive generic therapy pursuant to such a designation; and “(iii) include good review management practices for competitive generic therapies. “(2) Amended regulations.—The Secretary of Health and Human Services shall issue or revise any regulations as may be necessary to carry out this section not later than 2 years after the date of enactment of this Act [Aug. 18, 2017].”

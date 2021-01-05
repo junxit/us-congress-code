@@ -15,6 +15,8 @@ The Secretary is authorized (1) to accept from State and local authorities engag
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was classified to section 263m of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
@@ -22,6 +24,8 @@ Section was classified to section 263m of Title 42, The Public Health and Welfar
 ### Amendments
 
 1993—Pub. L. 103–80 amended directory language of Pub. L. 101–629, § 19(a)(4), which renumbered section 263m of Title 42, The Public Health and Welfare, as this section. 1990—Pub. L. 101–629, § 19(a)(1)(B), substituted “this part” for “this subpart”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Noninterference With Other Federal Agencies
 

@@ -107,6 +107,8 @@ section: 350f
 
 3 So in original. Probably should be “in section”.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 350d(a)(3), (4) of this title, referred to in subsecs. (e)(1) and (k), was redesignated section 350d(a)(4), (5), respectively, of this title by Pub. L. 111–353, title I, § 102(a)(2), Jan. 4, 2011, 124 Stat. 3887.
@@ -114,6 +116,8 @@ Section 350d(a)(3), (4) of this title, referred to in subsecs. (e)(1) and (k), w
 ### Amendments
 
 2011—Subsecs. (f) to (n). Pub. L. 111–353 added subsecs. (f) to (h) and redesignated former subsecs. (f) to (k) as (i) to (n), respectively.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

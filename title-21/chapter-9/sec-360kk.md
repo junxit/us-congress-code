@@ -45,6 +45,8 @@ section: 360kk
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was classified to section 263f of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
@@ -52,6 +54,8 @@ Section was classified to section 263f of Title 42, The Public Health and Welfar
 ### Amendments
 
 1993—Pub. L. 103–80, § 4(a)(2), amended directory language of Pub. L. 101–629, § 19(a)(4), which renumbered section 263f of Title 42, The Public Health and Welfare, as this section. Subsec. (f)(2). Pub. L. 103–80, § 3(w), made technical amendment to reference to section 210 of title 42 to reflect correction of corresponding provision of original act. 1990—Subsec. (a)(1)(E). Pub. L. 101–629, § 19(a)(2)(B), substituted “section 360hh” for “section 263c”. Subsecs. (e), (f)(1)(A). Pub. L. 101–629, § 19(a)(1)(B), substituted “this part” for “this subpart”. 1970—Subsec. (f)(2). Pub. L. 91–515 struck out provisions related to payment of compensation and travel expenses of members of the Committee who are not officers or employees of the United States, and substituted “to members of the Committee who are not officers or employees of the United States pursuant to subsection (c) of section 210 of title 42” for “under this subsection”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Noninterference With Other Federal Agencies
 

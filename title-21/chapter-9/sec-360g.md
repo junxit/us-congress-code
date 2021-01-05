@@ -29,9 +29,13 @@ section: 360g
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2012—Subsec. (a)(1). Pub. L. 112–144 substituted “, an administrative order changing the classification of a device to class I,” for “or changing the classification of a device to class I”. 1997—Subsec. (a)(8). Pub. L. 105–115, § 216(a)(2)(A), inserted “or” at end. Subsec. (a)(9). Pub. L. 105–115, § 216(a)(2)(B), substituted comma for “, or” at end. Subsec. (a)(10). Pub. L. 105–115, § 216(a)(2)(C), struck out par. (10) which read as follows: “an order under section 360j(h)(4)(B) of this title,”. 1992—Subsec. (a)(10). Pub. L. 102–300 substituted “360j(h)(4)(B)” for “360j(c)(4)(B)”. 1990—Subsec. (a)(8) to (10). Pub. L. 101–629 added pars. (8) to (10).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1997 Amendment
 

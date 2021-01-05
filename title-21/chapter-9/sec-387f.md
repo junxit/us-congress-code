@@ -61,6 +61,8 @@ section: 387f
 
 1 So in original. Probably should be “are”.
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 906 of act June 25, 1938, was renumbered section 1006 and is classified to section 396 of this title.
@@ -68,6 +70,8 @@ A prior section 906 of act June 25, 1938, was renumbered section 1006 and is cla
 ### Amendments
 
 2019—Subsec. (d)(3)(A)(ii). Pub. L. 116–94, § 603(a)(1), substituted “21 years” for “18 years”. Subsec. (d)(5). Pub. L. 116–94, § 603(a)(2), added par. (5).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Regulations
 

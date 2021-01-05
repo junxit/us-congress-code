@@ -38,6 +38,8 @@ section: 679a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees. The Food and Agriculture Act of 1977, referred to in subsec. (h), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of Title 7 and Tables. The Poultry Products Inspection Act, referred to in subsec. (i), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10 (§ 451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
@@ -45,6 +47,8 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 ### Prior Provisions
 
 A prior section 410 of act Mar. 4, 1907, was renumbered section 411, and is classified to section 680 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Use of Appropriated Funds
 

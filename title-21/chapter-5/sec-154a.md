@@ -24,9 +24,13 @@ In order to meet an emergency condition, limited market or local situation, or o
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 See note set out under section 151 of this title. Another section 1768 of Pub. L. 99–198, cited as a credit to this section, amended section 136y of Title 7, Agriculture.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

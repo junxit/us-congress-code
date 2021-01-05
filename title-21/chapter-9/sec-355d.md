@@ -15,6 +15,8 @@ The Secretary shall establish an internal committee within the Food and Drug Adm
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Pub. L. 115–52 inserted “or pediatric rare diseases” after “psychiatry”. 2012—Pub. L. 112–144 inserted “deferral extensions,” after “deferrals,” in section catchline and “neonatology,” after “pediatric ethics,” in text.

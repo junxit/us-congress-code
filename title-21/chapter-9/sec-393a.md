@@ -22,6 +22,8 @@ section: 393a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Best Pharmaceuticals for Children Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.

@@ -33,6 +33,8 @@ section: 360bbb–8c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (a)(4), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title.
@@ -40,6 +42,8 @@ Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to
 ### Amendments
 
 2017—Subsec. (c)(2)(A). Pub. L. 115–52 substituted “impact (including physical and psychosocial impacts) of such disease or condition, or a related therapy or clinical investigation” for “impact of such disease or condition, or a related therapy,”. 2016—Subsec. (a). Pub. L. 114–255, § 3001(1), (2), substituted “Patient engagement in drugs and devices” for “In general” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated subsecs. (b) to (e) as as pars. (2) to (5), respectively, and realigned margins. Subsecs. (b), (c). Pub. L. 114–255, § 3001(3), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated pars. (2) and (3), respectively, of subsec. (a). Subsecs. (d), (e). Pub. L. 114–255, § 3001(2), redesignated subsecs. (d) and (e) as pars. (4) and (5), respectively, of subsec. (a).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Patient-Focused Drug Development Guidance
 

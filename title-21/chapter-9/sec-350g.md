@@ -121,6 +121,8 @@ section: 350g
 
 1 So in original. Probably should be “title”.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date
 
 Pub. L. 111–353, title I, § 103(i), Jan. 4, 2011, 124 Stat. 3898, provided that: “(1) General rule.—The amendments made by this section [enacting this section and amending section 331 of this title] shall take effect 18 months after the date of enactment of this Act [Jan. 4, 2011]. “(2) Flexibility for small businesses.—Notwithstanding paragraph (1)—“(A) the amendments made by this section shall apply to a small business (as defined in the regulations promulgated under section 418(n) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350g(n)] (as added by this section)) beginning on the date that is 6 months after the effective date of such regulations; and “(B) the amendments made by this section shall apply to a very small business (as defined in such regulations) beginning on the date that is 18 months after the effective date of such regulations.”

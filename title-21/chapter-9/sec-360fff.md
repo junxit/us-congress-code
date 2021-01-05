@@ -36,6 +36,8 @@ In this part—
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Construction
 
 Pub. L. 113–195, § 2(b), Nov. 26, 2014, 128 Stat. 2045, provided that: “Nothing in the amendment made by this section [enacting this section and sections 360fff–1 to [former] 360fff–5 of this title] shall be construed to— “(1) limit the right of a sponsor (as defined in section 586(8) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360fff(8)], as added by subsection (a)) to request that the Secretary of Health and Human Services convene an advisory committee; or “(2) limit the authority of the Secretary of Health and Human Services to meet with a sponsor (as defined in section 586(8) of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a)).”
