@@ -15,6 +15,8 @@ Every director must, during his whole term of service, be a citizen of the Unite
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5146 derived from act June 3, 1864, ch. 106, §§ 9, 10, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.

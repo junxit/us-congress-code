@@ -49,6 +49,8 @@ section: 25b
 
 1 So in original. No par. (2) has been enacted.
 
+### Editorial Notes
+
 ### References in Text
 
 The International Banking Act of 1978, referred to in subsec. (a)(1)(B), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted chapter 32 (§ 3101 et seq.) and sections 347d and 611a of this title, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of this title, and enacted provisions set out as notes under sections 247, 611a, and 3101 of this title and formerly set out as notes under sections 36, 247, and 601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables. Title 62 of the Revised Statutes, referred to in subsecs. (b)(1)(C), (2), (4), (5)(A), (e), (f), (h)(2), (i)(1), and (j), was in the original a reference to “this title” or “This title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables. For classification of title LXII of the Revised Statutes of the United States, referred to in subsec. (b)(5)(B), see note above.
@@ -56,6 +58,8 @@ The International Banking Act of 1978, referred to in subsec. (a)(1)(B), is Pub.
 ### Amendments
 
 2010—Subsec. (h). Pub. L. 111–203, § 1045, added subsec. (h). Subsecs. (i), (j). Pub. L. 111–203, § 1047(a), added subsecs. (i) and (j).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

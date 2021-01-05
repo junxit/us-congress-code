@@ -17,6 +17,8 @@ The Comptroller of the Currency shall make an annual report to Congress. The rep
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 57a(f)(7) of title 15, referred to in text, was repealed by Pub. L. 111–203, title X, § 1092(3), July 21, 2010, 124 Stat. 2095.
@@ -28,6 +30,8 @@ R.S. § 333 derived from acts June 3, 1864, ch. 106, § 61, 13 Stat. 117, and Fe
 ### Amendments
 
 2000—Pub. L. 106–569 inserted at end “The report required under this section shall include the report required under section 57a(f)(7) of title 15.” 1946—Act Aug. 7, 1946, repealed in the opening clause, the requirement that the report to Congress shall be submitted at the commencement of its session, and repealed all provisions prescribing contents of the exhibits in the report.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Exception as to Transfer of Functions
 

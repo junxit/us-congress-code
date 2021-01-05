@@ -31,9 +31,13 @@ section: 248a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1987—Subsec. (e). Pub. L. 100–86 added subsec. (e).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1987 Amendment
 

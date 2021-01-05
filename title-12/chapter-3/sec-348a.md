@@ -15,6 +15,8 @@ The Board of Governors of the Federal Reserve System shall exercise special supe
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.

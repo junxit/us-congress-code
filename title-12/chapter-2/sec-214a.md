@@ -18,6 +18,8 @@ A national banking association may, by vote of the holders of at least two-third
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1980—Subsec. (b). Pub. L. 96–221 substituted “majority” for “unanimous”. 1960—Subsec. (a). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.

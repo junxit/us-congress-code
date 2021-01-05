@@ -16,6 +16,8 @@ section: 60
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5199 derived from act June 3, 1864, ch. 106, § 33, 13 Stat. 109, which was the National Bank Act. See section 38 of this title.

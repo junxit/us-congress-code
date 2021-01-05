@@ -15,6 +15,8 @@ Notwithstanding the provisions of section 955 of title 18, any person, including
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 9 of act July 31, 1945, ch. 341, was renumbered section 8 and is classified to section 635g of this title.

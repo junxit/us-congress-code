@@ -19,6 +19,8 @@ The additional liability imposed upon shareholders in national banking associati
 
 2 So in original. Probably should be “months”.
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 63 and 64 of this title, referred to in text, were repealed by Pub. L. 86–230, § 7, Sept. 8, 1959, 73 Stat. 457.
@@ -26,6 +28,8 @@ Sections 63 and 64 of this title, referred to in text, were repealed by Pub. L. 
 ### Amendments
 
 1953—Act May 18, 1953, provided for termination of the additional liability, referred to in the section, by action of the Comptroller of the Currency with regard to those associations which had not, prior to May 18, 1953, caused notice of termination to be published. 1935—Act Aug. 23, 1935, added second and third sentences.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Exception as to Transfer of Functions
 

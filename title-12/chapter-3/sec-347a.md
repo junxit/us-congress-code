@@ -17,9 +17,13 @@ Upon receiving the consent of not less than five members of the Board of Governo
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 347b of this title, referred to in first par., was in the original a reference to section 10(b), meaning section 10(b) of the Federal Reserve Act. Section 10(b) of that Act was renumbered section 10B by Pub. L. 102–242, title I, § 142(a)(2), Dec. 19, 1991, 105 Stat. 2279, without a corresponding amendment to this section.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

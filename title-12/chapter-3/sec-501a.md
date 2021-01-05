@@ -15,6 +15,8 @@ Should any national banking association in the United States now organized fail 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables. The national-bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
@@ -22,6 +24,8 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 ### Codification
 
 Section is comprised of the sixth and seventh pars. of section 2 of act Dec. 23, 1913. For classification of other pars. of section 2 of this Act, see Codification note set out under section 222 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

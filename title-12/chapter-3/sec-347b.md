@@ -49,6 +49,8 @@ section: 347b
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsec. (b)(4), was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
@@ -56,6 +58,8 @@ This chapter, referred to in subsec. (b)(4), was in the original “this Act”,
 ### Amendments
 
 2006—Subsec. (b)(3)(A)(ii). Pub. L. 109–173 substituted “the Deposit Insurance Fund of” for “any deposit insurance fund in”. Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(9). See 1996 Amendment note below. 1996—Subsec. (b)(3)(A)(ii). Pub. L. 104—208, § 2704(d)(9), which directed the amendment of cl. (ii) by substituting “the Deposit Insurance Fund of” for “any deposit insurance fund in”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above. 1991—Pub. L. 102–242, § 142(b), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b). 1980—Pub. L. 96–221 struck out second sentence of first par. relating to interest on notes under this section. 1974—Pub. L. 93–449 inserted provisions relating to advances on time notes secured by mortgage loans covering one-to-four family residences. 1935—Act Aug. 23, 1935, struck out provision prescribing termination date of section. 1933—Act Mar. 9, 1933, struck out proviso which extended applicability to member banks regardless of their capital, and empowered President to extend termination date one year beyond March 3, 1934. Act Feb. 3, 1933, extended termination date from “March 3, 1933” to “March 3, 1934”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2006 Amendment
 
@@ -72,6 +76,8 @@ Pub. L. 102–242, title I, § 142(d), Dec. 19, 1991, 105 Stat. 2281, provided t
 ### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–221 effective on first day of sixth month which begins after Mar. 31, 1980, see section 108 of Pub. L. 96–221, set out as a note under section 248 of this title.
+
+### Executive Documents
 
 ### Expiration
 

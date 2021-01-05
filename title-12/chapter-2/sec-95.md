@@ -18,13 +18,19 @@ section: 95
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1983—Subsec. (b)(1). Pub. L. 97–457 inserted “a State or” before “a State official”. 1982—Subsec. (b)(1). Pub. L. 97–320 substituted “In the event that a State official authorized by law designates any day as a legal holiday for ceremonial or emergency reasons, for the State or any part thereof, that same day shall be a legal holiday for all national banking associations or their offices located in that State or the part so affected. A national banking association or its affected offices may close or remain open on such a State-designated holiday unless the Comptroller of the Currency by written order directs otherwise” for “In the event that a State or a State official authorized by law designates any day as a legal holiday for either emergency or ceremonial reasons for all banks chartered by that State to do business within that State, that same day shall be a legal holiday for all national banking associations chartered to do business within that State unless the Comptroller of the Currency shall by written order permit all national banking associations located in that State to remain open”. 1980—Pub. L. 96–221 designated existing provisions as subsec. (a) and added subsec. (b).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+### Executive Documents
 
 ### Bank Holiday of 1933
 

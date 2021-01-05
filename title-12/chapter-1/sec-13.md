@@ -15,6 +15,8 @@ There shall be assigned, from time to time, to the Comptroller of the Currency, 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The bureau referred to in text is known as the Office of the Comptroller of the Currency.
@@ -22,6 +24,8 @@ The bureau referred to in text is known as the Office of the Comptroller of the 
 ### Codification
 
 R.S. § 331 derived from act June 3, 1864, ch. 106, § 3, 13 Stat. 100, which was the National Bank Act. See section 38 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Exception as to Transfer of Functions
 

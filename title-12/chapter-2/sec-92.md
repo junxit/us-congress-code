@@ -15,6 +15,8 @@ In addition to the powers now vested by law in national banking associations org
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is based on the eleventh par. of section 13 of act Dec. 23, 1913, as amended. The eleventh par. constituted the ninth par. of section 13 in 1916 (39 Stat. 752, 753), became the tenth par. in 1923 (42 Stat. 1478), and became the eleventh par. in 1932 (47 Stat. 715). For further details, see Codification notes under sections 342 to 344 of this title. For decision by U.S. Supreme Court that, despite faulty placement of quotation marks, act Sept. 7, 1916, placed within section 13 of act Dec. 23, 1913, each of the ten pars. located between the phrases that introduced the amendments to sections 13 and 14 of said act, that only the seventh par. (rather than seventh to tenth pars.) comprised the amended R.S. § 5202, and that section 20 of act Apr. 5, 1918 (40 Stat. 512) (which amended R.S. § 5202 comprised of a single par.), did not amend section 13 of said act so as to repeal the eighth to tenth pars., see United States National Bank of Oregon v. Independent Insurance Agents of America, Inc., et al., 508 U.S. 439, 113 S.Ct. 2173, 124 L.Ed. 2d 402 (1993). As the result of subsequent amendments, such seventh to tenth pars. of section 13 now constitute the ninth to twelfth pars. The ninth par. amended former section 82 of this title, and the tenth to twelfth pars. are classified to sections 361, 92, and 373, respectively, of this title.
@@ -22,6 +24,8 @@ Section is based on the eleventh par. of section 13 of act Dec. 23, 1913, as ame
 ### Amendments
 
 1982—Pub. L. 97–320 struck out “; and may also act as the broker or agent for others in making or procuring loans on real estate located within one hundred miles of the place in which said bank may be located, receiving for such services a reasonable fee or commission” after “may act as agent” and “guarantee either the principal or interest of any such loans or” after “shall in any case”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1982 Amendment
 

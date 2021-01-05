@@ -100,6 +100,8 @@ section: 24a
 
 2 So in original. Probably should be “or meet”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Gramm-Leach-Bliley Act, referred to in subsecs. (a)(2)(B)(iii), (b)(2)(A), (3), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Section 122 of the Act is set out as a note under section 1843 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables. Section 25 of the Federal Reserve Act, referred to in subsec. (g)(3)(B), is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title. Section 25A of the Federal Reserve Act is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title. The Bank Service Company Act, referred to in subsec. (g)(3)(B), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat. 1132, as amended, which is classified generally to chapter 18 (§ 1861 et seq.) of this title. For complete classification of this Act to the Code, see section 1861 of this title and Tables.
@@ -111,6 +113,8 @@ A prior section 5136A of the Revised Statutes was renumbered section 5136B by Pu
 ### Amendments
 
 2010—Subsec. (a)(2)(E). Pub. L. 111–203, § 939(d)(1), substituted “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”. Subsec. (a)(3). Pub. L. 111–203, § 939(d)(2), substituted “Requirement” for “Rating or comparable requirement” in heading. Subsec. (a)(3)(A). Pub. L. 111–203, § 939(d)(3), amended subpar. (A) generally. Prior to amendment, text read as follows: “A national bank meets the requirements of this paragraph if— “(i) the bank is 1 of the 50 largest insured banks and has not fewer than 1 issue of outstanding eligible debt that is currently rated within the 3 highest investment grade rating categories by a nationally recognized statistical rating organization; or “(ii) the bank is 1 of the second 50 largest insured banks and meets the criteria set forth in clause (i) or such other criteria as the Secretary of the Treasury and the Board of Governors of the Federal Reserve System may jointly establish by regulation and determine to be comparable to and consistent with the purposes of the rating required in clause (i).” Subsec. (f). Pub. L. 111–203, § 939(d)(4), substituted “meet standards of credit-worthiness” for “maintain public rating or” in heading. Subsec. (f)(1). Pub. L. 111–203, § 939(d)(5), substituted “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

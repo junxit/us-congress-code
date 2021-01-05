@@ -16,6 +16,8 @@ section: 59
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5143 derived from act June 3, 1864, ch. 106, § 13, 13 Stat. 103, which was the National Bank Act. See section 38 of this title.

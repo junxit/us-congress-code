@@ -18,6 +18,8 @@ section: 1
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Enhancing Financial Institution Safety and Soundness Act of 2010, referred to in subsec. (b)(2), is Pub. L. 111–203, title III, July 21, 2010, 124 Stat. 1520. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
@@ -29,6 +31,8 @@ R.S. § 324 derived from act June 3, 1864, ch. 106, § 1, 13 Stat. 99, which was
 ### Amendments
 
 2010—Pub. L. 111–203 amended section generally. Prior to amendment, section read as follows: “There shall be in the Department of the Treasury a bureau charged with the execution of all laws passed by Congress relating to the issue and regulation of national currency secured by United States bonds and, under the general supervision of the Board of Governors of the Federal Reserve System, of all Federal Reserve notes, except for the cancellation and destruction, and accounting with respect to such cancellation and destruction, of Federal Reserve notes unfit for circulation, the chief officer of which bureau shall be called the Comptroller of the Currency and shall perform his duties under the general directions of the Secretary of the Treasury. The Comptroller of the Currency shall have the same authority over matters within the jurisdiction of the Comptroller as the Director of the Office of Thrift Supervision has over matters within the Director’s jurisdiction under section 1462a(b)(3) of this title. The Secretary of the Treasury may not delay or prevent the issuance of any rule or the promulgation of any regulation by the Comptroller of the Currency.” 1994—Pub. L. 103–325 inserted at end “The Comptroller of the Currency shall have the same authority over matters within the jurisdiction of the Comptroller as the Director of the Office of Thrift Supervision has over matters within the Director’s jurisdiction under section 1462a(b)(3) of this title. The Secretary of the Treasury may not delay or prevent the issuance of any rule or the promulgation of any regulation by the Comptroller of the Currency.” 1966—Pub. L. 89–427 inserted exception relating to cancellation and destruction, and accounting with respect to the cancellation and destruction, of Federal Reserve notes unfit for circulation.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

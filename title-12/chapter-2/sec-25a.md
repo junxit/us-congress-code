@@ -34,9 +34,13 @@ section: 25a
 
 1 So in original. The word “or” probably should appear.
 
+### Editorial Notes
+
 ### Amendments
 
 2014—Subsec. (c)(2). Pub. L. 113–251, § 3(a)(1), inserted “, other than a savings promotion raffle,” before “whereby” in introductory provisions. Subsec. (c)(4). Pub. L. 113–251, § 3(a)(2), added par. (4).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

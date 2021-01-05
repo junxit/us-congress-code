@@ -28,9 +28,13 @@ section: 225b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2010—Subsec. (c). Pub. L. 111–203 added subsec. (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

@@ -15,6 +15,8 @@ The Board of Governors of the Federal Reserve System shall keep a complete recor
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of tenth par. of section 10 of act Dec. 23, 1913, as added Aug. 23, 1935. For classification to this title of other pars. of section 10, see Codification note set out under section 241 of this title.

@@ -15,6 +15,8 @@ Subject to such limitations, restrictions, and regulations as the Board of Gover
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of the thirteenth par. of section 13 of act Dec. 23, 1913, as added by act Mar. 9, 1933. For additional details concerning the enactment and numbering of the first twelve and fourteenth pars. of section 13, see Codification notes set out under sections 92, 342 to 347, 347d, 361, 372, and 373 of this title.
@@ -22,6 +24,8 @@ Section is comprised of the thirteenth par. of section 13 of act Dec. 23, 1913, 
 ### Amendments
 
 1968—Pub. L. 90–505 added promissory notes secured by any obligation which is a direct obligation of, or fully guaranteed as to principal and interest by, any agency of the United States to the list of types of promissory notes on which federal reserve banks may make advances to individuals, partnerships, and corporations.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

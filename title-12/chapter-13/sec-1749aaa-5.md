@@ -29,6 +29,8 @@ For the purposes of this subchapter—
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1974—Par. (1). Pub. L. 93–383, § 312(b)(1), inserted references to practice of osteopathy and authorized inclusion of podiatric care or treatment under the professional supervision of persons licensed to practice podiatry in the State. Par. (2). Pub. L. 93–383, § 312(a)(6), added par. (2). Former par. (2) redesignated (3). Par. (3). Pub. L. 93–383, § 312(a)(6), (b)(2), redesignated former par. (2) as par. (3) and inserted references to persons licensed to practice osteopathy and persons licensed to practice podiatry. Former par. (3) redesignated (4). Par. (4). Pub. L. 93–383, § 312(a)(6), (b)(3), (4), redesignated former par. (3) as par. (4) and in cls. (A) and (B) inserted references to osteopathic care and podiatric care wherever appearing. Former par. (4) redesignated (5). Pars. (5) to (9). Pub. L. 93–383, § 312(a)(6), redesignated former pars. (4) to (8) as pars. (5) to (9), respectively.

@@ -15,9 +15,13 @@ The organization certificate shall be acknowledged before a judge of some court 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5135 derived from act June 3, 1864, ch. 106, § 6, 13 Stat. 101, which was the National Bank Act. See section 38 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Exception as to Transfer of Functions
 

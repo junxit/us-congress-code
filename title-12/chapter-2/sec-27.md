@@ -18,6 +18,8 @@ section: 27
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Title 62 of the Revised Statutes, referred to in subsec. (a), was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
@@ -29,6 +31,8 @@ R.S. § 5169 derived from act June 3, 1864, ch. 106, §§ 12, 18, 13 Stat. 102, 
 ### Amendments
 
 1994—Subsec. (b)(1). Pub. L. 103–325, § 322(a)(2)(A), inserted “or depository institution holding companies” after “by other depository institutions”. Pub. L. 103–325, § 322(a)(2)(B), which directed substitution of “services to or for other depository institutions, their holding companies, and the officers, directors, and employees of such institutions and companies, and in providing correspondent banking services at the request of other depository institutions or their holding companies (also referred to as a ‘banker’s bank’)” for “services for other depository institutions and their officers, directors and employees”, was executed by making the substitution for “services for other depository institutions and their officers, directors, and employees” to reflect the probable intent of Congress. 1982—Pub. L. 97–320 designated existing provisions as subsec. (a) and added subsec. (b). 1980—Pub. L. 96–221, § 712(a), (c), temporarily inserted provisions relating to treatment of national banking associations as additional banks within the contemplation of section 1842 of this title. See Termination Date of 1980 Amendment note below. 1978—Pub. L. 95–630 inserted provision that a National Bank Association, to which the Comptroller of the Currency has heretofore issued or hereafter issues such certificate, is not illegally constituted solely because its operations are or have been required by the Comptroller of the Currency to be limited to those of a trust company and activities related thereto.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Termination Date of 1980 Amendment
 

@@ -15,6 +15,8 @@ In all elections of directors, each shareholder shall have the right to vote the
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5144 derived from act June 3, 1864, ch. 106, § 11, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.

@@ -15,6 +15,8 @@ Any national banking association may, with the approval of the Comptroller of th
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5142 derived from act June 3, 1864, ch. 106, § 13, 13 Stat. 103, which was the National Bank Act. See section 38 of this title.
@@ -22,6 +24,8 @@ R.S. § 5142 derived from act June 3, 1864, ch. 106, § 13, 13 Stat. 103, which 
 ### Amendments
 
 1927—Act Feb. 25, 1927, among other changes, inserted proviso.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Exception as to Transfer of Functions
 

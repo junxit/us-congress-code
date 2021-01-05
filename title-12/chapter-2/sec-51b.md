@@ -16,9 +16,13 @@ section: 51b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1980—Subsec. (a). Pub. L. 96–221 struck out limitation on payment of cumulative dividends at a rate not exceeding 6 per centum per annum. 1933—Subsec. (a). Act June 15, 1933, struck out former subsec. (a) and inserted a new subsec. (a) which incorporated all former provisions and inserted “Notwithstanding any other provision of law, whether relating to restriction upon the payment of dividends upon capital stock or otherwise” and “and conversion rights,” in first sentence.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Exception as to Transfer of Functions
 

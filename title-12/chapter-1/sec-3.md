@@ -15,6 +15,8 @@ The Comptroller of the Currency shall, within fifteen days from the time of noti
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 326 derived from act June 3, 1864, ch. 106, § 1, 13 Stat. 99, which was the National Bank Act. See section 38 of this title.

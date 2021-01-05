@@ -15,6 +15,8 @@ The capital stock of each association shall be divided into shares of $100 each,
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5139 derived from act June 3, 1864, ch. 106, § 12, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.

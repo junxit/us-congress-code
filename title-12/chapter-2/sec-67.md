@@ -15,6 +15,8 @@ Any receiver of a national banking association is authorized, with the approval 
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Exception as to Transfer of Functions
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer to Secretary of the Treasury, see note set out under section 1 of this title.

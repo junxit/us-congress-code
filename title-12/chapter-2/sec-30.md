@@ -20,9 +20,13 @@ section: 30
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1999—Subsec. (d). Pub. L. 106–102 added subsec. (d). 1994—Subsec. (c). Pub. L. 103–328 added subsec. (c). 1983—Subsec. (b). Pub. L. 97–457 inserted “for a relocation outside such limits” after “stock of such association”. 1982—Pub. L. 97–320 designated existing provisions as subsec. (a), substituted provisions permitting a change of name upon written notice to the Comptroller, such new name to include “National”, for provisions permitting a change of name or location of the main office, with approval of the Comptroller, within city limits, etc., or outside such limits by vote of shareholders, such change to be validated by certificate of approval, and added subsec. (b). 1959—Pub. L. 86–230 required approval of Comptroller of the Currency before a national bank could change location of its main office within the limitations of the city, town, or village in which it is situated.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Exception as to Transfer of Functions
 

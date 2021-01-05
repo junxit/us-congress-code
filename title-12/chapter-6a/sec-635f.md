@@ -15,6 +15,8 @@ Export-Import Bank of the United States shall continue to exercise its functions
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 7 of act July 31, 1945, ch. 341, was renumbered section 6 and is classified to section 635e of this title.
@@ -22,6 +24,8 @@ A prior section 7 of act July 31, 1945, ch. 341, was renumbered section 6 and is
 ### Amendments
 
 2019—Pub. L. 116–94 substituted “December 31, 2026” for “September 30, 2019”. 2015—Pub. L. 114–94 substituted “2019” for “2014”. 2012—Pub. L. 112–122 substituted “2014” for “2011”. 2006—Pub. L. 109–438 substituted “2011” for “2006”. 2002—Pub. L. 107–189 substituted “September 30, 2006” for “September 30, 2001”. 1997—Pub. L. 105–121 substituted “September 30, 2001” for “September 30, October 23, 1997”. Pub. L. 105–46 substituted “October 23, 1997” for “1997”. 1992—Pub. L. 102–429, § 102, substituted “1997” for “1992”. 1986—Pub. L. 99–472 substituted “September 30, 1992” for “September 30, 1986”. 1983—Pub. L. 98–181 substituted “September 30, 1986” for “November 18, 1983”. Pub. L. 98–143 substituted “November 18, 1983” for “October 31, 1983”. Pub. L. 98–109 substituted “October 31, 1983” for “September 30, 1983”. 1978—Pub. L. 95–630 substituted “September 30, 1983” for “December 31, 1978”. Pub. L. 95–407 substituted “December 31, 1978” for “September 30, 1978”. 1977—Pub. L. 95–143 substituted “September 30, 1978” for “June 30, 1978”. 1975—Pub. L. 93–646 substituted “June 30, 1978” for “November 30, 1974”. 1974—Pub. L. 93–450 substituted “November 30, 1974” for “October 15, 1974”. Pub. L. 93–425 substituted “October 15, 1974” for “September 30, 1974”. Pub. L. 93–374 substituted “September 30, 1974” for “July 30, 1974”. Pub. L. 93–331 substituted “July 30, 1974” for “June 30, 1974”. 1971—Pub. L. 92–126 substituted “June 30, 1974” for “June 30, 1973” and “Secretary of the Treasury or any other purchasers” for “Secretary of the Treasury”. 1968—Pub. L. 90–267 changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States” and substituted “June 30, 1973” for “June 30, 1968”. 1963—Pub. L. 88–101 substituted “June 30, 1968” for “June 30, 1963”. 1957—Pub. L. 85–55 substituted “June 30, 1963” for “June 30, 1958”. 1951—Act Oct. 3, 1951, substituted “June 30, 1958” for “June 30, 1953”. 1947—Act June 9, 1947, struck out former section and inserted present section to provide for the termination of the Bank as of June 30, 1953, and its orderly liquidation thereafter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2015 Amendment
 

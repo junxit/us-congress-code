@@ -25,6 +25,8 @@ section: 215a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Provisions similar to those comprising this section were contained in section 4 of act Nov. 7, 1918, ch. 209, as added July 14, 1952, ch. 722, § 1, 66 Stat. 599 (formerly classified to section 34b of this title), prior to the complete amendment and renumbering of act Nov. 7, 1918, by Pub. L. 86–230.

@@ -15,6 +15,8 @@ Any bank incorporated by special law of any State or of the United States or org
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in first par., may refer to the Federal Reserve Act, act Dec. 23, 1913, from which this wording is derived; or section 5154 of the Revised Statutes which the Federal Reserve Act amended; or act June 3, 1864, from which R.S. § 5154 was derived; or Congress might have intended to refer to the preceding provisions of the 1913 amendment. Similar reference in R.S. § 5154 prior to 1913 amendment was to “this Title,” meaning title 62 of the Revised Statutes, which title comprised the National Bank Act (June 3, 1864, ch. 106, 13 Stat. 99). See section 38 of this title. Note also specific reference to the Federal Reserve Act and the National Banking Act in first par. The Federal Reserve Act, referred to in text, is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables. The National Banking Act, referred to in text, is probably intended to be a reference to the National Bank Act, act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code see References in Text note set out under section 38 of this title.
@@ -26,6 +28,8 @@ R.S. § 5154 derived from act June 3, 1864, ch. 106, § 44, 13 Stat. 112, which 
 ### Amendments
 
 2010—Pub. L. 111–203 inserted at end “The Comptroller of the Currency may not approve the conversion of a State bank or State savings association to a national banking association or Federal savings association during any period in which the State bank or State savings association is subject to a cease and desist order (or other formal enforcement order) issued by, or a memorandum of understanding entered into with, a State bank supervisor or the appropriate Federal banking agency with respect to a significant supervisory matter or a final enforcement action by a State Attorney General.” 1983—Pub. L. 97–457 substituted “with a name that contains the word ‘national’ ” for “with any name approved by the Comptroller of the Currency” after “national banking association,”. 1935—Act Aug. 23, 1935, added last par.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

@@ -15,6 +15,8 @@ The Secretary of the Treasury shall appoint no more than four Deputy Comptroller
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 327 derived from act June 3, 1864, ch. 106, § 1, 13 Stat. 99, which was the National Bank Act. See section 38 of this title. R.S. § 327, contained after the word “Secretary” the following “who shall be entitled to a salary of two thousand five hundred dollars a year, and” which was omitted from this section on authority of act Mar. 4, 1923, § 209(b), fourth sentence, which was classified to section 9a of this title and regulated the salaries of deputy comptrollers.
@@ -22,6 +24,8 @@ R.S. § 327 derived from act June 3, 1864, ch. 106, § 1, 13 Stat. 99, which was
 ### Amendments
 
 1972—Pub. L. 92–310 struck out provisions which required each Deputy Comptroller to give a bond in the sum of $100,000. 1959—Pub. L. 86–251 provided for the appointment of four Deputy Comptrollers instead of one, the designation of one as the First Deputy, the fixing of salaries, increase in surety bond requirement from $50,000 to $100,000 and order of succession.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Exception as to Transfer of Functions
 

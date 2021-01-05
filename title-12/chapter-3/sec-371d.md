@@ -26,9 +26,13 @@ section: 371d
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1996—Pub. L. 104–208 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “No national bank, without the approval of the Comptroller of the Currency, and no State member bank, without the approval of the Board of Governors of the Federal Reserve System, shall (1) invest in bank premises, or in the stock, bonds, debentures, or other such obligations of any corporation holding the premises of such bank, or (2) make loans to or upon the security of the stock of any such corporation, if the aggregate of all such investments and loans, together with the amount of any indebtedness incurred by any such corporation which is an affiliate of the bank, as defined in section 221a of this title, will exceed the amount of the capital stock of such bank.” 1954—Act June 30, 1954, inserted “together with the amount of any indebtedness incurred by any such corporation which is an affiliate of the bank, as defined in section 221a of this title”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

@@ -15,9 +15,13 @@ The Board may from time to time, after consulting with the Board of Directors of
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1980—Pub. L. 96–221 struck out provisions relating to payment of interest on deposits, prescribing of different limitations by the Board for different classes of deposits, and payment of time deposits before maturity. 1968—Pub. L. 90–505 gave Board power to prescribe rules governing the payment and advertising of interest on deposits. 1966—Pub. L. 89–597, § 2(c), made authority of Board to prescribe maximum permissible rates of interest that may be paid by member banks on time and savings deposits discretionary rather than mandatory, required prior consultations with the FDIC Board and the FHLB Board, authorized different rate limitations for different classes of deposits, for deposits of different amounts, or according to such other reasonable bases as the Board may deem desirable in the public interest, and struck out provision for rate limitation according to the varying discount rates of member banks in the several Federal Reserve districts. 1965—Pub. L. 89–79 extended until Oct. 15, 1968, the period during which the provisions of this paragraph do not apply to the rate of interest payable by member banks on time deposits of foreign governments, monetary and financial authorities of foreign governments when acting as such, or international financial institutions of which the United States is a member. 1962—Pub. L. 87–827 inserted sentence making this paragraph inapplicable, during the period commencing on October 15, 1962, and ending upon the expiration of three years after such date, to the rate of interest which may be paid by member banks on time deposits of foreign governments, monetary and financial authorities of foreign governments when acting as such, or international financial institutions of which the United States is a member. 1935—Act Aug. 23, 1935, among other changes, inserted “except upon such conditions and in accordance with such rules and regulations as may be prescribed by the said Board” to second sentence and proviso.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1980 Amendment
 

@@ -16,6 +16,8 @@ section: 83
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5201 derived from act June 3, 1864, ch. 106, § 35, 13 Stat. 110, which was the National Bank Act. See section 38 of this title.

@@ -15,6 +15,8 @@ No association, or any member thereof, shall, during the time it shall continue 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5204 derived from act June 3, 1864, ch. 106, § 38, 13 Stat. 110, which was the National Bank Act. See section 38 of this title.

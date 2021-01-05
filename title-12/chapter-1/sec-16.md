@@ -15,9 +15,13 @@ The Comptroller of the Currency may collect an assessment, fee, or other charge 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Subchapter XV of chapter 3, referred to in first par., was in the original a reference to section 5240 of the Revised Statutes.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

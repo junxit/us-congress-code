@@ -41,9 +41,13 @@ section: 216b
 
 1 So in original. Probably should not be capitalized.
 
+### Editorial Notes
+
 ### Amendments
 
 1992—Subsec. (f)(1) to (3). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1992 Amendment
 

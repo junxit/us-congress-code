@@ -15,9 +15,13 @@ The seal devised by the Comptroller of the Currency for his office, and approved
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 330 derived from act June 3, 1864, ch. 106, § 2, 13 Stat. 100, which was the National Bank Act. See section 38 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Exception as to Transfer of Functions
 

@@ -21,6 +21,8 @@ section: 339a
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 4422 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
