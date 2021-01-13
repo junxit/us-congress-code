@@ -34,12 +34,12 @@ section: 492a
     - **(A)** The term “covered even-numbered fiscal year report” means a report required to be transmitted under subsection (a)(1) not later than 30 days after the submission to Congress of the budget of the President for an even-numbered fiscal year.
     - **(B)** The term “covered odd-numbered fiscal year report” means a report required to be transmitted under subsection (a)(1) not later than 30 days after the submission to Congress of the budget of the President for an odd-numbered fiscal year.
 - **(c)** *Comptroller General Review.—* The Comptroller General of the United States shall—
-  - **(1)** review each report under subsection (a) for accuracy and completeness with respect to the matters described in paragraphs (2)(F) and (3) of such subsection; and
-  - **(2)** not later than 180 days after the date on which such report under subsection (a) is submitted, submit to the congressional defense committees a summary of each such review.
+  - **(1)** periodically review reports submitted under subsection (a) for accuracy and completeness with respect to the matters described in paragraphs (2)(F) and (3) of such subsection; and
+  - **(2)** submit to the congressional defense committees a summary of each such review.
 
 ## Source credit
 
-(Added and amended Pub. L. 116–92, div. A, title XVI, § 1665(c)(1), Dec. 20, 2019, 133 Stat. 1773.)
+(Added and amended Pub. L. 116–92, div. A, title XVI, § 1665(c)(1), Dec. 20, 2019, 133 Stat. 1773; Pub. L. 116–283, div. A, title XVI, § 1633, Jan. 1, 2021, 134 Stat. 4059.)
 
 ## Notes
 
@@ -49,4 +49,4 @@ Section, as added and amended by Pub. L. 116–92, is based on Pub. L. 112–81,
 
 ### Amendments
 
-2019—Pub. L. 116–92, § 1665(c)(1)(D), conformed section designation and catchline to the style of this title. Pub. L. 116–92, § 1665(c)(1)(A)–(C), transferred section 1043 of Pub. L. 112–81, as amended, to this chapter and renumbered it as this section. See Codification note above.
+2021—Subsec. (c)(1). Pub. L. 116–283, § 1633(1), substituted “periodically review reports submitted” for “review each report”. Subsec. (c)(2). Pub. L. 116–283, § 1633(2), struck out “not later than 180 days after the date on which such report under subsection (a) is submitted,” before “submit to the congressional defense committees”. 2019—Pub. L. 116–92, § 1665(c)(1)(D), conformed section designation and catchline to the style of this title. Pub. L. 116–92, § 1665(c)(1)(A)–(C), transferred section 1043 of Pub. L. 112–81, as amended, to this chapter and renumbered it as this section. See Codification note above.

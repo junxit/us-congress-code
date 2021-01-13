@@ -10,7 +10,7 @@ section: 213a
 - **(a)** Commissioned officers of the Service or their surviving beneficiaries are entitled to all the rights, benefits, privileges, and immunities now or hereafter provided for commissioned officers of the Army or their surviving beneficiaries under the following provisions of title 10:
   - **(1)** Section 1036, Escorts for dependents of members: transportation and travel allowances.
   - **(2)** Chapter 61, Retirement or Separation for Physical Disability, except that sections 1201, 1202, and 1203 do not apply to commissioned officers of the Public Health Service who have been ordered to active duty for training for a period of more than 30 days.
-  - **(3)** Chapter 69, Retired Grade, except sections 1370, 1374,11 See References in Text note below. 1375 and 1376(a).1
+  - **(3)** Chapter 69, Retired Grade, except sections 1370,11 See References in Text note below. 1374,1 1375 and 1376(a).1
   - **(4)** Chapter 71, Computation of Retired Pay, except formula No. 3 of section 1401.1
   - **(5)** Chapter 73, Retired Serviceman’s Family Protection Plan; Survivor Benefit Plan.
   - **(6)** Chapter 75, Death Benefits.
@@ -44,7 +44,7 @@ section: 213a
 
 ### References in Text
 
-Sections 1374 and 1376(a) of title 10, referred to in subsec. (a)(3), were repealed by Pub. L. 103–337, div. A, title XVI, § 1662(k)(2), (3)(A)(i), Oct. 5, 1994, 108 Stat. 3006. See sections 12771 to 12774 of Title 10, Armed Forces. Formula No. 3 of section 1401 of title 10, referred to in subsec. (a)(4), was struck from the table set forth in section 1401(a) of title 10 by Pub. L. 103–337, div. A, title XVI, § 1662(j)(2), Oct. 5, 1994, 108 Stat. 3004.
+Section 1370 of title 10, referred to in subsec. (a)(3), was repealed and new sections 1370 and 1370a of Title 10, Armed Forces, were enacted by Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3580. For provisions stating that in determining retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of Title 10 in such determination with respect to such officers is deemed to be a reference to section 1370a of Title 10, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of Title 10. Sections 1374 and 1376(a) of title 10, referred to in subsec. (a)(3), were repealed by Pub. L. 103–337, div. A, title XVI, § 1662(k)(2), (3)(A)(i), Oct. 5, 1994, 108 Stat. 3006. See sections 12771 to 12774 of Title 10, Armed Forces. Formula No. 3 of section 1401 of title 10, referred to in subsec. (a)(4), was struck from the table set forth in section 1401(a) of title 10 by Pub. L. 103–337, div. A, title XVI, § 1662(j)(2), Oct. 5, 1994, 108 Stat. 3004.
 
 ### Codification
 

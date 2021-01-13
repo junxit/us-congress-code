@@ -37,10 +37,11 @@ section: 300gg–19a
   - **(3)** *Construction* Nothing in paragraph (1) shall be construed to—
     - **(A)** waive any exclusions of coverage under the terms and conditions of the plan or health insurance coverage with respect to coverage of obstetrical or gynecological care; or
     - **(B)** preclude the group health plan or health insurance issuer involved from requiring that the obstetrical or gynecological provider notify the primary care health care professional or the plan or issuer of treatment decisions.
+- **(e)** *Application* The provisions of this section shall not apply with respect to a group health plan, health insurance issuers, or group or individual health insurance coverage with respect to plan years beginning on or on 55 So in original. January 1, 2022.
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title XXVII, § 2719A, as added Pub. L. 111–148, title X, § 10101(h), Mar. 23, 2010, 124 Stat. 888.)
+(July 1, 1944, ch. 373, title XXVII, § 2719A, as added Pub. L. 111–148, title X, § 10101(h), Mar. 23, 2010, 124 Stat. 888; amended Pub. L. 116–260, div. BB, title I, § 102(a)(3)(A), Dec. 27, 2020, 134 Stat. 2771.)
 
 ## Notes
 
@@ -52,6 +53,12 @@ section: 300gg–19a
 
 4 So in original. Probably should be “given”.
 
+5 So in original.
+
+### Applicability of Amendment
+
+Amendment of section by section 102(a)(3)(A) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.
+
 ### References in Text
 
 Section 2701 of this Act, referred to in subsec. (b)(1)(D), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, § 1201(4), title X, § 10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
@@ -59,3 +66,11 @@ Section 2701 of this Act, referred to in subsec. (b)(1)(D), is a reference to se
 ### Codification
 
 Pub. L. 111–148, which directed amendment of subpart II of part A of “title XVIII” of act July 1, 1944, by inserting section 2719A after section 2719, was executed by making the insertion in subpart II of part A of title XXVII of the Act, to reflect the probable intent of Congress.
+
+### Amendments
+
+2020—Subsec. (e). Pub. L. 116–260 added subsec. (e).
+
+### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under section 8902 of Title 5, Government Organization and Employees.

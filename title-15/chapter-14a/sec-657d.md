@@ -16,7 +16,7 @@ section: 657d
   - **(6)** *Mentoring Network* The term “Mentoring Network” means an association, organization, coalition, or other entity (including an individual) that meets the requirements of section 657e(c) of this title.
   - **(7)** *Recipient* The term “recipient” means a person that receives an award or becomes party to a cooperative agreement under this section.
   - **(8)** *SBIR program* The term “SBIR program” has the same meaning as in section 638(e)(4) of this title.
-  - **(9)** *State* The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
+  - **(9)** *State* The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
   - **(10)** *STTR program* The term “STTR program” has the same meaning as in section 638(e)(6) of this title.
 - **(b)** *Establishment of Program* The Administrator shall establish a program to be known as the Federal and State Technology Partnership Program, the purpose of which shall be to strengthen the technological competitiveness of small business concerns in the States.
 - **(c)** *Grants and cooperative agreements*
@@ -94,7 +94,7 @@ section: 657d
 
 ## Source credit
 
-(Pub. L. 85–536, § 2[34], as added Pub. L. 106–554, § 1(a)(9) [title I, § 111(b)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; amended Pub. L. 107–50, § 8, Oct. 15, 2001, 115 Stat. 265; Pub. L. 114–88, div. B, title I, § 2104, Nov. 25, 2015, 129 Stat. 691.)
+(Pub. L. 85–536, § 2[34], as added Pub. L. 106–554, § 1(a)(9) [title I, § 111(b)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; amended Pub. L. 107–50, § 8, Oct. 15, 2001, 115 Stat. 265; Pub. L. 114–88, div. B, title I, § 2104, Nov. 25, 2015, 129 Stat. 691; Pub. L. 116–283, div. A, title VIII, § 867(2), Jan. 1, 2021, 134 Stat. 3787.)
 
 ## Notes
 
@@ -110,7 +110,7 @@ A prior section 2[34] of Pub. L. 85–536 was renumbered section 2[49] and is se
 
 ### Amendments
 
-2015—Subsec. (a)(3) to (10). Pub. L. 114–88, § 2104(a), added par. (3) and redesignated former pars. (3) to (9) as (4) to (10), respectively. Subsec. (c)(2)(C). Pub. L. 114–88, § 2104(b), added subpar. (C). Subsec. (c)(5). Pub. L. 114–88, § 2104(c), added par. (5). 2001—Subsec. (c)(2)(B)(vi). Pub. L. 107–50, § 8(a), added cl. (vi). Subsec. (c)(4). Pub. L. 107–50, § 8(b), inserted at end “The Administrator shall promulgate regulations establishing standards for the consideration of proposals under paragraph (2), including standards regarding each of the considerations identified in paragraph (2)(B).”
+2021—Subsec. (a)(9). Pub. L. 116–283 substituted “American Samoa, and the Commonwealth of the Northern Mariana Islands” for “and American Samoa”. 2015—Subsec. (a)(3) to (10). Pub. L. 114–88, § 2104(a), added par. (3) and redesignated former pars. (3) to (9) as (4) to (10), respectively. Subsec. (c)(2)(C). Pub. L. 114–88, § 2104(b), added subpar. (C). Subsec. (c)(5). Pub. L. 114–88, § 2104(c), added par. (5). 2001—Subsec. (c)(2)(B)(vi). Pub. L. 107–50, § 8(a), added cl. (vi). Subsec. (c)(4). Pub. L. 107–50, § 8(b), inserted at end “The Administrator shall promulgate regulations establishing standards for the consideration of proposals under paragraph (2), including standards regarding each of the considerations identified in paragraph (2)(B).”
 
 ### Change of Name
 
