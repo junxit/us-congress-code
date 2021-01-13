@@ -40,9 +40,13 @@ section: 3
 
 2 So in original. Probably should be “Coordinator”.
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (d)(1)(C). Pub. L. 115–192, § 2(a)(1)(B), substituted “Coordinator who shall—” for “Ombudsman who shall educate agency employees—” in introductory provisions. Subsec. (d)(1)(C)(i). Pub. L. 115–192, § 2(a)(1)(B), inserted cl. (i) designation and introductory provisions. Former cl. (i) redesignated subcl. (I) of cl. (i). Subsec. (d)(1)(C)(i)(I). Pub. L. 115–192, § 2(a)(1)(A), (C), redesignated cl. (i) as subcl. (I) of cl. (i) and substituted “against retaliation” for “on retaliation”. Subsec. (d)(1)(C)(i)(II). Pub. L. 115–192, § 2(a)(1)(A), (D), redesignated cl. (ii) as subcl. (II) of cl. (i), substituted “, including—” for period at end, and added items (aa) and (bb). Subsec. (d)(1)(C)(ii), (iii). Pub. L. 115–192, § 2(a)(1)(E), added cls. (ii) and (iii). Former cl. (ii) redesignated subcl. (II) of cl. (i). Subsec. (d)(2). Pub. L. 115–192, § 2(a)(2), substituted “Coordinator” for “Ombudsman”. Subsec. (d)(3), (4). Pub. L. 115–192, § 2(a)(3), (4), added par. (3) and redesignated former par. (3) as (4). 2016—Subsec. (a). Pub. L. 114–317 substituted “subpoena” for “subpena”. 2012—Subsec. (d). Pub. L. 112–199 added subsec. (d) and struck out former subsec. (d) which read as follows: “Each Inspector General shall, in accordance with applicable laws and regulations governing the civil service— “(1) appoint an Assistant Inspector General for Auditing who shall have the responsibility for supervising the performance of auditing activities relating to programs and operations of the establishment, and “(2) appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and operations.” 2008—Subsec. (b). Pub. L. 110–409, § 3(a), substituted “If an Inspector General is removed from office or is transferred to another position or location within an establishment, the President shall communicate in writing the reasons for any such removal or transfer to both Houses of Congress, not later than 30 days before the removal or transfer. Nothing in this subsection shall prohibit a personnel action otherwise authorized by law, other than transfer or removal.” for “The President shall communicate the reasons for any such removal to both Houses of Congress.” Subsec. (e). Pub. L. 110–409, § 4(a)(1), added subsec. (e). Subsec. (f). Pub. L. 110–409, § 5, added subsec. (f). Subsec. (g). Pub. L. 110–409, § 6(a), added subsec. (g).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective and Termination Dates of 2012 Amendment
 
@@ -67,6 +71,8 @@ Pub. L. 105–277, div. C, title I, § 101, Oct. 21, 1998, 112 Stat. 2681–584,
 ### Transitional Provisions Relating to Appointment of Inspector General of Federal Deposit Insurance Corporation
 
 Pub. L. 103–204, § 23(c), Dec. 17, 1993, 107 Stat. 2408, provided that: “(1) Current service.—Except as otherwise provided by law, the individual serving as the Inspector General of the Federal Deposit Insurance Corporation before the date of enactment of this Act [Dec. 17, 1993] may continue to serve in such position until the earlier of—“(A) the date on which the President appoints a successor under section 3(a) of the Inspector General Act of 1978 [subsec. (a) of this section]; or “(B) the date which is 6 months after the date of enactment of this Act. “(2) Definition.—For purposes of paragraph (1), the term ‘successor’ may include the individual holding the position of Inspector General of the Federal Deposit Insurance Corporation on or after the date of enactment of this Act.”
+
+### Executive Documents
 
 ### Executive Order No. 12993
 

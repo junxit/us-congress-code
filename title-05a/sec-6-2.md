@@ -95,6 +95,8 @@ section: 6
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (a)(1)(C), are set out in the Appendix to Title 18, Crimes and Criminal Procedure. Section 11 of the Inspector General Act, referred to in subsec. (e)(2), probably means section 11 of the Inspector General Act of 1978, Pub. L. 95–452, which is set out in this Appendix. The date of enactment of this subsection, referred to in subsec. (f)(7), is the date of enactment of Pub. L. 107–296, which was approved Nov. 25, 2002.
@@ -102,6 +104,8 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (a)(1)(C), are s
 ### Amendments
 
 2016—Subsec. (a)(1). Pub. L. 114–317, § 5(1), added par. (1) and struck out former par. (1) which read as follows: “to have access to all records, reports, audits, reviews, documents, papers, recommendations, or other material available to the applicable establishment which relate to programs and operations with respect to which that Inspector General has responsibilities under this Act;”. Subsec. (a)(4). Pub. L. 114–317, § 7(d)(2)(D), (3)(B), substituted “information), as well as any tangible thing” for “information, as well as any tangible thing)” and “subpoenas” for “subpenas”. Subsecs. (b) to (g). Pub. L. 114–317, § 5(2), (3), added subsec. (b) and redesignated former subsecs. (b) to (f) as (c) to (g), respectively. Subsecs. (h), (i). Pub. L. 114–317, § 5(4), added subsecs. (h) and (i). Subsecs. (j), (k). Pub. L. 114–317, § 2, added subsecs. (j) and (k). 2008—Subsec. (a)(4). Pub. L. 110–409, § 9(2), which directed substitution of “subpoena” for “subpena”, was executed by making the substitution for “subpena” both places it appeared, to reflect the probable intent of Congress. Pub. L. 110–409, § 9(1), inserted “in any medium (including electronically stored information, as well as any tangible thing)” after “other data”. Subsec. (d). Pub. L. 110–409, § 14(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of the provisions of title 5, United States Code, governing the Senior Executive Service, any reference in such provisions to the ‘appointing authority’ for a member of the Senior Executive Service or for a Senior Executive Service position shall, if such member or position is or would be within the Office of an Inspector General, be deemed to be a reference to such Inspector General.” Subsec. (e)(1). Pub. L. 110–409, § 11(1), struck out “appointed under section 3” after “each Inspector General” in introductory provisions. Subsec. (e)(9). Pub. L. 110–409, § 11(2), added par. (9). Subsec. (f). Pub. L. 110–409, § 8, added subsec. (f). 2002—Subsec. (e). Pub. L. 107–296 added subsec. (e). 1988—Subsec. (a)(5) to (9). Pub. L. 100–504, § 107, added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively. Subsec. (d). Pub. L. 100–504, § 110(a), added subsec. (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

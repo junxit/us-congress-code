@@ -15,6 +15,8 @@ section: 11
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Effective date of this Act, referred to in subsec. (a), as meaning effective upon expiration of ninety days following enactment of Pub. L. 92–463 on Oct. 6, 1972, see section 15 of Pub. L. 92–463.

@@ -32,13 +32,9 @@ section: 290m
 
 ## Source credit
 
-(Pub. L. 103–182, title V, § 541, Dec. 8, 1993, 107 Stat. 2165.)
+(Pub. L. 103–182, title V, § 541, Dec. 8, 1993, 107 Stat. 2165; Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78; Pub. L. 116–260, div. O, title VI, § 601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149.)
 
 ## Notes
-
-### Repeal of Section
-
-Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, repealed Pub. L. 103–182, which enacted this section, effective on the date the USMCA entered into force (July 1, 2020). See Codification note preceding this section.
 
 ### Editorial Notes
 
@@ -50,8 +46,12 @@ This subchapter, referred to in subsec. (a), was in the original “this part”
 
 Section is comprised of section 541 of Pub. L. 103–182. Subsec. (h)(1) of section 541 amended section 24 of Title 12, Banks and Banking.
 
+### Amendments
+
+2020—Pub. L. 116–260, § 601(a)(1), (2), provided that section 601 of Pub. L. 116–113 does not apply to this section and revived the provisions of this section as if such section 601 had not been enacted. See below. Pub. L. 116–113, § 601, which repealed this section effective on the date the USMCA entered into force (July 1, 2020), was made inapplicable to this section by section 601(a)(1), (2) of Pub. L. 116–260.
+
 ### Statutory Notes and Related Subsidiaries
 
-### Effective Date of Repeal
+### Effective Date of 2020 Amendment
 
-Repeal effective on the date the USMCA entered into force (July 1, 2020), see section 601 of Pub. L. 116–113, set out as a note under former section 3301 of Title 19, Customs Duties.
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under section 81c of Title 19, Customs Duties.

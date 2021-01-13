@@ -30,6 +30,8 @@ section: 8E
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 8E of the Inspector General Act of 1978, relating to special provisions concerning the Corporation for National and Community Service, was renumbered section 8F by Pub. L. 103–204. Another prior section 8E of the Inspector General Act of 1978, relating to requirements for Federal entities and designated Federal entities, was successively renumbered section 8F by Pub. L. 103–82, and section 8G by Pub. L. 103–204.
@@ -37,6 +39,8 @@ A prior section 8E of the Inspector General Act of 1978, relating to special pro
 ### Amendments
 
 2016—Subsec. (a)(1). Pub. L. 114–317, § 7(d)(3)(D)(i), substituted “subpoenas” for “subpenas” in introductory provisions. Subsec. (a)(2). Pub. L. 114–317, § 7(d)(3)(D)(ii), substituted “subpoena” for “subpena” in two places. Pub. L. 114–317, § 6(3), inserted “from accessing information described in paragraph (1),” after “completing any audit or investigation,” and “, access such information,” after “complete such audit or investigation”. 2002—Subsec. (b)(2) to (5). Pub. L. 107–273, § 308(1), added pars. (2) to (5) and struck out former pars. (2) and (3) which read as follows: “(2) shall give particular regard to the activities of the Counsel, Office of Professional Responsibility of the Department and the audit, internal investigative, and inspection units outside the Office of Inspector General with a view toward avoiding duplication and insuring effective coordination and cooperation; and “(3) shall refer to the Counsel, Office of Professional Responsibility of the Department for investigation, information or allegations relating to the conduct of an officer or employee of the Department of Justice employed in an attorney, criminal investigative, or law enforcement position that is or may be a violation of law, regulation, or order of the Department or any other applicable standard of conduct, except that no such referral shall be made if the officer or employee is employed in the Office of Professional Responsibility of the Department.” Subsec. (d). Pub. L. 107–273, § 308(2), added subsec. (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

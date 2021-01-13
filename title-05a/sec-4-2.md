@@ -16,7 +16,7 @@ section: 4
   - **(1)** In carrying out the responsibilities specified in subsection (a)(1), each Inspector General shall—
     - **(A)** comply with standards established by the Comptroller General of the United States for audits of Federal establishments, organizations, programs, activities, and functions;
     - **(B)** establish guidelines for determining when it shall be appropriate to use non-Federal auditors; and
-    - **(C)** take appropriate steps to assure that any work performed by non-Federal auditors complies with the standards established by the Comptroller General as described in paragraph (1).
+    - **(C)** take appropriate steps to assure that any work performed by non-Federal auditors complies with the standards established by the Comptroller General as described in paragraph (1).11 See References in Text note below.
   - **(2)** For purposes of determining compliance with paragraph (1)(A) with respect to whether internal quality controls are in place and operating and whether established audit standards, policies, and procedures are being followed by Offices of Inspector General of establishments defined under section 12(2), Offices of Inspector General of designated Federal entities defined under section 8G(a)(2), and any audit office established within a Federal entity defined under section 8G(a)(1), reviews shall be performed exclusively by an audit entity in the Federal Government, including the Government Accountability Office or the Office of Inspector General of each establishment defined under section 12(2), or the Office of Inspector General of each designated Federal entity defined under section 8G(a)(2).
 - **(c)** In carrying out the duties and responsibilities established under this Act, each Inspector General shall give particular regard to the activities of the Comptroller General of the United States with a view toward avoiding duplication and insuring effective coordination and cooperation.
 - **(d)** In carrying out the duties and responsibilities established under this Act, each Inspector General shall report expeditiously to the Attorney General whenever the Inspector General has reasonable grounds to believe there has been a violation of Federal criminal law.
@@ -36,9 +36,19 @@ section: 4
 
 ## Notes
 
+1 See References in Text note below.
+
+### Editorial Notes
+
+### References in Text
+
+Paragraph (1), referred to in subsec. (b)(1)(C), means par. (1) of subsec. (b) of this section, but probably should be a reference to subpar. (A) of subsec. (b)(1) of this section following the redesignation of subsec. (b)(1) as subsec. (b)(1)(A) by Pub. L. 100–504, title I, § 109(1), (2), Oct. 18, 1988, 102 Stat. 2529.
+
 ### Amendments
 
 2016—Subsec. (b)(2). Pub. L. 114–317, § 7(d)(2)(A), substituted “8G(a)(2)” for “8F(a)(2)” in two places and “8G(a)(1)” for “8F(a)(1)”. Subsec. (e). Pub. L. 114–317, § 4(d), added subsec. (e). 2008—Subsec. (b)(2). Pub. L. 110–409 substituted “section 12(2)” for “section 11(2)” in two places. 2004—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”. 1993—Subsec. (b)(2). Pub. L. 103–82 substituted “section 8F(a)(2), and any” for “section 8E(a)(2), and any”, “section 8F(a)(1)” for “section 8E(a)(1)”, and “section 8F(a)(2).” for “section 8E(a)(2).” 1988—Subsec. (b). Pub. L. 100–504 designated existing provisions as par. (1), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1993 Amendment
 

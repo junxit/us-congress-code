@@ -27,6 +27,8 @@ section: 15
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The date of the enactment of the Federal Advisory Committee Act Amendments of 1997, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 105–153, which was approved Dec. 17, 1997.
@@ -34,6 +36,8 @@ The date of the enactment of the Federal Advisory Committee Act Amendments of 19
 ### Prior Provisions
 
 A prior section 15 of the Federal Advisory Committee Act was renumbered section 16 by Pub. L. 105–153.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Report
 

@@ -65,6 +65,8 @@ section: 8L
 
 1 So in original. The comma probably should follow “section)”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Foreign Service Act of 1980, referred to in subsec. (d)(3)(C)(i), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 8 of title I of the Act is classified generally to part I (§ 4041 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables. The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (d)(5)(B), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.

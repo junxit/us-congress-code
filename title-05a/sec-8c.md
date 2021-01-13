@@ -15,6 +15,8 @@ section: 8C
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 8C of the Inspector General Act of 1978 was renumbered section 8D by Pub. L. 103–204.

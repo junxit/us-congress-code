@@ -57,7 +57,7 @@ section: 45Q
       - **(ii)** is measured at the source of capture and verified at the point of disposal, injection, or utilization.
   - **(2)** *Recycled carbon oxide* The term “qualified carbon oxide” includes the initial deposit of captured carbon oxide used as a tertiary injectant. Such term does not include carbon oxide that is recaptured, recycled, and re-injected as part of the enhanced oil and natural gas recovery process.
 - **(d)** *Qualified facility* For purposes of this section, the term “qualified facility” means any industrial facility or direct air capture facility—
-  - **(1)** the construction of which begins before January 1, 2024, and—
+  - **(1)** the construction of which begins before January 1, 2026, and—
     - **(A)** construction of carbon capture equipment begins before such date, or
     - **(B)** the original planning and design for such facility includes installation of carbon capture equipment, and
   - **(2)** which captures—
@@ -112,7 +112,7 @@ section: 45Q
 
 ## Source credit
 
-(Added Pub. L. 110–343, div. B, title I, § 115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, § 1131(a), (b), Feb. 17, 2009, 123 Stat. 325; Pub. L. 113–295, div. A, title II, § 209(j)(1), Dec. 19, 2014, 128 Stat. 4030; Pub. L. 115–123, div. D, title II, § 41119(a), Feb. 9, 2018, 132 Stat. 162.)
+(Added Pub. L. 110–343, div. B, title I, § 115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, § 1131(a), (b), Feb. 17, 2009, 123 Stat. 325; Pub. L. 113–295, div. A, title II, § 209(j)(1), Dec. 19, 2014, 128 Stat. 4030; Pub. L. 115–123, div. D, title II, § 41119(a), Feb. 9, 2018, 132 Stat. 162; Pub. L. 116–260, div. EE, title I, § 121, Dec. 27, 2020, 134 Stat. 3051.)
 
 ## Notes
 
@@ -126,7 +126,7 @@ The date of the enactment of the Bipartisan Budget Act of 2018 and the date of t
 
 ### Amendments
 
-2018—Pub. L. 115–123 amended section generally. Prior to amendment, section related to credit for carbon dioxide sequestration. 2014—Subsec. (d)(2). Pub. L. 113–295 substituted “Administrator of the Environmental Protection Agency, the Secretary of Energy, and the Secretary of the Interior, shall establish” for “Administrator of the Environmental Protection Agency the Secretary of Energy, and the Secretary of the Interior,, shall establish”. 2009—Subsec. (a)(1)(B). Pub. L. 111–5, § 1131(b)(2), inserted “and not used by the taxpayer as described in paragraph (2)(B)” after “storage”. Subsec. (a)(2)(C). Pub. L. 111–5, § 1131(a), added subpar. (C). Subsec. (d)(2). Pub. L. 111–5, § 1131(b)(1), inserted “the Secretary of Energy, and the Secretary of the Interior,” after “Environmental Protection Agency” and substituted “paragraph (1)(B) or (2)(C) of subsection (a)” for “subsection (a)(1)(B)” and “, oil and gas reservoirs, and unminable coal seams” for “and unminable coal seems”. Subsec. (e). Pub. L. 111–5, § 1131(b)(3), substituted “taken into account in accordance with subsection (a)” for “captured and disposed of or used as a tertiary injectant”.
+2020—Subsec. (d)(1). Pub. L. 116–260 substituted “January 1, 2026” for “January 1, 2024” in introductory provisions. 2018—Pub. L. 115–123 amended section generally. Prior to amendment, section related to credit for carbon dioxide sequestration. 2014—Subsec. (d)(2). Pub. L. 113–295 substituted “Administrator of the Environmental Protection Agency, the Secretary of Energy, and the Secretary of the Interior, shall establish” for “Administrator of the Environmental Protection Agency the Secretary of Energy, and the Secretary of the Interior,, shall establish”. 2009—Subsec. (a)(1)(B). Pub. L. 111–5, § 1131(b)(2), inserted “and not used by the taxpayer as described in paragraph (2)(B)” after “storage”. Subsec. (a)(2)(C). Pub. L. 111–5, § 1131(a), added subpar. (C). Subsec. (d)(2). Pub. L. 111–5, § 1131(b)(1), inserted “the Secretary of Energy, and the Secretary of the Interior,” after “Environmental Protection Agency” and substituted “paragraph (1)(B) or (2)(C) of subsection (a)” for “subsection (a)(1)(B)” and “, oil and gas reservoirs, and unminable coal seams” for “and unminable coal seems”. Subsec. (e). Pub. L. 111–5, § 1131(b)(3), substituted “taken into account in accordance with subsection (a)” for “captured and disposed of or used as a tertiary injectant”.
 
 ### Effective Date of 2018 Amendment
 

@@ -22,13 +22,19 @@ section: 10
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1976—Subsec. (d). Pub. L. 94–409 inserted “portion of an” after “to any” and substituted provisions relating to determinations for closing to the public such portion of the meeting in accordance with section 552b(c) of title 5, for provisions relating to determinations of matters listed in section 552(b) of title 5.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see section 6 of Pub. L. 94–409, set out as an Effective Date note under section 552b of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

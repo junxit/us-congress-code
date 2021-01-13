@@ -31,6 +31,8 @@ section: 7
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 501 of the Rehabilitation Act of 1973, referred to in subsec. (d)(1)(C)(i), is classified to section 791 of Title 29, Labor, rather than to section 794 of Title 29 as shown in text.
@@ -39,14 +41,18 @@ Section 501 of the Rehabilitation Act of 1973, referred to in subsec. (d)(1)(C)(
 
 1980—Subsec. (d)(1)(C). Pub. L. 96–523 added subpar. (C).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–523 effective sixty days after Dec. 12, 1980, see section 3 of Pub. L. 96–523, set out as a note under section 3102 of this title.
 
-### Transfer of Functions
-
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (d) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of this title, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of this title. “Administrator”, “Administrator’s”, “Administrator of General Services”, and “General Services Administration” substituted for “Director”, “Director’s”, “Director, Office of Management and Budget”, and “Office of Management and Budget” in text pursuant to Reorg. Plan No. 1 of 1977, § 5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.
-
 ### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of this title, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of this title.
+
+### Executive Documents
+
+### Transfer of Functions
+
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (d) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of this title, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of this title. “Administrator”, “Administrator’s”, “Administrator of General Services”, and “General Services Administration” substituted for “Director”, “Director’s”, “Director, Office of Management and Budget”, and “Office of Management and Budget” in text pursuant to Reorg. Plan No. 1 of 1977, § 5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.

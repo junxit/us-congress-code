@@ -21,6 +21,8 @@ section: 2
 
 ## Notes
 
+### Executive Documents
+
 ### Executive Order No. 11686
 
 Ex. Ord. No. 11686, Oct. 7, 1972, 37 F.R. 21421, which related to committee management, was superseded by Ex. Ord. No. 11769, Feb. 21, 1974, 39 F.R. 7125, formerly set out below.

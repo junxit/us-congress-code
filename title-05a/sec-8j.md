@@ -14,6 +14,8 @@ The special provisions under section 8, 8A, 8B, 8C, 8D, 8E, 8F, 8H, or 8N of thi
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 105–206, § 1103(e)(3)(A), which directed that this section be renumbered as 8H, could not be executed because of a prior renumbering by Pub. L. 104–208.
@@ -25,6 +27,8 @@ A prior section 8J of the Inspector General Act of 1978, Pub. L. 95–452, § 8J
 ### Amendments
 
 2016—Pub. L. 114–317 substituted “8H, or 8N” for “or 8H”. 1998—Pub. L. 105–272, § 702(b)(2), which directed the amendment of this section by substituting “8E, or 8H” for “or 8E”, was executed by substituting “, 8F, or 8H” for “or 8F”, to reflect the probable intent of Congress and the amendment by Pub. L. 105–206, § 1103(e)(3)(B). See below. Pub. L. 105–206, § 1103(e)(3)(C), substituted “section 8G(a)” for “section 8F(a)”. Pub. L. 105–206, § 1103(e)(3)(B), substituted “8E or 8F” for “or 8E”. 1993—Pub. L. 103–82, § 202(g)(5)(B), substituted “8D, or 8E” for “or 8D” and “section 8F(a)” for “section 8E(a)”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1993 Amendment
 

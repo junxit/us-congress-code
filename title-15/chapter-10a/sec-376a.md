@@ -17,7 +17,7 @@ section: 376a
     - **(D)** other payment obligations or legal requirements relating to the sale, distribution, or delivery of cigarettes or smokeless tobacco; and
   - **(4)** the tax collection requirements set forth in subsection (d).
 - **(b)** *Shipping and packaging*
-  - **(1)** *Required statement* For any shipping package containing cigarettes or smokeless tobacco, the delivery seller shall include on the bill of lading, if any, and on the outside of the shipping package, on the same surface as the delivery address, a clear and conspicuous statement providing as follows: “CIGARETTES/SMOKELESS TOBACCO: FEDERAL LAW REQUIRES THE PAYMENT OF ALL APPLICABLE EXCISE TAXES, AND COMPLIANCE WITH APPLICABLE LICENSING AND TAX-STAMPING OBLIGATIONS”.
+  - **(1)** *Required statement* For any shipping package containing cigarettes or smokeless tobacco, the delivery seller shall include on the bill of lading, if any, and on the outside of the shipping package, on the same surface as the delivery address, a clear and conspicuous statement providing as follows: “CIGARETTES/NICOTINE/SMOKELESS TOBACCO: FEDERAL LAW REQUIRES THE PAYMENT OF ALL APPLICABLE EXCISE TAXES, AND COMPLIANCE WITH APPLICABLE LICENSING AND TAX-STAMPING OBLIGATIONS”.
   - **(2)** *Failure to label* Any shipping package described in paragraph (1) that is not labeled in accordance with that paragraph shall be treated as nondeliverable matter by a common carrier or other delivery service, if the common carrier or other delivery service knows or should know the package contains cigarettes or smokeless tobacco. If a common carrier or other delivery service believes a package is being submitted for delivery in violation of paragraph (1), it may require the person submitting the package for delivery to establish that it is not being sent in violation of paragraph (1) before accepting the package for delivery. Nothing in this paragraph shall require the common carrier or other delivery service to open any package to determine its contents.
   - **(3)** *Weight restriction* A delivery seller shall not sell, offer for sale, deliver, or cause to be delivered in any single sale or single delivery any cigarettes or smokeless tobacco weighing more than 10 pounds.
   - **(4)** *Age verification*
@@ -130,13 +130,21 @@ section: 376a
 
 ## Source credit
 
-(Oct. 19, 1949, ch. 699, § 2A, as added Pub. L. 111–154, § 2(c), Mar. 31, 2010, 124 Stat. 1091.)
+(Oct. 19, 1949, ch. 699, § 2A, as added Pub. L. 111–154, § 2(c), Mar. 31, 2010, 124 Stat. 1091; amended Pub. L. 116–260, div. FF, title VI, § 602(a)(2), Dec. 27, 2020, 134 Stat. 3137.)
 
 ## Notes
 
 ### References in Text
 
 The Prevent All Cigarette Trafficking Act of 2009, referred to in subsec. (e)(1)(A), (5)(C)(i), is Pub. L. 111–154, Mar. 31, 2010, 124 Stat. 1087, also known as the PACT Act. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 375 of this title and Tables. For the date subsection (e) of this section goes into effect, referred to in subsec. (e)(1)(A), see Effective Date note below.
+
+### Amendments
+
+2020—Subsec. (b)(1). Pub. L. 116–260 inserted “NICOTINE/” after “CIGARETTES/”.
+
+### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective on the date that is 90 days after Dec. 27, 2020, see section 602(b) of Pub. L. 116–260, set out as a note under section 375 of this title.
 
 ### Effective Date
 

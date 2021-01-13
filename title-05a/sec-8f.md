@@ -19,6 +19,8 @@ section: 8F
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 103–204, § 23(a)(4), Dec. 17, 1993, 107 Stat. 2408, which directed the amendment of section 8F(a)(2) by striking out “the Federal Deposit Insurance Corporation,”, could not be executed to this section because the quoted language does not appear. However, the amendment was executed to section 8G(a)(2) of the Inspector General Act of 1978 relating to requirements for Federal entities and designated Federal entities, to reflect the probable intent of Congress and the successive renumbering of that section as section 8F by Pub. L. 103–82 and as section 8G by Pub. L. 103–204.
@@ -30,6 +32,8 @@ A prior section 8F of the Inspector General Act of 1978, relating to requirement
 ### Amendments
 
 2009—Subsec. (a)(1). Pub. L. 111–13 substituted “National and Community Service Act of 1990” for “National and Community Service Trust Act of 1993”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2009 Amendment
 

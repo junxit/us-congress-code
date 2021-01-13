@@ -30,9 +30,13 @@ section: 8M
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Subsec. (a)(1). Pub. L. 114–317, § 7(b)(1)(A)(i), substituted “Each Federal agency and designated Federal entity” for “Each agency” and substituted “that Federal agency or designated Federal entity” for “that agency” in two places. Subsec. (b)(1). Pub. L. 114–317, § 7(c), substituted “audit report, inspection report, or evaluation report (or portion of any such report)” for “report or audit (or portion of any report or audit)” in subpar. (A) and “report (or portion of that report)” for “report or audit (or portion of that report or audit)” in subpars. (A) and (B). Pub. L. 114–317, § 7(b)(1)(A)(ii)(I), substituted “agency” for “Federal agency and designated Federal entity” in introductory provisions. Subsec. (b)(1)(A). Pub. L. 114–317, § 4(e)(1), substituted “is submitted in final form to the head of the Federal agency or the head of the designated Federal entity, as applicable” for “is made publicly available”. Subsec. (b)(2). Pub. L. 114–317, § 7(b)(1)(A)(ii)(II), substituted “Federal agency and designated Federal entity” for “agency” in subpars. (A) and (B). Subsec. (b)(3). Pub. L. 114–317, § 4(e)(2), added par. (3). Subsec. (c). Pub. L. 114–317, § 7(b)(1)(A)(iii), added subsec. (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2016 Amendment
 

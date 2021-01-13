@@ -24,6 +24,8 @@ there is established—
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Amendment by Pub. L. 100–527 amended section as it existed prior to amendment by Pub. L. 100–504, see Effective Date of 1988 Amendments note below.
@@ -31,6 +33,8 @@ Amendment by Pub. L. 100–527 amended section as it existed prior to amendment 
 ### Amendments
 
 2008—Par. (1). Pub. L. 110–409 substituted “section 12(2)” for “section 11(2)”. 1998—Pub. L. 105–206, in concluding provisions, substituted “there is established—” and subpars. (A) and (B) for “there is hereby established in each of such establishments an office of Inspector General.” 1988—Pub. L. 100–504 substituted “there” for “thereby” in concluding provisions and amended par. (1) generally. Prior to amendment, par. (1), as amended by Pub. L. 100–527, read as follows: “to conduct and supervise audits and investigations relating to programs and operations of the Department of Agriculture, the Department of Commerce, the Department of Defense, the Department of Education, the Department of Housing and Urban Development, the Department of the Interior, the Department of Labor, the Department of Transportation, the Department of Veterans Affairs, the Agency for International Development, the Community Services Administration, the Environmental Protection Agency, the General Services Administration, the National Aeronautics and Space Administration, the Small Business Administration, the United States Information Agency, and the Department of State;”. Par. (1). Pub. L. 100–527 inserted “the Department of Veterans Affairs,” and struck out “the Veterans’ Administration,” after “United States Information Agency,”. See Codification note above. 1986—Par. (1). Pub. L. 99–399 inserted “the United States Information Agency,”. 1985—Par. (1). Pub. L. 99–93 inserted reference to the Department of State. 1982—Par. (1). Pub. L. 97–252, § 1117(a)(1), inserted “the Department of Defense,”. 1981—Par. (1). Pub. L. 97–113 inserted “the Agency for International Development,”. 1979—Par. (1). Pub. L. 96–88 inserted “the Department of Education,”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1988 Amendments
 

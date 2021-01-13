@@ -16,14 +16,18 @@ section: 6
 
 ## Notes
 
-### Termination of Reporting Requirements
-
-For termination, effective May 15, 2000, of reporting provisions in subsec. (c) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 173 of House Document No. 103–7.
+### Editorial Notes
 
 ### Amendments
 
 1982—Subsec. (c). Pub. L. 97–375 substituted provision that the President shall, not later than Dec. 31 of each year, make an annual report to Congress on the activities, status, and changes in the composition of advisory committees in existence during the preceding fiscal year, for provision the President, not later than March 31 of each calendar year after 1972, make an annual report to Congress on the activities, status, and changes in the composition of advisory committees in existence during the preceding calendar year.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 1982 Amendment
 
 Pub. L. 97–375, title II, § 201(c), Dec. 21, 1982, 96 Stat. 1822, provided that the amendment made by that subsection is effective July 1, 1983.
+
+### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (c) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 173 of House Document No. 103–7.

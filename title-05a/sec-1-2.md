@@ -14,6 +14,8 @@ This Act be cited as the “Inspector General Act of 1978”.
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Short Title of 2018 Amendment
 
 Pub. L. 115–192, § 1, June 25, 2018, 132 Stat. 1502, provided that: “This Act [amending sections 3, 5, and 11 of Pub. L. 95–452, set out in this Appendix, and repealing provisions set out as a note under section 3 of Pub. L. 95–452, set out in this Appendix] may be cited as the ‘Whistleblower Protection Coordination Act’.”

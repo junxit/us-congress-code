@@ -47,6 +47,8 @@ section: 8I
 
 1 So in original.
 
+### Editorial Notes
+
 ### References in Text
 
 The Presidential Protection Assistance Act of 1976, referred to in subsec. (a)(1)(E), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, as amended, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables. GS–15, referred to in subsec. (f)(1), is contained in the General Schedule, which is set out under section 5332 of this title.
@@ -58,6 +60,8 @@ A prior section 8I of the Inspector General Act of 1978 was renumbered section 8
 ### Amendments
 
 2016—Subsec. (a)(2). Pub. L. 114–317 inserted “from accessing information described in paragraph (1),” after “completing any audit or investigation,” and “, access such information,” after “complete such audit or investigation”. 2006—Subsec. (a)(1)(E). Pub. L. 109–177 substituted “section 3056A of title 18” for “section 202 of title 3”. 2004—Subsec. (f). Pub. L. 108–458 added subsec. (f).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Review of Departmental Contracts Awarded Through Means Other Than Full and Open Competition
 

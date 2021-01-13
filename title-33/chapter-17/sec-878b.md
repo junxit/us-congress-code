@@ -21,8 +21,6 @@ On and after March 11, 2009, the Secretary of Commerce is permitted to prescribe
 
 Section was enacted as part of the Department of Commerce Appropriations Act, 2009, which is title I of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2009, which is div. B of the Omnibus Appropriations Act, 2009.
 
-### Statutory Notes and Related Subsidiaries
-
 ### Similar Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation act: Pub. L. 110–161, div. B, title I, § 110, Dec. 26, 2007, 121 Stat. 1893.

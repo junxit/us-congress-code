@@ -28,6 +28,8 @@ section: 9
 
 ## Notes
 
+### Executive Documents
+
 ### Transfer of Functions
 
 “Administrator”, meaning Administrator of General Services, substituted for “Director”, meaning Director of Office of Management and Budget, in subsecs. (a)(2) and (c) pursuant to Reorg. Plan No. 1 of 1977, § 5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.

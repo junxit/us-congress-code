@@ -22,13 +22,19 @@ For the purpose of this Act—
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1997—Par. (2). Pub. L. 105–153, in closing provisions, substituted “such term excludes (i) any committee that is composed wholly of full-time, or permanent part-time, officers or employees of the Federal Government, and (ii) any committee that is created by the National Academy of Sciences or the National Academy of Public Administration.” for “such term excludes (i) the Advisory Commission on Intergovernmental Relations, (ii) the Commission on Government Procurement, and (iii) any committee which is composed wholly of full-time officers or employees of the Federal Government.”
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 1997 Amendment
 
 Pub. L. 105–153, § 2(c), Dec. 17, 1997, 111 Stat. 2691, provided that: “(1) In general.—Except as provided in paragraph (2), this section [enacting section 15 of Pub. L. 92–463, set out in this Appendix, amending this section, and redesignating former section 15 of Pub. L. 92–463, set out in this Appendix, as section 16] and the amendments made by this section shall take effect on the date of the enactment of this Act [Dec. 17, 1997]. “(2) Retroactive effect.—Subsection (a) [amending this section] and the amendments made by subsection (a) shall be effective as of October 6, 1972, except that they shall not apply with respect to or otherwise affect any particular advice or recommendations that are subject to any judicial action filed before the date of the enactment of this Act.”
+
+### Executive Documents
 
 ### Transfer of Functions
 
