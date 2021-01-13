@@ -25,18 +25,17 @@ In this subchapter:
 - **(11)** *National Coordinator* The term “National Coordinator” means the head of the Office of the National Coordinator for Health Information Technology established under section 300jj–11(a) of this title.
 - **(12)** *Pharmacist* The term “pharmacist” has the meaning given such term in section 384(2) 33 So in original. Probably should be “(a)(2)”. of title 21.
 - **(13)** *Qualified electronic health record* The term “qualified electronic health record” means an electronic record of health-related information on an individual that—
-  - **(A)** includes patient demographic and clinical health information, such as medical history and problem lists;
+  - **(A)** includes patient demographic and clinical health information, such as medical history and problem lists; and
   - **(B)** has the capacity—
     - **(i)** to provide clinical decision support;
     - **(ii)** to support physician order entry;
     - **(iii)** to capture and query information relevant to health care quality; and
-    - **(iv)** to exchange electronic health information with, and integrate such information from other sources; and
-  - **(C)** includes, or is capable of including, a real-time benefit tool that conveys patient-specific real-time cost and coverage information with respect to prescription drugs that, with respect to any health information technology certified for electronic prescribing, the technology shall be capable of incorporating the information described in clauses (i) through (iii) of paragraph (2)(B) of section 1395w–104(o) of this title at a time specified by the Secretary but not before the Secretary adopts a standard for such tools as described in paragraph (1) of such section.
+    - **(iv)** to exchange electronic health information with, and integrate such information from other sources.
 - **(15)** *44 So in original. There is no par. (14). State* The term “State” means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title XXX, § 3000, as added Pub. L. 111–5, div. A, title XIII, § 13101, Feb. 17, 2009, 123 Stat. 228; amended Pub. L. 114–255, div. A, title IV, § 4003(a), (e)(2)(B), Dec. 13, 2016, 130 Stat. 1165, 1174; Pub. L. 116–260, div. CC, title I, § 119(b), Dec. 27, 2020, 134 Stat. 2952.)
+(July 1, 1944, ch. 373, title XXX, § 3000, as added Pub. L. 111–5, div. A, title XIII, § 13101, Feb. 17, 2009, 123 Stat. 228; amended Pub. L. 114–255, div. A, title IV, § 4003(a), (e)(2)(B), Dec. 13, 2016, 130 Stat. 1165, 1174.)
 
 ## Notes
 
@@ -54,7 +53,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in par. 
 
 ### Amendments
 
-2020—Par. (13)(C). Pub. L. 116–260 added subpar. (C). 2016—Par. (7). Pub. L. 114–255, § 4003(e)(2)(B), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “The term ‘HIT Policy Committee’ means such Committee established under section 300jj–12(a) of this title.” Par. (8). Pub. L. 114–255, § 4003(e)(2)(B)(i), redesignated par. (9) as (8) and struck out former par. (8). Prior to amendment, text of par. (8) read as follows: “The term ‘HIT Standards Committee’ means such Committee established under section 300jj–13(a) of this title.” Par. (9). Pub. L. 114–255, § 4003(e)(2)(B)(i), redesignated par. (10) as (9). Former par. (9) redesignated (8). Par. (10). Pub. L. 114–255, § 4003(e)(2)(B)(i), redesignated par. (11) as (10). Former par. (10) redesignated (9). Pub. L. 114–255, § 4003(a)(2), added par. (10). Former par. (10) redesignated (11). Pars. (11) to (14). Pub. L. 114–255, § 4003(e)(2)(B)(i), redesignated pars. (12) to (14) as (11) to (13), respectively. Former par. (11) redesignated (10). Pub. L. 114–255, § 4003(a)(1), redesignated pars. (10) to (13) as (11) to (14), respectively. Former par. (14) redesignated (15). Par. (15). Pub. L. 114–255, § 4003(a)(1), redesignated par. (14) as (15).
+2016—Par. (7). Pub. L. 114–255, § 4003(e)(2)(B), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “The term ‘HIT Policy Committee’ means such Committee established under section 300jj–12(a) of this title.” Par. (8). Pub. L. 114–255, § 4003(e)(2)(B)(i), redesignated par. (9) as (8) and struck out former par. (8). Prior to amendment, text of par. (8) read as follows: “The term ‘HIT Standards Committee’ means such Committee established under section 300jj–13(a) of this title.” Par. (9). Pub. L. 114–255, § 4003(e)(2)(B)(i), redesignated par. (10) as (9). Former par. (9) redesignated (8). Par. (10). Pub. L. 114–255, § 4003(e)(2)(B)(i), redesignated par. (11) as (10). Former par. (10) redesignated (9). Pub. L. 114–255, § 4003(a)(2), added par. (10). Former par. (10) redesignated (11). Pars. (11) to (14). Pub. L. 114–255, § 4003(e)(2)(B)(i), redesignated pars. (12) to (14) as (11) to (13), respectively. Former par. (11) redesignated (10). Pub. L. 114–255, § 4003(a)(1), redesignated pars. (10) to (13) as (11) to (14), respectively. Former par. (14) redesignated (15). Par. (15). Pub. L. 114–255, § 4003(a)(1), redesignated par. (14) as (15).
 
 ### Assisting Doctors and Hospitals in Improving Quality of Care for Patients
 
