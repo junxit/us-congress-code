@@ -47,10 +47,11 @@ section: 653a
   - **(1)** *Location of child support obligors* The agency administering the State plan approved under this part shall use information received pursuant to subsection (f)(2) to locate individuals for purposes of establishing paternity and establishing, modifying, and enforcing child support obligations, and may disclose such information to any agent of the agency that is under contract with the agency to carry out such purposes.
   - **(2)** *Verification of eligibility for certain programs* A State agency responsible for administering a program specified in section 1320b–7(b) of this title shall have access to information reported by employers pursuant to subsection (b) of this section for purposes of verifying eligibility for the program.
   - **(3)** *Administration of employment security and workers’ compensation* State agencies operating employment security and workers’ compensation programs shall have access to information reported by employers pursuant to subsection (b) for the purposes of administering such programs.
+  - **(4)** *Veteran employment* The Secretaries of Labor and of Veterans Affairs shall have access to information reported by employers pursuant to subsection (b) of this section for purposes of tracking employment of veterans.
 
 ## Source credit
 
-(Aug. 14, 1935, ch. 531, title IV, § 453A, as added Pub. L. 104–193, title III, § 313(b), Aug. 22, 1996, 110 Stat. 2209; amended Pub. L. 105–33, title V, § 5533, Aug. 5, 1997, 111 Stat. 627; Pub. L. 111–291, title VIII, § 802(a), (b), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 112–40, title II, § 253(a), Oct. 21, 2011, 125 Stat. 422.)
+(Aug. 14, 1935, ch. 531, title IV, § 453A, as added Pub. L. 104–193, title III, § 313(b), Aug. 22, 1996, 110 Stat. 2209; amended Pub. L. 105–33, title V, § 5533, Aug. 5, 1997, 111 Stat. 627; Pub. L. 111–291, title VIII, § 802(a), (b), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 112–40, title II, § 253(a), Oct. 21, 2011, 125 Stat. 422; Pub. L. 116–315, title IV, § 4301, Jan. 5, 2021, 134 Stat. 5016.)
 
 ## Notes
 
@@ -60,7 +61,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(2), (b)(1)(A), an
 
 ### Amendments
 
-2011—Subsec. (a)(2)(C). Pub. L. 112–40 added subpar. (C). 2010—Subsec. (b)(1)(A). Pub. L. 111–291, § 802(a), inserted “the date services for remuneration were first performed by the employee,” after “of the employee,”. Subsec. (c). Pub. L. 111–291, § 802(b), inserted “, to the extent practicable,” after “Each report required by subsection (b) shall”. 1997—Subsec. (d). Pub. L. 105–33, § 5533(1), substituted “shall not exceed” for “shall be less than” in introductory provisions and “$25 per failure to meet the requirements of this section with respect to a newly hired employee” for “$25” in par. (1). Subsec. (g)(2)(B). Pub. L. 105–33, § 5533(2), substituted “information” for “extracts of the reports required under section 503(a)(6) of this title to be made to the Secretary of Labor”.
+2021—Subsec. (h)(4). Pub. L. 116–315 added par. (4). 2011—Subsec. (a)(2)(C). Pub. L. 112–40 added subpar. (C). 2010—Subsec. (b)(1)(A). Pub. L. 111–291, § 802(a), inserted “the date services for remuneration were first performed by the employee,” after “of the employee,”. Subsec. (c). Pub. L. 111–291, § 802(b), inserted “, to the extent practicable,” after “Each report required by subsection (b) shall”. 1997—Subsec. (d). Pub. L. 105–33, § 5533(1), substituted “shall not exceed” for “shall be less than” in introductory provisions and “$25 per failure to meet the requirements of this section with respect to a newly hired employee” for “$25” in par. (1). Subsec. (g)(2)(B). Pub. L. 105–33, § 5533(2), substituted “information” for “extracts of the reports required under section 503(a)(6) of this title to be made to the Secretary of Labor”.
 
 ### Effective Date of 2011 Amendment
 
