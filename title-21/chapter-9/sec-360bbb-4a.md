@@ -17,7 +17,9 @@ section: 360bbb–4a
       - **(ii)** to mitigate, prevent, or treat harm from a condition that may result in adverse health consequences or death and may be caused by administering a drug, or biological product against such agent; and
     - **(B)** the Secretary determines eligible for priority review;
     - **(C)** is approved after December 13, 2016; and
-    - **(D)** is for a human drug, no active ingredient (including any ester or salt of the active ingredient) of which has been approved in any other application under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [42 U.S.C. 262(a)].
+    - **(D)** is for—
+      - **(i)** a human drug, no active moiety (as defined by the Secretary in section 314.3 of title 21, Code of Federal Regulations (or any successor regulations)) of which has been approved in any other application under section 355(b)(1) of this title; or
+      - **(ii)** a biological product, no active ingredient of which has been approved in any other application under section 351 of the Public Health Service Act [42 U.S.C. 262].
 - **(b)** *Priority review voucher*
   - **(1)** *In general* The Secretary shall award a priority review voucher to the sponsor of a material threat medical countermeasure application upon approval by the Secretary of such material threat medical countermeasure application.
   - **(2)** *Transferability* The sponsor of a material threat medical countermeasure application that receives a priority review voucher under this section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [42 U.S.C. 262(a)] will be submitted after the date of the approval of the material threat medical countermeasure application. There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.
@@ -44,7 +46,7 @@ section: 360bbb–4a
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 565A, as added Pub. L. 114–255, div. A, title III, § 3086, Dec. 13, 2016, 130 Stat. 1144.)
+(June 25, 1938, ch. 675, § 565A, as added Pub. L. 114–255, div. A, title III, § 3086, Dec. 13, 2016, 130 Stat. 1144; Pub. L. 117–9, § 1(a)(5), Apr. 23, 2021, 135 Stat. 258.)
 
 ## Notes
 
@@ -57,3 +59,7 @@ section: 360bbb–4a
 ### References in Text
 
 Section 101(b) of the Food and Drug Administration Safety and Innovation Act, referred to in subsec. (a)(2), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title. The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+### Amendments
+
+2021—Subsec. (a)(4)(D). Pub. L. 117–9 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “is for a human drug, no active ingredient (including any ester or salt of the active ingredient) of which has been approved in any other application under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act.”

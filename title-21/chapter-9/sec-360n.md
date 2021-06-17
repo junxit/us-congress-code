@@ -37,7 +37,9 @@ section: 360n
       - **(iii)** that contains reports of one or more new clinical investigations (other than bioavailability studies) that are essential to the approval of the application and conducted or sponsored by the sponsor of such application; and
       - **(iv)** that contains an attestation from the sponsor of the application that such reports were not submitted as part of an application for marketing approval or licensure by a regulatory authority in India, Brazil, Thailand, or any country that is a member of the Pharmaceutical Inspection Convention or the Pharmaceutical Inspection Cooperation Scheme prior to September 27, 2007.11 So in original. The period probably should be a semicolon.
     - **(B)** is approved after September 27, 2007, by the Secretary for use in the prevention, detection, or treatment of a tropical disease; and
-    - **(C)** is for a human drug, no active ingredient (including any ester or salt of the active ingredient) of which has been approved in any other application under section 355(b)(1) of this title or section 262 of title 42.
+    - **(C)** is for—
+      - **(i)** a human drug, no active moiety (as defined by the Secretary in section 314.3 of title 21, Code of Federal Regulations (or any successor regulations)) of which has been approved in any other application under section 355(b)(1) of this title; or
+      - **(ii)** a biological product, no active ingredient of which has been approved in any other application under section 262 of title 42.
 - **(b)** *Priority review voucher*
   - **(1)** *In general* The Secretary shall award a priority review voucher to the sponsor of a tropical disease product application upon approval by the Secretary of such tropical disease product application.
   - **(2)** *Transferability* The sponsor of a tropical disease product that receives a priority review voucher under this section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under section 355(b)(1) of this title or section 262 of title 42 will be submitted after the date of the approval of the tropical disease product application. There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.
@@ -59,7 +61,7 @@ section: 360n
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 524, as added Pub. L. 110–85, title XI, § 1102, Sept. 27, 2007, 121 Stat. 972; amended Pub. L. 113–233, § 2, Dec. 16, 2014, 128 Stat. 2127; Pub. L. 114–146, § 2, Apr. 19, 2016, 130 Stat. 357; Pub. L. 114–255, div. A, title III, § 3101(a)(2)(M), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 115–52, title VI, § 611(a), Aug. 18, 2017, 131 Stat. 1054.)
+(June 25, 1938, ch. 675, § 524, as added Pub. L. 110–85, title XI, § 1102, Sept. 27, 2007, 121 Stat. 972; amended Pub. L. 113–233, § 2, Dec. 16, 2014, 128 Stat. 2127; Pub. L. 114–146, § 2, Apr. 19, 2016, 130 Stat. 357; Pub. L. 114–255, div. A, title III, § 3101(a)(2)(M), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 115–52, title VI, § 611(a), Aug. 18, 2017, 131 Stat. 1054; Pub. L. 117–9, § 1(a)(3), Apr. 23, 2021, 135 Stat. 257.)
 
 ## Notes
 
@@ -73,7 +75,7 @@ Section 101(c) of the Food and Drug Administration Amendments Act of 2007, refer
 
 ### Amendments
 
-2017—Subsec. (a)(4)(A)(iii), (iv). Pub. L. 115–52 added cls. (iii) and (iv). 2016—Subsec. (a)(3)(Q). Pub. L. 114–146, § 2(2), substituted “Filovirus Diseases” for “Filoviruses”. Subsec. (a)(3)(R), (S). Pub. L. 114–146, § 2(1), (3), added subpar. (R) and redesignated former subpar. (R) as (S). Subsec. (c)(4)(A). Pub. L. 114–255 made technical amendment to reference in original act which appears in text as reference to section 262 of title 42. 2014—Subsec. (a)(3)(Q), (R). Pub. L. 113–233, § 2(1), added subpar. (Q), redesignated former subpar. (Q) as (R), and in subpar. (R) substituted “order of” for “regulation by”. Subsec. (b)(2). Pub. L. 113–233, § 2(2)(A), inserted at end “There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.” Subsec. (b)(4). Pub. L. 113–233, § 2(2)(B), substituted “90 days” for “365 days”.
+2021—Subsec. (a)(4)(C). Pub. L. 117–9 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “is for a human drug, no active ingredient (including any ester or salt of the active ingredient) of which has been approved in any other application under section 355(b)(1) of this title or section 262 of title 42.” 2017—Subsec. (a)(4)(A)(iii), (iv). Pub. L. 115–52 added cls. (iii) and (iv). 2016—Subsec. (a)(3)(Q). Pub. L. 114–146, § 2(2), substituted “Filovirus Diseases” for “Filoviruses”. Subsec. (a)(3)(R), (S). Pub. L. 114–146, § 2(1), (3), added subpar. (R) and redesignated former subpar. (R) as (S). Subsec. (c)(4)(A). Pub. L. 114–255 made technical amendment to reference in original act which appears in text as reference to section 262 of title 42. 2014—Subsec. (a)(3)(Q), (R). Pub. L. 113–233, § 2(1), added subpar. (Q), redesignated former subpar. (Q) as (R), and in subpar. (R) substituted “order of” for “regulation by”. Subsec. (b)(2). Pub. L. 113–233, § 2(2)(A), inserted at end “There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.” Subsec. (b)(4). Pub. L. 113–233, § 2(2)(B), substituted “90 days” for “365 days”.
 
 ### Statutory Notes and Related Subsidiaries
 

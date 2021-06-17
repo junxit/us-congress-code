@@ -19,7 +19,7 @@ section: 657f
   - **(3)** in the estimation of the contracting officer, the contract award can be made at a fair and reasonable price.
 - **(d)** *Restricted competition* In accordance with this section, a contracting officer may award contracts on the basis of competition restricted to small business concerns owned and controlled by service-disabled veterans certified under subsection (b) if the contracting officer has a reasonable expectation that not less than 2 small business concerns owned and controlled by service-disabled veterans will submit offers and that the award can be made at a fair market price.
 - **(e)** *Relationship to other contracting preferences* A procurement may not be made from a source on the basis of a preference provided under subsection (a) or (b) if the procurement would otherwise be made from a different source under section 4124 or 4125 of title 18 or chapter 85 of title 41.
-- **(g)** *11 For delayed enactment of subsec. (f), see Amendment of Section note below.Certification requirement* Notwithstanding subsection (c), a contracting officer may only award a sole source contract to a small business concern owned and controlled by service-disabled veterans or a contract on the basis of competition restricted to small business concerns owned and controlled by service-disabled veterans if such a concern is certified by the Administrator as a small business concern owned and controlled by service-disabled veterans.
+- **(g)** *1 Certification requirement* Notwithstanding subsection (c), a contracting officer may only award a sole source contract to a small business concern owned and controlled by service-disabled veterans or a contract on the basis of competition restricted to small business concerns owned and controlled by service-disabled veterans if such a concern is certified by the Administrator as a small business concern owned and controlled by service-disabled veterans.
 - **(h)** *Enforcement; penalties*
   - **(1)** *Verification of eligibility* In carrying out this section, the Administrator shall establish procedures relating to—
     - **(A)** the filing, investigation, and disposition by the Administration of any challenge to the eligibility of a small business concern to receive assistance under this section (including a challenge, filed by an interested party, relating to the veracity of a certification made or information provided to the Administration by a small business concern under subsection (b)); and
@@ -33,8 +33,6 @@ section: 657f
 (Pub. L. 85–536, § 2[36], as added Pub. L. 108–183, title III, § 308, Dec. 16, 2003, 117 Stat. 2662; Pub. L. 116–283, div. A, title VIII, §§ 862(b)(2), (d)(1), 864(3), Jan. 1, 2021, 134 Stat. 3778, 3779, 3785.)
 
 ## Notes
-
-1 For delayed enactment of subsec. (f), see Amendment of Section note below.
 
 ### Amendment of Section
 
