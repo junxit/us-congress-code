@@ -5,7 +5,7 @@ chapter: 1
 section: 652a
 ---
 
-# § 652a. Sector risk management agencies
+# § 652a. Sector Risk Management Agencies
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
@@ -16,7 +16,7 @@ section: 652a
   - **(4)** *Director* The term “Director” means the Director of the Cybersecurity and Infrastructure Security Agency of the Department.
   - **(5)** *Information sharing and analysis organization* The term “information sharing and analysis organization” has the meaning given that term in section 671(5) of this title.
   - **(6)** *Secretary* The term “Secretary” means the Secretary of Homeland Security.
-  - **(7)** *Sector risk management agency* The term “sector risk management agency” has the meaning given the term “Sector-Specific Agency” in section 651(5) of this title.
+  - **(7)** *Sector risk management agency* The term “sector risk management agency” has the meaning given the term “Sector-Specific Agency” in section 651(5) of this title.11 So in original. Section 651(5) of this title defines “Sector Risk Management Agency”.
 - **(b)** *Critical infrastructure sector designation*
   - **(1)** *Initial review* Not later than 180 days after January 1, 2021, the Secretary, in consultation with the heads of Sector Risk Management Agencies, shall—
     - **(A)** review the current framework for securing critical infrastructure, as described in section 652(c)(4) of this title and Presidential Policy Directive 21; and
@@ -54,7 +54,9 @@ section: 652a
 - **(c)** *Sector risk management agencies*
   - **(1)** *Omitted*
   - **(2)** *Omitted*
-  - **(3)** *References Any reference to a Sector Specific Agency (including any permutations or conjugations thereof) in any law, regulation, map, document, record, or other paper of the United States shall be deemed to—(A) be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector; and(B) have the meaning give such term in section 651(5) of this title.*
+  - **(3)** *References* Any reference to a Sector Specific Agency (including any permutations or conjugations thereof) in any law, regulation, map, document, record, or other paper of the United States shall be deemed to—
+    - **(A)** be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector; and
+    - **(B)** have the meaning give such term in section 651(5) of this title.
   - **(4)** *Omitted*
 - **(d)** *Report and auditing* Not later than two years after January 1, 2021 and every four years thereafter for 12 years, the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the effectiveness of Sector Risk Management Agencies in carrying out their responsibilities under section 665d of this title.
 
@@ -63,6 +65,8 @@ section: 652a
 (Pub. L. 116–283, div. H, title XC, § 9002, Jan. 1, 2021, 134 Stat. 4768.)
 
 ## Notes
+
+1 So in original. Section 651(5) of this title defines “Sector Risk Management Agency”.
 
 ### Editorial Notes
 

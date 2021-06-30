@@ -39,7 +39,7 @@ section: 321m
     - **(E)** *Considerations* In developing and implementing the program under this subsection, the designated officer shall—
       - **(i)** consider the unique nature of various sectors within the private sector, including preparedness standards, business continuity standards, or best practices, established—
         - **(I)** under any other provision of Federal law; or
-        - **(II)** by anySector Risk Management Agency, as defined under Homeland Security Presidential Directive–7; and
+        - **(II)** by any Sector Risk Management Agency, as defined under Homeland Security Presidential Directive–7; and
       - **(ii)** coordinate the program, as appropriate, with—
         - **(I)** other Department private sector related programs; and
         - **(II)** preparedness and business continuity programs in other Federal agencies.

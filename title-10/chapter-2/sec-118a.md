@@ -37,9 +37,7 @@ section: 118a
 
 ## Notes
 
-### Codification
-
-Another section 118a, related to quadrennial quality of life review, was added by Pub. L. 107–314, div. A, title V, § 581(a)(1), Dec. 2, 2002, 116 Stat. 2559; amended Pub. L. 113–291, div. A, title X, § 1071(c)(2), Dec. 19, 2014, 128 Stat. 3508.
+1 Another section 118a is set out after this section.
 
 ### Deadline for Submittal of First Report
 
