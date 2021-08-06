@@ -218,7 +218,7 @@ section: 346a
   - **(3)** Recommendations to consumers for reducing dietary exposure to pesticide chemical residues in a manner consistent with maintaining a healthy diet, including a list of food that may reasonably substitute for food listed under paragraph (2).
 - **(p)** *Estrogenic substances screening program*
   - **(1)** *Development* Not later than 2 years after August 3, 1996, the Administrator shall in consultation with the Secretary of Health and Human Services develop a screening program, using appropriate validated test systems and other scientifically relevant information, to determine whether certain substances may have an effect in humans that is similar to an effect produced by a naturally occurring estrogen, or such other endocrine effect as the Administrator may designate.
-  - **(2)** *Implementation* Not later than 3 years after August 3, 1996, after obtaining public comment and review of the screening program described in paragraph (1) by the scientific advisory panel established under section 25(d) of the Federal Insecticide, Fungicide, and Rodenticide Act [7 U.S.C. 136w(d)] or the science advisory board established by section 4365 22 See References in Text note below. of title 42, the Administrator shall implement the program.
+  - **(2)** *Implementation* Not later than 3 years after August 3, 1996, after obtaining public comment and review of the screening program described in paragraph (1) by the scientific advisory panel established under section 25(d) of the Federal Insecticide, Fungicide, and Rodenticide Act [7 U.S.C. 136w(d)] or the science advisory board established by section 4365 1 of title 42, the Administrator shall implement the program.
   - **(3)** *Substances* In carrying out the screening program described in paragraph (1), the Administrator—
     - **(A)** shall provide for the testing of all pesticide chemicals; and
     - **(B)** may provide for the testing of any other substance that may have an effect that is cumulative to an effect of a pesticide chemical if the Administrator determines that a substantial population may be exposed to such substance.
@@ -254,9 +254,7 @@ section: 346a
 
 1 See References in Text note below.
 
-2 See References in Text note below.
-
-3 So in original. Probably should be “subsection”.
+2 So in original. Probably should be “subsection”.
 
 ### Editorial Notes
 

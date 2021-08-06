@@ -42,13 +42,11 @@ section: 384a
 
 2 So in original. Probably should be “title”.
 
-### Editorial Notes
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 
 Section effective 2 years after Jan. 4, 2011, see section 301(d) of Pub. L. 111–353, set out as an Effective Date of 2011 Amendment note under section 331 of this title.
-
-### Statutory Notes and Related Subsidiaries
 
 ### Construction
 

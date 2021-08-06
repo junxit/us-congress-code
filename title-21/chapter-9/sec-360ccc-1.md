@@ -104,7 +104,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(E),
 
 ### Amendments
 
-2018—Subsec. (h)(1). Pub. L. 115–234, § 302(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label use is prohibited.’;” Subsec. (h)(2). Pub. L. 115–234, § 302(2), substituted “or food-producing animals” for “or other animals”. 2015—Subsec. (k). Pub. L. 114–89 added subsec. (k).
+2018—Subsec. (h)(1). Pub. L. 115–234, § 302(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label use is prohibited.’;”. Subsec. (h)(2). Pub. L. 115–234, § 302(2), substituted “or food-producing animals” for “or other animals”. 2015—Subsec. (k). Pub. L. 114–89 added subsec. (k).
 
 ### Statutory Notes and Related Subsidiaries
 
