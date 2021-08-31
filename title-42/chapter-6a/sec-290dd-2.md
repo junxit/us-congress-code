@@ -63,10 +63,6 @@ section: 290dd–2
 
 1 So in original.
 
-### Applicability of Amendment
-
-Amendments by Pub. L. 116–136 to be applicable with respect to uses and disclosures of information occurring on or after the date that is 12 months after Mar. 27, 2020, based on required revisions to implementing regulations, see 2020 Amendment notes and Regulations note set out below.
-
 ### References in Text
 
 The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§ 1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.

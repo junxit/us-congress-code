@@ -88,7 +88,7 @@ In subsec. (g)(2), “section 3324(a) and (b) of title 31” substituted for “
 
 ### Change of Name
 
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of this title.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of this title.
 
 ### Effective Date of 2003 Amendment
 

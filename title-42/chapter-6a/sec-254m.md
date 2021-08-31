@@ -51,7 +51,7 @@ A prior section 338C of act July 1, 1944, was renumbered section 338D by section
 
 ### Change of Name
 
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of this title.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of this title.
 
 ### Effective Date of 1981 Amendment
 

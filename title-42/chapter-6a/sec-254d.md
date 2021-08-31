@@ -87,7 +87,7 @@ Section 294n of this title, referred to in subsec. (d)(1)(C), was in the origina
 
 ### Change of Name
 
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of this title.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of this title.
 
 ### Effective Date of 1990 Amendment
 
