@@ -24,6 +24,8 @@ section: 45P
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The date of the enactment of this section, referred to in subsec. (d)(1), is the date of the enactment of Pub. L. 110–245, which was approved June 17, 2008.
@@ -31,6 +33,8 @@ The date of the enactment of this section, referred to in subsec. (d)(1), is the
 ### Amendments
 
 2015—Subsec. (a). Pub. L. 114–113, § 122(b)(1), struck out “, in the case of an eligible small business employer” after “section 38”. Subsec. (b)(3). Pub. L. 114–113, § 122(b)(2), amended par. (3) generally. Prior to amendment, par. (3) defined “eligible small business employer”. Subsec. (f). Pub. L. 114–113, § 122(a), struck out subsec. (f). Text read as follows: “This section shall not apply to any payments made after December 31, 2014.” 2014—Subsec. (f). Pub. L. 113–295 substituted “December 31, 2014” for “December 31, 2013”. 2013—Subsec. (f). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”. 2010—Subsec. (f). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2015 Amendment
 

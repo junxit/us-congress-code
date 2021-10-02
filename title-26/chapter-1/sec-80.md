@@ -22,9 +22,13 @@ section: 80
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1984—Subsec. (a). Pub. L. 98–369 substituted “801” for “802”. 1976—Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”. Subsec. (c)(1). Pub. L. 94–455, § 1901(b)(3)(K), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1984 Amendment
 

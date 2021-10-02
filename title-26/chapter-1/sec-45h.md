@@ -47,9 +47,13 @@ section: 45H
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (d). Pub. L. 115–141 substituted “purposes of this” for “purposes this”. 2007—Subsec. (b)(1)(A). Pub. L. 110–172, § 7(a)(3)(A), substituted “qualified costs” for “qualified capital costs”. Subsec. (c)(2). Pub. L. 110–172, § 7(a)(3)(B), struck out “capital” before “costs” in heading. Pub. L. 110–172, § 7(a)(3)(A), substituted “qualified costs” for “qualified capital costs”. Subsec. (d). Pub. L. 110–172, § 7(a)(1)(A), redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “For purposes of this subtitle, if a credit is determined under this section for any expenditure with respect to any property, the increase in basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined.” Subsec. (e). Pub. L. 110–172, § 7(a)(1)(A), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d). Subsec. (e)(1), (2). Pub. L. 110–172, § 7(a)(3)(A), substituted “qualified costs” for “qualified capital costs”. Subsec. (f). Pub. L. 110–172, § 7(a)(1)(A), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e). Subsec. (g). Pub. L. 110–172, § 7(a)(2)(A), added subsec. (g). Former subsec. (g) redesignated (f).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2007 Amendment
 

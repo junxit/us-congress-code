@@ -22,6 +22,8 @@ section: 45B
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 3(m) and 6(a)(1) of the Fair Labor Standards Act of 1938, referred to in subsec. (b)(1)(B), are classified to sections 203(m) and 206(a)(1), respectively, of Title 29, Labor.
@@ -29,6 +31,8 @@ Sections 3(m) and 6(a)(1) of the Fair Labor Standards Act of 1938, referred to i
 ### Amendments
 
 2007—Subsec. (b)(1)(B). Pub. L. 110–28 inserted “as in effect on January 1, 2007, and” before “determined without regard to”. 1996—Subsec. (b)(1)(A). Pub. L. 104–188, § 1112(a)(1), inserted “(without regard to whether such tips are reported under section 6053)” after “section 3121(q)”. Subsec. (b)(2). Pub. L. 104–188, § 1112(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Only tips received at food and beverage establishments taken into account.—In applying paragraph (1), there shall be taken into account only tips received from customers in connection with the provision of food or beverages for consumption on the premises of an establishment with respect to which the tipping of employees serving food or beverages by customers is customary.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2007 Amendment
 

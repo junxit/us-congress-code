@@ -33,9 +33,13 @@ section: 45G
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2020—Subsec. (a). Pub. L. 116–260, § 105(b), substituted “40 percent (50 percent in the case of any taxable year beginning before January 1, 2023)” for “50 percent”. Subsec. (f). Pub. L. 116–260, § 105(a), struck out subsec. (f). Text read as follows: “This section shall apply to qualified railroad track maintenance expenditures paid or incurred during taxable years beginning after December 31, 2004, and before January 1, 2023.” 2019—Subsec. (f). Pub. L. 116–94 substituted “January 1, 2023” for “January 1, 2018”. 2018—Subsec. (f). Pub. L. 115–123 substituted “January 1, 2018” for “January 1, 2017”. 2015—Subsec. (d). Pub. L. 114–113, § 162(b), substituted “January 1, 2015” for “January 1, 2005”. Subsec. (f). Pub. L. 114–113, § 162(a), substituted “January 1, 2017” for “January 1, 2015”. 2014—Subsec. (f). Pub. L. 113–295 substituted “January 1, 2015” for “January 1, 2014”. 2013—Subsec. (f). Pub. L. 112–240 substituted “January 1, 2014” for “January 1, 2012”. 2010—Subsec. (f). Pub. L. 111–312 substituted “January 1, 2012” for “January 1, 2010”. 2008—Subsec. (f). Pub. L. 110–343 substituted “January 1, 2010” for “January 1, 2008”. 2006—Subsec. (d). Pub. L. 109–432 inserted “gross” after “means” and “(determined without regard to any consideration for such expenditures given by the Class II or Class III railroad which made the assignment of such track)” before period at end. 2005—Subsec. (b). Pub. L. 109–135, § 403(f)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The credit allowed under subsection (a) for any taxable year shall not exceed the product of— “(1) $3,500, and “(2) the number of miles of railroad track owned or leased by the eligible taxpayer as of the close of the taxable year. A mile of railroad track may be taken into account by a person other than the owner only if such mile is assigned to such person by the owner for purposes of this subsection. Any mile which is so assigned may not be taken into account by the owner for purposes of this subsection.” Subsec. (c)(2). Pub. L. 109–135, § 403(f)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “any person who transports property using the rail facilities of a person described in paragraph (1) or who furnishes railroad-related property or services to such a person.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2020 Amendment
 

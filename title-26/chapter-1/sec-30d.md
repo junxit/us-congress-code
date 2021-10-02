@@ -68,6 +68,8 @@ section: 30D
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Clean Air Act, referred to in subsecs. (d)(1)(D), (3), (f)(7)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§ 7521 et seq.) of chapter 85 of Title 42. Section 209(b) of the Act is classified to section 7543(b) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
@@ -75,6 +77,8 @@ The Clean Air Act, referred to in subsecs. (d)(1)(D), (3), (f)(7)(A), is act Jul
 ### Amendments
 
 2020—Subsec. (g)(3)(E)(ii). Pub. L. 116–260 substituted “January 1, 2022” for “January 1, 2021”. 2019—Subsec. (g)(3)(E)(ii). Pub. L. 116–94 substituted “January 1, 2021” for “January 1, 2018”. 2018—Subsec. (g)(3)(E)(ii). Pub. L. 115–123 substituted “January 1, 2018” for “January 1, 2017”. 2015—Subsec. (g)(3)(E). Pub. L. 114–113 substituted “acquired—” for “acquired after December 31, 2011, and before January 1, 2014.” and added cls. (i) and (ii). 2014—Subsec. (f)(1), (2). Pub. L. 113–295, § 209(e)(1)(A), (B), inserted “(determined without regard to subsection (c))” before period at end. Subsec. (f)(3). Pub. L. 113–295, § 209(e)(2), inserted at end “For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.” 2013—Subsec. (c)(2). Pub. L. 112–240, § 104(c)(2)(I), amended par. (2) generally. Prior to amendment, par. (2) related to personal credit with a limitation based on amount of tax. Subsec. (f)(2). Pub. L. 112–240, § 403(b)(1), substituted “vehicle for which a credit is allowable under subsection (a)” for “new qualified plug-in electric drive motor vehicle” and “allowed under such subsection” for “allowed under subsection (a)”. Subsec. (f)(7). Pub. L. 112–240, § 403(b)(2), substituted “A vehicle” for “A motor vehicle” in introductory provisions. Subsec. (g). Pub. L. 112–240, § 403(a), added subsec. (g). 2010—Subsec. (c)(2)(B)(ii). Pub. L. 111–148, § 10909(b)(2)(H), (c), as amended by Pub. L. 111–312, temporarily substituted “section 25D” for “sections 23 and 25D”. See Effective and Termination Dates of 2010 Amendment note below. 2009—Pub. L. 111–5 amended section generally. Prior to amendment, section provided credit with respect to each new qualified plug-in electric drive motor vehicle placed in service and set forth provisions defining “applicable amount” and “new qualified plug-in electric drive motor vehicle” and stating limitations based on vehicle weight, the number of vehicles eligible for credit, and amount of tax liability.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2020 Amendment
 

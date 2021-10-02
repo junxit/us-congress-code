@@ -20,6 +20,8 @@ section: 210b
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 209 of act July 1, 1944, was renumbered section 208 and is classified to section 210 of this title.
@@ -28,9 +30,13 @@ A prior section 209 of act July 1, 1944, was renumbered section 208 and is class
 
 1979—Subsec. (c). Pub. L. 96–76 substituted “warrant officer (W–1)” for “assistant”.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 96–76, set out as a note under section 206 of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

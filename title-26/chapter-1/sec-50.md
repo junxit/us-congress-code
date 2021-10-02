@@ -72,6 +72,8 @@ section: 50
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (d), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
@@ -83,6 +85,8 @@ A prior section 50, Pub. L. 92–178, title I, § 101(a), Dec. 10, 1971, 85 Stat
 ### Amendments
 
 2018—Subsec. (a)(2)(E). Pub. L. 115–141, § 401(d)(3)(B)(ii), substituted “or 48C(b)(2)” for “48C(b)(2), or 48D(b)(4)”. Subsec. (b)(2)(A). Pub. L. 115–141, § 401(a)(25), substituted semicolon for period at end. 2014—Subsec. (a)(2)(E). Pub. L. 113–295 inserted “, 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(4)” after “in section 48(b)”. 2005—Subsec. (a)(2)(E). Pub. L. 109–135 substituted “section 48(b)” for “section 48(a)(5)”. 2004—Subsec. (c)(3). Pub. L. 108–357 struck out “or reforestation credit” after “energy credit” in introductory provisions. 1998—Subsec. (a)(5)(C). Pub. L. 105–206 substituted “this chapter” for “subpart A, B, D, or G”. 1996—Subsec. (a)(2)(C). Pub. L. 104–188, § 1704(t)(29), substituted “subsection (d)(5)” for “subsection (c)(4)”. Subsec. (a)(2)(E). Pub. L. 104–188, § 1702(h)(11), substituted “48(a)(5)” for “48(a)(5)(A)”. Subsec. (d). Pub. L. 104–188, § 1616(b)(1), inserted closing provisions.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2004 Amendment
 

@@ -17,6 +17,8 @@ section: 49
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 26 of the Animal Welfare Act, referred to in text, is section 2156 of Title 7, Agriculture.
@@ -28,6 +30,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 ### Amendments
 
 2018—Subsec. (a). Pub. L. 115–334 substituted “(d)” for “(e)”. 2014—Pub. L. 113–79 designated existing provisions as subsec. (a), inserted heading, substituted “subsection (a)(1),” for “subsection (a),”, and added subsecs. (b) and (c). 2008—Pub. L. 110–246, § 14207(b), substituted “5 years” for “3 years”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2018 Amendment
 

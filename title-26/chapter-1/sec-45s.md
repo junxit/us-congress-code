@@ -52,6 +52,8 @@ section: 45S
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Family and Medical Leave Act of 1993 and that Act, referred to in subsecs. (c)(2)(B) and (e)(1), (3), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6. Title I of the Act is classified generally to subchapter I (§ 2611 et seq.) of chapter 28 of Title 29, Labor. Section 102 of the Act is classified to section 2612 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables. Section 3(e) of the Fair Labor Standards Act of 1938, referred to in subsec. (d), is classified to section 203(e) of Title 29, Labor.
@@ -59,6 +61,8 @@ The Family and Medical Leave Act of 1993 and that Act, referred to in subsecs. (
 ### Amendments
 
 2020—Subsec. (i). Pub. L. 116–260 substituted “December 31, 2025” for “December 31, 2020”. 2019—Subsec. (i). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2019”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2020 Amendment
 

@@ -15,6 +15,8 @@ For credit against the tax imposed by this subtitle for overpayments of tax, see
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 37 was renumbered section 22 of this title.

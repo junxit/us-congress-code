@@ -22,9 +22,13 @@ section: 5
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2003—Subsec. (b)(1). Pub. L. 108–121 inserted “, astronauts,” after “Forces”. 2002—Subsec. (b)(1). Pub. L. 107–134 inserted “and victims of certain terrorist attacks” before “on death”. 1986—Subsec. (a)(4). Pub. L. 99–514, § 701(e)(4)(A), amended par. (4) generally, substituting “alternative minimum tax” for “minimum tax for taxpayers other than corporations”. Subsec. (b)(2), (3). Pub. L. 99–514, § 141(b)(2), struck out par. (2) which read: “For limitation on tax where an individual chooses the benefits of income averaging, see section 1301.” and redesignated former par. (3) as (2). 1982—Subsec. (a)(4). Pub. L. 97–248, § 201(d)(4), formerly § 201(c)(4), substituted “section 55” for “sections 55 and 56”. 1980—Subsec. (a)(4). Pub. L. 96–222 substituted “sections 55 and 56” for “section 55”. 1978—Subsec. (a)(3). Pub. L. 95–600, § 401(b)(2), redesignated par. (4) as (3). Former par. (3), relating to the alternative tax in the case of capital gains, was struck out. Subsec. (a)(4), (5). Pub. L. 95–600, §§ 401(b)(2), 421(e)(1), redesignated par. (5) as (4) and substituted “taxpayers other than corporations, see section 55” for “preferences, see section 56”. Former par. (4) redesignated (3). 1976—Subsec. (b). Pub. L. 94–455 redesignated pars. (2), (3), and (4), as (1), (2), (3), respectively, and struck out former par. (1) which referred to section 632 for limitation on tax attributable to sales of oil or gas properties and par. (5) which referred to section 1347 for limitation on tax attributable to claims against the U.S. involving acquisition of property. 1969—Subsec. (a)(5). Pub. L. 91–172, § 301(b)(2), added par. (5). Subsec. (b). Pub. L. 91–172, § 803(d)(6), substituted “tax” for “surtax” in pars. (1) and (5). 1964—Subsec. (b). Pub. L. 88–272 redesignated pars. (2), (3), (4), (7) and (8) as pars. (1) to (5), respectively, substituted “where an individual chooses the benefits of income averaging” for “with respect to compensation for longterm services” in par. (3), and struck out former pars. (1), (5) and (6) which referred to tax attributable to receipt of lump sum under annuity, endowment, or life insurance contract, to income from artistic work or inventions, and to back pay, respectively.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2003 Amendment
 

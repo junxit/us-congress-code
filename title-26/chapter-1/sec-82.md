@@ -15,9 +15,13 @@ Except as provided in section 132(a)(6), there shall be included in gross income
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Pub. L. 115–141 substituted “of moving expenses” for “for expenses of moving” in section catchline. 1993—Pub. L. 103–66 substituted “Except as provided in section 132(a)(6), there shall” for “There shall”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1993 Amendment
 

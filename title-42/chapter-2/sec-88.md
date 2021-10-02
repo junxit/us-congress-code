@@ -15,10 +15,20 @@ Whenever, by the health laws of any State, or by the regulations made pursuant t
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Words “or delivery” after “port of entry” which were included in this section as originally enacted were omitted as ports of delivery were abolished pursuant to the President’s Message to Congress on Mar. 3, 1913, set out in Codification note under section 1 of Title 19, Customs Duties. R.S. § 4793 derived from act Feb. 23, 1799, ch. 12, § 2, 1 Stat. 619.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Transfer of Functions
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Functions of Department of the Treasury relating to public health transferred to Federal Security Agency pursuant to Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
+Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+
+### Executive Documents
+
+### Transfer of Functions
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Functions of Department of the Treasury relating to public health transferred to Federal Security Agency pursuant to Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.

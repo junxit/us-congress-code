@@ -76,7 +76,7 @@ section: 45D
     - **(E)** $5,000,000,000 for 2008,
     - **(F)** $5,000,000,000 for 2009,
     - **(G)** $3,500,000,000 for each of calendar years 2010 through 2019, and
-    - **(H)** $5,000,000,000 for for 22 So in original. Second “for” probably should not appear. each of calendar years 2020 through 2025.
+    - **(H)** $5,000,000,000 for for 22 So in original. each of calendar years 2020 through 2025.
   - **(2)** *Allocation of limitation* The limitation under paragraph (1) shall be allocated by the Secretary among qualified community development entities selected by the Secretary. In making allocations under the preceding sentence, the Secretary shall give priority to any entity—
     - **(A)** with a record of having successfully provided capital or technical assistance to disadvantaged businesses or communities, or
     - **(B)** which intends to satisfy the requirement under subsection (b)(1)(B) by making qualified low-income community investments in 1 or more businesses in which persons unrelated to such entity (within the meaning of section 267(b) or 707(b)(1)) hold the majority equity interest.
@@ -110,7 +110,9 @@ section: 45D
 
 1 See References in Text note below.
 
-2 So in original. Second “for” probably should not appear.
+2 So in original.
+
+### Editorial Notes
 
 ### References in Text
 
@@ -119,6 +121,8 @@ Section 1044, referred to in subsec. (c)(2)(A), was repealed by Pub. L. 115–97
 ### Amendments
 
 2020—Subsec. (f)(1)(H). Pub. L. 116–260, § 112(a), substituted “for each of calendar years 2020 through 2025” for “2020”. Subsec. (f)(3). Pub. L. 116–260, § 112(b), substituted “2030” for “2025”. 2019—Subsec. (f)(1)(H). Pub. L. 116–94, § 141(a), added subpar. (H). Subsec. (f)(3). Pub. L. 116–94, § 141(b), substituted “2025” for “2024”. 2018—Subsec. (f)(1)(F). Pub. L. 115–141, § 401(a)(18), inserted “, and” at end. Subsec. (h). Pub. L. 115–141, § 401(d)(4)(B)(iii), substituted “section 1202” for “sections 1202, 1400B, and 1400F”. 2015—Subsec. (f)(1)(G). Pub. L. 114–113, § 141(a), substituted “for each of calendar years 2010 through 2019” for “for 2010, 2011, 2012, 2013, and 2014”. Subsec. (f)(3). Pub. L. 114–113, § 141(b), substituted “2024” for “2019”. 2014—Subsec. (f)(1)(G). Pub. L. 113–295, § 115(a), substituted “2013, and 2014” for “and 2013”. Subsec. (f)(3). Pub. L. 113–295, § 115(b), substituted “2019” for “2018”. 2013—Subsec. (f)(1)(G). Pub. L. 112–240, § 305(a), substituted “2010, 2011, 2012, and 2013” for “2010 and 2011”. Subsec. (f)(3). Pub. L. 112–240, § 305(b), substituted “2018” for “2016”. 2010—Subsec. (f)(1)(G). Pub. L. 111–312, § 733(a), added subpar. (G). Subsec. (f)(3). Pub. L. 111–312, § 733(b), substituted “2016” for “2014”. 2009—Subsec. (f)(1)(D). Pub. L. 111–5, § 1403(a)(2), substituted “and 2007,” for “, 2007, 2008, and 2009.” Subsec. (f)(1)(E), (F). Pub. L. 111–5, § 1403(a)(1), (3), added subpars. (E) and (F). 2008—Subsec. (f)(1)(D). Pub. L. 110–343 substituted “2008, and 2009” for “and 2008”. 2006—Subsec. (f)(1)(D). Pub. L. 109–432, § 102(a), substituted “, 2007, and 2008” for “and 2007”. Subsec. (i)(6). Pub. L. 109–432, § 102(b), added par. (6). 2004—Subsec. (e)(2). Pub. L. 108–357, § 221(a), amended heading and text of par. (2) generally, substituting provisions relating to regulations under which 1 or more targeted populations could be treated as low-income communities for provisions authorizing Secretary to designate any area within any census tract as a low-income community if certain conditions were met. Subsec. (e)(4). Pub. L. 108–357, § 221(b), added par. (4). Subsec. (e)(5). Pub. L. 108–357, § 223(a), added par. (5).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2020 Amendment
 

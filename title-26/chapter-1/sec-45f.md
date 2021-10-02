@@ -64,9 +64,13 @@ section: 45F
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2002—Subsec. (d)(4)(B). Pub. L. 107–147 substituted “this chapter or for purposes of section 55” for “subpart A, B, or D of this part”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2002 Amendment
 

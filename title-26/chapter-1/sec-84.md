@@ -19,9 +19,13 @@ section: 84
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Pub. L. 115–141 substituted “political organizations” for “political organization” in section catchline.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

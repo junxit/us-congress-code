@@ -26,9 +26,13 @@ section: 179B
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2007—Subsec. (a). Pub. L. 110–172 substituted “qualified costs” for “qualified capital costs” and inserted “and which are properly chargeable to capital account” before period at end. 2005—Subsec. (e). Pub. L. 109–58 added subsec. (e).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2007 Amendment
 

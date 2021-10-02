@@ -47,6 +47,8 @@ section: 45L
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The date of the enactment of this section, referred to in subsec. (b)(2)(B), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005. The National Appliance Energy Conservation Act of 1987, referred to in subsec. (c)(1)(A)(ii), is Pub. L. 100–12, Mar. 17, 1987, 101 Stat. 103. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 6201 of Title 42, The Public Health and Welfare, and Tables.
@@ -54,6 +56,8 @@ The date of the enactment of this section, referred to in subsec. (b)(2)(B), is 
 ### Amendments
 
 2020—Subsec. (g). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”. 2019—Subsec. (g). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2017”. 2018—Subsec. (g). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”. 2015—Subsec. (g). Pub. L. 114–113 substituted “December 31, 2016” for “December 31, 2014”. 2014—Subsec. (g). Pub. L. 113–295 substituted “December 31, 2014” for “December 31, 2013”. 2013—Subsec. (c)(1)(A)(i). Pub. L. 112–240, § 408(b), substituted “2006 International Energy Conservation Code, as such Code (including supplements) is in effect on January 1, 2006” for “2003 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section”. Subsec. (g). Pub. L. 112–240, § 408(a), substituted “December 31, 2013” for “December 31, 2011”. 2010—Subsec. (g). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”. 2008—Subsec. (g). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”. 2007—Subsec. (c)(2), (3). Pub. L. 110–172 substituted “part 3280” for “section 3280” in par. (2) and in introductory provisions of par. (3). 2006—Subsec. (g). Pub. L. 109–432 substituted “2008” for “2007”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2020 Amendment
 

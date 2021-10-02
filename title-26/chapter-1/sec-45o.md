@@ -43,6 +43,8 @@ section: 45O
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 302(a)(2) of the Emergency Planning and Community Right-to-Know Act of 1986, referred to in subsec. (f)(1)(A), is classified to section 11002(a)(2) of Title 42, The Public Health and Welfare. Section 2(u) of the Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (f)(2), is classified to section 136(u) of Title 7, Agriculture.
@@ -50,6 +52,8 @@ Section 302(a)(2) of the Emergency Planning and Community Right-to-Know Act of 1
 ### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

@@ -15,6 +15,8 @@ Graduates of colleges of osteopathy whose graduates are eligible for licensure t
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in text, is act Feb. 28, 1948, ch. 83, 62 Stat. 38. For complete classification of this Act to the Code, see Tables.
@@ -22,6 +24,8 @@ This Act, referred to in text, is act Feb. 28, 1948, ch. 83, 62 Stat. 38. For co
 ### Codification
 
 Section was not enacted as a part of the Public Health Service Act which comprises this chapter.
+
+### Executive Documents
 
 ### Transfer of Functions
 

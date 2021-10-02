@@ -65,6 +65,8 @@ section: 48B
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (b)(3), is the date of enactment of title XI of Pub. L. 101–508, which was approved Nov. 5, 1990. The date of the enactment of this section, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
@@ -72,6 +74,8 @@ The enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. 
 ### Amendments
 
 2009—Subsec. (b)(2). Pub. L. 111–5 inserted “(without regard to subparagraph (D) thereof)” after “section 48(a)(4)”. 2008—Subsec. (a). Pub. L. 110–343, § 112(a), inserted “(30 percent in the case of credits allocated under subsection (d)(1)(B))” after “20 percent”. Subsec. (c)(7)(H). Pub. L. 110–343, § 112(e), added subpar. (H). Subsec. (d)(1). Pub. L. 110–343, § 112(b), substituted “shall not exceed—” for “shall not exceed $350,000,000 under rules similar to the rules of section 48A(d)(4).” and added subpars. (A) and (B). Subsec. (d)(4). Pub. L. 110–343, § 112(d), added par. (4). Subsec. (f). Pub. L. 110–343, § 112(c), added subsec. (f).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2009 Amendment
 

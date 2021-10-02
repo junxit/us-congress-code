@@ -18,9 +18,13 @@ Gross income includes—
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Pub. L. 108–357 amended section catchline and text generally. Prior to amendment, text read as follows: “Gross income includes the amount of the alcohol fuel credit determined with respect to the taxpayer for the taxable year under section 40(a).” 1984—Pub. L. 98–369 amended section generally, substituting “the amount of the alcohol fuel credit determined with respect to the taxpayer for the taxable year under section 40(a)” for “an amount equal to the amount of the credit allowable to the taxpayer under section 44E for the taxable year (determined without regard to subsection (e) thereof)”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2004 Amendment
 

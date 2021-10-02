@@ -31,9 +31,13 @@ section: 66
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1998—Subsec. (c). Pub. L. 105–206 inserted at end “Under procedures prescribed by the Secretary, if, taking into account all the facts and circumstances, it is inequitable to hold the individual liable for any unpaid tax or any deficiency (or any portion of either) attributable to any item for which relief is not available under the preceding sentence, the Secretary may relieve such individual of such liability.” 1989—Subsec. (d)(1). Pub. L. 101–239 substituted “section 911(d)(2)” for “section 911(b)”. 1984—Pub. L. 98–369, § 424(b)(2)(A), struck out “where spouses live apart” in section catchline. Subsec. (a). Pub. L. 98–369, § 424(b)(2)(B), substituted “Treatment of community income where spouses live apart” for “General rule” in heading. Subsecs. (b) to (d). Pub. L. 98–369, § 424(b)(1), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1998 Amendment
 

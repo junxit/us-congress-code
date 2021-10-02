@@ -20,9 +20,13 @@ shall be credited with one year for purposes of promotion and seniority in grade
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 For “the effective date of this section”, referred to in text, see section 7 of act Apr. 30, 1956, which provided in part that this section shall become effective the first day of the month following the day of enactment, Apr. 30, 1956.
+
+### Executive Documents
 
 ### Transfer of Functions
 

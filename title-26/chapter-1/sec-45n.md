@@ -23,9 +23,13 @@ section: 45N
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2020—Subsec. (e). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”. 2019—Subsec. (e). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2017”. 2018—Subsec. (e). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”. 2015—Subsec. (e). Pub. L. 114–113 substituted “December 31, 2016” for “December 31, 2014”. 2014—Subsec. (e). Pub. L. 113–295 substituted “December 31, 2014” for “December 31, 2013”. 2013—Subsec. (e). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”. 2010—Subsec. (e). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”. 2008—Subsec. (e). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2020 Amendment
 

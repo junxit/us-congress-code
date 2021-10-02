@@ -21,9 +21,13 @@ section: 90
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 202 of the Reclamation Reform Act of 1982, referred to in subsec. (b)(2), is classified to section 390bb of Title 43, Public Lands.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

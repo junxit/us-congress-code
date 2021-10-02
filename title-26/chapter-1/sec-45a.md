@@ -70,6 +70,8 @@ section: 45A
 
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.
 
+### Editorial Notes
+
 ### References in Text
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables. The date of the enactment of this paragraph, referred to in subsec. (e)(4), is the date of enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
@@ -77,6 +79,8 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. 
 ### Amendments
 
 2020—Subsec. (f). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”. 2019—Subsec. (f). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2017”. 2018—Subsec. (f). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”. 2015—Subsec. (f). Pub. L. 114–113 substituted “December 31, 2016” for “December 31, 2014”. 2014—Subsec. (b)(1)(B). Pub. L. 113–295, § 216(a), inserted at end “If any portion of wages are taken into account under subsection (e)(1)(A) of section 51, the preceding sentence shall be applied by substituting ‘2-year period’ for ‘1-year period’.” Subsec. (f). Pub. L. 113–295, § 114(a), substituted “December 31, 2014” for “December 31, 2013”. 2013—Subsec. (f). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”. 2010—Subsec. (f). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”. 2008—Subsec. (f). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”. 2006—Subsec. (f). Pub. L. 109–432 substituted “2007” for “2005”. 2004—Subsec. (c)(3). Pub. L. 108–311, § 404(b)(1), inserted “, except that the base period taken into account for purposes of such adjustment shall be the calendar quarter beginning October 1, 1993” before period at end. Subsec. (f). Pub. L. 108–311, § 315, substituted “December 31, 2005” for “December 31, 2004”. 2002—Subsec. (f). Pub. L. 107–147 substituted “December 31, 2004” for “December 31, 2003”. 1998—Subsec. (b)(1)(B). Pub. L. 105–206 substituted “work opportunity credit” for “targeted jobs credit” in heading. 1996—Subsec. (b)(1)(B). Pub. L. 104–188, which directed that subsec. (b)(1)(B) of this section be amended in the text by substituting “work opportunity credit” for “targeted jobs credit”, could not be executed because the words “targeted jobs credit” did not appear in the text.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2020 Amendment
 

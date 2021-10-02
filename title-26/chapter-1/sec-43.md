@@ -62,6 +62,8 @@ section: 43
 
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 43 was renumbered section 32 of this title. Another prior section 43 was renumbered section 37 of this title.
@@ -69,6 +71,8 @@ A prior section 43 was renumbered section 32 of this title. Another prior sectio
 ### Amendments
 
 2005—Subsec. (b)(2). Pub. L. 109–58 substituted “section 45K(d)(2)(C)” for “section 29(d)(2)(C)”. Subsec. (c)(5). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of paragraph (1)(D)— “(1) In general.—The term ‘Alaska natural gas’ means natural gas entering the Alaska natural gas pipeline (as defined in section 168(i)(16) (determined without regard to subparagraph (B) thereof)) which is produced from a well— “(A) located in the area of the State of Alaska lying north of 64 degrees North latitude, determined by excluding the area of the Alaska National Wildlife Refuge (including the continental shelf thereof within the meaning of section 638(1)), and “(B) pursuant to the applicable State and Federal pollution prevention, control, and permit requirements from such area (including the continental shelf thereof within the meaning of section 638(1)). “(2) Natural gas.—The term ‘natural gas’ has the meaning given such term by section 613A(e)(2).” 2004—Subsec. (c)(1)(D). Pub. L. 108–357, § 707(a), added subpar. (D). Subsec. (c)(5). Pub. L. 108–357, § 707(b), added par. (5). 2000—Subsec. (c)(1)(C). Pub. L. 106–554 inserted “(as defined in section 193(b))” after “expenses” and struck out “under section 193” after “allowable”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2005 Amendment
 
@@ -88,4 +92,4 @@ Pub. L. 101–508, title XI, § 11511(d), Nov. 5, 1990, 104 Stat. 1388–485, pr
 
 ### Inflation Adjusted Items for Certain Years
 
-Provisions relating to inflation adjustment of items in this section for certain years were contained in the following: 2019—Internal Revenue Notice 2019–36. 2018—Internal Revenue Notice 2018–49. 2017—Internal Revenue Notice 2017–25. 2016—Internal Revenue Notice 2016–44. 2015—Internal Revenue Notice 2015–64. 2014—Internal Revenue Notice 2014–64. 2013—Internal Revenue Notice 2013–50. 2012—Internal Revenue Notice 2012–49. 2011—Internal Revenue Notice 2011–57. 2010—Internal Revenue Notice 2010–72. 2009—Internal Revenue Notice 2009–73. 2008—Internal Revenue Notice 2008–72. 2007—Internal Revenue Notice 2007–64. 2006—Internal Revenue Notice 2006–62. 2005—Internal Revenue Notice 2005–56. 2004—Internal Revenue Notice 2004–49. 2003—Internal Revenue Notice 2003–43. 2002—Internal Revenue Notice 2002–53. 2001—Internal Revenue Notice 2001–54. 2000—Internal Revenue Notice 2000–51. 1999—Internal Revenue Notice 99–45. 1998—Internal Revenue Notice 98–41. 1997—Internal Revenue Notice 97–39. 1996—Internal Revenue Notice 96–41.
+Provisions relating to inflation adjustment of items in this section for certain years were contained in the following: 2020—Internal Revenue Notice 2020–31. 2019—Internal Revenue Notice 2019–36. 2018—Internal Revenue Notice 2018–49. 2017—Internal Revenue Notice 2017–25. 2016—Internal Revenue Notice 2016–44. 2015—Internal Revenue Notice 2015–64. 2014—Internal Revenue Notice 2014–64. 2013—Internal Revenue Notice 2013–50. 2012—Internal Revenue Notice 2012–49. 2011—Internal Revenue Notice 2011–57. 2010—Internal Revenue Notice 2010–72. 2009—Internal Revenue Notice 2009–73. 2008—Internal Revenue Notice 2008–72. 2007—Internal Revenue Notice 2007–64. 2006—Internal Revenue Notice 2006–62. 2005—Internal Revenue Notice 2005–56. 2004—Internal Revenue Notice 2004–49. 2003—Internal Revenue Notice 2003–43. 2002—Internal Revenue Notice 2002–53. 2001—Internal Revenue Notice 2001–54. 2000—Internal Revenue Notice 2000–51. 1999—Internal Revenue Notice 99–45. 1998—Internal Revenue Notice 98–41. 1997—Internal Revenue Notice 97–39. 1996—Internal Revenue Notice 96–41.

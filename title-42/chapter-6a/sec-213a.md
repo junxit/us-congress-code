@@ -42,6 +42,8 @@ section: 213a
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 1370 of title 10, referred to in subsec. (a)(3), was repealed and new sections 1370 and 1370a of Title 10, Armed Forces, were enacted by Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3580. For provisions stating that in determining retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of Title 10 in such determination with respect to such officers is deemed to be a reference to section 1370a of Title 10, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of Title 10. Sections 1374 and 1376(a) of title 10, referred to in subsec. (a)(3), were repealed by Pub. L. 103–337, div. A, title XVI, § 1662(k)(2), (3)(A)(i), Oct. 5, 1994, 108 Stat. 3006. See sections 12771 to 12774 of Title 10, Armed Forces. Formula No. 3 of section 1401 of title 10, referred to in subsec. (a)(4), was struck from the table set forth in section 1401(a) of title 10 by Pub. L. 103–337, div. A, title XVI, § 1662(j)(2), Oct. 5, 1994, 108 Stat. 3004.
@@ -53,6 +55,8 @@ Section was formerly classified to section 316 of title 37 prior to the general 
 ### Amendments
 
 2020—Subsec. (a)(19) to (21). Pub. L. 116–136, § 3214(d)(1), added pars. (19) to (21). Subsec. (b). Pub. L. 116–136, § 3214(d)(2)(B)–(D), designated first and second sentences as pars. (1) and (2), respectively, and added par. (3). Pub. L. 116–136, § 3214(d)(2)(A), substituted “Secretary of Health and Human Services or the designee of such Secretary” for “Secretary of Health, Education, and Welfare or his designee”. 2012—Subsec. (a)(18). Pub. L. 112–144, § 1129(a), added par. (18). Subsec. (b). Pub. L. 112–144, § 1129(b), inserted at end “For purposes of paragraph (18) of subsection (a), the term ‘Inspector General’ in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services.” 2001—Subsec. (a)(17). Pub. L. 107–107 added cl. (17). 1997—Subsec. (a)(16). Pub. L. 105–85 added cl. (16). 1985—Subsec. (a)(15). Pub. L. 99–117 added cl. (15). 1980—Subsec. (a)(3). Pub. L. 96–513 inserted reference to section 1370 of title 10. 1979—Subsec. (a)(12) to (14). Pub. L. 96–76 added cls. (12) to (14). 1972—Subsec. (a)(5). Pub. L. 92–425 substituted “Retired Serviceman’s Family Protection Plan; Survivor Benefit Plan” for “Annuities Based on Retired or Retainer Pay”. 1966—Subsec. (a)(11). Pub. L. 89–538 added cl. (11). 1964—Subsec. (a)(10). Pub. L. 88–431 added cl. (10). 1963—Subsec. (b). Pub. L. 88–132 inserted reference to Secretary of Defense. 1962—Subsec. (a). Pub. L. 87–555 added cl. (9). Notwithstanding directory language that section be amended by “adding the following new clause at the end thereof”, the amendment was executed to subsec. (a) to reflect the probable intent of Congress since the “new” clause was numbered “(9)” and subsec. (a) contained cls. (1) to (8). 1959—Subsec. (a). Pub. L. 86–160 added cl. (1) and renumbered former cls. (1) to (7) as (2) to (8). 1958—Subsec. (a). Pub. L. 85–861 substituted “provisions” for “chapters” in opening clause, struck out former cl. (1) which related to chapter 55 of title 10, renumbered former cls. (2) to (6) as (1) to (5), amended cl. (1), as renumbered, to make sections 1201 to 1203 of title 10, inapplicable to commissioned officers of the Public Health Service who have been ordered to active duty for training for a period of more than 30 days, inserted a reference to section 1374 of title 10 in cl. (2), as renumbered, struck out “Care of the Dead” after “Benefits” in cl. (5), as renumbered, and added cl. (6).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1997 Amendment
 
@@ -68,7 +72,7 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 ### Transfer of Functions
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 ### Rules and Regulations; Savings Deposit Benefits
 
@@ -77,3 +81,9 @@ Regulations prescribed by the Secretary of Health, Education, and Welfare [now H
 ### Designation of Beneficiary Made Before January 1, 1956
 
 Designation of beneficiary made before Jan. 1, 1956, considered as the designation of a beneficiary for the purposes of section 4 of Pub. L. 85–861, which amended this section, see section 31 of Pub. L. 85–861, set out as a note under section 2771 of Title 10, Armed Forces.
+
+### Executive Documents
+
+### Transfer of Functions
+
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title.

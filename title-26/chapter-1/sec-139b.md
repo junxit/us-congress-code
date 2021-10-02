@@ -28,9 +28,13 @@ section: 139B
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2020—Subsec. (d). Pub. L. 116–260 struck out subsec. (d). Text read as follows: “This section shall not apply with respect to taxable years beginning— “(1) after December 31, 2010, and before January 1, 2020, or “(2) after December 31, 2020.” 2019—Subsec. (c)(2). Pub. L. 116–94, § 301(a), substituted “$50” for “$30”. Subsec. (d). Pub. L. 116–94, § 301(b), substituted “beginning—” for “beginning after December 31, 2010.” and added pars. (1) and (2).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2020 Amendment
 

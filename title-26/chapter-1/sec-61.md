@@ -30,6 +30,8 @@ section: 61
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Subsec. (a)(8) to (15). Pub. L. 115–97 redesignated pars. (9) to (15) as (8) to (14), respectively, and struck out former par. (8) which read as follows: “Alimony and separate maintenance payments;”. 1984—Subsec. (a)(1). Pub. L. 98–369 inserted reference to fringe benefits.

@@ -49,6 +49,8 @@ section: 67
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 4 of the Securities Act of 1933, referred to in subsec. (c)(2)(B)(i)(I), is classified to section 77d of Title 15, Commerce and Trade.
@@ -56,6 +58,8 @@ Section 4 of the Securities Act of 1933, referred to in subsec. (c)(2)(B)(i)(I),
 ### Amendments
 
 2017—Subsec. (g). Pub. L. 115–97 added subsec. (g). 2000—Subsec. (f). Pub. L. 106–554 substituted “the second sentence” for “the last sentence”. 1998—Subsec. (b)(3). Pub. L. 105–277 substituted “for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section 165(d)” for “for losses described in subsection (c)(3) or (d) of section 165”. 1993—Subsec. (b)(6) to (13). Pub. L. 103–66 redesignated pars. (7) to (13) as (6) to (12), respectively, and struck out former par. (6) which read as follows: “the deduction under section 217 (relating to moving expenses),”. 1989—Subsec. (c)(4). Pub. L. 101–239 struck out par. (4) which read as follows: “Termination.—This subsection shall not apply to any taxable year beginning after December 31, 1989.” 1988—Subsec. (b)(4). Pub. L. 100–647, § 1001(f)(2), substituted “deductions” for “deduction” and inserted before comma at end “and section 642(c) (relating to deduction for amounts paid or permanently set aside for a charitable purpose)”. Subsec. (c). Pub. L. 100–647, § 4011(a), amended subsec. (c) generally. Prior to amendment subsec. (c) read as follows: “The Secretary shall prescribe regulations which prohibit the indirect deduction through pass-thru entities of amounts which are not allowable as a deduction if paid or incurred directly by an individual and which contain such reporting requirements as may be necessary to carry out the purposes of this subsection. The preceding sentence shall not apply— “(1) with respect to cooperatives and real estate investment trusts, and “(2) except as provided in regulations, with respect to estates and trusts.” Pub. L. 100–647, § 1001(f)(4), amended last sentence generally. Prior to amendment, last sentence read as follows: “The preceding sentence shall not apply with respect to estates, trusts, cooperatives, and real estate investment trusts.” Subsec. (e). Pub. L. 100–647, § 1001(f)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For purposes of this section, the adjusted gross income of an estate or trust shall be computed in the same manner as in the case of an individual, except that the deductions for costs which are paid or incurred in connection with the administration of the estate or trust and would not have been incurred if the property were not held in such trust or estate shall be treated as allowable in arriving at adjusted gross income.” Subsec. (f). Pub. L. 100–647, § 1001(f)(1), added subsec. (f).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2017 Amendment
 

@@ -62,6 +62,8 @@ section: 48C
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Subsections (c)(4) and (d) of section 46 (as in effect on the day before the enactment of the Revenue Reconciliation Act of 1990), referred to in subsec. (b)(2), means section 46(c)(4) and (d) as in effect before enactment of Pub. L. 101–508, which amended section 46 generally. The date of enactment of this section, referred to in subsec. (d)(1)(A), (4)(A), is the date of enactment of Pub. L. 111–5, which was approved Feb. 17, 2009.
@@ -69,6 +71,8 @@ Subsections (c)(4) and (d) of section 46 (as in effect on the day before the ena
 ### Amendments
 
 2014—Subsec. (b)(3). Pub. L. 113–295, § 209(g), inserted “as the qualified investment” after “The amount which is treated”. Subsec. (c)(1)(A)(i)(VI). Pub. L. 113–295, § 221(a)(2)(C), struck out “, qualified plug-in electric vehicles (as defined by section 30(d)),” before “or components”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2014 Amendment
 

@@ -29,6 +29,8 @@ section: 52
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (e), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
@@ -36,6 +38,8 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 ### Amendments
 
 2011—Subsec. (c). Pub. L. 112–56 designated existing provisions as par. (1), inserted heading, and added par. (2). 1997—Subsec. (c). Pub. L. 105–34 substituted “work opportunity credit” for “targeted jobs credit”. 1996—Subsec. (e)(1) to (3). Pub. L. 104–188 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “an organization to which section 593 (relating to reserves for losses on loans) applies,”. 1990—Subsec. (e). Pub. L. 101–508 substituted “section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)” for “section 46” in concluding provisions. 1984—Subsec. (a). Pub. L. 98–369, § 474(p)(4), substituted “the credit (if any) determined under section 51(a) with respect to each such member” for “the credit (if any) allowable by section 44B to each such member”. Subsec. (b)(2). Pub. L. 98–369, § 474(p)(5), substituted “the credit (if any) determined under section 51(a)” for “the credit (if any) allowable by section 44B”. Subsec. (c). Pub. L. 98–369, § 474(p)(6), substituted “credit shall be allowed under section 38 for any targeted jobs credit determined under this subpart” for “credit shall be allowed under section 44B”. Subsec. (d)(2). Pub. L. 98–369, § 474(p)(7), substituted “, subject to section 38(c), a credit under section 38(a)” for “, subject to section 53 a credit under section 44B”. 1982—Subsecs. (d) to (f). Pub. L. 97–354 struck out subsec. (d) relating to apportionment of credit among shareholders, and redesignated subsecs. (e) and (f) as (d) and (e), respectively. 1980—Subsec. (f). Pub. L. 96–222 substituted “subsections (e) and (h) of section 46” for “section 46(e)”. 1978—Subsecs. (a), (b). Pub. L. 95–600, § 321(c)(1)(B), substituted “proportionate share of the wages” for “proportionate contribution to the increase in unemployment insurance wages”. Subsecs. (c), (d). Pub. L. 95–600, § 321(c)(1)(A), struck out subsec. (c) which related to dispositions by an employer, and redesignated subsecs. (d) and (f) as (c) and (d), respectively. Subsec. (e). Pub. L. 95–600, § 321(c)(1)(A), (C), redesignated subsec. (g) as (e) and struck out par. (3) which provided that the $100,000 amount specified in section 51(d) applicable to such estate or trust be reduced to an amount which bears the same ratio to $100,000 as the portion of the credit allocable to the estate or trust under paragraph (1) bears to the entire amount of such credit. Former subsec. (e), which related to a change in status from self-employed to employee, was struck out. Subsecs. (f) to (h). Pub. L. 95–600, § 321(c)(1)(A), redesignated subsecs. (f) to (h) as (d) to (f), respectively. Subsec. (i). Pub. L. 95–600, § 321(c)(1)(A)(i), struck out subsec. (i) which related to a $50,000 limitation in the case of married individuals filing separate returns. Subsec. (j). Pub. L. 95–600, § 321(c)(1)(A)(i), struck out subsec. (j) which related to certain short taxable years.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2011 Amendment
 

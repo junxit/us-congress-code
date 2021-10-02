@@ -15,9 +15,13 @@ In the case of an assistance eligible individual (as defined in subsection (a)(3
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 9501 of the American Rescue Plan Act of 2021, referred to in text, is section 9501 of Pub. L. 117–2, which is set out as a note under section 4980B of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

@@ -30,6 +30,8 @@ section: 179E
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The date of the enactment of this section, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 109–432, which was approved Dec. 20, 2006.
@@ -37,6 +39,8 @@ The date of the enactment of this section, referred to in subsec. (c)(2), is the
 ### Amendments
 
 2018—Subsec. (g). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”. 2015—Subsec. (g). Pub. L. 114–113 substituted “December 31, 2016” for “December 31, 2014”. 2014—Subsec. (g). Pub. L. 113–295 substituted “December 31, 2014” for “December 31, 2013”. 2013—Subsec. (g). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”. 2010—Subsec. (g). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”. 2008—Subsec. (g). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2018 Amendment
 

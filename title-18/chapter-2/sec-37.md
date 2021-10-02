@@ -17,7 +17,7 @@ section: 37
 
 ## Source credit
 
-(Added Pub. L. 103–322, title VI, § 60021(a), Sept. 13, 1994, 108 Stat. 1979; amended Pub. L. 104–132, title VII, §§ 721(g), 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300; Pub. L. 104–294, title VI, §§ 601(q), 607(o), Oct. 11, 1996, 110 Stat. 3502, 3512.)§
+(Added Pub. L. 103–322, title VI, § 60021(a), Sept. 13, 1994, 108 Stat. 1979; amended Pub. L. 104–132, title VII, §§ 721(g), 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300; Pub. L. 104–294, title VI, §§ 601(q), 607(o), Oct. 11, 1996, 110 Stat. 3502, 3512.)
 
 ## Notes
 

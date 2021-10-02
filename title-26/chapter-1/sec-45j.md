@@ -72,6 +72,8 @@ section: 45J
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The date of the enactment of this section and the date of the enactment of this paragraph, referred to in subsecs. (b)(4) and (d)(1)(B), are the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005. The Rural Electrification Act of 1936, referred to in subsec. (e)(2)(A)(iii), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
@@ -79,6 +81,8 @@ The date of the enactment of this section and the date of the enactment of this 
 ### Amendments
 
 2018—Subsec. (b)(4). Pub. L. 115–123, § 40501(a)(1), inserted “or any amendment to” after “enactment of”. Subsec. (b)(5). Pub. L. 115–123, § 40501(a)(2), added par. (5). Subsecs. (e), (f). Pub. L. 115–123, § 40501(b)(1), added subsec. (e) and redesignated former subsec. (e) as (f). 2007—Subsec. (b)(2). Pub. L. 110–172 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The national megawatt capacity limitation shall be 6,000 megawatts.” 2005—Subsec. (c)(2). Pub. L. 109–135, § 402(d)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Rules similar to the rules of section 45(b)(1) shall apply for purposes of this section.” Subsec. (e). Pub. L. 109–135, § 402(d)(2), struck out “(2),” after “(1),”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2018 Amendment
 

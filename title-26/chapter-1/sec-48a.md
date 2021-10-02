@@ -115,6 +115,8 @@ section: 48A
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (b)(3), is the date of enactment of title XI of Pub. L. 101–508, which was approved Nov. 5, 1990. The date of enactment of this section, referred to in subsecs. (d)(1), (4)(A) and (f)(3), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
@@ -126,6 +128,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 ### Amendments
 
 2009—Subsec. (b)(2). Pub. L. 111–5 inserted “(without regard to subparagraph (D) thereof)” after “section 48(a)(4)”. 2008—Subsec. (a)(3). Pub. L. 110–343, § 111(a), added par. (3). Subsec. (d)(2)(A). Pub. L. 110–343, § 111(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each applicant for certification under this paragraph shall submit an application meeting the requirements of subparagraph (B). An applicant may only submit an application during the 3-year period beginning on the date the Secretary establishes the program under paragraph (1).” Subsec. (d)(3)(A). Pub. L. 110–343, § 111(b), substituted “$2,550,000,000” for “$1,300,000,000”. Subsec. (d)(3)(B). Pub. L. 110–343, § 111(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Of the dollar amount in subparagraph (A), the Secretary is authorized to certify— “(i) $800,000,000 for integrated gasification combined cycle projects, and “(ii) $500,000,000 for projects which use other advanced coal-based generation technologies.” Subsec. (d)(5). Pub. L. 110–343, § 111(d), added par. (5). Subsec. (e)(1)(G). Pub. L. 110–343, § 111(c)(3)(A), added subpar. (G). Subsec. (e)(3). Pub. L. 110–343, § 111(c)(5), substituted “certain” for “integrated gasification combined cycle” in heading. Subsec. (e)(3)(B)(iii), (iv). Pub. L. 110–343, § 111(c)(4), added cl. (iii) and redesignated former cl. (iii) as (iv). Subsec. (e)(3)(C). Pub. L. 110–343, § 111(c)(3)(B), added subpar. (C). Subsec. (h). Pub. L. 110–246, § 15346(a), added subsec. (h). Subsec. (i). Pub. L. 110–343, § 111(c)(3)(C), added subsec. (i). 2007—Subsec. (d)(4)(B)(ii). Pub. L. 110–172 struck out “subsection” before “paragraph” in two places. 2006—Subsec. (f)(1). Pub. L. 109–432 inserted concluding provisions.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2009 Amendment
 

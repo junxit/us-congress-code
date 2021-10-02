@@ -39,9 +39,13 @@ section: 45E
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2019—Subsec. (b)(1). Pub. L. 116–94 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “$500 for the first credit year and each of the 2 taxable years immediately following the first credit year, and”. 2002—Subsec. (e)(1). Pub. L. 107–147 substituted “subsection (m)” for “subsection (n)”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2019 Amendment
 

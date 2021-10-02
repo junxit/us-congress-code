@@ -18,9 +18,13 @@ section: 12
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Pars. (4) to (6). Pub. L. 115–97, § 13001(b)(2)(B), redesignated par. (5) as (4) and struck out former pars. (4) and (6) which read as follows: “(4) For alternative tax in case of capital gains, see section 1201(a). “(6) For limitation on benefits of graduated rate schedule provided in section 11(b), see section 1551.” Par. (7). Pub. L. 115–97, § 12001(b)(12), struck out par. (7) which read as follows: “For alternative minimum tax, see section 55.” 1986—Par. (7). Pub. L. 99–514 amended par. (7) generally, substituting “alternative minimum tax” and “55” for “minimum tax for tax preferences” and “56”, respectively. 1984—Pars. (6) to (8). Pub. L. 98–369 redesignated pars. (7) and (8) as (6) and (7), respectively. Former par. (6), which referred to section 1451 for withholding of tax on tax-free covenant bonds, was struck out. 1978—Par. (7). Pub. L. 95–600 substituted “benefits of graduated rate schedule provided in section 11(b)” for “the $25,000 exemption from surtax provided in section 11(c)”. 1975—Par. (7). Pub. L. 94–12 substituted “$50,000” for “$25,000” for a limited period. See Effective and Termination Dates of 1975 Amendment note set out below. 1969—Par. (8). Pub. L. 91–172 added par. (8). 1964—Par. (8). Pub. L. 88–272 struck out par. (8) which referred to section 1503 for additional tax for corporations filing consolidated returns.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2017 Amendment
 

@@ -81,6 +81,8 @@ section: 45R
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
+### Editorial Notes
+
 ### References in Text
 
 The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables. The Patient Protection and Affordable Care Act, referred to in subsec. (h), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Subtitle A (§§ 1001 to 1004) of title I of the Act enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of Title 42, The Public Health and Welfare, redesignated sections 300gg–4 to 300gg–7 of Title 42 as sections 300gg–25 to 300gg–28, respectively, of Title 42, and section 300gg–13 of Title 42 as section 300gg–9 of Title 42, amended former sections 300gg–11 and 300gg–12 and sections 300gg–21 to 300gg–23 of Title 42, and enacted provisions set out as a note under section 300gg–11 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42 and Tables.
@@ -88,6 +90,8 @@ The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, 
 ### Amendments
 
 2017—Subsec. (d)(3)(B)(ii). Pub. L. 115–97 substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”. 2010—Subsec. (d)(3)(B). Pub. L. 111–148, § 10105(e)(1), amended subpar. (B) generally, including dollar amount for taxable years beginning in 2010 in addition to dollar amounts for taxable years beginning in 2011, 2012, and 2013, and subsequent years. Subsec. (g). Pub. L. 111–148, § 10105(e)(2), substituted “2010, 2011” for “2011” in heading and in introductory provisions.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2017 Amendment
 

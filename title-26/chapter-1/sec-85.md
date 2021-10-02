@@ -21,9 +21,13 @@ section: 85
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2021—Subsec. (c). Pub. L. 117–2 added subsec. (c). 2014—Subsec. (c). Pub. L. 113–295 struck out subsec. (c). Text read as follows: “In the case of any taxable year beginning in 2009, gross income shall not include so much of the unemployment compensation received by an individual as does not exceed $2,400.” 2009—Subsec. (c). Pub. L. 111–5 added subsec. (c). 1986—Subsec. (a). Pub. L. 99–514 substituted “General rule” for “In general” in heading and amended text generally. Prior to amendment, text read as follows: “If the sum for the taxable year of the adjusted gross income of the taxpayer (determined without regard to this section, section 86 and section 221) and the unemployment compensation exceeds the base amount, gross income for the taxable year includes unemployment compensation in an amount equal to the lesser of— “(1) one-half of the amount of the excess of such sum over the base amount, or “(2) the amount of the unemployment compensation.” Subsecs. (b), (c). Pub. L. 99–514, in amending section generally, redesignated former subsec. (c) as (b) and struck out former subsec. (b), “Base amount defined”, which read as follows: “For purposes of this section, the term ‘base amount’ means— “(1) except as provided in paragraphs (2) and (3), $12,000, “(2) $18,000, in the case of a joint return under section 6013, or “(3) zero, in the case of a taxpayer who— “(A) is married at the close of the taxable year (within the meaning of section 143) but does not file a joint return for such year, and “(B) does not live apart from his spouse at all times during the taxable year.” 1983—Subsec. (a). Pub. L. 98–21, § 122(c)(2), struck out “, section 105(d),” after “section 86”. Pub. L. 98–21, § 121(f)(1), inserted “section 86,” after “this section,”. 1982—Subsec. (b)(1). Pub. L. 97–248, § 611(a)(1), substituted “$12,000” for “$20,000”. Subsec. (b)(2). Pub. L. 97–248, § 611(a)(2), substituted “$18,000” for “$25,000”. 1981—Subsec. (a). Pub. L. 97–34 substituted “this section, section 105(d), and section 221” for “this section and without regard to section 105(d)” in parenthetical provision preceding par. (1).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2021 Amendment
 

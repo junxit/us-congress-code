@@ -37,9 +37,13 @@ section: 68
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (b)(2). Pub. L. 115–141 substituted “shall be” for “shall be shall be” in introductory provisions. 2017—Subsec. (b)(2)(B). Pub. L. 115–97, § 11002(d)(2), substituted “1(f)(3)(A)(ii)” for “1(f)(3)(B)” and “2016” for “1992”. Subsec. (f). Pub. L. 115–97, § 11046(a), added subsec. (f). 2013—Subsec. (b). Pub. L. 112–240, § 101(b)(2)(A)(i), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “(1) In general.—For purposes of this section, the term ‘applicable amount’ means $100,000 ($50,000 in the case of a separate return by a married individual within the meaning of section 7703). “(2) Inflation adjustments.—In the case of any taxable year beginning in a calendar year after 1991, each dollar amount contained in paragraph (1) shall be increased by an amount equal to— “(A) such dollar amount, multiplied by “(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting ‘calendar year 1990’ for ‘calendar year 1992’ in subparagraph (B) thereof.” Subsecs. (f), (g). Pub. L. 112–240, § 101(b)(2)(A)(ii), struck out subsecs. (f) and (g), which related to phaseout of limitation and termination of applicability of section, respectively. 2001—Subsecs. (f), (g). Pub. L. 107—16 added subsecs. (f) and (g). 1998—Subsec. (c)(3). Pub. L. 105–277 substituted “for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section 165(d)” for “for losses described in subsection (c)(3) or (d) of section 165”. 1993—Subsec. (b)(2)(B). Pub. L. 103–66, § 13201(b)(3)(E), substituted “1992” for “1989”. Subsec. (f). Pub. L. 103–66, § 13204, struck out heading and text of subsec. (f). Text read as follows: “This section shall not apply to any taxable year beginning after December 31, 1995.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2017 Amendment
 
