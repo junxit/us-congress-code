@@ -19,6 +19,8 @@ section: 82
 
 1 So in original. No subsec. (c) has been enacted.
 
+### Editorial Notes
+
 ### References in Text
 
 For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of Title 22, Foreign Relations and Intercourse.

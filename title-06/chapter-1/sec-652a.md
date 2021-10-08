@@ -56,7 +56,7 @@ section: 652a
   - **(2)** *Omitted*
   - **(3)** *References* Any reference to a Sector Specific Agency (including any permutations or conjugations thereof) in any law, regulation, map, document, record, or other paper of the United States shall be deemed to—
     - **(A)** be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector; and
-    - **(B)** have the meaning give such term in section 651(5) of this title.
+    - **(B)** have the meaning give 22 So in original. Probably should be “given”. such term in section 651(5) of this title.
   - **(4)** *Omitted*
 - **(d)** *Report and auditing* Not later than two years after January 1, 2021 and every four years thereafter for 12 years, the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the effectiveness of Sector Risk Management Agencies in carrying out their responsibilities under section 665d of this title.
 
@@ -67,6 +67,8 @@ section: 652a
 ## Notes
 
 1 So in original. Section 651(5) of this title defines “Sector Risk Management Agency”.
+
+2 So in original. Probably should be “given”.
 
 ### Editorial Notes
 

@@ -18,6 +18,8 @@ section: 167j
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1996—Pub. L. 104–273 amended section generally. Prior to amendment, section related to Secretary’s authority under Federal helium refining program to obtain loans and issue obligations to carry out program.

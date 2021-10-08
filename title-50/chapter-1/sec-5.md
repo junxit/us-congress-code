@@ -15,6 +15,8 @@ Reports shall be submitted by all subordinate bodies and by the advisory commiss
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Second sentence was from a proviso to the first sentence, which was affected by act Aug. 7, 1946.
@@ -22,6 +24,8 @@ Second sentence was from a proviso to the first sentence, which was affected by 
 ### Amendments
 
 1946—Act Aug. 7, 1946, repealed all provisions requiring annual reports to Congress of the Council’s activities and expenditures.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Termination of Advisory Commissions
 

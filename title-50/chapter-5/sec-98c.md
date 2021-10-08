@@ -27,6 +27,8 @@ section: 98c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 1704(b) of title 7, referred to in subsec. (a)(3), was amended generally by Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3635, and, as so amended, no longer contains provisions relating to a supplemental stockpile.
@@ -38,6 +40,8 @@ A prior section 98c, acts June 7, 1939, ch. 190, § 4, 53 Stat. 811; July 23, 19
 ### Amendments
 
 2016—Subsec. (b). Pub. L. 114–328, § 1412(a)(1), substituted “suitable for transfer or disposal through” for “required for”. Subsec. (c). Pub. L. 114–328, § 1412(a)(2), struck out “(2)” before “The Secretary”, substituted “subsection (b)” for “this subsection”, and struck out par. (1) which read as follows: “The Secretary of Energy, in consultation with the Secretary of Defense, shall transfer to the stockpile for disposal in accordance with this subchapter uncontaminated materials that are in the Department of Energy inventory of materials for the production of defense-related items, are excess to the requirements of the Department for that purpose, and are suitable for transfer to the stockpile and disposal through the stockpile.” 2008—Subsec. (a)(3). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1704(b) of title 7. 1996—Subsec. (a)(10). Pub. L. 104–106, § 3311(b), added par. (10). Subsec. (c). Pub. L. 104–106, § 3311(a), added subsec. (c). 1986—Pub. L. 99–661 substituted “on July 29, 1979” for “on the day before the date of the date of enactment of the Strategic and Critical Materials Stock Piling Revision Act of 1979” in pars. (1) and (3), and “after July 29, 1979” for “on or after the date of the enactment of the Strategic and Critical Materials Stock Piling Revision Act of 1979” in par. (2).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2008 Amendment
 

@@ -19,6 +19,8 @@ section: 98f
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 98f, acts June 7, 1939, ch. 190, § 7, 53 Stat. 812; July 23, 1946, ch. 590, 60 Stat. 599, related to investigations of domestic ores, minerals, and agriculture resources for purposes of development, etc., prior to repeal by section 2(a) of Pub. L. 96–41. Provisions similar to those in this section were contained in former section 98d of this title prior to repeal by Pub. L. 96–41.

@@ -15,9 +15,13 @@ The Attorney General shall determine whether a person furnishing information to 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1974—Pub. L. 93–377 substituted provisions authorizing the Attorney General, with the advice of the Atomic Energy Commission, to determine entitlement and the amount of reward for a person furnishing information to the United States, for provisions authorizing an Awards Board to determine entitlement and amount of such reward, setting forth the composition of the Board and criteria for reward.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Functions
 

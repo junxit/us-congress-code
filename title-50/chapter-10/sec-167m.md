@@ -41,6 +41,8 @@ section: 167m
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 167m, act Mar. 3, 1925, ch. 426, § 15, as added Pub. L. 86–777, § 2, Sept. 13, 1960, 74 Stat. 923; amended Pub. L. 104–273, § 7, Oct. 9, 1996, 110 Stat. 3319, related to a National Academy of Sciences study and report on helium, prior to repeal by Pub. L. 113–40, § 6(1), Oct. 2, 2013, 127 Stat. 540.

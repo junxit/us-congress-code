@@ -17,6 +17,8 @@ When the Coast Guard operates as a part of the Navy pursuant to section 3 11 See
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 3 of title 14, referred to in text, was redesignated section 103 of title 14 by Pub. L. 115–282, title I, § 103(b), Dec. 4, 2018, 132 Stat. 4195, and references to section 3 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard. Section 191 of this title, referred to in text, was redesignated and transferred to section 70051 of Title 46, Shipping, by Pub. L. 115–282, title IV, § 407(b)(1), (5), Dec. 4, 2018, 132 Stat. 4267.
@@ -24,6 +26,8 @@ Section 3 of title 14, referred to in text, was redesignated section 103 of titl
 ### Amendments
 
 1962—Pub. L. 87–845 substituted “section 3 of title 14” for “section 1 of title 14”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1962 Amendment
 

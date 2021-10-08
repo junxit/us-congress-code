@@ -20,9 +20,13 @@ shall be rewarded by the payment of an amount not to exceed $500,000.
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1974—Pub. L. 93–377 in par. (a) made minor changes in phraseology, in par. (b) included information relating to the actual introduction, manufacture and acquisition, or conspiring to introduce into the United States or to manufacture or acquire special nuclear material or an atomic weapon as within the information for which a reward would be given, and added par. (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

@@ -21,6 +21,8 @@ section: 98d
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Paragraph (5) of section 98e(a) of this title, referred to in subsec. (b), was redesignated paragraph (6) of section 98e(a) of this title by Pub. L. 113–66, div. A, title XIV, § 1411(a), Dec. 26, 2013, 127 Stat. 934.
@@ -33,6 +35,8 @@ A prior section 98d, acts June 7, 1939, ch. 190, § 5, 53 Stat. 812; July 23, 19
 
 1993—Subsec. (a)(2). Pub. L. 103–160 substituted “and a period of 45 days has passed from the date of the receipt of such statement by such committees.” for “and a period of 30 days has passed from the date of the receipt of such statement by such committees. In computing any 30-day period for the purpose of the preceding sentence, there shall be excluded any day on which either House of Congress is not in session because of an adjournment of more than three days to a day certain.” 1992—Subsec. (b). Pub. L. 102–484 struck out “(1)” after “the stockpile” and “, or (2) if the disposal would result in there being an unobligated balance in the National Defense Stockpile Transaction Fund in excess of $100,000,000” after “authorized by law”. 1987—Subsec. (a)(2). Pub. L. 100–180 struck out “or until each such committee, before the expiration of such period, notifies the President that it has no objection to the proposed transaction” before period at end of first sentence. 1986—Subsec. (b). Pub. L. 99–661 substituted “paragraph (3), (4), or (5)” for “paragraph (4) or (5)”. 1984—Subsec. (b)(2). Pub. L. 98–525, § 903(b), substituted “$100,000,000” for “$250,000,000”. Pub. L. 98–525, § 903(a), substituted “an unobligated balance” for “a balance” where first appearing and “$250,000,000” for “$1,000,000,000 or, in the case of a disposal to be made after September 30, 1983, if the disposal would result in there being a balance in the fund in excess of $500,000,000”. 1981—Subsec. (a). Pub. L. 97–35, § 203(a), designated existing provisions as par. (1), inserted applicability to other incidental expenses, substituted “until expended, unless otherwise” for “for a period of five fiscal years, if so”, and added par. (2). Subsec. (b). Pub. L. 97–35, § 203(b), inserted designation for cl. (1) and added cl. (2).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 1984 Amendment
 
 Pub. L. 98–525, title IX, § 903(b), Oct. 19, 1984, 98 Stat. 2573, as amended by Pub. L. 99–145, title XVI, § 1611(b), Nov. 8, 1985, 99 Stat. 776, provided in part that the amendment by section 903(b) of Pub. L. 98–525, is effective Oct. 1, 1987.
@@ -40,10 +44,6 @@ Pub. L. 98–525, title IX, § 903(b), Oct. 19, 1984, 98 Stat. 2573, as amended 
 ### Effective Date of 1981 Amendment
 
 Pub. L. 97–35, title II, § 203(f), Aug. 13, 1981, 95 Stat. 382, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1981.”
-
-### Delegation of Functions
-
-Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
 
 ### Prohibition of Reductions in Stockpile Goals
 
@@ -65,10 +65,16 @@ Act June 22, 1956, ch. 426, 70 Stat. 329, directed Federal Facilities Corporatio
 
 Act June 28, 1947, ch. 159, 61 Stat. 190, as amended June 29, 1948, ch. 722, 62 Stat. 1101; June 30, 1949, ch. 284, 63 Stat. 350; Aug. 21, 1950, ch. 766, 64 Stat. 468; July 30, 1953, ch. 282, title I, § 103, 67 Stat. 230; June 22, 1956, ch. 426, § 5(a), 70 Stat. 329, declared tin to be a highly strategic and critical material in short supply, directed that it was in the public interest that Congress make a thorough investigation on the advisability of the maintenance of a permanent tin-smelting industry and study the availability of adequate tin supplies, provided that the powers, functions, duties, and authority of the United States exercised by the Reconstruction Finance Corporation to buy, sell, and transport tin, and tin ore and concentrates, to improve, develop, maintain, and operate by lease or otherwise the Government-owned tin smelter at Texas City, Texas, to finance research in tin smelting and processing, and to do all other things necessary to the accomplishment of the foregoing continue in effect until Jan. 31, 1957, or until such earlier time as the Congress shall otherwise provide, and be exercised and performed by such officer, agency, or instrumentality of the United States as the President may designate, authorized diversification of tin-recovery facilities in the United States, and required the Reconstruction Finance Corporation to report to Congress on its activities not later than Dec. 31, 1947, and at the end of each six months thereafter.
 
-### Federal Facilities Corporation; Abolition and Dissolution of Reconstruction Finance Corporation and Federal Facilities Corporation
-
-Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Facilities Corporation to perform and exercise the functions formerly performed and exercised by the Reconstruction Finance Corporation under act June 28, 1947, set out as a note above. The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5, was subsequently abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees. The Federal Facilities Corporation was, in turn, dissolved by Pub. L. 87–190, § 6, Aug. 30, 1961, 75 Stat. 419, effective Sept. 30, 1961, formerly set out as a note under sections 1921 to 1929 of the former Appendix to this title.
-
 ### Disposal of Government-Owned Tin Smelter at Texas City, Texas; Cancellation of Obligations
 
 Cancellation of obligation of General Services Administration to Federal Facilities Corporation existing by virtue of section 5(b) of act June 22, 1956, set out as a note above, see section 4(b) of Pub. L. 87–190, Aug. 30, 1961, 75 Stat. 418, formerly set out as a note under sections 1921 to 1929 of the former Appendix to this title.
+
+### Executive Documents
+
+### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
+
+### Federal Facilities Corporation; Abolition and Dissolution of Reconstruction Finance Corporation and Federal Facilities Corporation
+
+Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Facilities Corporation to perform and exercise the functions formerly performed and exercised by the Reconstruction Finance Corporation under act June 28, 1947, set out as a note above. The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5, was subsequently abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees. The Federal Facilities Corporation was, in turn, dissolved by Pub. L. 87–190, § 6, Aug. 30, 1961, 75 Stat. 419, effective Sept. 30, 1961, formerly set out as a note under sections 1921 to 1929 of the former Appendix to this title.

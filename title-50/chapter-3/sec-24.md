@@ -15,6 +15,8 @@ When an alien enemy is required by the President, or by order of any court, judg
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 4070 derived from act July 6, 1798, ch. 66, § 3, 1 Stat. 578.

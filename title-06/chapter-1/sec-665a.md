@@ -23,7 +23,7 @@ section: 665a
   - **(1)** be a citizen of the United States; and
   - **(2)** as of the date of submitting the application to participate in the Program—
     - **(A)** have a cumulative grade point average of at least 3.2 on a 4.0 scale;
-    - **(B)** be a socially disadvantaged individual (as that term in defined in section 124.103 of title 13, Code of Federal Regulations, or successor regulation); and
+    - **(B)** be a socially disadvantaged individual (as that term in 11 So in original. Probably should be “is”. defined in section 124.103 of title 13, Code of Federal Regulations, or successor regulation); and
     - **(C)** be a sophomore, junior, or senior at an institution of higher education.
 - **(d)** *Direct hire authority* If an individual who receives an offer of employment under subsection (b)(3) accepts such offer, the Secretary shall appoint, without regard to provisions of subchapter I of chapter 33 of title 5 (except for section 3328 of such title) such individual to the position specified in such offer.
 - **(e)** *Reports*
@@ -39,6 +39,10 @@ section: 665a
 (Pub. L. 107–296, title XIII, § 1333, as added Pub. L. 116–260, div. W, title IV, § 404(a), Dec. 27, 2020, 134 Stat. 2378.)
 
 ## Notes
+
+1 So in original. Probably should be “is”.
+
+### Editorial Notes
 
 ### Codification
 

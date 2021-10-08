@@ -24,6 +24,8 @@ section: 167a
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 3 of act Mar. 3, 1925, related to disposal of helium by sale, use of funds so obtained, and reports to Congress on such uses and was classified to section 164 of this title, prior to the general amendment of this chapter by Pub. L. 86–777.

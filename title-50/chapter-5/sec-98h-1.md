@@ -24,6 +24,8 @@ section: 98h–1
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 10 of act June 7, 1939, ch. 190, § 10, was renumbered section 13 and is classified to section 98h–4 of this title. Provisions similar to those in this section were contained in former section 98a(b) of this title prior to repeal by Pub. L. 96–41.
@@ -32,13 +34,11 @@ A prior section 10 of act June 7, 1939, ch. 190, § 10, was renumbered section 1
 
 1992—Subsec. (c). Pub. L. 102–484 added subsec. (c).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security. For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-### Delegation of Functions
-
-Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
 
 ### Termination of Advisory Committees
 
@@ -47,3 +47,9 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 ### Advisory Committee Regarding Operation and Modernization of Stockpile
 
 Pub. L. 102–484, div. C, title XXXIII, § 3306, Oct. 23, 1992, 106 Stat. 2652, provided that: “(a) Appointment.—Not later than March 15, 1993, the President shall appoint an advisory committee under section 10(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–1(a)) to make recommendations to the President concerning the operation and modernization of the National Defense Stockpile. “(b) Membership.—The committee shall consist of members who have expertise regarding strategic and critical materials, including—“(1) employees of Federal agencies (including the Department of Defense, the Department of State, the Department of Commerce, the Department of Energy, the Department of the Treasury, the Department of the Interior, and the Federal Emergency Management Agency); “(2) representatives of mining, processing, and fabricating industries and consumers that would be affected by the acquisition of materials for the stockpile or the disposal of materials from the stockpile; and “(3) other interested persons or representatives of interested organizations.”
+
+### Executive Documents
+
+### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.

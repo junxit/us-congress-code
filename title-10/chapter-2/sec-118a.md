@@ -5,10 +5,10 @@ chapter: 2
 section: 118a
 ---
 
-# § 118a. National defense sustainment and logistics review
+# § 118a. National Defense Sustainment and Logistics Review
 
-- **(a)** *Review required* Upon submission of each national defense strategy under section 113(g) of this title, the Secretary of Defense shall conduct a comprehensive review of the sustainment and logistics requirements necessary to support the force structure, force modernization, infrastructure, force deployment capabilities, and other elements of the defense program and policies of the United States during the subsequent 5-, 10-, and 25-year periods. Each such review shall be known as the ‘National Defense Sustainment and Logistics Review’. Each such review shall be conducted in consultation with the Secretaries of the military departments, the Chiefs of Staff of the Armed Forces, all functional and geographic combatant commanders, and the Director of the Defense Logistics Agency.
-- **(b)** *Report to Congress*
+- **(a)** *Review Required.—* Upon submission of each national defense strategy under section 113(g) of this title, the Secretary of Defense shall conduct a comprehensive review of the sustainment and logistics requirements necessary to support the force structure, force modernization, infrastructure, force deployment capabilities, and other elements of the defense program and policies of the United States during the subsequent 5-, 10-, and 25-year periods. Each such review shall be known as the ‘National Defense Sustainment and Logistics Review’. Each such review shall be conducted in consultation with the Secretaries of the military departments, the Chiefs of Staff of the Armed Forces, all functional and geographic combatant commanders, and the Director of the Defense Logistics Agency.
+- **(b)** *Report to Congress.—*
   - **(1)** Not later than the first Monday in February of the year following the fiscal year during which the National Defense Strategy was submitted under section 113(g) of this title, the Secretary shall submit to the congressional defense committees a report on the review required by subsection (a). Each such report shall include each of the following:
     - **(A)** An assessment of the strategic, operational, and tactical maritime logistics force (including non-military assets provided by Military Sealift Command, the Maritime Administration, and through the Voluntary Intermodal Sealift Agreement and Voluntary Tanker Agreement) required to support sealift, at sea logistics, and over-the-shore logistics of forces to meet steady state and contingency requirements and the strategic and intra-theater movement of supplies, personnel, and equipment.
     - **(B)** An assessment of the strategic, operational, and tactical airlift and tankers (including non-military assets provided by the Civil Reserve Air Fleet) required to meet steady state and contingency requirements.
@@ -25,11 +25,11 @@ section: 118a
     - **(M)** Such other matters the Secretary of Defense considers appropriate.
   - **(2)** In preparing the report under paragraph (1), the Secretary of Defense shall consult with, and consider the recommendations of, the Chairman of the Joint Chiefs of Staff.
   - **(3)** The report required under this subsection shall be submitted in classified form and shall include an unclassified summary.
-- **(c)** *Comptroller General review* Not later than 180 days after the date on which Secretary submits each report required under subsection (b), the Comptroller General shall submit to the congressional defense committees a report that includes an assessment of each of the following:
+- **(c)** *Comptroller General Review.—* Not later than 180 days after the date on which Secretary submits each report required under subsection (b), the Comptroller General shall submit to the congressional defense committees a report that includes an assessment of each of the following:
   - **(1)** Whether the report includes each of the elements referred to in subsection (b).
   - **(2)** The strengths and weaknesses of the approach and methodology used in conducting the review required under subsection (a) that is covered by the report.
   - **(3)** Any other matters relating to sustainment that may arise from the report, as the Comptroller General considers appropriate.
-- **(d)** *Relationship to budget* Nothing in this section shall be construed to affect section 1105(a) of title 31.
+- **(d)** *Relationship to Budget.—* Nothing in this section shall be construed to affect section 1105(a) of title 31.
 
 ## Source credit
 

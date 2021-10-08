@@ -15,6 +15,8 @@ The President may not prohibit or regulate the importation into the United State
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in text, is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
@@ -26,6 +28,8 @@ Section was formerly classified to section 98h–1 of this title.
 ### Amendments
 
 1996—Pub. L. 104–201 substituted “not listed in general note” for “not listed as a Communist-dominated country or area in general note” and “product of a country or area listed in such general note” for “product of such Communist-dominated countries or areas”. 1988—Pub. L. 100–418 substituted “general note 3(b) of the Harmonized Tariff Schedule of the United States” for “general headnote 3(d) of the Tariff Schedules of the United States”. 1987—Pub. L. 100–180 inserted section catchline and, in text, substituted “The President” for “Notwithstanding any other provision of law, on and after January 1, 1972, the President”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1988 Amendment
 
