@@ -46,7 +46,7 @@ section: 410eeee
       - **(ii)** *Administration* On acquisition of the land under clause (i), the acquired land shall be administered as part of the New River Gorge National Park or the New River Gorge National Preserve, as appropriate.
   - **(4)** *Commercial recreational watercraft services* Commercial recreational watercraft services within the New River Gorge National Park and Preserve shall be administered by the Secretary in accordance with section 402 of the West Virginia National Interest River Conservation Act of 1987 (16 U.S.C. 460m–15 1 note; Public Law 100–534).
   - **(5)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the New River Gorge National River shall be considered to be a reference to the “New River Gorge National Park” or the “New River Gorge National Preserve”, as appropriate.
-- **(d)** *Authorization of Appropriations* There are authorized to be appropriated such sums as are necessary to carry out this section.
+- **(d)** *Authorization of appropriations* There are authorized to be appropriated such sums as are necessary to carry out this section.
 
 ## Source credit
 
@@ -62,7 +62,7 @@ The National Parks and Recreation Act of 1978, referred to in subsecs. (b)(1) an
 
 ### Codification
 
-Section was enacted as part of the New River Gorge National Park and Preserve Designation Act, and not as part of title XI of the National Parks and Recreation Act of 1978 which comprises this subchapter.
+Section was enacted as part of the New River Gorge National Park and Preserve Designation Act and as part of the Consolidated Appropriations Act, 2021, and not as part of title XI of the National Parks and Recreation Act of 1978 which comprises this subchapter.
 
 ### Short Title of 2002 Amendment
 

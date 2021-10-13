@@ -8,7 +8,7 @@ section: 80t–5
 # § 80t–5. Building
 
 - **(a)** *Location*
-  - **(1)** *In general* Not later than 2 years after the December 27, 2020, the Board of Regents shall designate a site for the Museum.
+  - **(1)** *In general* Not later than 2 years after December 27, 2020, the Board of Regents shall designate a site for the Museum.
   - **(2)** *Sites for consideration* In designating a site under paragraph (1), the Board of Regents shall—
     - **(A)** select a site in the District of Columbia; and
     - **(B)** include the consideration of the following sites:

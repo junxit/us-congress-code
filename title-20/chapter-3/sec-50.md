@@ -15,9 +15,13 @@ Whenever suitable arrangements can be made from time to time for their reception
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5586 derived from act Aug. 10, 1846, ch. 178, § 6, 9 Stat. 105.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Laboratory Space, Gamboa, Panama
 

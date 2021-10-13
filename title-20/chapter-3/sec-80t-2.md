@@ -69,6 +69,8 @@ section: 80t–2
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 This subchapter, referred to in subsecs. (a) and (g)(2), was in the original “this Act”, and was translated as reading “this title”, meaning title I of div. T of Pub. L. 116–260, known as the Smithsonian American Women’s History Museum Act, which is classified to this subchapter, to reflect the probable intent of Congress.

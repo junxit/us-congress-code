@@ -15,6 +15,8 @@ There are authorized to be appropriated annually, from money in the Treasury of 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 1387 of Title 48, Territories and Insular Possessions.
@@ -22,6 +24,8 @@ Section was formerly classified to section 1387 of Title 48, Territories and Ins
 ### Amendments
 
 1983—Pub. L. 98–57 struck out “, not to exceed $750,000” after “such sums”. 1979—Pub. L. 96–89 substituted “$750,000” for “$350,000”. 1965—Pub. L. 89–280 substituted “$350,000” for “$10,000”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1983 Amendment
 

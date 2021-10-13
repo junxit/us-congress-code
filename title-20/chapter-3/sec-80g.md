@@ -23,6 +23,8 @@ section: 80g
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Housing Act of 1949, as amended, referred to in subsec. (b), is act July 15, 1949, ch. 338, 63 Stat. 413, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.

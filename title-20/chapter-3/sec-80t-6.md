@@ -21,6 +21,8 @@ In this subchapter,11 See References in Text note below. the following definitio
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 This subchapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”, meaning title I of div. T of Pub. L. 116–260, known as the Smithsonian American Women’s History Museum Act, which is classified to this subchapter, to reflect the probable intent of Congress. Section 3056 of the Military Construction Authorization Act for Fiscal Year 2015, referred to in par. (2), is section 3056 of div. B of Pub. L. 113–291, Dec. 19, 2014, 128 Stat. 3810, which is not classified to the Code.

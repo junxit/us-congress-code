@@ -40,6 +40,8 @@ section: 76i
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2012—Subsec. (c). Pub. L. 112–131 added subsec. (c). 1997—Pub. L. 105–95 substituted section catchline for former section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b). 1964—Pub. L. 88–260 substituted “John F. Kennedy Center for the Performing Arts” for “National Cultural Center” wherever appearing.

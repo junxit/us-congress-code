@@ -15,6 +15,8 @@ Any building constructed under authority of section 71a of this title shall, upo
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act Mar. 24, 1937, ch. 50, 50 Stat. 51, which comprises this subchapter.

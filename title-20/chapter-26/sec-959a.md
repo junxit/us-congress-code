@@ -15,6 +15,8 @@ The National Endowment for the Arts and the National Endowment for the Humanitie
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the National Foundation on the Arts and the Humanities Act of 1965 which comprises this subchapter.

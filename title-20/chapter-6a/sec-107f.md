@@ -15,6 +15,8 @@ There is authorized to be appropriated such sums as may be necessary for carryin
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 The content of Pub. L. 93–516, including provisions of section 206 thereof which renumbered this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. Pursuant to an order of the United States District Court for the District of Columbia (Kennedy v. Jones, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been renumbered by Pub. L. 93–651, title II, § 206, Nov. 21, 1974, 89 Stat. 2–11, in exactly the same manner as it was amended by Pub. L. 93–516, title II, § 206, Nov. 21, 1974, 88 Stat. 1626.

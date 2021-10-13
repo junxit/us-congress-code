@@ -17,9 +17,13 @@ section: 1087ii
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2015—Subsec. (a). Pub. L. 114–95 substituted “eligible to be counted under section 6333(c) of this title” for “eligible to be counted under title I of the Elementary and Secondary Education Act of 1965”. 2009—Subsec. (c). Pub. L. 111–39 substituted “and the term ‘early intervention services’ has the meaning given the term in section 1432 of this title.” for “and the term ‘qualified professional provider of early intervention services’ has the meaning specified in section 1472(2) of this title.” 2004—Subsec. (c). Pub. L. 108–446 substituted “sections 1401 and 1432” for “sections 1401(a)(1) and 1472(1)”. 1994—Subsec. (a). Pub. L. 103–382 substituted “title I” for “chapter 1 of title I”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2015 Amendment
 

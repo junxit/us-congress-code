@@ -15,6 +15,8 @@ The Secretary of the Board of Regents shall take charge of the building and prop
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5583 derived from act Aug. 10, 1846, ch. 178, § 7, 9 Stat. 105.

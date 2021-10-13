@@ -15,6 +15,8 @@ The Secretary of the Treasury is authorized and directed to receive into the Tre
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5591 derived from act Feb. 5, 1867, ch. 34, § 1, 14 Stat. 391.

@@ -65,7 +65,7 @@ section: 667h
     - **(D)** new research findings and emerging research needs relating to chronic wasting disease; and
     - **(E)** any other relevant information.
 - **(c)** *Chronic wasting disease transmission in cervidae resource study*
-  - **(1)** *Definition of academy* In this subsection, the term “Academy” means the National Academy of Sciences.
+  - **(1)** *Definition of Academy* In this subsection, the term “Academy” means the National Academy of Sciences.
   - **(2)** *Study*
     - **(A)** *In general* The Secretaries shall enter into an arrangement with the Academy under which the Academy shall conduct, and submit to the Secretaries a report describing the findings of, a special resource study to identify the predominant pathways and mechanisms of the transmission of chronic wasting disease in wild, captive, and farmed populations of cervids in the United States.
     - **(B)** *Requirements* The arrangement under subparagraph (A) shall provide that the actual expenses incurred by the Academy in conducting the study under subparagraph (A) shall be paid by the Secretaries, subject to the availability of appropriations.

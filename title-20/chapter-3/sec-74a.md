@@ -15,6 +15,8 @@ The Secretary of the Treasury is authorized and directed to receive into the Tre
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act Mar. 24, 1937, ch. 50, 50 Stat. 51, which comprises this subchapter.

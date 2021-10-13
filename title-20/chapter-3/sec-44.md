@@ -15,6 +15,8 @@ The Board of Regents shall meet in the city of Washington and elect one of their
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5582 derived from act Aug. 10, 1846, ch. 178, § 3, 9 Stat. 103.

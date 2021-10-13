@@ -23,6 +23,8 @@ section: 1098aa
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
@@ -30,6 +32,8 @@ The Higher Education Act of 1965, referred to in subsec. (c), is Pub. L. 89–32
 ### Codification
 
 Section was formerly set out in a note under section 1070 of this title. Section was enacted as part of the Higher Education Relief Opportunities for Students Act of 2003, and not as part of title IV of the Higher Education Act of 1965 which comprises this subchapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Sense of Congress
 

@@ -21,9 +21,13 @@ section: 923a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2009—Subsec. (a)(2). Pub. L. 111–84, § 535(a), struck out “, and only through the 2010–2011 school year” before period at end. Subsec. (c)(1). Pub. L. 111–84, § 535(b), inserted at end “The Secretary shall prescribe such methodology with the advice and assistance of the commander of the geographic combatant command with jurisdiction over Mons, Belgium.” 2008—Pub. L. 110–181, § 1063(e)(1), made technical correction to directory language of Pub. L. 109–163, § 571, which enacted this section. 2006—Subsec. (a). Pub. L. 109–364, § 571(a)(1), substituted “basis of—” for “basis of”, designated part of existing provisions as par. (1), substituted “; and” for period at end, and added par. (2). Subsec. (c). Pub. L. 109–364, § 571(a)(2), added subsec. (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2008 Amendment
 

@@ -54,6 +54,8 @@ section: 80q–3
 
 2 So in original. Probably should be “At”.
 
+### Editorial Notes
+
 ### Amendments
 
 1996—Subsec. (f)(1)(B). Pub. L. 104–278 substituted “a senior official” for “an Assistant Secretary”.

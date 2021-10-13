@@ -29,6 +29,8 @@ section: 76r
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 13 of Pub. L. 85–874 was renumbered section 14 and is classified to section 76s of this title.

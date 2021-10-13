@@ -15,6 +15,8 @@ The Secretary and his assistants shall, respectively, receive for their services
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5584 derived from act Aug. 10, 1846, ch. 178, § 7, 9 Stat. 105. Provisions which related to semi-annual payments on the first day of January and July have been omitted.

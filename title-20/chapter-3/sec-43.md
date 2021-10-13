@@ -15,6 +15,8 @@ The regents to be selected shall be appointed as follows: The Members of the Sen
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5581 derived from act Aug. 10, 1846, ch. 178, § 3, 9 Stat. 103.

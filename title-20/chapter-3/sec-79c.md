@@ -15,9 +15,13 @@ The Smithsonian Institution may select and designate a resident manager to assis
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 1385 of Title 48, Territories and Insular Possessions.
+
+### Executive Documents
 
 ### Transfer of Functions
 

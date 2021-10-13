@@ -172,6 +172,8 @@ section: 80u
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 333 of the Consolidated Natural Resources Act of 2008, referred to in subsecs. (g)(1)(B) and (h), is section 333 of Pub. L. 110–229, title III, May 8, 2008, 122 Stat. 784, which is not classified to the Code.

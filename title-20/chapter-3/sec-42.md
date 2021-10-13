@@ -18,6 +18,8 @@ section: 42
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5580 derived from acts Aug. 10, 1846, ch. 178, § 3, 9 Stat. 103; Jan. 10, 1865, ch. 11, 13 Stat. 420; Mar. 20, 1871, ch. 1, 17 Stat. 1.

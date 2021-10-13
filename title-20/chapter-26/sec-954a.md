@@ -31,6 +31,8 @@ section: 954a
 
 1 So in original. The comma probably should not appear.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date
 
 Section effective Oct. 1, 1990, see section 318 [title IV, § 403(a)] of Pub. L. 101–512, set out as an Effective Date of 1990 Amendment note under section 951 of this title.

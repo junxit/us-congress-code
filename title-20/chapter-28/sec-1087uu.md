@@ -19,6 +19,8 @@ Notwithstanding any other provision of law, student financial assistance receive
 
 Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(j), Dec. 27, 2020, 134 Stat. 3137, 3160, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows: § 1087uu. Disregard of student aid in other programs Notwithstanding any other provision of law, student financial assistance received under this subchapter, Bureau of Indian Education student assistance programs, and employment and training programs under section 3174 of title 29 shall not be taken into account in determining the need or eligibility of any person for benefits or assistance, or the amount of such benefits or assistance, under any Federal, State, or local program financed in whole or in part with Federal funds. See 2020 Amendment note below.
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 1087uu, Pub. L. 89–329, title IV, § 479B, as added Pub. L. 99–498, title IV, § 406(a), Oct. 17, 1986, 100 Stat. 1472, related to exclusion of student financial assistance for attendance costs in determining student eligibility for assistance under any other program funded in whole or part with Federal funds, prior to repeal by section 14(27) of Pub. L. 100–50.
@@ -26,6 +28,8 @@ A prior section 1087uu, Pub. L. 89–329, title IV, § 479B, as added Pub. L. 99
 ### Amendments
 
 2020—Pub. L. 116–260 amended section generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, student financial assistance received under this subchapter, or under Bureau of Indian Affairs student assistance programs, shall not be taken into account in determining the need or eligibility of any person for benefits or assistance, or the amount of such benefits or assistance, under any Federal, State, or local program financed in whole or in part with Federal funds.” 1992—Pub. L. 102–325 amended section generally, revising and restating as a single paragraph provisions formerly contained in subsec. (a) which proscribed consideration of aid for attendance costs as income or resources, and in subsec. (b) which delineated elements of attendance costs.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2020 Amendment
 

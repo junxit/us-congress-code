@@ -17,6 +17,8 @@ section: 76o
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1990—Subsec. (a). Pub. L. 101–449 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as amended,” in two places. 1984—Pub. L. 98–473 designated existing provisions as subsec. (a), struck out provisions relating to interest on bonds, and added subsecs. (b) and (c). 1969—Pub. L. 91–90 substituted “$20,400,000” for “$15,400,000” in two places.

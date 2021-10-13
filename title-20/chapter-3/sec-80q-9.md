@@ -27,6 +27,8 @@ section: 80q–9
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1996—Subsec. (a). Pub. L. 104–278, § 3(a), designated existing provisions as par. (1), added pars. (2) and (3), and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1). Subsec. (f). Pub. L. 104–278, § 3(b), inserted “and section 80q–9a of this title” after “to carry out this section”.

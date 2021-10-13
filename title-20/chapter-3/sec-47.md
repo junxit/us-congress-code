@@ -15,6 +15,8 @@ The chancellor of the Smithsonian Institution may, by an instrument in writing f
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 Similar prior provisions were contained in act Jan. 24, 1879, ch. 21, 20 Stat. 264.

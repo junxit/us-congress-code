@@ -23,6 +23,8 @@ section: 1087ff
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 1087ff, Pub. L. 89–329, title IV, § 466, as added Pub. L. 92–318, title I, § 137(b), June 23, 1972, 86 Stat. 278; amended Pub. L. 94–482, title I, § 130(h), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 96–374, title IV, § 442(c), title XIII, § 1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1503, related to distribution of assets from student loan funds, prior to the general revision of this part by Pub. L. 99–498.
@@ -30,6 +32,8 @@ A prior section 1087ff, Pub. L. 89–329, title IV, § 466, as added Pub. L. 92�
 ### Amendments
 
 2015—Subsec. (a). Pub. L. 114–105, § 2(b)(1)(A), substituted “Beginning October 1, 2017” for “After September 30, 2003, and not later than March 31, 2004” in introductory provisions. Subsec. (a)(1). Pub. L. 114–105, § 2(b)(1)(B), substituted “September 30, 2017” for “September 30, 2003”. Subsec. (b). Pub. L. 114–105, § 2(b)(2), substituted “Beginning October 1, 2017” for “After October 1, 2012” and “September 30, 2017” for “September 30, 2003”. Subsec. (c)(1). Pub. L. 114–105, § 2(b)(3), substituted “October 1, 2017” for “October 1, 2004” in introductory provisions. 2007—Subsec. (b). Pub. L. 110–84 substituted “October 1, 2012” for “March 31, 2012”. 1998—Subsec. (a). Pub. L. 105–244, § 466(1)(A), in introductory provisions, substituted “2003” for “1996” and “2004” for “1997”. Subsec. (a)(1). Pub. L. 105–244, § 466(1)(B), substituted “2003” for “1996”. Subsec. (b). Pub. L. 105–244, § 466(2), substituted “2012” for “2005” and “2003” for “1996”. Subsec. (c)(1). Pub. L. 105–244, § 466(3), substituted “2004” for “1997” in introductory provisions. 1993—Subsec. (c)(2). Pub. L. 103–208 realigned margin. 1992—Subsec. (b). Pub. L. 102–325, § 466(1), substituted “2005” for “1997”. Subsec. (c). Pub. L. 102–325, § 466(2), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2007 Amendment
 

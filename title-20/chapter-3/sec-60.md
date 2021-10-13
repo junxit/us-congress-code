@@ -15,9 +15,13 @@ The Secretary of the Army is authorized to furnish to the National Museum, for e
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1951—Act Oct. 31, 1951, struck out “are surplus or” after “articles”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

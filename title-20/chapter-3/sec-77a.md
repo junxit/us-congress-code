@@ -15,6 +15,8 @@ The national air and space museum shall memorialize the national development of 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1966—Pub. L. 89–509 substituted “national air and space museum” for “national air museum”, inserted “and space flight” after “aviation” wherever appearing, and substituted “aeronautical and space flight equipment” for “aeronautical equipment”.

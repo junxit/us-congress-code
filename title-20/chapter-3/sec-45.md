@@ -15,6 +15,8 @@ The members of the institution may hold stated and special meetings, for the sup
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 5585 derived from act Aug. 10, 1846, ch. 178, § 8, 9 Stat. 103.

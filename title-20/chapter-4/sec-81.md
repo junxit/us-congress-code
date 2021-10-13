@@ -15,9 +15,13 @@ The National Zoological Park is placed under the direction of the Regents of the
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1961—Pub. L. 87–360 inserted “and improve” after “administer”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Central Parking Facility
 

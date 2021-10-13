@@ -16,6 +16,8 @@ section: 80a
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 “National Air and Space Museum” substituted for “National Air Museum” in subsec. (b) pursuant to section 2 of Pub. L. 89–509, which is classified to section 77 of this title.

@@ -20,6 +20,8 @@ In carrying out the provisions of this part, the Secretary is authorized—
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 1087hh, Pub. L. 89–329, title IV, § 468, as added Pub. L. 96–374, title IV, § 442(a), Oct. 3, 1980, 94 Stat. 1437, related to alternative source of funds, prior to the general revision of this part by Pub. L. 99–498. A prior section 1087ii, Pub. L. 89–329, title IV, § 469, as added Pub. L. 96–374, title IV, § 442(a), Oct. 3, 1980, 94 Stat. 1439, related to recapture of current balance of student loan funds, prior to the general revision of this part by Pub. L. 99–498.

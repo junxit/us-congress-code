@@ -15,9 +15,13 @@ All moneys received by donation, subscription, fees, or otherwise, except the mo
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 1386 of Title 48, Territories and Insular Possessions.
+
+### Executive Documents
 
 ### Transfer of Functions
 

@@ -15,6 +15,8 @@ There is authorized to be appropriated, out of any money in the Treasury not oth
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2014—Pub. L. 113–287 substituted “section 1866(b) of title 18 and sections 320302 and 320303 of title 54” for “the Act of June 8, 1906 (16 U.S.C. 432, 433)”.

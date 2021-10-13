@@ -17,6 +17,8 @@ The Smithsonian Institution shall (a) determine the policy, prescribe conditions
 
 1 So in original. Probably should be “fix”.
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 1384 of Title 48, Territories and Insular Possessions.
@@ -24,6 +26,8 @@ Section was formerly classified to section 1384 of Title 48, Territories and Ins
 ### Amendments
 
 1965—Pub. L. 89–280 substituted provisions in cl. (f) requiring the Smithsonian Institution to include in its annual report of its operations to Congress a statement of activities and operations during the preceding year for provisions which required the Smithsonian Institution to submit to the Congress of the United States not later than the 15th day of each January a report of activities and operations during the preceding year.
+
+### Executive Documents
 
 ### Transfer of Functions
 

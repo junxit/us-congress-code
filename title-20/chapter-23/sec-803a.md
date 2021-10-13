@@ -21,6 +21,8 @@ section: 803a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 93–383, § 402, provided for amendments to title VIII of the Housing and Urban Development Act of 1964. The amendments of the enumerated sections of such title VIII have been executed to comparable sections of title VIII of the Housing Act of 1964 as the probable intent of Congress.

@@ -22,6 +22,8 @@ A State agency for the blind or other State agency desiring to be designated as 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 The content of Pub. L. 93–516, including provisions of section 204 thereof which amended this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below. Pursuant to an order of the United States District Court for the District of Columbia (Kennedy v. Jones, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended by Pub. L. 93–651, title II, § 204, Nov. 21, 1974, 89 Stat. 2–10, in exactly the same manner as it was amended by Pub. L. 93–516.
@@ -29,6 +31,8 @@ The content of Pub. L. 93–516, including provisions of section 204 thereof whi
 ### Amendments
 
 1974—Pub. L. 93–516, § 204(a)(1), substituted “A State agency” for “A State commission” in provisions preceding par. (1). An identical amendment was made by Pub. L. 93–651. See Codification note above. Par. (2). Pub. L. 93–516, § 204(a)(2), substituted “vending facility” for “vending stand” in two places. An identical amendment was made by Pub. L. 93–651. See Codification note above. Par. (3). Pub. L. 93–516, § 204(a)(2), (b), (c), in provisions preceding subpar. (A), substituted “the net proceeds of the operation of the vending facilities” for “the proceeds of the operation of the vending stands”, in subpar. (D), substituted “vending facilities” for “vending stands”, added subpar. (E), and in proviso following subpar. (E) substituted “the net proceeds of any vending facility” for “the proceeds of any vending stand”. An identical amendment was made by Pub. L. 93–651. See Codification note above. Par. (6). Pub. L. 93–516, § 204(a)(3), substituted “vending facility program an opportunity for a fair hearing, and to agree to submit the grievances of any blind licensee not otherwise resolved by such hearing to arbitration as provided in section 107d–1 of this title” for “vending stand program an opportunity for a fair hearing”. An identical amendment was made by Pub. L. 93–651. See Codification note above. 1954—Act Aug. 3, 1954, amended section generally and, among other changes, added pars. (3) to (6).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1954 Amendment
 
