@@ -50,6 +50,8 @@ section: 468B
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (g)(2)(B), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
@@ -57,6 +59,8 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 ### Amendments
 
 2006—Subsec. (g). Pub. L. 109–222 reenacted heading without change and amended text of subsec. (g) generally. Prior to amendment, text read as follows: “Nothing in any provision of law shall be construed as providing that an escrow account, settlement fund, or similar fund is not subject to current income tax. The Secretary shall prescribe regulations providing for the taxation of any such account or fund whether as a grantor trust or otherwise.” Subsec. (g)(3). Pub. L. 109–432 struck out heading and text of par. (3). Text read as follows: “Paragraph (2) shall not apply to accounts and funds established after December 31, 2010.” 1990—Subsec. (e). Pub. L. 101–508 substituted “This section (other than subsection (g))” for “This section”. 1988—Subsec. (b)(2). Pub. L. 100–647, § 1018(f)(4)(B), substituted “No other” for “no other” in concluding provisions. Subsec. (b)(2)(B). Pub. L. 100–647, § 1018(f)(4)(A), substituted “a corporation.” for “the corporation,”. Subsec. (d)(1)(A). Pub. L. 100–647, § 1018(f)(1), inserted “(or any related person)” after “taxpayer”. Subsec. (d)(2)(A). Pub. L. 100–647, § 1018(f)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “which is established pursuant to a court order,”. Subsec. (d)(2)(E). Pub. L. 100–647, § 1018(f)(1), inserted “(or any related person)” after “taxpayer”. Subsec. (g). Pub. L. 100–647, § 1018(f)(5)(A), added subsec. (g).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2006 Amendment
 

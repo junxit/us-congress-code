@@ -37,9 +37,13 @@ section: 817A
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Subsec. (e)(2). Pub. L. 115–97 substituted “and 807(d)(2)(B)” for “, 807(d)(2)(B), and 812”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2017 Amendment
 

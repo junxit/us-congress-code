@@ -16,9 +16,13 @@ section: 860A
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1988—Subsec. (a). Pub. L. 100–647 substituted “this subtitle” for “this chapter” in two places.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1988 Amendment
 

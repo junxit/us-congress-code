@@ -21,9 +21,13 @@ section: 269A
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1986—Subsec. (b)(3). Pub. L. 99–514 substituted “section 144(a)(3)” for “section 103(b)(6)(C)”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1986 Amendment
 

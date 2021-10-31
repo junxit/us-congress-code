@@ -72,9 +72,13 @@ section: 860E
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2020—Subsec. (a)(3)(B). Pub. L. 116–136 substituted “subsection (a)(2)(B)(ii)(I) and the second sentence of subsection (b)(2) of section 172.” for “the 2nd sentence of section 172(b)(2).” 2017—Subsec. (e)(2)(B), (6)(A)(ii). Pub. L. 115–97 substituted “section 11(b)” for “section 11(b)(1)”. 1996—Subsec. (a)(1). Pub. L. 104–188, § 1616(b)(10)(A), substituted “The” for “Except as provided in paragraph (2), the”. Subsec. (a)(2). Pub. L. 104–188, § 1616(b)(10)(B), (C), redesignated par. (3) as (2), struck out “, except that paragraph (2) shall be applied separately with respect to each corporation which is a member of such group and to which section 593 applies” after “of this subsection”, and struck out former par. (2) which read as follows: “Exception for certain financial institutions.—Paragraph (1) shall not apply to any organization to which section 593 applies. The Secretary may by regulations provide that the preceding sentence shall not apply where necessary or appropriate to prevent avoidance of tax imposed by this chapter.” Subsec. (a)(3). Pub. L. 104–188, § 1616(b)(10)(B), redesignated par. (5) as (3). Former par. (3) redesignated (2). Subsec. (a)(4). Pub. L. 104–188, § 1616(b)(10)(B), (D), redesignated par. (6) as (4), struck out at end “The preceding sentence shall not apply to any organization to which section 593 applies, except to the extent provided in regulations prescribed by the Secretary under paragraph (2).”, and struck out former par. (4) which related to certain subsidiaries being treated as single corporations to which section 593 applied. Subsec. (a)(5). Pub. L. 104–188, § 1616(b)(10)(B), redesignated par. (5) as (3). Subsec. (a)(6). Pub. L. 104–188, § 1616(b)(10)(B), redesignated par. (6) as (4). Pub. L. 104–188, § 1704(h)(1), added par. (6). 1988—Subsec. (a)(3), (4). Pub. L. 100–647, § 1006(t)(15), added pars. (3) and (4). Subsec. (a)(5). Pub. L. 100–647, § 1006(t)(27), added par. (5). Subsec. (c)(2)(B). Pub. L. 100–647, § 1006(t)(13), (17), substituted “issue price of the residual interest (adjusted for contributions)” for “issue price of residual interest” in introductory text, and in cl. (ii) inserted “(but not below zero)” after “decreased”. Subsec. (d). Pub. L. 100–647, § 1006(t)(23), inserted at end “Rules similar to the rules of the preceding sentence shall apply also in the case of regulated investment companies, common trust funds, and organizations to which part I of subchapter T applies.” Subsec. (e). Pub. L. 100–647, § 1006(t)(16)(B), added subsec. (e). Subsec. (f). Pub. L. 100–647, § 1006(t)(26), added subsec. (f).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2020 Amendment
 

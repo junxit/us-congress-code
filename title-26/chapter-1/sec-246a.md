@@ -48,6 +48,8 @@ section: 246A
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Small Business Investment Act of 1958, referred to in subsec. (b)(2), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables. Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (c)(3)(B)(ii), is classified to section 1841(a) of Title 12, Banks and Banking.
@@ -55,6 +57,8 @@ The Small Business Investment Act of 1958, referred to in subsec. (b)(2), is Pub
 ### Amendments
 
 2018—Subsec. (b)(1). Pub. L. 115–141 struck out “without regard to section 243(d)(4)” after “section 243(b)”. 2017—Subsec. (a)(1). Pub. L. 115–97 substituted “50 percent” for “70 percent” and “65 percent” for “80 percent”. 2014—Subsecs. (a), (e). Pub. L. 113–295 struck out “, 244,” after “section 243”. 2004—Subsec. (b)(1). Pub. L. 108–311 substituted “section 243(d)(4)” for “section 243(c)(4)”. 1988—Subsec. (a). Pub. L. 100–647 struck out at end “The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).” 1987—Subsec. (a)(1). Pub. L. 100–203 substituted “70 percent (80 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2))” for “80 percent”. 1986—Subsec. (a). Pub. L. 99–514, § 1804(a), substituted “or 245(a)” for “or 245” and inserted “The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).” Subsec. (a)(1). Pub. L. 99–514, § 611(a)(4), substituted “80 percent” for “85 percent”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2017 Amendment
 

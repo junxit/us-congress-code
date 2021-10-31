@@ -39,6 +39,8 @@ section: 453B
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former section 453 of this title.
@@ -46,6 +48,8 @@ Provisions similar to those comprising this section were contained in former sec
 ### Amendments
 
 2018—Pub. L. 115–141 substituted “loss on disposition” for “loss disposition” in section catchline. 2017—Subsec. (e)(2)(B). Pub. L. 115–97, § 13512(b)(1)(A), struck out “(as defined in section 806(b)(3))” before period at end. Subsec. (e)(3). Pub. L. 115–97, § 13512(b)(1)(B), added par. (3). 1990—Subsec. (d). Pub. L. 101–508 substituted heading for one which read: “Effect of distribution in liquidations to which section 332 applies” and amended text generally. Prior to amendment, text read as follows: “If— “(1) an installment obligation is distributed in a liquidation to which section 332 (relating to complete liquidations of subsidiaries) applies, and “(2) the basis of such obligation in the hands of the distributee is determined under section 334(b)(1), then no gain or loss with respect to the distribution of such obligation shall be recognized by the distributing corporation.” 1988—Subsec. (h). Pub. L. 100–647 added subsec. (h). 1986—Subsec. (d). Pub. L. 99–514, § 631(e)(9), amended subsec. (d) generally, substituting “liquidations to which section 332 applies” for “certain liquidations” in heading, striking out par. (1) designation, redesignating subpars. (A) and (B) as pars. (1) and (2), and striking out former par. (2) relating to liquidations to which section 337 applies. Subsec. (e)(2)(B). Pub. L. 99–514, § 1011(b)(1), substituted “section 806(b)(3)” for “section 806(c)(3)”. Subsec. (g). Pub. L. 99–514, § 1842(c), inserted “(other than a transfer in trust)”. 1984—Subsec. (d)(2). Pub. L. 98–369, § 492(b)(3), struck out “1251(c),” after “1250(a),” in provision following subpar. (B). Pub. L. 98–369, § 43(c)(2), substituted “1254(a), or 1276(a)” for “or 1254(a)”. Subsec. (e)(1). Pub. L. 98–369, § 211(b)(6)(A), substituted “section 816(a)” for “section 801(a)”. Subsec. (e)(2). Pub. L. 98–369, § 211(b)(6)(B), substituted “as not related to insurance business” for “as investment income” in heading, and in text substituted “as if such income were an item attributable to a noninsurance business (as defined in section 806(c)(3))” for “if such income would not otherwise be returnable as an item referred to in section 804(b) or as long-term capital gain, as if the income on such obligations were income specified in section 804(b)”. Subsec. (g). Pub. L. 98–369, § 421(b)(3), added subsec. (g). 1983—Subsec. (d)(2). Pub. L. 97–448 substituted “under subsection (a)” for “under paragraph (1)” in second sentence. 1980—Subsec. (d). Pub. L. 96–471, § 2(c)(3), inserted last sentence providing that in the case of any installment obligation which would have met the requirements of subpars. (A) and (B) of par. (2) but for sections 337(f), gain shall be recognized to such corporation by reason of such distribution only to the extent gain would have been recognized under sections 337(f) if such corporation had sold or exchanged such installment obligation on the date of such distribution.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2017 Amendment
 

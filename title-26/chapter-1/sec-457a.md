@@ -48,9 +48,13 @@ section: 457A
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (d)(4). Pub. L. 115–141 substituted “case of a foreign” for “case a foreign” and “been paid” for “had been paid”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

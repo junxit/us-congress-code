@@ -104,6 +104,8 @@ section: 409A
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 4041 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(3)(B)(iii), is classified to section 1341 of Title 29, Labor. Section 16(a) of the Securities Exchange Act of 1934, referred to in subsec. (b)(3)(D)(ii), is classified to section 78p(a) of Title 15, Commerce and Trade.
@@ -115,6 +117,8 @@ A prior section 409A was renumbered section 409 of this title.
 ### Amendments
 
 2018—Subsec. (b)(3)(B)(i). Pub. L. 115–141 substituted comma for semicolon at end. 2017—Subsec. (d)(7). Pub. L. 115–97 added par. (7). 2008—Subsec. (b)(3)(A)(ii). Pub. L. 110–458 inserted “to an applicable covered employee” after “under the plan”. 2006—Subsec. (b)(3). Pub. L. 109–280, § 116(a), added par. (3). Former par. (3) redesignated (4). Subsec. (b)(4), (5). Pub. L. 109–280 redesignated pars. (3) and (4) as (4) and (5), respectively, and substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)” wherever appearing. 2005—Subsec. (a)(4)(C)(ii). Pub. L. 109–135 struck out “first” after “requires that the”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2017 Amendment
 

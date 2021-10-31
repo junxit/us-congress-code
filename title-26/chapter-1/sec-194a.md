@@ -19,9 +19,13 @@ section: 194A
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 4223(h) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a), is classified to section 1403(h) of Title 29, Labor.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1983 Amendment
 

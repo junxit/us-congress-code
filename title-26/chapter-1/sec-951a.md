@@ -70,9 +70,13 @@ section: 951A
 
 1 So in original. There are two pars. designated (3).
 
+### Editorial Notes
+
 ### References in Text
 
 The date of the enactment of this section, referred to in subsec. (d)(3), is the date of the enactment of Pub. L. 115–97, which was approved Dec. 22, 2017.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

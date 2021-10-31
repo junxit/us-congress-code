@@ -29,9 +29,13 @@ section: 269B
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1986—Subsec. (b). Pub. L. 99–514, § 1810(j)(1), inserted “and regulations providing that any tax imposed on the foreign corporation referred to in subsection (a)(1) may, if not paid by such corporation, be collected from the domestic corporation referred to in such subsection or the shareholders of such foreign corporation”. Subsec. (e). Pub. L. 99–514, § 1810(j)(2), added subsec. (e).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1986 Amendment
 

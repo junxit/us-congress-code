@@ -68,6 +68,8 @@ section: 402A
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 403(b)(7)(A)(ii), referred to in subsec. (c)(4)(E)(iii), probably means section 403(b)(7)(A)(ii) of this title prior to amendment by Pub. L. 116–94, div. O, title I, § 109(c)(2), Dec. 20, 2019, 133 Stat. 3151.
@@ -75,6 +77,8 @@ Section 403(b)(7)(A)(ii), referred to in subsec. (c)(4)(E)(iii), probably means 
 ### Amendments
 
 2014—Subsec. (c)(4)(E)(iii). Pub. L. 113–295 substituted “403(b)(7)(A)(ii)” for “403(b)(7)(A)(i)”. 2013—Subsec. (c)(4)(E). Pub. L. 112–240 added subpar. (E). 2010—Subsec. (c)(4). Pub. L. 111–240, § 2112(a), added par. (4). Subsec. (e)(1)(C). Pub. L. 111–240, § 2111(a), added subpar. (C). Subsec. (e)(2). Pub. L. 111–240, § 2111(b), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘elective deferral’ means any elective deferral described in subparagraph (A) or (C) of section 402(g)(3).”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2013 Amendment
 

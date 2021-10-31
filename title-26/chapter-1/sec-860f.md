@@ -57,9 +57,13 @@ section: 860F
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1996—Subsec. (a)(5). Pub. L. 104–188 substituted “paragraph (2)” for “paragraph (1)” in introductory provisions. 1988—Subsec. (a)(2)(A). Pub. L. 100–647, § 1006(t)(3)(B)(i), struck out at end “Notwithstanding the preceding sentence, the term ‘prohibited transaction’ shall not include any disposition required to prevent default on a regular interest where the threatened default resulted from a default on 1 or more qualified mortgages.” Subsec. (a)(2)(A)(i). Pub. L. 100–647, § 1006(t)(3)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the substitution of a qualified replacement mortgage for a qualified mortgage,”. Subsec. (a)(2)(A)(iii), (C). Pub. L. 100–647, § 1006(t)(22)(B), (C), substituted “REMIC” for “real estate mortgage pool”. Subsec. (a)(2)(D). Pub. L. 100–647, § 1006(t)(3)(C), struck out “described in subsection (b)” before period at end. Subsec. (a)(5). Pub. L. 100–647, § 1006(t)(3)(B)(ii), added par. (5). Subsec. (b)(1)(A). Pub. L. 100–647, § 1006(t)(4), substituted “the transfer of any property to a REMIC in exchange for regular or residual interests in such REMIC” for “the transfer of any property to a REMIC”. Subsec. (b)(1)(C)(ii). Pub. L. 100–647, § 1006(t)(22)(D), substituted “REMIC” for “real estate mortgage pool”. Subsec. (b)(1)(D)(ii). Pub. L. 100–647, § 1006(t)(14), (22)(E), amended cl. (ii) identically, substituting “REMIC” for “real estate mortgage pool”. Subsec. (e). Pub. L. 100–647, § 1006(t)(18)(A), inserted at end “Such return shall be filed by the REMIC. The determination of who may sign such return shall be made without regard to the first sentence of this subsection.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1988 Amendment
 

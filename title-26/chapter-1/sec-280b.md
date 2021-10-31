@@ -20,9 +20,13 @@ In the case of the demolition of any structure—
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1984—Pub. L. 98–369 struck out “certain historic” before “structures” in section catchline, struck out heading “(a) General rule”, substituted “In the case of the demolition of any structure” for “In the case of the demolition of a certified historic structure (as defined in 48(g)(3)(A))” in text, and struck out subsecs. (b) and (c) which contained provisions relating to a special rule for registered historic districts and to the application of this section, respectively. 1981—Subsec. (a). Pub. L. 97–34, § 212(d)(2)(C)(i), substituted “48(g)(3)(A)” for “section 191(d)(1)” in provisions preceding par. (1). Subsec. (b). Pub. L. 97–34, § 212(d)(2)(C)(ii), substituted “section 48(g)(3)(B)” for “section 191(d)(2)”. 1980—Subsec. (c). Pub. L. 96–541 added subsec. (c). 1978—Subsec. (b). Pub. L. 95–600 substituted “registered historic district (as defined in section 191(d)(2))” for “Registered Historic District” and “Secretary of the Interior has certified that such structure is not a certified historic structure, and that such structure is not of historic significance to the district, and if such certification occurs after the beginning of the demolition of such structure, the taxpayer has certified to the Secretary that, at the time of such demolition, he in good faith was not aware of the certification requirement by the Secretary of the Interior” for “Secretary of the Interior has certified, prior to the demolition of such structure, that such structure is not of historic significance to the district”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1984 Amendment
 

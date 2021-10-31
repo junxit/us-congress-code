@@ -189,6 +189,8 @@ section: 199A
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 199(d)(1)(B)(i) (as in effect on December 1, 2017), referred to in subsec. (f)(1)(B), means section 199(d)(1)(B)(i) of this title prior to repeal of section 199 by Pub. L. 115–97, title I, § 13305(a), Dec. 22, 2017, 131 Stat. 2126.
@@ -196,6 +198,8 @@ Section 199(d)(1)(B)(i) (as in effect on December 1, 2017), referred to in subse
 ### Amendments
 
 2018—Subsec. (a). Pub. L. 115–141, § 101(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) provided equation for allowed deduction for any taxable year, which included special deduction for qualified cooperative dividends. Subsec. (b)(7). Pub. L. 115–141, § 101(b)(3), added par. (7). Subsec. (c)(1). Pub. L. 115–141, § 101(b)(2)(A), struck out “, qualified cooperative dividends,” after “qualified REIT dividends”. Subsec. (c)(3)(B). Pub. L. 115–141, § 101(b)(2)(B)(i)(I), struck out “investment” before “items” in introductory provisions. Subsec. (c)(3)(B)(ii). Pub. L. 115–141, § 101(b)(2)(B)(i)(II), inserted at end “Any amount described in section 1385(a)(1) shall not be treated as described in this clause.” Subsec. (e)(1). Pub. L. 115–141, § 101(a)(2)(C), substituted “Except as otherwise provided in subsection (g)(2)(B), taxable income” for “Taxable income”. Pub. L. 115–141, § 101(a)(2)(A), substituted “any deduction” for “the deduction”. Subsec. (e)(4), (5). Pub. L. 115–141, § 101(b)(2)(B)(ii), redesignated par. (5) as (4) and struck out former par. (4) which defined “qualified cooperative dividend”. Subsec. (g). Pub. L. 115–141, § 101(a)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to deduction allowed to specified agricultural or horticultural cooperatives.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2018 Amendment
 

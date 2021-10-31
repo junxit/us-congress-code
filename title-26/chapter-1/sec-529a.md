@@ -90,6 +90,8 @@ section: 529A
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Stephen Beck, Jr., ABLE Act of 2014, referred to in subsec. (d)(4), is div. B of Pub. L. 113–295, Dec. 19, 2014, 128 Stat. 4056, also known as the “Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014”. Section 103 of div. B of Pub. L. 113–295 is set out as a note under this section. The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -97,6 +99,8 @@ The Stephen Beck, Jr., ABLE Act of 2014, referred to in subsec. (d)(4), is div. 
 ### Amendments
 
 2018—Subsec. (c)(1)(D). Pub. L. 115–141, § 101(o), struck out subpar. (D) which related to operating rules. Subsec. (d)(4). Pub. L. 115–141, § 401(a)(129), substituted “Stephen Beck, Jr., ABLE Act of 2014” for “Achieving a Better Life Experience Act of 2014”. Subsec. (e)(4). Pub. L. 115–141, § 401(a)(130), substituted “section 152(d)(2)(B)” for “subparagraph section 152(d)(2)(B)”. 2017—Subsec. (b)(2). Pub. L. 115–97, § 11024(a)(2), inserted at end of concluding provisions “A designated beneficiary (or a person acting on behalf of such beneficiary) shall maintain adequate records for purposes of ensuring, and shall be responsible for ensuring, that the requirements of subparagraph (B)(ii) are met.” Subsec. (b)(2)(B). Pub. L. 115–97, § 11024(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “except in the case of contributions under subsection (c)(1)(C), if such contribution to an ABLE account would result in aggregate contributions from all contributors to the ABLE account for the taxable year exceeding the amount in effect under section 2503(b) for the calendar year in which the taxable year begins.” Subsec. (b)(7). Pub. L. 115–97, § 11024(a)(3), added par. (7). 2015—Subsec. (b)(1)(B) to (D). Pub. L. 114–113, § 303(a), inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “which allows for the establishment of an ABLE account only for a designated beneficiary who is a resident of such State or a resident of a contracting State, and”. Subsec. (c)(1)(C)(i). Pub. L. 114–113, § 303(c)(2), substituted “member of the family” for “family member”. Subsec. (d)(3). Pub. L. 114–113, § 303(b)(1), struck out “and State of residence” after “the name”. Subsec. (d)(4). Pub. L. 114–113, § 303(c)(1), substituted “section 103” for “section 4”. Subsec. (e)(7). Pub. L. 114–113, § 303(b)(2), struck out par. (7). Text read as follows: “The term ‘contracting State’ means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2018 Amendment
 

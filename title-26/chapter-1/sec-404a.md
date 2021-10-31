@@ -84,9 +84,13 @@ section: 404A
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (c)(4)(B). Pub. L. 115–141 struck out “and” at end. 2006—Subsec. (g)(3)(A). Pub. L. 109–280 substituted “paragraphs (3) and (6) of section 431(c)” for “paragraphs (3) and (7) of section 412(c)”. 1988—Subsec. (d)(3). Pub. L. 100–647 inserted “except as provided in regulations,” after “qualified foreign plan,”. 1986—Subsec. (a). Pub. L. 99–514, § 1851(b)(2)(C)(iii), substituted “under this chapter” for “under section 162, 212, or 404” in par. (1) and “they would otherwise be deductible” for “they satisfy the conditions of section 162” in par. (2). Subsec. (g)(1)(A). Pub. L. 99–514, § 1114(b)(8), substituted “a highly compensated employee (within the meaning of section 414(q))” for “an officer, shareholder, or highly compensated”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2006 Amendment
 
