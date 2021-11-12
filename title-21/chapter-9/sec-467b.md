@@ -1,7 +1,7 @@
 ---
 identifier: /us/usc/t21/s467b
 title: 21
-chapter: 10
+chapter: 9
 section: 467b
 ---
 
