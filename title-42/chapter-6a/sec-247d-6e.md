@@ -43,6 +43,8 @@ section: 247d–6e
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 H. Con. Res. 95 of the 109th Congress, referred to in subsec. (a), is H. Con. Res. 95, Apr. 28, 2005, 119 Stat. 3633, which is not classified to the Code.

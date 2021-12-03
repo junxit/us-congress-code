@@ -40,6 +40,8 @@ section: 290kk–1
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Another section 582 of act July 1, 1944, is classified to section 290hh–1 of this title.

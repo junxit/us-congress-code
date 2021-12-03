@@ -20,6 +20,8 @@ section: 300gg–6
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 18022(c) of this title, referred to in subsec. (b), was in the original “section 1302(c)”, and was translated as meaning section 1302(c) of Pub. L. 111–148, par. (1) of which relates to annual limitation on cost-sharing, to reflect the probable intent of Congress. Section 18031(d)(2)(B)(ii) of this title, referred to in subsec. (d), was in the original “section 1302(d)(2)(B)(ii)(I)”, and was translated as meaning section 1311(d)(2)(B)(ii) of Pub. L. 111–148, which relates to offering of stand-alone dental benefits, to reflect the probable intent of Congress.
@@ -31,6 +33,8 @@ A prior section 300gg–6, act July 1, 1944, ch. 373, title XXVII, § 2706, as a
 ### Amendments
 
 2014—Subsec. (b). Pub. L. 113–93 substituted “paragraph (1)” for “paragraphs (1) and (2)”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2014 Amendment
 

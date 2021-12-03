@@ -29,6 +29,8 @@ section: 289a
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 282(b)(6) of this title, referred to in subsec. (b), was redesignated section 282(b)(16) by Pub. L. 109–482, title I, § 102(a)(3), Jan. 15, 2007, 120 Stat. 3681.
@@ -36,6 +38,8 @@ Section 282(b)(6) of this title, referred to in subsec. (b), was redesignated se
 ### Amendments
 
 2007—Subsec. (a)(2). Pub. L. 109–482 substituted “sections 282(b)(16)” for “sections 282(b)(6)” in concluding provisions. 1993—Subsec. (c). Pub. L. 103–43 added subsec. (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2007 Amendment
 

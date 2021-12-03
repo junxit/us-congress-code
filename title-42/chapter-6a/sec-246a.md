@@ -15,6 +15,8 @@ For the purpose of facilitating the economical and efficient conduct of operatio
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Public Health Service Act which comprises this chapter.

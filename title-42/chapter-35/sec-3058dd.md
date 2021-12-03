@@ -16,9 +16,13 @@ section: 3058dd
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1993—Subsec. (a). Pub. L. 103–171, § 3(a)(13), substituted “Assistant Secretary” for “Commissioner”. Subsec. (b). Pub. L. 103–171, § 13(a)(11), (13), substituted “Assistant Secretary” for “Commissioner” in heading and text.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

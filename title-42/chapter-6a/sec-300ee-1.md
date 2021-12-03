@@ -15,6 +15,8 @@ The Secretary of Health and Human Services, acting through the Director of the C
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the AIDS Amendments of 1988 and as part of the Health Omnibus Programs Extension of 1988, and not as part of the Public Health Service Act which comprises this chapter.
@@ -22,6 +24,8 @@ Section was enacted as part of the AIDS Amendments of 1988 and as part of the He
 ### Amendments
 
 1992—Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Requirement of Study With Respect to Minority Health and Acquired Immune Deficiency Syndrome
 

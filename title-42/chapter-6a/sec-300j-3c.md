@@ -25,9 +25,13 @@ section: 300j–3c
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Safe Drinking Water Act Amendments of 1996, and not as part of the Public Health Service Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Indian Reservation Drinking Water Program
 

@@ -55,6 +55,8 @@ section: 653a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(2), (b)(1)(A), and (f)(2), is classified generally to Title 26, Internal Revenue Code.
@@ -62,6 +64,8 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(2), (b)(1)(A), an
 ### Amendments
 
 2021—Subsec. (h)(4). Pub. L. 116–315 added par. (4). 2011—Subsec. (a)(2)(C). Pub. L. 112–40 added subpar. (C). 2010—Subsec. (b)(1)(A). Pub. L. 111–291, § 802(a), inserted “the date services for remuneration were first performed by the employee,” after “of the employee,”. Subsec. (c). Pub. L. 111–291, § 802(b), inserted “, to the extent practicable,” after “Each report required by subsection (b) shall”. 1997—Subsec. (d). Pub. L. 105–33, § 5533(1), substituted “shall not exceed” for “shall be less than” in introductory provisions and “$25 per failure to meet the requirements of this section with respect to a newly hired employee” for “$25” in par. (1). Subsec. (g)(2)(B). Pub. L. 105–33, § 5533(2), substituted “information” for “extracts of the reports required under section 503(a)(6) of this title to be made to the Secretary of Labor”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2011 Amendment
 

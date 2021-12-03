@@ -38,6 +38,8 @@ section: 247b–9a
 
 1 So in original.
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.

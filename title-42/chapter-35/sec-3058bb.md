@@ -18,9 +18,13 @@ As used in this subchapter:
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Par. (2). Pub. L. 106–501 substituted “part A” for “subpart II, III, IV, or V of this subchapter”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

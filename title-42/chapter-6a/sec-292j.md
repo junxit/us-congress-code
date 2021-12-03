@@ -25,6 +25,8 @@ section: 292j
 
 1 So in original. Probably should be “of”.
 
+### Editorial Notes
+
 ### Codification
 
 In subsec. (b)(1), “chapter 91 of title 31” was substituted for “the Government Corporation Control Act” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.

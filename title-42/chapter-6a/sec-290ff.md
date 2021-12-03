@@ -48,6 +48,8 @@ section: 290ff
 
 2 So in original. Probably should be “years,”.
 
+### Editorial Notes
+
 ### References in Text
 
 Subsections (b) and (c) of section 5304 of title 25, referred to in subsec. (a)(2), do not contain definitions of the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section. The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -59,6 +61,8 @@ A prior section 290ff, act July 1, 1944, ch. 373, title V, § 561, as added Nov.
 ### Amendments
 
 2016—Subsec. (a)(1). Pub. L. 114–255 inserted “, which may include efforts to identify and serve children at risk” before period at end. 2000—Subsec. (c)(1)(D). Pub. L. 106–310 substituted “fifth and sixth such fiscal year” for “fifth such fiscal year”. 1993—Subsec. (a)(2). Pub. L. 103–43, § 2017(1)(A), substituted “this part” for “this subpart”. Subsec. (b)(1)(B), (C). Pub. L. 103–43, § 2017(1)(B), substituted “is such a grantee” for “is receiving such payments”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

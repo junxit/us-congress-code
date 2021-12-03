@@ -20,9 +20,13 @@ section: 284k
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 284l of this title, referred to in subsec. (d), was in the original “section 409D”, and was translated as meaning section 409D of act July 1, 1944, ch. 373, as added by section 204(b) of Pub. L. 106–505. Such section 409D was renumbered section 409H of act July 1, 1944, ch. 373, by Pub. L. 107–109, § 3(2), Jan. 4, 2002, 115 Stat. 1408. Another section 409D of act July 1, 1944, ch. 373, as added by section 1001 of Pub. L. 106–310, is classified to section 284h of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Findings and Purpose
 

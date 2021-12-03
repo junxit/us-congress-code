@@ -27,6 +27,8 @@ section: 300cc–3
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 300cc–3, acts July 1, 1944, ch. 373, title XXIII, § 2304, formerly title V, § 504, 58 Stat. 710; June 25, 1948, ch. 654, § 6, 62 Stat. 1018; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; renumbered title XXI, § 2104, Apr. 26, 1983, Pub. L. 98–24, § 2(a)(1), 97 Stat. 176; renumbered title XXIII, § 2304, Nov. 14, 1986, Pub. L. 99–660, title III, § 311(a), 100 Stat. 3755, related to care of Service patients at Saint Elizabeths Hospital, prior to repeal by Pub. L. 98–621, § 10(s), Nov. 8, 1984, 98 Stat. 3381, effective Oct. 1, 1987. Subsequent to repeal, section 2104 of title XXI of act July 1, 1944, was renumbered section 2304 of title XXIII of that act by section 311(a) of Pub. L. 99–660. A prior section 300cc–4, acts July 1, 1944, ch. 373, title XXI, § 2105, formerly title V, § 505, 58 Stat. 710; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; renumbered title XXI, § 2105, Apr. 26, 1983, Pub. L. 98–24, § 2(a)(1), 97 Stat. 176, provided procedures under which the Secretary could settle claims for damages from collisions or incident to the operation of vessels within a year of the accrual of such claims and not to exceed $3,000, prior to repeal by Pub. L. 99–117, § 12(f), Oct. 7, 1985, 99 Stat. 495. Subsequent to repeal, section 2105 of title XXI of act July 1, 1944, was renumbered section 2305 of title XXIII of that act by Pub. L. 99–660, title III, § 311(a), Nov. 14, 1986, 100 Stat. 3755. Prior sections 300cc–5 to 300cc–10, act July 1, 1944, §§ 2306 to 2311, respectively, were successively renumbered by subsequent acts and transferred, see sections 238c to 238h of this title.
@@ -34,6 +36,8 @@ A prior section 300cc–3, acts July 1, 1944, ch. 373, title XXIII, § 2304, for
 ### Amendments
 
 1993—Pub. L. 103–43, § 2008(d)(1)(A), substituted “Research Advisory Committee” for “Clinical Research Review Committee” in section catchline. Subsec. (a). Pub. L. 103–43, § 2008(d)(1)(B), substituted “AIDS Research Advisory Committee” for “AIDS Clinical Research Review Committee”. Subsec. (c)(1). Pub. L. 103–43, § 1811(1), in introductory provisions inserted “(and may provide advice to the Directors of other agencies of the National Institutes of Health, as appropriate)” after “Director of such Institute” and in subpar. (A) inserted before semicolon at end “, including recommendations on the projects of research with respect to diagnosing immune deficiency and with respect to predicting, diagnosing, preventing, and treating opportunistic cancers and infectious diseases”. 1988—Subsec. (c)(2)(B). Pub. L. 100–690 substituted semicolon for period.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1988 Amendment
 

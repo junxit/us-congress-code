@@ -56,6 +56,8 @@ section: 284a
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 284b of this title, referred to in subsec. (g), was repealed by Pub. L. 109–482, title I, § 104(b)(1)(C), Jan. 15, 2007, 120 Stat. 3693.
@@ -63,6 +65,8 @@ Section 284b of this title, referred to in subsec. (g), was repealed by Pub. L. 
 ### Amendments
 
 2018—Subsec. (h)(2)(A)(iii). Pub. L. 115–180 substituted “appointed to the Board—” for “appointed to the Board”, inserted subcl. (I) designation before “not less than”, substituted “5 members” for “five members”, inserted “and” at end, and added subcl. (II). 1998—Subsec. (h)(2)(A)(v). Pub. L. 105–245 substituted “Science of the Department of Energy” for “Energy Research of the Department of Energy”. 1993—Subsec. (a)(2). Pub. L. 103–43, § 2010(b)(2), substituted “section 238” for “section 300aaa”. Subsec. (b)(2)(A). Pub. L. 103–43, § 2008(b)(1)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in two places. Subsec. (c). Pub. L. 103–43, § 210(a), substituted “for 180 days after the date of such expiration” for “until a successor has taken office”. Subsec. (h)(2)(A)(v). Pub. L. 103–43, § 2008(b)(1)(B), substituted “Department of Veterans Affairs” for “Veterans’ Administration”. 1992—Subsecs. (b)(2)(A), (h)(2)(A)(v). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”. 1990—Subsec. (a)(2). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act. 1988—Subsec. (b)(1). Pub. L. 100–607, § 117(a), inserted at end “The ex officio members shall be nonvoting members.” Subsec. (b)(3)(A). Pub. L. 100–607, § 117(b), inserted “not less than two individuals who are leaders in the fields of” after “(including”. Subsec. (h)(2)(A)(v). Pub. L. 100–607, § 117(c), inserted “shall be nonvoting members and” after “Board” and substituted “the Assistant Secretary of Defense for Health Affairs, and the Director of the Office of Energy Research of the Department of Energy” for “and the Assistant Secretary of Defense for Health Affairs”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Termination of Advisory Councils
 

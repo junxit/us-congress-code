@@ -15,6 +15,8 @@ Except as may be authorized by regulations of the President, the insignia and un
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 300aaa–7 of this title prior to renumbering by Pub. L. 103–43, to section 300cc–9 of this title prior to renumbering by Pub. L. 100–607, to section 300aa–9 of this title prior to renumbering by Pub. L. 99–660, and to section 228 of this title prior to renumbering by Pub. L. 98–24.
@@ -23,13 +25,21 @@ Section was formerly classified to section 300aaa–7 of this title prior to ren
 
 1948—Act June 25, 1948, struck out penal provisions. See section 702 of Title 18, Crimes and Criminal Procedure.
 
+### Statutory Notes and Related Subsidiaries
+
+### Change of Name
+
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 ### Effective Date of 1948 Amendment
 
 Amendment effective Sept. 1, 1948, see section 20 of act June 25, 1948.
 
+### Executive Documents
+
 ### Transfer of Functions
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title.
 
 ### Delegation of Functions
 

@@ -15,6 +15,8 @@ The general purpose of the National Institute of Nursing Research (in this subpa
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 287c of this title prior to renumbering by Pub. L. 103–43.
@@ -22,6 +24,8 @@ Section was formerly classified to section 287c of this title prior to renumberi
 ### Amendments
 
 1993—Pub. L. 103–43, § 1511(a)(1) substituted “Institute” for “Center” in section catchline and “National Institute of Nursing Research (in this subpart referred to as the ‘Institute’)” for “National Center for Nursing Research (hereafter in this subpart referred to as the ‘Center’)” in text.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Study on Adequacy of Number of Nurses
 

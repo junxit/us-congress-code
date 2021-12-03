@@ -57,6 +57,8 @@ section: 300gg–8
 
 1 So in original. Probably should be preceded by “A”.
 
+### Editorial Notes
+
 ### Codification
 
 Another section 2709 of act July 1, 1944, is classified to section 300gg–9 of this title.

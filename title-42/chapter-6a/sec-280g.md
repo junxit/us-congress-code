@@ -87,6 +87,8 @@ section: 280g
 
 1 So in original. Two pars. (2) have been enacted.
 
+### Editorial Notes
+
 ### References in Text
 
 The Social Security Act, referred to in subsecs. (a)(1), (2)(B) and (b)(1), (2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts B and E of title IV of the Act are classified generally to parts B (§ 620 et seq.) and E (§ 670 et seq.), respectively, of subchapter IV of chapter 7 of this title. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§ 701 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables. The Head Start Act, referred to in subsec. (b)(2)(B), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
@@ -98,6 +100,8 @@ A prior section 399L of act July 1, 1944, was renumbered section 399F and is cla
 ### Amendments
 
 2021—Subsec. (d)(1)(F). Pub. L. 116–292, § 2(1)(B), inserted “or school comprehensive allergies and asthma management program” after “epinephrine” in heading; designated introductory provisions as cl. (i), inserted heading, and substituted “in the State satisfy the criteria described in clause (ii) or clause (iii).” for “in the State—”; inserted cl. (ii) heading and introductory provisions; redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (ii); added cl. (iii); and realigned margins. Subsec. (d)(3)(E). Pub. L. 116–292, § 2(2)(A), inserted “, such as the school nurse” after “individual” in introductory provisions. Subsec. (d)(3)(E)(i). Pub. L. 116–292, § 2(2)(B), inserted “school nurse or” before “principal”. 2015—Subsec. (d)(3)(A). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20. 2013—Subsec. (d)(1)(F), (G). Pub. L. 113–48, § 2(1), added subpars. (F) and (G). Subsec. (d)(3)(E). Pub. L. 113–48, § 2(2), added subpar. (E). 2004—Subsecs. (d), (e). Pub. L. 108–377 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2015 Amendment
 

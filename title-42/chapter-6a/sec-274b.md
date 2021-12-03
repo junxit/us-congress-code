@@ -27,6 +27,8 @@ section: 274b
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 374 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, § 1, 70 Stat. 961, which related to acceptance and administration of gifts to National Library of Medicine and to establishment of memorials to donors, was renumbered section 384 and classified to section 278 of this title, prior to repeal by Pub. L. 99–158, § 3(b), Nov. 20, 1985, 99 Stat. 879.

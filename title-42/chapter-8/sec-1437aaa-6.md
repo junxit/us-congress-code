@@ -17,6 +17,8 @@ The program authorized under this subchapter shall be in addition to any other p
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 1437c(h) of this title, referred to in text, was repealed and a new section 1437c(h), relating to audits, was added by Pub. L. 105–276, title V, §§ 518(a)(1)(A), 566, Oct. 21, 1998, 112 Stat. 2551, 2632. See 1998 Amendment note below.
@@ -24,6 +26,8 @@ Section 1437c(h) of this title, referred to in text, was repealed and a new sect
 ### Amendments
 
 1998—Pub. L. 105–276, which directed amendment of text by striking out “section 5(h) and” in original (a reference to section 1437c(h) of this title), could not be executed because the word “and” does not appear. 1996—Pub. L. 104–330 struck out “and subchapter II of this chapter” after “section 1437c(h) of this title”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1998 Amendment
 

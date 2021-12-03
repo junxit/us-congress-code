@@ -41,6 +41,8 @@ section: 292q
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 721 of act July 1, 1944, was classified to section 293a of this title prior to the general revision of this subchapter by Pub. L. 102–408.

@@ -33,9 +33,13 @@ section: 1395uu
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1982—Subsec. (d). Pub. L. 97–248 redesignated second subsec. (c), relating to hearing to review determination, as subsec. (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1982 Amendment
 

@@ -15,6 +15,8 @@ Except as otherwise specifically provided, nothing in this subchapter shall be c
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 291m, act July 1, 1944, ch. 373, title VI, § 635, as added Aug. 13, 1946, ch. 958, § 2, 60 Stat. 1041; amended July 12, 1954, ch. 471, § 4(h), 68 Stat. 467, contained provisions similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.

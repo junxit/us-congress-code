@@ -19,6 +19,8 @@ section: 242r
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Food Allergen Labeling and Consumer Protection Act of 2004, and not as part of the Public Health Service Act which comprises this chapter.

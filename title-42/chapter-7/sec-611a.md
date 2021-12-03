@@ -15,6 +15,8 @@ Each State to which a grant is made under section 603 of this title shall, at le
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.

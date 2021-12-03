@@ -34,6 +34,8 @@ section: 290ff–4
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsec. (e), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
@@ -41,6 +43,8 @@ The Individuals with Disabilities Education Act, referred to in subsec. (e), is 
 ### Amendments
 
 2016—Subsec. (b)(1). Pub. L. 114–255, § 10001(d)(1)(A), substituted “, regardless of whether such public entity is receiving a grant under section 290ff(a) of this title” for “receiving a grant under section 290ff(a) of this title” in introductory provisions. Subsec. (b)(1)(B). Pub. L. 114–255, § 10001(d)(1)(B), substituted “described in” for “pursuant to”. Subsec. (d)(1). Pub. L. 114–255, § 10001(d)(2), substituted “through the age of 21 years” for “not more than 21 years of age”. Subsec. (f)(1). Pub. L. 114–255, § 10001(d)(3), substituted “$119,026,000 for each of fiscal years 2018 through 2022” for “$100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003”. 2000—Subsec. (a). Pub. L. 106–310, § 3105(c), substituted “6 fiscal years” for “5 fiscal years”. Subsec. (f)(1). Pub. L. 106–310, § 3105(d), substituted “2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003” for “1993, and such sums as may be necessary for fiscal year 1994”. 1993—Subsec. (c)(1), (d), (f)(1). Pub. L. 103–43, § 2017(2)(A), (B), (C)(i), substituted “this part” for “this subpart”. Subsec. (f)(2). Pub. L. 103–43, § 2017(2)(C)(ii), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall make available not less than $3,000,000 for the purpose of carrying out subsection (b) of this section.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

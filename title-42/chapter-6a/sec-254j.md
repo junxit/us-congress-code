@@ -21,6 +21,8 @@ section: 254j
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 254r of this title, referred to in subsec. (a), was in the original a reference to section 338G of act July 1, 1944, which was renumbered section 338I by Pub. L. 100–177, title II, § 201(1), Dec. 1, 1987, 101 Stat. 992, and repealed by Pub. L. 100–713, title I, § 104(b)(1), Nov. 23, 1988, 102 Stat. 4787. Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -28,6 +30,8 @@ Section 254r of this title, referred to in subsec. (a), was in the original a re
 ### Amendments
 
 2010—Subsec. (b)(1). Pub. L. 111–148 struck out at end “Members may not be reappointed to the Council.” 1993—Subsec. (b)(2). Pub. L. 103–183 inserted “compensation at a rate fixed by the Secretary (but not to exceed” before “the daily equivalent” and substituted “Schedule);” for “Schedule;”. 1983—Subsec. (a). Pub. L. 97–414 inserted “(other than section 254r of this title)” after “carrying out this subpart”. 1981—Subsec. (a). Pub. L. 97–35, § 2707(a), amended subsec. (a) generally, striking out pars. (1) to (5) respecting required status and background of members appointed by the Secretary. Subsec. (b)(1). Pub. L. 97–35, § 2707(b), inserted “not” before “be reappointed”. 1979—Subsec. (b)(2). Pub. L. 96–32 substituted “section 5703 of title 5” for “section 5703(b) of title 5”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Termination of Advisory Committees
 

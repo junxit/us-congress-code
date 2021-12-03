@@ -23,6 +23,8 @@ section: 290a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Federal Fire Prevention and Control Act of 1974 (which is classified principally to chapter 49 (§ 2201 et seq.) of Title 15), and not as a part of the Public Health Service Act which comprises this chapter.
@@ -31,9 +33,11 @@ Section was enacted as part of the Federal Fire Prevention and Control Act of 19
 
 2013—Subsec. (a). Pub. L. 112–239 substituted “Administrator of FEMA” for “Director” in introductory provisions. 2000—Subsec. (a). Pub. L. 106–503 substituted “in cooperation with the Director” for “in cooperation with the Secretary”.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 ### Transfer of Functions
 

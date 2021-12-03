@@ -39,13 +39,19 @@ section: 659a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2014—Subsec. (c). Pub. L. 113–183, § 301(d)(2)(A), substituted “foreign reciprocating countries or foreign treaty countries” for “foreign countries that are the subject of a declaration under this section” in introductory provisions. Subsec. (c)(2). Pub. L. 113–183, § 301(d)(2)(B), inserted “and foreign treaty countries” after “foreign reciprocating countries”. Subsec. (d). Pub. L. 113–183, § 301(d)(3), substituted “foreign reciprocating countries or foreign treaty countries” for “the subject of a declaration pursuant to subsection (a)”. Subsec. (e). Pub. L. 113–183, § 301(d)(1), added subsec. (e).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date
 
 For effective date of section, see section 395(a)–(c) of Pub. L. 104–193, set out as an Effective Date of 1996 Amendment note under section 654 of this title.
+
+### Executive Documents
 
 ### Ex. Ord. No. 13752. Relating to the Implementation of the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance
 

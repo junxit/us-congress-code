@@ -15,6 +15,8 @@ The Secretary shall, by grant or contract, develop and maintain a scientific reg
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 373 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, § 1, 70 Stat. 960, which related to a Board of Regents of National Library of Medicine, was renumbered section 383 and classified to section 277 of this title, prior to repeal by Pub. L. 99–158, § 3(b), Nov. 20, 1985, 99 Stat. 879.

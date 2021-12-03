@@ -17,6 +17,8 @@ Notwithstanding any other provision of law, no regulation and no modification of
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Subsec. (e) of section 418 of this title, referred to in text, which related to payments and reports by States, was repealed, and subsec. (f) of section 418 of this title was redesignated as subsec. (e), by Pub. L. 99–509, title IX, § 9002(c)(1), Oct. 21, 1986, 100 Stat. 1971.
@@ -25,9 +27,11 @@ Subsec. (e) of section 418 of this title, referred to in text, which related to 
 
 Section was not enacted as part of the Social Security Act which comprises this chapter.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in text pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 ### Time for Making Social Security Contributions With Respect to Covered State and Local Employees
 

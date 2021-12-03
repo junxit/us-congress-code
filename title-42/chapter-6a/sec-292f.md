@@ -51,6 +51,8 @@ section: 292f
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal False Claims Act, referred to in subsec. (a)(2)(J), probably means the False Claims Act which was the popular name for sections 231, 232, 233, and 235 of former Title 31, Money and Finance. Sections 231, 232, 233, and 235 were repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1084, and reenacted by the first section thereof as sections 3729 to 3731 of Title 31, Money and Finance.
@@ -62,6 +64,8 @@ A prior section 292f, act July 1, 1944, ch. 373, title VII, § 706, as added Oct
 ### Amendments
 
 1998—Subsec. (a). Pub. L. 105–392, § 142(a), designated existing provisions as par. (1), inserted heading, substituted “determined, except that, if the insurance beneficiary including any servicer of the loan is not designated for ‘exceptional performance’, as set forth in paragraph (2), the Secretary shall pay to the beneficiary a sum equal to 98 percent of the amount of the loss sustained by the insured upon that loan.” for “determined.”, struck out at end “Not later than one year after October 13, 1992, the Secretary shall establish performance standards for lenders and holders of loans under this subpart, including fees to be imposed for failing to meet such standards.”, and added par. (2). Subsec. (e)(4). Pub. L. 105–392, § 142(b), added par. (4). Subsec. (g). Pub. L. 105–392, § 144(a), substituted “Notwithstanding any other provision of Federal or State law, a debt that is a loan insured” for “A debt which is a loan insured” in introductory provisions. 1993—Subsec. (g)(1). Pub. L. 103–43, § 2014(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “after the expiration of the five-year period beginning on the first date, as specified in subparagraphs (B) and (C) of section 292d(a)(2) of this title, when repayment of such loan is required;”. Subsec. (j). Pub. L. 103–43, § 2014(a)(2)(B), added subsec. (j).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1998 Amendment
 

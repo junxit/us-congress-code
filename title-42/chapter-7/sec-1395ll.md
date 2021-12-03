@@ -18,6 +18,8 @@ section: 1395ll
 
 1 So in original. Probably should be followed by a comma.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 226 of the Social Security Amendments of 1972, referred to in subsec. (b), is section 226 of Pub. L. 92–603, which enacted section 1395mm of this title and provisions set out as notes under that section and amended this section and sections 1395f, 1395l, and 1396b of this title. Section 402 of the Social Security Amendments of 1967, referred to in subsec. (b), is section 402 of Pub. L. 90–248, which enacted section 1395b–1 of this title and amended this section. Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (b), is section 222(a) of Pub. L. 92–603, which enacted provisions set out as note under section 1395b–1 of this title.
@@ -25,6 +27,8 @@ Section 226 of the Social Security Amendments of 1972, referred to in subsec. (b
 ### Amendments
 
 2008—Subsec. (b). Pub. L. 110–275 substituted “national accreditation bodies under section 1395bb(a) of this title” for “the Joint Commission on Accreditation of Hospitals,”. 2003—Subsec. (b). Pub. L. 108–173 substituted “this subchapter” for “the insurance programs under parts A and B of this subchapter”. 1989—Subsec. (c). Pub. L. 101–239 struck out subsec. (c) which related to patient outcome assessment research program. Subsec. (c)(7). Pub. L. 101–234, § 301(b)(5), (d)(2), amended par. (7) identically, substituting “date of the enactment of this section” for “date of the enactment of this Act”. 1988—Subsec. (c)(3). Pub. L. 100–647 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For purposes of carrying out the research program, there are authorized to be appropriated— “(A) from the Federal Hospital Insurance Trust Fund $4,000,000 for fiscal year 1987 and $5,000,000 for each of fiscal years 1988 and 1989, and “(B) from the Federal Supplementary Medical Insurance Trust Fund $2,000,000 for fiscal year 1987 and $2,500,000 for each of fiscal years 1988 and 1989.” 1987—Subsec. (c)(3)(B). Pub. L. 100–203 substituted “fiscal year 1987” for “fiscal years 1987”. 1986—Subsec. (c). Pub. L. 99–509 added subsec. (c). 1984—Subsec. (b). Pub. L. 98–369 struck out “the” after “Joint Commission on”. 1972—Subsec. (a). Pub. L. 92–603, § 201(c)(7), inserted “and the disabled” after “aged”. Subsec. (b). Pub. L. 92–603, §§ 222(c), 226(d)(1), 244(d), substituted “(including a validation of the accreditation process of the Joint Commission on the Accreditation of Hospitals, the operation and administration of health maintenance organizations authorized by section 226 of the Social Security Amendments of 1972, the experiments and demonstration projects authorized by section 402 of the Social Security Amendments of 1967 and the experiments and demonstration projects authorized by section 222(a) of the Social Security Amendments of 1972)” for “(including the experimentation authorized by section 402 of the Social Security Amendments of 1967)”. Pub. L. 92–603, § 226(d)(2), which directed the substitution of “1972” for “1971”, could not be executed because “1971” did not appear. 1968—Subsec. (b). Pub. L. 90–248 inserted “(including the experimentation authorized by section 402 of the Social Security Amendments of 1967” after “under parts A and B of this subchapter”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2008 Amendment; Transition Rule
 

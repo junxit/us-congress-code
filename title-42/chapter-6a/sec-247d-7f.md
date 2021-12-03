@@ -65,6 +65,8 @@ section: 247d–7f
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The Antitrust Civil Process Act, referred to in subsec. (a)(6), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§ 1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables. The date of enactment of this Act, referred to in subsecs. (a)(8) and (b), probably means the date of enactment of Pub. L. 109–417, which was approved Dec. 19, 2006. This section was originally enacted as section 405 of Pub. L. 109–417, prior to redesignation as section 319L–1 of act July 1, 1944, ch. 373. See Codification note below.
@@ -80,6 +82,8 @@ A prior section 247d–7f, act July 1, 1944, ch. 373, title III, § 319M, as add
 ### Amendments
 
 2019—Pub. L. 116–22 redesignated section 405 of Pub. L. 109–417 as this section. See Codification note above.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2013 Amendment
 

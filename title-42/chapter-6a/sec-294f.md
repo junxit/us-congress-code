@@ -42,6 +42,8 @@ section: 294f
 
 1 So in original. Probably should be “Committee”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -57,6 +59,8 @@ A prior section 294f, act July 1, 1944, ch. 373, title VII, § 733, as added Oct
 ### Amendments
 
 2010—Subsec. (b)(2). Pub. L. 111–148, § 5306(b), substituted “294a(b)(1)(A), 294c(b), and 294e(b)” for “294a(a)(1)(A), 294a(a)(1)(B), 294c(b), 294d(3)(A), and 294e(b)”. Subsec. (d)(3) to (5). Pub. L. 111–148, § 5103(d)(2), added pars. (3) to (5).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

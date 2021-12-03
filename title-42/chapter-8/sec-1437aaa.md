@@ -18,9 +18,13 @@ section: 1437aaa
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1992—Subsec. (c). Pub. L. 102–550 struck out subsec. (c) which read as follows: “There are authorized to be appropriated for grants under this subchapter $68,000,000 for fiscal year 1991 and $380,000,000 for fiscal year 1992. Any amount appropriated pursuant to this subsection shall remain available until expended.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

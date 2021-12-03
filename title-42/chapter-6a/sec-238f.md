@@ -15,6 +15,8 @@ Appropriations for carrying out the purposes of this chapter shall be available 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 300aaa–6 of this title prior to renumbering by Pub. L. 103–43, to section 300cc–8 of this title prior to renumbering by Pub. L. 100–607, to section 300aa–8 of this title prior to renumbering by Pub. L. 99–660, and to section 227 of this title prior to renumbering by Pub. L. 98–24.
@@ -23,9 +25,11 @@ Section was formerly classified to section 300aaa–6 of this title prior to ren
 
 1948—Act June 25, 1948, amended section generally to make it apply to all appropriations to carry out the purposes of the Service instead of merely to appropriations to carry out the research functions of the Service. Act June 16, 1948, substituted “National Institutes of Health” for “National Institute of Health”.
 
-### Transfer of Functions
+### Statutory Notes and Related Subsidiaries
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
+### Change of Name
+
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 ### Buy American Provisions
 
@@ -38,3 +42,9 @@ Pub. L. 102–394, title II, § 202, Oct. 6, 1992, 106 Stat. 1810, as amended by
 ### Crediting of Payments for Room and Board to Appropriation Accounts
 
 Pub. L. 102–394, title II, § 206, Oct. 6, 1992, 106 Stat. 1811, provided that: “Hereafter amounts received from employees of the Department in payment for room and board may be credited to the appropriation accounts which finance the activities of the Public Health Service.” Similar provisions were contained in the following prior appropriation acts: Pub. L. 102–170, title II, § 206, Nov. 26, 1991, 105 Stat. 1126. Pub. L. 101–517, title II, § 206, Nov. 5, 1990, 104 Stat. 2209. Pub. L. 101–166, title II, § 207, Nov. 21, 1989, 103 Stat. 1177.
+
+### Executive Documents
+
+### Transfer of Functions
+
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.

@@ -36,9 +36,13 @@ section: 284f
 
 1 So in original. Probably should be “pathogenesis,”.
 
+### Editorial Notes
+
 ### Amendments
 
 2007—Subsec. (a). Pub. L. 109–482, § 103(b)(8)(A), substituted “to carry out this section” for “under subsection (e) of this section”. Subsec. (e). Pub. L. 109–482, § 103(b)(8)(B), struck out heading and text of subsec. (e). Text read as follows: “For the purpose of carrying out this section and section 241 of this title and this subchapter with respect to research focused on Parkinson’s disease, there are authorized to be appropriated up to $100,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 and 2000.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

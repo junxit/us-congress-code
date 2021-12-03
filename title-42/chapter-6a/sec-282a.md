@@ -45,9 +45,13 @@ section: 282a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Subsec. (a)(1)(D) to (F). Pub. L. 114–255, § 2001, added subpars. (D) to (F). Subsec. (c)(1)(C). Pub. L. 114–255, § 2031(b), substituted “As part of the National Institutes of Health Strategic Plan required under section 282(m) of this title,” for “Not later than June 1, 2007, and every 2 years thereafter,”. Subsec. (c)(2)(B). Pub. L. 114–255, § 2042(a)(1), amended subpar. (B) generally. Prior to amendment, text read as follows: “Not later than January 1, 2008, and each January 1st thereafter— “(i) the head of each national research institute or national center shall submit to the Director of NIH a report on the amount made available by the institute or center for conducting or supporting research that involves collaboration between the institute or center and 1 or more other national research institutes or national centers; and “(ii) the Secretary shall submit a report to the Congress identifying the percentage of funds made available by each national research institute and national center with respect to such fiscal year for conducting or supporting research described in clause (i).” Subsec. (c)(2)(D), (E). Pub. L. 114–255, § 2042(a)(2), substituted “(B)” for “(B)(i)”. 2014—Subsec. (a). Pub. L. 113–94, § 3(b)(1)(B), which directed amendment of subsec. (a) by striking “For purposes of carrying out this subchapter” and inserting par. (1) designation, heading, and “For purposes of carrying out this subchapter”, was executed by striking “For the purpose of carrying out this subchapter” and making the insertions as directed, to reflect the probable intent of Congress. Pub. L. 113–94, § 3(b)(1)(A), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned margins. Subsec. (a)(2). Pub. L. 113–94, § 3(b)(1)(C), added par. (2). Former par. (2) redesignated subpar. (B) of par. (1). Subsecs. (c)(1)(B), (D), (d). Pub. L. 113–94, § 3(b)(2), substituted “subsection (a)(1)” for “subsection (a)” wherever appearing.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

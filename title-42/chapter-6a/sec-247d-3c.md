@@ -35,6 +35,8 @@ section: 247d–3c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019, referred to in subsec. (b)(3), is Pub. L. 116–22, June 24, 2019, 133 Stat. 905. For complete classfication of this Act to the Code, see Short Title of 2019 Amendment note set out under section 201 of this title and Tables.

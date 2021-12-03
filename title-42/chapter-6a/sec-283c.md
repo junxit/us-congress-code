@@ -20,6 +20,8 @@ section: 283c
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date
 
 Pub. L. 103–43, title II, § 203(c), June 10, 1993, 107 Stat. 146, provided that: “The amendment described in subsection (a) [enacting this section] is made upon the date of the enactment of this Act [June 10, 1993] and takes effect July 1, 1993. Subsection (b) [107 Stat. 145] takes effect on such date.”

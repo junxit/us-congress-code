@@ -53,6 +53,8 @@ section: 1395aaa–1
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (g). Pub. L. 115–271 added subsec. (g). 2010—Pub. L. 111–148, § 10304, substituted “quality and efficiency” for “quality” wherever appearing in text. Subsec. (e). Pub. L. 111–148, § 3013(b), added subsec. (e). Subsec. (f). Pub. L. 111–148, § 10303(b), added subsec. (f).

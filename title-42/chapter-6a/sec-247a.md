@@ -18,6 +18,8 @@ section: 247a
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 247a, act July 1, 1944, ch. 373, title III, § 316, as added Nov. 10, 1978, Pub. L. 95–626, title II, § 208(a), 92 Stat. 3586; amended Aug. 13, 1981, Pub. L. 97–35, title XXI, § 2193(a)(1)(A), 95 Stat. 826, related to lead-based paint poisoning prevention programs, prior to repeal by Pub. L. 97–35, title XXI, § 2193(b)(1), Aug. 13, 1981, 95 Stat. 827. Another prior section 247a, act July 1, 1944, ch. 373, title III, § 316, as added Oct. 30, 1970, Pub. L. 91–515, title II, § 281, 84 Stat. 1307, provided for establishment, composition, qualifications of members, terms of office, vacancies, reappointment, compensation, travel expenses, and functions of National Advisory Council on Comprehensive Health Planning Programs, prior to repeal by Pub. L. 93–641, § 5(d), Jan. 4, 1975, 88 Stat. 2275.

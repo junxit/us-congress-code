@@ -16,6 +16,8 @@ section: 242o
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Subsec. (a) of this section consists of former section 309 of act July 1, 1944, prior to the renumbering of that section as section 310(a) by Pub. L. 95–623. Subsec. (b) of this section consists of former section 310 of act July 1, 1944, prior to the renumbering of that section as section 310(b) by Pub. L. 95–623.

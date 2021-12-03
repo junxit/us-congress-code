@@ -36,6 +36,8 @@ section: 290hh
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Another section 581 of act July 1, 1944, is classified to section 290kk of this title.

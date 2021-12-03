@@ -41,6 +41,8 @@ section: 290aa–4
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 290aa–11 of this title prior to renumbering by Pub. L. 102–321.
@@ -52,6 +54,8 @@ A prior section 290aa–4, act July 1, 1944, ch. 373, title V, § 506, formerly 
 ### Amendments
 
 2016—Pub. L. 114–255, § 6004(1), substituted “Center for behavioral health statistics and quality” for “Data collection” in section catchline. Subsec. (a). Pub. L. 114–255, § 6004(3), added subsec. (a). Former subsec. (a) redesignated (b). Pub. L. 114–255, § 6001(c)(2), substituted “Assistant Secretary” for “Administrator” in introductory provisions and in par. (2). Subsec. (b). Pub. L. 114–255, § 6004(4), substituted “The Director shall—” for “The Secretary, acting through the Assistant Secretary, shall collect data each year on—”, added par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, substituted “Director” for “Assistant Secretary” in subpar. (B), and added pars. (2) to (4). Pub. L. 114–255, § 6004(2), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c). Pub. L. 114–255, § 6001(c)(2), substituted “Assistant Secretary” for “Administrator” in two places in introductory provisions. Subsec. (c). Pub. L. 114–255, § 6004(5), inserted heading and in introductory provisions substituted “subsection (b)(1)” for “subsection (a)” and “Director” for “Assistant Secretary” in two places. Pub. L. 114–255, § 6004(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d). Subsec. (c)(1). Pub. L. 114–255, § 6001(c)(2), substituted “Assistant Secretary” for “Administrator” in two places in introductory provisions. Subsec. (d). Pub. L. 114–255, § 6004(6), inserted heading, in par. (1) inserted heading and in introductory provisions substituted “subsection (b)(1)” for “subsection (a)” and “Director” for “Assistant Secretary” in two places, in par. (1)(B) inserted “in coordination with the Centers for Disease Control and Prevention” before semicolon at end, and in par. (2) inserted heading. Pub. L. 114–255, § 6004(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e) Pub. L. 114–255, § 6001(c)(2), substituted “Assistant Secretary” for “Administrator”. Subsec. (e). Pub. L. 114–255, § 6004(7), inserted heading and substituted “Assistant Secretary shall use existing standards and best practices to develop” for “Assistant Secretary shall develop”. Pub. L. 114–255, § 6004(2), redesignated subsec. (d) as (e). 1993—Pub. L. 103–43, § 2010(b)(7), which directed the substitution of “section 238 of this title” for “section 300aaa of this title” in section 505(a)(2) of act July 1, 1944 (this section), could not be executed because the language did not appear. Amendment was probably intended for prior section 505 which was renumbered section 502 and amended generally by Pub. L. 102–321, § 102, which is classified to section 290aa–1 of this title. 1989—Subsec. (c)(1)(A). Pub. L. 101–93, § 3(b)(1), substituted “alcohol or” for “alcohol and”. Subsec. (c)(2). Pub. L. 101–93, § 3(b)(2), substituted “this subsection” for “this section”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### National Survey on Drug Use and Health
 

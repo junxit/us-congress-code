@@ -32,6 +32,8 @@ section: 284g
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Another section 409C of act July 1, 1944, was renumbered section 409G and is classified to section 284k of this title.
@@ -39,6 +41,8 @@ Another section 409C of act July 1, 1944, was renumbered section 409G and is cla
 ### Amendments
 
 2019—Subsec. (a)(1). Pub. L. 116–60, § 2(1), substituted “toxicology, and interventions to maximize outcomes for individuals with autism spectrum disorder” for “and toxicology” and “Such research shall investigate the causes (including possible environmental causes), diagnosis or ruling out, early and ongoing detection, prevention, services across the lifespan, supports, intervention, and treatment of autism spectrum disorder, including dissemination and implementation of clinical care, supports, interventions, and treatments.” for “Such research shall investigate the cause (including possible environmental causes), diagnosis or rule out, early detection, prevention, services, supports, intervention, and treatment of autism spectrum disorder.” Subsec. (b)(2). Pub. L. 116–60, § 2(2)(A), substituted “causes, diagnosis, early and ongoing detection, prevention, and treatment of autism spectrum disorder across the lifespan” for “cause, diagnosis, early detection, prevention, control, and treatment of autism spectrum disorder” and “neurobiology, genetics, genomics, psychopharmacology, developmental psychology, behavioral psychology, and clinical psychology.” for “neurobiology, genetics, and psychopharmacology.” Subsec. (b)(3)(D). Pub. L. 116–60, § 2(2)(B), added subpar. (D). 2007—Subsec. (b)(4) to (6). Pub. L. 109–482, § 104(b)(1)(D), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Text read as follows: “The Director shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication between such centers, and may require the periodic preparation of reports on the activities of the centers and the submission of the reports to the Director.” Subsec. (e). Pub. L. 109–482, § 103(b)(9), which directed the striking of subsec. (e), could not be executed because of prior amendment by Pub. L. 109–416. See 2006 Amendment note below. 2006—Pub. L. 109–416, § 2(a)(1), substituted “autism spectrum disorder” for “autism” in section catchline. Subsec. (a). Pub. L. 109–416, § 2(a)(3), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “The Director of NIH (in this section referred to as the ‘Director’) shall expand, intensify, and coordinate the activities of the National Institutes of Health with respect to research on autism.” Subsec. (b)(1), (2). Pub. L. 109–416, § 2(a)(2), substituted “autism spectrum disorder” for “autism” in par. (1) and in two places in par. (2). Subsecs. (c), (d). Pub. L. 109–416, § 2(a)(2), substituted “autism spectrum disorder” for “autism”. Subsec. (e). Pub. L. 109–416, § 4(b), struck out heading and text of subsec. (e). Text read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out this section. Amounts appropriated under this subsection are in addition to any other amounts appropriated for such purpose.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2007 Amendment
 

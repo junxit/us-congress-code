@@ -24,9 +24,13 @@ section: 418a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (c)(2), is classified generally to Title 26, Internal Revenue Code.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Construction
 

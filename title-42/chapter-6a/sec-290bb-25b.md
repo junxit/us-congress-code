@@ -168,6 +168,8 @@ section: 290bb–25b
 
 1 So in original. A period probably should appear.
 
+### Editorial Notes
+
 ### References in Text
 
 The Drug-Free Communities Act of 1997, referred to in subsec. (e)(1)(G), is Pub. L. 105–20, June 27, 1997, 111 Stat. 224, which is classified principally to subchapter II (§ 1521 et seq.) of chapter 20 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 1501 of Title 21 and Tables.

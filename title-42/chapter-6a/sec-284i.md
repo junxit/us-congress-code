@@ -39,9 +39,13 @@ section: 284i
 
 1 So in original. Probably should be “pathogenesis”.
 
+### Editorial Notes
+
 ### Amendments
 
 2007—Subsec. (d). Pub. L. 109–482, § 104(b)(1)(E), struck out heading and text of subsec. (d). Text read as follows: “The Coordinating Committee under subsection (b)(1) of this section shall biennially submit to the Committee on Commerce of the House of Representatives, and the Committee on Health, Education, Labor and Pensions of the Senate, a report that describes the research, education, and other activities on autoimmune diseases being conducted or supported through the national research institutes, and that in addition includes the following: “(1) The plan under subsection (c)(1) of this section (or revisions to the plan, as the case may be). “(2) Provisions specifying the amounts expended by the National Institutes of Health with respect to each of the autoimmune diseases included in the plan. “(3) Provisions identifying particular projects or types of projects that should in the future be considered by the national research institutes or other entities in the field of research on autoimmune diseases.” Subsec. (e). Pub. L. 109–482, § 103(b)(11), struck out heading and text of subsec. (e). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to autoimmune diseases.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2007 Amendment
 

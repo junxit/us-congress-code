@@ -52,6 +52,8 @@ section: 629a
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 431 of act Aug. 14, 1935, was classified to section 631 of this title prior to repeal by Pub. L. 100–485.
@@ -59,6 +61,8 @@ A prior section 431 of act Aug. 14, 1935, was classified to section 631 of this 
 ### Amendments
 
 2018—Subsec. (a)(2)(B)(iii) to (vii). Pub. L. 115–123, § 50751(a), added cl. (iii) and redesignated former cls. (iii) to (vi) as (iv) to (vii), respectively. Subsec. (a)(7). Pub. L. 115–123, § 50721(a)(1), substituted “Family” for “Time-limited family” in heading. Subsec. (a)(7)(A). Pub. L. 115–123, § 50721(a)(2), struck out “time-limited” before “family reunification”, inserted “or a child who has been returned home” after “child care institution”, and substituted “and to ensure the strength and stability of the reunification. In the case of a child who has been returned home, the services and activities shall only be provided during the 15-month period that begins on the date that the child returns home” for “, but only during the 15-month period that begins on the date that the child, pursuant to section 675(5)(F) of this title, is considered to have entered foster care”. 2011—Subsec. (a)(2). Pub. L. 112–34, § 102(c)(1), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘family support services’ means community-based services to promote the safety and well-being of children and families designed to increase the strength and stability of families (including adoptive, foster, and extended families), to increase parents’ confidence and competence in their parenting abilities, to afford children a safe, stable, and supportive family environment, to strengthen parental relationships and promote healthy marriages, and otherwise to enhance child development.” Subsec. (a)(5), (6). Pub. L. 112–34, § 102(d), added pars. (5) and (6) and struck out former pars. (5) and (6) which read as follows: “(5) Tribal organization.—The term ‘tribal organization’ means the recognized governing body of any Indian tribe. “(6) Indian tribe.—The term ‘Indian tribe’ means any Indian tribe (as defined in section 682(i)(5) of this title, as in effect before August 22, 1996) and any Alaska Native organization (as defined in section 682(i)(7)(A) of this title, as so in effect).” Subsec. (a)(7)(B)(vi) to (viii). Pub. L. 112–34, § 102(c)(2), added cls. (vi) and (vii) and redesignated former cl. (vi) as (viii). 2006—Subsec. (a)(6). Pub. L. 109–288 substituted “1996” for “1986”. 2002—Subsec. (a)(1)(F). Pub. L. 107–133, § 102(a), added subpar. (F). Subsec. (a)(2). Pub. L. 107–133, § 102(b), inserted “to strengthen parental relationships and promote healthy marriages,” after “environment,”. 1999—Subsec. (a)(6). Pub. L. 106–169 inserted “, as in effect before August 22, 1986” after “682(i)(5) of this title” and “, as so in effect” after “682(i)(7)(A) of this title”. 1997—Subsec. (a)(1)(A). Pub. L. 105–89, § 305(c)(2)(A)(i), inserted “safe and” before “appropriate” in cls. (i) and (ii). Subsec. (a)(1)(B). Pub. L. 105–89, § 305(c)(2)(A)(ii), inserted “safely” after “remain”. Subsec. (a)(2). Pub. L. 105–89, § 305(c)(2)(B), inserted “safety and” before “well-being of children” and substituted “safe, stable, and supportive family” for “stable and supportive family”. Subsec. (a)(7), (8). Pub. L. 105–89, § 305(b)(2), added pars. (7) and (8). Subsec. (a)(9). Pub. L. 105–89, § 305(d)(1), added par. (9).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2018 Amendment
 

@@ -119,6 +119,8 @@ section: 287a
 
 3 So in original. Section 5703 of title 5 does not contain a subsec. (b).
 
+### Editorial Notes
+
 ### References in Text
 
 Section 262(i) of this title, referred to in subsec. (a)(3), was in the original “section 262(i)”, and was translated as meaning section 351(i) of act July 1, 1944, ch. 373, to reflect the probable intent of Congress.

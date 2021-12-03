@@ -35,6 +35,8 @@ section: 294d
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Indian Self-Determination Act, referred to in subsec. (c)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.

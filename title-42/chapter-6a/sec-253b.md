@@ -15,9 +15,13 @@ Subject to regulations of the President, lightkeepers, assistant lightkeepers, a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as a part of Health Services Research, Health Statistics, and Medical Libraries Act of 1974, and also as a part of Health Services Research and Evaluation and Health Statistics Act of 1974, and not as a part of the Public Health Service Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

@@ -31,6 +31,8 @@ section: 628b
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 429 of act Aug. 14, 1935, was renumbered section 426(c) and is classified to section 626(c) of this title.
@@ -38,6 +40,8 @@ A prior section 429 of act Aug. 14, 1935, was renumbered section 426(c) and is c
 ### Amendments
 
 1997—Pub. L. 105–33, § 5592(a)(1)(C), transferred section in original to end of this subpart. Subsec. (a). Pub. L. 105–33, § 5591(a), inserted “(directly, or by grant, contract, or interagency agreement)” after “conduct”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1997 Amendment
 

@@ -27,6 +27,8 @@ section: 285s
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 287c of this title prior to renumbering by Pub. L. 109–482.
@@ -34,6 +36,8 @@ Section was formerly classified to section 287c of this title prior to renumberi
 ### Amendments
 
 2007—Pub. L. 109–482, § 101(c)(4)(C), substituted “Institute” for “Center” wherever appearing in section catchline and text. Subsec. (a). Pub. L. 109–482, § 101(c)(4)(B), substituted “National Human Genome Research Institute” for “National Center for Human Genome Research” in introductory provisions.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

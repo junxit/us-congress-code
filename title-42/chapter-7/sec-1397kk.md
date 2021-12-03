@@ -68,6 +68,8 @@ section: 1397kk
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 6102(c)(3) of the Deficit Reduction Act of 2005, referred to in subsec. (c)(1), is section 6102(c)(3) of Pub. L. 109–171, which is set out as a note under section 1397gg of this title.
@@ -75,6 +77,8 @@ Section 6102(c)(3) of the Deficit Reduction Act of 2005, referred to in subsec. 
 ### Amendments
 
 2015—Subsec. (b)(2)(B)(i). Pub. L. 114–10 substituted “section 1397dd(m)(5)” for “section 1397dd(m)(4)”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

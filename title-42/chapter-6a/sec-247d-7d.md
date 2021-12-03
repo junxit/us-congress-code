@@ -16,6 +16,8 @@ section: 247d–7d
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2019—Subsec. (a). Pub. L. 116–22 substituted “section 247d–6(e)(4)” for “section 247d–6(h)(4)”.

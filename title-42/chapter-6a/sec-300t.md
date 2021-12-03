@@ -25,6 +25,8 @@ section: 300t
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 300l–2, 300l–4, and 300n–4 of this title, referred to in subsec. (a), were repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, § 701(a), Nov. 14, 1986, 100 Stat. 3799. Section 300l–1 of this title, referred to in subsec. (a)(3), was in the original a reference to section 1512 of act July 1, 1944, which was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, § 701(a), Nov. 14, 1986, 100 Stat. 3799. Pub. L. 102–531, title III, § 307, Oct. 27, 1992, 106 Stat. 3495, enacted section 1502A of act July 1, 1944, which is classified to section 300l–1 of this title.

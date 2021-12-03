@@ -63,6 +63,8 @@ section: 300mm–4
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 300mm–1(b) of this title, referred to in subsec. (a)(2)(A)(v), was in the original “section 3002(b)” and was translated as meaning section 3302(b) of act July 1, 1944, to reflect the probable intent of Congress.

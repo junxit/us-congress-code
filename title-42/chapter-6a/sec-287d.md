@@ -62,9 +62,13 @@ section: 287d
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Subsec. (c)(2). Pub. L. 114–255 substituted “senior-level staff designees” for “designees”. 2010—Subsec. (a). Pub. L. 111–148 inserted “and who shall report directly to the Director” before period at end. 1998—Subsec. (d)(2). Pub. L. 105–340 substituted “NIH” for “the Office”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Termination of Advisory Committees
 

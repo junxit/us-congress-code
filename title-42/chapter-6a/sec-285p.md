@@ -30,9 +30,13 @@ section: 285p
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2007—Subsec. (f). Pub. L. 109–482 struck out subsec. (f) which authorized appropriations and provided that at least 15% of the appropriated amounts were to carry out health services research relating to mental health. 1992—Subsec. (f)(1). Pub. L. 102–352 struck out “other than section 285o–4 of this title” after “this subpart”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2007 Amendment
 

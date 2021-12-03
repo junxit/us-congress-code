@@ -79,6 +79,8 @@ For purposes of this subchapter:
 
 4 So in original. The word “and” probably should appear.
 
+### Editorial Notes
+
 ### References in Text
 
 The reference to section 254b of this title the first place appearing and the reference to section 254c of this title, referred to in par. (6)(B), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, § 2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title. Section 256a of this title, referred to in par. (6)(B), was repealed by Pub. L. 104–299, § 4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
@@ -87,6 +89,8 @@ The reference to section 254b of this title the first place appearing and the re
 
 2014—Par. (23). Pub. L. 113–128 substituted “one-stop delivery system described in section 3151(e) of title 29” for “one-stop delivery system described in section 2864(c) of title 29”. 2010—Par. (3). Pub. L. 111–148, § 5002(b)(1), added par. (3) and struck out former par. (3) which defined “program for the training of physician assistants” by describing its objective, duration, minimum enrollment, and specific areas of instruction. Pars. (12) to (26). Pub. L. 111–148, § 5002(b)(2), added pars. (12) to (26). 2002—Par. (6)(B). Pub. L. 107–251 substituted “254b(h)” for “256”. 1998—Par. (1)(C). Pub. L. 105–392, § 108(b)(1)(A), inserted “and ‘graduate program in professional counseling’ ” before “mean an” and “and a concentration leading to a graduate degree in counseling” before period at end. Par. (1)(D). Pub. L. 105–392, § 108(a), (b)(1)(B), inserted “behavioral health and” before “mental”, “behavioral health and mental health practice,” before “clinical”, and “professional counseling,” after “social work,”. Par. (1)(E). Pub. L. 105–392, § 108(b)(1)(C), inserted “professional counseling,” after “social work,”. Par. (3). Pub. L. 105–392, § 108(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘program for the training of physician assistants’ means an educational program that— “(A) has as its objective the education of individuals who will, upon completion of their studies in the program, be qualified to provide primary health care under the supervision of a physician; and “(B) meets regulations prescribed by the Secretary in accordance with section 293n(b) of this title.” Par. (5)(C). Pub. L. 105–392, § 108(b)(2), inserted “or a degree in counseling or an equivalent degree” before period at end. Par. (6)(D). Pub. L. 105–392, § 108(c), added subpar. (D). Par. (11). Pub. L. 105–392, § 108(e), added par. (11).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
@@ -94,6 +98,8 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 ### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 
 Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
+
+### Executive Documents
 
 ### Termination of Trust Territory of the Pacific Islands
 

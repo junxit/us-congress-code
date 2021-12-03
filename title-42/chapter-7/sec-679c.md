@@ -62,6 +62,8 @@ section: 679c
 
 1 So in original.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptions Act of 2008, referred to in subsec. (c)(1)(D)(iii)(I), (iv), (v), is section 301(e)(2) of Pub. L. 110–351, which is set out as a note under section 671 of this title.
@@ -69,6 +71,8 @@ Section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptio
 ### Amendments
 
 2018—Subsec. (c)(1)(C)(i)(IV). Pub. L. 115–123, § 50711(e)(1)(A)(i), added subcl. (IV). Subsec. (c)(1)(E). Pub. L. 115–123, § 50711(e)(1)(A)(ii), added subpar. (E). Subsec. (c)(4). Pub. L. 115–123, § 50722(b), added par. (4). Subsec. (d). Pub. L. 115–123, § 50711(e)(2), struck out “for foster care maintenance and adoption assistance payments” after “percentage” in heading. Subsec. (d)(1). Pub. L. 115–123, § 50711(e)(1)(B), substituted “(5), and (6)(A)” for “and (5)”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2018 Amendment
 

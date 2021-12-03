@@ -50,6 +50,8 @@ For purposes of this subchapter:
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Safe Drinking Water Act Amendments of 1996, referred to in par. (4)(C), is Pub. L. 104–182, Aug. 6, 1996, 110 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 201 of this title and Tables.
@@ -57,6 +59,8 @@ The Safe Drinking Water Act Amendments of 1996, referred to in par. (4)(C), is P
 ### Amendments
 
 2016—Par. (14). Pub. L. 114–322 substituted “sections 300j–12, 300j–19a, and 300j–19b of this title” for “section 300j–12 of this title”. 1996—Par. (1). Pub. L. 104–182, § 101(a)(1)(B), inserted at end “At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation.” Par. (1)(D). Pub. L. 104–182, § 101(a)(1)(A), inserted “accepted methods for” before “quality control”. Par. (4). Pub. L. 104–182, § 101(b)(1), designated existing provisions as subpar. (A), inserted par. and subpar. headings, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, substituted “water for human consumption through pipes or other constructed conveyances” for “piped water for human consumption” in first sentence, and added subpars. (B) and (C). Par. (13). Pub. L. 104–182, § 101(a)(2), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the term” for “The term”, and added subpar. (B). Par. (14). Pub. L. 104–182, § 101(a)(3), inserted at end “For purposes of section 300j–12 of this title, the term includes any Native village (as defined in section 1602(c) of title 43).” Pars. (15), (16). Pub. L. 104–182, § 101(a)(4), added pars. (15) and (16). 1986—Par. (10). Pub. L. 99–339, § 302(b)(2), substituted “Indian Tribe” for “Indian tribal organization authorized by law”. Par. (14). Pub. L. 99–339, § 302(b)(1), added par. (14). 1977—Par. (12). Pub. L. 95–190 expanded definition of “person” to include Federal agency, and officers, employees, and agents of any corporation, company, etc. 1976—Par. (13). Pub. L. 94–484 defined “State” to include Northern Mariana Islands. Pub. L. 94–317 added par. (13).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1996 Amendment
 
@@ -66,9 +70,9 @@ Pub. L. 104–182, § 2(b), Aug. 6, 1996, 110 Stat. 1614, provided that: “Exce
 
 This subchapter is known as the “Safe Drinking Water Act”, see note set out under section 201 of this title.
 
-### Termination of Trust Territory of the Pacific Islands
+### Termination of Advisory Committees
 
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 ### Effect of Public Law 104–182 on Federal Water Pollution Control Act
 
@@ -94,10 +98,12 @@ Pub. L. 95–190, § 3(e)(2), Nov. 16, 1977, 91 Stat. 1394, provided that: “No
 
 Pub. L. 93–523, § 3, Dec. 16, 1974, 88 Stat. 1693, as amended by Pub. L. 95–190, §§ 2(d), 3(d), Nov. 16, 1977, 91 Stat. 1393, 1394, directed Administrator of Environmental Protection Agency, after consultation with Secretary of Agriculture and the several States, to enter into arrangements with public or private entities to conduct a survey of quantity, quality, and availability of rural drinking water supplies, which survey was to include, but not be limited to, consideration of number of residents in each rural area who presently are being inadequately served by a public or private drinking water supply system, or by an individual home drinking water supply system, or who presently have limited or otherwise inadequate access to drinking water, or who, due to absence or inadequacy of a drinking water supply system, are exposed to an increased health hazard, and who have experienced incidents of chronic or acute illness, which may be attributed to inadequacy of a drinking water supply system. Survey to be completed within eighteen months of Dec. 16, 1974, and a final report thereon submitted, not later than six months after completion of survey, to President and to Congress.
 
+### Executive Documents
+
+### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
 ### Federal Compliance With Pollution Control Standards
 
 For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of this title.
-
-### Termination of Advisory Committees
-
-Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.

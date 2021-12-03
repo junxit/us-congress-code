@@ -28,6 +28,8 @@ section: 254c–1a
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Purpose
 
 Pub. L. 111–148, title V, § 5208(a), Mar. 23, 2010, 124 Stat. 612, provided that: “The purpose of this section [enacting this section] is to fund the development and operation of nurse-managed health clinics.”

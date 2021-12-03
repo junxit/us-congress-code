@@ -31,6 +31,8 @@ section: 654b
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 For effective date of this section, referred to in subsec. (b)(4), see Effective Date note below.
@@ -38,6 +40,8 @@ For effective date of this section, referred to in subsec. (b)(4), see Effective
 ### Amendments
 
 1997—Subsec. (c)(1). Pub. L. 105–33 inserted at end “The date of collection for amounts collected and distributed under this part is the date of receipt by the State disbursement unit, except that if current support is withheld by an employer in the month when due and is received by the State disbursement unit in a month other than the month when due, the date of withholding may be deemed to be the date of collection.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1997 Amendment
 

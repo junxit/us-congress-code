@@ -41,9 +41,13 @@ section: 1397ll
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2021—Subsec. (d)(2)(A). Pub. L. 117–2 inserted “, or, in the case that subparagraph (A) of section 1396a(e)(16) of this title applies to the State child health plan (or waiver of such plan), pursuant to section 1397gg (e)(1) of this title, the 12-month period,” after “60-day period”. 2020—Subsec. (b)(4). Pub. L. 116–127 inserted “under section 1397cc(c) of this title” after “same requirements”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

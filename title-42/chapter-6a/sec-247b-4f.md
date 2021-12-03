@@ -28,6 +28,8 @@ section: 247b–4f
 
 1 So in original.
 
+### Editorial Notes
+
 ### Codification
 
 Section 2 of Pub. L. 115–328, which directed the amendment of section 2 of the Prematurity Research Expansion and Education for Mothers who deliver Infants Early Act (Pub. L. 109–450), was executed to this section, which is section 3 of Pub. L. 109–450, to reflect the probable intent of Congress. See 2018 Amendment notes below. Section is comprised of section 3 of Pub. L. 109–450. Subsec. (a) of section 3 of Pub. L. 109–450 amended section 241 of this title. Section was enacted as part of the Prematurity Research Expansion and Education for Mothers who deliver Infants Early Act or the PREEMIE Act, and not as part of the Public Health Service Act which comprises this chapter.
@@ -35,6 +37,8 @@ Section 2 of Pub. L. 115–328, which directed the amendment of section 2 of the
 ### Amendments
 
 2018—Subsec. (b)(1)(A). Pub. L. 115–328, § 2(1)(A), substituted “factors relating to prematurity, such as clinical, biological, social, environmental, genetic, and behavioral factors, and other determinants that contribute to health disparities and are related” for “clinical, biological, social, environmental, genetic, and behavioral factors relating”. See Codification note above. Subsec. (b)(2). Pub. L. 115–328, § 2(1)(B), substituted “regarding activities and studies conducted under paragraph (1), including any applicable analyses of preterm birth. Such report shall be posted on the Internet website of the Department of Health and Human Services.” for “concerning the progress and any results of studies conducted under paragraph (1)”. See Codification note above. Subsec. (c). Pub. L. 115–328, § 2(2), added subsec. (c) and struck out former subsec. (c) which established a pregnancy risk assessment monitoring survey and authorized appropriations. See Codification note above. Subsec. (e). Pub. L. 115–328, § 2(3), substituted “$2,000,000 for each of fiscal years 2019 through 2023” for “except for subsection (c), $1,880,000 for each of fiscal years 2014 through 2018”. See Codification note above. 2013—Subsec. (b). Pub. L. 113–55, § 102(a), added subsec. (b) and struck out former subsec. (b) which related to studies and reports on the relationship between prematurity and birth defects. Subsec. (e). Pub. L. 113–55, § 102(b), substituted “$1,880,000 for each of fiscal years 2014 through 2018.” for “$5,000,000 for each of fiscal years 2007 through 2011.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Advisory Committee on Infant Mortality
 

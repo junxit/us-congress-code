@@ -15,9 +15,13 @@ Notwithstanding any other provision of law, Federal credit unions shall, pursuan
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 292k, act July 1, 1944, ch. 373, title VII, § 710, formerly § 711, as added Oct. 12, 1976, Pub. L. 94–484, title II, § 209, 90 Stat. 2253; renumbered § 710 and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §§ 2720(b), 2722, 95 Stat. 915, related to differential tuition and fees, prior to the general revision of this subchapter by Pub. L. 102–408.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Functions
 

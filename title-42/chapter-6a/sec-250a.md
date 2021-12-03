@@ -15,6 +15,8 @@ The Attorney General may transfer to the Department of Health and Human Services
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the Public Health Service Act which comprises this chapter. Section was formerly classified to section 341h of title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.

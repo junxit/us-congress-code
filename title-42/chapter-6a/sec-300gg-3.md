@@ -115,6 +115,8 @@ section: 300gg–3
 
 3 So in original. Probably should be followed by the word “Program”.
 
+### Editorial Notes
+
 ### References in Text
 
 Subsection (a), referred to in subsecs. (b)(1)(B) and (c)(3)(A), (B), was struck out, and a new subsec. (a) was added, by Pub. L. 111–148, title I, § 1201(2)(A), Mar. 23, 2010, 124 Stat. 154, and as so amended, subsec. (a) no longer contains paragraphs. The Social Security Act, referred to in subsecs. (c)(1)(C), (D) and (f)(3)(A)(i), (B)(i)(I), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of this title. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables. Section 311(b)(1)(C) of the Children’s Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (f)(3)(B)(ii), is section 311(b)(1)(C) of Pub. L. 111–3, which is set out as a note under section 1181 of Title 29, Labor.
@@ -130,6 +132,8 @@ A prior section 2704 of act July 1, 1944, was renumbered section 2725 and is cla
 ### Amendments
 
 2011—Subsec. (c)(2)(C). Pub. L. 112–40 substituted “January 1, 2014” for “February 13, 2011” in introductory provisions. See Codification note above. 2010—Pub. L. 111–148, § 1201(2)(A), substituted “Prohibition of preexisting condition exclusions or other discrimination based on health status” for “Increased portability through limitation on preexisting condition exclusions” in section catchline, added subsec. (a), and struck out former subsec. (a) which related to limitation on preexisting condition exclusion period. Subsec. (c)(2)(A), (B). Pub. L. 111–148, § 1563(c)(1)(A)(i), formerly § 1562(c)(1)(A)(i), as renumbered by Pub. L. 111–148, § 10107(b)(1), substituted “group or individual health plan” for “group health plan”. Subsec. (c)(2)(C). Pub. L. 111–344 substituted “February 13, 2011” for “January 1, 2011” in introductory provisions. Subsec. (c)(3)(A), (B). Pub. L. 111–148, § 1563(c)(1)(A)(ii)(I), formerly § 1562(c)(1)(A)(ii)(I), as renumbered by Pub. L. 111–148, § 10107(b)(1), substituted “group or individual health insurance” for “group health insurance”. Subsec. (c)(3)(D). Pub. L. 111–148, § 1563(c)(1)(A)(ii)(II), formerly § 1562(c)(1)(A)(ii)(II), as renumbered by Pub. L. 111–148, § 10107(b)(1), substituted “individual or group” for “small or large” in introductory provisions. Subsec. (d)(1) to (3). Pub. L. 111–148, § 1563(c)(1)(B), formerly § 1562(c)(1)(B), as renumbered by Pub. L. 111–148, § 10107(b)(1), substituted “group or individual health insurance” for “group health insurance”. Subsec. (e)(1)(A). Pub. L. 111–148, § 1563(c)(1)(C), formerly § 1562(c)(1)(C), as renumbered by Pub. L. 111–148, § 10107(b)(1), substituted “group or individual health insurance” for “group health insurance” in introductory provisions. 2009—Subsec. (c)(2)(C). Pub. L. 111–5 added subpar. (C). Subsec. (f)(3). Pub. L. 111–3 added par. (3).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2011 Amendment
 

@@ -53,6 +53,8 @@ section: 256a
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 256a, act July 1, 1944, ch. 373, title III, § 340A, as added Nov. 6, 1990, Pub. L. 101–527, § 3, 104 Stat. 2314; amended Oct. 27, 1992, Pub. L. 102–531, title III, § 309(d), 106 Stat. 3502, related to health services for residents of public housing, prior to repeal by Pub. L. 104–299, §§ 4(a)(3), 5, Oct. 11, 1996, 110 Stat. 3645, effective Oct. 1, 1996. Another prior section 256a, act July 1, 1944, ch. 373, title III, § 340A, as added Nov. 10, 1978, Pub. L. 95–626, title I, § 106(a), 92 Stat. 3560, related to technical assistance demonstration grants and contracts, prior to repeal by Pub. L. 100–77, title VI, § 601, July 22, 1987, 101 Stat. 511.

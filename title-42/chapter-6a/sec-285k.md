@@ -24,6 +24,8 @@ section: 285k
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 282(g) of this title, which was transferred and redesignated as subsec. (b) of this section by Pub. L. 112–74, div. F, title II, § 221(b)(5)(B), Dec. 23, 2011, 125 Stat. 1088, was based on act July 1, 1944, ch. 373, title IV, § 402(g), as added Pub. L. 103–43, title II, § 202, June 10, 1993, 107 Stat. 144.

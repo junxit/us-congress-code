@@ -17,6 +17,8 @@ Not later than February 10 of 1991 and of each second year thereafter, the Secre
 
 1 So in original. The period probably should be a comma.
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 376 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, § 1, 70 Stat. 962, which related to Library facilities, was renumbered section 386 and classified to section 280 of this title, prior to repeal by Pub. L. 99–158, § 3(b), Nov. 20, 1985, 99 Stat. 879.
@@ -24,6 +26,8 @@ A prior section 376 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, § 
 ### Amendments
 
 1990—Pub. L. 101–616 substituted “Not later than February 10 of 1991 and of each second year thereafter, the Secretary shall publish, and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.” for “The Secretary shall, not later than October 1 of each year, publish”. 1988—Pub. L. 100–607 substituted “shall, not later than October 1 of each year,” for “shall annually”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

@@ -23,6 +23,8 @@ section: 300n–4a
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 1509 of act July 1, 1944, was renumbered section 1510 and is classified to section 300n–5 of this title.

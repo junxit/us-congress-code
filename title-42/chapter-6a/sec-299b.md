@@ -21,6 +21,8 @@ section: 299b
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 299b, act July 1, 1944, ch. 373, title IX, § 911, as added Pub. L. 101–239, title VI, § 6103(a), Dec. 19, 1989, 103 Stat. 2192; amended Pub. L. 102–410, § 5(b), Oct. 13, 1992, 106 Stat. 2097, related to establishment of Office of the Forum for Quality and Effectiveness in Health Care, prior to the general amendment of this subchapter by Pub. L. 106–129. Another prior section 299b, act July 1, 1944, ch. 373, title IX, § 902, as added Oct. 6, 1965, Pub. L. 89–239, § 2, 79 Stat. 927; amended Oct. 15, 1968, Pub. L. 90–574, title I, § 103, 82 Stat. 1005; Oct. 30, 1970, Pub. L. 91–515, title I, §§ 104, 111(b), 84 Stat. 1299, 1301, defined terms for purposes of this subchapter, prior to repeal by Pub. L. 99–117, § 12(d), Oct. 7, 1985, 99 Stat. 495.

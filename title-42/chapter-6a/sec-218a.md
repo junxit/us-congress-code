@@ -17,13 +17,23 @@ section: 218a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1998—Subsec. (c). Pub. L. 105–392 added subsec. (c). 1979—Subsec. (b). Pub. L. 96–76 substituted provisions relating to payment by an officer to the Service upon voluntary separation of two times the total amount of tuition, fees, and other necessary expenses received by such officer and two times the total amount of any compensation received by, and any allowance paid to, such officer, for provisions relating to reimbursement by the officer to the Service upon voluntary separation of tuition and fees and in last sentence substituted “payment” for “reimbursement” wherever appearing. 1956—Subsec. (a). Act Apr. 27, 1956, § 6(a), authorized training of all officers of the Service, and substituted “any Federal or non-Federal educational institution or training program” for “any educational institution”. Subsec. (b). Act Apr. 27, 1956, § 6(b), required reimbursement of tuition and fees by officers who receive training in excess of 30 days and who voluntarily leave the Service within a period of time which is equal to twice the period of such training, with a minimum period of six months of service, and a maximum period of two years, and permitted the Surgeon General to waive any reimbursement.
 
+### Statutory Notes and Related Subsidiaries
+
+### Change of Name
+
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (c) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+### Executive Documents
+
 ### Transfer of Functions
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title.
 
 ### Delegation of Functions
 

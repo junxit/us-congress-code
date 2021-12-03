@@ -25,6 +25,8 @@ section: 300aa–2
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 300aa–2, act July 1, 1944, § 2103, was successively renumbered by subsequent acts and transferred, see section 238b of this title. A prior section 2102 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238a of this title.
@@ -32,6 +34,8 @@ A prior section 300aa–2, act July 1, 1944, § 2103, was successively renumbere
 ### Amendments
 
 2003—Subsec. (a)(7). Pub. L. 108–173 substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”. 1992—Subsec. (a)(1), (3), (6), (7). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Encouraging Vaccine Innovation; Meetings
 

@@ -37,9 +37,13 @@ section: 290ff–3
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Subsec. (f). Pub. L. 114–255 inserted “(and provide a copy to the State involved)” after “to the Secretary”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

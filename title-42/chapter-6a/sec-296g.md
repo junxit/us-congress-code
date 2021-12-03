@@ -15,6 +15,8 @@ The Secretary may not make a grant, loan guarantee, or interest subsidy payment 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 298b–2 of this title prior to renumbering by Pub. L. 105–392.

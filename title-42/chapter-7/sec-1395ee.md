@@ -54,6 +54,8 @@ section: 1395ee
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Ethics in Government Act of 1978, referred to in subsec. (c)(1)(B)(iv), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables. Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c)(1)(G), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -65,6 +67,8 @@ A prior section 1395ee, act Aug. 14, 1935, ch. 531, title XVIII, § 1868, as add
 ### Amendments
 
 2018—Subsec. (c)(2)(C). Pub. L. 115–123 amended subpar. (C) generally. Prior to amendment, text read as follows: “The Committee shall, on a periodic basis, review models submitted under subparagraph (B), prepare comments and recommendations regarding whether such models meet the criteria described in subparagraph (A), and submit such comments and recommendations to the Secretary.” 2015—Subsec. (c). Pub. L. 114–10 added subsec. (c). 2010—Subsec. (a). Pub. L. 111–148 struck out subsec. (a) which related to the Practicing Physicians Advisory Council. 2003—Pub. L. 108–173, § 942(a)(1), inserted “; Council for Technology and Innovation” in section catchline. Subsec. (a). Pub. L. 108–173, § 942(a)(2)–(4), inserted subsec. heading, redesignated existing provisions as par. (1), substituted “in this subsection” for “in this section”, and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively. Subsec. (b). Pub. L. 108–173, § 942(a)(5), added subsec. (b). Former subsec. (b) redesignated par. (2) of subsec. (a). Subsec. (c). Pub. L. 108–173, § 942(a)(4), redesignated subsec. (c) as par. (3) of subsec. (a).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Termination of Advisory Councils
 

@@ -25,6 +25,8 @@ section: 280b–1c
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 280b–1b of this title.

@@ -17,9 +17,13 @@ section: 285o
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2007—Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to authorization of appropriations and allocation for health services research. 1992—Subsec. (d)(1). Pub. L. 102–352 inserted “other than section 285o–4 of this title,” after “this subpart,”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2007 Amendment
 

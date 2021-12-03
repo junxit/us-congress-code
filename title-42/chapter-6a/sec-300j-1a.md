@@ -37,6 +37,8 @@ section: 300j–1a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the America’s Water Infrastructure Act of 2018, and not as part of the Public Health Service Act which comprises this chapter.

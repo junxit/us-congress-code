@@ -25,6 +25,8 @@ For purposes of paragraph (4), any notification shall be made within 14 days of 
 
 1 So in original. Probably should be “subchapter”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -32,6 +34,8 @@ The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531,
 ### Amendments
 
 1996—Par. (3). Pub. L. 104–191 substituted “at any time during the first 60 days of continuation coverage under this subchapter” for “at the time of a qualifying event described in section 300bb–3(2) of this title”. 1989—Par. (3). Pub. L. 101–239 inserted “and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 300bb–3(2) of this title is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days after the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled” after “date of the qualifying event”. 1987—Par. (3). Pub. L. 100–203 amended directory language of Pub. L. 99–514, see 1986 Amendment note below. 1986—Par. (3). Pub. L. 99–514, as amended by Pub. L. 100–203, inserted “within 60 days after the date of the qualifying event”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1996 Amendment
 

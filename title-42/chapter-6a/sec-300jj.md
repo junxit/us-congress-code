@@ -48,6 +48,8 @@ In this subchapter:
 
 4 So in original. There is no par. (14).
 
+### Editorial Notes
+
 ### References in Text
 
 The Indian Self-Determination and Education Assistance Act, referred to in par. (3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
@@ -55,6 +57,8 @@ The Indian Self-Determination and Education Assistance Act, referred to in par. 
 ### Amendments
 
 2020—Par. (13)(C). Pub. L. 116–260 added subpar. (C). 2016—Par. (7). Pub. L. 114–255, § 4003(e)(2)(B), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “The term ‘HIT Policy Committee’ means such Committee established under section 300jj–12(a) of this title.” Par. (8). Pub. L. 114–255, § 4003(e)(2)(B)(i), redesignated par. (9) as (8) and struck out former par. (8). Prior to amendment, text of par. (8) read as follows: “The term ‘HIT Standards Committee’ means such Committee established under section 300jj–13(a) of this title.” Par. (9). Pub. L. 114–255, § 4003(e)(2)(B)(i), redesignated par. (10) as (9). Former par. (9) redesignated (8). Par. (10). Pub. L. 114–255, § 4003(e)(2)(B)(i), redesignated par. (11) as (10). Former par. (10) redesignated (9). Pub. L. 114–255, § 4003(a)(2), added par. (10). Former par. (10) redesignated (11). Pars. (11) to (14). Pub. L. 114–255, § 4003(e)(2)(B)(i), redesignated pars. (12) to (14) as (11) to (13), respectively. Former par. (11) redesignated (10). Pub. L. 114–255, § 4003(a)(1), redesignated pars. (10) to (13) as (11) to (14), respectively. Former par. (14) redesignated (15). Par. (15). Pub. L. 114–255, § 4003(a)(1), redesignated par. (14) as (15).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Assisting Doctors and Hospitals in Improving Quality of Care for Patients
 

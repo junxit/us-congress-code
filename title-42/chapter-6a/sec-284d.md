@@ -16,9 +16,13 @@ section: 284d
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Pub. L. 106–505 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b). 1993—Pub. L. 103–43 inserted at end “Such term does not include research on the efficacy of services to prevent, diagnose, or treat medical conditions.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

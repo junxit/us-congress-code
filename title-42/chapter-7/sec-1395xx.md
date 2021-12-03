@@ -29,9 +29,13 @@ section: 1395xx
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1983—Subsec. (a)(1)(B). Pub. L. 98–21 inserted “or on the bases described in section 1395ww of this title”. 1982—Subsec. (b). Pub. L. 97–248, § 109(a)(2), added subsec. (b).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1983 Amendment
 

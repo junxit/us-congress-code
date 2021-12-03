@@ -20,6 +20,8 @@ section: 300x
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 300x, act July 1, 1944, ch. 373, title XIX, § 1911, as added Aug. 13, 1981, Pub. L. 97–35, title IX, § 901, 95 Stat. 543; amended Oct. 19, 1984, Pub. L. 98–509, title I, §§ 101, 106(a), 98 Stat. 2353, 2358; Nov. 18, 1988, Pub. L. 100–690, title II, § 2021, 102 Stat. 4194, authorized appropriations in fiscal years 1990 and 1991 for purpose of carrying out this subpart and section 290aa–11 of this title, prior to repeal by Pub. L. 102–321, § 201(2).
@@ -27,6 +29,8 @@ A prior section 300x, act July 1, 1944, ch. 373, title XIX, § 1911, as added Au
 ### Amendments
 
 2016—Subsec. (b). Pub. L. 114–255 added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

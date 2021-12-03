@@ -33,9 +33,13 @@ For purposes of this subpart:
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2014—Par. (6). Pub. L. 113–76 added par. (6). 1998—Par. (1). Pub. L. 105–392 substituted “or behavioral and mental health practice, including clinical psychology” for “or clinical psychology”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2014 Amendment
 

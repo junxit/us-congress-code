@@ -15,9 +15,13 @@ The Secretary shall establish in the Department of Health and Human Services a N
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 300aa–1, act July 1, 1944, § 2102, was successively renumbered by subsequent acts and transferred, see section 238a of this title. A prior section 2101 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

@@ -34,6 +34,8 @@ section: 426a
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 228e(l) and 228s–2 of title 45, referred to in subsec. (a)(2), (3), are references to sections 5(l) and 21 of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. That Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. Sections 228e and 228s–2 of title 45 are covered by sections 231e and 231f of Title 45, respectively. Section 410(a)(17) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(99)(C)(ii), Dec. 19, 2014, 128 Stat. 4052.

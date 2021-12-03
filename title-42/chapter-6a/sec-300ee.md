@@ -18,9 +18,13 @@ section: 300ee
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1988—Subsec. (a). Pub. L. 100–690 substituted “this subchapter” for “this part”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1988 Amendment
 

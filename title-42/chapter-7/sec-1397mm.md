@@ -82,6 +82,8 @@ section: 1397mm
 
 2 So in original.
 
+### Editorial Notes
+
 ### References in Text
 
 The Indian Health Care Improvement Act, referred to in subsecs. (b)(2) and (f)(1)(C), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Act is classified generally to subchapter IV (§ 1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables. The Head Start Act, referred to in subsec. (f)(2)(D), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables. The Richard B. Russell National School Lunch Act, referred to in subsec. (f)(2)(D), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
@@ -89,6 +91,8 @@ The Indian Health Care Improvement Act, referred to in subsecs. (b)(2) and (f)(1
 ### Amendments
 
 2018—Subsec. (a)(1). Pub. L. 115–123, § 50103(a)(1), (b)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” and “2027” for “2023”. Pub. L. 115–120, § 3004(a)(1), substituted “2023” for “2017”. Subsec. (a)(3). Pub. L. 115–123, § 50103(b)(2), added par. (3). Subsec. (f)(1)(E). Pub. L. 115–120, § 3004(b)(1), substituted “, community-based doula programs, or parent mentors” for “or community-based doula programs”. Subsec. (f)(5). Pub. L. 115–120, § 3004(b)(2), added par. (5). Subsec. (g). Pub. L. 115–123, § 50103(a)(2), substituted “, $120,000,000” for “and $120,000,000” and inserted “, and $48,000,000 for the period of fiscal years 2024 through 2027” after “2023”. Pub. L. 115–120, § 3004(a)(2), substituted “, $40,000,000” for “and $40,000,000” and inserted “, and $120,000,000 for the period of fiscal years 2018 through 2023” after “2017”. Subsec. (h)(6), (7). Pub. L. 115–123, § 50103(c), added par. (6) and redesignated former par. (6) as (7). 2015—Subsec. (a)(1). Pub. L. 114–10, § 303(1), substituted “2017” for “2015”. Subsec. (g). Pub. L. 114–10, § 303(2), inserted “and $40,000,000 for the period of fiscal years 2016 and 2017” after “2015”. 2010—Subsec. (a)(1). Pub. L. 111–148, § 10203(d)(2)(E)(i), substituted “2015” for “2013”. Subsec. (g). Pub. L. 111–148, § 10203(d)(2)(E)(ii), substituted “$140,000,000 for the period of fiscal years 2009 through 2015” for “$100,000,000 for the period of fiscal years 2009 through 2013”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

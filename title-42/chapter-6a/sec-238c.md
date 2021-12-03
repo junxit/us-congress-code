@@ -15,6 +15,8 @@ Appropriations available for traveling expenses of the Service shall be availabl
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 300aaa–3 of this title prior to renumbering by Pub. L. 103–43, to section 300cc–5 of this title prior to renumbering by Pub. L. 100–607, to section 300aa–5 of this title prior to renumbering by Pub. L. 99–660, and to section 224 of this title prior to renumbering by Pub. L. 98–24.
@@ -23,10 +25,18 @@ Section was formerly classified to section 300aaa–3 of this title prior to ren
 
 1954—Act July 15, 1954, inserted sentence at end relating to availability of appropriations for paying expenses relating to recovery, care, and disposition of the remains of personnel or their dependents.
 
-### Transfer of Functions
+### Statutory Notes and Related Subsidiaries
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+### Change of Name
+
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 ### Disposition of Remains of Deceased Personnel
 
 Recovery, care and disposition of the remains of deceased members of the uniformed services and other deceased personnel, see section 1481 et seq. of Title 10, Armed Forces.
+
+### Executive Documents
+
+### Transfer of Functions
+
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title.

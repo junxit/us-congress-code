@@ -33,9 +33,13 @@ section: 669a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1998—Subsec. (a). Pub. L. 105–200 inserted “, or for disclosing any such record to the Federal Parent Locator Service pursuant to section 666(a)(17)(A) of this title” before period at end.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

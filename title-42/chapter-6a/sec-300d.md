@@ -22,6 +22,8 @@ section: 300d
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 300d, act July 1, 1944, ch. 373, title XII, § 1201, as added Nov. 16, 1973, Pub. L. 93–154, § 2(a), 87 Stat. 594; amended Oct. 12, 1976, Pub. L. 94–484, title IX, § 905(b)(1), 90 Stat. 2325; Oct. 21, 1976, Pub. L. 94–573, §§ 2, 14(2), 90 Stat. 2709, 2718, defined terms applicable to this subchapter, prior to repeal by Pub. L. 97–35, title IX, § 902(d)(1), (h), Aug. 13, 1981, 95 Stat. 560, 561, effective Oct. 1, 1981. A prior section 1201 of act July 1, 1944, ch. 373, title XII, formerly § 1205, as added Nov. 16, 1973, Pub. L. 93–154, § 2(a), 87 Stat. 597, was classified to section 300d–4 of this title prior to repeal by Pub. L. 99–117, § 12(e), Oct. 7, 1985, 99 Stat. 495.
@@ -29,6 +31,8 @@ A prior section 300d, act July 1, 1944, ch. 373, title XII, § 1201, as added No
 ### Amendments
 
 2007—Pub. L. 110–23 amended section generally. Prior to amendment, section required the Secretary to provide support to trauma care, authorized the Secretary to make grants and enter into agreements for such support, and required the Administrator of the Health Resources and Services Administration to ensure that the Division of Trauma and Emergency Medical Systems administered this subchapter. 1996—Subsec. (a). Pub. L. 104–146, in introductory provisions, substituted “The Secretary shall,” for “The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall,”. 1993—Subsec. (a). Pub. L. 103–183, § 601(a)(1), in introductory provisions inserted “, acting through the Administrator of the Health Resources and Services Administration,” after “Secretary”. Subsec. (c). Pub. L. 103–183, § 601(a)(2), added subsec. (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1996 Amendment
 

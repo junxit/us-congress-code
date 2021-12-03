@@ -25,6 +25,8 @@ section: 294i
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 294i, act July 1, 1944, ch. 373, title VII, § 771, as added Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 2049, authorized grants to educational entities offering programs in health administration, hospital administration, or health policy analysis and planning, prior to the general amendment of this part by Pub. L. 105–392. Another prior section 294i, act July 1, 1944, ch. 373, title VII, § 736, as added Oct. 12, 1976, Pub. L. 94–484, title IV, § 401(b)(3), 90 Stat. 2265; amended Aug. 1, 1977, Pub. L. 95–83, title III, § 307(d), 91 Stat. 390, related to participation by Federal credit unions in Federal, State, and private student loan insurance programs, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 292k of this title. A prior section 759 of act July 1, 1944, was classified to section 294aa of this title prior to the general amendment of this subchapter by Pub. L. 102–408.
@@ -32,6 +34,8 @@ A prior section 294i, act July 1, 1944, ch. 373, title VII, § 771, as added Pub
 ### Amendments
 
 2018—Subsec. (a). Pub. L. 115–271, § 7073(a)(1), substituted “hospices, tribal health programs (as defined in section 1603 of title 25), and other public and nonprofit private entities” for “hospices, and other public and private entities”. Subsec. (b). Pub. L. 115–271, § 7073(a)(2)(A), substituted “entity receiving an award under this section shall develop a comprehensive education and training plan that includes” for “award may be made under subsection (a) only if the applicant for the award agrees that the program carried out with the award will include” in introductory provisions. Subsec. (b)(1). Pub. L. 115–271, § 7073(a)(2)(B), inserted “preventing,” after “diagnosing,” and “non-addictive medical products and non-pharmacologic treatments and” after “including”. Subsec. (b)(2). Pub. L. 115–271, § 7073(a)(2)(C), inserted “Federal, State, and local” after “applicable” and substituted “opioids” for “the degree to which misconceptions and concerns regarding such laws, regulations, rules, and policies, or the enforcement thereof, may create barriers to patient access to appropriate and effective pain care”. Subsec. (b)(3). Pub. L. 115–271, § 7073(a)(2)(D), inserted “, integrated, evidence-based pain management, and, as appropriate, non-pharmacotherapy” before semicolon. Subsec. (b)(5), (6). Pub. L. 115–271, § 7073(a)(2)(E), (F), added pars. (5) and (6) and struck out former par. (5) which read as follows: “recent findings, developments, and improvements in the provision of pain care.” Subsec. (d). Pub. L. 115–271, § 7073(a)(3), inserted “prevention,” after “diagnosis,”. Subsec. (e). Pub. L. 115–271, § 7073(a)(4), substituted “2019 through 2023” for “2010 through 2012”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Emergency Department Alternatives to Opioids Demonstration Program
 

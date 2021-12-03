@@ -16,6 +16,8 @@ section: 608a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Food Stamp Act of 1977, referred to in subsec. (b), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables. The United States Housing Act of 1937, referred to in subsec. (b), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title I of the Act is classified generally to subchapter I (§ 1437 et seq.) of chapter 8 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
@@ -23,6 +25,8 @@ The Food Stamp Act of 1977, referred to in subsec. (b), subsequently renamed the
 ### Codification
 
 Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, and not as part of the Social Security Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

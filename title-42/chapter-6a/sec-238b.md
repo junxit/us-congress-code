@@ -15,6 +15,8 @@ Money collected as provided by law for expenses incurred in the care and treatme
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 300aaa–2 of this title prior to renumbering by Pub. L. 103–43, to section 300cc–2 of this title prior to renumbering by Pub. L. 100–607, to section 300aa–2 of this title prior to renumbering by Pub. L. 99–660, and to section 221 of this title prior to renumbering by Pub. L. 98–24.

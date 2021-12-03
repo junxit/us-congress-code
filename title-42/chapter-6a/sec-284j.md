@@ -16,9 +16,13 @@ section: 284j
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2007—Subsec. (c). Pub. L. 109–482 struck out heading and text of subsec. (c). Text read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out this section for each of the fiscal years 2001 through 2005. Amounts appropriated under this subsection shall be in addition to any other amounts appropriated for such purpose.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2007 Amendment
 

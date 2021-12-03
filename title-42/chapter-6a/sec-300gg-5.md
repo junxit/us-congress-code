@@ -18,6 +18,8 @@ section: 300gg–5
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 218c of title 29, referred to in subsec. (b), was in the original “section 1558 of the Patient Protection and Affordable Care Act”, meaning section 1558 of Pub. L. 111–148, and was translated as meaning section 18C of act June 25, 1938, ch. 676, which was added by section 1558 of Pub. L. 111–148, to reflect the probable intent of Congress.
@@ -25,6 +27,8 @@ Section 218c of title 29, referred to in subsec. (b), was in the original “sec
 ### Prior Provisions
 
 A prior section 300gg–5, act July 1, 1944, ch. 373, title XXVII, § 2705, as added Pub. L. 104–204, title VII, § 703(a), Sept. 26, 1996, 110 Stat. 2947, and amended, which related to parity in mental health and substance use disorder benefits, was renumbered section 2726 of act July 1, 1944, and transferred to section 300gg–26 of this title. A prior section 2706 of act July 1, 1944, was renumbered section 2727 and is classified to section 300gg–27 of this title. Another prior section 2706 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238e of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

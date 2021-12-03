@@ -135,9 +135,13 @@ section: 1395jjj
 
 1 So in original. No par. (2) has been enacted.
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (b)(2)(I). Pub. L. 115–123, § 50341(a)(1), added subpar. (I). Subsec. (c). Pub. L. 115–123, § 50331, designated existing provisions as par. (1), inserted heading, substituted “Subject to paragraph (2), the Secretary” for “The Secretary”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added par. (2). Subsec. (e). Pub. L. 115–123, § 50341(a)(3), inserted “, including an ACO Beneficiary Incentive Program under subsections (b)(2)(I) and (m)” after “the program”. Subsec. (g)(6). Pub. L. 115–123, § 50341(a)(4), inserted “or of an ACO Beneficiary Incentive Program under subsections (b)(2)(I) and (m)” after “under subsection (d)(4)”. Subsec. (l). Pub. L. 115–123, § 50324(a), added subsec. (l). Subsec. (m). Pub. L. 115–123, § 50341(a)(2), added subsec. (m). 2016—Subsec. (c). Pub. L. 114–255 substituted “utilization of—” for “utilization of primary”, inserted par. (1) designation and “in the case of performance years beginning on or after April 1, 2012, primary” before “care services”, and added par. (2). 2010—Subsecs. (i) to (k). Pub. L. 111–148, § 10307, added subsecs. (i) to (k).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Study and Report
 

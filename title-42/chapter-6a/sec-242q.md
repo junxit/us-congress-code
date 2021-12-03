@@ -22,6 +22,8 @@ section: 242q
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 242q–4 of this title, referred to in subsec. (b), was in the original “section 305”, meaning section 305 of Pub. L. 101–557. Section 305 was renumbered section 304 by Pub. L. 109–482, title I, § 104(b)(3)(B), Jan. 15, 2007, 120 Stat. 3694.

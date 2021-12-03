@@ -30,6 +30,8 @@ section: 1395qq
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 1645 of title 25, referred to in subsec. (f), was amended generally by section 10221(a) of title X of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains provisions relating to direct billing of medicare, medicaid, and other third party payors.
@@ -41,6 +43,8 @@ Pub. L. 111–148, § 10221(a), enacted into law S. 1790, One Hundred Eleventh C
 ### Amendments
 
 2010—Subsec. (e)(1)(A). Pub. L. 111–148, § 2902(a), substituted “on or after” for “during the 5-year period beginning on”. 2003—Subsec. (e)(1)(A). Pub. L. 108–173 inserted “(and for items and services furnished during the 5-year period beginning on January 1, 2005, all items and services for which payment may be made under part B)” after “for services described in paragraph (2)”. 2000—Subsec. (e). Pub. L. 106–554, § 1(a)(6) [title IV, § 432(a)(2)], added subsec. (e). Former subsec. (e) redesignated (f). Pub. L. 106–417 added subsec. (e). Subsec. (f). Pub. L. 106–554, § 1(a)(6) [title IV, § 432(a)(1)], redesignated subsec. (e) as (f). 1992—Subsec. (d). Pub. L. 102–573 made technical amendment to the reference to section 1671 of title 25 to reflect renumbering of corresponding section of original act.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

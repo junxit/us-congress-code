@@ -15,6 +15,8 @@ The Surgeon General shall transmit to the Secretary, for submission to the Congr
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 300aaa–8 of this title prior to renumbering by Pub. L. 103–43, to section 300cc–10 of this title prior to renumbering by Pub. L. 100–607, to section 300aa–10 of this title prior to renumbering by Pub. L. 99–660, and to section 229 of this title prior to renumbering by Pub. L. 98–24.
@@ -23,14 +25,22 @@ Section was formerly classified to section 300aaa–8 of this title prior to ren
 
 1995—Pub. L. 104–66 amended section catchline and text generally. Prior to amendment, text read as follows: “The Surgeon General shall transmit to the Secretary, for submission to the Congress at the beginning of each regular session, a full report of the administration of the functions of the Service under this chapter, including a detailed statement of receipts and disbursements.”
 
+### Statutory Notes and Related Subsidiaries
+
+### Change of Name
+
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 ### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 3 on page 101 identifies a reporting provision which, as subsequently amended, is contained in this section), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
-### Transfer of Functions
-
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754. Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 202 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
-
 ### Agency Reporting Requirements; Report by Secretary of Health, Education, and Welfare to Congressional Committees Relating to Requirements, Termination, etc.
 
 Pub. L. 93–641, § 7, Jan. 4, 1975, 88 Stat. 2275, provided that by Jan. 4, 1976, the Secretary of Health, Education, and Welfare report to specific committees of the Senate and the House of Representatives on the identity, due date, etc., of certain reports required under the Public Health Service Act, the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, or the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment and Rehabilitation Act of 1970.
+
+### Executive Documents
+
+### Transfer of Functions
+
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754. Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 202 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.

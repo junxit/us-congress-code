@@ -15,6 +15,8 @@ Appropriations to the Public Health Service available under this chapter for res
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Mental Health Systems Act, referred to in text, is Pub. L. 96–398, Oct. 7, 1980, 94 Stat. 1564, as amended. Title VI of the Mental Health Systems Act is classified generally to subchapter V (§ 9511 et seq.) of chapter 102 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9401 of this title and Tables.
@@ -26,6 +28,8 @@ Section was formerly classified to section 300aaa–4 of this title prior to ren
 ### Amendments
 
 1981—Pub. L. 97–35 struck out provisions relating to appropriations available under Community Mental Health Centers Act for construction, etc. 1980—Pub. L. 96–398 struck out “and” after “drug dependence,” and inserted reference to title VI of the Mental Health Systems Act. 1976—Pub. L. 94–278 substituted “Federal institutions, except that grants to” for “hospitals of the Service, of the Veterans’ Administration, or of the Bureau of Prisons of the Department of Justice, and to Saint Elizabeths Hospital, except grants to such”. 1970—Pub. L. 91–513 inserted references to appropriations available for grants to expand existing treatment and research programs and facilities for alcoholism, narcotic addiction, drug abuse, and drug dependence, and appropriations available under Community Mental Health Centers Act for construction and staffing of community mental health centers and alcoholism and narcotic addiction, drug abuse, and drug dependence facilities, and inserted provision that grants to specified Federal institutions may be funded at 100 per centum of the costs.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1981 Amendment
 

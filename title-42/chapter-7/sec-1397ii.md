@@ -28,6 +28,8 @@ section: 1397ii
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(1), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§ 1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables. The Public Health Service Act, referred to in subsec. (a)(1), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§ 300gg et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables. The Internal Revenue Code of 1986, referred to in subsec. (a)(1), is classified generally to Title 26, Internal Revenue Code. Subtitle K of such Code appears at section 9801 et seq. of Title 26.
@@ -35,6 +37,8 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(
 ### Amendments
 
 2010—Subsec. (b)(2)(B). Pub. L. 111–148 substituted “a high-performing State under section 1397kk(b)(3)(B) of this title” for “the child population growth factor under section 1397dd(m)(5)(B) of this title”. 2009—Subsec. (b)(2). Pub. L. 111–3, § 602(b)(2), added par. (2). Former par. (2) redesignated (4). Pub. L. 111–3, § 602(a), substituted “$20,000,000 for fiscal year 2009” for “$10,000,000 for fiscal year 2000”. Subsec. (b)(3), (4). Pub. L. 111–3, § 602(b), added par. (3) and redesignated former par. (2) as (4). 2007—Subsec. (b)(2). Pub. L. 110–173 inserted before period at end “(except that only with respect to fiscal year 2008, there are appropriated $20,000,000 for the purpose of carrying out this subsection, to remain available until expended)”. 1999—Subsec. (a)(1). Pub. L. 106–113, § 1000(a)(6) [title VII, § 705(c)(1)], substituted “title I” for “title II” before “of the Employee Retirement Income Security Act of 1974,”. Subsec. (a)(2). Pub. L. 106–113, § 1000(a)(6) [title VII, § 705(c)(2)], inserted closing parenthesis before period at end. Subsec. (b). Pub. L. 106–113, § 1000(a)(6) [title VII, § 703(a)], added subsec. (b).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

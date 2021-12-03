@@ -52,6 +52,8 @@ section: 907a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Level V of the Executive Schedule, referred to in subsec. (d)(1), is set out in section 5316 of Title 5, Government Officers and Employees.
@@ -63,6 +65,8 @@ Section was enacted as part of the Social Security Amendments of 1977, and not a
 ### Amendments
 
 1984—Subsec. (i). Pub. L. 98–369 struck out subsec. (i) which provided for notice of and attendance at meetings of the Health Insurance Benefits Advisory Council. 1980—Subsec. (a)(2)(F). Pub. L. 96–265, § 502(a), substituted “a term which shall end on April 1, 1981” for “a term of two years”. Subsec. (c)(2). Pub. L. 96–265, § 502(b), substituted “and the Commission shall cease to exist on April 1, 1981” for “and upon the submission of such final report the Commission shall cease to exist”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1984 Amendment
 

@@ -19,6 +19,8 @@ section: 300ff–27a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part B of title XXVI of the Act is classified generally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
@@ -26,6 +28,8 @@ The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, 
 ### Codification
 
 Section was enacted as part of the Ryan White CARE Act Amendments of 1996, and not as part of the Public Health Service Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

@@ -22,6 +22,8 @@ section: 286a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1993—Subsec. (a)(1)(B). Pub. L. 103–43 substituted “Department of Veterans Affairs” for “Veterans’ Administration”. 1992—Subsec. (a)(1)(B). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.

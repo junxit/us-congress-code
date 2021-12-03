@@ -17,6 +17,8 @@ The Immigration and Naturalization Service may, by agreement of the heads of the
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Subsec. (a) of section 249 of this title, referred to in text, which related to persons entitled to care and treatment without charge, was repealed, and subsec. (c) of section 249 of this title was redesignated as subsec. (a), by Pub. L. 97–35, title IX, § 986(a), (b)(2), Aug. 13, 1981, 95 Stat. 603.
@@ -25,10 +27,18 @@ Subsec. (a) of section 249 of this title, referred to in text, which related to 
 
 Section was formerly classified to section 300aaa–1 of this title prior to renumbering by Pub. L. 103–43, to section 300cc–1 of this title prior to renumbering by Pub. L. 100–607, to section 300aa–1 of this title prior to renumbering by Pub. L. 99–660, and to section 220 of this title prior to renumbering by Pub. L. 98–24.
 
-### Transfer of Functions
+### Statutory Notes and Related Subsidiaries
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by sections 1 and 2 of Reorg. Plan No. 2 of 1950, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, which were repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 662. Immigration and Naturalization Service, referred to in this section, was a bureau in Department of Justice.
+### Change of Name
+
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 ### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+
+### Executive Documents
+
+### Transfer of Functions
+
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by sections 1 and 2 of Reorg. Plan No. 2 of 1950, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, which were repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 662. Immigration and Naturalization Service, referred to in this section, was a bureau in Department of Justice.

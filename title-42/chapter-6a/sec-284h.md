@@ -55,6 +55,8 @@ section: 284h
 
 1 So in original. The word “and” probably should appear at end of subcl. (III).
 
+### Editorial Notes
+
 ### Codification
 
 Another section 409D of act July 1, 1944, was renumbered section 409H and is classified to section 284l of this title.
@@ -62,6 +64,8 @@ Another section 409D of act July 1, 1944, was renumbered section 409H and is cla
 ### Amendments
 
 2016—Subsec. (d)(1). Pub. L. 114–255, § 2071(1), substituted “in collaboration with the national research institutes and national centers that carry out activities involving pediatric research, shall support” for “in consultation with the Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development and in collaboration with other appropriate national research institutes and national centers that carry out activities involving pediatric research, may provide for the establishment of” in introductory provisions. Subsec. (d)(2)(A), (E). Pub. L. 114–255, § 2071(2), substituted “shall” for “may” in introductory provisions of par. (2)(A) and in first sentence of par. (2)(E). 2013—Subsecs. (d) to (f). Pub. L. 113–55 added subsecs. (d) and (e) and redesignated former subsec. (d) as (f). 2007—Subsec. (c)(1). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”. Subsecs. (d), (e). Pub. L. 109–482 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2007 Amendment
 

@@ -51,6 +51,8 @@ section: 290ee–5
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Another section 550 of act July 1, 1944, is classified to section 290ee–10 of this title.

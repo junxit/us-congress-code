@@ -48,6 +48,8 @@ section: 300hh–10b
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 300hh–10a of this title.

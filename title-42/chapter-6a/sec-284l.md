@@ -45,9 +45,13 @@ section: 284l
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2007—Subsec. (a)(3). Pub. L. 109–482, § 103(b)(13)(A), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.” Subsec. (b)(3). Pub. L. 109–482, § 103(b)(13)(B), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.” Subsec. (c)(5). Pub. L. 109–482, § 103(b)(13)(C), struck out heading and text of par. (5). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.” Subsec. (d)(4). Pub. L. 109–482, § 103(b)(13)(D), struck out heading and text of par. (4). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2007 Amendment
 

@@ -27,6 +27,8 @@ section: 292y
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 735 of act July 1, 1944, was classified to section 294h of this title prior to the general revision of this subchapter by Pub. L. 102–408.
@@ -34,6 +36,8 @@ A prior section 735 of act July 1, 1944, was classified to section 294h of this 
 ### Amendments
 
 1998—Subsec. (e)(2). Pub. L. 105–392 reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “Amounts described in paragraph (1) that are returned to the Secretary before the fourth quarter of a fiscal year shall be obligated before the end of such fiscal year, and may not be obligated before the fourth quarter. For purposes of the preceding sentence, amounts returned to the Secretary during the last quarter of a fiscal year are deemed to have been returned during the first three quarters of the succeeding fiscal year.” 1993—Subsec. (f). Pub. L. 103–43 added subsec. (f). 1992—Subsec. (b). Pub. L. 102–531 inserted designations for cls. (A) and (B) in first sentence.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1992 Amendment
 

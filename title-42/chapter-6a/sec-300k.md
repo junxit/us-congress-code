@@ -31,6 +31,8 @@ section: 300k
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Act is classified generally to part B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -42,6 +44,8 @@ A prior section 300k, Pub. L. 93–641, § 2, Jan. 4, 1975, 88 Stat. 2226, set f
 ### Amendments
 
 2007—Subsec. (d). Pub. L. 110–18 substituted “2020” for “2000” in heading and “by the year 2020” for “by the year 2000” in text. 1998—Subsec. (a)(2). Pub. L. 105–340, § 203(a), inserted “and support services such as case management” before semicolon at end. Subsec. (b)(1). Pub. L. 105–340, § 203(b)(1), substituted “through grants to public and nonprofit private entities and through contracts with public and private entities.” for “through grants to, and contracts with, public or nonprofit private entities.” Subsec. (b)(2). Pub. L. 105–340, § 203(b)(2), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In addition to the authority established in paragraph (1) for a State with respect to grants and contracts, the State may provide for screenings under subsection (a)(1) of this section through entering into contracts with private entities that are not nonprofit entities.” Subsecs. (c), (d). Pub. L. 105–392 redesignated subsec. (c), relating to coordinating committee regarding year 2000 health objectives, as (d). 1993—Subsec. (a). Pub. L. 103–183, § 101(g)(1), substituted “Control and Prevention” for “Control” in introductory provisions. Subsec. (b). Pub. L. 103–183, § 101(a), substituted “paragraphs (2) and (3)” for “paragraph (2)” in par. (1), added pars. (2) and (3), and struck out heading and text of former par. (2). Text read as follows: “In addition to the authority established in paragraph (1) for a State with respect to grants and contracts, the State may provide for screenings under subsection (a)(1) of this section through entering into contracts with private entities. The amount paid by a State to a private entity under the preceding sentence for a screening procedure may not exceed the amount that would be paid under part B of title XVIII of the Social Security Act if payment were made under such part for furnishing the procedure to a woman enrolled under such part.” Pub. L. 103–43, § 2008(c)(1), designated existing provisions as par. (1), inserted par. heading, substituted “may, subject to paragraph (2), expend” for “may expend”, and added par. (2). Subsec. (c). Pub. L. 103–183, § 101(f), added subsec. (c) relating to coordinating committee regarding year 2000 health objectives. Pub. L. 103–183, § 101(b), added subsec. (c) relating to special consideration for certain States.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1998 Amendment
 

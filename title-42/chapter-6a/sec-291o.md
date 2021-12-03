@@ -41,6 +41,8 @@ For the purposes of this subchapter—
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 291o, act July 1, 1944, ch. 373, title VI, § 641, as added July 12, 1954, ch. 471, § 2, 68 Stat. 461, related to a declaration of purpose with respect to diagnostic or treatment centers, chronic disease hospitals, rehabilitation facilities, and nursing homes, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291 of this title. Provisions similar to those comprising this section were contained in section 291i(d) to (o), act July 1, 1944, ch. 373, title VI, § 631, as added Aug. 13, 1946, ch. 958, § 2, 60 Stat. 1041; amended June 19, 1948, ch. 544, § 1(b), 62 Stat. 531; Oct. 25, 1949, ch. 722, § 9, 63 Stat. 901; July 12, 1954, ch. 471, § 4(c) to (f), 68 Stat. 465, 466; Aug. 1, 1956, ch. 852, § 19(b), 70 Stat. 911; June 25, 1959, Pub. L. 86–70, § 31(c), 73 Stat. 149; July 12, 1960, Pub. L. 86–624, § 29(d), 74 Stat. 419; Oct. 5, 1961, Pub. L. 87–395, § 5, 75 Stat. 826; Sept. 25, 1962, Pub. L. 87–688, § 4(a)(2), 76 Stat. 587, prior to the general amendment of this subchapter by Pub. L. 88–443.
@@ -48,6 +50,12 @@ A prior section 291o, act July 1, 1944, ch. 373, title VI, § 641, as added July
 ### Amendments
 
 1970—Subsec. (a). Pub. L. 91–296, § 119(d), inserted reference to Trust Territory of the Pacific Islands. Subsec. (b). Pub. L. 91–296, § 113, provided that Federal share of any project be in such amount, not in excess of two-thirds, as the State agency determined and authorized a higher Federal share of up to 90 per centum, in case of rural or urban poverty projects, and facilities which might reduce health costs through shared services, interfacility cooperation, and free-standing ambulatory care centers. Subsec. (c). Pub. L. 91–296, § 114(a), inserted references to extended care facilities, facilities related to programs for home health services, and self-care units operated in connection with hospitals and education or training facilities for health professions personnel operated as an integral part of a hospital. Subsec. (f). Pub. L. 91–296, § 116(f), substituted “outpatient facility” for “diagnostic or treatment center”, inserted “(located in or apart from a hospital)” after “means at facility”, inserted “(including ambulatory inpatients)” after “ambulatory patients”, and added par. (3). Subsec. (h). Pub. L. 91–296, § 117, inserted “(including an extended care facility)” after “means a facility”. Subsec. (i). Pub. L. 91–296, § 118, inserted reference to equipment of any buildings in cases in which such equipment will help to provide a service not previously provided in the community. 1964—Subsec. (c). Pub. L. 88–581 substituted “nurses’ home facilities” for “nurses’ home and training facilities”.
+
+### Statutory Notes and Related Subsidiaries
+
+### Change of Name
+
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 ### Effective Date of 1970 Amendment
 
@@ -57,9 +65,11 @@ Pub. L. 91–296, title I, § 113, June 30, 1970, 84 Stat. 340, provided that th
 
 Amendment by Pub. L. 88–581 effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965, see section 3(b) of Pub. L. 88–581, set out as a note under section 291c of this title.
 
+### Executive Documents
+
 ### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 ### Termination of Trust Territory of the Pacific Islands
 

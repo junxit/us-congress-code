@@ -21,6 +21,8 @@ section: 280b–1d
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 393C of act July 1, 1944, was renumbered section 393A and is classified to section 280b–1b of this title.

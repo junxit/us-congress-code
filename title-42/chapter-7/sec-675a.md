@@ -62,9 +62,13 @@ section: 675a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (c). Pub. L. 115–123 added subsec. (c). 2014—Subsec. (b). Pub. L. 113–183, § 113(d), added subsec. (b).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2018 Amendment
 

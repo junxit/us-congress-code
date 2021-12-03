@@ -67,6 +67,8 @@ section: 294a
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 294a, act July 1, 1944, ch. 373, title VII, § 762, as added Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 2046, authorized grants and contracts for public health special projects, prior to the general amendment of this part by Pub. L. 105–392. Another prior section 294a, act July 1, 1944, ch. 373, title VII, § 728, as added Oct. 12, 1976, Pub. L. 94–484, title IV, § 401(b)(3), 90 Stat. 2257; amended Dec. 19, 1977, Pub. L. 95–215, § 4(e)(2)–(4), 91 Stat. 1506; Dec. 17, 1980, Pub. L. 96–538, title IV, § 401, 94 Stat. 3192; Aug. 13, 1981, Pub. L. 97–35, title XXVII, § 2726, 95 Stat. 916; Oct. 22, 1985, Pub. L. 99–129, title I, § 101, title II, § 208(h), 99 Stat. 523, 532; Nov. 4, 1988, Pub. L. 100–607, title VI, §§ 602(a)–(d), 636, title VII, § 707, 102 Stat. 3122, 3149, 3159; Nov. 18, 1988, Pub. L. 100–690, title II, § 2615(b), 102 Stat. 4239; Aug. 16, 1989, Pub. L. 101–93, § 5(g)(1), 103 Stat. 612, related to Federal student loan insurance program, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 292a of this title. Another prior section 294a, act July 1, 1944, ch. 373, title VII, § 741, as added Sept. 24, 1963, Pub. L. 88–129, § 2(b), 77 Stat. 171; amended Oct. 13, 1964, Pub. L. 88–654, § 1(c), (d), 78 Stat. 1086; Oct. 22, 1965, Pub. L. 89–290, § 4(b), (f)(3), (4), (g)(1), 79 Stat. 1057, 1058; Nov. 2, 1966, Pub. L. 89–709, § 3(c), (d), 80 Stat. 1103; Nov. 3, 1966, Pub. L. 89–751, § 4, 80 Stat. 1230; Aug. 16, 1968, Pub. L. 90–490, title I, § 121(a)(3), (4), (5)(A), 82 Stat. 777; Nov. 18, 1971, Pub. L. 92–157, title I, § 105(b)–(d), (e)(4), (f)(2), 85 Stat. 449–451; Oct. 27, 1972, Pub. L. 92–585, § 4, 86 Stat. 1293; Oct. 12, 1976, Pub. L. 94–484, title IV, §§ 403(a), (b), (d), 407(d)(1), 90 Stat. 2266, 2279, which related to loan provisions, was transferred to section 294n of this title. A prior section 751 of act July 1, 1944, was classified to section 293o of this title prior to repeal by Pub. L. 105–392. Another prior section 751 of act July 1, 1944, was classified to section 294r of this title prior to the general amendment of this subchapter by Pub. L. 102–408. Another prior section 751 of act July 1, 1944, was classified to section 294t of this title prior to renumbering by Pub. L. 97–35.
@@ -74,6 +76,8 @@ A prior section 294a, act July 1, 1944, ch. 373, title VII, § 762, as added Pub
 ### Amendments
 
 2020—Subsec. (j)(1). Pub. L. 116–136 substituted “$41,250,000 for each of fiscal years 2021 through 2025” for “$125,000,000 for each of the fiscal years 2010 through 2014”. 2014—Subsec. (c)(1)(A). Pub. L. 113–128 substituted “the applicable one-stop delivery system under section 3151(e) of title 29,” for “the applicable one-stop delivery system under section 2864(c) of title 29,”. 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) which related to authority for provision of financial assistance, requirements for centers, and allocations and costs.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2014 Amendment
 

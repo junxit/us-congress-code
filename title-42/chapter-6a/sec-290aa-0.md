@@ -54,6 +54,8 @@ section: 290aa–0
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (b)(6), (7). Pub. L. 115–271 added par. (6) and redesignated former par. (6) as (7).

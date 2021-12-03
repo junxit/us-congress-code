@@ -52,6 +52,8 @@ section: 300h
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 300j–6(b) of this title, referred to in subsec. (b)(1)(D), was repealed, and a new section 300j–6(b) relating to administrative penalty orders was added, by Pub. L. 104–182, title I, § 129(a), Aug. 6, 1996, 110 Stat. 1660.

@@ -80,6 +80,8 @@ section: 629e
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 435 of act Aug. 14, 1935, was classified to section 635 of this title prior to repeal by Pub. L. 100–485.
@@ -87,6 +89,8 @@ A prior section 435 of act Aug. 14, 1935, was classified to section 635 of this 
 ### Amendments
 
 2018—Subsec. (e). Pub. L. 115–271 added subsec. (e). 2006—Subsec. (c). Pub. L. 109–288, § 4(c), amended heading and text of subsec. (c) generally. Prior to amendment, subsec. (c) related to topics for research and evaluation. Subsec. (d). Pub. L. 109–288, § 5(b)(3)(C), inserted “or tribal consortia” after “Indian tribes” in introductory provisions. 2002—Pub. L. 107–133, § 105(1), substituted “Evaluations; research; technical assistance” for “Evaluations” in section catchline. Subsec. (a)(1). Pub. L. 107–133, § 105(1), substituted “The Secretary shall evaluate and report to the Congress biennially on” for “The Secretary shall evaluate”. Subsec. (a)(3). Pub. L. 107–133, § 105(2), added par. (3). Subsecs. (c), (d). Pub. L. 107–133, § 105(3), added subsecs. (c) and (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2006 Amendment
 

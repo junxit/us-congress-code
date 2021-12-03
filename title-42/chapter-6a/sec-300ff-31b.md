@@ -20,9 +20,13 @@ section: 300ff–31b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2009—Pub. L. 111–87, § 2(a)(1), (3)(A), repealed Pub. L. 109–415, § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below. Subsec. (a). Pub. L. 111–87, § 2(c), substituted “$1,285,200,000 for fiscal year 2009, $1,349,460,000 for fiscal year 2010, $1,416,933,000 for fiscal year 2011, $1,487,780,000 for fiscal year 2012, and $1,562,169,000 for fiscal year 2013” for “and $1,285,200,000 for fiscal year 2009”. Subsec. (b)(2)(A). Pub. L. 111–87, § 5(c)(3), substituted “300ff–28(a)(2)(F)” for “300ff–28(a)(2)(G)”. 2006—Pub. L. 109–415, § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, § 2(a)(1), effective Sept. 30, 2009.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2009 Amendment; Revival of Section
 

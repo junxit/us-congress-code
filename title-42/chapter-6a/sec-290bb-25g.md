@@ -36,6 +36,8 @@ section: 290bb–25g
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2016, and not as part of the Public Health Service Act which comprises this chapter.
@@ -43,6 +45,8 @@ Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2
 ### Amendments
 
 2018—Subsec. (a). Pub. L. 115–271, § 7161(b)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Health and Human Services, in coordination with the heads of other departments and agencies, shall, as appropriate, through existing programs and activities, advance the education and awareness of the public (including providers, patients, and consumers) and other appropriate entities regarding the risk of abuse of prescription opioids if such drugs are not taken as prescribed.” Subsec. (b)(1). Pub. L. 115–271, § 7161(b)(2)(A), substituted “opioid misuse and abuse” for “opioid abuse”. Subsec. (b)(2). Pub. L. 115–271, § 7161(b)(2), substituted “opioid misuse and abuse” for “opioid abuse” and “non-addictive treatment options, safe disposal options for prescription medications, and other applicable” for “safe disposal of prescription medications and other”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Information Materials and Resources To Prevent Addiction Related to Youth Sports Injuries
 

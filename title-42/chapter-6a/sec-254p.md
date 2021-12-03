@@ -27,6 +27,8 @@ section: 254p
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 294x of this title prior to renumbering by Pub. L. 97–35.
@@ -38,6 +40,8 @@ A prior section 338G of act July 1, 1944, was renumbered section 338H by Pub. L.
 ### Amendments
 
 1990—Subsec. (a)(1). Pub. L. 101–597, § 401(b)[(a)], substituted reference to health professional shortage area for reference to health manpower shortage area. 1987—Subsec. (a). Pub. L. 100–177, § 309(1), substituted subsec. (a) consisting of pars. (1) to (3) for former subsec. (a) consisting of pars. (1) and (2). Subsec. (b). Pub. L. 100–177, § 309(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “The amount of the grant or loan under subsection (a) of this section to an individual shall be— “(1) $12,500 if the individual agrees to practice his profession in accordance with the agreement for a period of at least one year, but less than two years; or “(2) $25,000 if the individual agrees to practice his profession in accordance with the agreement for a period of at least two years.” Subsec. (c). Pub. L. 100–177, § 309(2), struck out “grant or” before “loan” in first sentence. Subsec. (d)(1). Pub. L. 100–177, § 309(3), substituted “under this section (as in effect prior to October 1, 1984)” for “under this section”, and made technical amendment to reference to section 254o(b) of this title to reflect renumbering of corresponding section of original act. 1983—Subsec. (d)(1). Pub. L. 97–414 substituted “section 254o(b)” for “section 254o(c)”. 1981—Subsec. (a). Pub. L. 97–35, § 2709(f)(2)–(4), made numerous changes to reflect renumbering of subpart sections, among them inserting references to section 254k of this title and striking out references to section 294v of this title, and added applicability to loans. Subsec. (b). Pub. L. 97–35, § 2709(f)(5), inserted applicability to loans. Subsec. (c). Pub. L. 97–35, § 2709(f)(6), inserted provisions relating to loans and interest rates, etc. Subsec. (d). Pub. L. 97–35, § 2709(f)(7), restructured and revised criteria determining amount of liability of individual within 60 days after the date of notice instead of within 120 days after the date of notice.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

@@ -42,6 +42,8 @@ section: 1395hhh
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (c)(3)(A), is classified generally to Title 26, Internal Revenue Code. The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part D of title IV of the Act is classified generally to part D (§ 1087a et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
@@ -49,6 +51,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (c)(3)(A), is classifi
 ### Amendments
 
 2005—Subsec. (c)(2). Pub. L. 109–13, § 6045(a)(1)(A), inserted “or an entity described in paragraph (3)” after “means a hospital” in introductory provisions. Subsec. (c)(2)(B). Pub. L. 109–13, § 6045(a)(1)(B), inserted “legislature” after “designated by the State” and “and such designation by the State legislature occurred prior to December 8, 2003” before period at end. Subsec. (c)(3). Pub. L. 109–13, § 6045(a)(2), added par. (3). Subsec. (i). Pub. L. 109–13, § 6045(b), added subsec. (i).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2005 Amendment
 

@@ -24,9 +24,13 @@ section: 284p
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Christopher and Dana Reeve Paralysis Act, and also as part of the Omnibus Public Land Management Act of 2009, and not as part of the Public Health Service Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definition of “Director”
 

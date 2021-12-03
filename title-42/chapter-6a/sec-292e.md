@@ -28,6 +28,8 @@ section: 292e
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 292e, act July 1, 1944, ch. 373, title VII, § 705, as added Oct. 12, 1976, Pub. L. 94–484, title II, § 204, 90 Stat. 2248; amended Nov. 9, 1978, Pub. L. 95–623, § 11(f), 92 Stat. 3456; Aug. 13, 1981, Pub. L. 97–35, title XXVII, § 2718, 95 Stat. 914, related to establishment and maintenance of records and annual financial reports and audits, prior to the general revision of this subchapter by Pub. L. 102–408. Another prior section 292e, act July 1, 1944, ch. 373, title VII, § 706, as added July 30, 1956, 779, § 2, 70 Stat. 719; amended Oct. 5, 1961, Pub. L. 87–395, § 8(c), (d), 75 Stat. 827; Sept. 24, 1963, Pub. L. 88–129, § 2(a), 77 Stat. 164; Aug. 16, 1968, Pub. L. 90–490, title IV, § 402, 82 Stat. 789; Nov. 18, 1971, Pub. L. 92–157, title I, § 102(k)(2)(A), (B), 85 Stat. 437, limited amount of grant available for construction of health research facilities, including provisions relating to its maximum, reservation of amount, manner of payment, and exclusion of amounts granted by certain other funds, prior to repeal by Pub. L. 94–484, title II, § 201(a), Oct. 12, 1976, 90 Stat. 2246. A prior section 706 of act July 1, 1944, was classified to section 292f of this title prior to the general revision of this subchapter by Pub. L. 102–408. Another prior section 706 of act July 1, 1944, was classified to section 230 of this title prior to repeal by act Apr. 27, 1956, ch. 211, § 5(e), 70 Stat. 117.

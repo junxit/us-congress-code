@@ -21,13 +21,19 @@ section: 289g
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1993—Subsec. (c). Pub. L. 103–43 struck out subsec. (c) which directed Biomedical Ethics Advisory Committee to conduct a study of the nature, advisability, and biomedical and ethical implications of exercising any waiver of the risk standard published in section 46.102(g) of part 46 of title 45 of the Code of Federal Regulations and to report its finding to the Biomedical Ethics Board not later than 24 months after Nov. 4, 1988, which report was to be then transmitted to specified Congressional committees. 1988—Subsec. (c)(1). Pub. L. 100–607, § 157(b), substituted “24 months after November 4, 1988” for “thirty months after November 20, 1985”. Subsec. (c)(2). Pub. L. 100–607, § 156(1), substituted “24-month period beginning on November 4, 1988” for “thirty-six month period beginning on November 20, 1985”. Subsec. (c)(3). Pub. L. 100–607, § 156(2), substituted “1990” for “1988”.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Nullification of Certain Provisions
 
 Pub. L. 103–43, title I, § 121(c), June 10, 1993, 107 Stat. 133, provided that: “The provisions of Executive Order 12806 (57 Fed. Reg. 21589 (May 21, 1992)) [formerly set out below] shall not have any legal effect. The provisions of section 204(d) of part 46 of title 45 of the Code of Federal Regulations (45 CFR 46.204(d)) shall not have any legal effect.”
+
+### Executive Documents
 
 ### Executive Order No. 12806. Establishment of Fetal Tissue Bank
 

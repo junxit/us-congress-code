@@ -84,6 +84,8 @@ section: 247d–6a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Project BioShield Act of 2004, referred to in subsec. (b)(1)(D), is Pub. L. 108–276, July 21, 2004, 118 Stat. 835. For complete classification of this Act to the Code, see Short Title of 2004 Amendments note set out under section 201 of this title and Tables. The Federal Tort Claims Act, referred to in subsec. (d)(2), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
@@ -95,6 +97,8 @@ In subsec. (b)(1)(A), “section 134 of title 41” substituted for “section 4
 ### Amendments
 
 2019—Subsec. (a)(1), (5). Pub. L. 116–22 substituted “section 247d–6(e) of this title” for “section 247d–6(h) of this title”. 2013—Subsec. (a)(2)(A). Pub. L. 113–5 struck out “to” before dash at end of introductory provisions, inserted “to” before “diagnose” in cls. (i) and (ii), and added cl. (iii). 2006—Subsec. (a)(2). Pub. L. 109–417 added par. (2) and struck out heading and text of former par. (2). Text read as follows: “For purposes of this section, the term ‘qualified countermeasure’ means a drug (as that term is defined by section 321(g)(1) of title 21), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined by section 321(h) of title 21) that the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6) to— “(A) treat, identify, or prevent harm from any biological, chemical, radiological, or nuclear agent that may cause a public health emergency affecting national security; or “(B) treat, identify, or prevent harm from a condition that may result in adverse health consequences or death and may be caused by administering a drug, biological product, or device that is used as described in subparagraph (A).”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Rule of Construction
 

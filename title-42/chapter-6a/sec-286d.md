@@ -18,9 +18,13 @@ section: 286d
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1999—Subsec. (d). Pub. L. 106–129 substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator for Health Care Policy and Research”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Construction
 

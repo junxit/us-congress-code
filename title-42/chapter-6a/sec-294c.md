@@ -68,6 +68,8 @@ section: 294c
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 294c, act July 1, 1944, ch. 373, title VII, § 765, as added Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 2047, authorized appropriations for purpose of carrying out subpart I of this part, prior to the general amendment of this part by Pub. L. 105–392. Another prior section 294c, act July 1, 1944, ch. 373, title VII, § 730, as added Oct. 12, 1976, Pub. L. 94–484, title IV, § 401(b)(3), 90 Stat. 2258, related to sources of funds for eligible student loans, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 292c of this title. Another prior section 294c, act July 1, 1944, ch. 373, title VII, § 743, as added Sept. 24, 1963, Pub. L. 88–129, § 2(b), 77 Stat. 172; amended Oct. 22, 1965, Pub. L. 89–290, § 4(d), 79 Stat. 1057; Nov. 3, 1966, Pub. L. 89–751, § 5(c)(2), (3), 80 Stat. 1233; Aug. 16, 1968, Pub. L. 90–490, title I, § 121(c), 82 Stat. 778; July 9, 1971, Pub. L. 92–52, § 1(b), 85 Stat. 144; Nov. 18, 1971, Pub. L. 92–157, title I, § 105(e)(2), (f)(2), 85 Stat. 451; Oct. 12, 1976, Pub. L. 94–484, title IV, §§ 405, 406(e), 90 Stat. 2267, 2268, which related to the distribution of assets from loan funds, was transferred to section 294p of this title.
@@ -75,6 +77,8 @@ A prior section 294c, act July 1, 1944, ch. 373, title VII, § 765, as added Pub
 ### Amendments
 
 2020—Pub. L. 116–136 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) which related to geriatric education centers, geriatric training regarding physicians and dentists, geriatric faculty fellowships, geriatric workforce development, and geriatric career incentive awards, respectively. Subsec. (a)(7)(B). Pub. L. 116–260, in introductory provisions, substituted “Coronavirus Aid, Relief, and Economic Security Act” for “Title VII Health Care Workforce Reauthorization Act of 2019” in the original, and accordingly, “the date of enactment of the Coronavirus Aid, Relief, and Economic Security Act” was translated to “March 27, 2020”. The Coronavirus Aid, Relief, and Economic Security Act, Pub. L. 116–136, was approved Mar. 27, 2020. 2010—Subsec. (b)(2)(E). Pub. L. 111–256 substituted “elderly individuals with intellectual disabilities” for “elderly mentally retarded individuals”. Subsec. (c)(2) to (4). Pub. L. 111–148, § 5305(b)(2), added pars. (2) to (4) and struck out former pars. (2) and (3) which described eligible individuals and limitations for Geriatric Academic Career Awards. Former par. (4) redesignated (5). Subsec. (c)(5). Pub. L. 111–148, § 5305(b)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6). Subsec. (c)(5)(A). Pub. L. 111–148, § 5305(b)(3)(A), inserted “for individuals who are physicians” before “shall equal” and inserted at end “The Secretary shall determine the amount of an Award under this section for individuals who are not physicians.” Subsec. (c)(5)(C). Pub. L. 111–148, § 5305(b)(3)(B), added subpar. (C). Subsec. (c)(6). Pub. L. 111–148, § 5305(b)(1), redesignated par. (5) as (6). Subsecs. (d), (e). Pub. L. 111–148, § 5305(a), added subsecs. (d) and (e). 2002—Subsec. (a)(1). Pub. L. 107–205 substituted “, and section 296(2) of this title,” for “, and section 298b(2) of this title,”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2020 Amendment
 

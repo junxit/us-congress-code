@@ -44,6 +44,8 @@ section: 295k
 
 2 So in original. No subsec. (f) has been enacted.
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 792 of act July 1, 1944, was classified to section 295h–1b of this title prior to the general amendment of this subchapter by Pub. L. 102–408. Another prior section 792 of act July 1, 1944, was classified to section 295h–1 of this title prior to repeal by Pub. L. 97–35.
@@ -51,6 +53,8 @@ A prior section 792 of act July 1, 1944, was classified to section 295h–1b of 
 ### Amendments
 
 1998—Subsec. (a). Pub. L. 105–392 inserted “professional counselors,” after “clinical psychologists,”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Study Regarding Shortages of Licensed Pharmacists
 

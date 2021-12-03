@@ -31,6 +31,8 @@ section: 300cc–1
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 300cc of this title, referred to in subsec. (d), was repealed by Pub. L. 109–482, title I, § 104(b)(2)(C), Jan. 15, 2007, 120 Stat. 3693.
@@ -38,6 +40,8 @@ Section 300cc of this title, referred to in subsec. (d), was repealed by Pub. L.
 ### Prior Provisions
 
 A prior section 300cc–1, act July 1, 1944, § 2302, was successively renumbered by subsequent acts and transferred, see section 238a of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 
@@ -54,6 +58,8 @@ Pub. L. 104–146, § 11, May 20, 1996, 110 Stat. 1373, provided that: “Notwit
 ### Vaccines for Human Immunodeficiency Virus
 
 Pub. L. 103–43, title XIX, § 1901(b), June 10, 1993, 107 Stat. 200, provided that: “(1) In general.—The Secretary of Health and Human Services, acting through the National Institutes of Health, shall develop a plan for the appropriate inclusion of HIV-infected women, including pregnant women, HIV-infected infants, and HIV-infected children in studies conducted by or through the National Institutes of Health concerning the safety and efficacy of HIV vaccines for the treatment and prevention of HIV infection. Such plan shall ensure the full participation of other Federal agencies currently conducting HIV vaccine studies and require that such studies conform fully to the requirements of part 46 of title 45, Code of Federal Regulations. “(2) Report.—Not later than 180 days after the date of the enactment of this Act [June 10, 1993], the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate, a report concerning the plan developed under paragraph (1). “(3) Implementation.—Not later than 12 months after the date of the enactment of this Act, the Secretary of Health and Human Services shall implement the plan developed under paragraph (1), including measures for the full participation of other Federal agencies currently conducting HIV vaccine studies. “(4) Authorization of appropriations.—For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 1996.”
+
+### Executive Documents
 
 ### Ex. Ord. No. 12963. Presidential Advisory Council on HIV/AIDS
 

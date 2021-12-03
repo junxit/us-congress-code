@@ -46,6 +46,8 @@ section: 299c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (j), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5.

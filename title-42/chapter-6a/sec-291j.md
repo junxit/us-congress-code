@@ -23,6 +23,8 @@ section: 291j
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 291i of this title, referred to in subsec. (c)(3), was amended generally by Pub. L. 98–369, div. B, title III, § 2381(a), July 18, 1984, 98 Stat. 1112, and, as so amended, the provisions contained in former cls. (a) and (b) of section 291i are covered by section 291i(a)(1) and (2).
@@ -31,6 +33,14 @@ Section 291i of this title, referred to in subsec. (c)(3), was amended generally
 
 A prior section 291j, act July 1, 1944, ch. 373, title VI, § 632, as added Aug. 13, 1946, ch. 958, § 2, 60 Stat. 1041; amended June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Oct. 25, 1949, ch. 722, § 4, 63 Stat. 900; July 12, 1954, ch. 471, § 4(g), 68 Stat. 466; Aug. 28, 1958, Pub. L. 85–791, § 27, 72 Stat. 950, related to withholding of certification for noncompliance with requirements, appeal, conclusiveness of findings, the jurisdiction of the courts of appeals and to review by the Supreme Court, prior to the general amendment of this subchapter by Pub. L. 88–443. See sections 291g and 291h of this title. Provisions similar to those comprising this section were contained in sections 291w to 291z of this title, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
+### Statutory Notes and Related Subsidiaries
+
+### Change of Name
+
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+### Executive Documents
+
 ### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.

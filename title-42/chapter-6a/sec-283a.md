@@ -18,9 +18,13 @@ section: 283a
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 403A of act July 1, 1944, was renumbered section 403D and is classified to section 283a–3 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

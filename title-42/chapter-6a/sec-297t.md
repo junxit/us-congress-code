@@ -40,6 +40,8 @@ section: 297t
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -56,10 +58,12 @@ A prior section 851 of act July 1, 1944, was renumbered section 861 and classifi
 
 2020—Subsec. (b)(1)(A)(iv). Pub. L. 116–136, § 3404(a)(11)(A), substituted “nurse anesthetists, and clinical nurse specialists” for “and nurse anesthetists”. Subsec. (d)(3). Pub. L. 116–260 substituted “Coronavirus Aid, Relief, and Economic Security Act” for “Title VIII Nursing Reauthorization Act” in the original, and accordingly, “the date of enactment of the Coronavirus Aid, Relief, and Economic Security Act” was translated to “March 27, 2020”. The Coronavirus Aid, Relief, and Economic Security Act, Pub. L. 116–136, was approved Mar. 27, 2020. Pub. L. 116–136, § 3404(a)(11)(B), substituted “2 years after the date of enactment of the Title VIII Nursing Reauthorization Act” for “3 years after November 13, 1998” and “Health, Education, Labor, and Pensions” for “Labor and Human Resources” and inserted “Energy and” before “Commerce”. Subsec. (g). Pub. L. 116–136, § 3404(a)(11)(C), substituted “for carrying out parts B, C, and D” for “under this subchapter”.
 
-### Termination of Advisory Committees
-
-Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 effective as if included in the enactment of Pub. L. 116–136, see section 331(d) of div. BB of Pub. L. 116–260, set out as a note under section 294c of this title.
+
+### Termination of Advisory Committees
+
+Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.

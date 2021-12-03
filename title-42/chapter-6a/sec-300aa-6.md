@@ -16,6 +16,8 @@ section: 300aa–6
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 300aa–6, act July 1, 1944, § 2107, was successively renumbered by subsequent acts and transferred, see section 238d of this title. A prior section 2106 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238c of this title. Prior sections 300aa–7 to 300aa–9, act July 1, 1944, §§ 2108–2110, respectively, were successively renumbered by subsequent acts and transferred, see sections 238e to 238g, respectively, of this title.

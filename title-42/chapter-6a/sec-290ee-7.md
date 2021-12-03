@@ -60,6 +60,8 @@ section: 290ee–7
 
 1 So in original.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 2 of the Expanding Capacity for Health Outcomes Act, referred to in subsec. (f), is section 2 of Pub. L. 114–270, Dec. 14, 2016, 130 Stat. 1395, which is not classified to the Code. The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(1)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.

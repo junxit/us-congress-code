@@ -36,6 +36,8 @@ section: 289b
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 June 10, 1993, referred to in subsec. (a)(1), was in the original “the date of enactment of this section” which was translated as meaning the date of enactment of Pub. L. 103–43, which amended this section generally, to reflect the probable intent of Congress.
@@ -43,6 +45,8 @@ June 10, 1993, referred to in subsec. (a)(1), was in the original “the date of
 ### Amendments
 
 1993—Pub. L. 103–43, § 161, amended section generally. Prior to amendment, section read as follows: “(a) The Secretary shall by regulation require that each entity which applies for a grant, contract, or cooperative agreement under this chapter for any project or program which involves the conduct of biomedical or behavioral research submit in or with its application for such grant, contract, or cooperative agreement assurances satisfactory to the Secretary that such entity— “(1) has established (in accordance with regulations which the Secretary shall prescribe) an administrative process to review reports of scientific fraud in connection with biomedical and behavioral research conducted at or sponsored by such entity; and “(2) will report to the Secretary any investigation of alleged scientific fraud which appears substantial. “(b) The Director of NIH shall establish a process for the prompt and appropriate response to information provided the Director of NIH respecting scientific fraud in connection with projects for which funds have been made available under this chapter. The process shall include procedures for the receiving of reports of such information from recipients of funds under this chapter and taking appropriate action with respect to such fraud.” Subsec. (e). Pub. L. 103–43, § 163, added subsec. (e).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Regulations
 

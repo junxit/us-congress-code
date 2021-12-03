@@ -29,6 +29,8 @@ section: 280k
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 1603(c) of title 25, referred to in subsec. (b)(1), which defines “Indians”, was redesignated section 1603(13) of title 25 by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.

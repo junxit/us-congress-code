@@ -27,6 +27,8 @@ section: 238l
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Community Mental Health Centers Act, referred to in subsec. (a), is title II of Pub. L. 88–164, as added by Pub. L. 94–63, title III, § 303, July 29, 1975, 89 Stat. 309, and amended, which was classified principally to subchapter III (§ 2689 et seq.) of chapter 33 of this title prior to its repeal by Pub. L. 97–35, title IX, § 902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560. Section 222 of the Community Mental Health Centers Act was classified to section 2689j of this title prior to its repeal.
@@ -38,6 +40,8 @@ Section was classified to section 300aaa–12 of this title prior to renumbering
 ### Amendments
 
 1991—Subsec. (d). Pub. L. 102–229 and Pub. L. 102–239 amended subsec. (d) identically, substituting “subsection (a)” for “subsection (a)(2)”. 1985—Pub. L. 99–129 amended section generally. Prior to amendment, section read as follows: “If any facility of a community mental health center acquired, remodeled, constructed, or expanded with funds provided under the Community Mental Health Centers Act is, at any time within twenty years after the completion of such remodeling, construction, or expansion or after the date of its acquisition with such funds— “(1) sold or transferred to any person or entity (A) which is not qualified to file an application under section 222 of the Community Mental Health Centers Act, or (B) which is not approved as a transferee by the State agency of the State in which such facility is located, or its successor; or “(2) not used by a community mental health center in the provision of comprehensive mental health services, and the Secretary has not determined that there is good cause for termination of such use, the United States shall be entitled to recover from either the transferor or the transferee in the case of a sale or transfer or from the owner in the case of termination of use an amount bearing the same ratio to the then value (as determined by the agreement of the parties or by action brought in the United States district court for the district in which the center is situated) of so much of such facility or center as constituted an approved project or projects, as the amount of the Federal participation bore to the acquisition, remodeling, construction, or expansion cost of such project or projects. Such right of recovery shall not constitute a lien upon such facility or center prior to judgment.” 1981—Pub. L. 97–35 substituted “the Community Mental Health Centers Act” for “this subchapter” and “section 222 of the Community Mental Health Centers Act” for “section 2689j of this title”. 1978—Pub. L. 95–622 substituted “this subchapter” for “this part”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1985 Amendment
 

@@ -42,6 +42,8 @@ section: 293l
 
 1 So in original. Probably should be “Committee”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -57,6 +59,8 @@ A prior section 293l, act July 1, 1944, ch. 373, title VII, § 748, as added Pub
 ### Amendments
 
 2020—Subsec. (d)(2). Pub. L. 116–136 substituted “Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives” for “Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives”. 2010—Subsec. (d)(3) to (5). Pub. L. 111–148, § 5103(d)(1), added pars. (3) to (5).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Termination of Advisory Committees
 

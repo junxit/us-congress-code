@@ -15,10 +15,14 @@ The Secretary of Health and Human Services, after consultation with the Attorney
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Public Health Service Act which comprises this chapter. Section was formerly classified to section 257a of this title.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
-“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.

@@ -69,9 +69,13 @@ section: 1397hh
 
 2 So in original. The comma probably should not appear.
 
+### Editorial Notes
+
 ### Amendments
 
 2010—Subsec. (e)(7). Pub. L. 111–148, which directed amendment of subsec. (e) by adding par. (7) at end, was executed to the subsec. (e) added by Pub. L. 111–3, § 402(a)(2), relating to information required for inclusion in State annual report, to reflect the probable intent of Congress. 2009—Subsec. (a). Pub. L. 111–3, § 402(a)(1), substituted “Subject to subsection (e), the State” for “The State” in introductory provisions. Subsec. (c)(3)(B). Pub. L. 111–3, § 201(b)(2)(B)(ii), inserted “(such as through community health workers and others)” after “including practices”. Subsec. (c)(5). Pub. L. 111–3, § 603, added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for fiscal year 2000 for the purpose of conducting the evaluation authorized under this subsection. Amounts appropriated under this paragraph shall remain available for expenditure through fiscal year 2002.” Subsec. (d). Pub. L. 111–8 struck out “and GAO report” after “Inspector General audit” in heading and struck out par. (3) which related to duty of Comptroller General to monitor Inspector General audits and report to Congress on audit results. Pub. L. 111–3, § 604, amended subsec. (d) generally. Prior to amendment, subsec. related to Inspector General audits of certain States. Subsec. (e). Pub. L. 111–3, § 501(e)(2), added subsec. (e) relating to information on dental care for children. Pub. L. 111–3, § 402(a)(2), added subsec. (e) relating to information required for inclusion in State annual report. 1999—Subsecs. (c), (d). Pub. L. 106–113 added subsecs. (c) and (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2009 Amendment
 

@@ -28,9 +28,13 @@ section: 284n
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the National Institutes of Health Reform Act of 2006, and not as part of the Public Health Service Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

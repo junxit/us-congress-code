@@ -50,6 +50,8 @@ section: 294o
 
 1 So in original. Probably should be “travel time,”.
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly set out as a note under section 295k of this title prior to renumbering by Pub. L. 105–392.
@@ -61,6 +63,8 @@ A prior section 294o, act July 1, 1944, ch. 373, title VII, § 777, as added Pub
 ### Amendments
 
 2020—Subsec. (a)(1). Pub. L. 116–136, § 3401(10)(A), substituted “Committee on Health, Education, Labor, and Pensions” for “Committee on Labor and Human Resources” in introductory provisions. Subsec. (b)(2). Pub. L. 116–136, § 3401(10)(B)(i), substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”. Subsec. (b)(4) to (7). Pub. L. 116–136, § 3401(10)(B)(ii), (iii), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively. Subsecs. (i) to (l). Pub. L. 116–136, § 3401(10)(C), (D), added subsec. (i), redesignated subsec. (l) as (j), and struck out former subsecs. (i) to (k) which related to requirement regarding reports, final report, and termination of the Council, respectively. 2010—Subsec. (a)(3) to (5). Pub. L. 111–148 added pars. (3) to (5). 2002—Subsec. (k). Pub. L. 107–251 substituted “2003” for “2002”. 1998—Subsec. (j). Pub. L. 105–392, § 104(b)(1), substituted “2002” for “1995”. Subsec. (k). Pub. L. 105–392, § 104(b)(2), substituted “2002” for “1995”. Subsec. (l). Pub. L. 105–392, § 104(b)(3), added subsec. (l). 1992—Subsec. (a)(2). Pub. L. 102–531 substituted “voluntarily” for “voluntary”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

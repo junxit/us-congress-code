@@ -25,6 +25,8 @@ section: 629c
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -36,6 +38,8 @@ A prior section 433 of act Aug. 14, 1935, was classified to section 633 of this 
 ### Amendments
 
 2011—Subsec. (c)(2). Pub. L. 112–34, § 102(g)(2)(A), substituted “Supplemental nutrition assistance program benefits” for “Food stamp” in heading. Subsec. (c)(2)(A). Pub. L. 112–34, § 102(g)(2)(B), substituted “receiving supplemental nutrition assistance program benefits” for “receiving supplemental nutrition assistance program benefits benefits” in two places. 2008—Subsec. (c)(1). Pub. L. 110–246, § 4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”. Subsec. (c)(2)(A). Pub. L. 110–246, § 4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp” wherever appearing. Pub. L. 110–246, § 4002(b)(1)(B), (2)(V), made technical amendment to reference in original act which appears in text as reference to section 2025(c) of title 7. Subsec. (e)(2). Pub. L. 110–246, § 4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”. 2006—Subsec. (a). Pub. L. 109–288, § 5(b)(1)(A), inserted “or tribal consortia” after “tribes” in heading and inserted at end of text “If a consortium of Indian tribes submits a plan approved under this subpart, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.” Subsec. (b). Pub. L. 109–288, § 6(f)(4), substituted “section 623” for “section 621”. Subsec. (d). Pub. L. 109–288, § 4(a)(2)(A), inserted “subsection (a), (b), or (c) of” after “to a State under” and “specified in”. Subsec. (e). Pub. L. 109–288, § 4(a)(2)(B), added subsec. (e). 2002—Subsec. (a). Pub. L. 107–133, § 106(a)(2)(A), substituted “section 629f(b)(3)” for “section 629(d)(3)”. Subsec. (b). Pub. L. 107–133, § 106(a)(2)(B), substituted “section 629f(a)” for “section 629(b)” and “section 629f(b)” for “section 629(d)”. Subsec. (c)(1). Pub. L. 107–133, § 106(a)(2)(C), substituted “section 629f(a)” for “section 629(b)” and “section 629f(b)” for “section 629(d)”. Subsec. (d). Pub. L. 107–133, § 103, added subsec. (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2011 Amendment
 

@@ -26,9 +26,13 @@ For purposes of this subchapter—
 
 1 So in original. Probably should be preceded by “section”.
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Par. (1). Pub. L. 114–255 inserted at end “Such term shall not include any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of title 26).” 1996—Par. (1). Pub. L. 104–191, § 321(d)(3), inserted at end “Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26).” Pub. L. 104–191, § 102(d), substituted “5000(b)” for “section 162(i)(2)”. Par. (3)(A). Pub. L. 104–191, § 421(a)(3), inserted at end “Such term shall also include a child who is born to or placed for adoption with the covered employee during the period of continuation coverage under this subchapter.” 1989—Par. (2). Pub. L. 101–239 substituted “the performance of services by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1) of title 26)” for “the individual’s employment or previous employment with an employer”. 1988—Par. (1). Pub. L. 100–647 substituted “section 162(i)(2) of the Internal Revenue Code of 1986” for “section 162(i)(3) of the Internal Revenue Code of 1954”, which for purposes of codification was translated as “section 162(i)(2) of title 26”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2016 Amendment
 

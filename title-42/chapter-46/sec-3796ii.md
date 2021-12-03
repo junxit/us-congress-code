@@ -9,9 +9,13 @@ section: 3796ii
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 3796ii was editorially reclassified as section 10471 of Title 34, Crime Control and Law Enforcement.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Study on Reentry, Mental Illness, and Public Safety
 

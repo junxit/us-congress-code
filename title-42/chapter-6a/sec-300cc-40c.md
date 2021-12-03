@@ -46,6 +46,8 @@ section: 300cc–40c
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 300cc–40b of this title.

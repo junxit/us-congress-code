@@ -30,6 +30,8 @@ section: 300r
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 1610 of act July 1, 1944, ch. 373, title XVI, as added Jan. 4, 1975, Pub. L. 93–641, § 4, 88 Stat. 2262; amended Aug. 1, 1977, Pub. L. 95–83, title I, § 106(w), 91 Stat. 385, was classified to section 300p of this title, prior to repeal by Pub. L. 96–79, title II, § 201(a), Oct. 4, 1979, 93 Stat. 630.
@@ -37,6 +39,8 @@ A prior section 1610 of act July 1, 1944, ch. 373, title XVI, as added Jan. 4, 1
 ### Amendments
 
 1979—Subsec. (a). Pub. L. 96–79, § 201(c), incorporated existing provisions in par. (1); inserted in subpar. (A) in cls. (i) and (ii) the phrases “in medical facilities” and “by medical facilities”; substituted in subpar. (B)(i) “for any medical facility owned or operated by the State or political subdivision” for “for a project described in the preceding sentence for any medical facility owned or operated by it”; added cl. (a)(1)(B)(ii); redesignated former subsec. (c) as par. (2); and added par. (3). Subsec. (b). Pub. L. 96–79, § 201(c), inserted provisions respecting projects for medically underserved populations and struck out provisions respecting criteria for approval of applications under former section 300o–3 of this title. Subsec. (c). Pub. L. 96–79, § 201(c), redesignated subsec. (c) as par. (2) of subsec. (a). Subsec. (d). Pub. L. 96–79, § 201(c), struck out subsec. (d) which related to provisions making available 22 per centum of sums appropriated under former section 300p–3 of this title for subsec. (a) grants, including an additional appropriations authorization of $67,500,000 for such grants for fiscal year ending Sept. 30, 1978. 1977—Subsec. (d). Pub. L. 95–83 authorized additional grant appropriations of $67,500,000 for fiscal year ending Sept. 30, 1978.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1979 Amendment
 

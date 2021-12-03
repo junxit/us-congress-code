@@ -56,6 +56,8 @@ section: 292d
 
 1 So in original. Probably should be preceded by a closing parenthesis.
 
+### Editorial Notes
+
 ### References in Text
 
 The Peace Corps Act, referred to in subsec. (a)(2)(C), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables. The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended. Title I of the Act is classified generally to subchapter I (§ 4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
@@ -67,6 +69,8 @@ A prior section 292d, act July 1, 1944, ch. 373, title VII, § 704, formerly § 
 ### Amendments
 
 1998—Subsec. (a)(2)(C). Pub. L. 105–392 added cl. (x), redesignated former cl. (x) as (xi) and substituted “(x)” for “(ix)”, and substituted “(xi)” for “(x)” in concluding provisions. Pub. L. 105–244 substituted “section 1002(a)” for “section 1088(a)” in cl. (i). 1993—Subsec. (a)(2)(H), (I). Pub. L. 103–43 redesignated subpar. (I) as (H) and struck out former subpar. (H) which read as follows: “notwithstanding the provisions of the Fair Debt Collection Practices Act, authorizes an institution or postgraduate training program attended by the borrower to assist in the collection of any loan that becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower’s loans; and”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1998 Amendments
 

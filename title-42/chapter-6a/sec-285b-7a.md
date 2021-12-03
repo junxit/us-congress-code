@@ -24,9 +24,13 @@ section: 285b–7a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2007—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1999 through 2003. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriation that is available for such purpose.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2007 Amendment
 

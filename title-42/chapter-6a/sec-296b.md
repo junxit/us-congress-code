@@ -16,6 +16,8 @@ section: 296b
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 296b, act July 1, 1944, ch. 373, title VIII, § 803, as added Sept. 4, 1964, Pub. L. 88–581, § 2, 78 Stat. 911; amended Aug. 16, 1968, Pub. L. 90–490, title II, § 202, 82 Stat. 780; Nov. 18, 1971, Pub. L. 92–158, §§ 2(b), 13, 85 Stat. 465, 480; July 29, 1975, Pub. L. 94–63, title IX, § 941(b), 89 Stat. 364, set forth provisions relating to amount of construction grant, prior to repeal by Pub. L. 99–92, §§ 9(a)(1), 10(a), Aug. 16, 1985, 99 Stat. 400, 402, effective Oct. 1, 1985.

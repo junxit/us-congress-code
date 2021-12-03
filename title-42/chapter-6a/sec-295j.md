@@ -32,6 +32,8 @@ section: 295j
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 295j, act July 1, 1944, ch. 373, title VII, § 799A, as added Nov. 4, 1988, Pub. L. 100–607, title VI, § 637(a), 102 Stat. 3149; amended Nov. 18, 1988, Pub. L. 100–690, title II, § 2615(g)[(i)], 102 Stat. 4240; Aug. 16, 1989, Pub. L. 101–93, § 5(n), 103 Stat. 613, related to grants and contracts to provide health care in rural areas, prior to the general amendment of this subchapter by Pub. L. 102–408. Another prior section 295j, act July 1, 1944, ch. 373, title VII, § 799A, as added Nov. 23, 1988, Pub. L. 100–713, title VII, § 714, 102 Stat. 4834, relating to grants and contracts to provide health care in rural areas, prior to repeal by Pub. L. 100–607, title VI, § 637(b), Nov. 4, 1988, 102 Stat. 3151. Subsequently, section 637(b) of Pub. L. 100–607 was repealed by Pub. L. 101–93, § 5(n)(1), Aug. 16, 1989, 103 Stat. 613, and section 5(n)(2) of Pub. L. 101–93 amended this subchapter to read as if the amendment made by section 714 of Pub. L. 100–713 had not been enacted. A prior section 791 of act July 1, 1944, was classified to section 295h of this title prior to the general amendment of this subchapter by Pub. L. 102–408.
@@ -39,6 +41,8 @@ A prior section 295j, act July 1, 1944, ch. 373, title VII, § 799A, as added No
 ### Amendments
 
 2010—Subsec. (a)(1)(C). Pub. L. 111–148 added subpar. (C). 1998—Subsec. (a)(1). Pub. L. 105–392, § 107(b)(1), substituted “sections 293k and 294 of this title” for “sections 293k through 293o of this title, under section 294b of this title, or under section 294d or 294e of this title” in introductory provisions. Subsec. (a)(2). Pub. L. 105–392, § 107(b)(2), struck out “under section 295o(a) of this title” before period at end. Subsec. (b). Pub. L. 105–392, § 106(a)(2)(B), redesignated subsec. (c) as (b) and struck out former subsec. (b) which required submission of certain information by applicant. Subsec. (c). Pub. L. 105–392, §§ 106(a)(2)(B)(ii), 107(a), added subsec. (c) and redesignated former subsec. (c) as (b). 1992—Subsec. (b). Pub. L. 102–531, in introductory provisions, inserted references to sections 294d and 294e of this title and substituted reference to section 295o(f)(2) of this title for reference to section 293p(a) of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1992 Amendment
 

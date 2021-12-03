@@ -27,6 +27,8 @@ section: 300j–3b
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 300j–1(a)(2) of this title, referred to in par. (3)(A), was amended by Pub. L. 104–182, title I, § 121(3), (4)(A), Aug. 6, 1996, 110 Stat. 1651, to redesignate par. (2)(B) as subsec. (b) of section 300j–1, strike par. (2)(A), and add a new par. (2) relating to information and research facilities.

@@ -33,6 +33,8 @@ section: 299a
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 288(d)(3) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 109–482, title I, § 103(b)(47), Jan. 15, 2007, 120 Stat. 3688. The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of this title. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables. The Social Security Amendments of 1967, referred to in subsec. (d), is Pub. L. 90–248, Jan. 2, 1968, 81 Stat. 821, as amended. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 1305 of this title and Tables.
@@ -45,9 +47,13 @@ A prior section 299a, act July 1, 1944, ch. 373, title IX, § 902, as added Pub.
 
 2000—Subsec. (g). Pub. L. 106–525 struck out heading and text of subsec. (g). Text read as follows: “Beginning with fiscal year 2003, the Director shall annually submit to the Congress a report regarding prevailing disparities in health care delivery as it relates to racial factors and socioeconomic factors in priority populations.”
 
+### Statutory Notes and Related Subsidiaries
+
 ### Reducing Administrative Health Care Costs
 
 Pub. L. 103–43, title XIX, § 1909, June 10, 1993, 107 Stat. 205, as amended by Pub. L. 106–129, § 2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 108–173, title IX, § 900(e)(6)(F), Dec. 8, 2003, 117 Stat. 2374, provided that: “The Secretary of Health and Human Services, acting through the Agency for Healthcare Research and Quality and, to the extent possible, in consultation with the Centers for Medicare & Medicaid Services, may fund research to develop a text-based standardized billing process, through the utilization of text-based information retrieval and natural language processing techniques applied to automatic coding and analysis of textual patient discharge summaries and other text-based electronic medical records, within a parallel general purpose (shared memory) high performance computing environment. The Secretary shall determine whether such a standardized approach to medical billing, through the utilization of the text-based hospital discharge summary as well as electronic patient records can reduce the administrative billing costs of health care delivery.”
+
+### Executive Documents
 
 ### Demonstration Grants for the Development, Implementation, and Evaluation of Alternatives to the Current Medical Liability System
 

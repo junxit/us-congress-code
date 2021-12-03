@@ -38,6 +38,8 @@ section: 296p
 
 1 So in original.
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 831 of act July 1, 1944, was classified to section 297–1 of this title prior to repeal by Pub. L. 105–392.

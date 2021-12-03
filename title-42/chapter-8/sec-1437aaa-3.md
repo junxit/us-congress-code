@@ -40,6 +40,8 @@ section: 1437aaa–3
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The National Housing Act, referred to in subsec. (e)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified principally to subchapter II (§ 1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables. This subchapter, referred to in subsec. (e)(3), was in the original “this subtitle”, and was translated as reading “this title”, meaning title III of act Sept. 1, 1937, ch. 896, as added by Pub. L. 101–625, to reflect the probable intent of Congress, because title III of act Sept. 1, 1937, does not contain subtitles.
@@ -47,6 +49,8 @@ The National Housing Act, referred to in subsec. (e)(1), is act June 27, 1934, c
 ### Amendments
 
 1998—Subsec. (g). Pub. L. 105–276 struck out subsec. (g) which prohibited transfer of projects without plan for replacement housing. See 1995 Amendment note below. 1995—Subsec. (g). Pub. L. 104–19 struck out subsec. (g) which prohibited transfer of projects without plan for replacement housing. 1992—Subsec. (d). Pub. L. 102–550 struck out “(not including scattered site single family housing of a public housing agency)” after “housing project”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1998 Amendment
 

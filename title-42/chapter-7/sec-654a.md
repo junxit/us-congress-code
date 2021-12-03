@@ -64,6 +64,8 @@ section: 654a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsecs. (d)(4) and (f), is classified generally to Title 26, Internal Revenue Code.
@@ -71,6 +73,8 @@ The Internal Revenue Code of 1986, referred to in subsecs. (d)(4) and (f), is cl
 ### Amendments
 
 2014—Subsec. (g)(1). Pub. L. 113–183, § 306(a)(1), struck out “, to the maximum extent feasible,” after “this section” in introductory provisions. Subsec. (g)(1)(A)(iii). Pub. L. 113–183, § 306(a)(2), added cl. (iii). 1999—Subsec. (f)(5). Pub. L. 106–113 added par. (5). 1997—Subsec. (e)(4)(D). Pub. L. 105–34 substituted “the birth date and, beginning not later than October 1, 1999, the social security number, of any child” for “the birth date of any child”. 1996—Subsecs. (e), (f). Pub. L. 104–193, § 311, added subsecs. (e) and (f). Subsec. (g). Pub. L. 104–193, § 312(c), added subsec. (g). Subsec. (h). Pub. L. 104–193, § 325(b), added subsec. (h).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2014 Amendment
 

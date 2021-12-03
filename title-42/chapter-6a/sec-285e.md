@@ -15,6 +15,8 @@ The general purpose of the National Institute on Aging (hereafter in this subpar
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Study of Malnutrition in Elderly
 
 Pub. L. 103–43, title XIX, § 1902, June 10, 1993, 107 Stat. 201, directed Secretary of Health and Human Services, acting through National Institute on Aging, to conduct a 3-year study on health benefits and cost-effectiveness of nutrition screening and intervention activities of the elderly, and a 3-year study to determine extent of malnutrition in elderly individuals in hospitals and long-term care facilities and in elderly individuals who are living independently, provided for creation of advisory panel to oversee studies, provided for submission to Congress of reports containing findings of such studies, and provided for termination of advisory panel 3 years after June 10, 1993.

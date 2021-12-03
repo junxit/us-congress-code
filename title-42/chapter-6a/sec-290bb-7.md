@@ -29,6 +29,8 @@ section: 290bb–7
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Another section 514 of act July 1, 1944, was classified to section 290bb–9 of this title prior to repeal by Pub. L. 114–255, div. B, title IX, § 9017, Dec. 13, 2016, 130 Stat. 1248.

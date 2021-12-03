@@ -50,6 +50,8 @@ In this chapter:
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date
 
 Pub. L. 110–233, title II, § 213, May 21, 2008, 122 Stat. 920, provided that: “This title [enacting this chapter] takes effect on the date that is 18 months after the date of enactment of this Act [May 21, 2008].”

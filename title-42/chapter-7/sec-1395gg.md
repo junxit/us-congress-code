@@ -36,6 +36,8 @@ section: 1395gg
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Railroad Retirement Act of 1974, referred to in subsec. (b), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
@@ -43,6 +45,8 @@ The Railroad Retirement Act of 1974, referred to in subsec. (b), is act Aug. 29,
 ### Amendments
 
 2013—Subsecs. (b), (c). Pub. L. 112–240 substituted “fifth year” for “third year” and “five-year” for “three-year” in last sentence. 2003—Subsec. (h). Pub. L. 108–173 added subsec. (h). 1988—Pub. L. 100–360, § 411(e)(3), added Pub. L. 100–203, § 4039(h)(7), see 1987 Amendment note below. Subsec. (f)(1), (2). Pub. L. 100–360, § 411(j)(4)(B), substituted “of assignment specified in” for “specified in subclauses (I) and (II) of”. 1987—Pub. L. 100–203, § 4039(h)(7), as added by Pub. L. 100–360, § 411(e)(3), amended section catchline generally. Subsec. (f)(1), (2). Pub. L. 100–203, § 4096(a)(2), substituted “to the terms specified in subclauses (I) and (II) of section 1395u(b)(3)(B)(ii) of this title with respect to the services” for “that the reasonable charge is the full charge for the services”. 1982—Subsec. (c). Pub. L. 97–248 substituted “section 1395y(a)” for “section 1395y”. 1980—Subsec. (f). Pub. L. 96–499 amended subsec. (f) generally, inserting provision for payments to providers of medical and other health services where the person or persons furnishing the services did not agree that the reasonable charge was the full charge for such services. 1974—Subsec. (b). Pub. L. 93–445 substituted “Railroad Retirement Act of 1974” for “Railroad Retirement Act of 1937”, wherever appearing. 1972—Subsec. (b). Pub. L. 92–603, § 281(a), required that provider of services or other person be without fault with respect to payment of excess over correct amount as prerequisite to adjustment or recovery of incorrect payments. Subsec. (c). Pub. L. 92–603, §§ 261(a), 281(b), substituted “or where the adjustment (or recovery) would be made by decreasing payments to which another person who is without fault is entitled as provided in subsection (b)(4), if” for “and where”, inserted reference to subchapter XVIII of this chapter, and inserted provisions covering the adjustment or recovery of incorrect payments against individuals who are without fault. Subsec. (g). Pub. L. 92–603, § 266, added subsec. (g). 1968—Pub. L. 90–248, § 154(b), provided for settlement of claims for benefits on behalf of deceased individuals in section catchline. Subsecs. (e), (f). Pub. L. 90–248, § 154(c), added subsecs. (e) and (f).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2013 Amendment
 

@@ -28,6 +28,8 @@ section: 248b
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This subtitle, referred to in subsec. (a), is subtitle J of title IX of Pub. L. 97–35, §§ 985 to 988, Aug. 13, 1981, 95 Stat. 602, which enacted this section, amended sections 201, 249, and 254e of this title, and enacted provisions set out as notes under this section and section 249 of this title. For complete classification of this subtitle to the Code, see Tables. Section 248a of this title, referred to in subsec. (a), was in the original “section 818 of Public Law 93–155”, meaning section 818 of Pub. L. 93–155, title VIII, Nov. 16, 1973, 87 Stat. 622, which enacted section 248a of this title and repealed section 3 of Pub. L. 92–585, Oct. 27, 1972, 86 Stat. 1292.
@@ -35,6 +37,8 @@ This subtitle, referred to in subsec. (a), is subtitle J of title IX of Pub. L. 
 ### Codification
 
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1981, and not as part of the Public Health Service Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Congressional Findings and Declaration of Purpose
 

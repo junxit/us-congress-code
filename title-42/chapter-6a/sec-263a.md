@@ -166,6 +166,8 @@ section: 263a
 
 4 So in original. Probably should be followed by a period.
 
+### Editorial Notes
+
 ### References in Text
 
 The Social Security Act, referred to in subsecs. (i)(3) and (n)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -177,6 +179,8 @@ Subsec. (e)(3) of this section, which required the Secretary to annually prepare
 ### Amendments
 
 2012—Subsec. (d)(1)(E). Pub. L. 112–202, § 2(1), inserted “, except that no proficiency testing sample shall be referred to another laboratory for analysis as prohibited under subsection (i)(4)” before period at end. Subsec. (i)(3). Pub. L. 112–202, § 2(2)(A), inserted “, except that if the revocation occurs pursuant to paragraph (4) the Secretary may substitute intermediate sanctions under subsection (h) instead of the 2-year prohibition against ownership or operation which would otherwise apply under this paragraph” after “issued under this section”. Subsec. (i)(4). Pub. L. 112–202, § 2(2)(B), substituted “may have its certificate revoked” for “shall have its certificate revoked”. 1997—Subsec. (d)(3). Pub. L. 105–115 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The examinations and procedures identified in paragraph (2) are simple laboratory examinations and procedures which, as determined by the Secretary, have an insignificant risk of an erroneous result, including those which— “(A) have been approved by the Food and Drug Administration for home use, “(B) employ methodologies that are so simple and accurate as to render the likelihood of erroneous results negligible, or “(C) the Secretary has determined pose no reasonable risk of harm to the patient if performed incorrectly.” 1988—Pub. L. 100–578 substituted “Certification of laboratories” for “Licensing of laboratories” in section catchline, and amended text generally, revising and restating as subsecs. (a) to (q) provisions of former subsecs. (a) to (l).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1997 Amendment
 

@@ -16,6 +16,8 @@ section: 298d
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was classified to section 297q of this title prior to renumbering by Pub. L. 111–148.

@@ -30,6 +30,8 @@ section: 280h
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Another section 399W of act July 1, 1944, was renumbered section 399V–1 and is classified to section 280g–12 of this title.

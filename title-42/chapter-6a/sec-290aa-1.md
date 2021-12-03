@@ -63,6 +63,8 @@ section: 290aa–1
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 290aa–3a of this title prior to renumbering by Pub. L. 102–321.
@@ -74,6 +76,8 @@ A prior section 290aa–1, act July 1, 1944, ch. 373, title V, § 502, formerly 
 ### Amendments
 
 2016—Subsec. (a)(1). Pub. L. 114–255, § 6001(c)(2), substituted “Assistant Secretary” for “Administrator” in concluding provisions. Subsec. (a)(2)(A)(i), (B). Pub. L. 114–255, § 6001(c)(2), substituted “Assistant Secretary” for “Administrator”. Subsec. (b)(2)(B). Pub. L. 114–255, § 6001(c)(2), substituted “Assistant Secretary” for “Administrator”. Subsec. (b)(2)(F) to (J). Pub. L. 114–255, § 6008(1), added subpars. (F) to (I) and redesignated former subpar. (F) as (J). Subsec. (b)(3)(C), (D). Pub. L. 114–255, § 6008(2), added subpars. (C) and (D). Subsecs. (d) to (f). Pub. L. 114–255, § 6001(c)(2), substituted “Assistant Secretary” for “Administrator” wherever appearing. 2000—Subsec. (e). Pub. L. 106–310 substituted “2 times during each fiscal year” for “3 times during each fiscal year”. 1994—Subsec. (b)(2)(D). Pub. L. 103–446 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the Chief Medical Director of the Veterans Administration; and”. 1992—Pub. L. 102–352 substituted “or management” for “and management” in subsec. (b)(3)(B). Pub. L. 102–321 amended section generally, substituting provisions relating to appointment of advisory councils to Substance Abuse and Mental Health Services Administration, Center for Substance Abuse Treatment, Center for Substance Abuse Prevention, and Center for Mental Health Services for provisions appointing advisory councils for National Institute on Alcohol Abuse and Alcoholism, National Institute on Drug Abuse, and National Institute of Mental Health. 1990—Subsec. (a)(2). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act. 1988—Subsec. (b)(2)(A). Pub. L. 100–527 substituted “Chief Medical Director of the Department of Veterans Affairs” for “Chief Medical Director of the Veterans’ Administration”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1992 Amendments
 

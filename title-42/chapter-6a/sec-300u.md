@@ -38,6 +38,8 @@ section: 300u
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 In subsec. (c), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -46,6 +48,8 @@ In subsec. (c), “section 3324(a) and (b) of title 31 and section 6101 of title
 
 1998—Subsec. (b). Pub. L. 105–392 substituted “2002” for “1996”. 1992—Subsec. (a)(11)(C). Pub. L. 102–531 substituted “preventive health services (which may include information concerning models and standards for insurance coverage of such services),” for “preventive health services,”. 1991—Subsec. (b). Pub. L. 102–168 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “To carry out sections 300u through 300u–4 of this title, there are authorized to be appropriated $9,000,000 for the fiscal year ending September 30, 1985, $9,500,000 for the fiscal year ending September 30, 1986, $10,000,000 for the fiscal year ending September 30, 1987, and $10,000,000 for each of the fiscal years 1989 through 1991.” 1988—Subsec. (a). Pub. L. 100–607, § 312(c)(2), in concluding provisions, struck out “The Secretary shall administer this subchapter in a manner consistent with the national health priorities set forth in section 300k–2 of this title.” before “The Secretary shall appoint”, and substituted “paragraph (11)” for “paragraph (10)”. Subsec. (a)(7), (8). Pub. L. 100–607, § 312(b)(1), added par. (7) and redesignated former par. (7) as (8). Former par. (8) redesignated (9). Subsec. (a)(9). Pub. L. 100–607, § 312(c)(1), substituted “paragraph (8)” for “paragraph (7)”. Pub. L. 100–607, § 312(b)(1)(A), redesignated par. (8) as (9). Former par. (9) redesignated (10). Subsec. (a)(10), (11). Pub. L. 100–607, § 312(b)(1)(A), redesignated pars. (9) and (10) as (10) and (11), respectively. Subsec. (b). Pub. L. 100–607, § 312(a)(1), substituted “sections 300u through 300u–4 of this title” for “this subchapter”, struck out “and” after “September 30, 1986,”, and inserted “, and $10,000,000 for each of the fiscal years 1989 through 1991”. 1984—Subsec. (a). Pub. L. 98–551, § 2(a)(1), added par. (10), and in provisions following par. (10) struck out “and with health planning and resource development activities undertaken under subchapters XIII and XIV of this chapter” after “section 300k–2 of this title” and inserted provisions for appointment of a Director for Office of Disease Prevention and Health Promotion and cooperation in administration of this subchapter. Subsec. (b). Pub. L. 98–551, § 2(a)(2), substituted “To carry out this subchapter, there are authorized to be appropriated $9,000,000 for the fiscal year ending September 30, 1985, $9,500,000 for the fiscal year ending September 30, 1986, and $10,000,000 for the fiscal year ending September 30, 1987” for “For payments under grants and contracts under this subchapter (other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title) there are authorized to be appropriated $7,000,000 for the fiscal year ending September 30, 1977, $10,000,000 for the fiscal year ending September 30, 1978, $14,000,000 for the fiscal year ending September 30, 1979, $14,000,000 for the fiscal year ending September 30, 1980, $15,000,000 for the fiscal year ending September 30, 1981, and $16,000,000 for the fiscal year ending September 30, 1982.” 1979—Subsec. (b). Pub. L. 96–76 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1980, Sept. 30, 1981, and Sept. 30, 1982. Pub. L. 96–32 inserted “(other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title)” after “grants and contracts under this subchapter”.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Short Title
 
 For short title of title I of Pub. L. 94–317, which enacted this subchapter as the “National Consumer Health Information and Health Promotion Act of 1976”, see section 101 of Pub. L. 94–317, set out as a Short Title of 1976 Amendments note under section 201 of this title.
@@ -53,6 +57,8 @@ For short title of title I of Pub. L. 94–317, which enacted this subchapter as
 ### Model Programs for Employee Health Promotion and Disease Prevention; Development Completion
 
 Section 312(b)(2) of Pub. L. 100–607 required Secretary of Health and Human Services, not later than 18 months after Nov. 4, 1988, to complete development of model programs required in section 1701(a)(7)(A) of the Public Health Service Act (subsec. (a)(7)(A) of this section).
+
+### Executive Documents
 
 ### Executive Order No. 12345
 

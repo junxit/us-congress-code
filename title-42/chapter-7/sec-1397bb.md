@@ -51,6 +51,8 @@ section: 1397bb
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (b)(1)(B)(v), is classified generally to Title 26, Internal Revenue Code. Section 1603(c) of title 25, referred to in subsec. (b)(3)(D), was redesignated section 1603(13) of title 25 by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.
@@ -58,6 +60,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(1)(B)(v), is class
 ### Amendments
 
 2018—Subsec. (a)(7)(B). Pub. L. 115–271 substituted “paragraphs (5) and (6) of section 1397cc(c)” for “section 1397cc(c)(5)”. 2016—Subsec. (a)(7)(C). Pub. L. 114–198 added subpar. (C). 2010—Subsec. (b)(1)(B)(v). Pub. L. 111–152 substituted “modified adjusted gross income” for “modified gross income”. Pub. L. 111–148 added cl. (v). 2009—Subsec. (a)(7)(B). Pub. L. 111–3, § 501(a)(2), inserted “and services described in section 1397cc(c)(5) of this title” after “emergency services”. Subsec. (b)(1)(B)(iii), (iv). Pub. L. 111–3, §§ 111(b)(2), 501(b)(2), added cls. (iii) and (iv). Subsec. (b)(4), (5). Pub. L. 111–3, § 212, added par. (4) and redesignated former par. (4) as (5). Subsec. (c)(1). Pub. L. 111–3, § 201(b)(2)(B)(i), inserted “(through community health workers and others)” after “Outreach”. Subsec. (c)(3). Pub. L. 111–3, § 302(a), added par. (3).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2018 Amendment
 

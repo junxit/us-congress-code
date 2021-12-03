@@ -68,6 +68,8 @@ section: 300mm
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2015—Subsecs. (i) to (k). Pub. L. 114–113 added subsecs. (i) to (k).

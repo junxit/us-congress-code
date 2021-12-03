@@ -58,9 +58,13 @@ section: 1395hh
 
 1 So in original. No subsec. (d) has been enacted.
 
+### Editorial Notes
+
 ### Amendments
 
 2003—Subsec. (a)(3). Pub. L. 108–173, § 902(a)(1), added par. (3). Subsec. (a)(4). Pub. L. 108–173, § 902(b)(1), added par. (4). Subsec. (e). Pub. L. 108–173, § 903(a)(1), added subsec. (e). Subsec. (e)(1)(B), (C). Pub. L. 108–173, § 903(b)(1), added subpars. (B) and (C). Subsec. (e)(2). Pub. L. 108–173, § 903(c)(1), added par. (2). Subsec. (f). Pub. L. 108–173, § 904(b), added subsec. (f). 1987—Subsec. (a). Pub. L. 100–203, § 4035(b), designated existing provisions as par. (1) and added par. (2). Subsec. (c). Pub. L. 100–203, § 4035(c), added subsec. (c). 1986—Pub. L. 99–509 designated existing provisions as subsec. (a) and added subsec. (b).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2003 Amendment
 

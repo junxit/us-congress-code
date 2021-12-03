@@ -26,6 +26,8 @@ section: 290bb–6
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The National Defense Authorization Act of 1989, referred to in subsec. (a)(1), probably means the National Defense Authorization Act, Fiscal Year 1989, Pub. L. 100–456, Sept. 29, 1988, 102 Stat. 1918. For complete classification of this Act to the Code, see Tables. Section 3042 of the Comprehensive Alcohol Abuse, Drug Abuse, and Mental Health Amendments Act of 1988, referred to in subsec. (b), probably should be a reference to section 2819 of the National Defense Authorization Act, Fiscal Year 1989, Pub. L. 100–456, div. B, title XXVIII, Sept. 29, 1988, 102 Stat. 2119, which established the Commission on Alternative Utilization of Military Facilities and which was set out as a note under section 2391 of Title 10, Armed Forces, prior to repeal by Pub. L. 105–261, div. A, title X, § 1031(b), Oct. 17, 1998, 112 Stat. 2123. The Comprehensive Alcohol Abuse, Drug Abuse, and Mental Health Amendments Act of 1988 is subtitle A of title II of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4193, and does not contain a section 3042.
@@ -41,6 +43,8 @@ A prior section 513 of act July 1, 1944, was classified to section 290bb–2 of 
 ### Amendments
 
 1992—Subsec. (a). Pub. L. 102–321, § 112(b)(1), substituted provisions relating to Center for Substance Abuse Treatment for provisions relating to National Institute on Drug Abuse in heading and text.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1992 Amendment
 

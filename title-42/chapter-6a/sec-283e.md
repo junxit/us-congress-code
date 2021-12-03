@@ -32,9 +32,13 @@ section: 283e
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2011—Subsec. (e)(3)(A). Pub. L. 112–74 struck out “and the Director of the Center for Research Resources” after “institutes”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

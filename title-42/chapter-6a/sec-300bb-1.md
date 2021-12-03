@@ -18,9 +18,13 @@ section: 300bb–1
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1989—Subsec. (b). Pub. L. 101–239 struck out at end “Under regulations, rules similar to the rules of subsections (a) and (b) of section 52 of title 26 (relating to employers under common control) shall apply for purposes of paragraph (1).”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1989 Amendment
 

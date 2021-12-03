@@ -25,6 +25,8 @@ section: 248a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 314 of the Public Health Service Act, referred to in subsec. (b)(2), (3), is classified to section 246 of this title.
@@ -37,6 +39,8 @@ Section was enacted as part of the Department of Defense Appropriation Authoriza
 
 Provisions similar to those comprising this section were contained in Pub. L. 92–585, § 3, Oct. 27, 1972, 86 Stat. 1292, setting out procedure to be followed in closing or transferring control of hospitals or other health care delivery facilities of Public Health Service, prior to repeal by Pub. L. 93–155, § 818(c).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.

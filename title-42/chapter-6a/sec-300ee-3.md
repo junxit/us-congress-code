@@ -26,6 +26,8 @@ section: 300ee–3
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the AIDS Amendments of 1988 and as part of the Health Omnibus Programs Extension of 1988, and not as part of the Public Health Service Act which comprises this chapter.

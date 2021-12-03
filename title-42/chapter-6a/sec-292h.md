@@ -27,6 +27,8 @@ section: 292h
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 292h, act July 1, 1944, ch. 373, title VII, § 708, as added Oct. 12, 1976, Pub. L. 94–484, title II, § 206, 90 Stat. 2250; amended Aug. 1, 1977, Pub. L. 95–83, title III, § 307(a), 91 Stat. 389; Nov. 9, 1978, Pub. L. 95–623, § 12(a), 92 Stat. 3457; Dec. 11, 1980, Pub. L. 96–511, § 4(c), 94 Stat. 2826; Aug. 13, 1981, Pub. L. 97–35, title XXVII, § 2719, 95 Stat. 914; Oct. 22, 1985, Pub. L. 99–129, title II, § 220(b), 99 Stat. 543; Nov. 4, 1988, Pub. L. 100–607, title VI, §§ 616(c)(1), 626, 102 Stat. 3139, 3144; Nov. 18, 1988, Pub. L. 100–690, title II, § 2615(a), 102 Stat. 4239; Aug. 16, 1989, Pub. L. 101–93, § 5(m), 103 Stat. 613, related to health professions data, prior to the general revision of this subchapter by Pub. L. 102–408. See section 295k of this title. Another prior section 292h, act July 1, 1944, ch. 373, title VII, § 709, as added July 30, 1956, ch. 779, § 2, 70 Stat. 720; amended Sept. 24, 1963, Pub. L. 88–129, § 2(a), 77 Stat. 164; Nov. 18, 1971, Pub. L. 92–157, title I, § 102(k)(2)(C), 85 Stat. 437, provided for issuance of general, administrative, and other regulations for implementation of grants for construction of health research facilities, prior to repeal by Pub. L. 94–484, title II, § 201(a), Oct. 12, 1976, 90 Stat. 2246. A prior section 709 of act July 1, 1944, was classified to section 292i of this title prior to repeal by Pub. L. 97–35, title XXVII, § 2720(a), Aug. 13, 1981, 95 Stat. 915.

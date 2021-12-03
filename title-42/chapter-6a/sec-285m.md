@@ -15,6 +15,8 @@ The general purpose of the National Institute on Deafness and Other Communicatio
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 100–553 and Pub. L. 100–607 contained identical provisions enacting this section. See 1988 Amendment note below.
@@ -22,6 +24,8 @@ Pub. L. 100–553 and Pub. L. 100–607 contained identical provisions enacting 
 ### Amendments
 
 1988—Pub. L. 100–690 amended this section to read as if the amendments made by Pub. L. 100–607, which enacted this section, had not been enacted. See Codification note above.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 1988 Amendment
 

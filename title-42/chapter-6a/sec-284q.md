@@ -44,6 +44,8 @@ section: 284q
 
 1 So in original. Probably should be “appointed”.
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (b)(5)(A). Pub. L. 115–271, § 7042(1)(A), substituted “treatment, and management of pain and diseases and disorders associated with pain, including information on best practices for the utilization of non-pharmacologic treatments, non-addictive medical products, and other drugs or devices approved or cleared by the Food and Drug Administration” for “and treatment of pain and diseases and disorders associated with pain”. Subsec. (b)(5)(B). Pub. L. 115–271, § 7042(1)(B), substituted “on—” and cls. (i) to (iii) for “on the symptoms and causes of pain;”. Subsec. (b)(5)(C) to (E). Pub. L. 115–271, § 7042(1)(C), added subpar. (C) and struck out former subpars. (C) to (E) which read as follows: “(C) make recommendations to ensure that the activities of the National Institutes of Health and other Federal agencies are free of unnecessary duplication of effort; “(D) make recommendations on how best to disseminate information on pain care; and “(E) make recommendations on how to expand partnerships between public entities and private entities to expand collaborative, cross-cutting research.” Subsec. (b)(6), (7). Pub. L. 115–271, § 7042(2), (3), added par. (6) and redesignated former par. (6) as (7).

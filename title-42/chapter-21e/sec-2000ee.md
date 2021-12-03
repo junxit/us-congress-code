@@ -109,6 +109,8 @@ section: 2000ee
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 5703 of title 5, referred to in subsec. (i)(2), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b). Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (l)(2), is section 3(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -125,6 +127,8 @@ Section was formerly set out as a note under section 601 of Title 5, Government 
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 2007 Amendment
 
 Pub. L. 110–53, title VIII, § 801(d), Aug. 3, 2007, 121 Stat. 358, provided that: “(1) In general.—The amendments made by subsection (a) and subsection (b) [amending this section] shall take effect 180 days after the date of enactment of this Act [Aug. 3, 2007]. “(2) Transition provisions.—Subsection (c) [enacting provisions set out as a note under this section] shall take effect on the date of enactment of this Act.”
@@ -136,6 +140,8 @@ Pub. L. 110–53, title VIII, § 801(b), Aug. 3, 2007, 121 Stat. 357, provided t
 ### Transition Provisions
 
 Pub. L. 110–53, title VIII, § 801(c), Aug. 3, 2007, 121 Stat. 357, provided that: “(1) Treatment of incumbent members of the privacy and civil liberties oversight board.—“(A) Continuation of service.—Any individual who is a member of the Privacy and Civil Liberties Oversight Board on the date of enactment of this Act [Aug. 3, 2007] may continue to serve on the Board until 180 days after the date of enactment of this Act. “(B) Termination of terms.—The term of any individual who is a member of the Privacy and Civil Liberties Oversight Board on the date of enactment of this Act shall terminate 180 days after the date of enactment of this Act. “(2) Appointments.—“(A) In general.—The President and the Senate shall take such actions as necessary for the President, by and with the advice and consent of the Senate, to appoint members to the Privacy and Civil Liberties Oversight Board as constituted under the amendments made by subsection (a) [amending this section] in a timely manner to provide for the continuing operation of the Board and orderly implementation of this section [amending this section and enacting provisions set out as notes under this section]. “(B) Designations.—In making the appointments described under subparagraph (A) of the first members of the Privacy and Civil Liberties Oversight Board as constituted under the amendments made by subsection (a), the President shall provide for the members to serve terms of 2, 3, 4, 5, and 6 years beginning on the effective date described under subsection (d)(1) [set out above], with the term of each such member to be designated by the President.”
+
+### Executive Documents
 
 ### Ex. Ord. No. 13353. Establishing the President’s Board on Safeguarding Americans’ Civil Liberties
 

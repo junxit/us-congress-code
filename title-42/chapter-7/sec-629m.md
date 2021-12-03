@@ -27,6 +27,8 @@ section: 629m
 
 1 So in original.
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 440 of act Aug. 14, 1935, was classified to section 640 of this title prior to repeal by Pub. L. 100–485.
@@ -34,6 +36,8 @@ A prior section 440 of act Aug. 14, 1935, was classified to section 640 of this 
 ### Amendments
 
 2018—Pub. L. 115–123 amended section generally. Prior to amendment, section required Secretary of Health and Human Services to designate standard data elements for any category of information required to be reported under this part and designate data reporting standards to govern the reporting required under this part.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

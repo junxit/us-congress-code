@@ -30,6 +30,8 @@ section: 290aa–5
 
 1 See Change of Name note below.
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 290bb–1a of this title prior to renumbering by Pub. L. 102–321.
@@ -41,6 +43,8 @@ A prior section 290aa–5, act July 1, 1944, ch. 373, title V, § 507, formerly 
 ### Amendments
 
 2016—Subsec. (a). Pub. L. 114–255, § 9001(1), substituted “substance use disorder” for “substance abuse”. Subsec. (b)(1), (3). Pub. L. 114–255, § 9001(2)(A), substituted “substance use disorder” for “substance abuse”. Subsec. (b)(4). Pub. L. 114–255, § 9001(2)(B), substituted “a substance use disorder” for “substance abuse”. Subsec. (c)(1). Pub. L. 114–255, § 9001(3)(A), substituted “substance use disorder” for “substance abuse disorder”. Subsec. (c)(2)(A). Pub. L. 114–255, § 9001(3)(B)(i), substituted “a substance use disorder” for “substance abuse”. Subsec. (c)(2)(B). Pub. L. 114–255, § 9001(3)(B)(ii), substituted “substance use disorder” for “substance abuse”. Subsec. (e). Pub. L. 114–255, § 9001(4), substituted “$41,304,000 for each of fiscal years 2018 through 2022” for “, $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003”. 2000—Pub. L. 106–310 amended section catchline and text generally, substituting present provisions for provisions, in subsec. (a), authorizing Secretary to make grants for benefit of homeless individuals through the Administrator of Substance Abuse and Mental Health Services Administration, in subsec. (b), relating to preferences for grants to entities providing integrated primary health, substance abuse, and mental health services, in subsec. (c), relating to services for certain individuals, in subsec. (d), relating to 5-year grants with renewals, and in subsec. (e), authorizing appropriations for fiscal years 1993 and 1994. Subsec. (a). Pub. L. 106–400 made technical amendment to reference in original act which appears in text as reference to section 11311 of this title. 1992—Pub. L. 102–321 amended section generally, substituting provisions relating to grants for benefit of homeless individuals for provisions relating to alcohol abuse and alcoholism demonstration projects. 1987—Subsecs. (c), (d). Pub. L. 100–77 added subsec. (c), redesignated former subsec. (c) as (d), and substituted “subsection (a) or (c)” for “subsection (a)”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

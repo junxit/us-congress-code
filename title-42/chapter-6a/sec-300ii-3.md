@@ -18,6 +18,8 @@ section: 300ii–3
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2021—Pub. L. 116–324 amended section generally. Prior to amendment, section required the Secretary to report to Congress by Jan. 1, 2009, on the activities undertaken under this subchapter.

@@ -170,6 +170,8 @@ section: 247d–6d
 
 2 So in original. A third closing parenthesis probably should appear.
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(8)(B), (c)(5)(A), (B)(i), (ii)(I), (C)(i), and (i)(7)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. Chapter V of the Act is classified generally to subchapter V (§ 351 et seq.) of chapter 9 of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables. The Federal Rules of Civil Procedure, referred to in subsec. (e)(6)(B), (9), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure. The Public Readiness and Emergency Preparedness Act, referred to in subsec. (h), is div. C of Pub. L. 109–148, Dec. 30, 2005, 119 Stat. 2818, which enacted this section, section 247d–6e of this title, and provisions set out as a note under section 201 of this title. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under section 201 of this title and Tables.

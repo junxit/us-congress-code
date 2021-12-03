@@ -165,6 +165,8 @@ section: 1395eee
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3)(A)(i), is classified generally to Title 26, Internal Revenue Code. Section 4804(b) of the Balanced Budget Act of 1997, referred to in subsec. (a)(3)(B)(ii), is section 4804(b) of Pub. L. 105–33, which is set out as a note below. Section 603(c) of the Social Security Amendments of 1983, referred to in subsec. (a)(7)(A), is section 603(c) of Pub. L. 98–21, title VI, Apr. 20, 1983, 97 Stat. 168, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, § 4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions. Section 9220 of the Consolidated Omnibus Budget Reconciliation Act of 1985, referred to in subsec. (a)(7)(A), is section 9220 of Pub. L. 99–272, title IX, Apr. 7, 1986, 100 Stat. 183, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, § 4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions. Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986, referred to in subsecs. (a)(7)(B) and (e)(1)(B)(i), is section 9412(b) of Pub. L. 99–509, title IX, Oct. 21, 1986, 100 Stat. 2062, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, § 4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions. For the effective date of this section, referred to in subsec. (a)(9)(B), see section 4803 of Pub. L. 105–33, set out below.
@@ -172,6 +174,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(3)(A)(i), is class
 ### Amendments
 
 2010—Subsecs. (h) to (j). Pub. L. 111–148, § 3201(i)(1), which directed addition of subsec. (h) and the redesignation of former subsecs. (h) and (i) as (i) and (j), respectively, was repealed by Pub. L. 111–152, § 1102(a). Prior to repeal, text of subsec. (h) read as follows: “With respect to a PACE program under this section, the following provisions (and regulations relating to such provisions) shall not apply: “(1) Section 1395w–23(j)(1)(A)(i) of this title, relating to MA area-specific non-drug monthly benchmark amount being based on competitive bids. “(2) Section 1395w–23(d)(5) of this title, relating to the establishment of MA local plan service areas. “(3) Section 1395w–23(n) of this title, relating to the payment of performance bonuses. “(4) Section 1395w–23(o) of this title, relating to grandfathering supplemental benefits for current enrollees after implementation of competitive bidding. “(5) Section 1395w–23(p) of this title, relating to transitional extra benefits.” See Effective Date of 2010 Amendment note below. 2008—Subsec. (d)(3). Pub. L. 110–275 added par. (3). 2003—Subsec. (b)(3), (4). Pub. L. 108–173 added pars. (3) and (4). 2000—Subsec. (f)(2)(C). Pub. L. 106–554 added subpar. (C).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

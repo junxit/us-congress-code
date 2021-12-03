@@ -26,6 +26,8 @@ section: 288b
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Subsection (c), referred to in subsec. (b)(2), was omitted from the Code. See Codification note below.
@@ -37,6 +39,8 @@ Subsec. (c) of this section, which required the Secretary to submit a report on 
 ### Amendments
 
 1992—Subsec. (a)(2). Pub. L. 102–321 struck out “and institutes under the Alcohol, Drug Abuse, and Mental Health Administration” after “National Institutes of Health”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1992 Amendment
 

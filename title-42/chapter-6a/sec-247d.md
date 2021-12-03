@@ -88,6 +88,8 @@ section: 247d
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 247d, act July 1, 1944, ch. 373, title III, § 319, as added Pub. L. 98–49, July 13, 1983, 97 Stat. 245; amended Pub. L. 100–607, title II, § 256(a), Nov. 4, 1988, 102 Stat. 3110; Pub. L. 102–321, title I, § 163(b)(2), July 10, 1992, 106 Stat. 376; Pub. L. 102–531, title III, § 312(d)(2), Oct. 27, 1992, 106 Stat. 3504, authorized the Secretary to take appropriate action relating to public health emergencies, prior to repeal by Pub. L. 106–505, title I, § 102, Nov. 13, 2000, 114 Stat. 2315. Another prior section 247d, act July 1, 1944, ch. 373, title III, § 319, formerly § 310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592, and amended and renumbered, which related to migrant health centers, was renumbered section 329 of act July 1, 1944, by Pub. L. 95–626, title I, § 102(a), Nov. 10, 1978, 92 Stat. 3551, and transferred to section 254b of this title, prior to being omitted in the general amendment of subpart I (§ 254b et seq.) of part D of this subchapter by Pub. L. 104–299, § 2.
@@ -95,6 +97,8 @@ A prior section 247d, act July 1, 1944, ch. 373, title III, § 319, as added Pub
 ### Amendments
 
 2019—Subsec. (b)(1). Pub. L. 116–22, § 206(1)(A), substituted “under such subsection or if the Secretary determines there is the significant potential for a public health emergency, to allow the Secretary to rapidly respond to the immediate needs resulting from such public health emergency or potential public health emergency. The Secretary shall plan for the expedited distribution of funds to appropriate agencies and entities.” for “under such subsection.” Subsec. (b)(2), (3). Pub. L. 116–22, § 206(1)(B), (C), added par. (2) and redesignated former par. (2) as (3). Subsec. (b)(4), (5). Pub. L. 116–22, § 206(1)(D), added pars. (4) and (5). Subsec. (c). Pub. L. 116–22, § 206(2), inserted “rapidly respond to public health emergencies or potential public health emergencies and” after “used to” and substituted “activities under this chapter or funds otherwise provided for emergency response.” for “activities under this section.” Subsec. (e)(8). Pub. L. 116–22, § 701(c), substituted “2023” for “2018”. 2016—Subsec. (f). Pub. L. 114–255 added subsec. (f). 2013—Subsec. (e). Pub. L. 113–5 added subsec. (e). 2002—Subsec. (a). Pub. L. 107–188, § 158, substituted “grants, providing awards for expenses, and” for “grants and” in concluding provisions. Pub. L. 107–188, § 144(a), inserted at end of concluding provisions “Any such determination of a public health emergency terminates upon the Secretary declaring that the emergency no longer exists, or upon the expiration of the 90-day period beginning on the date on which the determination is made by the Secretary, whichever occurs first. Determinations that terminate under the preceding sentence may be renewed by the Secretary (on the basis of the same or additional facts), and the preceding sentence applies to each such renewal. Not later than 48 hours after making a determination under this subsection of a public health emergency (including a renewal), the Secretary shall submit to the Congress written notification of the determination.” Subsec. (d). Pub. L. 107–188, § 141, added subsec. (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 
@@ -119,6 +123,8 @@ Pub. L. 116–136, div. A, title III, § 3226, Mar. 27, 2020, 134 Stat. 383, pro
 ### Reporting by Laboratories of Results of Tests To Detect SARS–CoV–2 or To Diagnose COVID–19
 
 Pub. L. 116–136, div. B, title VIII, § 18115(a)–(c), Mar. 27, 2020, 134 Stat. 574, provided that: “(a) In General.—Every laboratory that performs or analyzes a test that is intended to detect SARS–CoV–2 or to diagnose a possible case of COVID–19 shall report the results from each such test, to the Secretary of Health and Human Services in such form and manner, and at such timing and frequency, as the Secretary may prescribe until the end of the Secretary’s Public Health Emergency declaration with respect to COVID–19 or any extension of such declaration. “(b) Laboratories Covered.—The Secretary may prescribe which laboratories must submit reports pursuant to this section. “(c) Implementation.—The Secretary may make prescriptions under this section by regulation, including by interim final rule, or by guidance, and may issue such regulations or guidance without regard to the procedures otherwise required by section 553 of title 5, United States Code.”
+
+### Executive Documents
 
 ### Ex. Ord. No. 13987. Organizing and Mobilizing the United States Government To Provide a Unified and Effective Response To Combat COVID–19 and To Provide United States Leadership on Global Health and Security
 

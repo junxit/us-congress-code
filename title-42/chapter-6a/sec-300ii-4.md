@@ -15,6 +15,8 @@ There are authorized to be appropriated to carry out this subchapter, $10,000,00
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2021—Pub. L. 116–324 substituted “subchapter, $10,000,000 for each of fiscal years 2020 through fiscal year 2024.” for “subchapter— “(1) $30,000,000 for fiscal year 2007; “(2) $40,000,000 for fiscal year 2008; “(3) $53,330,000 for fiscal year 2009; “(4) $71,110,000 for fiscal year 2010; and “(5) $94,810,000 for fiscal year 2011.”

@@ -139,6 +139,8 @@ section: 1395ddd
 
 2 So in original. The word “shall” probably should not appear.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title. Section 1395l(z) of this title, referred to in subsec. (h)(10)(A), probably means the subsec. (z) of section 1395l of this title which relates to medical review of spinal subluxation services, was added by Pub. L. 114–10, title V, § 514(a), Apr. 16, 2015, 129 Stat. 171, and was redesignated subsec. (aa) by Pub. L. 115–271, title VI, § 6083(b)(1), Oct. 24, 2018, 132 Stat. 3994. Section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (h)(10)(A), is section 514(b) of Pub. L. 114–10, which is set out as a note under section 1395l of this title. Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (j)(3)(B), is section 264(c) of Pub. L. 104–191, title II, Aug. 21, 1996, 110 Stat. 2033, which is set out as a note under section 1320d–2 of this title.
@@ -146,6 +148,8 @@ Section 202(b) of the Health Insurance Portability and Accountability Act of 199
 ### Amendments
 
 2016—Subsec. (j). Pub. L. 114–198 added subsec. (j). 2015—Subsec. (g)(1)(A). Pub. L. 114–115, § 9(b)(1), inserted “or otherwise” after “eligible entities” in introductory provisions. Subsec. (g)(1)(A)(i). Pub. L. 114–115, § 9(b)(2), inserted “to review claims data” after “algorithms” and substituted “provider, service, time, or patient” for “service, time, or patient”. Subsec. (g)(1)(A)(ii). Pub. L. 114–115, § 9(b)(3)(A), inserted “to investigate and recover amounts with respect to suspect claims” after “appropriate actions”. Subsec. (g)(1)(A)(iv). Pub. L. 114–115, § 9(b)(3)(B)–(5), added cl. (iv). Subsec. (g)(3). Pub. L. 114–10, § 510, added par. (3). Subsec. (h)(2). Pub. L. 114–10, § 505(b)(1), inserted “or paragraph (10)” after “paragraph (1)(C)”. Subsec. (h)(10). Pub. L. 114–10, § 505(b)(2), added par. (10). 2010—Subsec. (a). Pub. L. 111–148, § 6402(j)(1)(C), inserted “, or otherwise,” after “entities”. Subsec. (c)(4), (5). Pub. L. 111–148, § 6402(j)(1)(A), added par. (4) and redesignated former par. (4) as (5) Subsec. (h)(1). Pub. L. 111–148, § 6411(b)(1), substituted “this subchapter” for “part A or B” in introductory provisions. Subsec. (h)(2). Pub. L. 111–148, § 6411(b)(2), substituted “this subchapter” for “parts A and B”. Subsec. (h)(3). Pub. L. 111–148, § 6411(b)(3), inserted “(not later than December 31, 2010, in the case of contracts relating to payments made under part C or D)” after “2010”. Subsec. (h)(4). Pub. L. 111–148, § 6411(b)(4), substituted “this subchapter” for “part A or B” in introductory provisions. Subsec. (h)(9). Pub. L. 111–148, § 6411(b)(5), added par. (9). Subsec. (i). Pub. L. 111–148, § 6402(j)(1)(B), added subsec. (i). 2006—Subsec. (b)(6). Pub. L. 109–171, § 6034(d)(1)(A), added par. (6). Subsec. (g). Pub. L. 109–171, § 6034(d)(1)(B), added subsec. (g). Subsec. (h). Pub. L. 109–432 added subsec. (h). 2003—Subsec. (a). Pub. L. 108–173, § 736(c)(7), substituted “medicare program” for “Medicare program”. Subsec. (f). Pub. L. 108–173, § 935(a), added subsec. (f).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2016 Amendment
 

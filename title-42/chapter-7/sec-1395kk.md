@@ -65,6 +65,8 @@ section: 1395kk
 
 2 So in original. Probably should be “subchapter”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Railroad Retirement Act of 1974, referred to in subsec. (a), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables. The Internal Revenue Code of 1986, referred to in subsec. (d)(1), is classified generally to Title 26, Internal Revenue Code. July 15, 2008, referred to in subsec. (d)(1)(A) and (B), was in the original “the date of the enactment of this section” and “such date”, which were translated as meaning the date of enactment of Pub. L. 110–275, which enacted subsec. (d), to reflect the probable intent of Congress.
@@ -72,6 +74,8 @@ The Railroad Retirement Act of 1974, referred to in subsec. (a), is act Aug. 29,
 ### Amendments
 
 2016—Subsec. (g). Pub. L. 114–255 added subsec. (g). 2015—Subsec. (e). Pub. L. 114–10, § 105(c)(1), struck out “Medicare” before “data” in heading. Subsec. (e)(3). Pub. L. 114–10, § 105(c)(2), inserted “Beginning July 1, 2016, if the Secretary determines appropriate, the data described in this paragraph may also include standardized extracts (as determined by the Secretary) of claims data under subchapters XIX and XXI for assistance provided under such subchapters for one or more specified geographic areas and time periods requested by a qualified entity.” before “The Secretary” and “or under subchapters XIX or XXI” before period at end. Subsec. (e)(4)(A). Pub. L. 114–10, § 105(d), inserted “, for periods prior to July 1, 2016,” after “deposited” and “, and, beginning July 1, 2016, into the Centers for Medicare & Medicaid Services Program Management Account” before period at end. Subsec. (f). Pub. L. 114–10, § 502(a), added subsec. (f). 2010—Subsec. (e). Pub. L. 111–148 added subsec. (e). 2008—Subsec. (d). Pub. L. 110–275 added subsec. (d). 1974—Subsec. (a). Pub. L. 93–445 substituted “Railroad Retirement Act of 1974” for “Railroad Retirement Act of 1937”. 1972—Subsec. (c). Pub. L. 92–603 added subsec. (c). 1965—Subsec. (a). Pub. L. 89–97 inserted reference to Railroad Retirement Act of 1937 in first sentence.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

@@ -15,9 +15,13 @@ The general purpose of the Eunice Kennedy Shriver National Institute of Child He
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2010—Pub. L. 111–256 substituted “intellectual disabilities,” for “mental retardation,”. 2000—Pub. L. 106–554 inserted “gynecologic health,” after “with respect to”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

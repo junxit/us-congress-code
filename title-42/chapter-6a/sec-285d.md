@@ -15,6 +15,8 @@ The general purpose of the National Institute of Arthritis and Musculoskeletal a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1993—Pub. L. 103–43 substituted “(including sports-related disorders), with particular attention to the effect of these diseases on children” for “, including sports-related disorders”.

@@ -38,6 +38,8 @@ section: 291i
 
 1 So in original. The period probably should be a comma.
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 291i, act July 1, 1944, ch. 373, title VI, § 631, as added Aug. 13, 1946, ch. 958, § 2, 60 Stat. 1041; amended June 19, 1948, ch. 544, 62 Stat. 531; Oct. 25, 1949, ch. 722, § 9, 63 Stat. 901; July 12, 1954, ch. 471, § 4(c)–(f), 68 Stat. 465, 466; Aug. 1, 1956, ch. 852, § 19(a), (b), 70 Stat. 911; June 25, 1959, Pub. L. 86–70, § 31(c), 73 Stat. 149; July 12, 1960, Pub. L. 86–624, § 29(d), 74 Stat. 419; Oct. 5, 1961, Pub. L. 87–395, § 5, 75 Stat. 826; Sept. 25, 1962, Pub. L. 87–688, § 4(a)(2), 76 Stat. 587, related to allotment percentages, and contained various definitions, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291b of this title. Provisions similar to those comprising this section were contained in section 291h(e) of this title, act July 1, 1944, ch. 373, title VI, § 625, as added Aug. 13, 1946, ch. 958, § 2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, § 3(c), 63 Stat. 899, 901; July 12, 1954, ch. 471, § 4(b), 68 Stat. 464, prior to the general amendment of this subchapter by Pub. L. 88–443.
@@ -46,10 +48,18 @@ A prior section 291i, act July 1, 1944, ch. 373, title VI, § 631, as added Aug.
 
 1984—Pub. L. 98–369 amended section generally. Prior to amendment, section read as follows: “If any facility with respect to which funds have been paid under section 291f of this title shall, at any time within twenty years after the completion of construction— “(a) be sold or transferred to any person, agency, or organization (1) which is not qualified to file an application under section 291e of this title, or (2) which is not approved as a transferee by the State agency designated pursuant to section 291d of this title, or its successor, or “(b) cease to be a public health center or a public or other nonprofit hospital, outpatient facility, facility for long-term care, or rehabilitation facility, unless the Surgeon General determines, in accordance with regulations, that there is good cause for releasing the applicant or other owner from this obligation, the United States shall be entitled to recover from either the transferor or the transferee (or, in the case of a facility which has ceased to be public or nonprofit, from the owners thereof) an amount bearing the same ratio to the then value (as determined by the agreement of the parties or by action brought in the district court of the United States for the district in which the facility is situated) of so much of the facility as constituted an approved project or projects, as the amount of the Federal participation bore to the cost of the construction or modernization under such project or projects. Such right of recovery shall not constitute a lien upon said facility prior to judgment.” 1970—Cl. (b). Pub. L. 91–296 substituted “outpatient facility” for “diagnostic or treatment center”.
 
-### Transfer of Functions
+### Statutory Notes and Related Subsidiaries
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+### Change of Name
+
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (b), (c), and (d) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 ### Regulations and Personnel
 
 Pub. L. 98–369, div. B, title III, § 2381(c), July 18, 1984, 98 Stat. 1116, provided that: “Not later than the expiration of the one-hundred-and-eighty-day period beginning on the date of the enactment of this section [July 18, 1984], the Secretary shall have in effect regulations and personnel to place in effect the amendments made by this section [amending sections 291i and 300s–1a of this title].”
+
+### Executive Documents
+
+### Transfer of Functions
+
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.

@@ -21,9 +21,13 @@ section: 300cc–40a
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 300cc–40a, act July 1, 1944, ch. 373, title XXIII, § 2352, as added Pub. L. 103–43, title XVIII, § 1801(a)(3), June 10, 1993, 107 Stat. 193, which required the establishment of an advisory council and coordinating committees, was transferred to section 300cc–40b of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Sense of Congress
 

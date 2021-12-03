@@ -28,6 +28,8 @@ section: 669b
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date
 
 For effective date of section, see section 395(a)–(c) of Pub. L. 104–193, set out as an Effective Date of 1996 Amendment note under section 654 of this title.

@@ -38,6 +38,8 @@ section: 295f
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The calendar year in which this section is enacted, referred to in subsec. (c)(1)(A)(ii), (B)(iii), probably means the calendar year in which Pub. L. 111–148 was enacted. Such Act was approved Mar. 23, 2010.

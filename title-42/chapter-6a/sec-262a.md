@@ -138,6 +138,8 @@ section: 262a
 
 2 So in original. Probably should be “section”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec.(g)(2)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables. The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(2)(B)(iii), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§ 151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables. The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(2)(B)(iv), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables. Section 6 of the Inspector General Act of 1978, referred to in subsec. (i)(2), is section 6 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -145,6 +147,8 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec.(g)(2)(B)(i), is
 ### Amendments
 
 2019—Subsec. (k). Pub. L. 116–22 designated existing provisions as par. (1), inserted heading, and added par. (2). 2002—Subsec. (e)(1). Pub. L. 107–296 substituted “collaboration with the Secretary of Homeland Security and” for “consultation with”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2002 Amendment
 
@@ -169,6 +173,8 @@ Pub. L. 107–188, title II, § 201(b), June 12, 2002, 116 Stat. 646, required t
 ### Implementation by Department of Health and Human Services
 
 Pub. L. 107–188, title II, § 202, June 12, 2002, 116 Stat. 646, provided that: “(a) Date Certain for Notice of Possession.—Not later than 90 days after the date of the enactment of this Act [June 12, 2002], all persons (unless exempt under subsection (g) of section 351A of the Public Health Service Act [42 U.S.C. 262a(g)], as added by section 201 of this Act) in possession of biological agents or toxins listed under such section 351A of the Public Health Service Act [42 U.S.C. 262a] shall notify the Secretary of Health and Human Services of such possession. Not later than 30 days after such date of enactment, the Secretary shall provide written guidance on how such notice is to be provided to the Secretary. “(b) Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties.—Not later than 180 days after the date of the enactment of this Act [June 12, 2002], the Secretary of Health and Human Services shall promulgate an interim final rule for carrying out section 351A of the Public Health Service Act [42 U.S.C. 262a], subject to subsection (c). Such interim final rule shall take effect 60 days after the date on which such rule is promulgated, including for purposes of—“(1) section 175b(c) of title 18, United States Code (relating to criminal penalties), as added by section 231(a)(5) of this Act; and “(2) section 351A(i) of the Public Health Service Act [42 U.S.C. 262a(i)] (relating to civil penalties). “(c) Transitional Provision Regarding Current Research and Education.—The interim final rule under subsection (b) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 351A(a)(1) of the Public Health Service Act [42 U.S.C. 262a(a)(1)] and that were underway as of the effective date of such rule.”
+
+### Executive Documents
 
 ### Ex. Ord. No. 13546. Optimizing the Security of Biological Select Agents and Toxins in the United States
 

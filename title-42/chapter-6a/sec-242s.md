@@ -25,6 +25,8 @@ section: 242s
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 310A of act July 1, 1944, was renumbered section 226 and transferred to section 235 of this title.

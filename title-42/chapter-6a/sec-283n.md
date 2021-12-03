@@ -21,6 +21,8 @@ section: 283n
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly set out as a note under section 287 of this title, prior to renumbering by Pub. L. 112–74.

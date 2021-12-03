@@ -30,6 +30,8 @@ section: 254q
 
 1 So in original. Probably should be “subpart,”.
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 254q, act July 1, 1944, ch. 373, title III, § 338G, formerly title VII, § 756, as added Oct. 12, 1976, Pub. L. 94–484, title IV, § 408(b)(1), 90 Stat. 2288; renumbered § 338F and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, § 2709(a), (g), 95 Stat. 908, 912; renumbered § 338G, Dec. 1, 1987, Pub. L. 100–177, title II, § 201(2), 101 Stat. 992, authorized appropriations for fiscal years 1978 to 1987, prior to repeal by Pub. L. 100–177, § 203. A prior section 338H of act July 1, 1944, was renumbered section 338I by Pub. L. 101–597 and is classified to section 254q–1 of this title.

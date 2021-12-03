@@ -29,6 +29,8 @@ section: 238m
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Subsections (d), (e), and (f) of section 1395u of this title, referred to in subsecs. (d) and (e), were repealed by Pub. L. 108–173, title IX, § 911(c)(5), Dec. 8, 2003, 117 Stat. 2384. The Indian Self-Determination Act, referred to in subsec. (e), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.

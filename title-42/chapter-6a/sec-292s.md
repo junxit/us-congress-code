@@ -66,6 +66,8 @@ section: 292s
 
 2 So in original. The semicolon probably should be a comma.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 292t(f) of this title, referred to in subsec. (a)(2)(A)(ii)(I), contained provisions in par. (1) relating to appropriation of funds for Federal capital contributions to student loan funds, prior to repeal by Pub. L. 105–392, title I, § 132(b), Nov. 13, 1998, 112 Stat. 3575, eff. Oct. 1, 2002.
@@ -77,6 +79,8 @@ A prior section 723 of act July 1, 1944, was classified to section 293c of this 
 ### Amendments
 
 2010—Subsec. (a)(1)(B). Pub. L. 111–148, § 5201(a)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “to practice in such care through the date on which the loan is repaid in full.” Subsec. (a)(3). Pub. L. 111–148, § 5201(a)(1)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with such agreement, the loan involved will begin to accrue interest at a rate of 18 percent per year beginning on the date of such noncompliance.” Subsec. (d). Pub. L. 111–148, § 5201(a)(2), added subsec. (d). 1998—Subsec. (a)(3). Pub. L. 105–392, § 131(b), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with the agreement— “(A) the balance due on the loan involved will be immediately recomputed from the date of issuance at an interest rate of 12 percent per year, compounded annually; and “(B) the recomputed balance will be paid not later than the expiration of the 3-year period beginning on the date on which the student fails to comply with the agreement.” Subsec. (b)(1). Pub. L. 105–392, § 131(a), substituted “4 years before” for “3 years before”. Subsecs. (c), (d). Pub. L. 105–392, § 131(c), redesignated subsec. (d) as (c) and struck out heading and text of subsec. (c). Text read as follows: “The Secretary shall each fiscal year submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report regarding the administration of this section, including the extent of compliance with the requirements of this section, during the preceding fiscal year.” 1993—Subsec. (a)(4). Pub. L. 103–43, § 2014(c)(1), added par. (4). Subsec. (b)(1). Pub. L. 103–43, § 2014(c)(2)(A), substituted “1997;” for “1994,” and “3 years before” for “4 years before”. Subsec. (b)(2)(B). Pub. L. 103–43, § 2014(c)(2)(B), substituted “25 percent” for “15 percent”. Subsec. (b)(4)(B). Pub. L. 103–43, § 2014(c)(2)(C), substituted “1997” for “1994” in cl. (i) and “1998” for “1995” in cl. (ii).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Student Loan Guidelines
 

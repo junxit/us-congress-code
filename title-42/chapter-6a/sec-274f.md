@@ -29,6 +29,8 @@ section: 274f
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Pub. L. 108–216 amended section catchline and text generally, substituting provisions relating to reimbursement of travel and subsistence expenses incurred toward living organ donation for provisions requiring the Comptroller General to study and report on organ procurement and allocation.

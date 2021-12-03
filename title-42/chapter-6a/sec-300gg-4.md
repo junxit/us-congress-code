@@ -106,6 +106,8 @@ section: 300gg–4
 
 3 So in original. No subsecs. (g) to (i) have been enacted.
 
+### Editorial Notes
+
 ### References in Text
 
 The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§ 1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables. Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsecs. (c)(3)(A) and (l)(3)(B)(iv), is section 264 of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title. Section 300gg–21(a) of this title, referred to in subsec. (e), was in the original a reference to section 2735(a) of act July 1, 1944, and was translated as if it referred to section 2722(a) of that act to reflect the probable intent of Congress because of the renumbering of section 2735 as 2722 by Pub. L. 111–148, title I, § 1563(c)(12)(D), formerly § 1562(c)(12)(D), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 269, 911. The act July 1, 1944, does not contain a section 2735.
@@ -121,6 +123,8 @@ A prior section 300gg–4, act July 1, 1944, ch. 373, title XXVII, § 2704, as a
 ### Amendments
 
 2010—Pub. L. 111–148, § 1201(3), transferred section 300gg–1 of this title to subsecs. (b) to (f) of this section after amending it by striking out the section catchline “Prohibiting discrimination against individual participants and beneficiaries based on health status”, by striking subsec. (a) which prohibited discrimination against individual participants in group health plans based on certain health status-related factors, by amending subsec. (b) by substituting “health insurance issuer offering group or individual health insurance coverage” for “health insurance issuer offering health insurance coverage in connection with a group health plan” in pars. (1) and (3)(B) and by inserting “or individual” after “employer” and “or individual health coverage, as the case may be” before semicolon in par. (2)(A), and by amending subsec. (e) by substituting “(a)(6)” for “(a)(1)(F)” and “300gg–3” for “300gg” and making technical amendment to reference in original act which appears in text as reference to section 300gg–21(a) of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

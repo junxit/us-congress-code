@@ -35,9 +35,13 @@ section: 300ff–87a
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 2688 of act July 1, 1944, was renumbered section 2689 and is classified to section 300ff–88 of this title. Another prior section 2688 of act July 1, 1944, was classified to section 300ff–88 of this title prior to the general amendment of this part by Pub. L. 109–415.
+
+### Editorial Notes
 
 ### Effective Date
 

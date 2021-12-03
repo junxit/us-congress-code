@@ -23,9 +23,9 @@ Words “or delivery” after “port of entry” which were included in this se
 
 ### Statutory Notes and Related Subsidiaries
 
-### Transfer of Functions
+### Change of Name
 
-Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 ### Executive Documents
 

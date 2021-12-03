@@ -54,6 +54,8 @@ section: 280m
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2020—Subsec. (h). Pub. L. 116–260 substituted “$9,000,000 for each of fiscal years 2022 through 2026” for “$4,900,000 for each of fiscal years 2015 through 2019”. 2014—Subsec. (h). Pub. L. 113–265 substituted “$4,900,000 for each of fiscal years 2015 through 2019” for “$9,000,000 for each of the fiscal years 2010 through 2014”.

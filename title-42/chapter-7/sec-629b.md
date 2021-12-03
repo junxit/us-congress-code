@@ -57,6 +57,8 @@ section: 629b
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 432 of act Aug. 14, 1935, was classified to section 632 of this title prior to repeal by Pub. L. 100–485.
@@ -64,6 +66,8 @@ A prior section 432 of act Aug. 14, 1935, was classified to section 632 of this 
 ### Amendments
 
 2018—Subsec. (a)(4). Pub. L. 115–123, § 50721(b)(2), struck out “time-limited” before “family reunification services”. Subsec. (a)(5)(A). Pub. L. 115–123, § 50721(b)(2), struck out “time-limited” before “family reunification services” in introductory provisions. Subsec. (b)(1). Pub. L. 115–123, § 50721(b)(2), struck out “time-limited” before “family reunification”. 2011—Subsec. (a)(8)(B)(i), (ii). Pub. L. 112–34, § 102(g)(1), substituted “form CFS–101 (including all parts and any successor forms)” for “forms CFS 101–Part I and CFS 101–Part II (or any successor forms)”. Subsec. (a)(10). Pub. L. 112–34, § 102(b), added par. (10). Subsec. (c). Pub. L. 112–34, § 102(e), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3). 2006—Subsec. (a)(8). Pub. L. 109–288, § 3(e)(1), designated existing provisions as subpar. (A) and added subpar. (B). Subsec. (b)(2). Pub. L. 109–288, § 5(b)(3)(A)(i), inserted “or tribal consortia” after “tribes” in heading. Subsec. (b)(2)(A). Pub. L. 109–288, § 5(c), substituted “the requirements of subsection (a)(4) of this section to the extent that the Secretary determines those requirements” for “any requirement of this section that the Secretary determines”. Pub. L. 109–288, § 5(b)(3)(A)(ii), inserted “or tribal consortium” after “Indian tribe” wherever appearing. Subsec. (b)(2)(B). Pub. L. 109–288, § 5(b)(3)(A)(iii), inserted “or tribal consortium” after “Indian tribe” and “and tribal consortia” after “Indian tribes”. Subsec. (c). Pub. L. 109–288, § 3(e)(2), added subsec. (c). 1998—Subsec. (a)(8). Pub. L. 105–200 inserted “; and” at end. 1997—Subsec. (a)(4). Pub. L. 105–89, § 305(b)(1)(A)(i), substituted “, community-based family support services, time-limited family reunification services, and adoption promotion and support services,” for “and community-based family support services”. Subsec. (a)(5)(A). Pub. L. 105–89, § 305(b)(1)(A)(ii), substituted “, community-based family support services, time-limited family reunification services, and adoption promotion and support services” for “and community-based family support services”. Subsec. (a)(9). Pub. L. 105–89, § 305(c)(1), added par. (9). Subsec. (b)(1). Pub. L. 105–89, § 305(b)(1)(B), substituted “, family support, time-limited family reunification, and adoption promotion and support” for “and family support”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2018 Amendment
 

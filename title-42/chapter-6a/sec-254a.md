@@ -20,9 +20,13 @@ section: 254a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1988—Subsec. (b)(1). Pub. L. 100–607 inserted “schools of osteopathic medicine,” after “schools of medicine,” and “professions” after “health”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Availability of Appropriations for Expenses of Sharing Medical Care Facilities and Resources
 

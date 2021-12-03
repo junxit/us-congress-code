@@ -33,6 +33,8 @@ section: 1395zz
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 1395zz, act Aug. 14, 1935, ch. 531, title XVIII, § 1889, as added Nov. 5, 1990, Pub. L. 101–508, title IV, § 4361(a), 104 Stat. 1388–141, related to medicare and medigap information by telephone, prior to repeal by Pub. L. 103–432, title I, § 171(j)(3), (l), Oct. 31, 1994, 108 Stat. 4451, effective as if included in the enactment of Pub. L. 101–508. Another prior section 1395zz, act Aug. 14, 1935, ch. 531, title XVIII, § 1889, formerly § 1833(f), as added Jan. 2, 1968, Pub. L. 90–248, title I, § 132(b), 81 Stat. 850, and amended Oct. 30, 1972, Pub. L. 92–603, title II, § 245(d), 86 Stat. 1424; Oct. 25, 1977, Pub. L. 95–142, § 16(a), 91 Stat. 1200; renumbered § 1889 and amended July 18, 1984, Pub. L. 98–369, div. B, title III, § 2321(d), 98 Stat. 1084, provided for purchase of durable medical equipment, covering (a) lease-purchase basis or rental and determination by Secretary, (b) waiver of coinsurance amount in purchase of used equipment, (c) reimbursement procedures, and (d) encouragement of lease-purchase basis, prior to repeal by Pub. L. 100–203, title IV, § 4062(d)(5), (e), Dec. 22, 1987, 101 Stat. 1330–109, applicable to covered items (other than oxygen and oxygen equipment) furnished on or after Jan. 1, 1989, and to oxygen and oxygen equipment furnished on or after June 1, 1989.
@@ -40,6 +42,8 @@ A prior section 1395zz, act Aug. 14, 1935, ch. 531, title XVIII, § 1889, as add
 ### Amendments
 
 2003—Subsecs. (b), (c). Pub. L. 108–173, § 921(d)(1), added subsecs. (b) and (c). Subsec. (d). Pub. L. 108–173, § 921(e)(1), added subsec. (d). Subsecs. (e) to (g). Pub. L. 108–173, § 921(f)(1), added subsecs. (e) to (g).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2003 Amendment
 

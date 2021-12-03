@@ -30,14 +30,20 @@ section: 280i
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2019—Subsec. (a)(1). Pub. L. 116–60, § 3(a)(1), substituted “adults with autism spectrum disorder” for “adults on autism spectrum disorder”. Subsec. (a)(2). Pub. L. 116–60, § 3(a)(2), substituted “State, local, and Tribal public health officials” for “State and local public health officials” and “and other developmental disabilities” for “or other developmental disabilities”. Subsec. (a)(3). Pub. L. 116–60, § 3(a)(3), substituted “a university, any other educational institution, an Indian tribe, or a tribal organization” for “a university, or any other educational institution”. Subsec. (b)(2)(A). Pub. L. 116–60, § 3(a)(4), substituted “State, local, and Tribal public health officials, private sector developmental disability researchers, advocates for individuals with autism spectrum disorder, and advocates for individuals with other developmental disabilities” for “relevant State and local public health officials, private sector developmental disability researchers, and advocates for individuals with developmental disabilities”. Subsec. (d). Pub. L. 116–60, § 3(a)(5), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. Subsec. (e). Pub. L. 116–60, § 3(a)(6), substituted “2024” for “2019”. 2014—Subsec. (a)(1). Pub. L. 113–157, § 3(1), inserted “for children and adults” after “reporting of State epidemiological data”. Subsec. (b)(1). Pub. L. 113–157, § 3(2), substituted “establishment or support of regional centers of excellence” for “establishment of regional centers of excellence” and inserted “for children and adults” before period at end. Subsec. (b)(2). Pub. L. 113–157, § 3(3), substituted “center to be established or supported” for “center to be established” in introductory provisions. Subsec. (e). Pub. L. 113–157, § 3(4), substituted “2019” for “2014”. 2011—Subsec. (e). Pub. L. 112–32 substituted “2014” for “2011”.
 
-### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+### Statutory Notes and Related Subsidiaries
 
 ### National Autism Spectrum Disorder Initiative
 
 Pub. L. 113–157, § 2, Aug. 8, 2014, 128 Stat. 1831, provided that: “(a) In General.—The Secretary of Health and Human Services shall designate an existing official within the Department of Health and Human Services to oversee, in consultation with the Secretaries of Defense and Education, national autism spectrum disorder research, services, and support activities. “(b) Duties.—The official designated under subsection (a) shall—“(1) implement autism spectrum disorder activities, taking into account the strategic plan developed by the Interagency Autism Coordinating Committee under section 399CC(b) of the Public Health Service Act (42 U.S.C. 280i–2(b)); and “(2) ensure that autism spectrum disorder activities of the Department of Health and Human Services and of other Federal departments and agencies are not unnecessarily duplicative.”
+
+### Executive Documents
+
+### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.

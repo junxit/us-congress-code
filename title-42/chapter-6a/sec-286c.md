@@ -20,6 +20,8 @@ section: 286c
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1993—Subsec. (c). Pub. L. 103–43 struck out subsec. (c) which read as follows: “For the purpose of performing the duties specified in subsection (b) of this section, there are authorized to be appropriated $8,000,000 for fiscal year 1989 and such sums as may be necessary for fiscal year 1990. Funds appropriated under this subsection shall remain available until expended.”

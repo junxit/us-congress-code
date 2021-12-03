@@ -37,9 +37,13 @@ section: 285r
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2007—Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to appropriations for fiscal years 2001 to 2003.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2007 Amendment
 

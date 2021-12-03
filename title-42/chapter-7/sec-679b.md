@@ -34,9 +34,13 @@ section: 679b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (a)(7)(A). Pub. L. 115–123 added cls. (i) and (ii) and struck out former cls. (i) to (vi) which read as follows: “(i) the number of children in the placements and their ages, including separately, the number and ages of children who have a permanency plan of another planned permanent living arrangement; “(ii) the duration of the placement in the settings (including for children who have a permanency plan of another planned permanent living arrangement); “(iii) the types of child care institutions used (including group homes, residential treatment, shelters, or other congregate care settings); “(iv) with respect to each child care institution or other setting that is not a foster family home, the number of children in foster care residing in each such institution or non-foster family home; “(v) any clinically diagnosed special need of such children; and “(vi) the extent of any specialized education, treatment, counseling, or other services provided in the settings; and”. 2014—Pub. L. 113–183 designated existing provisions as subsec. (a), inserted heading, and added par. (7) and subsec. (b). 2011—Par. (6)(B), (C). Pub. L. 112–34 added subpar. (B) and redesignated former subpar. (B) as (C). 2006—Par. (6). Pub. L. 109–288 added par. (6).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2018 Amendment
 

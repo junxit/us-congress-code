@@ -22,6 +22,8 @@ section: 280e–3a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
@@ -29,6 +31,8 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 ### Amendments
 
 2018—Subsec. (a). Pub. L. 115–180, § 102(a)(1), substituted “may make awards to State cancer registries” for “shall award a grant”, “collect information to better understand the epidemiology of cancer in children, adolescents, and young adults” for “track the epidemiology of pediatric cancer into a comprehensive nationwide registry of actual occurrences of pediatric cancer”, and “Such registries may be updated to include each occurrence of such cancers within a period of time designated by the Secretary.” for “Such registry shall be updated to include an actual occurrence within weeks of the date of such occurrence.” Subsecs. (b), (c). Pub. L. 115–180, § 102(a)(3), added subsecs. (b) and (c). Former subsec. (b) redesignated (d). Subsec. (d). Pub. L. 115–180, § 102(a)(2), (4), redesignated subsec. (b) as (d) and substituted “activities described in this section” for “registry established pursuant to subsection (a)”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Findings and Purposes
 

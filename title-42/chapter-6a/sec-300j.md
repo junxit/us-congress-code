@@ -34,9 +34,13 @@ section: 300j
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1996—Subsec. (f). Pub. L. 104–182 inserted a period after “year”. 1986—Subsec. (f). Pub. L. 99–339 substituted “in effect for more than one year” for “in effect— (1) for more than one year, or (2) September 30, 1982, whichever occurs first.” 1979—Subsec. (f)(2). Pub. L. 96–63 substituted “September 30, 1982” for “September 30, 1979”. 1977—Subsec. (f). Pub. L. 95–190 substituted “September 30, 1979” for “June 30, 1977”.
+
+### Executive Documents
 
 ### Ex. Ord. No. 11879. Delegation of Functions to Secretary of Commerce Relating to Orders for Provision of Chemicals or Substances Necessary for Treatment of Water
 

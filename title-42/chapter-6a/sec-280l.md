@@ -21,9 +21,13 @@ In order to expand the utilization of evidence-based prevention and health promo
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2010—Par. (2). Pub. L. 111–148, § 10404, substituted “and ensuring” for “by ensuring”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Grants for Small Businesses To Provide Comprehensive Workplace Wellness Programs
 

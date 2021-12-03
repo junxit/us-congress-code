@@ -37,9 +37,13 @@ section: 300ff–31a
 
 1 So in original. Probably should be preceded by “section”.
 
+### Editorial Notes
+
 ### Amendments
 
 2009—Pub. L. 111–87, § 2(a)(1), (3)(A), repealed Pub. L. 109–415, § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below. Subsec. (a). Pub. L. 111–87, § 5(c)(3), substituted “300ff–28(a)(2)(F)” for “300ff–28(a)(2)(G)”. Subsec. (b). Pub. L. 111–87, § 5(c)(4), substituted “300ff–28(a)(2)(F)(ii)” for “300ff–28(a)(2)(G)(ii)” in introductory provisions. Subsec. (c)(1). Pub. L. 111–87, § 5(c)(2), substituted “300ff–28(a)(2)(F)(i)” for “300ff–28(a)(2)(G)(i)” in introductory provisions. Subsec. (c)(4)(A). Pub. L. 111–87, §§ 5(c)(2), 8(b)(1)(B), substituted “300ff–28(a)(2)(F)(i)” for “300ff–28(a)(2)(G)(i)” in introductory provisions and “5 percent” for “2 percent” in concluding provisions. Subsec. (c)(4)(A)(i). Pub. L. 111–87, § 8(c)(2), inserted “(less any amount of such balance that is the subject of a waiver of cancellation under paragraph (1))” after “unobligated balance”. Subsec. (d). Pub. L. 111–87, § 10(a), inserted at end “If an expenditure of ADAP rebate funds would trigger a penalty under this section or a higher penalty than would otherwise have applied, the State may request that for purposes of this section, the Secretary deem the State’s unobligated balance to be reduced by the amount of rebate funds in the proposed expenditure. Notwithstanding 300ff–28(a)(2)(F) of this title, any unobligated amount under section 300ff–28(a)(2)(F)(ii)(V) of this title that is returned to the Secretary for reallocation shall be used by the Secretary for— “(1) the ADAP supplemental program if the Secretary determines appropriate; or “(2) for additional amounts for grants pursuant to section 300ff–29a of this title.” Subsec. (e). Pub. L. 111–87, § 8(b)(2)(B), added subsec. (e). 2006—Pub. L. 109–415, § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, § 2(a)(1), effective Sept. 30, 2009.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2009 Amendment; Revival of Section
 

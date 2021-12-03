@@ -34,6 +34,8 @@ section: 293c
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 293c, act July 1, 1944, ch. 373, title VII, § 739, as added Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 2027, related to centers of excellence in health professions education for minority individuals, prior to the general amendment of this part by Pub. L. 105–392. See section 293 of this title. Another prior section 293c, act July 1, 1944, ch. 373, title VII, § 723, as added Sept. 24, 1963, Pub. L. 88–129, § 2(b), 77 Stat. 168; amended Aug. 16, 1968, Pub. L. 90–490, title I, § 103(a)(1), (2), 82 Stat. 773; Nov. 18, 1971, Pub. L. 92–157,title I, § 102(c)(5), (f)(2)(C), (j)(1), (5), 85 Stat. 432, 435–437; Oct. 12, 1976, Pub. L. 94–484, title III, § 305, 90 Stat. 2255; Aug. 13, 1981, Pub. L. 97–35, title XXVII, § 2723(f), 95 Stat. 916; Oct. 22, 1985, Pub. L. 99–129, title II, § 207(a), 99 Stat. 527, related to recovery by United States of grant moneys where facility was no longer owned by a public or nonprofit agency or where it ceased to be used for teaching or training purposes, prior to the general revision of this subchapter by Pub. L. 102–408. A prior section 739 of act July 1, 1944, was classified to section 294l of this title prior to the general revision of this subchapter by Pub. L. 102–408.

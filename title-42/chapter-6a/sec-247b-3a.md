@@ -19,6 +19,8 @@ section: 247b–3a
 
 1 So in original. Probably should be followed by “of”.
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Children’s Health Act of 2000, and not as part of the Public Health Service Act which comprises this chapter.
