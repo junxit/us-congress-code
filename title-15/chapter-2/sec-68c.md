@@ -21,6 +21,8 @@ section: 68c
 
 2 See Codification note.
 
+### Editorial Notes
+
 ### Codification
 
 Section 68b of this title, the second time it appears in subsec. (c), was in the original “subsection (4)” and was translated as reading “section 4” as the probable intent of Congress.
@@ -28,6 +30,8 @@ Section 68b of this title, the second time it appears in subsec. (c), was in the
 ### Amendments
 
 1984—Pub. L. 98–417 designated existing first and second pars. as subsecs. (a) and (b), respectively, and added subsec. (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1984 Amendment
 

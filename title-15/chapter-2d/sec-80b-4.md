@@ -72,9 +72,13 @@ section: 80b–4
 
 3 So in original. Probably should be “(e)”.
 
+### Editorial Notes
+
 ### Amendments
 
 2010—Subsecs. (b), (c). Pub. L. 111–203, § 404, added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d) relating to access to disciplinary and other information. Subsec. (d). Pub. L. 111–203, § 929Q(b), added subsec. (d) relating to records of persons with custody or use. Pub. L. 111–203, § 404(1), redesignated subsec. (c) as (d) relating to access to disciplinary and other information. 2006—Pub. L. 109–290 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c). 1975—Pub. L. 94–29 substituted “make and keep for prescribed periods such records (as defined in section 78c(a)(37) of this title), furnish such copies thereof, and make and disseminate such reports as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. All records (as so defined) of such investment advisers are subject at any time, or from time to time, to such reasonable periodic, special, or other examinations by representatives of the Commission as the Commission deems necessary or appropriate in the public interest or for the protection of investors” for “make, keep, and preserve for such periods, such accounts, correspondence, memorandums, papers, books, and other records, and make such reports, as the Commission by its rules and regulations may prescribe as necessary or appropriate in the public interest or for the protection of investors. Such accounts, correspondence, memorandums, papers, books, and other records shall be subject at any time or from time to time to such reasonable periodic, special, or other examinations by examiners or other representatives of the Commission as the Commission may deem necessary or appropriate in the public interest or for the protection of investors”. 1960—Pub. L. 86–750 substituted provisions requiring investment advisers who make business use of the mails or any instrument of interstate commerce, unless exempted from registration by section 80b–3(b) of this title, to keep and preserve accounts, correspondence, memorandums, papers, books, and records, and make such reports as the Commission requires by its rules and regulations, and that these accounts, correspondence, memorandums, papers, books and rec­ords shall be subject to examination by representatives of the Commission, for provisions requiring investment advisers registered under section 80b–3 of this title to file annual and special reports in such form as the Commission prescribed by its rules and regulations to keep current the information contained in the registration application.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 
@@ -83,6 +87,8 @@ Amendment by section 929Q(b) of Pub. L. 111–203 effective 1 day after July 21,
 ### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

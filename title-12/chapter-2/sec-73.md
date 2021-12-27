@@ -25,7 +25,7 @@ Title 62 of the Revised Statutes, referred to in text, was in the original “th
 
 R.S. § 5147 derived from act June 3, 1864, ch. 106, § 9, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
 
-### Statutory Notes and Related Subsidiaries
+### Executive Documents
 
 ### Exception as to Transfer of Functions
 

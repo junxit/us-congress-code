@@ -17,6 +17,8 @@ section: 81p
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1986—Subsec. (b). Pub. L. 99–386, § 203(b)(1), substituted “reports on zone operations” for “reports containing a full statement of all the operations, receipts, and expenditures, and such other information as the Board may require”. Subsec. (c). Pub. L. 99–386, § 203(b)(2), added subsec. (c) and struck out former subsec. (c) which required the Board to make an annual report to Congress containing a summary of the operation and fiscal condition of each zone, and transmit copies of the annual report of each grantee. 1980—Subsec. (c). Pub. L. 96–609 substituted “by April 1 of each year” for “on the first day of each regular session”.

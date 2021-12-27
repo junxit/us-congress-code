@@ -15,6 +15,8 @@ The Secretary of the Interior is authorized in his discretion to accept title to
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Provisions of act Feb. 4, 1932, § 2, relating to Mammoth Cave National Park and Isle Royale National Park are classified to sections 404d and 408c of this title.

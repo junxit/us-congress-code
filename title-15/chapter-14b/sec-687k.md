@@ -19,6 +19,8 @@ Nothing in any provision of law shall be construed to authorize the Federal Fina
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 318 of Pub. L. 85–699 was classified to section 687j of this title, prior to repeal by Pub. L. 104–208.

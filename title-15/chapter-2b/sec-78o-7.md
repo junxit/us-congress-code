@@ -289,6 +289,8 @@ section: 78o–7
 
 2 So in original. The word “and” probably should appear.
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), (3), (g), and (m)(1), was in the original “this title”. See References in Text note set out under section 78a of this title. The Securities Exchange Act of 1934, referred to in subsec. (f)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to this chapter (§ 78a et seq.). For complete classification of this Act to the Code, see section 78a of this title and Tables.
@@ -296,6 +298,8 @@ This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), 
 ### Amendments
 
 2010—Subsec. (b)(1)(A). Pub. L. 111–203, § 932(a)(1)(A), substituted “filed” for “furnished” and “filing” for “furnishing”. Subsec. (b)(1)(B). Pub. L. 111–203, § 932(a)(1)(B), substituted “filing” for “furnishing”. Subsec. (b)(2). Pub. L. 111–203, § 932(a)(1)(C), substituted “file with” for “furnish to” in introductory provisions. Subsec. (c)(2). Pub. L. 111–203, § 932(a)(2)(A), inserted “any other provision of this section, or” after “Notwithstanding” and inserted at end “Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.” Subsec. (c)(3). Pub. L. 111–203, § 932(a)(2)(B), added par. (3). Subsec. (d). Pub. L. 111–203, § 932(a)(3), designated existing provisions as par. (1), inserted heading, inserted “, or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationally recognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization,” before “if the Commission finds” and “bar” before “or revocation is necessary”, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted “filed with” for “furnished to” in introductory provisions, in subpar. (D), substituted “file” for “furnish”, and added subpar. (F) and par. (2). Subsec. (h)(3) to (5). Pub. L. 111–203, § 932(a)(4), added pars. (3) to (5). Subsec. (j). Pub. L. 111–203, § 932(a)(5), designated existing provisions as par. (1), inserted heading, and added pars. (2) to (5). Subsec. (k). Pub. L. 111–203, § 932(a)(6), substituted “file with” for “furnish to”. Subsec. (l)(2)(A)(i). Pub. L. 111–203, § 932(a)(7), substituted “filed” for “furnished”. Subsec. (m). Pub. L. 111–203, § 933(a), amended subsec. (m) generally. Prior to amendment, subsec. (m) provided that registration did not constitute a waiver of rights, privileges, or defenses and that this section could not be construed as creating any private right of action. Subsecs. (p) to (t). Pub. L. 111–203, § 932(a)(8), added subsecs. (p) to (t) and struck out former subsec. (p) which related to applicability date of this section. Subsec. (u). Pub. L. 111–203, § 934, added subsec. (u). Subsec. (v). Pub. L. 111–203, § 935, added subsec. (v).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

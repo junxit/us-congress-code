@@ -15,6 +15,8 @@ On and after October 28, 1991, no funds in this Act or any other Act shall be av
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1992, and not as part of the Rural Electrification Act of 1936 which comprises this chapter.

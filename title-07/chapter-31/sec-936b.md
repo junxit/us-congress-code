@@ -35,6 +35,8 @@ section: 936b
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 October 21, 1992, referred to in subsec. (a)(5)(A), (B), was in the original “the date of enactment of this subsection”, which was translated as meaning the date of enactment of Pub. L. 102–428, which amended subsec. (a) generally, to reflect the probable intent of Congress.

@@ -15,6 +15,8 @@ The Secretary of the Navy is authorized to transfer to the control and jurisdict
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Recitation in this section as originally enacted of the fact that Acadia National Park was established under act Feb. 26, 1919 (40 Stat. 1178), as amended by act Jan. 19, 1929 (Public Numbered 667, Seventieth Congress), was omitted as historically obsolete.

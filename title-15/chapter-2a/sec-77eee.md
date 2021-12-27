@@ -24,6 +24,8 @@ section: 77eee
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Securities Act of 1933, referred to in subsec. (b)(2), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
@@ -32,9 +34,13 @@ The Securities Act of 1933, referred to in subsec. (b)(2), is act May 27, 1933, 
 
 1990—Subsec. (a)(1). Pub. L. 101–550, § 404(1), struck out “or has a conflicting interest as defined in subsection (b) of section 77jjj of this title” after “section 77jjj of this title”. Subsec. (b). Pub. L. 101–550, § 404(2), designated existing provisions as par. (1), substituted “Except as may be permitted by paragraph (2) of this subsection, the Commission shall issue” for “The Commission shall issue”, redesignated former par. (1) as subpar. (a) and inserted “or” at end, struck out former par. (2) which authorized Commission to prohibit a registration statement from taking effect if it finds that such indenture does not conform to requirements of sections 77jjj to 77rrr of this title, redesignated former par. (3) as subpar. (B) and struck out “or has any conflicting interest as defined in subsection (b) of section 77jjj of this title” after “section 77jjj of this title”, and added par. (2). 1954—Subsec. (c). Act Aug. 10, 1954, authorized the Commission to prescribe by rule and regulation the extent to which summaries of indenture provisions must be contained in prospectuses.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 1954 Amendment
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

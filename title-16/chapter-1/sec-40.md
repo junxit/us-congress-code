@@ -15,6 +15,8 @@ The President of the United States is authorized, in his discretion, to add by E
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Act of June 11, 1906, referred to in text, means act June 11, 1906, ch. 3074, 34 Stat. 233, which was classified to sections 506 to 508 and 509 of this title, and was repealed by Pub. L. 87–869, § 4, Oct. 23, 1962, 76 Stat. 1157.

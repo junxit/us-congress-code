@@ -34,9 +34,13 @@ section: 87f–1
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Subsecs. (a), (b)(1), (c) to (e). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing. 1993—Pub. L. 103–156, § 12(p), which directed amendment of “Section 17A”, without specifying the name of the Act being amended, was executed to this section, which is section 17A of the United States Grain Standards Act, to reflect the probable intent of Congress. Subsec. (a)(2). Pub. L. 103–156, § 12(p)(1), substituted “the producer” for “he”. Subsec. (c). Pub. L. 103–156, § 12(p)(2), substituted “the person” for “he” in last sentence. 1977—Subsec. (b)(1). Pub. L. 95–113 substituted “All persons required to register” for “All persons registered” in provisions preceding subpar. (A).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1977 Amendment
 

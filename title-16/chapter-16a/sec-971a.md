@@ -28,9 +28,13 @@ section: 971a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2007—Subsec. (e). Pub. L. 109–479 added subsec. (e). 2000—Subsec. (a)(1). Pub. L. 106–562 inserted before last sentence “Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.” 1990—Subsec. (a). Pub. L. 101–627, § 201(a), designated existing provisions as par. (1) and added pars. (2) and (3). Subsec. (d). Pub. L. 101–627, § 203, added subsec. (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Limitations on Appointments of Commissioners; Application to Current Commissioners
 

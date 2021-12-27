@@ -18,6 +18,8 @@ Not later than 3 years after December 31, 2011, and every 3 years thereafter, th
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the SBIR/STTR Reauthorization Act of 2011, and also as part of the National Defense Authorization Act for Fiscal Year 2012, and not as part of the Small Business Act which comprises this chapter.

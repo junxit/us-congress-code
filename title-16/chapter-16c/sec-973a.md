@@ -15,9 +15,13 @@ The seizure by a Pacific Island Party of a vessel of the United States shall not
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1996—Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1825(a)(4)(C) of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1996 Amendment
 

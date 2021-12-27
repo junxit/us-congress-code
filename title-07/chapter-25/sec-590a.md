@@ -15,6 +15,8 @@ On and after October 18, 1986, no funds available to the Department of Agricultu
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 411b of this title prior to editorial reclassification and renumbering as this section. Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1987, as enacted by Pub. L. 99–500 and Pub. L. 99–591, and not as part of the Export Apple Act which comprises this chapter. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.

@@ -15,6 +15,8 @@ The area formerly known as the “Theodore Roosevelt National Memorial Park”, 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Act of April 25, 1947, referred to in text, is act Apr. 25, 1947, ch. 41, 61 Stat. 52, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.

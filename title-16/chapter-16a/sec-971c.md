@@ -16,9 +16,13 @@ section: 971c
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1998—Subsec. (b). Pub. L. 105–384 directed amendment identical to amendment by Pub. L. 104–43. See 1995 Amendment note below. 1995—Subsec. (b). Pub. L. 104–43 substituted “exclusive economic zone” for “fisheries zone” after “territorial seas or” in third sentence.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Functions
 

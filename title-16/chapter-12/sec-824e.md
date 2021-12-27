@@ -32,6 +32,8 @@ section: 824e
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The Public Utility Holding Company Act of 1935, referred to in subsec. (c), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
@@ -39,6 +41,8 @@ The Public Utility Holding Company Act of 1935, referred to in subsec. (c), is t
 ### Amendments
 
 2005—Subsec. (a). Pub. L. 109–58, § 1295(b)(1), substituted “hearing held” for “hearing had” in first sentence. Subsec. (b). Pub. L. 109–58, § 1295(b)(2), struck out “the public utility to make” before “refunds of any amounts paid” in seventh sentence. Pub. L. 109–58, § 1285, in second sentence, substituted “the date of the filing of such complaint nor later than 5 months after the filing of such complaint” for “the date 60 days after the filing of such complaint nor later than 5 months after the expiration of such 60-day period”, in third sentence, substituted “the date of the publication” for “the date 60 days after the publication” and “5 months after the publication date” for “5 months after the expiration of such 60-day period”, and in fifth sentence, substituted “If no final decision is rendered by the conclusion of the 180-day period commencing upon initiation of a proceeding pursuant to this section, the Commission shall state the reasons why it has failed to do so and shall state its best estimate as to when it reasonably expects to make such decision” for “If no final decision is rendered by the refund effective date or by the conclusion of the 180-day period commencing upon initiation of a proceeding pursuant to this section, whichever is earlier, the Commission shall state the reasons why it has failed to do so and shall state its best estimate as to when it reasonably expects to make such decision”. Subsec. (e). Pub. L. 109–58, § 1286, added subsec. (e). 1988—Subsec. (a). Pub. L. 100–473, § 2(1), inserted provisions for a statement of reasons for listed changes, hearings, and specification of issues. Subsecs. (b) to (d). Pub. L. 100–473, § 2(2), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1988 Amendment
 

@@ -128,7 +128,7 @@ section: 636m
     - **(A)** any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of title 26, and
     - **(B)** except as provided by the Secretary of the Treasury (or the Secretary’s delegate), any increase in the adjusted basis of a partner’s interest in a partnership under section 705 of title 26 with respect to any amount described in subparagraph (A) shall equal the partner’s distributive share of deductions resulting from costs giving rise to forgiveness described in subsection (b).
 - **(j)** *Rule of construction* The cancellation of indebtedness on a covered loan under this section shall not otherwise modify the terms and conditions of the covered loan.
-- **(k)** *Regulations* Not later than 30 days after March 27, 2020, the Administrator shall issue guidance and regulations implementing this section.”
+- **(k)** *Regulations* Not later than 30 days after March 27, 2020, the Administrator shall issue guidance and regulations implementing this section.
 - **(l)** *Simplified application*
   - **(1)** *Covered loans up to $150,000*
     - **(A)** *In general* With respect to a covered loan made to an eligible recipient that is not more than $150,000, the covered loan amount shall be forgiven under this section if the eligible recipient—
@@ -177,7 +177,7 @@ section: 636m
 
 ### References in Text
 
-The National Emergencies Act, referred to in subsec. (a)(9)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables. Section 1102 of this Act, referred to in subsec. (a)(12), means section 1102 of div. A of Pub. L. 116–136. Section 2301 of the CARES Act, referred to in subsec. (a)(12), is section 2301 of Pub. L. 116–136, which is set out as a note under section 3111 of Title 26, Internal Revenue Code. Section 303 of the Taxpayer Certainty and Disaster Relief Act of 2020, referred to in subsec. (a)(12), is section 303 of div. EE of Pub. L. 116–260, Dec. 27, 3075, 134 Stat. 3075. Subsec. (d)(3)(C) of section 303 of the Act amended provisions set out as notes under section 3111 of Title 26, Internal Revenue Code. Subsecs. (a) to (c) and the rest of subsec. (d) of section 303 of the Act are not classified to the Code.
+The National Emergencies Act, referred to in subsec. (a)(9)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables. Section 1102 of this Act, referred to in subsec. (a)(12), means section 1102 of div. A of Pub. L. 116–136. Section 2301 of the CARES Act, referred to in subsec. (a)(12), is section 2301 of Pub. L. 116–136, which is set out as a note under section 3111 of Title 26, Internal Revenue Code. Section 303 of the Taxpayer Certainty and Disaster Relief Act of 2020, referred to in subsec. (a)(12), is section 303 of div. EE of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 3075. Subsec. (d)(3)(C) of section 303 of the Act amended provisions set out as notes under section 3111 of Title 26, Internal Revenue Code. Subsecs. (a) to (c) and the rest of subsec. (d) of section 303 of the Act are not classified to the Code.
 
 ### Codification
 

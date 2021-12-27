@@ -28,6 +28,8 @@ In carrying out the provisions of this subchapter, the Secretary of Agriculture 
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450), referred to in cl. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.

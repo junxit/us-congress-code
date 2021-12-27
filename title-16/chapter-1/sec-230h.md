@@ -15,6 +15,8 @@ The area described in the Act of October 9, 1962 (76 Stat. 755), as the “Chalm
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Act of October 9, 1962 (76 Stat. 755), referred to in text, is Pub. L. 87–759, Oct. 9, 1962, 76 Stat. 755. Section 5 of that Act, which related to the boundaries of the Park, is set out as a note under section 231a of this title.

@@ -22,9 +22,13 @@ section: 69f
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Trade Commission Act, referred to in subsec. (a), is defined in section 69 of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

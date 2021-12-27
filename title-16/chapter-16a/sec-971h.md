@@ -23,6 +23,8 @@ section: 971h
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 971i(b)(2)(H) of this title, referred to in subsec. (b)(2), was in the original “section 3(b)(2)(H) of that section” and was translated as reading “section 3(b)(2)(H) of that Act”, meaning Pub. L. 96–339, to reflect the probable intent of Congress.

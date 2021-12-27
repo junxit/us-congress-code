@@ -17,9 +17,13 @@ section: 77sss
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1998—Subsec. (b). Pub. L. 105–353 substituted “chapter 15 of title 44” for “the Federal Register Act”.
+
+### Executive Documents
 
 ### Transfer of Functions
 

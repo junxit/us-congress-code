@@ -18,6 +18,8 @@ section: 410yy–7
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2009—Subsec. (b). Pub. L. 111–11 substituted “each $1 of funds” for “each $4 of funds”.

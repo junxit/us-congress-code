@@ -16,6 +16,8 @@ section: 77hhh
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Securities Act of 1933, referred to in subsecs. (a) and (b), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables. The Securities Exchange Act of 1934, referred to in subsecs. (a) and (b), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
@@ -24,9 +26,13 @@ The Securities Act of 1933, referred to in subsecs. (a) and (b), is act May 27, 
 
 2010—Pub. L. 111–203 substituted “Securities Act of 1933 or the Securities Exchange Act of 1934” for “Securities Act of 1933, the Securities Exchange Act of 1934, or the Public Utility Holding Company Act of 1935” in subsecs. (a) and (b).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+### Executive Documents
 
 ### Transfer of Functions
 

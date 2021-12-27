@@ -24,9 +24,13 @@ section: 648c
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Small Business Innovation Protection Act of 2017, and not as part of the Small Business Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Findings
 

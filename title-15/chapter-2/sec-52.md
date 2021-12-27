@@ -18,9 +18,13 @@ section: 52
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Subsec. (a). Pub. L. 103–297 inserted “services,” after “devices,” in pars. (1) and (2). 1975—Subsec. (a). Pub. L. 93–637 substituted “in or having an effect upon commerce,” for “in commerce”. Subsec. (b). Pub. L. 93–637 substituted “in or affecting commerce” for “in commerce”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Information About Scams Related to COVID–19
 

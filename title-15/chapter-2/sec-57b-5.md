@@ -16,6 +16,8 @@ section: 57b–5
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 24 of act Sept. 26, 1914, was renumbered section 25 and is classified to section 57c of this title.

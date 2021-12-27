@@ -15,9 +15,13 @@ Any small business concern that is certified, or otherwise meets the criteria fo
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Small Business Reauthorization and Manufacturing Assistance Act of 2004, and also as part of the Consolidated Appropriations Act, 2005, and not as part of the Small Business Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Notice Regarding Participation of Small Business Concerns
 

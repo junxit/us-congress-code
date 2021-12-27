@@ -15,6 +15,8 @@ It is the sense of the Congress that the regular business loan program of the Sm
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.

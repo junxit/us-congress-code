@@ -42,9 +42,13 @@ section: 410aaaa
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of section 2203 of Pub. L. 116–9. Subsec. (g) of section 2203 of Pub. L. 116–9 repealed section 450ee–1 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definition of “Secretary”
 

@@ -22,6 +22,8 @@ The Secretary of the Interior is authorized subject to the following conditions 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1978—Subsec. (c). Pub. L. 95–348 inserted provisions relating to acceptance through donation or purchase of the real and personal property located on Lots 251–252 Estate Contant Enighed.

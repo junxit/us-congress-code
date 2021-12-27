@@ -16,6 +16,8 @@ section: 272a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1998—Pub. L. 105–329 inserted section catchline and subsec. (a) designation and heading and added subsec. (b).

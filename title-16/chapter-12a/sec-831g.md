@@ -17,9 +17,13 @@ section: 831g
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Subsec. (c). Pub. L. 108–447 substituted “Board” for “board”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2004 Amendment
 

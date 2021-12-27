@@ -17,6 +17,8 @@ section: 825l
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 In subsec. (b), “section 1254 of title 28” substituted for “sections 239 and 240 of the Judicial Code, as amended (U.S.C., title 28, secs. 346 and 347)” on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure.
@@ -24,6 +26,8 @@ In subsec. (b), “section 1254 of title 28” substituted for “sections 239 a
 ### Amendments
 
 2005—Subsec. (a). Pub. L. 109–58 inserted “electric utility,” after “Any person,” and “to which such person,” and substituted “brought by any entity unless such entity” for “brought by any person unless such person”. 1958—Subsec. (a). Pub. L. 85–791, § 16(a), inserted sentence to provide that Commission may modify or set aside findings or orders until record has been filed in court of appeals. Subsec. (b). Pub. L. 85–791, § 16(b), in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, substituted “file with the court” for “certify and file with the court a transcript of”, and inserted “as provided in section 2112 of title 28”, and in third sentence, substituted “jurisdiction, which upon the filing of the record with it shall be exclusive” for “exclusive jurisdiction”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

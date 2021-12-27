@@ -17,9 +17,13 @@ section: 81r
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1958—Subsec. (c). Pub. L. 85–791 substituted “thereupon file in the court” for “forthwith prepare, certify, and file in the court a full and accurate transcript of” and “as provided in section 2112 of title 28” for “the charges, the evidence, and the order revoking the grant” in third sentence.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

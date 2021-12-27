@@ -18,6 +18,8 @@ section: 78aa
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in text, was in the original “this title”. See References in Text note set out under section 78a of this title. The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -30,9 +32,13 @@ As originally enacted section contained references to the Supreme Court of the D
 
 2010—Pub. L. 111–203, § 929P(b)(2), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b). Pub. L. 111–203, § 929E(b), inserted “In any action or proceeding instituted by the Commission under this chapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents or tangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence.” after “defendant may be found.” 1987—Pub. L. 100–181 struck out “, the United States District Court for the District of Columbia,” after “district courts of the United States” and substituted “sections 1254, 1291, 1292, and 1294 of title 28” for “sections 128 and 240 of the Judicial Code, as amended (U.S.C., title 28, secs. 225 and 347)”. See Codification note above.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+### Executive Documents
 
 ### Transfer of Functions
 

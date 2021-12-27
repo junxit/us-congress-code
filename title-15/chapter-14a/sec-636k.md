@@ -70,6 +70,8 @@ section: 636k
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 636(b) of this title, as amended by this Act, referred to in subsec. (c)(1), is section 636(b) of this title, as amended by Pub. L. 110–246. The date of enactment of this Act, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -77,6 +79,8 @@ Section 636(b) of this title, as amended by this Act, referred to in subsec. (c)
 ### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246. Section is comprised of section 12091 of Pub. L. 110–246. Subsec. (g) of section 12091 of Pub. L. 110–246 enacted section 657o of this title. Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and also as part of the Small Business Disaster Response and Loan Improvements Act of 2008, and not as part of the Small Business Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

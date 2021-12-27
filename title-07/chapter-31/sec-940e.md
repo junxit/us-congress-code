@@ -23,6 +23,8 @@ section: 940e
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -30,6 +32,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 ### Amendments
 
 2018—Subsec. (a)(2). Pub. L. 115–334, § 6506(1), substituted “critical transportation-related” for “commercial or transportation”. Subsec. (d). Pub. L. 115–334, § 6506(2), substituted “2023” for “2018”. 2014—Subsec. (d). Pub. L. 113–79 substituted “2018” for “2012”. 2008—Pub. L. 110–246, § 6107, amended section generally, substituting provisions relating to expansion of access, loan security, emergency communications equipment providers, and authorization of appropriations, consisting of subsecs. (a) to (d), for provisions relating to expansion of access and authorization of appropriations, consisting of subsecs. (a) and (b).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2008 Amendment
 

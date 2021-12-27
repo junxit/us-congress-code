@@ -17,6 +17,8 @@ Notwithstanding any other provision of law, the Secretary of the Interior is aut
 
 1 So in original. Probably should be “landowner”.
 
+### Editorial Notes
+
 ### Codification
 
 In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -24,6 +26,8 @@ In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3
 ### Amendments
 
 1989—Pub. L. 101–121 inserted sentence at end authorizing land owner to use the credits in exchange for excess land, wherever located, under the jurisdiction of the Secretary of the Interior.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Use of Accounts for Sales of Properties by Agencies
 

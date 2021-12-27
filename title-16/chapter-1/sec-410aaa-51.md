@@ -29,6 +29,8 @@ section: 410aaa–51
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 601(a)(3), referred to in text, is section 601(a)(3) of Pub. L. 103–433, which enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title.

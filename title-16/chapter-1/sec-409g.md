@@ -15,6 +15,8 @@ In order to preserve for the benefit and inspiration of the public certain lands
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as a part of act Mar. 2, 1933, ch. 182, 47 Stat. 1421, which comprises this subchapter.
@@ -22,6 +24,8 @@ Section was not enacted as a part of act Mar. 2, 1933, ch. 182, 47 Stat. 1421, w
 ### Amendments
 
 2018—Pub. L. 115–141 inserted “, from a willing owner only,” after “the Secretary of the Interior is authorized to procure” and substituted “715 acres” for “615 acres” in two places. 1991—Pub. L. 102–118 substituted “615 acres” for “600 acres” in two places. 1976—Pub. L. 94–578 substituted “600 acres” for “465 acres” in two places. 1974—Pub. L. 93–477 substituted “465 acres” for “two hundred and eighty-one acres” in two places and inserted proviso relating to property known as the Cross estate.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Authorization of Appropriations for Additional Lands
 

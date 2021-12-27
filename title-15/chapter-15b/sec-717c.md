@@ -25,6 +25,8 @@ section: 717c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Natural Gas Policy Act of 1978, referred to in subsec. (f)(1), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended, which is classified generally to chapter 60 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
@@ -32,6 +34,8 @@ The Natural Gas Policy Act of 1978, referred to in subsec. (f)(1), is Pub. L. 95
 ### Amendments
 
 2005—Subsec. (f). Pub. L. 109–58 added subsec. (f). 1962—Subsec. (e). Pub. L. 87–454 inserted “or gas distributing company” after “State commission”, and struck out proviso which denied authority to the Commission to suspend the rate, charge, classification, or service for the sale of natural gas for resale for industrial use only.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Advance Recovery of Expenses Incurred by Natural Gas Companies for Natural Gas Research, Development, and Demonstration Projects
 

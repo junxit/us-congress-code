@@ -15,6 +15,8 @@ The following area is excluded from the park: That portion of section 8 lying so
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act Apr. 25, 1947, ch. 41, 61 Stat. 52, which comprises this subchapter.

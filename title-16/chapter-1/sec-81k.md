@@ -15,6 +15,8 @@ The Secretary of the Interior is authorized, in his discretion, to accept on beh
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act July 3, 1930, ch. 837, 46 Stat. 855, which comprises this subchapter.

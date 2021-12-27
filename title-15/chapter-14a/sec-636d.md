@@ -18,6 +18,8 @@ section: 636d
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 4418 of title 42, referred to in subsec. (b), was repealed by Pub. L. 93–288, title VI, § 603, May 22, 1974, 88 Stat. 164. Provisions similar to former section 4418 of Title 42, The Public Health and Welfare, are contained in section 5155 of Title 42.
@@ -25,6 +27,8 @@ Section 4418 of title 42, referred to in subsec. (b), was repealed by Pub. L. 93
 ### Codification
 
 Section was enacted as part of the Disaster Relief Act of 1970, and not as part of the Small Business Act which comprises this chapter. Section was formerly classified to section 4456 of Title 42, The Public Health and Welfare.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

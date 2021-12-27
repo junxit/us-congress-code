@@ -24,6 +24,8 @@ section: 16a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Commodity Exchange Act, referred to in subsec. (c), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables.
@@ -35,6 +37,8 @@ Section was enacted as part of the Futures Trading Act of 1978, and not as part 
 ### Amendments
 
 1983—Pub. L. 97–444 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1983 Amendment
 

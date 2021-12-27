@@ -45,6 +45,8 @@ section: 410aaa–75
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in subsecs. (a) and (b)(1), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under section 410aaa of this title. The American Indian Religious Freedom Act, referred to in subsecs. (a), (b)(1), and (d)(3)(B)(ii), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables. The Archaeological Resources Protection Act of 1979, referred to in subsec. (d)(3)(B)(iii), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables. The Native American Graves Protection and Repatriation Act, referred to in subsec. (d)(3)(B)(iv), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 25 and Tables. The Religious Freedom Restoration Act of 1993, referred to in subsec. (d)(3)(B)(v), is Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally to chapter 21B (§ 2000bb et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000bb of Title 42 and Tables.
@@ -52,6 +54,8 @@ This Act, referred to in subsecs. (a) and (b)(1), is defined in section 3 of Pub
 ### Amendments
 
 2019—Pub. L. 116–9 added subsecs. (a), (b), (d), and (e), redesignated former subsec. (b) as (c), and struck out former subsec. (a) which related to access to park system units and wilderness areas by Indian people for traditional cultural and religious purposes.
+
+### Statutory Notes and Related Subsidiaries
 
 ### “Secretary” Defined
 

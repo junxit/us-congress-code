@@ -15,6 +15,8 @@ The decisions concerning the execution of this subchapter as it applies to prope
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Pub. L. 106–356 substituted “Secretary of the Interior” for “Secretary of Interior”.

@@ -29,9 +29,13 @@ section: 78q–2
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 78w(b)(1) of this title, referred to in subsec. (d), was omitted from the Code. For further details related to reports referred to in subsec. (d), see Codification note set out under section 78w of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

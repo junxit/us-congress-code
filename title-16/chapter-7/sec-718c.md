@@ -15,6 +15,8 @@ Nothing in this subchapter shall be construed to authorize any person to take an
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2006—Pub. L. 109–266 inserted section catchline. 1978—Pub. L. 95–616 inserted “or convention” after “treaty”.

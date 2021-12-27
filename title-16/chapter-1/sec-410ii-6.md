@@ -17,9 +17,13 @@ section: 410ii–6
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The effective date of this section, referred to in subsec. (a), probably means the date of enactment of Pub. L. 96–550, which was approved Dec. 19, 1980.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

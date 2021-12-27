@@ -15,6 +15,8 @@ Upon the vesting of title in the United States to such lands as may be designate
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Pub. L. 106–510 substituted “Puʻuhonua o Ho̅naunau National Historical Park” for “Puuhonua o Honaunau National Historical Park”. 1978—Pub. L. 95–625 redesignated as “Puuhonua o Honaunau National Historical Park” the park previously designated “City of Refuge National Historical Park”.

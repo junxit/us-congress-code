@@ -44,6 +44,8 @@ section: 78fff–2
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 8 of Pub. L. 91–598 was renumbered section 12 and is classified to section 78hhh of this title.
@@ -51,6 +53,8 @@ A prior section 8 of Pub. L. 91–598 was renumbered section 12 and is classifie
 ### Amendments
 
 1978—Subsecs. (a)(1), (c)(3). Pub. L. 95–598 substituted “title 11” for “the Bankruptcy Act”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1978 Amendment
 

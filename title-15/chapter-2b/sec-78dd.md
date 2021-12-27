@@ -17,6 +17,8 @@ section: 78dd
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in text, was in the original “this title”. See References in Text note set out under section 78a of this title. The Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (c), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted chapter 109 (§ 8301 et seq.) of this title and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
@@ -25,9 +27,13 @@ This chapter, referred to in text, was in the original “this title”. See Ref
 
 2010—Subsec. (c). Pub. L. 111–203 added subsec. (c).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

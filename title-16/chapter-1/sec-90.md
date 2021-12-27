@@ -15,6 +15,8 @@ In order to preserve for the benefit, use, and inspiration of present and future
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Short Title of 1988 Amendment
 
 Pub. L. 100–668, § 1, Nov. 16, 1988, 102 Stat. 3961, provided: “That this Act [enacting section 110c of this title, amending sections 90b, 90c–1, 90d–4, 251n, 256b, 256c, and 1274 of this title, and enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title and provisions set out as a note under section 251n of this title] may be cited as the ‘Washington Park Wilderness Act of 1988’.”

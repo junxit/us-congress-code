@@ -68,6 +68,8 @@ In this subchapter:
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in par. (4)(B), means Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, known as the Agricultural Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables.

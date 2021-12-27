@@ -17,9 +17,13 @@ section: 825n
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2005—Subsec. (c). Pub. L. 109–58 substituted “This section” for “This subsection”. 1992—Subsec. (c). Pub. L. 102–486 added subsec. (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

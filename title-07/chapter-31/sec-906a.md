@@ -15,6 +15,8 @@ No funds provided under the Rural Electrification Act of 1936, as amended [7 U.S
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Rural Electrification Act of 1936, referred to in text, is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 901 of this title and Tables.
@@ -22,6 +24,8 @@ The Rural Electrification Act of 1936, referred to in text, is act May 20, 1936,
 ### Codification
 
 Section was not enacted as part of the Rural Electrification Act of 1936 which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

@@ -19,6 +19,8 @@ section: 81p
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Omnibus Parks and Public Lands Management Act of 1996, and not as part of act July 3, 1930, ch. 837, 46 Stat. 855, which comprises this subchapter.

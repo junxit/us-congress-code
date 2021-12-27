@@ -16,6 +16,8 @@ section: 398e
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1978—Pub. L. 95–348 designated existing provisions as subsec. (a) and added subsec. (b).

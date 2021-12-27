@@ -15,6 +15,8 @@ The Secretary of Agriculture is authorized to effectuate agreements with cotton 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as subsec. (b) of section 6 of act Mar. 4, 1923, by act Sept. 21, 1944, § 401(b). Subsec. (a) of section 6 is classified to sections 56 and 57 of this title.

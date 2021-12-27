@@ -15,6 +15,8 @@ The Secretary shall provide adequate access to nonfederally owned land or intere
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under section 410aaa of this title.

@@ -15,9 +15,13 @@ The Secretary of the Interior may purchase, to the extent of not to exceed $5,00
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 662 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+
+### Executive Documents
 
 ### Transfer of Functions
 

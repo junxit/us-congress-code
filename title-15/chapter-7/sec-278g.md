@@ -18,6 +18,8 @@ section: 278g
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Immigration and Nationality Act, referred to in subsec. (d), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
@@ -29,6 +31,8 @@ A prior section 278g, act Mar. 3, 1901, ch. 872, § 17, as added Mar. 1, 1968, P
 ### Amendments
 
 1992—Subsec. (d). Pub. L. 102–245 added subsec. (d). 1988—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” wherever appearing.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

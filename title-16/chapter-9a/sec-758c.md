@@ -15,9 +15,13 @@ There is hereby authorized to be appropriated, out of any money in the Treasury 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1960—Pub. L. 86–624 substituted “State of Hawaii” for “Hawaiian Islands” and for “Territory of Hawaii”.
+
+### Executive Documents
 
 ### Transfer of Functions
 

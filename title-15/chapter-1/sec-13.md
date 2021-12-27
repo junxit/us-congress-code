@@ -20,9 +20,13 @@ section: 13
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1936—Act June 19, 1936, amended section generally.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

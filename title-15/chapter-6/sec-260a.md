@@ -17,9 +17,13 @@ section: 260a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2005—Subsec. (a). Pub. L. 109–58 substituted “second Sunday of March” for “first Sunday of April” and “first Sunday of November” for “last Sunday of October”. 1986—Subsec. (a). Pub. L. 99–359 substituted “first Sunday of April” for “last Sunday of April”. 1983—Subsec. (c). Pub. L. 97–449 substituted “Secretary of Transportation or his” for “Interstate Commerce Commission or its”. 1972—Subsec. (a). Pub. L. 92–267 authorized any State with parts thereof lying in more than one time zone to exempt by law that part of such State lying within any time zone from provisions of this subsection providing for advancement of time.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2005 Amendment
 
@@ -48,6 +52,8 @@ Pub. L. 99–359, § 2(d), July 8, 1986, 100 Stat. 764, provided that: “(1) No
 ### Emergency Daylight Saving Time Energy Conservation
 
 Pub. L. 93–182, Dec. 15, 1973, 87 Stat. 707, as amended by Pub. L. 93–434, Oct. 5, 1974, 88 Stat. 1209, enacted the Emergency Daylight Saving Time Energy Conservation Act of 1973, which extended daylight saving time. The act was effective at 2 a.m. on the fourth Sunday which occurred after Dec. 15, 1973 and terminated at 2 a.m. on the last Sunday of April 1975.
+
+### Executive Documents
 
 ### Ex. Ord. No. 11751. Exemptions From Daylight Saving Time and Realignments of Time Zone Limits
 

@@ -25,6 +25,8 @@ section: 78iii
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
@@ -32,6 +34,8 @@ This chapter, referred to in subsec. (f), was in the original “this Act”, me
 ### Amendments
 
 1978—Subsec. (a). Pub. L. 95–283, § 12(a), in heading substituted “Collection” for “Collecting”, and in text inserted provisions relating to designation of a self-regulatory organization other than the examining authority to act as collection agent and provisions relating to designation of a registered clearing agency as collection agent, and substituted provisions relating to remittances by the collection agent to SIPC, for provisions relating to remittances by an examining authority to SIPC. Subsec. (b). Pub. L. 95–283, § 12(b), inserted reference to section 78eee(a)(2) of this title. Subsec. (c). Pub. L. 95–283, § 12(c), revised existing format and provisions into introductory text and cl. (2) and, as so revised, in introductory text inserted provisions respecting participation by a member of SIPC in a self-regulatory organization and in cl. (2) inserted provisions respecting such participation and authorization for the Commission to designate itself as responsible for the statutory examination, and added cl. (1). Subsec. (f). Pub. L. 95–283, § 12(d), substituted provisions authorizing the Commission to set out rules requiring self-regulatory organizations to furnish SIPC with reports and records of members or participants in such self-regulatory organizations, for provisions authorizing the Commission to set out rules, and regulations requiring self-regulatory organizations to adopt rules, practices, and procedures respecting inspections and examinations of members and examiners, to furnish SIPC and the Commission with reports and records of members, and to inspect or examine members. 1975—Subsec. (c). Pub. L. 94–29 directed the Commission to designate the self-regulatory organization to be responsible for enforcing applicable rules with respect to any firm which is a member of more than one self-regulatory organization.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1975 Amendment
 

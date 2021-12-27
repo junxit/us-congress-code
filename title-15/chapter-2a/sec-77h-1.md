@@ -43,9 +43,13 @@ section: 77h–1
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2010—Subsec. (g). Pub. L. 111–203 added subsec. (g). 2002—Subsec. (f). Pub. L. 107–204 added subsec. (f).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

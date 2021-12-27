@@ -41,6 +41,8 @@ section: 823a
 
 1 So in original. Probably should be followed by a comma.
 
+### Editorial Notes
+
 ### References in Text
 
 The Fish and Wildlife Coordination Act, referred to in subsec. (c), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
@@ -52,6 +54,8 @@ A prior section 30 of act June 10, 1920, was classified to section 791 of this t
 ### Amendments
 
 2018—Subsec. (a)(2)(C). Pub. L. 115–270, § 3002(1), substituted “30 days” for “45 days” in introductory provisions. Subsec. (a)(3)(C)(ii). Pub. L. 115–270, § 3002(2), substituted “40 megawatts” for “5 megawatts”. 2013—Subsecs. (a), (b). Pub. L. 113–23, § 4(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which authorized the Commission to grant exemptions from the requirements of this subchapter for certain hydroelectric facilities and prohibited the granting of exemptions to facilities with certain capacities. Subsec. (c). Pub. L. 113–23, § 4(a)(2), substituted “subsection (b)” for “subsection (a)” in introductory provisions. Subsec. (d). Pub. L. 113–23, § 4(a)(3), substituted “subsection (b)” for “subsection (a)”. 1986—Subsec. (b). Pub. L. 99–495, § 7(a), inserted provision setting the maximum installation capacity for exemptions under subsec. (a) at 40 megawatts in the case of a facility constructed, operated, and maintained by an agency or instrumentality of a State or local government solely for water supply for municipal purposes. Subsec. (c). Pub. L. 99–495, § 7(b), which directed the insertion of “National Marine Fisheries Service” after “the Fish and Wildlife Service” in both places such term appears, was executed by inserting “National Marine Fisheries Service” after “the United States Fish and Wildlife Service” and “the Fish and Wildlife Service”, as the probable intent of Congress. Subsec. (e). Pub. L. 99–495, § 7(c), added subsec. (e).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1986 Amendment
 

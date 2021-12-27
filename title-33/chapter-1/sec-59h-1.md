@@ -11,4 +11,4 @@ section: 59h–1
 
 ### removalDescription
 
-Section, Pub. L. 110–114, title V, § 5052, Nov. 8, 2007, 121 Stat. 1211, related to San Francisco, California, waterfront area.
+Section, Pub. L. 110–114, title V, § 5052, Nov. 8, 2007, 121 Stat. 1211, related to area of nonnavigability in the San Francisco, California, waterfront area.

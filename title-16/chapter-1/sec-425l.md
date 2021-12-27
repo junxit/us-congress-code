@@ -24,6 +24,8 @@ section: 425l
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1999—Subsec. (a). Pub. L. 106–150 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the Secretary” for “The Secretary”, and added par. (2).

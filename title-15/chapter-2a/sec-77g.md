@@ -41,6 +41,8 @@ section: 77g
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 78c(a)(77) of this title, referred to in subsec. (d), was redesignated section 78c(a)(79) of this title by Pub. L. 112–106, title I, § 101(b)(1), Apr. 5, 2012, 126 Stat. 307.
@@ -49,6 +51,8 @@ Section 78c(a)(77) of this title, referred to in subsec. (d), was redesignated s
 
 2012—Subsec. (a). Pub. L. 112–106 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2). 2010—Subsec. (c). Pub. L. 111–203, § 942(b), added subsec. (c). Subsec. (d). Pub. L. 111–203, § 945, added subsec. (d). 1990—Pub. L. 101–429 designated existing provision as subsec. (a) and added subsec. (b).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -56,10 +60,6 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 ### Effective Date of 1990 Amendment
 
 Pub. L. 101–429, § 1(c), Oct. 15, 1990, 104 Stat. 931, provided that: “(1) In general.—Except as provided in paragraphs (2) and (3), the amendments made by this Act [enacting sections 77h–1, 78q–2, 78u–2, and 78u–3 of this title, amending this section and sections 77t, 78c, 78o, 78o–3, 78o–4, 78q–1, 78u, 78u–1, 78w, 78cc, 80a–9, 80a–41, 80b–3, 80b–9, and 80b–14 of this title, and enacting provisions set out as notes under sections 78a, 78o, and 78s of this title] shall be effective upon enactment [Oct. 15, 1990]. “(2) Civil penalties.—“(A) In general.—No civil penalty may be imposed pursuant to the amendments made by this Act on the basis of conduct occurring before the date of enactment of this Act [Oct. 15, 1990]. “(B) Accounting and disgorgement.—Subparagraph (A) shall not operate to preclude the Securities and Exchange Commission from ordering an accounting or disgorgement pursuant to the amendments made by this Act. “(3) Special rules for title v.—“(A) Sections 503 and 504.—Except as provided in subparagraph (C), sections 503 [amending section 78c of this title] and 504 [amending section 78o of this title and enacting provisions set out as a note under section 78o of this title] shall be effective 12 months after the date of enactment of this Act [Oct. 15, 1990] or upon the issuance of final regulations initially implementing such section [Such regulations were issued effective Apr. 28, 1992. See 57 F.R. 18004, 18037.], whichever is earlier. “(B) Sections 505 and 508.—Except as provided in subparagraph (C), sections 505 [amending section 78o of this title] and 508 [amending this section] shall be effective 18 months after the date of enactment of this Act or upon the issuance of final regulations initially implementing such sections [Such regulations were issued effective Apr. 28, 1992. See 57 F.R. 18004, 18037.], whichever is earlier. “(C) Commencement of rulemaking.—Not later than 180 days after the date of enactment of this Act, the Commission shall commence rulemaking proceedings to implement sections 503, 505, and 508.”
-
-### Transfer of Functions
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 ### Improvement of Regulation S–K
 
@@ -76,3 +76,9 @@ Pub. L. 112–106, title I, § 102(c), Apr. 5, 2012, 126 Stat. 310, provided tha
 ### Simplified Disclosure Requirements
 
 Pub. L. 112–106, title I, § 102(d), as added by Pub. L. 114–94, div. G, title LXXI, § 71003, Dec. 4, 2015, 129 Stat. 1783, provided that: “With respect to an emerging growth company (as such term is defined under section 2 of the Securities Act of 1933 [15 U.S.C. 77b]): “(1) Requirement to include notice on forms s–1 and f–1.—Not later than 30 days after the date of enactment of this subsection [Dec. 4, 2015], the Securities and Exchange Commission shall revise its general instructions on Forms S–1 and F–1 to indicate that a registration statement filed (or submitted for confidential review) by an issuer prior to an initial public offering may omit financial information for historical periods otherwise required by regulation S–X (17 CFR 210.1–01 et seq.) as of the time of filing (or confidential submission) of such registration statement, provided that—“(A) the omitted financial information relates to a historical period that the issuer reasonably believes will not be required to be included in the Form S–1 or F–1 at the time of the contemplated offering; and “(B) prior to the issuer distributing a preliminary prospectus to investors, such registration statement is amended to include all financial information required by such regulation S–X at the date of such amendment. “(2) Reliance by issuers.—Effective 30 days after the date of enactment of this subsection, an issuer filing a registration statement (or submitting the statement for confidential review) on Form S–1 or Form F–1 may omit financial information for historical periods otherwise required by regulation S–X (17 CFR 210.1–01 et seq.) as of the time of filing (or confidential submission) of such registration statement, provided that—“(A) the omitted financial information relates to a historical period that the issuer reasonably believes will not be required to be included in the Form S–1 or Form F–1 at the time of the contemplated offering; and “(B) prior to the issuer distributing a preliminary prospectus to investors, such registration statement is amended to include all financial information required by such regulation S–X at the date of such amendment.”
+
+### Executive Documents
+
+### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.

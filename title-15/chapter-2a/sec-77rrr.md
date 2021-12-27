@@ -17,6 +17,8 @@ section: 77rrr
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1990—Subsec. (a). Pub. L. 101–550, § 417(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The indenture to be qualified shall provide that if any provision thereof limits, qualifies, or conflicts with another provision which is required to be included in such indenture by any of sections 77jjj to 77qqq of this title, inclusive, such required provision shall control.” Subsec. (c). Pub. L. 101–550, § 417(2), added subsec. (c).

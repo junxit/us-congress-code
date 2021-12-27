@@ -16,6 +16,8 @@ section: 824l
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### State Authorities; Construction
 
 Nothing in this section to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 796 of this title.

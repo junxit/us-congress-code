@@ -22,6 +22,8 @@ section: 78oo
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsec. (b)(1), was in the original “this title”. See References in Text note set out under section 78a of this title and Codification note below. The Federal National Mortgage Association Charter Act, referred to in subsec. (c)(2), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§ 1716 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of Title 12 and Tables. The Federal Home Loan Mortgage Corporation Act, referred to in subsec. (c)(3), is title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, which is classified generally to chapter 11A (§ 1451 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of Title 12 and Tables.

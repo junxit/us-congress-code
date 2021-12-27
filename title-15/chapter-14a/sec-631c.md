@@ -32,6 +32,8 @@ section: 631c
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 This subtitle, referred to in subsec. (a), is subtitle D (§§ 141–147) of title I of div. K of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3453, which enacted this section, amended sections 637, 648, 657b, and 657c of this title, enacted provisions set out as note under section 637 of this title, and amended provisions set out as a note under section 657b of this title. For complete classification of subtitle D to the Code, see Tables.

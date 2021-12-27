@@ -18,6 +18,8 @@ section: 390d
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title. Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -29,6 +31,8 @@ A prior section 390d, Pub. L. 88–74, § 5, July 22, 1963, 77 Stat. 91; Pub. L.
 ### Amendments
 
 2018—Subsec. (a). Pub. L. 115–334, § 7503(d)(1), substituted “subsections (b), (c), and (d),” for “subsection (b),” and “2023” for “2018” and inserted at end “Funds appropriated pursuant to the preceding sentence shall be available until expended.” Subsecs. (c), (d). Pub. L. 115–334, § 7503(d)(2), added subsecs. (c) and (d). 2014—Subsec. (a). Pub. L. 113–79 substituted “2018” for “2012”. 2008—Subsec. (a). Pub. L. 110–246, § 7405, substituted “2012” for “2007”. 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”. 1998—Subsec. (a). Pub. L. 105–185 substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2008 Amendment
 

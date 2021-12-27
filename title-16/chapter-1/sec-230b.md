@@ -15,9 +15,13 @@ Within the Barataria Preserve Unit, the owner or owners of improved property use
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2009—Pub. L. 111–11 substituted “Barataria Preserve Unit” for “Barataria Marsh Unit” in first sentence and inserted “(or January 1, 2007, for areas added to the park after that date)” after “January 1, 1977” in fifth sentence.
+
+### Statutory Notes and Related Subsidiaries
 
 ### “Secretary” Defined
 

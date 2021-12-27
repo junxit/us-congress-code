@@ -19,9 +19,13 @@ section: 278l
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Subsec. (a). Pub. L. 114–329 substituted “Hollings Manufacturing Extension Partnership” for “Centers program created”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Technology Extension Services
 

@@ -17,9 +17,13 @@ For the purpose of developing adequate, coordinated, cooperative research and tr
 
 1 So in original. Probably should be “section”.
 
+### Editorial Notes
+
 ### Amendments
 
 1978—Pub. L. 95–616, in proviso, substituted “scientific personnel” for “technical personnel” and authorized provision of assistance (including reasonable financial compensation) for the work of researchers on funded fish and wildlife ecology and resource management projects.
+
+### Executive Documents
 
 ### Transfer of Functions
 

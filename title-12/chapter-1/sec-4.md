@@ -25,7 +25,7 @@ R.S. § 327 derived from act June 3, 1864, ch. 106, § 1, 13 Stat. 99, which was
 
 1972—Pub. L. 92–310 struck out provisions which required each Deputy Comptroller to give a bond in the sum of $100,000. 1959—Pub. L. 86–251 provided for the appointment of four Deputy Comptrollers instead of one, the designation of one as the First Deputy, the fixing of salaries, increase in surety bond requirement from $50,000 to $100,000 and order of succession.
 
-### Statutory Notes and Related Subsidiaries
+### Executive Documents
 
 ### Exception as to Transfer of Functions
 

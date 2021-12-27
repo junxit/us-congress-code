@@ -20,9 +20,13 @@ section: 77h
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1940—Subsec. (a). Act Aug. 22, 1940, amended subsec. (a) generally.
+
+### Executive Documents
 
 ### Transfer of Functions
 

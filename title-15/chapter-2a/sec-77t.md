@@ -36,9 +36,13 @@ section: 77t
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2010—Subsec. (d)(3)(A). Pub. L. 111–203 inserted “and section 78u–6 of this title” after “section 7246 of this title”. 2002—Subsec. (d)(3)(A). Pub. L. 107–204, § 308(d)(3), inserted “, except as otherwise provided in section 7246 of this title” before period at end. Subsec. (e). Pub. L. 107–204, § 305(a)(2), substituted “unfitness” for “substantial unfitness”. Subsec. (g). Pub. L. 107–204, § 603(b), added subsec. (g). 1995—Subsec. (f). Pub. L. 104–67 added subsec. (f). 1990—Subsecs. (d), (e). Pub. L. 101–429 added subsecs. (d) and (e). 1987—Subsec. (b). Pub. L. 100–181, § 208(a), inserted first sentence and struck out former first sentence containing similar provisions. Subsec. (c). Pub. L. 100–181, § 208(b), amended subsec. (c) generally.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 
@@ -55,6 +59,8 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 ### Construction of 1995 Amendment
 
 Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a Construction note under section 78j–1 of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

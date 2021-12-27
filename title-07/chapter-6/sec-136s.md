@@ -18,9 +18,13 @@ section: 136s
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1996—Subsecs. (b) to (d). Pub. L. 104–170 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. 1991—Subsec. (b). Pub. L. 102–237 substituted “the Administrator” for “he” before “deems” and “the Administrator’s” for “his”. 1988—Pub. L. 100–532, § 801(l), inserted headings for subsecs. (a) to (c). 1975—Subsec. (a). Pub. L. 94–140 inserted “in accordance with the procedure described in section 136w(a) of this title” after “Secretary of Agriculture”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1988 Amendment
 

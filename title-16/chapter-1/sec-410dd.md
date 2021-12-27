@@ -33,9 +33,13 @@ section: 410dd
 
 2 So in original. Probably should be “subsection”.
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Subsec. (b). Pub. L. 103–437, § 6(i)(1), substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”. Subsec. (h). Pub. L. 103–437, § 6(i)(2), struck out subsec. (h) which directed Secretary, within two years from Aug. 18, 1978, to develop and transmit to Congressional committees, a general management plan for War in the Pacific National Historic Park, and to transmit within 5 years of Aug. 18, 1978, a study of additional sites associated with Pacific Campaign of World War II. 1993—Subsec. (k). Pub. L. 103–197, § 3(a), substituted “$8,000,000” for “$500,000”. Subsecs. (l) to (o). Pub. L. 103–197, § 3(b), added subsecs. (l) to (o).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Congressional Findings
 

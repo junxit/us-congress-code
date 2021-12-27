@@ -15,9 +15,13 @@ In carrying out the provisions of clause (2) of section 612c of title 7, the Sec
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1958—Pub. L. 85–483 permitted donation of commodities for use in nonprofit summer camps for children. 1942—Act June 27, 1942, provided for the continuance of the Corporation from June 30, 1942, to June 30, 1945. It read as follows: “The Federal Surplus Commodities Corporation is hereby continued as an agency of the United States, under the direction of the Secretary of Agriculture, until June 30, 1945.” 1938—Act Feb. 16, 1938, substituted “until June 30, 1942” for “until June 30, 1939”.
+
+### Executive Documents
 
 ### Transfer of Functions
 

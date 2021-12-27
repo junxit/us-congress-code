@@ -63,6 +63,8 @@ section: 15b
 
 2 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The Commodity Exchange Act, referred to in subsec. (c)(1), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables. The United States Cotton Standards Act, referred to in subsec. (c)(5), is act Mar. 4, 1923, ch. 288, 42 Stat. 1517, which is classified generally to chapter 2 (§ 51 et seq.) of this title. For complete classification of this Act to the Code, see section 51 of this title and Tables. The Internal Revenue Code of 1954, referred to in subsec. (l), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, and is classified to Title 26, Internal Revenue Code.
@@ -74,6 +76,8 @@ Section was enacted as part of the Tax Reform Act of 1976, and not as part of th
 ### Amendments
 
 2015—Subsec. (c)(1). Pub. L. 114–36 inserted a dash after “except that”, designated “any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section.” as subpar. (A), and added subpar. (B). 2000—Subsec. (d)(2). Pub. L. 106–472 inserted at end “A person complying with the preceding sentence shall not be liable for any loss or damage arising or resulting from such compliance.” 1991—Subsec. (c)(1). Pub. L. 102–237 inserted before period at end “, except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section”. 1981—Subsec. (f)(1)(G). Pub. L. 97–35 inserted provisions relating to crediting to account referred to in section 55 of this title and provisions respecting cotton samples submitted or used becoming the property of the United States.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2015 Amendment
 

@@ -72,6 +72,8 @@ section: 77r
 
 4 So in original. No subpar. (E) has been enacted.
 
+### Editorial Notes
+
 ### References in Text
 
 The Investment Company Act of 1940, referred to in subsec. (b)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables. Section 77d(1), (2), (3), (4), and (6) of this title, referred to in subsecs. (b)(4)(A) to (C), (E) and (c)(1)(B), were redesignated section 77d(a)(1), (2), (3), (4), and (6), respectively, of this title by Pub. L. 112–106, title II, § 201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
@@ -80,13 +82,11 @@ The Investment Company Act of 1940, referred to in subsec. (b)(2), is title I of
 
 2018—Subsec. (b)(1)(A). Pub. L. 115–174, § 501(1), (4), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “listed, or authorized for listing, on the New York Stock Exchange or the American Stock Exchange, or listed, or authorized for listing, on the National Market System of the Nasdaq Stock Market (or any successor to such entities);”. Subsec. (b)(1)(B). Pub. L. 115–174, § 501(4), redesignated subpar. (C) as (B). Former subpar. (B) redesignated (A). Pub. L. 115–174, § 501(2), inserted “a security designated as qualified for trading in the national market system pursuant to section 78k–1(a)(2) of this title that is” before “listed” and struck out “that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A)” after “(or tier or segment thereof)”. Subsec. (b)(1)(C). Pub. L. 115–174, § 501(4), redesignated subpar. (C) as (B). Pub. L. 115–174, § 501(3), struck out “or (B)” after “described in subparagraph (A)”. 2015—Subsec. (b)(4)(E). Pub. L. 114–94, § 76001(b)(1), which directed amendment of subsec. (b)(4) by redesignating “the second subparagraph (D)” as (E), was executed by making the redesignation for the subpar. (D) relating to section 77c(a) of this title to reflect the probable intent of Congress. Former subpar. (E) redesignated (F). Subsec. (b)(4)(F). Pub. L. 114–94, § 76001(b)(1), redesignated subpar. (E) as (F). Subsec. (b)(4)(G). Pub. L. 114–94, § 76001(b)(2)–(4), added subpar. (G). 2012—Subsec. (b)(4)(C). Pub. L. 112–106, § 305(a)(2), added subpar. (C). Former subpar. (C) redesignated (D). Subsec. (b)(4)(D). Pub. L. 112–106, § 401(b), added subpar. (D) relating to section 77c(b)(2) of this title. Pub. L. 112–106, § 305(a)(1), redesignated subpar. (C), relating to section 77c(a) of this title, as (D). Former subpar (D) redesignated (E). Subsec. (b)(4)(E). Pub. L. 112–106, § 305(a)(1), redesignated subpar. (D) as (E). Subsec. (c)(1). Pub. L. 112–106, § 305(b)(2), substituted “, in connection with securities or securities transactions” for “with respect to fraud or deceit, or unlawful conduct by a broker or dealer, in connection with securities or securities transactions.” and added subpars. (A) and (B). Subsec. (c)(1)(A)(ii). Pub. L. 112–106, § 305(d)(2), which directed amendment of subsec. (c)(1) by substituting “, dealer, or funding portal” for “or dealer”, was executed by making the substitution in subpar. (A)(ii) as added by Pub. L. 112–106, § 305(b)(2). Subsec. (c)(2)(F). Pub. L. 112–106, § 305(c), added subpar. (F). 2010—Subsec. (b)(1)(C). Pub. L. 111–203, § 985(a)(2)(A), substituted “(C) a security” for “(C) is a security”. Subsec. (c)(2)(B)(i). Pub. L. 111–203, § 985(a)(2)(B), substituted “State or” for “State, or”. 1998—Subsec. (b)(1)(A). Pub. L. 105–353, § 301(a)(4)(A), inserted “, or authorized for listing,” after “Exchange, or listed”. Subsec. (b)(4)(C). Pub. L. 105–353, § 302, substituted “paragraph (4), (10), or (11)” for “paragraph (4) or (11)”. Subsec. (c)(2)(B)(i), (C)(i). Pub. L. 105–353, § 301(a)(4)(B), (C), made technical amendments to references in original act which appear in text as references to October 11, 1996. Subsec. (d)(1)(A). Pub. L. 105–353, § 301(a)(4)(D), substituted “section 77b(a)(10)” for “section 77b(10)” and “subparagraphs (a) and (b)” for “subparagraphs (A) and (B)”. Subsec. (d)(2). Pub. L. 105–353, § 301(a)(4)(E), made technical amendment to reference in original act which appears in text as reference to October 11, 1996. Subsec. (d)(4). Pub. L. 105–353, § 301(a)(4)(F), substituted “The term” for “For purposes of this paragraph, the term”. 1996—Pub. L. 104–290 substituted “Exemption from State regulation of securities offerings” for “State control of securities” as section catchline and amended text generally. Prior to amendment, text read as follows: “Nothing in this subchapter shall affect the jurisdiction of the securities commission (or any agency or office performing like functions) of any State or Territory of the United States, or the District of Columbia, over any security or any person.”
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
-
-### Transfer of Functions
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 ### Clarification of the Preservation of State Enforcement Authority
 
@@ -95,3 +95,9 @@ Pub. L. 112–106, title III, § 305(b)(1), Apr. 5, 2012, 126 Stat. 322, provide
 ### Study and Report on Uniformity of State Regulatory Requirements
 
 Pub. L. 104–290, title I, § 102(b), Oct. 11, 1996, 110 Stat. 3420, provided that: “The Commission shall conduct a study, after consultation with States, issuers, brokers, and dealers, on the extent to which uniformity of State regulatory requirements for securities or securities transactions has been achieved for securities that are not covered securities (within the meaning of section 18 of the Securities Act of 1933 [15 U.S.C. 77r], as amended by paragraph (1) of this subsection). Not later than 1 year after the date of enactment of this Act [Oct. 11, 1996], the Commission shall submit a report to the Congress on the results of such study.”
+
+### Executive Documents
+
+### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.

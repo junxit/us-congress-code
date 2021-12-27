@@ -16,9 +16,13 @@ section: 87g
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1976—Subsec. (a). Pub. L. 94–582 substituted in first sentence “official inspection or weighing function” for “official inspection function”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1976 Amendment
 

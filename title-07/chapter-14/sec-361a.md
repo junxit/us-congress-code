@@ -15,6 +15,8 @@ It is the policy of Congress to continue the agricultural research at State agri
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Hatch Act of 1887, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, which is classified generally to sections 361a to 361i of this title. For complete classification of this act to the Code, see Short Title note set out below, and Tables. The Adams Act of 1906, referred to in text, is act Mar. 16, 1906, ch. 951, 34 Stat. 63, as amended, which was classified to sections 361, 366, 369, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables. The Purnell Act of 1925, referred to in text, is act Feb. 24, 1925, ch. 308, 43 Stat. 970, as amended, which was classified to sections 361, 366, 370, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables. The Bankhead-Jones Act, referred to in text, is act June 29, 1935, ch. 338, 49 Stat. 436, also popularly known as the Agricultural Research Act. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note under section 3101 of this title and Tables. Title I, section 9, of that Act, referred to in text, was classified to section 427h of this title prior to repeal. The Act approved July 2, 1862 (12 Stat. 503), referred to in text, is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
@@ -26,6 +28,8 @@ Section 208 of Pub. L. 93–471, cited as a credit to this section, was renumber
 ### Amendments
 
 1998—Pub. L. 105–185 struck out “Alaska, Hawaii,” before “Puerto Rico” in second sentence. 1974—Pub. L. 93–471 defined “State” to include the District of Columbia. 1972—Pub. L. 92–318 defined “State” to include Guam and the Virgin Islands. 1955—Act Aug. 11, 1955, amended section generally to continue agricultural research at the agricultural experiment stations, to restate the declaration of purpose, and to insert definitions of “State” and “State agricultural experiment station.” Former provisions which required division of appropriations between colleges of same state are now contained in section 361h of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1974 Amendment
 
@@ -42,6 +46,8 @@ Act Mar. 2, 1887, ch. 314, § 10, as added by Pub. L. 105–185, § 3(b), June 2
 ### Arlington Estate
 
 Besides the provisions establishing agricultural experiment stations, contained in act Mar. 2, 1887, a portion of the Arlington estate in the State of Virginia was set apart for experimental agricultural purposes by act April 18, 1900, ch. 243, 31 Stat. 135, and provisions for establishing and maintaining a general experimental farm and agricultural station thereon were made by the subsequent agricultural appropriation acts.
+
+### Executive Documents
 
 ### Admission of Alaska and Hawaii to Statehood
 

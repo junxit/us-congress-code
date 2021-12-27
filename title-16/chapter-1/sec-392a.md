@@ -15,6 +15,8 @@ The provisions of section 392 of this title are extended over and made applicabl
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Haleakala̅ National Park
 
 Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala̅ National Park, effective July 1, 1961, see section 396b of this title.

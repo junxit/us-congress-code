@@ -15,6 +15,8 @@ In addition to the functions transferred by the provisions of Reorganization Pla
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Reorganization Plan Numbered 10 of 1950 (64 Stat. 1265), referred to in text, is set out as a note under section 78d of this title.

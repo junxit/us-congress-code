@@ -15,6 +15,8 @@ Upon the vesting of title in the United States to such additional lands as may b
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 “Jean Lafitte National Historical Park and Preserve” substituted for “Jean Lafitte National Historical Park” pursuant to Pub. L. 111–11. “Chalmette Unit of the Jean Lafitte National Historical Park” substituted for “Chalmette National Historical Park” and “said Unit” substituted for “said park” pursuant to Pub. L. 95–625.

@@ -15,6 +15,8 @@ Effective July 1, 1935, the Wind Cave National Game Preserve in the State of Sou
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 672 of this title, referred to in text, was omitted from the Code.

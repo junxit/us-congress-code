@@ -15,6 +15,8 @@ Whenever a corporation shall violate any of the penal provisions of the antitrus
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.

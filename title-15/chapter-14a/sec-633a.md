@@ -15,6 +15,8 @@ Beginning in fiscal year 2013 and each fiscal year thereafter, the budget reques
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Financial Services and General Government Appropriations Act, 2012, and also as part of the Consolidated Appropriations Act, 2012, and not as part of the Small Business Act which comprises this chapter.

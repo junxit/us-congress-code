@@ -36,9 +36,13 @@ section: 950bb–6
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Rural Electrification Act of 1936 which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definition of “Secretary”
 

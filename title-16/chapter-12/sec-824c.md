@@ -22,6 +22,8 @@ section: 824c
 
 ## Notes
 
+### Executive Documents
+
 ### Transfer of Functions
 
 Executive and administrative functions of Securities and Exchange Commission, with certain exceptions, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.

@@ -34,6 +34,8 @@ section: 657j
 
 1 So in original. The word “the” probably should not appear.
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -41,6 +43,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 ### Amendments
 
 2015—Subsec. (c). Pub. L. 114–88 added subsec. (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

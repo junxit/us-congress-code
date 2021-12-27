@@ -147,6 +147,8 @@ section: 78u–4
 
 1 So in original. Probably should be preceded by “if,”.
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in text, was in the original “this title”. See References in Text note set out under section 78a of this title. The Federal Rules of Civil Procedure, referred to in subsecs. (a)(1), (3)(A)(iii), (B)(iii)(I)(cc), (vi), (8), (b)(3)(C)(i), and (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -154,6 +156,8 @@ This chapter, referred to in text, was in the original “this title”. See Ref
 ### Amendments
 
 2010—Subsec. (b)(2). Pub. L. 111–203 designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), in any” for “In any”, and added subpar. (B). 1998—Subsec. (b)(3)(D). Pub. L. 105–353, § 101(b)(2), added subpar. (D). Subsecs. (f), (g). Pub. L. 105–353, § 301(b)(13)(B), redesignated subsec. (g) as (f). Subsec. (g)(2)(B)(i). Pub. L. 105–353, § 301(b)(13)(A), substituted “subparagraph (A)” for “paragraph (1)”. 1995—Subsec. (g). Pub. L. 104–67, § 201(a), added subsec. (g).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

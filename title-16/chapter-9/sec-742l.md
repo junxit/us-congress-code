@@ -43,6 +43,8 @@ section: 742l
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This section, referred to in subsec. (d), means section 3 of Pub. L. 95–616, which in addition to enacting this section, enacted section 712 of this title and amended sections 460k–3, 668dd, 690e, 706, and 718f of this title and sections 1114 and 3112 of Title 18, Crimes and Criminal Procedure.
@@ -54,6 +56,8 @@ Section is comprised of subsecs. (a) to (d) and (k) of section 3 of Pub. L. 95�
 ### Amendments
 
 1998—Subsec. (c). Pub. L. 105–328 designated existing provisions as par. (1) and inserted heading, substituted “Subject to paragraph (2), notwithstanding” for “Notwithstanding”, and added pars. (2) and (3). 1982—Subsec. (k). Pub. L. 97–396 added subsec. (k).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Congressional Findings and Purposes
 

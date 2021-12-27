@@ -15,9 +15,13 @@ After June 22, 1946, no part of appropriations made for the National Park Servic
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act Mar. 4, 1940, ch. 40, 54 Stat. 41, which comprises this subchapter.
+
+### Executive Documents
 
 ### Transfer of Functions
 

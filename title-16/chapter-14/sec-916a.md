@@ -17,10 +17,14 @@ section: 916a
 
 ## Notes
 
-### Transfer of Functions
-
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.
+### Statutory Notes and Related Subsidiaries
 
 ### Alternate United States Commissioners
 
 Secretary of State authorized to designate Alternate United States Commissioners, see sections 2672a and 2672b of Title 22, Foreign Relations and Intercourse.
+
+### Executive Documents
+
+### Transfer of Functions
+
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.

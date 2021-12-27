@@ -15,9 +15,13 @@ In order to enable and empower the Secretary of the Army, the Secretary of the I
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Pub. L. 108–447 substituted “Board” for “board” in first sentence.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

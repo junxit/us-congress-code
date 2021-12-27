@@ -17,9 +17,13 @@ In order to render financial assistance to those States and local governments in
 
 1 So in original. Probably should be capitalized.
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Pub. L. 108–447 substituted “Board” for “board” in first and second pars. 1940—Act June 26, 1940, amended section generally.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2004 Amendment
 

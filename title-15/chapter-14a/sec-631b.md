@@ -34,6 +34,8 @@ section: 631b
 
 3 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The Internal Revenue Code, referred to in subsec. (a)(4), is classified to Title 26, Internal Revenue Code. The Employee Retirement Income Security Act, referred to in subsec. (a)(4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables. The Securities Act of 1933, referred to in subsec. (a)(4), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables. The Securities Exchange Act of 1934, referred to in subsec. (a)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables. Section 632(p) of this title, referred to in subsec. (e)(3), was redesignated section 657a(b) of this title by Pub. L. 115–91, div. A, title XVII, § 1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
@@ -45,6 +47,8 @@ Section was enacted as part of the Small Business Economic Policy Act of 1980, a
 ### Amendments
 
 1999—Subsec. (e)(1). Pub. L. 106–50, § 602(1), which directed amendment of par. (1) by striking “and” after the semicolon, could not be executed because the word “and” did not appear after the semicolon. Subsec. (e)(2). Pub. L. 106–50, § 602(2), which directed amendment of par. (2) by substituting “; and” for the period, could not be executed because par. (2) did not contain a period. Subsec. (e)(3). Pub. L. 106–50, § 602(3), added par. (3) relating to small business concerns owned and controlled by veterans. 1997—Subsec. (b). Pub. L. 105–135, § 705, substituted “, female-owned, and veteran-owned businesses” for “and female-owned businesses”. Subsec. (e)(3). Pub. L. 105–135, § 604(c), added par. (3). 1990—Subsec. (a)(2). Pub. L. 101–574 added par. (2) and struck out former par. (2) which read as follows: “present current and historical data on production, employment, investment, and other economic variables for small business in the economy as a whole and for small business in each sector of the economy;”. 1988—Subsec. (e). Pub. L. 100–533 and Pub. L. 100–590 added subsecs. (e) which were identical, except that the subsec. (e) added by Pub. L. 100–533, which is set out as text of this section, contained the phrase “, by gender,” in par. (1).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

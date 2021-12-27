@@ -41,6 +41,8 @@ section: 78fff–3
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
@@ -52,6 +54,8 @@ A prior section 9 of Pub. L. 91–598 was renumbered section 13 and is classifie
 ### Amendments
 
 2010—Subsec. (a)(1). Pub. L. 111–203, § 983(a), inserted “or options on commodity futures contracts” after “claim for securities”. Pub. L. 111–203, § 929H(a)(1), substituted “the standard maximum cash advance amount for each such customer, as determined in accordance with subsection (d)” for “$100,000 for each such customer”. Subsecs. (d), (e). Pub. L. 111–203, § 929H(a)(2), added subsecs. (d) and (e). 1980—Subsec. (a). Pub. L. 96–433, § 1(1), substituted in opening par. “$500,000” for “$100,000”. Subsec. (a)(1). Pub. L. 96–433, § 1(2), substituted “$100,000” for “$40,000”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

@@ -15,6 +15,8 @@ Sums available for allotment to the States under the terms of sections 361a to 3
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 368a of this title. See sections 361c and 361d of this title.

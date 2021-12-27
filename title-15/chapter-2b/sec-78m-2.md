@@ -41,6 +41,8 @@ section: 78m–2
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Such Act, referred to in subsecs. (a)(1)(F) and (e)(2), is the Federal Mine Safety and Health Act of 1977, Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which is classified principally to chapter 22 (§ 801 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 30 and Tables. The Securities Exchange Act of 1934, referred to in subsec. (d)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 78a of this title and Tables.
@@ -48,6 +50,8 @@ Such Act, referred to in subsecs. (a)(1)(F) and (e)(2), is the Federal Mine Safe
 ### Codification
 
 Section was enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Securities Exchange Act of 1934 which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definitions
 

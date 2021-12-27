@@ -15,9 +15,13 @@ If any provision of this subchapter or the application thereof to any person or 
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 34 of act June 25, 1947, ch. 125, was renumbered section 35 and is classified to section 136y of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

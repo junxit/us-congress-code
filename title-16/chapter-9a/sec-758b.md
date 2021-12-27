@@ -15,9 +15,13 @@ In carrying out the purposes and objectives of sections 758 and 758a of this tit
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1960—Pub. L. 86–624 substituted “State” for “Territorial”.
+
+### Executive Documents
 
 ### Transfer of Functions
 

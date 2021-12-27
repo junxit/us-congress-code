@@ -35,6 +35,8 @@ section: 636g
 
 1 So in original. Probably should be followed by a closing parenthesis.
 
+### Editorial Notes
+
 ### References in Text
 
 The date of enactment of this Act, referred to in subsec. (a), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008. Section 657o of this title, as added by this Act, referred to in subsec. (c)(2), is section 657o of this title, as added by Pub. L. 110–246.
@@ -42,6 +44,8 @@ The date of enactment of this Act, referred to in subsec. (a), is the date of en
 ### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246. Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and also as part of the Small Business Disaster Response and Loan Improvements Act of 2008, and not as part of the Small Business Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

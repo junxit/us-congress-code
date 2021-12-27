@@ -16,9 +16,13 @@ section: 78
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1977—Subsec. (a). Pub. L. 95–113 substituted “criteria” for “factor information”. 1976—Subsec. (a). Pub. L. 94–582 substituted “standards relating to kind, class, quality, or condition of grain” for “standards”. 1968—Pub. L. 90–487 substituted provisions requiring the use of official grade designations and prohibiting the use of false or misleading description of grain shipped out of the United States, for provisions allowing the appeal to the Secretary from official grading, authorizing the payment of additional fees for employees required in making appeal inspections, and making the findings prima facie evidence of the grain’s true grade. 1958—Pub. L. 85–509 authorized payment of employees assigned to perform appeal inspection for all overtime, night, or holiday work, and permitted acceptance of reimbursement for any sums paid for such work.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1977 Amendment
 

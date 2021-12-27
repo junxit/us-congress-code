@@ -22,9 +22,13 @@ section: 69g
 
 1 So in original. Probably should be “violating,”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Trade Commission Act, referred to in subsec. (b)(2), is defined in section 69 of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

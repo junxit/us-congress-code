@@ -15,6 +15,8 @@ For the purpose of improving the boundary of Kings Canyon National Park, Califor
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act Mar. 4, 1940, ch. 40, 54 Stat. 41, which comprises this subchapter.

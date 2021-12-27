@@ -79,6 +79,8 @@ section: 839e
 
 1 So in original. Probably should be followed by a comma.
 
+### Editorial Notes
+
 ### References in Text
 
 The Bonneville Project Act, referred to in subsec. (k), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, popularly known as the Bonneville Project Act of 1937, which is classified generally to chapter 12B (§ 832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables. The Flood Control Act of 1944, referred to in subsec. (k), is act Dec. 22, 1944, ch. 665, 58 Stat. 887, which enacted sections 460d and 825s of this title, sections 701–1, 701a–1, 708, and 709 of Title 33, Navigation and Navigable Waters, and section 390 of Title 43, Public Lands, and enacted provisions set out as notes under sections 701c, 701f, and 701j of Title 33. For complete classification of this Act to the Code, see Tables. For provisions of the Act relating to sale of electric power, see section 825s of this title. The Federal Columbia River Transmission System Act, referred to in subsec. (k), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables. The Federal Power Act, referred to in subsec. (k), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.

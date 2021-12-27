@@ -16,9 +16,13 @@ section: 777f
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1970—Pub. L. 91–503 divided existing provisions into subsecs. (a) and (b) and authorized advance payments by the Secretary to the States for financing the United States’ pro rata share of the comprehensive fish and wildlife plan.
+
+### Executive Documents
 
 ### Transfer of Functions
 

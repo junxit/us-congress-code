@@ -22,9 +22,13 @@ section: 24
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2010—Subsec. (c). Pub. L. 111–203 added subsec. (c). 1982—Subsec. (a)(3). Pub. L. 97–222, § 20(b), inserted “, including the payment and allocation of margin with respect to commodity contracts not specifically identifiable to a particular customer pending their orderly liquidation”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

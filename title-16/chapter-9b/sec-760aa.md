@@ -27,6 +27,8 @@ section: 760aa
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Short Title
 
 Pub. L. 109–360, § 1, Oct. 16, 2006, 120 Stat. 2058, provided that: “This Act [enacting this chapter] may be cited as the ‘National Fish Hatchery System Volunteer Act of 2006’.”

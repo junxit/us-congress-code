@@ -19,9 +19,13 @@ section: 136u
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1978—Subsec. (a). Pub. L. 95–396 extended provisions to Indian tribes, authorized annual appropriation of funds for training and certification programs, and required proportionate reduction of shares in the allocation of available funds when appropriations do not cover 50 percent of the annual costs. Subsec. (b). Pub. L. 95–396 authorized contracts with Indian tribal agencies. Subsec. (c). Pub. L. 95–396 substituted “shall” for “may”, substituted “use” for “utilize”, and “to inform and educate pesticide users about accepted uses and other regulations” for “for informing farmers of accepted uses and other regulations”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

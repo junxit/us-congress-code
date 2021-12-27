@@ -18,6 +18,8 @@ section: 719c
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Another section 6 of Pub. L. 103–340 was renumbered section 7 and enacted provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title.

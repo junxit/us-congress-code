@@ -17,6 +17,8 @@ The Administration shall issue guarantees under section 683 of this title and tr
 
 1 So in original. Probably should be “it”.
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 320 of Pub. L. 85–699 was renumbered section 318 and is classified to section 687k of this title.
@@ -24,6 +26,8 @@ A prior section 320 of Pub. L. 85–699 was renumbered section 318 and is classi
 ### Amendments
 
 1999—Pub. L. 106–9 substituted “12 months” for “6 months”. 1997—Pub. L. 105–135 substituted “6 months” for “three months”. 1996—Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 687l of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1997 Amendment
 

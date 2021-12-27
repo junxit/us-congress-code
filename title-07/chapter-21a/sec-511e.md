@@ -15,9 +15,13 @@ The Secretary, independently or in cooperation with other branches of the Govern
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1981—Pub. L. 97–35 substituted provisions requiring the Secretary to fix and collect fees and charges to cover cost of services, for provisions authorizing the Secretary to fix and collect fees and charges as he deems reasonable and provisions respecting fees or charges collected under an agreement with a State, etc.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1981 Amendment
 

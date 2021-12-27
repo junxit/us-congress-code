@@ -15,6 +15,8 @@ Each department, agency, and instrumentality of the Federal Government is author
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.

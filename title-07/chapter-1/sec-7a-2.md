@@ -61,6 +61,8 @@ section: 7a–2
 
 2 So in original. There is no section “1a(2)(i)” in this title.
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsec. (c)(5)(A), was in the original “this subtitle”, and was translated as reading “this Act” to reflect the probable intent of Congress.
@@ -72,6 +74,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 ### Amendments
 
 2010—Subsec. (a)(1). Pub. L. 111–203, § 749(c)(1), struck out “, 7a(d),” after “7(d)” and “and section 2(h)(7) of this title with respect to significant price discovery contracts,” before “to describe”. Subsec. (a)(2). Pub. L. 111–203, § 745(a), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “An interpretation issued under paragraph (1) shall not provide the exclusive means for complying with such sections.” Subsec. (c). Pub. L. 111–203, § 745(b), added subsec. (c) and struck out former subsec. (c) which related to new contracts, new rules, and rule amendments and Commission approval upon certification of compliance with this chapter. Subsec. (c)(1). Pub. L. 111–203, § 717(d), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B). Subsec. (c)(2)(B). Pub. L. 111–203, § 721(e)(7), substituted “section 1a(9)” for “section 1a(4)”. Subsec. (d). Pub. L. 111–203, § 745(c), struck out subsec. (d) which related to violation of core principles. Subsec. (f)(1). Pub. L. 111–203, § 749(c)(2), substituted “section 6d(e) of this title” for “section 6d(c) of this title”. 2008—Subsec. (a)(1). Pub. L. 110–246, § 13203(i), which directed amendment of par. (1) by inserting “, and section 2(h)(7) of this title with respect to significant price discovery contracts,” after “, and 7a–1(d)(2) of this title”, was executed by making the insertion after “, and 7a–1(c)(2) of this title” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–246, § 13105(e). See below. Pub. L. 110–246, § 13105(e), substituted “7a–1(c)(2)” for “7a–1(d)(2)”. Subsec. (b)(1). Pub. L. 110–246, § 13203(j)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A contract market or derivatives transaction execution facility may comply with any applicable core principle through delegation of any relevant function to a registered futures association or another registered entity.” Subsec. (b)(2), (3). Pub. L. 110–246, § 13203(j)(2), (3), substituted “contract market, derivatives transaction execution facility, or electronic trading facility” for “contract market or derivatives transaction execution facility” wherever appearing. Subsec. (d)(1). Pub. L. 110–246, § 13203(k), which directed amendment of par. (1) by inserting “or 2(h)(7)(C) of this title with respect to a significant price discovery contract traded or executed on an electronic trading facility,” after “7a–1(d)(2)”, was executed by making the insertion after “7a–1(c)(2)” in introductory provisions to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–246, § 13105(e). See below. Pub. L. 110–246, § 13105(e), substituted “7a–1(c)(2)” for “7a–1(d)(2)” in introductory provisions. Subsec. (f)(1). Pub. L. 110–246, § 13105(f), substituted “6d(c)” for “6d(3)”. 2000—Subsec. (f). Pub. L. 106–554, § 1(a)(5) [title II, § 251(h)], added subsec. (f).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

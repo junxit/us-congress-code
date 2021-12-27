@@ -32,6 +32,8 @@ The primary functions of the Office of Advocacy shall be to—
 
 2 So in original.
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.
@@ -39,6 +41,8 @@ Section was not enacted as part of the Small Business Act which comprises this c
 ### Amendments
 
 1999—Par. (12). Pub. L. 106–50 added par. (12). 1980—Par. (11). Pub. L. 96–481 added par. (11).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1980 Amendment
 

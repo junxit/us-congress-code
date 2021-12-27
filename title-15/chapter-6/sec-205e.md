@@ -33,6 +33,8 @@ It shall be the function of the Board to devise and carry out a broad program of
 
 1 So in original.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Transfer of Functions
 
 “Secretary of Education” substituted for “Secretary of Health, Education, and Welfare” in par. (7)(B) pursuant to sections 301 and 507 of Pub. L. 96–88, which are classified to sections 3441 and 3507 of Title 20, Education.

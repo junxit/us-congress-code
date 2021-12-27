@@ -15,6 +15,8 @@ For the purpose of controlling conflicts of interest which may be detrimental to
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 For definition of “this chapter”, referred to in text, see References in Text note set out under section 661 of this title.

@@ -35,6 +35,8 @@ section: 823b
 
 1 So in original. Probably should not be capitalized.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date
 
 Section applicable to licenses, permits, and exemptions without regard to when issued, see section 18 of Pub. L. 99–495, set out as an Effective Date of 1986 Amendment note under section 797 of this title.

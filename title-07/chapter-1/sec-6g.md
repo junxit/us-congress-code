@@ -20,6 +20,8 @@ section: 6g
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -27,6 +29,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 ### Amendments
 
 2008—Subsec. (a). Pub. L. 110–246, § 13202(a), inserted “, and in any significant price discovery contract traded or executed on an electronic trading facility or any agreement, contract, or transaction that is treated by a derivatives clearing organization, whether registered or not registered, as fungible with a significant price discovery contract” after “elsewhere”. 2000—Subsec. (b). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(7)(A)], substituted “registered entity” for “clearinghouse and contract market”. Subsec. (f). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(7)(B)], substituted “registered entities” for “clearinghouses, contract markets, and exchanges”. 1992—Subsec. (a). Pub. L. 102–546, §§ 207(b)(1), 402(5)(A), redesignated par. (1) as subsec. (a) and substituted “floor broker, or floor trader” for “or floor broker”. Subsec. (b). Pub. L. 102–546, § 402(5)(A), redesignated par. (2) as subsec. (b). Subsec. (c). Pub. L. 102–546, § 402(5), redesignated par. (3) as subsec. (c) and substituted “subsection (b)” for “paragraph (2)”. Subsecs. (d) to (f). Pub. L. 102–546, § 402(5)(A), redesignated pars. (4) to (6) as subsecs. (d) to (f), respectively. 1983—Par. (1). Pub. L. 97–444, § 209(1), made reporting and recordkeeping requirements applicable to introducing brokers. Par. (2). Pub. L. 97–444, § 209(2), made customer daily trading records requirement applicable to introducing brokers. 1978—Par. (3). Pub. L. 95–405 substituted “Floor brokers” for “Brokers”. 1974—Par. (1). Pub. L. 93–463, §§ 103(a), (f), 415, designated existing provisions as par. (1) and substituted “Commission” for “Secretary of Agriculture” and “United States Department of Agriculture”. Pars. (2) to (6). Pub. L. 93–463, § 415, added pars. (2) to (6). 1968—Pub. L. 90–258 rephrased existing provisions to express reporting and recordkeeping requirements as a positive obligation of futures commission merchants and floor brokers, rather than as a ground for revoking or suspending registration and struck out provisions for revocation or suspension of registration. See section 9 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2008 Amendment
 

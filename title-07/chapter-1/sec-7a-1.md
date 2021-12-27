@@ -183,6 +183,8 @@ section: 7a–1
 
 1 So in original. No subsec. (j) has been enacted.
 
+### Editorial Notes
+
 ### References in Text
 
 The Securities Exchange Act of 1934, referred to in subsecs. (a)(1)(A)(ii) and (g)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
@@ -194,6 +196,8 @@ A prior section 5b of act Sept. 21, 1922, was renumbered section 5e, and is clas
 ### Amendments
 
 2015—Subsec. (k)(5). Pub. L. 114–94 amended par. (5) generally. Prior to amendment, text read as follows: “Before the Commission may share information with any entity described in paragraph (4)— “(A) the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 12 of this title relating to the information on swap transactions that is provided; and “(B) each entity shall agree to indemnify the Commission for any expenses arising from litigation relating to the information provided under section 12 of this title.” 2010—Subsec. (a). Pub. L. 111–203, § 725(a), added subsec. (a) and struck out former subsec. (a) which related to registration requirement of derivatives clearing organizations. Pub. L. 111–203, § 721(e)(6), substituted “section 1a” for “section 1a(9)” in introductory provisions. Subsec. (b). Pub. L. 111–203, § 725(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “A derivatives clearing organization that clears agreements, contracts, or transactions excluded from this chapter by section 2(c), 2(d), 2(f), or 2(g) of this title or sections 27 to 27f of this title, or exempted under section 2(h) or 6(c) of this title, or other over-the-counter derivative instruments (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991) may register with the Commission as a derivatives clearing organization.” Subsec. (c)(2). Pub. L. 111–203, § 725(c), added par. (2) and struck out former par. (2) which related to core principles for derivatives clearing organizations. Subsec. (f)(1). Pub. L. 111–203, § 725(h), inserted at end “In order to minimize systemic risk, under no circumstances shall a derivatives clearing organization be compelled to accept the counterparty credit risk of another clearing organization.” Subsecs. (g) to (i). Pub. L. 111–203, § 725(b), added subsecs. (g) to (i). Subsec. (k). Pub. L. 111–203, § 725(e), added subsec. (k).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2015 Amendment
 

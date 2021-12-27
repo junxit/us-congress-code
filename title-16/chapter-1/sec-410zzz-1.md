@@ -16,6 +16,8 @@ section: 410zzz–1
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Act entitled “An Act to create a National Park Trust Fund Board, and for other purposes”, approved July 10, 1935, referred to in subsec. (a), is act July 10, 1935, ch. 375, 49 Stat. 477, which was repealed by Pub. L. 90–209, §2, Dec. 18, 1967, 81 Stat. 656.

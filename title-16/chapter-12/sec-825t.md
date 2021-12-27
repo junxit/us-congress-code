@@ -15,6 +15,8 @@ No power revenues on any project shall be distributed as profits, before or afte
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Federal Power Act which generally comprises this chapter.

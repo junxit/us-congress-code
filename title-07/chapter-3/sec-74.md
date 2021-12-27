@@ -25,9 +25,13 @@ section: 74
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1990—Subsec. (b)(3)(E), (F). Pub. L. 101–624 added subpars. (E) and (F). 1986—Pub. L. 99–641 designated existing provisions as subsec. (a) and added subsec. (b). 1976—Pub. L. 94–582 expressed the policy of Congress to regulate the weighing and the certification of the weight of grain shipped in interstate or foreign commerce and the finding of Congress of the necessity to regulate grain transactions to prevent or eliminate burdens on commerce and to regulate effectively such interstate or foreign commerce, and provided that the grain be marketed in a timely manner. 1968—Pub. L. 90–487 substituted a declaration of policy by the Congress for provisions authorizing promulgation and establishment of grain standards by Secretary of Agriculture. 1940—Act July 18, 1940, inserted “soybeans,” after “flaxseed,”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1976 Amendment
 

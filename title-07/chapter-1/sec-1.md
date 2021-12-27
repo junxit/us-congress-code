@@ -15,6 +15,8 @@ This chapter may be cited as the “Commodity Exchange Act.”
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 This chapter superseded act Aug. 24, 1921, ch. 86, 42 Stat. 187, known as “The Future Trading Act,” which act was declared unconstitutional, at least in part, in Hill v. Wallace, Ill. 1922, 42 S.Ct. 453, 259 U.S. 44, 66 L.Ed. 822. Section 3 of that act was found unconstitutional as imposing a penalty in Trusler v. Crooks, Mo. 1926, 46 S.Ct. 165, 269 U.S. 475, 70 L.Ed. 365.
@@ -22,6 +24,8 @@ This chapter superseded act Aug. 24, 1921, ch. 86, 42 Stat. 187, known as “The
 ### Amendments
 
 1936—Act June 15, 1936, substituted “Commodity Exchange Act” for “The Grain Futures Act”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1936 Amendment
 

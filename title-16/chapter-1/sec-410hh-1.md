@@ -19,9 +19,13 @@ The following units of the National Park System are hereby expanded:
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1983—Subsec. (3)(a). Pub. L. 97–468 struck out provision that the portion of the Alaska Railroad right-of-way within the park be subject to such laws and regulations applicable to the protection of fish and wildlife and other park values as the Secretary, with the concurrence of the Secretary of Transportation, might determine.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1983 Amendment
 

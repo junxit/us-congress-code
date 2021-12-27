@@ -17,9 +17,13 @@ The Secretary of Commerce, in consultation with the Marine Mammal Commission and
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 1802(8) of this title, referred to in text, which defined “fishery conservation zone”, was repealed and section 1802(6) of this title, defining “exclusive economic zone”, was added by Pub. L. 99–659, title I, § 101(a), Nov. 14, 1986, 100 Stat. 3706. Section 1802 was subsequently amended and the term “exclusive economic zone” is defined elsewhere in that section.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Study of Eastern Gray Whale Population
 

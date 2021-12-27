@@ -46,9 +46,13 @@ section: 657s
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2015—Subsec. (a)(4). Pub. L. 114–92 substituted “which is principally for supplies from a regular dealer in such supplies, and which is not a contract principally for services or construction” for “for supplies from a regular dealer in such supplies” in introductory provisions.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Inapplicability of Requirement To Review and Justify Certain Contracts
 

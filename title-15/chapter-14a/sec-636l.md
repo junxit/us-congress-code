@@ -15,6 +15,8 @@ Not later than 180 days after December 20, 2019, and semiannually thereafter, th
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2020, and not as part of the Small Business Act which comprises this chapter.

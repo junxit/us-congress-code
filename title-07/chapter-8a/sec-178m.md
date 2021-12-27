@@ -15,6 +15,8 @@ The Secretaries shall submit to the President and the Congress, no later than De
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1984—Pub. L. 98–284 substituted “The Secretaries” for “The Secretary of Agriculture and the Secretary of Commerce” and “1987” for “1982”.

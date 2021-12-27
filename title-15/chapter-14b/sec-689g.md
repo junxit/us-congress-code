@@ -33,6 +33,8 @@ section: 689g
 
 2 So in original. Probably should be “than”.
 
+### Editorial Notes
+
 ### References in Text
 
 The effective date of the New Markets Venture Capital Program Act of 2000, referred to in subsec. (a)(3)(A), (B), probably means the date of enactment of section 1 of H.R. 5663, as enacted by Pub. L. 106–554, § 1(a)(8), which was approved Dec. 21, 2000.

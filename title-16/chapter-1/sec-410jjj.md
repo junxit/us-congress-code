@@ -28,6 +28,8 @@ section: 410jjj
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Hereinafter, referred to in subsec. (a), means Pub. L. 94–545, which is classified to this subchapter. For complete classification of Pub. L. 94–545 to the Code, see Tables.
@@ -35,6 +37,8 @@ Hereinafter, referred to in subsec. (a), means Pub. L. 94–545, which is classi
 ### Amendments
 
 2004—Subsec. (c)(6). Pub. L. 108–199, § 139(a), added par. (6) and struck out former par. (6) which read: “Nothing in this section— “(A) affects the use of private land adjacent to the park; “(B) preempts the authority of the State with respect to the regulation of hunting, fishing, boating, and wildlife management on private land or water outside the boundaries of the park; or “(C) negatively affects the economic development of the areas surrounding the park.” 2003—Subsec. (b). Pub. L. 108–108, § 148(1), struck out last sentence which read “The total acreage of the monument including lands described in subsection (a) and this subsection shall not exceed 22,200 acres.” Subsecs. (c), (d). Pub. L. 108–108, § 148(2), added subsecs. (c) and (d). 1988—Pub. L. 100–524 designated existing provisions as subsec. (a), struck out “, but the total area may not exceed fifteen thousand, two hundred acres” after “Federal Register”, and added subsec. (b).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

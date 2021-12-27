@@ -15,9 +15,13 @@ The Governor of the Territory of Hawaii is authorized to convey to the United St
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of the last provision of section 4 of act June 20, 1938, the remainder of which is classified to section 391b–1 of this title.
+
+### Executive Documents
 
 ### Admission of Hawaii as State
 

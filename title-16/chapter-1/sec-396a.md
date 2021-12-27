@@ -16,6 +16,8 @@ section: 396a
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Hawaiʻi Volcanoes National Park
 
 Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaiʻi Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.

@@ -28,6 +28,8 @@ section: 657u
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 Pub. L. 115–189, § 3(d)(2), June 21, 2018, 132 Stat. 1496, provided that: “Any reference in a law, regulation, guidance, document, paper, or other record of the United States to the Lender Oversight Committee of the Small Business Administration shall be deemed a reference to the Lender Oversight Committee, established under section 48 of the Small Business Act [15 U.S.C. 657u], as added by subsection (a).”

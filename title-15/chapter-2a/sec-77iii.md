@@ -21,9 +21,13 @@ section: 77iii
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1990—Subsec. (b). Pub. L. 101–550 inserted before period at end “, or the failure of the issuer to file an application as provided for by section 77eee(b)(2) of this title”.
+
+### Executive Documents
 
 ### Transfer of Functions
 

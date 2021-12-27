@@ -34,9 +34,13 @@ section: 78o–6
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2012—Subsecs. (c), (d). Pub. L. 112–106 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Post Offering Communications
 

@@ -77,10 +77,12 @@ section: 657r
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 2[45] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under section 631 of this title.
 
 ### Amendments
 
-2021—Subsec. (a)(4). Pub. L. 116–283, § 866(c)(1), added par. (4). Subsec. (b)(3)(A). Pub. L. 116–283, § 866(c)(2), substituted “relationships—” and cls. (i) and (ii) for “relationships are between a covered protege and covered mentor.”. Subsec. (d)(6), (7). Pub. L. 116–283, § 866(c)(3), added pars. (6) and (7). 2018—Subsec. (a)(3). Pub. L. 115–232, § 861(d)(1), added par. (3). Subsec. (b)(3)(A). Pub. L. 115–232, § 861(e), inserted “, except that such restrictions shall not apply to up to 2 mentor-protege relationships if such relationships are between a covered protege and covered mentor” after “each participant”. Subsec. (d)(4), (5). Pub. L. 115–232, § 861(d)(2), added pars. (4) and (5). 2016—Subsec. (b)(3)(K). Pub. L. 114–328 added subpar. (K).
+2021—Subsec. (a)(4). Pub. L. 116–283, § 866(c)(1), added par. (4). Subsec. (b)(3)(A). Pub. L. 116–283, § 866(c)(2), substituted “relationships—” and cls. (i) and (ii) for “relationships are between a covered protege and covered mentor.” Subsec. (d)(6), (7). Pub. L. 116–283, § 866(c)(3), added pars. (6) and (7). 2018—Subsec. (a)(3). Pub. L. 115–232, § 861(d)(1), added par. (3). Subsec. (b)(3)(A). Pub. L. 115–232, § 861(e), inserted “, except that such restrictions shall not apply to up to 2 mentor-protege relationships if such relationships are between a covered protege and covered mentor” after “each participant”. Subsec. (d)(4), (5). Pub. L. 115–232, § 861(d)(2), added pars. (4) and (5). 2016—Subsec. (b)(3)(K). Pub. L. 114–328 added subpar. (K).

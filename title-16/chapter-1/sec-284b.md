@@ -15,6 +15,8 @@ There are authorized to be appropriated such sums as may be necessary, but not i
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1972—Pub. L. 92–272 increased maximum sums authorized to be appropriated from not in excess of $600,000 to not in excess of $5,473,000.

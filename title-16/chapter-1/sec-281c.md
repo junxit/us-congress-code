@@ -18,6 +18,8 @@ section: 281c
 
 1 So in original. Probably should be preceded by “the”.
 
+### Editorial Notes
+
 ### Amendments
 
 1992—Subsec. (a). Pub. L. 102–576 struck out after second sentence “Not more than one thousand and five hundred acres overall shall be designated pursuant to the foregoing provisions of this subsection.”

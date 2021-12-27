@@ -15,9 +15,13 @@ The Secretary of Agriculture shall provide, if practicable, any interested perso
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1981—Pub. L. 97–35 struck out “on tender of the cost thereof as required by him,” after “grade the same”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1981 Amendment
 

@@ -15,6 +15,8 @@ Sections 15c, 15d, 15e, 15f, and 15g of this title shall apply in any State, unl
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date
 
 Injuries sustained prior to Sept. 30, 1976, not covered by this section, see section 304 of Pub. L. 94–435, set out as a note under section 15c of this title.

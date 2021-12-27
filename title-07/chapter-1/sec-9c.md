@@ -15,6 +15,8 @@ The Commission shall provide the Securities and Exchange Commission with notice 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of subsec. (g) of section 6 of act Sept. 21, 1922. Subsecs. (a) and (b) of section 6 are classified to section 8 of this title. Subsec. (c) of section 6 is classified to section 9 of this title. Subsecs. (d), (e), and (f) of section 6 are classified to sections 13b, 9a, and 9b of this title, respectively.

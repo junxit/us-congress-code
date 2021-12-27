@@ -16,6 +16,8 @@ section: 410jjj–1
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 In subsec. (a), “park” substituted for “monument” pursuant to Pub. L. 108–108, § 135, which is set out as a note under section 410jjj of this title and which redesignated the Congaree Swamp National Monument as the Congaree National Park.

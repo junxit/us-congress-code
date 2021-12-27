@@ -16,6 +16,8 @@ section: 1359jj
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 1359jj, act Feb. 16, 1938, ch. 30, title III, § 359j, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3488, related to administration of this subpart, prior to the general amendment of this subpart by Pub. L. 107–171.

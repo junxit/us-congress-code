@@ -34,6 +34,8 @@ When used in this subchapter, unless the context otherwise requires—
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Securities Act of 1933, referred to in pars. (3) and (17), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables. The Securities Exchange Act of 1934, referred to in par. (17), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables. The Bankruptcy Act, referred to in par. (18), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
@@ -41,6 +43,8 @@ The Securities Act of 1933, referred to in pars. (3) and (17), is act May 27, 19
 ### Amendments
 
 2010—Par. (17). Pub. L. 111–203 added par. (17) and struck out former par. (17) which read as follows: “The terms ‘Securities Act of 1933,’ ‘Securities Exchange Act of 1934,’ and ‘Public Utility Holding Company Act of 1935’ shall be deemed to refer, respectively, to such Acts, as amended, whether amended prior to or after the enactment of this subchapter.” 1998—Pars. (2), (3). Pub. L. 105–353 substituted “section 2(a)” for “section 2”. 1990—Par. (8). Pub. L. 101–550 inserted “section 77eee of this title or” after “provided for in”. 1987—Par. (4). Pub. L. 100–181, § 501, substituted “undertaking” for “undertakng”. Par. (12). Pub. L. 100–181, § 502, inserted “(including a guarantor)” after “person” in two places. 1978—Par. (18). Pub. L. 95–598 substituted “Bankruptcy Act or title 11” for “Act entitled ‘An Act to establish a uniform system of bankruptcy throughout the United States’, approved July 1, 1898, as amended, whether amended prior to or after August 3, 1939”. 1954—Pars. (1) to (4). Act Aug. 10, 1954, made formal changes in order to conform to amendments made by act Aug. 10, 1954, to sections 77b, 77e, and 77j of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 
@@ -53,6 +57,8 @@ Amendment effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598 set out
 ### Effective Date of 1954 Amendment
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

@@ -20,6 +20,8 @@ section: 410ww–1
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2009—Subsec. (a). Pub. L. 111–11, § 7117(b)(1), inserted “Hawthorn Hill, the Wright Company factory,” before “the Wright Cycle Company Building”. Subsec. (b). Pub. L. 111–11, § 7117(b)(2), redesignated last sentence as subsec. (d). Subsec. (c). Pub. L. 111–11, § 7117(b)(3), added subsec. (c). Subsec. (d). Pub. L. 111–11, § 7117(b)(2), redesignated last sentence of subsec. (b) as (d), inserted heading, and substituted “Cooperative agreements under this section” for “Such agreements” in introductory provisions. Subsec. (d)(2). Pub. L. 111–11, § 7117(b)(4), substituted “Aviation Heritage Foundation” for “Commission”.

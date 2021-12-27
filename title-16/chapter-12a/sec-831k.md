@@ -15,9 +15,13 @@ In order to place the Board upon a fair basis for making such contracts and for 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Pub. L. 108–447 substituted “Board” for “board” wherever appearing.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2004 Amendment
 

@@ -29,9 +29,13 @@ For the purposes of sections 52 to 54 of this title—
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1976—Subsec. (d). Pub. L. 94–295 expanded definition of “device” to include implements, machines, implants, in vitro reagents, and other similar or related articles, added recognition in the National Formulary or the United States Pharmacopeia, or any supplement to the Formulary or Pharmacopeia, to the enumeration of conditions under which a device may qualify for inclusion under this chapter, and inserted requirements that a device be one which does not achieve any of its principal intended purposes through chemical action within or on the body of man or other animals and which is not dependent upon being metabolized for the achievement of any of its principal intended purposes. 1950—Subsec. (a). Act Mar. 16, 1950, § 4(a), designated existing provisions as par. (1) and added par. (2) relating to oleomargarine. Subsec. (f). Act Mar. 16, 1950, § 4(b), added subsec. (f).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1950 Amendment
 

@@ -22,6 +22,8 @@ The Commission, by rule or regulation—
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 100–181, which directed amendment of the Securities Exchange Act of 1934 by adding this section after section 35 of the Act, is reflected in the source credit above as adding this section to title I of the Securities Exchange Act of 1934, to reflect the probable intent of Congress. See Codification note set out under section 78kk of this title.

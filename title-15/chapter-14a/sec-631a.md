@@ -16,9 +16,13 @@ section: 631a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Small Business Economic Policy Act of 1980, and not as part of the Small Business Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

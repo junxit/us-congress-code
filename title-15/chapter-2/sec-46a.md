@@ -15,9 +15,13 @@ After June 16, 1933, no new investigations shall be initiated by the Commission 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Federal Trade Commission Act which comprises this subchapter.
+
+### Executive Documents
 
 ### Transfer of Functions
 

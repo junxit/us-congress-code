@@ -26,6 +26,8 @@ section: 757a
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Public Law 80–77, May 4, 1942, 56 Stat. 267, referred to in subsec. (c)(2)(A), probably means act May 4, 1942, ch. 283 [Public Law 539, 77th Cong.], 56 Stat. 267, which is not classified to the Code. Public Law 80–232, July 24, 1947, 16 Stat. 419, referred to in subsec. (c)(2)(B), probably means act July 24, 1947, ch. 316 [Public Law 232, 80th Cong.], 61 Stat. 419, which is not classified to the Code. Public Law 81–66, May 19, 1949, 63 Stat. 70, referred to in subsec. (c)(2)(C), is act May 19, 1949, ch. 128 [Public Law 66, 81st Cong.], 63 Stat. 70, which is not classified to the Code.
@@ -33,6 +35,8 @@ Public Law 80–77, May 4, 1942, 56 Stat. 267, referred to in subsec. (c)(2)(A),
 ### Amendments
 
 2002—Subsec. (b). Pub. L. 107–372 designated existing provisions as par. (1) and added par. (2). 1983—Subsec. (c)(2). Pub. L. 98–44 substituted “resources, prepared by an interstate commission” for “resources”, substituted “up to 90 percent” for “90 percent”, and inserted provision defining interstate commission for purposes of this paragraph. Subsec. (c). Pub. L. 97–453 designated existing provisions as par. (1) and added par. (2). 1979—Subsec. (c). Pub. L. 96–118 struck out provisions respecting cost to Federal government of operation and maintenance of structures, devices, etc., constructed by States under cooperative agreements. 1978—Subsecs. (a), (c). Pub. L. 95–464 inserted “and Lake Champlain” after “Great Lakes”. 1974—Subsec. (c). Pub. L. 93–362 substituted “66⅔ per centum” for “60 per centum”. 1970—Subsec. (a). Pub. L. 91–249, § 1(a), made the Federal share of the cost of conservation, development and enhancement of the anadromous fishery resources subject to the provisions of subsec. (c) of this section. Subsec. (c). Pub. L. 91–249, § 1(b), added subsec. (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 2002 Amendment
 
@@ -45,6 +49,8 @@ Pub. L. 102–130, § 1, Oct. 17, 1991, 105 Stat. 626, provided that: “This Ac
 ### Short Title
 
 Section 8, formerly section 7, of Pub. L. 89–304, as added by Pub. L. 91–249, § 3, May 14, 1970, 84 Stat. 214, and renumbered by Pub. L. 96–118, § 4, Nov. 16, 1979, 93 Stat. 859, provided that: “This Act [enacting this section and sections 757b to 757g of this title] may be cited as the ‘Anadromous Fish Conservation Act’.”
+
+### Executive Documents
 
 ### Transfer of Functions
 

@@ -28,6 +28,8 @@ section: 15c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The antitrust laws, referred to in subsec. (a)(2), are defined in section 12 of this title.
@@ -35,6 +37,8 @@ The antitrust laws, referred to in subsec. (a)(2), are defined in section 12 of 
 ### Amendments
 
 1980—Subsec. (a)(2). Pub. L. 96–349 inserted provisions respecting award of prejudgment interest including considerations for the court in determining whether an award is just under the circumstances.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1980 Amendment
 

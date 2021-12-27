@@ -199,6 +199,8 @@ section: 6s
 
 4 So in original. Probably should be “Act”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Securities Exchange Act of 1934, referred to in subsec. (e)(3)(B)(ii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables. The Employee Retirement Income Security Act of 1974, referred to in subsec. (h)(5)(A)(i)(VII), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
@@ -206,6 +208,8 @@ The Securities Exchange Act of 1934, referred to in subsec. (e)(3)(B)(ii), is ac
 ### Amendments
 
 2015—Subsec. (e)(4). Pub. L. 114–1 added par. (4). 2010—Subsec. (l). Pub. L. 111–203, § 724(c), added subsec. (l).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

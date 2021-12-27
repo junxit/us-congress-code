@@ -15,6 +15,8 @@ The Secretary is authorized to make such rules and regulations and hold such hea
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 “Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -22,6 +24,8 @@ The Secretary is authorized to make such rules and regulations and hold such hea
 ### Amendments
 
 1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Repeals
 

@@ -91,6 +91,8 @@ section: 839d
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables. The Federal Columbia River Transmission System Act, referred to in subsecs. (c)(4)(C), (d), and (h)(6)(B), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.

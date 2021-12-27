@@ -23,6 +23,8 @@ section: 392c
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Pub. L. 108–352 substituted “Hawaiʻi Volcanoes” for “Hawaii Volcanoes” in two places in subsec. (a) and in subsec. (e).

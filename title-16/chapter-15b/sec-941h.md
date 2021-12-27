@@ -40,6 +40,8 @@ section: 941h
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Reorganization Plan No. 4, referred to in subsec. (b)(4), (5), probably means Reorganization Plan No. 4 of 1970, which is set out as a note under section 1511 of title 15, Commerce and Trade, and in the Appendix to Title 5, Government Organization and Employees. The Great Lakes Fishery Act of 1956, referred to in subsec. (c)(4), is act June 4, 1956, ch. 358, 70 Stat. 242, which is classified generally to chapter 15A (§ 931 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 931 of this title and Tables.

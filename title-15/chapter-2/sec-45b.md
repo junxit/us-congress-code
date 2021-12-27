@@ -78,6 +78,8 @@ section: 45b
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Trade Commission Act, referred to in subsecs. (d)(2) and (h), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to this subchapter. For complete classification of this Act to the Code, see section 58 of this title and Tables. This Act, referred to in subsecs. (d)(2)(A) and (f), is Pub. L. 114–258, Dec. 14, 2016, 130 Stat. 1355, known as the Consumer Review Fairness Act of 2016, which enacted this section and provisions set out as a note under section 58 of this title. For complete classification of this Act to the Code, see Short Title of 2016 Amendment note set out under section 58 of this title and Tables.

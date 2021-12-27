@@ -15,6 +15,8 @@ The property at Creston, Montana, acquired by the United States for the establis
 
 ## Notes
 
+### Executive Documents
+
 ### Transfer of Functions
 
 Fish and Wildlife Service, created by Reorg. Plan No. III of 1940, § 3, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, succeeded by United States Fish and Wildlife Service established by act Aug. 8, 1956, ch. 1036, § 3, 70 Stat. 1120. See section 742b of this title. For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.

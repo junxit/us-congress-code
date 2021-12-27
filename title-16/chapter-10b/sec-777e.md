@@ -20,9 +20,13 @@ section: 777e
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2015—Subsec. (d). Pub. L. 114–94 substituted “from appropriations” for “for appropriations”. 1984—Subsec. (d). Pub. L. 98–369 added subsec. (d). 1970—Subsec. (a). Pub. L. 91–503 added an alternative method of application for funds by submission of a comprehensive fish and wildlife resource management plan for a period of five years based on projections for fifteen years, to be updated every three years, laid down a maximum limit of assistance of 75 percent of the estimated cost of the implementation of plan, and in existing method of application struck out reference to Secretary of the Treasury and requirement that State pay 10 percent of costs. Subsecs. (b), (c). Pub. L. 91–503 added subsecs. (b) and (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2015 Amendment
 
@@ -31,6 +35,8 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 ### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respect to fiscal years beginning after Sept. 30, 1984, see section 1014(b) of Pub. L. 98–369, set out as a note under section 777 of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

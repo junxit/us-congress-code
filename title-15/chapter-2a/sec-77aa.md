@@ -64,9 +64,13 @@ schedule b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1998—Schedule A, par. (28). Pub. L. 105–353 substituted “identical” for “identic”.
+
+### Executive Documents
 
 ### Transfer of Functions
 

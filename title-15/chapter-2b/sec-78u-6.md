@@ -126,9 +126,13 @@ section: 78u–6
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Sarbanes-Oxley Act of 2002, referred to in subsec. (h)(1)(A)(iii), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables. This chapter, referred to in subsec. (h)(1)(A)(iii), was in the original “the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)”. This chapter, referred to in subsec. (h)(2)(D)(i), was in the original “this Act”. See References in Text note set out under section 78a of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

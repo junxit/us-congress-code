@@ -47,6 +47,8 @@ section: 657p
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Small Business Investment Act of 1958, referred to in subsec. (a)(2), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689. Title V of the Act is classified generally to subchapter V (§ 695 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables. The Social Security Act, referred to in subsec. (a)(3), (7), (8), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -54,6 +56,8 @@ The Small Business Investment Act of 1958, referred to in subsec. (a)(2), is Pub
 ### Codification
 
 Section was enacted as part of the Children’s Health Insurance Program Reauthorization Act of 2009, and not as part of the Small Business Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

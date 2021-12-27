@@ -30,6 +30,8 @@ section: 742c
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 In subsec. (b)(8), “section 50501 of title 46” substituted for “section 2 of the Shipping Act, 1916, as amended,” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 50501 of Title 46, Shipping.
@@ -37,6 +39,8 @@ In subsec. (b)(8), “section 50501 of title 46” substituted for “section 2 
 ### Amendments
 
 1986—Subsec. (c). Pub. L. 99–659 amended third sentence generally, striking out “and any balance remaining therein at the close of September 30, 1986 (at which time the fund shall cease to exist),” after “1986,”. 1984—Subsec. (c). Pub. L. 98–498 substituted “September 30, 1986” for “September 30, 1984” wherever appearing. 1983—Subsec. (c). Pub. L. 98–44 substituted “September 30, 1984” for “September 30, 1983” wherever appearing. 1982—Subsec. (c). Pub. L. 97–347 substituted “September 30, 1983” for “September 30, 1982” wherever appearing. 1980—Subsec. (c). Pub. L. 96–478 substituted “September 30, 1982” for “September 30, 1980” wherever appearing and struck out interest payment provisions respecting, payment at close of each fiscal year from fisheries loan fund into miscellaneous receipts of the Treasury on cumulative amount of appropriations available as capital to the fund from and after July 1, 1965, less average undispersed balance in the fund during the year, determination of interest rate on basis of average market yield during month preceding each fiscal year on outstanding Treasury obligations of maturity comparable to average maturity of loans made from the fund, and interest payment deferrals approved by the Secretary of the Treasury subject to interest on deferred amounts. 1976—Subsec. (c). Pub. L. 94–273 substituted “September” for “June” wherever appearing. 1970—Subsec. (b)(2). Pub. L. 91–279 provided maturity period of fourteen years for loans for all or part of costs of constructing new fishing vessels. Subsec. (b)(7). Pub. L. 91–387, § 2, permitted a national of the United States to be an applicant for a fishery loan. Subsec. (b)(8). Pub. L. 91–387, § 2, substituted provision for Secretary’s determination of United States citizenship of a corporation, partnership, or association by satisfactorily meeting all requirements set forth in section 802 of title 46 for determination of citizenship of such entity operating a vessel in coastwise trade, for prior provision for establishment of such citizenship within meaning of section 802 of title 46 to satisfaction of the Secretary. Subsec. (b)(9). Pub. L. 91–387, § 2, added par. (9). Subsec. (c). Pub. L. 91–387, § 1, extended term for making fisheries loans, substituting “June 30, 1980” for “June 30, 1970” wherever appearing. 1965—Subsec. (a). Pub. L. 89–85, § 1, substituted “financing or refinancing of the cost of purchasing, constructing, equipping, maintaining, repairing, or operating new or used commercial fishing vessels or gear” for “financing and refinancing of operations, maintenance, replacement, repair, and equipment of fishing gear and vessels” and struck out provision for research into basic problems of fisheries. Subsec. (b). Pub. L. 89–85, §§ 2, 3, substituted in par. (1) provision respecting determination of interest rate taking into consideration average market yield on outstanding Treasury obligations of comparable maturity plus additional charge toward coverage of other costs of program for former provision prescribing an interest rate of not less than 3 per centum per annum and added pars. (4) to (8), respectively. Subsec. (c). Pub. L. 89–85, § 4, extended term for making fisheries loans from June 30, 1965, to June 30, 1970, required Secretary to pay at end of each fiscal year into miscellaneous receipts of the Treasury interest on cumulative amount of appropriations available as capital to fund after July 1, 1965, less average undispersed cash balance in fund during the year, provided formula for determination of rate of interest, and authorized deferral of interest payments but with payment of interest on deferred payments. 1964—Subsec. (e). Pub. L. 88–309 added subsec. (e). 1958—Subsec. (c). Pub. L. 85–888 increased authorization for $10,000,000 to $20,000,000.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1980 Amendment
 
@@ -50,10 +54,12 @@ Pub. L. 91–387, § 3, Aug. 24, 1970, 84 Stat. 829, provided that: “The provi
 
 Pub. L. 89–85, § 5, July 24, 1965, 79 Stat. 263, provided that: “The provisions of this Act [amending this section] shall be effective July 1, 1965. Notwithstanding the provisions of section 4(c) of the Fish and Wildlife Act of 1956, as amended [subsec. (c) of this section], any balance remaining in the fisheries loan fund at the close of June 30, 1965, shall be available to make loans for the purposes of section 4 of said Act [this section] from July 1, 1965, to the close of June 30, 1970.”
 
-### Transfer of Functions
-
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.
-
 ### Loans Under Fish and Wildlife Act of 1956
 
 Pub. L. 96–561, title II, § 221, Dec. 22, 1980, 94 Stat. 3295, as amended by Pub. L. 98–44, title I, § 103(b), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, § 431, Oct. 19, 1984, 98 Stat. 2310, provided that during the period beginning Dec. 22, 1980, through the close of Sept. 30, 1986, the Secretary of Commerce could make loans from the fisheries loan fund established under subsec. (c) of this section only for the purpose of assisting obligors to avoid default on obligations covering fishing vessels and to cover operating losses.
+
+### Executive Documents
+
+### Transfer of Functions
+
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.

@@ -24,9 +24,13 @@ section: 80b–18a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2010—Subsecs. (b), (c). Pub. L. 111–203 substituted “principal office and place of business” for “principal place of business” wherever appearing. 1998—Subsec. (b)(2). Pub. L. 105–353 substituted “principal” for “principle”. 1996—Pub. L. 104–290 substituted “regulation” for “control” in section catchline and amended text generally, designating existing provisions as subsec. (a), inserting heading, and adding subsecs. (b) to (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

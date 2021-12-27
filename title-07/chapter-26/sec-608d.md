@@ -21,6 +21,8 @@ section: 608d
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Act Aug. 24, 1935, struck out provisions of section 8(4) of act May 12, 1933, formerly appearing in section 608(4) of this title and added a new section 8d containing provisions appearing in text.
@@ -28,6 +30,8 @@ Act Aug. 24, 1935, struck out provisions of section 8(4) of act May 12, 1933, fo
 ### Amendments
 
 1999—Subsec. (3). Pub. L. 106–78 added subsec. (3). 1985—Subsec. (2). Pub. L. 99–198, § 1663(1), extended confidentiality requirement to include information for marketing order programs that is categorized as trade secrets and commercial or financial information that is exempt from disclosure under section 552 of title 5. Pub. L. 99–198, § 1663(2), inserted provisions directing that confidential information relating to a marketing agreement or order applicable to milk may be released upon the authorization of any regulated milk handler to whom such information pertains and that the Secretary notify the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives not later than 10 legislative days before the contemplated release under law, of the names and addresses of producers participating in such marketing agreements and orders, and include in such notice a statement of reasons relied upon by the Secretary in making the determination to release such names and addresses.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Release of Information
 

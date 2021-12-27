@@ -15,9 +15,13 @@ In the appointment of officials and the selection of employees for said Corporat
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Pub. L. 108–447 substituted “Board” for “board” wherever appearing.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2004 Amendment
 

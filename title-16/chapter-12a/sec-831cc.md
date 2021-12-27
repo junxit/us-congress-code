@@ -15,6 +15,8 @@ The sections of this chapter are declared to be separable, and in the event any 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1935—Act Aug. 31, 1935, reenacted provisions of this section without change.

@@ -16,6 +16,8 @@ section: 410gg–1
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The effective date of this subchapter, referred to in subsec. (b), probably means the date of enactment of Pub. L. 96–287, which was approved on June 28, 1980.

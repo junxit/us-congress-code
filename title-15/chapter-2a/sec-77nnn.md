@@ -34,9 +34,13 @@ section: 77nnn
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1990—Subsec. (a). Pub. L. 101–550, § 413(1)–(6), in introductory provision substituted “Each” for “The indenture to be qualified shall contain provisions requiring each” and inserted “shall” after “thereby” and in pars. (1) to (3) struck out “to” after the paragraph designation, and directed the addition of par. (4) at the end which was executed by inserting par. (4) after par. (3) to reflect the probable intent of Congress. Subsec. (b). Pub. L. 101–550, § 413(7), (8), struck out “such indenture shall contain provisions requiring” before “the obligor” and substituted “securities shall furnish” for “securities to furnish”. Subsec. (c). Pub. L. 101–550, § 413(9), (10), substituted “The obligor” for “The indenture to be qualified shall contain provisions requiring the obligor” and “securities shall furnish” for “securities to furnish”. Subsec. (d). Pub. L. 101–550, § 413(11), (13), (14), substituted “the obligor upon the indenture securities shall furnish to the indenture trustee a certificate or opinion of an engineer, appraiser, or other expert as to the fair value” for “such indenture shall contain provisions” in introductory provisions and “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to provide that” for “If the indenture to be qualified so provides,” and “duly authorized to make such certificate or opinion by the obligor from time to time” for “specified in the indenture” in penultimate sentence. Subsec. (d)(1) to (3). Pub. L. 101–550, § 413(12), which directed that “requiring the obligor upon the indenture securities to furnish to the indenture trustee a certificate or opinion of an engineer, appraiser or other expert as to the fair value” be struck out after the paragraph designations in pars. (1) to (3), was executed by striking out “requiring the obligor upon the indenture securities to furnish to the indenture trustee a certificate or opinion of an engineer, appraiser, or other expert as to the fair value”, as the probable intent of Congress. Subsec. (e). Pub. L. 101–550, § 413(15), inserted “(other than certificates provided pursuant to subsection (a)(4) of this section)” after “indenture”.
+
+### Executive Documents
 
 ### Transfer of Functions
 

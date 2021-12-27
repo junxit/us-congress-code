@@ -20,6 +20,8 @@ section: 608a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Provisions of subsecs. (1) to (4), relating to establishment, regulation and determination of sugar quotas, agreements limiting or regulating child labor, wages, and adjustment of disputes in the sugar industry, and prescribing penalties for violations thereof, were omitted since they ceased to apply on Sept. 1, 1937, in accordance with the provisions of section 510 of the Sugar Act of 1937, act Sept. 1, 1937, ch. 898, 50 Stat. 916. Section 510 of act Sept. 1, 1937, provided in part that: “The provisions of the Agricultural Adjustment Act, as amended [this chapter], shall cease to apply to sugar upon the enactment of this Act [Sept. 1, 1937]” . Provisions similar to former subsecs. (1) to (4) were contained in the Sugar Act of 1948, section 1100 et seq. of this title, which expired on Dec. 31, 1974.
@@ -28,14 +30,18 @@ Provisions of subsecs. (1) to (4), relating to establishment, regulation and det
 
 1961—Subsec. (5). Pub. L. 87–128 struck out “willfully” after “Any person” and substituted provision for forfeiture of a sum equal to the value of the excess at the current market price for the commodity at the time of violation for provision for forfeiture of a sum equal to three times the current market value of the excess. 1937—Subsec. (6). Act June 3, 1937, § 2(c), struck out “the provisions of this section, or of”. 1935—Subsec. (1). Act Aug. 24, 1935, § 8, substituted “persons engaged in handling” for “handlers” wherever appearing; struck out “or in competition with,” in par. (B); inserted “directly” before “to burden” in par. (B); and struck out “in any way” in par. (B). Subsec. (6). Act Aug. 24, 1935, § 9, inserted “or” after “regulation,” and struck out “or license”. Subsec. (7). Act Aug. 24, 1935, § 10, inserted last sentence.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys” in subsec. (7). See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
 
-### Admission of Hawaii as State
-
-Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding 491 of Title 48, Territories and Insular Possessions.
-
 ### Validity of Section Affirmed
 
 Act June 3, 1937, affirmed and validated, and reenacted without change the provisions of subsections (5), (6), (7), (8), and (9) of this section, except for the amendment to subsection (6) by section 2 of the act. See note set out under section 601 of this title.
+
+### Executive Documents
+
+### Admission of Hawaii as State
+
+Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding 491 of Title 48, Territories and Insular Possessions.

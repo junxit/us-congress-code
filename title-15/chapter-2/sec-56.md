@@ -42,9 +42,13 @@ section: 56
 
 For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.
 
+### Editorial Notes
+
 ### Amendments
 
 2012—Pub. L. 112–203, § 1, amended Pub. L. 109–455, § 13. See 2006 Amendment notes below. 2006—Subsec. (a)(2)(E). Pub. L. 109–455, § 7(b), which added subpar. (E) reading “under section 57b–2a of this title;”, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below. Subsec. (c). Pub. L. 109–455, § 5, which added subsec. (c) relating to attorneys used and money expended for foreign litigation, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below. 1975—Pub. L. 93–637 substituted provisions authorizing the Commission at its election to appear in court by its own name and designate its attorneys for such purpose, for provisions relating to the certification of facts by the Commission to the Attorney General who brought the appropriate proceedings, or, after compliance with section 45(m) of this title, itself brought the appropriate proceedings. 1973—Pub. L. 93–153 inserted provisions authorizing the Federal Trade Commission to itself cause appropriate proceedings to be brought after compliance with the requirements of section 45(m) of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Termination Date of 2006 Amendment
 
@@ -53,6 +57,8 @@ Amendment by sections 5 and 7(b) of Pub. L. 109–455 repealed effective Sept. 3
 ### Effective Date of 1975 Amendment
 
 Pub. L. 93–637, title II, § 204(c), Jan. 4, 1975, 88 Stat. 2200, provided that: “The amendment and repeal made by this section [amending this section and repealing section 45(m) of this title] shall not apply to any civil action commenced before the date of enactment of this Act [Jan. 4, 1975].”
+
+### Executive Documents
 
 ### Transfer of Functions
 

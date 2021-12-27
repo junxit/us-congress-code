@@ -15,6 +15,8 @@ In furtherance of the purpose of this subchapter, the Secretary of the Interior 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section formerly consisted of sections 101 and 102 of Pub. L. 91–661. Section 102 of Pub. L. 91–661 was substantially amended and expanded by Pub. L. 97–405, § 1(1), (2), Jan. 3, 1983, 96 Stat. 2028, and as thus amended is set out as section 160a–1 of this title.

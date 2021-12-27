@@ -15,6 +15,8 @@ Sole and exclusive jurisdiction is assumed by the United States over the territo
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 A provision accepting the act of the legislature of the State of Washington which ceded to the United States exclusive jurisdiction over the territory referred to in this section has been omitted as executed.

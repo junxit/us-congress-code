@@ -15,6 +15,8 @@ The Chief Counsel may from time to time prepare and publish such reports as he d
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.

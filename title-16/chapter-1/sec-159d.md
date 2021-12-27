@@ -15,6 +15,8 @@ The Secretary of the Interior is authorized to accept all or any portion of the 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1983—Pub. L. 97–460 struck out provisions which authorized the Secretary of the Interior to accept donations of land, interests in land, buildings, structures, and other property in Saratoga County which properties, together with the General Philip Schuyler Mansion property, were to become part of Saratoga National Historical Park. See sections 159f and 159g of this title.

@@ -26,9 +26,13 @@ section: 1b
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsec. (c), was in the original “this title”, and was translated as reading “this Act”, meaning act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to this chapter, to reflect the probable intent of Congress, because act Sept. 21, 1922, does not contain titles.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

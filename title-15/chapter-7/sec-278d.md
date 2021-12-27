@@ -16,6 +16,8 @@ section: 278d
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 “Herein”, referred to in subsec. (a), refers to act Mar. 3, 1901, ch. 872, which is classified generally to this chapter.
@@ -23,6 +25,8 @@ section: 278d
 ### Amendments
 
 2007—Pub. L. 110–69 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b). 1992—Pub. L. 102–245 substituted “herein.” for “herein: Provided, That no improvement shall be made nor shall any building be constructed under this authority at a cost in excess of $250,000 unless specific provision is made therefor in the appropriation concerned.” 1988—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” wherever appearing. 1980—Pub. L. 96–461 substituted “$250,000” for $75,000”. 1972—Pub. L. 92–317 substituted “$75,000” for “$40,000”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1980 Amendment
 

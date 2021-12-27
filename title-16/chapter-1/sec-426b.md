@@ -15,9 +15,13 @@ It shall be the duty of the commission, acting under the direction of the Secret
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 A provision of act Mar. 3, 1927, authorizing the submission of a report by the commission to the Secretary of War not later than Dec. 1, 1927, and describing the contents of such report was omitted as executed.
+
+### Executive Documents
 
 ### Transfer of Functions
 

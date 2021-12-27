@@ -15,6 +15,8 @@ Any property owned under any contract or by any combination, or pursuant to any 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1913—Act Feb. 12, 1913, substituted “imported into and being within the United States or” for “and”.

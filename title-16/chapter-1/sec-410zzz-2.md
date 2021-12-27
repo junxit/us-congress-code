@@ -15,6 +15,8 @@ When the sites, structures, and other properties authorized for acquisition unde
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2019—Pub. L. 116–9, § 2201(b)(3), substituted “addition to the Saint-Gaudens National Historical Park” for “addition to the national historical site” and “part of the park” for “part of the site”. Pub. L. 116–9, § 2201(b)(1), substituted “National Historical Park by publication” for “National Historic Site by publication”. 2000—Pub. L. 106–491 substituted “279 acres of lands and buildings, or interests therein” for “not to exceed sixty-four acres of lands and interests therein”. 1976—Pub. L. 94–578 inserted at end “Following such establishment the Secretary may acquire by donation, purchase with donated or appropriated funds, or exchange not to exceed sixty-four acres of lands and interests therein which he deems necessary for addition to the national historical site and which, when acquired, shall become a part of the site.”

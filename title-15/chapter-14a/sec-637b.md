@@ -21,6 +21,8 @@ section: 637b
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.

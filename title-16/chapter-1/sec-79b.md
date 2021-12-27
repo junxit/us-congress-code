@@ -26,6 +26,8 @@ section: 79b
 
 2 So in original. Probably should be “patrolling”.
 
+### Editorial Notes
+
 ### References in Text
 
 Act of October 21, 1976 (90 Stat. 2743), referred to in subsec. (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.

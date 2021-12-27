@@ -15,6 +15,8 @@ Any person, firm, corporation, or association shall be entitled to sue for and h
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.
@@ -22,6 +24,8 @@ The antitrust laws, referred to in text, are defined in section 12 of this title
 ### Amendments
 
 1995—Pub. L. 104–88 substituted “for injunctive relief against any common carrier subject to the jurisdiction of the Surface Transportation Board under subtitle IV of title 49” for “in equity for injunctive relief against any common carrier subject to the provisions of the Act to regulate commerce, approved February fourth, eighteen hundred and eighty-seven, in respect of any matter subject to the regulation, supervision, or other jurisdiction of the Interstate Commerce Commission.” 1976—Pub. L. 94–435 inserted provision authorizing court to award costs, including attorneys’ fees, to a successful plaintiff.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1995 Amendment
 

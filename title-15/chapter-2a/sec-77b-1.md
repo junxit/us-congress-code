@@ -22,9 +22,13 @@ section: 77b–1
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2010—Subsec. (a). Pub. L. 111–203, § 762(c)(1)(A), struck out subsec. (a) and reserved subsec. (a) designation. Text read as follows: “The definition of ‘security’ in section 77b(a)(1) of this title does not include any non-security-based swap agreement (as defined in section 206C of the Gramm-Leach-Bliley Act).” Subsec. (b). Pub. L. 111–203, § 762(c)(1)(B), substituted “(as defined in section 78c(a)(78) of this title)” for “(as defined in section 206B of the Gramm-Leach-Bliley Act)” wherever appearing.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

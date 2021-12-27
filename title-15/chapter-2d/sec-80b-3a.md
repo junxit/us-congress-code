@@ -37,6 +37,8 @@ section: 80b–3a
 
 1 So in original. The word “or” probably should not appear.
 
+### Editorial Notes
+
 ### References in Text
 
 The Investment Company Act of 1940, referred to in subsec. (a)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
@@ -44,6 +46,8 @@ The Investment Company Act of 1940, referred to in subsec. (a)(2)(A), is title I
 ### Amendments
 
 2019—Subsec. (b)(1)(D). Pub. L. 115–417 added subpar. (D). 2015—Subsec. (b)(1)(C). Pub. L. 114–94 added subpar. (C). 2010—Subsec. (a)(2), (3). Pub. L. 111–203 added par. (2) and redesignated former par. (2) as (3). 2006—Subsecs. (d), (e). Pub. L. 109–290 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “The Commission may, by rule, require an investment adviser— “(1) to file with the Commission any fee, application, report, or notice required by this subchapter or by the rules issued under this subchapter through any entity designated by the Commission for that purpose; and “(2) to pay the reasonable costs associated with such filing.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

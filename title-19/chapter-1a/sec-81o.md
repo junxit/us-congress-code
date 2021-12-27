@@ -19,9 +19,13 @@ section: 81o
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1984—Subsec. (e). Pub. L. 98–573 added subsec. (e).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1984 Amendment
 

@@ -27,6 +27,8 @@ section: 78fff–4
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 10 of Pub. L. 91–598 was renumbered section 14 and is classified to section 78jjj of this title.
@@ -34,6 +36,8 @@ A prior section 10 of Pub. L. 91–598 was renumbered section 14 and is classifi
 ### Amendments
 
 1978—Subsec. (e). Pub. L. 95–598, § 308(n)(3), which directed striking out “, without regard to the citizenship of the parties or the amount in the controversy”, was executed by striking out “, without regard to the citizenship of the parties or the amount in controversy” after “adjudication of such claim” to reflect the probable intent of Congress. Pub. L. 95–598, § 308(n)(1), (2), substituted “Bankruptcy Courts” for “District Courts” in heading and “courts of the United States having jurisdiction over cases under title 11” for “district courts of the United States” in text.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1978 Amendment
 

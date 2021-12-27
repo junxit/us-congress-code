@@ -15,9 +15,13 @@ This Act shall not be construed to repeal existing laws conferring upon the Secr
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in text, is act May 7, 1894, which is classified to sections 24 to 30a of this title. For complete classification of this Act to the Code, see Tables.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

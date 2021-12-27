@@ -25,6 +25,8 @@ section: 278g–2a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2011—Subsec. (c). Pub. L. 111–358 inserted at end “The Director shall give special consideration to an application from a teacher from a high-need school, as defined in section 1021 of title 20.”

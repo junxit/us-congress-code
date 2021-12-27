@@ -15,9 +15,13 @@ The Secretary of the Interior shall cause to be erected in Yellowstone National 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 9 of the act of May 7, 1894, contained the added clause, “the cost of such building not to exceed five thousand dollars, to be paid out of any moneys in the Treasury not otherwise appropriated upon certificate of the Secretary as a voucher therefor,” which was superseded by the provisions contained in section 451 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

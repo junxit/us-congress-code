@@ -26,6 +26,8 @@ section: 27a
 
 1 So in original.
 
+### Editorial Notes
+
 ### References in Text
 
 The Commodity Exchange Act, referred to in subsecs. (a)(1), (b)(2), and (c)(3), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 1 of this title and Tables. The Securities Act of 1933, referred to in subsecs. (b)(2) and (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables. The Securities Exchange Act of 1934, referred to in subsecs. (b)(2) and (c)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
@@ -37,6 +39,8 @@ Section was enacted as part of the Legal Certainty for Bank Products Act of 2000
 ### Amendments
 
 2010—Pub. L. 111–203 amended section generally. Prior to amendment, text read as follows: “No provision of the Commodity Exchange Act shall apply to, and the Commodity Futures Trading Commission shall not exercise regulatory authority with respect to, an identified banking product if— “(1) an appropriate banking agency certifies that the product has been commonly offered, entered into, or provided in the United States by any bank on or before December 5, 2000, under applicable banking law; and “(2) the product was not prohibited by the Commodity Exchange Act and not regulated by the Commodity Futures Trading Commission as a contract of sale of a commodity for future delivery (or an option on such a contract) or an option on a commodity, on or before December 5, 2000.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

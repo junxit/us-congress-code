@@ -20,6 +20,8 @@ section: 410ii–1
 
 1 So in original. Probably should be “acres are”.
 
+### Editorial Notes
+
 ### Amendments
 
 1995—Subsec. (b). Pub. L. 104–11 designated existing provisions as par. (1), increased number of outlying protection sites from 33 to 39, updated number designation and date on site designation maps, increased total acreage from 8,771 to 14,372 acres, and added par. (2).

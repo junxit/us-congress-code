@@ -27,6 +27,8 @@ section: 228i
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Provision of subsec. (f) of this section, which repealed section 3 of act of Feb. 26, 1919 (40 Stat. 1177), set out as section 223 of this title, has been omitted from this section as executed. See note set out under section 223 of this title.

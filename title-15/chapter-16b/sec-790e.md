@@ -25,9 +25,13 @@ section: 790e
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 5818 of title 42, referred to in subsec. (c), was repealed by Pub. L. 95–91, title VII, § 709(b), Aug. 4, 1977, 91 Stat. 608.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

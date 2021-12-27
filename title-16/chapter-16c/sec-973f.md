@@ -25,6 +25,8 @@ section: 973f
 
 1 So in original. “Code” probably should not appear.
 
+### Editorial Notes
+
 ### Amendments
 
 1988—Subsec. (a). Pub. L. 100–350, § 4(1), substituted “and gravity” for “any gravity” and “history of prior” for “history or prior”. Subsec. (g)(1). Pub. L. 100–350, § 4(2), substituted “Treaty” for “Treasury”.

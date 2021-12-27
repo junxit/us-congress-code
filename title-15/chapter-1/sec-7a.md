@@ -9,7 +9,7 @@ section: 7a
 
 In sections 7a to 7a–3 of this title:
 
-- **(1)** *Antitrust division* The term “Antitrust Division” means the United States Department of Justice Antitrust Division.
+- **(1)** *Antitrust Division* The term “Antitrust Division” means the United States Department of Justice Antitrust Division.
 - **(2)** *Antitrust leniency agreement* The term “antitrust leniency agreement,” or “agreement,” means a leniency letter agreement, whether conditional or final, between a person and the Antitrust Division pursuant to the Corporate Leniency Policy of the Antitrust Division in effect on the date of execution of the agreement.
 - **(3)** *Antitrust leniency applicant* The term “antitrust leniency applicant,” or “applicant,” means, with respect to an antitrust leniency agreement, the person that has entered into the agreement.
 - **(4)** *Claimant* The term “claimant” means a person or class, that has brought, or on whose behalf has been brought, a civil action alleging a violation of section 1 or 3 of this title or any similar State law, except that the term does not include a State or a subdivision of a State with respect to a civil action brought to recover damages sustained by the State or subdivision.
@@ -22,6 +22,8 @@ In sections 7a to 7a–3 of this title:
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 7a to 7a–3 of this title, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 211–216) of title II of Pub. L. 108–237, June 22, 2004, 118 Stat. 666, which enacted this section and sections 7a–1 to 7a–3 of this title, amended sections 1, 2, and 3 of this title, and enacted provisions formerly set out in a note under section 1 of this title. For complete classification of subtitle A to the Code, see Tables.
@@ -33,6 +35,8 @@ Section was formerly set out in a note under section 1 of this title, prior to t
 ### Amendments
 
 2020—Pars. (6), (7). Pub. L. 116–159 redesignated par. (7) as (6) and struck out former par. (6). Prior to amendment, text of par. (6) read as follows: “The term ‘marker’ means an assurance given by the Antitrust Division to a candidate for corporate leniency that no other company will be considered for leniency, for some finite period of time, while the candidate is given an opportunity to perfect its leniency application.” 2010—Pars. (6), (7). Pub. L. 111–190 added par. (6) and redesignated former par. (6) as (7).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Findings; Purpose of 2020 Amendment
 

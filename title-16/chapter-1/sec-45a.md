@@ -17,6 +17,8 @@ The boundaries of the Sequoia National Park, California, are changed as follows:
 
 1 So in original. Probably should be “Fork”.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Exclusion and Addition of Lands
 
 Certain lands excluded from Kings Canyon National Park and added to Sequoia National Forest, see section 80a–1 of this title. Certain lands excluded from Sequoia National Forest and added to Kings Canyon National Park, see section 80a–2 of this title.

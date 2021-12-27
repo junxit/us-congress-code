@@ -15,6 +15,8 @@ The processing tax authorized by section 609 of this title, when levied upon cot
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Agricultural Adjustment Act which comprises this chapter.
@@ -22,6 +24,8 @@ Section was not enacted as part of the Agricultural Adjustment Act which compris
 ### Constitutionality
 
 Unconstitutionality of processing and floor stock taxes, see note set out under section 616 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Separability
 

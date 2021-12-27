@@ -15,6 +15,8 @@ There are hereby authorized to be appropriated such sums, but not more than $10,
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Pub. L. 106–491 substituted “$10,632,000” for “$2,677,000” and “$2,000,000” for “$80,000”. 1976—Pub. L. 94–578, § 201(7), substituted “$2,677,000” for “$210,000”. Pub. L. 94–578, § 101(10), inserted at end “For the acquisition of lands or interest therein, there is authorized to be appropriated not to exceed $80,000.”

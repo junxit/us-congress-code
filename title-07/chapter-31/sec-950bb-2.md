@@ -29,6 +29,8 @@ section: 950bb–2
 
 1 So in original. Probably should be “minimum”.
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Pub. L. 115–334, § 6203(1), substituted “Innovative Broadband Advancement” for “Rural Gigabit Network Pilot” in section catchline. Subsecs. (a) to (d). Pub. L. 115–334, § 6203(4), added subsecs. (a) to (d) and struck out former subsecs. (a) to (c) which defined “ultra-high speed service”, established the Rural Gigabit Network Pilot Program, and set out eligibility requirements for participation in Program, respectively. Former subsec. (d) redesignated (e). Subsec. (e). Pub. L. 115–334, § 6203(2), (3), redesignated subsec. (d) as (e) and substituted “2019 through 2023” for “2014 through 2018”.

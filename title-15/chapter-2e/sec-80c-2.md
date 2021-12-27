@@ -15,6 +15,8 @@ For fiscal year 1982, and for each of the three succeeding fiscal years, there a
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date
 
 Section effective Jan. 1, 1981, see section 507 of Pub. L. 96–477, set out as a note under section 80c of this title.

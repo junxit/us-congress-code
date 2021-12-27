@@ -17,6 +17,8 @@ Fees for calibration services, standard reference materials, and other comparabl
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The amendments made by subsection (a), referred to in text, mean the amendments made by subsec. (a) of section 5 of Pub. L. 99–73, which amended section 278b(f) of this title.
@@ -28,6 +30,8 @@ Section was not enacted as part of the National Institute and Technology Act whi
 ### Amendments
 
 1988—Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

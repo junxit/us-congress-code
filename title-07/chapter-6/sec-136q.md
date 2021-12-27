@@ -87,6 +87,8 @@ section: 136q
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The effective date of this subsection, referred to in subsecs. (e), (f)(1)(A), (2), and (g)(2), is 60 days after Oct. 25, 1988, the effective date of Pub. L. 100–532. See Effective Date of 1988 Amendment note below. The Solid Waste Disposal Act, referred to in subsecs. (f)(1)(B)(iv), (3) and (h), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
@@ -98,6 +100,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 ### Amendments
 
 2008—Subsec. (a)(4). Pub. L. 110–246, § 14209(b), added par. (4). 1996—Subsec. (h). Pub. L. 104–170 designated existing provisions as par. (1), inserted heading, and added par. (2). 1988—Pub. L. 100–532, § 401, amended section generally, in subsec. (a) substituting provisions which related to storage, disposal, and transportation, for provisions which directed Secretary to establish procedures for disposal or storage, in subsec. (b) substituting provisions which related to recalls, for provisions which directed Administrator to provide advice to Secretary of Transportation, in subsec. (c) substituting provisions which related to storage costs, for provisions which related to disposal of unused quantities, and adding subsec. (d). Subsec. (a)(3). Pub. L. 100–532, § 402, added par. (3). Subsecs. (e), (f). Pub. L. 100–532, § 403, added subsecs. (e) and (f). Subsec. (f)(2). Pub. L. 100–532, § 801(q)(1)(D), substituted “136i” for “136b”. Subsecs. (g), (h). Pub. L. 100–532, § 403, added subsecs. (g) and (h). 1978—Subsec. (c). Pub. L. 95–396 added subsec. (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2008 Amendment
 

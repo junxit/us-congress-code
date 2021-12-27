@@ -20,6 +20,8 @@ section: 6q
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 both renumbered this section as section 4q of act Sept. 21, 1922. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234. Section was formerly classified to section 6o–1 of this title.
@@ -27,6 +29,8 @@ Pub. L. 110–234 and Pub. L. 110–246 both renumbered this section as section 
 ### Amendments
 
 2010—Subsec. (a)(1). Pub. L. 111–203 substituted “section 1a(9)” for “section 1a(4)”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

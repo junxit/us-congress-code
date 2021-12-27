@@ -23,9 +23,13 @@ section: 78t–1
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsecs. (a), (c), (d), and (e), was in the original “this title”. See References in Text note set out under section 78a of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

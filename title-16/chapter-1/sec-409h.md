@@ -15,6 +15,8 @@ Lands acquired pursuant to this section and section 409g of this title, unless e
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act Mar. 2, 1933, ch. 182, 47 Stat. 1421, as amended, which comprises this subchapter.

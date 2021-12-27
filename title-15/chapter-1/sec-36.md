@@ -16,9 +16,13 @@ section: 36
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 For effective date of this Act, referred to in subsec. (b), see Effective Date note below.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

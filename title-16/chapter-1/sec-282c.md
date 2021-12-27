@@ -17,6 +17,8 @@ There are hereby authorized to be appropriated such sums, but not more than $13,
 
 1 So in original. Probably should be “San Juan Island National Historical Park.”
 
+### Editorial Notes
+
 ### Amendments
 
 2009—Pub. L. 111–88 substituted “$13,575,000” for “$5,575,000”. 1978—Pub. L. 95–625 substituted “$5,575,000” for “$3,542,000”.

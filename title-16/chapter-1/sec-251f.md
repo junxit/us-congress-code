@@ -15,9 +15,13 @@ The Secretary of the Interior (hereinafter referred to as the “Secretary”) s
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 251e to 251m of this title, referred to in text, was in the original “this Act”, meaning Pub. L. 94–578.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

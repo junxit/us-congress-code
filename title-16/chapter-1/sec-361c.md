@@ -15,6 +15,8 @@ The boundaries of the Hot Springs National Park in the State of Arkansas are ext
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1939—Act Aug. 10, 1939, repealed proviso which limited expenditure of funds.

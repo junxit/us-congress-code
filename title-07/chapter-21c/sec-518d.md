@@ -84,9 +84,13 @@ section: 518d
 
 2 So in original. Probably should be “chapter”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(2)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

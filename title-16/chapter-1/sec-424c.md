@@ -31,6 +31,8 @@ section: 424c
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of section 160 of div. F of Pub. L. 108–7. Subsec. (e) of section 160 of div. F of Pub. L. 108–7 repealed section 424a–4 of this title.

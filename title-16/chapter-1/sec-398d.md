@@ -21,9 +21,13 @@ section: 398d
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1978—Pub. L. 95–348 designated existing provisions as subsec. (a), inserted provisions respecting acquisitions of up to 6.6 acres, and added subsecs. (b) to (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Caneel Bay Lease Authorization
 

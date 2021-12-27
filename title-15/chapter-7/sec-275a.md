@@ -15,6 +15,8 @@ The Secretary shall charge for services performed under the authority of section
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Provisions relating to fees were formerly contained in section 276 of this title.

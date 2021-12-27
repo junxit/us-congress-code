@@ -60,6 +60,8 @@ section: 77s
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Paperwork Reduction Act, referred to in subsec. (f), probably means chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents. See Short Title note set out under section 3501 of Title 44. The Securities Exchange Act of 1934, referred to in subsec. (g)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
@@ -67,6 +69,8 @@ The Paperwork Reduction Act, referred to in subsec. (f), probably means chapter 
 ### Amendments
 
 2010—Subsec. (d)(6)(A). Pub. L. 111–203, § 985(a)(3), which directed substitution of “in paragraph (1) or (3)” for “in paragraph (1) of (3)”, could not be executed because the phrase “in paragraph (1) of (3)” did not appear. Subsecs. (e), (f). Pub. L. 111–203, § 912, added subsecs. (e) and (f). Subsec. (g). Pub. L. 111–203, § 978(a), added subsec. (g). 2002—Subsecs. (b) to (d). Pub. L. 107–204 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. 1987—Subsec. (c)(6). Pub. L. 100–181 added par. (6). 1980—Subsec. (c). Pub. L. 96–477 added subsec. (c). 1976—Subsec. (a). Pub. L. 94–210 struck out provisions relating to rules and regulations applicable to any common carrier subject to the provisions of section 20 of title 49. 1934—Subsec. (a). Act June 6, 1934, inserted “technical” in first sentence and inserted last sentence.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 
@@ -80,10 +84,12 @@ Amendment by Pub. L. 96–477 effective Jan. 1, 1981, see section 507 of Pub. L.
 
 Amendment by Pub. L. 94–210 effective on 60th day after Feb. 5, 1976, but not applicable to any bona fide offering of a security made by the issuer, or by or through an underwriter, before such 60th day, see section 308(d)(1) of Pub. L. 94–210, set out as a note under section 77c of this title.
 
-### Transfer of Functions
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 ### Study on Modernization and Simplification of Regulation S–K
 
 Pub. L. 114–94, div. G, title LXXII, § 72003, Dec. 4, 2015, 129 Stat. 1785, provided that: “(a) Study.—The Securities and Exchange Commission shall carry out a study of the requirements contained in regulation S–K (17 CFR 229.10 et seq.). Such study shall—“(1) determine how best to modernize and simplify such requirements in a manner that reduces the costs and burdens on issuers while still providing all material information; “(2) emphasize a company by company approach that allows relevant and material information to be disseminated to investors without boilerplate language or static requirements while preserving completeness and comparability of information across registrants; and “(3) evaluate methods of information delivery and presentation and explore methods for discouraging repetition and the disclosure of immaterial information. “(b) Consultation.—In conducting the study required under subsection (a), the Commission shall consult with the Investor Advisory Committee and the Advisory Committee on Small and Emerging Companies. “(c) Report.—Not later than the end of the 360-day period beginning on the date of enactment of this Act [Dec. 4, 2015], the Commission shall issue a report to the Congress containing—“(1) all findings and determinations made in carrying out the study required under subsection (a); “(2) specific and detailed recommendations on modernizing and simplifying the requirements in regulation S–K in a manner that reduces the costs and burdens on companies while still providing all material information; and “(3) specific and detailed recommendations on ways to improve the readability and navigability of disclosure documents and to discourage repetition and the disclosure of immaterial information. “(d) Rulemaking.—Not later than the end of the 360-day period beginning on the date that the report is issued to the Congress under subsection (c), the Commission shall issue a proposed rule to implement the recommendations of the report issued under subsection (c). “(e) Rule of Construction.—Revisions made to regulation S–K by the Commission under section 202 [probably means section 72002 of Pub. L. 114–94, set out as a note under section 77g of this title] shall not be construed as satisfying the rulemaking requirements under this section.”
+
+### Executive Documents
+
+### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.

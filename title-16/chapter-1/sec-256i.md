@@ -15,6 +15,8 @@ The Secretary of the Interior shall notify in writing the Governor of the State 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in text, is act Mar. 6, 1942, which is classified to sections 256 to 256i of this title. For complete classification of this Act to the Code, see Tables.

@@ -30,6 +30,8 @@ section: 361g
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 379 of this title. See section 361h of this title.
@@ -38,9 +40,13 @@ Section was formerly classified to section 379 of this title. See section 361h o
 
 2018—Subsec. (e). Pub. L. 115–334 added pars. (1) to (3) and struck out former pars. (1) to (4) which read as follows: “(1) The critical short-term, intermediate, and long-term agricultural issues in the State and the current and planned research programs and projects targeted to address the issues. “(2) The process established to consult with users of agricultural research regarding the identification of critical agricultural issues in the State and the development of research programs and projects targeted to address the issues. “(3) The efforts made to identify and collaborate with other colleges and universities within the State, and within other States, that have a unique capacity to address the identified agricultural issues in the State and the extent of current and emerging efforts (including regional efforts) to work with those other institutions. “(4) The manner in which research and extension, including research and extension activities funded other than through formula funds, will cooperate to address the critical issues in the State, including the activities to be carried out separately, the activities to be carried out sequentially, and the activities to be carried out jointly.” 2002—Subsec. (c). Pub. L. 107–171 added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Whenever it shall appear to the Secretary of Agriculture from the annual statement of receipts and expenditures of funds by any State agricultural experiment station that any portion of the preceding annual appropriation allotted to that station under sections 361a to 361i of this title remains unexpended, such amount shall be deducted from the next succeeding annual allotment to the State concerned.” 1998—Pub. L. 105–185, § 202(b), inserted section catchline, designated existing provisions as subsecs. (a) to (c), inserted subsec. headings, and added subsecs. (d) to (g). Pub. L. 105–185, § 103(f)(2), struck out at end “If the Secretary of Agriculture shall withhold from any State any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress shall not direct such sum to be paid, it shall be carried to surplus.” 1976—Pub. L. 94–273 substituted “October” for “July” in second par. 1960—Pub. L. 86–533 repealed provisions which required the Secretary of Agriculture to make a report to the Congress of the receipts, expenditures and work of the agricultural experiment stations in all the States under the provisions of sections 361a to 361i of this title. 1955—Act Aug. 11, 1955, amended section generally to prescribe the powers and duties of the Secretary of Agriculture, to provide for the determination of the amount of entitlement, to authorize deduction of unexpended balances, and to require reports. For provisions which stated that the relation of the college to the State was unaffected, see section 361h of this title.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 1998 Amendment
 
 Amendment by section 202(b) of Pub. L. 105–185 effective Oct. 1, 1999, see section 202(c) of Pub. L. 105–185, set out as a note under section 344 of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

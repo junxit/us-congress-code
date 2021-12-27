@@ -20,6 +20,8 @@ section: 499m
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 563 of this title.
@@ -27,6 +29,8 @@ Section was formerly classified to section 563 of this title.
 ### Amendments
 
 1978—Subsecs. (b) to (f). Pub. L. 95–562 added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively. 1970—Subsec. (f). Pub. L. 91–452 struck out subsec. (f) which related to immunity from prosecution of any natural person compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination. 1956—Subsec. (a). Act July 30, 1956, permitted inspection of accounts, records and memoranda to determine ownership, control, packer, or State, country, or region of origin in connection with commodity inspection, and to ascertain whether section 499i of this title is being complied with, and to permit inspection of lots of perishable agricultural commodities.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1970 Amendment
 

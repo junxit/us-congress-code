@@ -30,6 +30,8 @@ section: 27d
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Commodity Exchange Act, referred to in subsecs. (a), (b)(2), and (c)(4)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 1 of this title and Tables.

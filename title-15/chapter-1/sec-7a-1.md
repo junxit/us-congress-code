@@ -26,6 +26,8 @@ section: 7a–1
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly set out in a note under section 1 of this title, prior to transfer to this section upon repeal of sunset provision.

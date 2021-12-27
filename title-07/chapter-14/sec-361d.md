@@ -15,6 +15,8 @@ Moneys appropriated pursuant to sections 361a to 361i of this title shall also b
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 365 of this title.

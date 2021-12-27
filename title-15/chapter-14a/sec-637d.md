@@ -19,6 +19,8 @@ section: 637d
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2013, and not as part of the Small Business Act which comprises this chapter.

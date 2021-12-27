@@ -15,6 +15,8 @@ No action or failure to act by the Commission or the Board of Governors of the F
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in text, was in the original “this title”. See References in Text note set out under section 78a of this title.
@@ -22,6 +24,8 @@ This chapter, referred to in text, was in the original “this title”. See Ref
 ### Amendments
 
 1998—Pub. L. 105–353 substituted “Board of Governors of the Federal Reserve System” for “Federal Reserve Board”.
+
+### Executive Documents
 
 ### Transfer of Functions
 

@@ -15,6 +15,8 @@ There are authorized to be appropriated $150,000 for the fiscal year ending June
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1986—Pub. L. 99–272 authorized appropriation of $100,000 for fiscal years ending September 30, 1986, 1987, and 1988. 1980—Pub. L. 96–547 amended Pub. L. 96–547, thereby inserting provisions setting forth authorization of appropriations for fiscal year ending Sept. 30, 1981. 1976—Pub. L. 94–490 authorized appropriation of $200,000 for each of fiscal years 1978, 1979, and 1980. 1974—Pub. L. 93–436 extended authorization of appropriation of $200,000 for each of fiscal years ending June 30, 1975, 1976, and 1977.

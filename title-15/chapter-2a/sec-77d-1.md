@@ -89,6 +89,8 @@ section: 77d–1
 
 2 So in original. Two pars. (a)(80) of section 78c have been enacted.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 77d(6) of this title, referred to in text, was redesignated section 77d(a)(6) of this title by Pub. L. 112–106, title II, § 201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.

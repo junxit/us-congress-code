@@ -42,6 +42,8 @@ section: 80a–6
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 For the effective date of this subchapter, referred to in subsec. (a)(1), see section 80a–52 of this title. Section 1724 of title 12, referred to in subsec. (a)(2), was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
@@ -49,6 +51,8 @@ For the effective date of this subchapter, referred to in subsec. (a)(1), see se
 ### Amendments
 
 2018—Subsec. (a). Pub. L. 115–174 redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which read as follows: “Any company organized or otherwise created under the laws of and having its principal office and place of business in Puerto Rico, the Virgin Islands, or any other possession of the United States; but such exemption shall terminate if any security of which such company is the issuer is offered for sale or sold after the effective date of this subchapter, by such company or an underwriter therefor, to a resident of any State other than the State in which such company is organized.” 2010—Subsec. (a)(5)(A)(iv)(I). Pub. L. 111–203 substituted “meets such standards of credit-worthiness as the Commission shall adopt” for “is rated investment grade by not less than 1 nationally recognized statistical rating organization”. 1996—Subsec. (a)(5). Pub. L. 104–290, § 501, added par. (5). Subsec. (d)(1). Pub. L. 104–290, § 502, substituted “$10,000,000, or such other amount as the Commission may set by rule, regulation, or order” for “$100,000”. 1987—Subsec. (a)(1). Pub. L. 100–181, § 608(1), struck out reference to Canal Zone. Subsec. (a)(2) to (5). Pub. L. 100–181, § 608(2), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “Any company for which, in a proceeding in any court of the United States or of a State, a receiver, trustee in a case under title 11, or similar officer had been appointed or elected prior to the effective date of this subchapter, and every such officer so appointed or elected prior to the effective date of this subchapter; but such exemption shall continue only so long as (A) the conduct of such company’s business remains subject to the supervision of such court or officer thereof, and (B) such company does not sell exclusively for cash any security of which it is the issuer, except short-term paper and ordinary receiver’s or trustee’s certificates.” 1980—Subsec. (f). Pub. L. 96–477 added subsec. (f). 1978—Subsec. (a)(2). Pub. L. 95–598 substituted “a case under title 11” for “bankruptcy”. 1960—Subsec. (a)(1). Pub. L. 86–624 struck out reference to Hawaii. 1959—Subsec. (a)(1). Pub. L. 86–70 struck out reference to Alaska.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2018 Amendment; Safe Harbor
 
@@ -64,8 +68,14 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 ### Transfer of Functions
 
-Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking. For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
 
 ### Investment Company Provisions Inapplicable to Certain Life Insurance Benefits Issued Prior to March 23, 1959
 
 Subchapter inapplicable to certain life insurance benefits issued prior to Mar. 23, 1959, under certain conditions, see section 29 of Pub. L. 91–547, Dec. 14, 1970, 84 Stat. 1436, set out as a note under section 77c of this title.
+
+### Executive Documents
+
+### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.

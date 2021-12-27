@@ -32,6 +32,8 @@ section: 78o–9
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 3(a)(77) of the Securities Exchange Act of 1934, referred to in subsec. (a), was redesignated section 3(a)(79) of that Act by Pub. L. 112–106, title I, § 101(b)(1), Apr. 5, 2012, 126 Stat. 307, and is classified to section 78c(a)(79) of this title. Section 941, referred to in subsec. (a), means section 941 of Pub. L. 111–203. Section 15E of the Securities Exchange Act of 1934, referred to in subsec. (d)(1), is classified to section 78o–7 of this title. H.R. 4173, referred to in subsec. (d)(1), became Pub. L. 111–203. As enacted, section 939D of Pub. L. 111–203 did not add a subsec. (w) to section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7) but enacted provisions set out as a note below. For the provisions of section 15E(w) of the Securities Exchange Act of 1934, as that provision would have been added by section 939D of H.R. 4173 (111th Congress), as passed by the Senate on May 20, 2010, see 156 Cong. Rec. 80 at pp. S4338, S4339 (daily ed. May 25, 2010).
@@ -39,6 +41,8 @@ Section 3(a)(77) of the Securities Exchange Act of 1934, referred to in subsec. 
 ### Codification
 
 Section was enacted as part of the Investor Protection and Securities Reform Act of 2010 and also as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Securities Exchange Act of 1934 which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

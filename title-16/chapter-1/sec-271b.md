@@ -15,6 +15,8 @@ Where any Federal lands included within the Canyonlands National Park are legall
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Date of approval of this Act or any amendment thereto, referred to in text, means Sept. 12, 1964, date of enactment of Pub. L. 88–590, originally classified to sections 271 to 271d of this title, and Nov. 12, 1971, date of approval of Pub. L. 92–154, amendatory of Pub. L. 88–590 and classified to sections 271 to 271b, 271e to 271g of this title.

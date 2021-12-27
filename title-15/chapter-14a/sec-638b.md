@@ -54,9 +54,13 @@ section: 638b
 
 1 So in original. Probably should be “investor”.
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the SBIR/STTR Reauthorization Act of 2011, and also as part of the National Defense Authorization Act for Fiscal Year 2012, and not as part of the Small Business Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definitions
 

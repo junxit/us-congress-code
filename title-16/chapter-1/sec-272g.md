@@ -31,9 +31,13 @@ section: 272g
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Subsec. (b)(2). Pub. L. 106–176, § 302(1), substituted “located in section 1, Township 25 South, Range 18 East, Salt Lake base and meridian, and more fully described as follows:” and subpars. (A) to (C) for “, described as lots 1 through 12 located in the S½N½ and the N½N½N½S½ of section 1, Township 25 South, Range 18 East, Salt Lake base and meridian.” Subsec. (d). Pub. L. 106–176, § 302(2), struck out heading and text of subsec. (d). Text read as follows: “Administrative actions necessary to implement the land exchange under this section shall be completed not later than 180 days after October 30, 1998.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effect on School Trust Land
 

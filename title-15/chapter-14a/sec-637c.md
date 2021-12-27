@@ -19,6 +19,8 @@ For purposes of this Act—
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in text, means Pub. L. 95–507, Oct. 24, 1978, 92 Stat. 1757. For complete classification of this Act to the Code, see Tables.

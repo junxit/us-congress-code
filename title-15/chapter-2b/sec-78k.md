@@ -38,9 +38,13 @@ section: 78k
 
 1 So in original. Probably should be followed by a comma.
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Subsec. (d)(1)(ii). Pub. L. 103–325 inserted “or any small business related security” after “mortgage related security”. 1993—Subsec. (a)(1)(E). Pub. L. 103–68, § 1(1), struck out “(other than an investment company)” after “trust”. Subsec. (a)(1)(H), (I). Pub. L. 103–68, § 1(2)–(4), added subpar. (H) and redesignated former subpar. (H) as (I). 1984—Subsec. (d)(1). Pub. L. 98–440 designated existing provisions of par. (1) as cl. (i) and added cl. (ii). 1978—Subsec. (a)(3). Pub. L. 95–283 substituted “February 1, 1978” for “May 1, 1975”, and “February 1, 1979” for “May 1, 1978” in two places. 1975—Subsec. (a). Pub. L. 94–29, § 6(2), prohibited stock exchange members from effecting any transaction on the exchange for its own account, the account of an associated person, or an account with respect to which the member or an associated person exercises investment discretion, exempted from that prohibition 8 types of transactions, and authorized the Commission, as it deems necessary or appropriate in the public interest or for the protection of investors, to regulate or prohibit the specifically exempted transactions, certain transactions otherwise that on a national securities exchange, and transactions on a national securities exchange effected by a broker or dealer not a member thereof for the account of such broker or dealer, the account of an associated person, or an account with respect to which such broker, dealer, or associated person exercises investment discretion. Subsec. (b). Pub. L. 94–29, § 6(2), struck out requirement that specialist’s dealings be limited to those transactions reasonably necessary to permit him to maintain a fair and orderly market, expanded the Commission’s rulemaking authority in the area of specialist’s dealings so that the Commission may define responsibilities and restrict activities of specialists in response to changing conditions in the market, expanded the standards to be followed by the Commission in exercising its rulemaking power to include the maintenance of fair and orderly markets and the removal of impediments to and the perfection of the mechanism of a national market system, and inserted specific reference to the Commission’s power to limit the activity of a specialist to that of a broker or dealer. Subsec. (e). Pub. L. 94–29, § 6(3), struck out subsec. (e) which directed the Commission to make a study, to be submitted on or before Jan. 3, 1936, of the feasibility of segregating the functions of dealer and broker. 1954—Subsec. (d). Act Aug. 10, 1954, reduced from 6 months to 30 days the prohibition period against extending credit to purchasers of a new issue by dealers.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1978 Amendment
 
@@ -53,6 +57,8 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 ### Effective Date of 1954 Amendment
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

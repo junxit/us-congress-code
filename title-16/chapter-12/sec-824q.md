@@ -42,6 +42,8 @@ section: 824q
 
 1 So in original. Probably should be “this”.
 
+### Statutory Notes and Related Subsidiaries
+
 ### FERC Rulemaking on Long-Term Transmission Rights in Organized Markets
 
 Pub. L. 109–58, title XII, § 1233(b), Aug. 8, 2005, 119 Stat. 960, provided that: “Within 1 year after the date of enactment of this section [Aug. 8, 2005] and after notice and an opportunity for comment, the [Federal Energy Regulatory] Commission shall by rule or order, implement section 217(b)(4) of the Federal Power Act [16 U.S.C. 824q(b)(4)] in Transmission Organizations, as defined by that Act [16 U.S.C. 791a et seq.] with organized electricity markets.”

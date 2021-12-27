@@ -18,6 +18,8 @@ section: 410aaa–82
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in subsecs. (a), (b), and (d), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under section 410aaa of this title. The Wilderness Act, referred to in subsecs. (a) and (b), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
@@ -25,6 +27,8 @@ This Act, referred to in subsecs. (a), (b), and (d), is defined in section 3 of 
 ### Amendments
 
 2019—Subsecs. (a), (b). Pub. L. 116–9, § 1460(b)(1), (2), inserted “, scenic areas, off-highway vehicle recreation areas, or special management areas” before “designated by this Act”. Subsec. (d). Pub. L. 116–9, § 1460(b)(3), added subsec. (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title and Findings
 

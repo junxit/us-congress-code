@@ -16,6 +16,8 @@ section: 714g
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -23,6 +25,8 @@ In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” sub
 ### Amendments
 
 2012—Subsec. (a). Pub. L. 112–166 struck out “by and with the advice and consent of the Senate” before period at end of third sentence. 1976—Subsec. (a). Pub. L. 94–561 increased number of Board of Directors from six to seven members. 1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”. Act June 7, 1949, amended section generally by bringing the Board under the direct control of the Secretary who will serve as Chairman of the Board, and by adding subsec. (b) to provide for the appointment and duties of an advisory board.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2012 Amendment
 
@@ -36,10 +40,12 @@ Amendment by Pub. L. 94–561 effective Oct. 19, 1976, see section 5 of Pub. L. 
 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
-### Exceptions From Transfer of Functions
-
-For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.
-
 ### Termination of Advisory Boards
 
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+### Executive Documents
+
+### Exceptions From Transfer of Functions
+
+For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.

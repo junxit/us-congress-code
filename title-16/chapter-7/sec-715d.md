@@ -19,9 +19,13 @@ which he determines to be suitable for use as an inviolate sanctuary, or for any
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1978—Pub. L. 95–616 incorporated existing provisions in pars. (1) and (2) and cls. (A) and (B), made provisions applicable to interests in approved areas, and inserted authority for purchase or acquisition for other management purposes.
+
+### Executive Documents
 
 ### Transfer of Functions
 

@@ -26,6 +26,8 @@ section: 410ff–1
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This subchapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–199, and was translated as “this subchapter”, meaning title II of Pub. L. 96–199, to reflect the probable intent of Congress.

@@ -15,9 +15,13 @@ Within three years from the effective date of this subchapter, the Secretary sha
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The effective date of this subchapter, referred to in text, probably means the date of enactment of Pub. L. 94–545, which was approved on Oct. 18, 1976.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

@@ -15,6 +15,8 @@ Nothing in this chapter shall have the effect of diminishing the rights and obli
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 11 of Pub. L. 94–70 was renumbered section 12 and is set out as a Separability note under section 971 of this title. Another prior section 11 of Pub. L. 94–70 was classified to section 971j of this title, prior to repeal by Pub. L. 114–81, title I, § 107(5), Nov. 5, 2015, 129 Stat. 658.

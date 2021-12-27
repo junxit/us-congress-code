@@ -15,6 +15,8 @@ All guns, traps, teams, horses, or means of transportation of every nature or de
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in text, is act Mar. 2, 1929, which is classified to sections 198 to 198j of this title. For complete classification of this Act to the Code, see Tables.

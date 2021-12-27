@@ -29,9 +29,13 @@ section: 6j
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Pub. L. 106–554 amended section generally. Prior to amendment, section required Commission to issue regulations to prohibit the privilege of dual trading on contract markets, allowed for certain exemptions, required Commission to make determinations relating to trading by floor brokers and futures commission merchants, and restricted trading among members of broker associations. 1992—Subsec. (a). Pub. L. 102–546, § 101(a)(3), added subsec. (a). Subsec. (b). Pub. L. 102–546, § 101(a)(1), (2), redesignated par. (1) as subsec. (b) and substituted “If, in addition to the regulations issued pursuant to subsection (a) of this section, the Commission has reason to believe that dual trading-related or facilitated abuses are not being or cannot be effectively addressed by subsection (a) of this section, the Commission shall” for “The Commission shall within nine months after the effective date of the Commodity Futures Trading Commission Act of 1974, and subsequently when it determines that changes are required,”. Subsec. (c). Pub. L. 102–546, § 101(a)(1), redesignated par. (2) as subsec. (c). Subsec. (d). Pub. L. 102–546, § 102(a), added subsec. (d). 1975—Pub. L. 94–16 substituted “nine months” for “six months” in pars. (1) and (2).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1992 Amendment
 

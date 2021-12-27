@@ -20,9 +20,13 @@ section: 251n
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1988—Subsec. (a)(2). Pub. L. 100–668, § 104(c)(1), (2), inserted “, above the point of lowest low tide,” after “islands”, substituted “34 minutes north” for “38 minutes north”, and inserted proviso at end. Subsec. (b). Pub. L. 100–668, § 104(c)(3), substituted “sheets 1 through 9” for “sheets 1 through 10”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Administrative Jurisdiction of Exchanged Park and Forest Lands; Authorization of Appropriations
 

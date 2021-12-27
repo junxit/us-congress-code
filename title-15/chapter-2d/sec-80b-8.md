@@ -18,6 +18,8 @@ section: 80b–8
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Securities Exchange Act of 1934, referred to in subsec. (b), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
@@ -25,6 +27,8 @@ The Securities Exchange Act of 1934, referred to in subsec. (b), is act June 6, 
 ### Amendments
 
 1960—Pub. L. 86–750, § 10, substituted “General prohibitions” for “Unlawful representations” in section catchline. Subsec. (c). Pub. L. 86–750, § 11(a), authorized representation as an investment counsel if person’s principal business consisted of acting as investment adviser, and a substantial part of the business was rendering investment supervisory services, and struck out the requirements that the person be primarily engaged in rendering investment supervisory services, or that his registration application state that the person is, or is about to become engaged primarily in rendering investment advisory services. Subsec. (d). Pub. L. 86–750, § 11(b), added subsec. (d).
+
+### Executive Documents
 
 ### Transfer of Functions
 

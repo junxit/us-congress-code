@@ -32,6 +32,8 @@ each as described in the National Park Service document entitled “Nez Perce Na
 
 1 So in original. Probably should be “Dug”.
 
+### Editorial Notes
+
 ### Amendments
 
 1992—Pub. L. 102–576 inserted provision listing 13 sites to be designated as Nez Perce National Historical Park, as described in documents dated 1990 and 1991, and provision relating to lands added to Big Hole National Battlefield, Montana.

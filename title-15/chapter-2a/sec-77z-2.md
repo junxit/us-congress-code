@@ -79,9 +79,13 @@ section: 77z–2
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2010—Subsec. (c)(1)(B)(ii). Pub. L. 111–203 substituted comma for semicolon after “entity” in introductory provisions. 1998—Pub. L. 105–353 made technical correction relating to placement of section in subchapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

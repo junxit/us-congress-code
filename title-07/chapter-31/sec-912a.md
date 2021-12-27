@@ -15,6 +15,8 @@ In addition to the loan extension authority provided in section 912 of this titl
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Rural Electrification Act of 1936, referred to in text, is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 901 of this title and Tables.
@@ -26,6 +28,8 @@ Section was enacted as part of the Disaster Relief Act of 1970, and not as part 
 ### Amendments
 
 1994—Pub. L. 103–354 substituted “Secretary under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.)” for “Rural Electrification Administration”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

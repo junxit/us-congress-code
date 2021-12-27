@@ -30,9 +30,13 @@ section: 80b–5
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (b)(3). Pub. L. 115–141 substituted “section 80a–60(a)(4)(B)(iii) of this title” for “section 80a–60(a)(3)(B)(iii) of this title” and “section 80a–60(a)(4)(B) of this title” for “section 80a–60(a)(3)(B) of this title”. 2010—Subsec. (a). Pub. L. 111–203, § 928, in introductory provisions, substituted “registered or required to be registered with the Commission” for “, unless exempt from registration pursuant to section 80b–3(b) of this title,” and struck out “make use of the mails or any means or instrumentality of interstate commerce, directly or indirectly, to” after “shall” and “to” after “in any way”. Subsec. (e). Pub. L. 111–203, § 418, inserted at end “With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after July 21, 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000.” Subsec. (f). Pub. L. 111–203, § 921(b), added subsec. (f). 1996—Subsec. (b)(4), (5). Pub. L. 104–290, § 210(1), added pars. (4) and (5). Subsec. (e). Pub. L. 104–290, § 210(2), added subsec. (e). 1987—Pub. L. 100–181 completely revised and expanded provisions on investment advisory contracts, changing structure of section from a single unlettered paragraph to one consisting of four subsections lettered (a) to (d). 1980—Pub. L. 96–477 provided that par. (1) of this section was not to apply with respect to any investment advisory contract between an investment adviser and a business development company so long as the compensation provided for in such contract did not exceed 20 per cent of the realized capital gains upon the funds of the business development company and such business development company did not have outstanding any option, warrant, or right issued pursuant to section 80a–60(a)(3)(B) of this title and did not have a profit-sharing plan. 1970—Pub. L. 91–547 substituted reference to section “80b–3(b)” for “80b–3” of this title in first sentence, redesignated as second sentence former third sentence, designating existing provisions as cl. (A) and adding cl. (B) and items (i) and (ii) and provision respecting compensation based on asset value of company or fund under management averaged over a specified period in relation to investment record of an index of securities or such other measure of investment performance specified by Commission rules, regulations, or orders, inserted third sentence provision respecting point from which compensation is to be measured, substituted in fourth, formerly third, sentence “paragraphs (2) and (3) of this section” for “this section” and in definition of “investment advisory contract” the words “account of another person other than an investment company registered under subchapter I of this chapter” for “account for a person other than an investment company”. 1960—Pub. L. 86–750 substituted “unless exempt from registration pursuant to” for “registered under”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 
@@ -41,6 +45,8 @@ Amendment by sections 921(b) and 928 of Pub. L. 111–203 effective 1 day after 
 ### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–547 effective on expiration of one year after Dec. 14, 1970, see section 30(1) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

@@ -20,6 +20,8 @@ section: 410jjj–4
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The effective date of this subchapter, referred to in subsec. (b), probably means the date of enactment of Pub. L. 94–545, which was approved on Oct. 18, 1976.
@@ -27,6 +29,8 @@ The effective date of this subchapter, referred to in subsec. (b), probably mean
 ### Amendments
 
 1988—Subsec. (a). Pub. L. 100–524, § 6(a), inserted sentence at end relating to expenditure of additional sums for acquisition of lands. Subsec. (c). Pub. L. 100–524, § 6(b), added subsec. (c). 1983—Subsec. (a). Pub. L. 98–141 substituted “$60,500,000” for “$35,500,000” and “$2,000,000” for “$500,000”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

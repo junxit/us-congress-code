@@ -15,6 +15,8 @@ Any China Trade Act corporation existing on June 25, 1938, may make its existenc
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the China Trade Act, 1922, which comprises this chapter.

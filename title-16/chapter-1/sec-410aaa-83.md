@@ -15,6 +15,8 @@ There is authorized to be appropriated to the National Park Service and to the B
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in text, is defined in section 410aaa–1 of this title.

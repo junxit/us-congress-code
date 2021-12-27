@@ -46,6 +46,8 @@ section: 634c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Small Business Act, referred to in subsec. (a)(3), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables.
@@ -57,6 +59,8 @@ Section was not enacted as part of the Small Business Act which comprises this c
 ### Amendments
 
 2016—Pub. L. 114–125 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b). 2010—Par. (6). Pub. L. 111–240 added par. (6).
+
+### Executive Documents
 
 ### Delegation of Authority Under 15 U.S.C. 634c(b)(3)(B)
 

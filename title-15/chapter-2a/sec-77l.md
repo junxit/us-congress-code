@@ -18,9 +18,13 @@ section: 77l
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Subsec. (a)(2). Pub. L. 106–554 substituted “paragraphs (2) and (14)” for “paragraph (2)”. 1995—Pub. L. 104–67 designated existing provisions as subsec. (a), inserted heading, inserted “, subject to subsection (b),” after “shall be liable” in concluding provisions, and added subsec. (b). 1954—Act Aug. 10, 1954, inserted “offers or” before “sells” in pars. (1) and (2).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1995 Amendment
 

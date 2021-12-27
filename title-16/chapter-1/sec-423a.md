@@ -15,9 +15,13 @@ The Secretary of the Interior is authorized to accept, on behalf of the United S
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 “Petersburg National Battlefield” substituted in text for “Petersburg National Military Park” pursuant to Pub. L. 87–603. See section 423h–1 of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

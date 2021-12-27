@@ -15,9 +15,13 @@ As lands or interests in lands are designated from time to time under sections 8
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 Act May 27, 1937, as amended by act Mar. 10, 1943, changed name of project from “Grand Coulee Dam” to “Columbia Basin”.
+
+### Executive Documents
 
 ### Transfer of Functions
 

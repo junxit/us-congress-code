@@ -15,9 +15,13 @@ The Secretary of the Interior is authorized to cooperate with the Secretary of A
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2015—Pub. L. 114–94 substituted “58.012 percent” for “57 percent” and “under section 777c(c) of this title” for “under section 777c(b) of this title”. 2005—Pub. L. 109–59 substituted “to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States under section 777c(b) of this title” for “in carrying on the research program of the Fish and Wildlife Service in respect to fish of material value for sport or recreation” before period at end. 1984—Pub. L. 98–369 inserted “the Mayor of the District of Columbia,” after “the Secretary of Agriculture of Puerto Rico,”, “for the District of Columbia one-third of 1 per centum,” after “for Puerto Rico 1 per centum,” and “the District of Columbia,” after “Puerto Rico,” in two places. 1980—Pub. L. 96–597 inserted references to the Governor and the Commonwealth of the Northern Mariana Islands. 1970—Pub. L. 91–503 substituted “Secretary of Agriculture of Puerto Rico” for “Commissioner of Agriculture and Commerce of Puerto Rico”, added American Samoa to the list of recipients, and substituted maximum limits of apportionment of one percent for Puerto Rico, one-third of one percent for Guam, one-third of one percent for American Samoa and one-third of one percent for Virgin Islands for maximum limit of $10,000 for Puerto Rico, Guam and Virgin Islands together. 1959—Pub. L. 86–70 struck out provisions which authorized cooperation with the Alaska Game Commission and permitted apportionment of not more than $75,000 in any one year to the Territory of Alaska. 1956—Act Aug. 1, 1956, inserted “the Governor of Guam” after “Commissioner of Agriculture and Commerce of Puerto Rico,” and “Guam” after “Puerto Rico” in three remaining places those words appear. Act July 2, 1956, struck out provisions which authorized the Secretary to cooperate with the Division of Game and Fish of the Board of Commissioners of Agriculture and Forestry of Hawaii, struck out limitation of $25,000 on the amount of funds which could be apportioned to Hawaii in any one year, and substituted “Territory of Alaska” for “Territories” in two places.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2015 Amendment
 
@@ -34,6 +38,8 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respec
 ### Effective Date of 1956 Amendment
 
 Amendment by act July 2, 1956, as applicable only with respect to fiscal years beginning after July 2, 1956, see section 5 of act July 2, 1956, set out as a note under section 669a of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

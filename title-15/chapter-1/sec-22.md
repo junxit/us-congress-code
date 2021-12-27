@@ -15,6 +15,8 @@ Any suit, action, or proceeding under the antitrust laws against a corporation m
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.

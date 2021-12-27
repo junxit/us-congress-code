@@ -31,6 +31,8 @@ In this subpart:
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -42,6 +44,8 @@ A prior section 1359aa, act Feb. 16, 1938, ch. 30, title III, § 359a, as added 
 ### Amendments
 
 2008—Pub. L. 110–246, § 1403(a), added pars. (1) and (3) and redesignated former pars. (1) to (4) as (2), (4), (5), and (6), respectively.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2008 Amendment
 

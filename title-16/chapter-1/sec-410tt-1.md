@@ -16,6 +16,8 @@ section: 410tt–1
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This subchapter, referred to in subsec. (a), was in the original “this Act” and was translated as reading “this title”, meaning title I of Pub. L. 102–247, known as the Salt River Bay National Historical Park and Ecological Preserve at St. Croix, Virgin Islands, Act of 1992, to reflect the probable intent of Congress.

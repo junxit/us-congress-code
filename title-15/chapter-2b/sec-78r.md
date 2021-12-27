@@ -17,6 +17,8 @@ section: 78r
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsec. (a), was in the original “this title”. See References in Text note set out under section 78a of this title.

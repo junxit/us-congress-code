@@ -33,9 +33,13 @@ section: 80b–9
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2010—Subsec. (e)(3)(A). Pub. L. 111–203, § 923(a)(3), inserted “and section 78u–6 of this title” after “section 7246 of this title”. Subsec. (f). Pub. L. 111–203, § 929N, added subsec. (f). 2002—Subsec. (e)(3)(A). Pub. L. 107–204 inserted “, except as otherwise provided in section 7246 of this title” before period at end. 1990—Subsec. (e). Pub. L. 101–429 added subsec. (e). 1987—Subsecs. (d), (e). Pub. L. 100–181 redesignated subsec. (e) as (d). 1970—Subsec. (d). Pub. L. 91–452 struck out subsec. (d) which related to immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination. 1960—Subsec. (e). Pub. L. 86–750 inserted “, is engaged,” after “has engaged” wherever appearing, and inserted provisions relating to aiders and abettors.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 
@@ -52,6 +56,8 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 ### Savings Provision
 
 Amendment by Pub. L. 91–452 not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before the sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+
+### Executive Documents
 
 ### Transfer of Functions
 

@@ -15,6 +15,8 @@ The Secretary of Commerce shall charge for any service performed by the Institut
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the National Institute of Standards and Technology Act which comprises this chapter.

@@ -16,6 +16,8 @@ section: 27f
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Commodity Exchange Act, referred to in subsec. (a), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 1 of this title and Tables.
@@ -27,6 +29,8 @@ Section was enacted as part of the Legal Certainty for Bank Products Act of 2000
 ### Amendments
 
 2010—Subsec. (b). Pub. L. 111–203, § 725(g)(1)(C)(ii), (iii), redesignated subsec. (c) as (b) and struck out former subsec. (b). Text of subsec. (b) read as follows: “No covered swap agreement shall be void, voidable, or unenforceable, and no party to a covered swap agreement shall be entitled to rescind, or recover any payment made with respect to, a covered swap agreement under any provision of Federal or State law, based solely on the failure of the covered swap agreement to comply with the terms or conditions of an exemption or exclusion from any provision of the Commodity Exchange Act or any regulation of the Commodity Futures Trading Commission.” Subsec. (c). Pub. L. 111–203, § 725(g)(1)(C)(iii), redesignated subsec. (c) as (b). Pub. L. 111–203, § 725(g)(1)(C)(i), substituted “in the case of” for “in the case of—”, struck out par. (1) designation before “a hybrid”, substituted “product.” for “product; or”, and struck out par. (2) which read as follows: “a covered swap agreement.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

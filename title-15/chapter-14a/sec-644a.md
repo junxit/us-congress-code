@@ -31,6 +31,8 @@ section: 644a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly set out as a note under section 644 of this title. Section was enacted as part of the Federal Acquisition Streamlining Act of 1994, and not as part of the Small Business Act which comprises this chapter.

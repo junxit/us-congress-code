@@ -28,6 +28,8 @@ The following areas are hereby established as units of the National Park System 
 
 1 So in original. Probably should be “subparagraph (A)”.
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in provision preceding par. (1) and par. (8)(b)(2), (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables. That Act, referred to in par. (4)(d), meaning the National Environmental Policy Act of 1969, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables. The Alaska Native Claims Settlement Act, referred to in par. (8)(b)(1)(A), (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
@@ -35,6 +37,8 @@ This Act, referred to in provision preceding par. (1) and par. (8)(b)(2), (3), i
 ### Amendments
 
 1996—Par. (8)(a). Pub. L. 104–333 substituted “approximately 6,477,168 acres” for “approximately six million four hundred and sixty thousand acres” and inserted “and the map entitled ‘Noatak National Preserve and Noatak Wilderness Addition’ dated September 1994” after “July 1980”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Anaktuvuk Pass Land Exchange
 

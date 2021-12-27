@@ -21,6 +21,8 @@ section: 410jj–7
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in subsec. (c), is Pub. L. 96–565, Dec. 22, 1980, 94 Stat. 3321, as amended, which enacted this subchapter and provisions set out as a note under section 2991a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.

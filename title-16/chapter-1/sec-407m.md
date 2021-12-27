@@ -20,9 +20,13 @@ For the purpose of preserving for the benefit of the American people as a nation
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1958—Subsec. (d). Pub. L. 85–764 included certain lands and buildings adjoining “project E” being known and numbered as 8, 10, and 12 North Second Street and 201, 203, 205, 207, 209, 211–213, 215, 217, 219, and 221 Market Street. 1952—Subsec. (b). Act July 10, 1952, inserted second sentence.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Gateway Visitor Center
 

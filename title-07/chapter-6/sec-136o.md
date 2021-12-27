@@ -34,6 +34,8 @@ section: 136o
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Plant Protection Act, referred to in subsec. (c)(4)(A), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables. The Federal Seed Act, referred to in subsec. (c)(4)(B), is act Aug. 9, 1939, ch. 615, 53 Stat. 1275, which is classified generally to chapter 37 (§ 1551 et seq.) of this title. For complete classification of this Act to the Code, see section 1551 of this title and Tables.
@@ -45,6 +47,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 ### Amendments
 
 2014—Subsec. (c). Pub. L. 113–79 designated existing provisions as par. (1), inserted heading, and added pars. (2) to (4). 2008—Subsec. (d). Pub. L. 110–246, § 14209(a), designated existing provisions as par. (1), inserted heading, and added par. (2). 1991—Subsec. (a). Pub. L. 102–237, § 1006(a)(9), removed last sentence from par. (2) and placed it as a full measure sentence under par. (2). Subsec. (c). Pub. L. 102–237, § 1006(b)(2), substituted “the Administrator’s” for “his”. 1988—Subsec. (c). Pub. L. 100–532 substituted “prescribe. The Secretary” for “prescribe: Provided, That the Secretary” and “bond. All” for “bond: And provided further, That all”. 1978—Subsec. (a). Pub. L. 95–396, § 18(a)(1), amended subsec. (a) generally. Subsec. (b). Pub. L. 95–396, § 18(a)(2), inserted sentence at end relating to information to be included in notification.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2008 Amendment
 

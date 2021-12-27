@@ -15,9 +15,13 @@ Upon proclamation of the President, as herein provided, sufficient of the areas 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 443 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

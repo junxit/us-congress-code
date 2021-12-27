@@ -15,6 +15,8 @@ For the purposes of acquiring non-Federal lands within the boundaries of said pa
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act Apr. 25, 1947, ch. 41, 61 Stat. 52, which comprises this subchapter.

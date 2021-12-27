@@ -30,6 +30,8 @@ section: 936a
 
 1 So in original. Probably should be “transferred”.
 
+### Editorial Notes
+
 ### References in Text
 
 Public Law 99–349, referred to in subsec. (d)(1), is Pub. L. 99–349, July 2, 1986, 100 Stat. 710, known as the Urgent Supplemental Appropriations Act, 1986. Provisions of title I of Pub. L. 99–349 relating to prepayment of loans were set out as a note under section 936 of this title and were repealed by Pub. L. 99–509, title I, § 1011(b), Oct. 21, 1986, 100 Stat. 1876. For complete classification of this Act to the Code, see Tables.
@@ -37,6 +39,8 @@ Public Law 99–349, referred to in subsec. (d)(1), is Pub. L. 99–349, July 2,
 ### Amendments
 
 1994—Pub. L. 103–354 substituted “Secretary” for “Rural Electrification Administration” in subsec. (b) and “Secretary” for “Administrator” wherever appearing in subsecs. (d) and (e).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Prepayment of Rural Electrification Loans During Fiscal Year 1988
 

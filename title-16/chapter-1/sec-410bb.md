@@ -20,6 +20,8 @@ section: 410bb
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Subsection 6(i) of the act of July 7, 1958, commonly known as the Alaska Statehood Act, referred to in subsec. (b)(1), probably means subsection (i) of section 6 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. That portion of the act of February 25, 1920, which is set out at 41 Stat. 449, as referred to in subsec. (c), is classified to sections 185 to 187 of Title 30, Mineral Lands and Mining. For complete classification of the Act to the Code, see Tables. That portion of the act of August 21, 1935, which is set out at 49 Stat. 678, as referred to in subsec. (c), is classified to section 185 of Title 30. For complete classification of the Act to the Code, see Tables. That portion of the act of August 12, 1953, which is set out at 67 Stat. 557, as referred to in subsec. (c), is classified to section 185 of Title 30. The act of May 14, 1898, referred to in subsec. (c), is act May 14, 1898, ch. 299, 30 Stat. 409, popularly known as the Alaska Right of Way Act, which is classified principally to sections 942–1 to 942–9 of Title 43, Public Lands. For complete classification of this Act to the Code, see Tables.

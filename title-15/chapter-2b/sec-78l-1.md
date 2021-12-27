@@ -15,6 +15,8 @@ Any application to continue unlisted trading privileges for any security heretof
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as a part of the Securities Exchange Act of 1934 which comprises this chapter.

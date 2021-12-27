@@ -15,6 +15,8 @@ The boundary of the Hawaii National Park on the island of Maui is changed to rea
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Haleakala̅ National Park
 
 Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala̅ National Park, effective July 1, 1961, see section 396b of this title.

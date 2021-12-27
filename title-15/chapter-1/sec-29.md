@@ -16,6 +16,8 @@ section: 29
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies”, approved July 2, 1890, referred to in subsec. (a), is known as the Sherman Act, and is classified to sections 1 to 7 of this title.
@@ -27,6 +29,8 @@ Section was previously set out in both this section and in section 45 of former 
 ### Amendments
 
 1974—Pub. L. 93–528 substituted provisions for appeals to the court of appeals from civil actions in district courts where equitable relief is sought, review by the Supreme Court of judgments of courts of appeals, and for direct appeals to the Supreme Court of cases involving general public importance, for provisions that appeals from final judgments of district courts lie to the Supreme Court only. 1948—Act June 25, 1948, amended section generally to strike out provisions relating to time for appeal, procedure, etc. See sections 2101 and 2109 of Title 28, Judiciary and Judicial Procedure. 1944—Act June 9, 1944, provided for certification of case to circuit court of appeals when there was no quorum of Justices of the Supreme Court qualified to participate in the consideration of the case and for designation of circuit judges in the event of disqualification from hearing the case.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

@@ -34,6 +34,8 @@ section: 940c
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (a)(1). Pub. L. 115–334, § 6503(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B). Subsec. (a)(2). Pub. L. 115–334, § 6503(2), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B). Subsec. (a)(3). Pub. L. 115–334, § 6503(3), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B). Subsec. (b)(2). Pub. L. 115–334, § 6504(b), struck out subpar. (A) designation and heading before “The Secretary shall”, substituted “5 percent.” for “the 5 percent rate of interest provided to borrowers on cushion of credit payments.”, and struck out subpars. (B) to (E) which related to grants, repayments, proceeds, and number of grants, respectively. 1994—Subsecs. (a)(1), (b)(2)(A) to (C). Pub. L. 103–354 substituted “Secretary” for “Administrator”.

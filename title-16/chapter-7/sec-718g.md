@@ -15,6 +15,8 @@ Any person that violates or fails to comply with any provision of this subchapte
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 718g, act Mar. 16, 1934, ch. 71, § 7, 48 Stat. 452, related to penalties prior to repeal by Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 677.

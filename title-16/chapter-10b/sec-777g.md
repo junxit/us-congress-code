@@ -38,6 +38,8 @@ section: 777g
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 For effective date of this subsection, referred to in subsec. (c), see Effective Date of 1984 Amendment note below. The Clean Vessel Act of 1992, referred to in subsec. (f), is subtitle F of title V of Pub. L. 102–587, Nov. 4, 1992, 106 Stat. 5086, which amended this section and section 777c of this title and enacted provisions set out as a note under section 1322 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1322 of Title 33 and Tables.
@@ -45,6 +47,8 @@ For effective date of this subsection, referred to in subsec. (c), see Effective
 ### Amendments
 
 2015—Subsec. (b)(2). Pub. L. 114–94 substituted “58.012 percent” for “57 percent”. 2005—Subsec. (b)(2). Pub. L. 109–59, § 10114(1), substituted “to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States under section 777c(c) of this title” for “in carrying out the research program of the Fish and Wildlife Service in respect to fish of material value for sport or recreation”. Subsec. (d)(3). Pub. L. 109–59, § 10114(2), substituted “subsection (a)(5) or subsection (b)” for “subsection (c) or (d)” in introductory provisions. 1998—Subsec. (b)(1). Pub. L. 105–178, § 7402(c)(1), which directed the substitution of “15 percent” for “12½ percentum” wherever appearing, was executed by making the substitution for “12½ per centum” to reflect the probable intent of Congress. Subsec. (c). Pub. L. 105–178, § 7402(c)(3), inserted “and communications” after “outreach”. Pub. L. 105–178, § 7402(c)(2), which directed the substitution of “15 percent” for “10 percentum”, was executed by making the substitution for “10 per centum” to reflect the probable intent of Congress. Subsecs. (d) to (f). Pub. L. 105–178, § 7402(c)(4), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f). Subsec. (g). Pub. L. 105–178, § 7404(b), as amended by Pub. L. 105–206, § 9012(c), added subsec. (g). 1992—Subsec. (b)(1). Pub. L. 102–587, § 5604(b)(1), substituted “12½ per centum” for “10 per centum” after “allocate” and inserted at end “Notwithstanding this provision, States within a United States Fish and Wildlife Service Administrative Region may allocate more or less than 12½ per centum in a fiscal year, provided that the total regional allocation averages 12½ per centum over a 5 year period.” Subsec. (b)(2). Pub. L. 102–587, § 5604(b)(2), substituted “four fiscal years” for “fiscal year” after first reference to “succeeding” and “period” for second reference to “succeeding fiscal year”. Subsec. (c). Pub. L. 102–587, § 5604(b)(3), inserted “and outreach” after “education”. Subsec. (d). Pub. L. 102–587, § 5604(b)(4), added subsec. (d). 1984—Pub. L. 98–369 designated existing provisions as subsec. (a) and added subsecs. (b) and (c). 1970—Pub. L. 91–503 struck out restriction that not more than 25 percent of the Federal funds be set aside for maintenance projects.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2015 Amendment
 

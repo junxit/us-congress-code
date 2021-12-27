@@ -15,9 +15,13 @@ The several district courts of the United States are invested with jurisdiction 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Act Mar. 3, 1911, vested jurisdiction in “district” courts, instead of “circuit” courts.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

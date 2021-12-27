@@ -15,6 +15,8 @@ The President of the United States is authorized, upon the recommendation of the
 
 ## Notes
 
+### Executive Documents
+
 ### Proc. No. 3144. Enlarging Rocky Mountain National Park
 
 Proc. No. 3144, June 27, 1956, 21 F.R. 4783, provided: NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of America, do proclaim that the lands hereinafter described are hereby added to the Rocky Mountain National Park, in the State of Colorado, and shall, upon acquisition of title thereto by the United States, become subject to the provisions of the act entitled “An Act to establish a National Park Service, and for other purposes,” approved August 25, 1916, 39 Stat. 535 ([former] 16 U.S.C. §§ 1–3) [see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101], and all acts supplementary thereto and amendatory thereof, and all other laws and rules and regulations applicable to such park:

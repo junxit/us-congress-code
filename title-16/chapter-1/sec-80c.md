@@ -15,6 +15,8 @@ Any motor-vehicle license issued for Sequoia National Park shall be applicable t
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1950—Act Aug. 17, 1950, struck out last sentence which restricted concessionaires to a five-year term.

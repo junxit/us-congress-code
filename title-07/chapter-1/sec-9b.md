@@ -18,6 +18,8 @@ section: 9b
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of subsec. (f) of section 6 of act Sept. 21, 1922. Subsecs. (a) and (b) of section 6 are classified to section 8 of this title. Subsec. (c) of section 6 is classified to section 9 of this title. Subsecs. (d), (e), and (g) of section 6 are classified to sections 13b, 9a, and 9c of this title, respectively.

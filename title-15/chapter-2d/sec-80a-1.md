@@ -31,9 +31,13 @@ section: 80a–1
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 79z–4 of this title, referred to in text, was repealed by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974.
+
+### Executive Documents
 
 ### Transfer of Functions
 

@@ -26,6 +26,8 @@ section: 1736dd
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Food for Peace Act which comprises this chapter.

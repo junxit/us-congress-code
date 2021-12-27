@@ -15,9 +15,13 @@ All guns, traps, teams, horses, or means of transportation of every nature or de
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in text, is act Apr. 19, 1930, which is classified to section 395 to 395j of this title. For complete classification of this Act to the Code, see Tables.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Hawaiʻi Volcanoes National Park
 

@@ -15,9 +15,13 @@ All wool products imported into the United States, except those made more than t
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Provisions covering invoices of wool products required under the Act of June 17, 1930 (c. 497, title IV, 46 Stat. 719), referred to in text, are set out as section 1481 et seq. of Title 19, Customs Duties. Provisions covering certification of invoices under the Act of June 17, 1930, referred to in text, are set out as section 1482 of Title 19. Provisions covering the consignee’s declaration under the Act of June 17, 1930, referred to in text, are set out in section 1485 of Title 19.
+
+### Executive Documents
 
 ### Transfer of Functions
 

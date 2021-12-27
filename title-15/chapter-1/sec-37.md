@@ -20,6 +20,8 @@ section: 37
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 For definition of “antitrust laws”, referred to in text, see section 37a(1) of this title.
@@ -27,6 +29,8 @@ For definition of “antitrust laws”, referred to in text, see section 37a(1) 
 ### Amendments
 
 1997—Pub. L. 105–26 amended section generally. Prior to amendment, section related to modification of antitrust laws to allow two or more charitable organizations to use, or to agree to use, the same annuity rate in issuing one or more charitable gift annuities and to limitations on such conduct.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1997 Amendment
 

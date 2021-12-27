@@ -67,6 +67,8 @@ section: 78bb
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsecs. (a) to (c) and (e), was in the original “this title”. See References in Text note set out under section 78a of this title. The Securities Act of 1933, referred to in subsec. (f)(5)(E), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. Section 4(2) of the Act was redesignated section 4(a)(2) by Pub. L. 112–106, title II, § 201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314, and is classified to section 77d(a)(2) of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
@@ -74,6 +76,8 @@ This chapter, referred to in subsecs. (a) to (c) and (e), was in the original �
 ### Amendments
 
 2010—Subsec. (a). Pub. L. 111–203 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to rights and remedies provided by this chapter and applicability of certain State securities laws. 2000—Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title II, § 210], inserted “subject to this chapter” after “privilege, or other security”, substituted “any such security” for “any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title”, and inserted at end “No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security futures product, except that this sentence shall not be construed as limiting any State antifraud law of general applicability.” Subsec. (e)(4). Pub. L. 106–554, § 1(a)(5) [title II, § 203(a)(2)], added par. (4). 1998—Subsec. (a). Pub. L. 105–353, § 101(b)(1)(A), substituted “Except as provided in subsection (f) of this section, the rights and remedies” for “The rights and remedies”. Subsec. (f). Pub. L. 105–353, § 101(b)(1)(B), added subsec. (f). 1996—Subsec. (a). Pub. L. 104–290 substituted “Except as otherwise specifically provided in this chapter, nothing” for “Nothing”. 1987—Subsec. (c). Pub. L. 100–181, § 327, substituted “on” for “or” after “self-regulatory organization”. Subsec. (d). Pub. L. 100–181, § 328, substituted “change in beneficial” for “change is beneficial”. Subsec. (e)(1). Pub. L. 100–181, § 329, substituted “subsequent to the date of enactment of the Securities Acts Amendments of 1975” for “subsequent to the date of enactment of the Securities Acts Amendments in 1975”, which for purposes of codification was translated as “subsequent to June 4, 1975,” thus requiring no change in text. 1982—Subsec. (a). Pub. L. 97–303 inserted provision that no State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of “bucket shops” or other similar or related activities, shall invalidate any put, call, straddle, option, privilege, or other security, or apply to any activity which is incidental or related to the offer, purchase, sale, exercise, settlement, or closeout of any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title. 1975—Subsec. (b). Pub. L. 94–29, § 21(1), struck out provisions that nothing in this chapter be construed to modify existing law with regard to the binding effect on any member of an exchange of any disciplinary action taken by the authorities of an exchange and made the remaining provisions applicable to all members of and participants in all self-regulatory organizations as well as municipal securities professionals. Subsecs. (c) to (e). Pub. L. 94–29, § 21(2), added subsecs. (c) to (e).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 
@@ -86,6 +90,8 @@ Amendment by Pub. L. 105–353 not to affect or apply to any action commenced be
 ### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

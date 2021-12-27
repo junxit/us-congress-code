@@ -57,9 +57,13 @@ section: 410cccc–3
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, and not as part of Pub. L. 89–102 which comprises this subchapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definition of “Secretary”
 

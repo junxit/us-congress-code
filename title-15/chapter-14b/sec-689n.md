@@ -25,6 +25,8 @@ section: 689n
 
 1 So in original. Probably should be followed by “to”.
 
+### Editorial Notes
+
 ### References in Text
 
 For definition of “this chapter”, referred to in subsec. (a), see References in Text note set out under section 661 of this title.

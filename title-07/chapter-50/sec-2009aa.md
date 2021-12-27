@@ -23,6 +23,8 @@ In this subchapter:
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Congress, as introduced on Sept. 27, 1988, and incorporated by reference by, and made a part of, Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended. Section 4 of the Delta Development Act, which was set out in a note under section 3121 of Title 42, The Public Health and Welfare, was omitted from the Code. See Lower Mississippi Delta Development Commission note under section 3121 of Title 42 and Tables.
@@ -30,6 +32,8 @@ The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Cong
 ### Amendments
 
 2018—Par. (4). Pub. L. 115–334 added par. (4). 2000—Par. (4). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 153(b)], which directed amendment of “section 382A of ‘The Delta Regional Authority Act of 2000’ as incorporated in this Act” by adding par. (4), could not be executed as directed because this section is not section 382A of such Act, but rather section 382A of the Consolidated Farm and Rural Development Act, as added by section 503 of the Delta Regional Authority Act of 2000. Corrected amendment was made by Pub. L. 115–334, effective as if included in Pub. L. 106–554. See 2018 Amendment note above and 2018 Effective Date of 2018 Amendment note below.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2018 Amendment
 

@@ -15,9 +15,13 @@ Sole and exclusive jurisdiction over and within all the territory that is as of 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 A provision accepting the act of the Michigan Legislature which ceded to the United States exclusive jurisdiction over the territory referred to in this section has been omitted as executed.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Notice to Michigan of Sections 408i to 408q
 

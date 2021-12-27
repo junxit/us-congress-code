@@ -32,6 +32,8 @@ section: 284c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 For effective date of this paragraph, referred to in subsec. (b)(2)(A), (B), and (D), see Effective Date of 1990 Amendment note below.
@@ -43,6 +45,8 @@ For effective date of this paragraph, referred to in subsec. (b)(2)(A), (B), and
 ### Amendments
 
 2002—Subsec. (c). Pub. L. 107–219 realigned margin of last sentence of par. (3) so as to appear as concluding provisions, and in concluding provisions, substituted “funds” for “Funds”. 1994—Subsec. (b)(3). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”. 1990—Subsec. (b). Pub. L. 101–636 designated existing provisions as par. (1) and added pars. (2) and (3).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1990 Amendment
 

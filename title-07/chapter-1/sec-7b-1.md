@@ -38,6 +38,8 @@ section: 7b–1
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Subsec. (f) of section 13 of this title, referred to in subsec. (b)(1)(G), was redesignated subsec. (e) by Pub. L. 110–246, title XIII, § 13105(h)(2), June 18, 2008, 122 Stat. 2197.

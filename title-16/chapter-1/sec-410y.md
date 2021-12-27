@@ -23,6 +23,8 @@ As used in this subchapter—
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Short Title
 
 Pub. L. 91–664, § 1, Jan. 8, 1971, 84 Stat. 1978, provided: “That this Act [enacting this subchapter] shall be known as the ‘Chesapeake and Ohio Canal Development Act’.”

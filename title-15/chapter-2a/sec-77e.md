@@ -23,9 +23,13 @@ section: 77e
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2012—Subsecs. (d), (e). Pub. L. 112–106 added subsec. (d) and redesignated former subsec. (d) as (e). 2010—Subsec. (d). Pub. L. 111–203 added subsec. (d). 1954—Subsec. (a)(1). Act Aug. 10, 1954, struck out “or offer to buy” after “to sell”. Subsec. (b). Act Aug. 10, 1954, in par. (1) substituted “with respect to which a registration statement has been filed” for “registered” and in par. (2) omitted “to” after “to carry or” and inserted “subsection (a) of” before “section 77j of this title”. Subsec. (c). Act Aug. 10, 1954, added subsec. (c). 1934—Act June 6, 1934, repealed subsec. (c), the provisions of which were replaced by section 77c(a)(11) of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

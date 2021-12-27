@@ -23,6 +23,8 @@ there is hereby established the Channel Islands National Park, the boundaries of
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Robert J. Lagomarsino Visitor Center
 
 Pub. L. 104–333, div. I, title VIII, § 809, Nov. 12, 1996, 110 Stat. 4189, as amended by Pub. L. 106–176, title I, § 119, Mar. 10, 2000, 114 Stat. 28, provided that: “(a) Designation.—The visitor center at the Channel Islands National Park, California, is designated as the ‘Robert J. Lagomarsino Visitor Center’. “(b) Legal References.—Any reference in any law, regulation, document, record, map, or other document of the United States to the visitor center referred to in subsection (a) is deemed to be a reference to the ‘Robert J. Lagomarsino Visitor Center’.” Similar provisions were contained in Pub. L. 104–208, div. A, title I, § 101(d) [title I, § 125], Sept. 30, 1996, 110 Stat. 3009–181, 3009–204.

@@ -22,6 +22,8 @@ section: 78u–7
 
 2 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 This subtitle, referred to in subsecs. (a) to (c), means subtitle B (§§ 921–929Z) of title IX of Pub. L. 111–203. Section 922(a), referred to in subsec. (d), means section 922(a) of Pub. L. 111–203.
@@ -29,6 +31,8 @@ This subtitle, referred to in subsecs. (a) to (c), means subtitle B (§§ 921–
 ### Codification
 
 Section was enacted as part of the Investor Protection and Securities Reform Act of 2010, and also as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Securities Exchange Act of 1934 which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

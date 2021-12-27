@@ -43,14 +43,20 @@ section: 717z
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Natural Gas Act which comprises this chapter.
 
-### Delegation of Functions
-
-Functions of President under this section, except for authority to declare, extend, and terminate a natural gas supply emergency pursuant to subsecs. (a) and (b) of this section, delegated to Secretary of Energy, see section 1–102 of Ex. Ord. No. 12235, Sept. 3, 1980, 45 F.R. 58803, set out as a note under section 3364 of this title.
+### Statutory Notes and Related Subsidiaries
 
 ### Definitions
 
 For definitions of terms used in this section, see section 2602 of Title 16, Conservation.
+
+### Executive Documents
+
+### Delegation of Functions
+
+Functions of President under this section, except for authority to declare, extend, and terminate a natural gas supply emergency pursuant to subsecs. (a) and (b) of this section, delegated to Secretary of Energy, see section 1–102 of Ex. Ord. No. 12235, Sept. 3, 1980, 45 F.R. 58803, set out as a note under section 3364 of this title.

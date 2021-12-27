@@ -21,9 +21,13 @@ section: 80a–5
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1987—Subsec. (a)(2). Pub. L. 100–181 substituted “Closed-end” for “Close-end”.
+
+### Executive Documents
 
 ### Transfer of Functions
 

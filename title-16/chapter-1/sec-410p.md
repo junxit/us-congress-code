@@ -16,6 +16,8 @@ section: 410p
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1970—Subsec. (a). Pub. L. 91–428 substituted “$22,000,000” for “$2,000,000”. 1969—Pub. L. 91–88 designated existing provisions as subsec. (a) and added subsec. (b).

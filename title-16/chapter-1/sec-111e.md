@@ -15,6 +15,8 @@ There are hereby authorized to be appropriated such sums, but not more than $193
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1976—Pub. L. 94–578 substituted “$193,233” for “$125,000”.

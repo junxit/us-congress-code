@@ -15,9 +15,13 @@ The total administrative and supervisory costs which may be incurred under this 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2020—Pub. L. 116–216 substituted “2025” for “2020”. 2015—Pub. L. 114–54 substituted “2020” for “2015”. 2005—Pub. L. 109–83 substituted “2015” for “2005”. 2000—Pub. L. 106–472 substituted “2005” for “2000” and “30 percent” for “40 per centum”. 1994—Pub. L. 103–354 substituted “Secretary” for “Service”. 1993—Pub. L. 103–156 substituted “services performed” for “inspection and weighing” and “2000” for “1993”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2000 Amendment
 

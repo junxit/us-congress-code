@@ -16,6 +16,8 @@ section: 77vvv
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Such Act, referred to in subsec. (a), means the Securities Act of 1933, approved May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
@@ -23,6 +25,8 @@ Such Act, referred to in subsec. (a), means the Securities Act of 1933, approved
 ### Amendments
 
 1990—Subsec. (b). Pub. L. 101–550 inserted “or duty” after “any liability”.
+
+### Executive Documents
 
 ### Transfer of Functions
 

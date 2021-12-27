@@ -26,9 +26,13 @@ section: 720k
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2014—Subsec. (a)(2). Pub. L. 113–128 substituted “consistent with the vision and goals set forth in the State of Alaska unified plan or combined plan, as appropriate, as developed pursuant to section 3112 or 3113, as appropriate, of title 29” for “consistent with the vision and goals set forth in the State of Alaska Unified Plan, as developed pursuant to the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2014 Amendment
 

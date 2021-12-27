@@ -28,6 +28,8 @@ For the purposes of this chapter:
 
 1 So in original.
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Pub. L. 114–329 amended section generally. Prior to amendment, text read as follows: “For the purposes of this chapter— “(a) The term ‘standard reference data’ means quantitative information, related to a measurable physical or chemical property of a substance or system of substances of known composition and structure, which is critically evaluated as to its reliability under section 290b of this title. “(b) The term ‘Secretary’ means the Secretary of Commerce.”

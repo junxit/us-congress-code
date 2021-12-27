@@ -15,6 +15,8 @@ Every commission merchant, dealer, and broker shall keep such accounts, records,
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 559 of this title.

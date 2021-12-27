@@ -30,13 +30,15 @@ section: 657f
 
 ## Source credit
 
-(Pub. L. 85–536, § 2[36], as added Pub. L. 108–183, title III, § 308, Dec. 16, 2003, 117 Stat. 2662; Pub. L. 116–283, div. A, title VIII, §§ 862(b)(2), (d)(1), 864(3), Jan. 1, 2021, 134 Stat. 3778, 3779, 3785.)
+(Pub. L. 85–536, § 2[36], as added Pub. L. 108–183, title III, § 308, Dec. 16, 2003, 117 Stat. 2662; amended Pub. L. 116–283, div. A, title VIII, §§ 862(b)(2), (d)(1), 864(3), Jan. 1, 2021, 134 Stat. 3778, 3779, 3785.)
 
 ## Notes
 
 ### Amendment of Section
 
 Pub. L. 116–283, div. A, title VIII, § 862(b)(2), Jan. 1, 2021, 134 Stat. 3778, provided that, effective on the transfer date (2 years after Jan. 1, 2021), this section is amended by transferring subsection (f) of section 8127 of Title 38, Veterans’ Benefits, to subsection (f) of this section. See 2021 Amendment note and Effective Date of 2021 Amendment note below.
+
+### Editorial Notes
 
 ### Codification
 
@@ -48,7 +50,9 @@ A prior section 2[36] of Pub. L. 85–536 was renumbered section 2[49] and is se
 
 ### Amendments
 
-2021—Subsecs. (a), (b). Pub. L. 116–283, § 862(d)(1)(C), (D), added subsecs. (a) and (b) and redesignated former subsecs. (a) and (b) as (c) and (d), respectively. Subsec. (c). Pub. L. 116–283, § 862(d)(1)(C), redesignated subsec. (a) as (c). Former subsec. (c) redesignated (e). Subsec. (c)(2)(A). Pub. L. 116–283, § 864(3), substituted “$7,000,000” for “$5,000,000”. Subsec. (d). Pub. L. 116–283, § 862(d)(1)(C), (E), redesignated subsec. (b) as (d) and inserted “certified under subsection (b)” before “if the contracting officer”. Pub. L. 116–283, § 862(d)(1)(A), redesignated subsec. (d) as par. (3) of subsec. (h). Subsec. (e). Pub. L. 116–283, § 862(d)(1)(B), (C), redesignated subsec. (c) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “For purposes of this section, the term “contracting officer” has the meaning given such term in section 2101(1) of title 41.” Subsec. (f). Pub. L. 116–283, § 862(b)(2), transferred subsec. (f) of section 8127 of Title 38, Veterans’ Benefits, to subsec. (f) of this section. Subsec. (g). Pub. L. 116–283, § 862(d)(1)(F), added subsec. (g). Subsec. (h). Pub. L. 116–283, § 862(d)(1)(F), added subsec. (h). Subsec. (h)(3). Pub. L. 116–283, § 862(d)(1)(G), inserted “and section 657f–1 of this title” before period at end. Pub. L. 116–283, § 862(d)(1)(A), redesignated subsec. (d) as par. (3) of subsec. (h). Subsec. (i). Pub. L. 116–283, § 862(d)(1)(F), added subsec. (i).
+2021—Subsecs. (a), (b). Pub. L. 116–283, § 862(d)(1)(D), added subsecs. (a) and (b). Former subsecs. (a) and (b) redesignated (c) and (d), respectively. Subsec. (c). Pub. L. 116–283, § 862(d)(1)(C), redesignated subsec. (a) as (c). Former subsec. (c) redesignated (e). Subsec. (c)(2)(A). Pub. L. 116–283, § 864(3), substituted “$7,000,000” for “$5,000,000”. Subsec. (d). Pub. L. 116–283, § 862(d)(1)(C), (E), redesignated subsec. (b) as (d) and inserted “certified under subsection (b)” before “if the contracting officer”. Pub. L. 116–283, § 862(d)(1)(A), redesignated subsec. (d) as par. (3) of subsec. (h). Subsec. (e). Pub. L. 116–283, § 862(d)(1)(B), (C), redesignated subsec. (c) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “For purposes of this section, the term ‘contracting officer’ has the meaning given such term in section 2101(1) of title 41.” Subsec. (f). Pub. L. 116–283, § 862(b)(2), transferred subsec. (f) of section 8127 of Title 38, Veterans’ Benefits, to subsec. (f) of this section. Subsec. (g). Pub. L. 116–283, § 862(d)(1)(F), added subsec. (g). Subsec. (h). Pub. L. 116–283, § 862(d)(1)(F), added subsec. (h). Subsec. (h)(3). Pub. L. 116–283, § 862(d)(1)(G), inserted “and section 657f–1 of this title” before period at end. Pub. L. 116–283, § 862(d)(1)(A), redesignated subsec. (d) as par. (3) of subsec. (h). Subsec. (i). Pub. L. 116–283, § 862(d)(1)(F), added subsec. (i).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2021 Amendment
 

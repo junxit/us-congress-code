@@ -16,9 +16,13 @@ section: 410ggg
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Subsec. (b). Pub. L. 108–352 substituted “numbered 963/80,000” for “numbered 963/80000”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

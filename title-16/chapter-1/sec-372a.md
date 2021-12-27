@@ -17,6 +17,8 @@ The conditional cession and grant to the United States of exclusive jurisdiction
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 376 of this title, referred to in text, was repealed by act June 25, 1948, ch. 646, § 39, 62 Stat. 992, eff. Sept. 1, 1948. See section 636 of Title 28, Judiciary and Judicial Procedure.

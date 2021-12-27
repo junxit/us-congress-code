@@ -20,6 +20,8 @@ section: 941g
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical provisions of subsec. (a), but Pub. L. 101–537 did not enact a subsec. (b). Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b).

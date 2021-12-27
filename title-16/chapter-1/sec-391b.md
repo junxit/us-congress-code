@@ -15,9 +15,19 @@ When title to all or any of the following-described lands on the island of Hawai
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Pub. L. 106–510 substituted at end “park. Land (including the land depicted on the map entitled ‘NPS–PAC 1997HW’) may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.” for “park: Provided, That the United States shall not purchase, by appropriation of public moneys, any land within the aforesaid area, but such lands shall be secured by the United States only by public and private donations, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds.” 1998—Pub. L. 105–380 inserted before period at end “, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds”.
+
+### Statutory Notes and Related Subsidiaries
+
+### Hawaiʻi Volcanoes National Park
+
+Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaiʻi Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
+
+### Executive Documents
 
 ### Change of Name
 
@@ -26,7 +36,3 @@ When title to all or any of the following-described lands on the island of Hawai
 ### Admission of Hawaii as State
 
 Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
-
-### Hawaiʻi Volcanoes National Park
-
-Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaiʻi Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.

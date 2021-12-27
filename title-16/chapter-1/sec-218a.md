@@ -24,6 +24,8 @@ section: 218a
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 “Abraham Lincoln Birthplace National Historical Park” substituted for “Abraham Lincoln Birthplace National Historic Site” in section catchline and in subsecs. (a) and (c)(3) pursuant to Pub. L. 111–11.

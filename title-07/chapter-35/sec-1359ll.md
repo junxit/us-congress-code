@@ -16,6 +16,8 @@ section: 1359ll
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The date of enactment of this section, referred to in subsec. (b), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -27,6 +29,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 ### Amendments
 
 2018—Subsec. (a). Pub. L. 115–334 substituted “2023” for “2018”. 2014—Subsec. (a). Pub. L. 113–79 substituted “2018” for “2012”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

@@ -17,6 +17,8 @@ The Home Owners’ Loan Corporation (herein called the “Corporation”) is aut
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 1136 of the Revised Statutes, referred to in the second par., was repealed and reenacted as sections 4774(d) and 9774(d) of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, 70A Stat. 1. Sections 4774(d) and 9774(d) were redesignated as entire sections 4774 and 9774 by Pub. L. 93–166, title V, § 509(c), (e), Nov. 29, 1973, 87 Stat. 677, 678, and subsequently were repealed by Pub. L. 97–214, § 7(1), July 12, 1982, 96 Stat. 173. Section 1463 of title 12, referred to in the last par., was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 648.
@@ -24,6 +26,8 @@ Section 1136 of the Revised Statutes, referred to in the second par., was repeal
 ### Codification
 
 In text, “sections 3111 and 3112 of title 40 and” substituted for “section 355, as amended,” and “section 3112 of title 40” substituted for “the last paragraph of said section 355, as amended” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works. In text, “section 1136 of the Revised Statutes, as amended, and section 6101 of title 41” substituted for “section 1136, as amended, and section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Abolition of Home Owners’ Loan Corporation
 

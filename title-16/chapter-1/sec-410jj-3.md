@@ -17,6 +17,8 @@ section: 410jj–3
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Hawaiian Homes Commission Act of 1920, referred to in subsec. (a), probably means the Hawaiian Homes Commission Act, 1920, act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.

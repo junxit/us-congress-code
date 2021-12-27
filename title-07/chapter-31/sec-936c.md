@@ -52,6 +52,8 @@ section: 936c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Rural Electrification Loan Restructuring Act of 1993, referred to in subsec. (d)(4), is Pub. L. 103–129, Nov. 1, 1993, 107 Stat. 1356. Section 6 of Pub. L. 103–129 relates to the issuance of regulations to carry out amendments made by the Act and is set out as a note under section 901 of this title. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 901 of this title and Tables.
@@ -59,6 +61,8 @@ The Rural Electrification Loan Restructuring Act of 1993, referred to in subsec.
 ### Amendments
 
 1994—Subsecs. (b)(3)(A)(ii), (d)(4). Pub. L. 103–354 substituted “Secretary” for “Administrator”. 1993—Subsec. (c)(2). Pub. L. 103–129, § 2(c)(10)(A), inserted before period at end “, except that such rate shall not be greater than 7 percent per year, subject to subsection (d) of this section”. Subsec. (d). Pub. L. 103–129, § 2(c)(10)(B), added subsec. (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Regulations
 

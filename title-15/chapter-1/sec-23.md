@@ -15,6 +15,8 @@ In any suit, action, or proceeding brought by or on behalf of the United States 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.

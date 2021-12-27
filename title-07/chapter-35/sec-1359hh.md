@@ -21,6 +21,8 @@ section: 1359hh
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 1359hh, act Feb. 16, 1938, ch. 30, title III, § 359h, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3486; amended Pub. L. 102–237, title I, § 111(j), Dec. 13, 1991, 105 Stat. 1836, related to regulations, violations, publication of Secretary’s determinations, jurisdiction of courts, and United States attorneys, prior to the general amendment of this subpart by Pub. L. 107–171.

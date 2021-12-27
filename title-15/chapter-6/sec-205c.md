@@ -36,6 +36,8 @@ As used in this subchapter, the term—
 
 2 So in original. Probably should be “Veterans”.
 
+### Editorial Notes
+
 ### Codification
 
 In par. (5), “section 107 of title 41” substituted for “section 403(6) of title 41, United States Code” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts. In par. (8), “section 3501(a) of title 41” substituted for “section 304A of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254b)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts. In par. (9), “section 3301(a) of title 40” substituted for “section 13 of the Public Buildings Act of 1959 (40 U.S.C. 612)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
@@ -43,6 +45,8 @@ In par. (5), “section 107 of title 41” substituted for “section 403(6) of 
 ### Amendments
 
 1996—Pars. (5) to (9). Pub. L. 104–289 added pars. (5) to (9).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1996 Amendment; Savings Provision
 

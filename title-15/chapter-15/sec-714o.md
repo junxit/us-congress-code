@@ -15,6 +15,8 @@ The Secretary of Agriculture, representing the United States as the sole owner o
 
 ## Notes
 
+### Executive Documents
+
 ### Exceptions From Transfer of Functions
 
 For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.

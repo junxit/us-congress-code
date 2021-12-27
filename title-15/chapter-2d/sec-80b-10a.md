@@ -25,9 +25,13 @@ section: 80b–10a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2006—Subsecs. (a), (b). Pub. L. 109–351 substituted “bank holding company or savings and loan holding company” for “bank holding company” wherever appearing.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

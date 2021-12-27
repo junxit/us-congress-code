@@ -81,6 +81,8 @@ section: 831a
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section, act May 18, 1933, ch. 32, § 2, 48 Stat. 59, related to the Directors of the Authority, prior to repeal by Pub. L. 108–447, div. C, title VI, § 601, Dec. 8, 2004, 118 Stat. 2963.
@@ -88,6 +90,8 @@ A prior section, act May 18, 1933, ch. 32, § 2, 48 Stat. 59, related to the Dir
 ### Amendments
 
 2007—Subsec. (f)(2). Pub. L. 110–161 substituted “stipends under paragraph (1)(A)” for “stipend under paragraph (1)(A)(i)”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Appointments; Effective Date; Transition
 

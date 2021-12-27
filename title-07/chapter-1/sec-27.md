@@ -28,6 +28,8 @@ section: 27
 
 1 So in original. Probably should be “paragraphs”.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 25A of the Federal Reserve Act, referred to in subsec. (a)(4), is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25 of the Federal Reserve Act, referred to in subsec. (a)(5), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12. Section 206 of the Gramm-Leach-Bliley Act, referred to in subsec. (b), is section 206 of Pub. L. 106–102 which is set out as a note under section 78c of Title 15, Commerce and Trade.
@@ -39,6 +41,8 @@ Section was enacted as part of the Legal Certainty for Bank Products Act of 2000
 ### Amendments
 
 2010—Subsec. (a)(7). Pub. L. 111–203, § 721(e)(9)(A), substituted “section 1a” for “section 1a(20)”. Subsec. (b)(2). Pub. L. 111–203, § 721(e)(9)(B), substituted “section 1a” for “section 1a(12)”. Subsec. (c). Pub. L. 111–203, § 721(e)(9)(C), substituted “section 1a” for “section 1a(4)”. Subsec. (d). Pub. L. 111–203, § 725(g)(1)(B), struck out subsec. (d) which defined covered swap agreement.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

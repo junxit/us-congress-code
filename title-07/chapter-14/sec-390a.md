@@ -31,6 +31,8 @@ section: 390a
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 390a, Pub. L. 88–74, § 2, July 22, 1963, 77 Stat. 90; Pub. L. 95–113, title XIV, § 1416(3), Sept. 29, 1977, 91 Stat. 996; Pub. L. 99–198, title XIV, § 1411(b), Dec. 23, 1985, 99 Stat. 1547, related to congressional declaration of purpose, prior to the general amendment of this subchapter by Pub. L. 104–127. A prior section 3 of Pub. L. 88–74 was classified to section 390b of this title prior to the general amendment of this subchapter by Pub. L. 104–127.

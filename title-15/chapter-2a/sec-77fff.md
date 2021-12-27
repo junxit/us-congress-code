@@ -21,6 +21,8 @@ section: 77fff
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Securities Act of 1933, referred to in subsecs. (a) to (c), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
@@ -29,9 +31,13 @@ The Securities Act of 1933, referred to in subsecs. (a) to (c), is act May 27, 1
 
 1954—Subsec. (b). Act Aug. 10, 1954, authorized the Commission to prescribe the extent to which summaries of indenture provisions must be used in the sale of specified types of securities. Subsec. (c). Act Aug. 10, 1954, added subsec. (c).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 1954 Amendment
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

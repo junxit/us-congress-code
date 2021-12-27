@@ -23,6 +23,8 @@ section: 9a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of subsec. (e) of section 6 of act Sept. 21, 1922. Subsecs. (a) and (b) of section 6 are classified to section 8 of this title. Subsec. (c) of section 6 is classified to section 9 of this title. Subsecs. (d), (f), and (g) of section 6 are classified to sections 13b, 9b, and 9c of this title, respectively.
@@ -30,6 +32,8 @@ Section is comprised of subsec. (e) of section 6 of act Sept. 21, 1922. Subsecs.
 ### Amendments
 
 2010—Pars. (4), (5). Pub. L. 111–203 added pars. (4) and (5). 2000—Pars. (2)(A), (3)(A). Pub. L. 106–554 substituted “the privileges of all registered entities” for “trading on all contract markets”. 1992—Pub. L. 102–546 amended section generally. Prior to amendment, section read as follows: “In determining the amount of the money penalty assessed under sections 9 and 15 of this title, the Commission shall consider, in the case of a person whose primary business involves the use of the commodity futures market—the appropriateness of such penalty to the size of the business of the person charged, the extent of such person’s ability to continue in business, and the gravity of the violation; and in the case of a person whose primary business does not involve the use of the commodity futures market—the appropriateness of such penalty to the net worth of the person charged, and the gravity of the violation. If the offending person upon whom such penalty is imposed, after the lapse of the period allowed for appeal or after the affirmance of such penalty, shall fail to pay such penalty the Commission shall refer the matter to the Attorney General who shall recover such penalty by action in the appropriate United States district court.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

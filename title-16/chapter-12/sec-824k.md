@@ -58,6 +58,8 @@ section: 824k
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The TVA Act, referred to in subsec. (f)(1), means act May 18, 1933, ch. 32, 48 Stat. 58, as amended, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§ 831 et seq.) of this title. For complete classification of this Act to the Code, see section 831 of this title and Tables. The Rural Electrification Act of 1936, referred to in subsec. (h)(2)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables. The Energy Policy Act of 1992, referred to in subsec. (i)(2)(A)(III), (B)(i), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of Title 42, The Public Health and Welfare and Tables.
@@ -65,6 +67,8 @@ The TVA Act, referred to in subsec. (f)(1), means act May 18, 1933, ch. 32, 48 S
 ### Amendments
 
 1992—Subsec. (a). Pub. L. 102–486, § 722(1), added subsec. (a) and struck out former subsec. (a) which related to determinations by Commission. Subsec. (b). Pub. L. 102–486, § 722(1), struck out subsec. (b) which required applicants for orders to be ready, willing, and able to reimburse parties subject to such orders. Subsec. (e). Pub. L. 102–486, § 722(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to utilization of interconnection or wheeling authority in lieu of other authority and limitation of Commission authority. Subsecs. (g) to (k). Pub. L. 102–486, § 722(3), added subsecs. (g) to (k).
+
+### Statutory Notes and Related Subsidiaries
 
 ### State Authorities; Construction
 

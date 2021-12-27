@@ -15,6 +15,8 @@ Any person who willfully violates sections 68a, 68c, 68f, or 68g(b) of this titl
 
 ## Notes
 
+### Executive Documents
+
 ### Transfer of Functions
 
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.

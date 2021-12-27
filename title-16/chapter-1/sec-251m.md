@@ -15,6 +15,8 @@ There is hereby authorized to be appropriated not to exceed $23,700,000 for the 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 251e to 251m of this title, referred to in text, was in the original “this title”, meaning title III of Pub. L. 94–578.

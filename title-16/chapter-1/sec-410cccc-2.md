@@ -17,9 +17,13 @@ There are hereby authorized to be appropriated such sums, but not more than $5,4
 
 1 See Change of Name note below.
 
+### Editorial Notes
+
 ### Amendments
 
 1976—Pub. L. 94–578 substituted “$5,422,000” for “$1,168,000”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

@@ -78,6 +78,8 @@ section: 78k–1
 
 1 So in original. Probably should be “are hereinafter”.
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in text, was in the original “this title”. See References in Text note set out under section 78a of this title. The Federal Advisory Committee Act, referred to in subsec. (a)(3)(A), is Pub. L. 92–436, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -85,6 +87,8 @@ This chapter, referred to in text, was in the original “this title”. See Ref
 ### Amendments
 
 2012—Subsec. (c)(6). Pub. L. 112–106 added par. (6). 2000—Subsec. (e). Pub. L. 106–554 added subsec. (e). 1987—Subsec. (b)(2). Pub. L. 100–181, § 313(1), substituted “transactions” for “transaction”. Subsec. (c)(4). Pub. L. 100–181, § 313(2), struck out “On or before the ninetieth day following June 4, 1975, the Commission shall (i) report to the Congress the results of its review, including the effects on competition of such rules, and (ii) commence a proceeding in accordance with the provisions of section 78s(c) of this title to amend any such rule imposing a burden on competition which does not appear to the Commission to be necessary or appropriate in furtherance of the purposes of this chapter. The Commission shall conclude any such proceeding within ninety days of the date of publication of notice of its commencement.” Subsec. (e). Pub. L. 100–181, § 314, struck out subsec. (e) which read as follows: “The Commission is authorized and directed to make a study of the extent to which persons excluded from the definitions of ‘broker’ and ‘dealer’ maintain accounts on behalf of public customers for buying and selling securities registered under section 78l of this title and whether such exclusions are consistent with the protection of investors and the other purposes of this chapter. The Commission shall report to the Congress, on or before December 31, 1976, the results of its study together with such recommendations for legislation as it deems advisable.” 1984—Subsec. (c)(4). Pub. L. 98–620 struck out designation “(A)” after “(4)”, and struck out subpar. (B) which provided that review pursuant to section 78y(b) of this title of any rule promulgated by the Commission in accordance with any proceeding commenced pursuant to this paragraph would, except as to causes the court considers of greater importance, take precedence on the docket over all other causes and had to be assigned for consideration at the earliest practicable date and expedited in every way.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1984 Amendment
 

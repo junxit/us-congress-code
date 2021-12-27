@@ -151,6 +151,8 @@ section: 78c–3
 
 1 So in original. Probably should be “governmental”.
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsecs. (a)(1) and (d)(1), was in the original “this Act”, and this chapter, referred to in subsec. (j)(2)(D), (3)(A)(i), was in the original “this title”. See References in Text note set out under section 78a of this title. For the effective date of this section, referred to in subsec. (e), see section 774 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 77b of this title. Subsection (c) of that section, referred to in subsec. (g)(4)(B)(v), was in the original “subsection (c) of that Act”, and was translated as meaning subsec. (c) of section 3 of act Aug. 22, 1940, ch. 686, to reflect the probable intent of Congress.
@@ -158,6 +160,8 @@ This chapter, referred to in subsecs. (a)(1) and (d)(1), was in the original “
 ### Amendments
 
 2015—Subsec. (g)(4). Pub. L. 114–113 added subpars. (A) to (D) and (F), redesignated former subpar. (C) as (E), and struck out former subpars. (A) and (B) which related to application of exception to affiliates and prohibition relating to certain affiliates, respectively.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

@@ -71,6 +71,8 @@ section: 78dd–3
 
 1 So in original. A closing parenthesis probably should appear.
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of Pub. L. 95–213, the Foreign Corrupt Practices Act of 1977, and not as part of act June 6, 1934, ch. 404, 48 Stat. 881, the Securities Exchange Act of 1934, which comprises this chapter.

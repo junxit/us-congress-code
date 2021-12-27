@@ -15,9 +15,13 @@ The Board, whenever the President deems it advisable, is empowered and directed 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Pub. L. 108–447 substituted “Board” for “board”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2004 Amendment
 

@@ -21,6 +21,8 @@ section: 45d
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to this subchapter. For complete classification of this Act to the Code, see section 58 of this title and Tables. This subtitle, referred to in subsec. (c), is subtitle B (§§ 8021–8023) of title VIII of Pub. L. 115–271, Oct. 24, 2018, 132 Stat. 4082, known as the Opioid Addiction Recovery Fraud Prevention Act of 2018, which enacted this section and provisions set out as notes under this section and section 58 of this title.
@@ -28,6 +30,8 @@ The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26
 ### Codification
 
 Section was enacted as part of the Opioid Addiction Recovery Fraud Prevention Act of 2018, and also as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Federal Trade Commission Act which comprises this subchapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definitions
 

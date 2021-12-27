@@ -23,6 +23,8 @@ section: 971e
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 971d(d) of this title, referred to in subsec. (d), was amended generally by Pub. L. 101–627, title II, § 207, Nov. 28, 1990, 104 Stat. 4461. Prior to amendment, subsec. (d) related to Commission recommendations concerning bluefin tuna and issuance of regulations in that regard.

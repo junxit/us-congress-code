@@ -23,6 +23,8 @@ section: 69a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Trade Commission Act, referred to in text, is defined in section 69 of this title.

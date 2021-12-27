@@ -26,6 +26,8 @@ The purposes of the environmental quality incentives program established by this
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -37,6 +39,8 @@ A prior section 3839aa, Pub. L. 99–198, title XII, § 1240, as added Pub. L. 1
 ### Amendments
 
 2018—Pub. L. 115–334, § 2301(d)(1)(D), substituted “this subpart” for “this part” in introductory provisions. Par. (4). Pub. L. 115–334, § 2302, added par. (4) and struck out former par. (4) which read as follows: “assisting producers to make beneficial, cost effective changes to production systems (including conservation practices related to organic production), grazing management, fuels management, forest management, nutrient management associated with livestock, pest or irrigation management, or other practices on agricultural and forested land.” 2014—Par. (3). Pub. L. 113–79, § 2201(1), added subpar. (B) and redesignated former subpar. (B) as (C). Par. (4). Pub. L. 113–79, § 2201(2), substituted a period for “; and” at end. Par. (5). Pub. L. 113–79, § 2201(3), struck out par. (5) which read as follows: “consolidating and streamlining conservation planning and regulatory compliance processes to reduce administrative burdens on producers and the cost of achieving environmental goals.” 2008—Pub. L. 110–246, § 2501(a)(1), inserted “, forest management,” after “agricultural production” in introductory provisions. Pars. (3), (4). Pub. L. 110–246, § 2501(a)(2), added pars. (3) and (4) and struck out former pars. (3) and (4) which read as follows: “(3) providing flexible assistance to producers to install and maintain conservation practices that enhance soil, water, related natural resources (including grazing land and wetland), and wildlife while sustaining production of food and fiber; “(4) assisting producers to make beneficial, cost effective changes to cropping systems, grazing management, nutrient management associated with livestock, pest or irrigation management, or other practices on agricultural land; and”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2008 Amendment
 

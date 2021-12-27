@@ -15,9 +15,13 @@ The Federal statutes applicable to Commodity Credit Corporation, a Delaware corp
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 713(a) of this title, referred to in text, was omitted from the Code. See Codification note under former section 713 of this title.
+
+### Executive Documents
 
 ### Exceptions From Transfer of Functions
 

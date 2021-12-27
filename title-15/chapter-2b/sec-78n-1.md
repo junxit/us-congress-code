@@ -38,6 +38,8 @@ section: 78n–1
 
 1 So in original. Probably should be “burden”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Securities Act of 1933, referred to in subsec. (e)(2)(B)(i), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
@@ -45,6 +47,8 @@ The Securities Act of 1933, referred to in subsec. (e)(2)(B)(i), is title I of a
 ### Amendments
 
 2012—Subsec. (e). Pub. L. 112–106 designated existing provisions as par. (1), inserted heading, substituted “any other issuer” for “an issuer”, and added par. (2).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

@@ -21,9 +21,13 @@ section: 717m
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1970—Subsec. (h). Pub. L. 91–452 struck out subsec. (h) which related to the immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1970 Amendment
 

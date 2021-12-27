@@ -15,6 +15,8 @@ There are hereby authorized to be appropriated not to exceed $12,000,000 to carr
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Pub. L. 115–31 inserted “land acquisition and development as authorized in” after “carry out”.

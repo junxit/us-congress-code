@@ -17,6 +17,8 @@ section: 228b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Subsec. (a). Pub. L. 114–237, § 3, substituted “shall transfer funds for the full amount of the purchase price to the account of the seller by wire, electronic funds transfer, or any other expeditious method determined appropriate by the Secretary” for “shall wire transfer funds to the seller’s account” in two places in first proviso and “or dealer shall transfer funds for the full amount of the purchase price by wire, electronic funds transfer, or any other expeditious method determined appropriate by the Secretary” for “or dealer shall wire transfer funds” in second proviso.

@@ -30,6 +30,8 @@ section: 410fff–3
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2003—Subsec. (a)(1). Pub. L. 108–128 substituted “Map or the map described in section 410fff–2(a)(2) of this title” for “Map”.

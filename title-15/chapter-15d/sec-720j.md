@@ -18,6 +18,8 @@ section: 720j
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2009—Subsec. (c). Pub. L. 111–68 struck out subsec. (c) which related to study to determine extent to which small business concerns participate in construction of oil and gas pipelines in the United States.

@@ -19,9 +19,13 @@ section: 410bbb
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Senate Concurrent Resolution 57, referred to in subsec. (a)(1), probably means H. Con. Res. 57, Dec. 4, 1987, 101 Stat. 2013, which is not classified to the Code.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

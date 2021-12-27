@@ -36,6 +36,8 @@ section: 950bb–1
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -43,6 +45,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 ### Amendments
 
 2018—Pub. L. 115–334 amended section generally. Prior to amendment, section related to National Center for Rural Telecommunications Assessment.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

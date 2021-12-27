@@ -15,6 +15,8 @@ Whenever, during the existence of a war in which the United States is not engage
 
 ## Notes
 
+### Executive Documents
+
 ### Delegation of Functions
 
-For delegation to Secretary of Homeland Security of authority vested in President by this section, see section 1(j), (k) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, as amended, set out as a note under section 301 of Title 3, The President.
+For delegation to Secretary of Homeland Security of authority vested in President by this section, see section 1(j), (k) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, set out as a note under section 301 of Title 3, The President.

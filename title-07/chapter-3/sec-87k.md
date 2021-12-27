@@ -24,6 +24,8 @@ section: 87k
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsec. (c), was in the original “this Act” and was translated as reading “this part”, meaning part B of act Aug. 11, 1916, known as the United States Grain Standards Act, to reflect the probable intent of Congress.

@@ -15,9 +15,13 @@ No deed or instrument of conveyance in fee shall be accepted by the Secretary of
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Pub. L. 103–434 inserted “in fee” after “conveyance”.
+
+### Executive Documents
 
 ### Transfer of Functions
 

@@ -83,9 +83,13 @@ section: 697g
 
 1 So in original. Probably should be “subsection”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Small Business Programs Improvement Act of 1996, referred to in subsec. (b)(1)(A)(i), is Pub. L. 104–208, div. D, Sept. 30, 1996, 110 Stat. 3009–724. Provisions relating to loan liquidation pilot program are contained in section 204 of title II of div. D of Pub. L. 104–208, which is set out as a note under section 695 of this title. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 631 of this title and Tables.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

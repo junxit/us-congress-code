@@ -81,6 +81,8 @@ section: 78j–1
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsecs. (a), (b)(1), (e), (g), (k), and (l), was in the original “this title”. See References in Text note set out under section 78a of this title. The Securities Act of 1933, referred to in subsec. (f), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
@@ -88,6 +90,8 @@ This chapter, referred to in subsecs. (a), (b)(1), (e), (g), (k), and (l), was i
 ### Amendments
 
 2010—Subsec. (i)(1)(B). Pub. L. 111–203 substituted “minimis” for “minimus” in heading and “the non-audit” for “the nonaudit” in cl. (i). 2002—Subsec. (a). Pub. L. 107–204, § 205(b)(1), substituted “a registered public accounting firm” for “an independent public accountant” in introductory provisions. Subsec. (b)(1). Pub. L. 107–204, § 205(b)(2), (4)(A), in introductory provisions, substituted “the registered public accounting firm” for “the independent public accountant” and “the firm” for “the accountant”. Subsec. (b)(1)(B). Pub. L. 107–204, § 205(b)(4)(B), substituted “such firm” for “such accountant”. Subsec. (b)(2). Pub. L. 107–204, § 205(b)(2), (4)(A), (B), in introductory provisions, substituted “the firm” for “the accountant”, “such firm” for “such accountant”, and “the registered public accounting firm” for “the independent public accountant” and, in concluding provisions, substituted “the registered public accounting firm” for “the independent public accountant”. Subsec. (b)(3). Pub. L. 107–204, § 205(b)(2), substituted “the registered public accounting firm” for “the independent public accountant” wherever appearing in introductory provisions. Subsec. (b)(4). Pub. L. 107–204, § 205(b)(1), (4)(A), (C), substituted “a registered public accounting firm” for “an independent public accountant”, “the firm” for “the accountant”, and “the report of the firm” for “the accountant’s report”. Subsec. (c). Pub. L. 107–204, § 205(b)(3), substituted “No registered public accounting firm” for “No independent public accountant”. Subsec. (d). Pub. L. 107–204, § 205(b)(1), (2), substituted “a registered public accounting firm” for “an independent public accountant” and “the registered public accounting firm” for “the independent public accountant”. Subsec. (f). Pub. L. 107–204, § 205(d), substituted “Definitions” for “Definition” in heading and inserted at end “As used in this section, the term ‘issuer’ means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn.” Subsecs. (g), (h). Pub. L. 107–204, § 201(a), added subsecs. (g) and (h). Subsec. (i). Pub. L. 107–204, § 202, added subsec. (i). Subsec. (j). Pub. L. 107–204, § 203, added subsec. (j). Subsec. (k). Pub. L. 107–204, § 204, added subsec. (k). Subsec. (l). Pub. L. 107–204, § 206, added subsec. (l). Subsec. (m). Pub. L. 107–204, § 301, added subsec. (m).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

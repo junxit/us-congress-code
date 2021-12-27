@@ -18,9 +18,13 @@ section: 217a
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 Former provisions relating to fees for inspection of brands appearing upon livestock were contained in section 231 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Administrative Orders Review Act
 

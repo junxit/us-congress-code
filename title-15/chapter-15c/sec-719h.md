@@ -24,6 +24,8 @@ section: 719h
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -32,9 +34,13 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is
 
 2004—Subsec. (c). Pub. L. 108–324, § 107(d)(1), inserted heading. Subsec. (c)(1). Pub. L. 108–324, § 107(d)(1), (2), designated first sentence as subpar. (A) and inserted par. and subpar. headings and designated last sentence as subpar. (B), inserted subpar. heading, and substituted “The Special Court shall have” for “Such court shall have”. Subsec. (c)(2). Pub. L. 108–324, § 107(d)(3), added par. (2). Subsec. (c)(3). Pub. L. 108–324, § 107(d)(4), inserted heading. 1984—Subsec. (c)(2). Pub. L. 98–620 struck out par. (2) which required that any such proceeding had to be assigned for hearing and completed at the earliest possible date, would, to the greatest extent practicable, take precedence over all other matters pending on the docket of the court at that time, and had to be expedited in every way by such court and such court had to render its decision relative to any claim within 90 days from the date such claim was brought unless such court determined that a longer period of time was required to satisfy requirements of the United States Constitution.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
+
+### Executive Documents
 
 ### Transfer of Functions
 

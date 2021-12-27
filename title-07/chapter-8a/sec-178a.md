@@ -20,6 +20,8 @@ As used in this subchapter—
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1984—Subsec. (d). Pub. L. 98–284, § 3(a), inserted “and other agricultural crops of strategic and industrial importance” and “plants which are”. Subsec. (e). Pub. L. 98–284, § 3(b), struck out subsec. (e) which defined “Regional Commissions” as the Regional Action Planning Commissions established pursuant to title V of the Public Works and Economic Development Act of 1965.

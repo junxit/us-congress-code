@@ -15,9 +15,13 @@ Nothing in this subchapter shall be construed as authorizing or empowering the M
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Herein created, referred to in text, means created by section 715a of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

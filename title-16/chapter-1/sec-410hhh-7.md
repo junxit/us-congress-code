@@ -49,6 +49,8 @@ section: 410hhh–7
 
 1 See Codification note below.
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of section 9 of Pub. L. 106–530. Subsec. (a) of section 9 of Pub. L. 106–530 amended section 1501(a) of Pub. L. 102–575, 106 Stat. 4663, which is not classified to the Code.

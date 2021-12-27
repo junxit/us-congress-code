@@ -41,6 +41,8 @@ section: 16
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The antitrust laws, referred to in subsecs. (a), (b), and (g) to (i), are defined in section 12 of this title.
@@ -48,6 +50,8 @@ The antitrust laws, referred to in subsecs. (a), (b), and (g) to (i), are define
 ### Amendments
 
 2004—Subsec. (d). Pub. L. 108–237, § 221(b)(1), inserted at end “Upon application by the United States, the district court may, for good cause (based on a finding that the expense of publication in the Federal Register exceeds the public interest benefits to be gained from such publication), authorize an alternative method of public dissemination of the public comments received and the response to those comments.” Subsec. (e). Pub. L. 108–237, § 221(b)(2), designated introductory provisions as par. (1), substituted “court shall” for “court may”, added subpars. (A) and (B) and par. (2), and struck out former pars. (1) and (2) which read as follows: “(1) the competitive impact of such judgment, including termination of alleged violations, provisions for enforcement and modification, duration or relief sought, anticipated effects of alternative remedies actually considered, and any other considerations bearing upon the adequacy of such judgment; “(2) the impact of entry of such judgment upon the public generally and individuals alleging specific injury from the violations set forth in the complaint including consideration of the public benefit, if any, to be derived from a determination of the issues at trial.” Subsec. (g). Pub. L. 108–237, § 221(b)(3), inserted “by any officer, director, employee, or agent of such defendant” before “, or other person” in first sentence. 1980—Subsec. (a). Pub. L. 96–349 made collateral estoppel inapplicable in any action or proceeding brought under the antitrust laws to any finding made by the Commission under the antitrust laws or under section 45 of this title which could give rise to a claim for relief under the antitrust laws; struck out “or by the United States under section 15a of this title,” after “under said laws”; and deleted from proviso “or to judgments or decrees entered in actions under section 15a of this title” after “testimony has been taken”. 1976—Pub. L. 94–435 substituted “private or State right of action” for “private right of action” and “section 15 or 15c” for “section 15”. 1974—Subsecs. (b) to (i). Pub. L. 93–528 added subsecs. (b) to (h) and redesignated former subsec. (b) as (i). 1955—Act July 7, 1955, substituted subsec. (a) for first paragraph, to provide that final judgments in actions under the antitrust laws by the United States shall be prima facie evidence in damage suits by the United States as well as in private damage suits, and substituted subsec. (b) for second paragraph, to provide for a one-year suspension of limitations.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1980 Amendment
 

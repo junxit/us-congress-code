@@ -15,9 +15,13 @@ Every combination, conspiracy, trust, agreement, or contract is declared to be c
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1913—Act Feb. 12, 1913, inserted “as agent or principal”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

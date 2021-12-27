@@ -22,9 +22,13 @@ section: 77bbb
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 78jj of this title, referred to in subsec. (a), was omitted from the Code.
+
+### Executive Documents
 
 ### Transfer of Functions
 

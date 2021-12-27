@@ -32,6 +32,8 @@ section: 70b
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (k), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties. The Fur Products Labeling Act, referred to in subsec. (g), is act Aug. 8, 1951, ch. 298, 65 Stat. 175, as amended, which is classified generally to subchapter IV (§ 69 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 69 of this title and Tables.
@@ -39,6 +41,8 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (k),
 ### Amendments
 
 2004—Subsec. (k). Pub. L. 108–429 added subsec. (k). 1984—Subsec. (b)(5). Pub. L. 98–417, § 301, added par. (5). Subsec. (e). Pub. L. 98–417, § 302, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “This section shall not be construed as requiring the affixing of a stamp, tag, label, or other means of identification to each textile fiber product contained in a package if (1) such textile fiber products are intended for sale to the ultimate consumer in such package, (2) such package has affixed to it a stamp, tag, label, or other means of identification bearing, with respect to the textile fiber products contained therein, the information required by subsection (b) of this section, and (3) the information on the stamp, tag, label, or other means of identification affixed to such package is equally applicable with respect to each textile fiber product contained therein.” Subsecs. (i), (j). Pub. L. 98–417, § 303, added subsecs. (i) and (j). 1965—Subsec. (b)(1). Pub. L. 89–35, § 1, inserted “, but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount contained in such product”. Subsec. (b)(2). Pub. L. 89–35, § 2, inserted “, but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount stated”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2004 Amendment
 

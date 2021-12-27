@@ -15,9 +15,13 @@ This chapter may be cited as the “Federal Power Act”.
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of part III of the Federal Power Act, and not as part of part I of that Act which comprises this subchapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 2013 Amendment
 

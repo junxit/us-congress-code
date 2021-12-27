@@ -15,6 +15,8 @@ If any provision of this chapter or the application thereof to any person or cir
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 both renumbered this section as section 417 of act Aug. 15, 1921. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234. Section was formerly classified to section 229 of this title.

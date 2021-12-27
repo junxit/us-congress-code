@@ -16,6 +16,8 @@ section: 410www
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 460bbbb of this title. This subchapter is comprised of Pub. L. 96–428, as amended. Pub. L. 96–428 is also listed in a table of National Historic Sites set out under section 320101 of Title 54, National Park Service and Related Programs.
@@ -23,6 +25,8 @@ Section was formerly classified to section 460bbbb of this title. This subchapte
 ### Amendments
 
 2018—Subsec. (a). Pub. L. 115–108 substituted “Martin Luther King, Jr. National Historical Park” for “Martin Luther King, Junior, National Historic Site”, “the map entitled ‘Martin Luther King, Jr. National Historical Park Proposed Boundary Revision’, numbered 489/128,786 and dated June 2015” for “the map entitled ‘Martin Luther King, Junior, National Historic Site Boundary Map’, number 489/80,013B, and dated September 1992”, and “national historical park” for “national historic site”. 1992—Subsec. (a). Pub. L. 102–575 substituted “number 489/80,013B, and dated September 1992” for “numbered NASM/SERO/20, 109–C, and dated May 1980”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 2017 Amendment
 

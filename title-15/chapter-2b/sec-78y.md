@@ -33,6 +33,8 @@ section: 78y
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsecs. (a)(1) and (d)(1), was in the original “this title”. See References in Text note set out under section 78a of this title. The Federal Rules of Appellate Procedure, referred to in subsec. (a)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -40,6 +42,8 @@ This chapter, referred to in subsecs. (a)(1) and (d)(1), was in the original “
 ### Amendments
 
 1990—Subsec. (b)(1). Pub. L. 101–432 inserted “78i(h)(2),” after “section 78f,”. 1986—Subsec. (d)(1). Pub. L. 99–571 inserted “and the Secretary of the Treasury insofar as he is acting pursuant to section 78o–5 of this title”. 1975—Subsec. (a). Pub. L. 94–29 revised existing provisions into five numbered paragraphs. Subsec. (b). Pub. L. 94–29 substituted provisions permitting persons adversely affected by any rule promulgated by the Commission pursuant to sections 78f, 78k, 78k–1, 78o(c)(5) or (6), 78o–3, 78q, 78q–1, or 78s of this title to obtain direct review in an appropriate Court of Appeals for provisions that commencement of proceedings under subsec. (a) shall not, unless specifically ordered by the court, operate as a stay of the Commission’s order. Subsecs. (c), (d). Pub. L. 94–29 added subsecs. (c) and (d). 1958—Subsec. (a). Pub. L. 85–791, in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, struck out “certify and” before “file in the court”, struck out “a transcript of” after “file in the court”, and inserted “as provided in section 2112 of title 28”, and, in third sentence, substituted “petition” for “transcript”, and “jurisdiction, which upon the filing of the record shall be exclusive” for “exclusive jurisdiction”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 
@@ -52,6 +56,8 @@ Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see sectio
 ### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

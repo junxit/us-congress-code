@@ -129,6 +129,8 @@ section: 78d
 
 2 So in original. Probably should be “(2)(A)(ii),”.
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsecs. (a), (g)(4)(D)(ii), and (j)(4)(D)(ii), was in the original “this title”. See References in Text note set out under section 78a of this title.
@@ -136,6 +138,8 @@ This chapter, referred to in subsecs. (a), (g)(4)(D)(ii), and (j)(4)(D)(ii), was
 ### Amendments
 
 2018—Subsec. (j)(4)(C), (6)(B)(iii). Pub. L. 115–141 substituted “minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters” for “minority-owned and women-owned small businesses”. 2016—Subsec. (j). Pub. L. 114–284 added subsec. (j). 2010—Subsec. (g). Pub. L. 111–203, § 915, added subsec. (g). Subsec. (g)(8). Pub. L. 111–203, § 919D, added par. (8). Subsec. (h). Pub. L. 111–203, § 965, added subsec. (h). Subsec. (i). Pub. L. 111–203, § 991(e)(1), added subsec. (i). 2002—Subsec. (b)(1), (2). Pub. L. 107–123 added pars. (1) and (2) and struck out former pars. (1) and (2), which authorized the Commission to appoint and compensate officers, attorneys, examiners, and other experts as needed, and to select, appoint, and compensate professional economists. 1998—Subsec. (b)(2), (3). Pub. L. 105–353 added par. (2) and redesignated former par. (2) as (3). 1996—Subsec. (e). Pub. L. 104–290 inserted before period at end “and the Commission may also specify the time that such fee shall be determined and paid relative to the filing of any statement or document with the Commission”. 1990—Subsec. (b). Pub. L. 101–550, § 103, inserted heading, designated existing provision as par. (1) and inserted heading, and added par. (2). Subsec. (f). Pub. L. 101–550, § 207, added subsec. (f). 1987—Subsec. (e). Pub. L. 100–181 added subsec. (e). 1983—Subsecs. (c), (d). Pub. L. 98–38 added subsecs. (c) and (d). 1964—Subsec. (a). Pub. L. 88–426 repealed provisions which prescribed the compensation of the Chairman and the Commissioners. 1960—Subsec. (a). Pub. L. 86–771 authorized the chairman to receive an additional $500 a year. Pub. L. 86–619 increased the salary of each commissioner from $15,000 to $20,000 a year, and provided for continuation in office of a commissioner upon termination of his term until a successor is appointed and has qualified, not beyond expiration of next session of Congress subsequent to the expiration of said fixed term of office. 1949—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 
@@ -153,10 +157,6 @@ For effective date of amendment by Pub. L. 88–426, see section 501 of Pub. L. 
 
 Act Oct. 28, 1949, ch. 782, set out in the credit of this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
-### Transfer of Functions
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out below.
-
 ### Outreach by the Commission
 
 Pub. L. 112–106, title VII, § 701, Apr. 5, 2012, 126 Stat. 327, provided that: “The Securities and Exchange Commission shall provide online information and conduct outreach to inform small and medium sized businesses, women owned businesses, veteran owned businesses, and minority owned businesses of the changes made by this Act [see Short Title of 2012 Amendment note set out under section 78a of this title].”
@@ -164,6 +164,12 @@ Pub. L. 112–106, title VII, § 701, Apr. 5, 2012, 126 Stat. 327, provided that
 ### Pay Authority for Employment of Experts and Consultants
 
 Pub. L. 111–203, title IX, § 929G(c), July 21, 2010, 124 Stat. 1856, provided that: “The [Securities and Exchange] Commission may set the rate of pay for experts and consultants appointed under the authority of section 3109 of title 5, United States Code, in the same manner in which it sets the rate of pay for employees of the Commission.”
+
+### Executive Documents
+
+### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out below.
 
 ### 1950 REORGANIZATION PLAN NO. 1015 F.R. 3175, 64 Stat. 1265
 

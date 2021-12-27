@@ -17,9 +17,13 @@ The Commission may, in accordance with the procedures provided for in this chapt
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 612c–3 of this title, referred to in text, was repealed by Pub. L. 101–624, title XV, § 1578, Nov. 28, 1990, 104 Stat. 3702.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

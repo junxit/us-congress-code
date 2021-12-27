@@ -15,9 +15,13 @@ The Petrified Forest National Park, authorized to be established pursuant to sec
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1986—Pub. L. 99–250 inserted “Township 19 north, range 24 east: the southwest quarter of the southwest quarter of section 27.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1986 Amendment
 

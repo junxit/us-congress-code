@@ -27,6 +27,8 @@ section: 687l
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 For definition of “this chapter”, referred to in subsecs. (a) and (f)(2), see References in Text note set out under section 661 of this title.
@@ -38,6 +40,8 @@ A prior section 319 of Pub. L. 85–699, which amended section 80a–18 of this 
 ### Amendments
 
 1996—Subsec. (a). Pub. L. 104–208, § 208(h)(1)(F)(i), struck out “, including companies operating under the authority of section 681(d) of this title,” after “investment companies”. Subsec. (f)(1). Pub. L. 104–208, § 205(b)(1), struck out at end “Such central registration shall include with respect to each sale— “(A) identification of each small business investment company; “(B) the interest rate or prioritized payment rate paid by the small business investment company; “(C) commissions, fees, or discounts paid to brokers and dealers in trust certificates; “(D) identification of each purchaser of the trust certificate; “(E) the price paid by the purchaser for the trust certificate; “(F) the interest rate on the trust certificate; “(G) the fee of any agent for carrying out the functions described in paragraph (2); and “(H) such other information as the Administration deems appropriate.” Subsec. (f)(2). Pub. L. 104–208, § 208(h)(1)(F)(ii), inserted “or investments in obligations of the United States” after “accounts”. Subsec. (f)(5). Pub. L. 104–208, § 205(b)(2), added par. (5). 1992—Pub. L. 102–366 amended section generally, in subsec. (a) authorizing issuance of trust certificates representing ownership of participating securities, in subsec. (b) inserting provisions authorizing Administration to guarantee payment of redemption price of and priority payments on participating securities, in subsec. (e)(2) including participating securities within prohibition against preclusion or limitation of Administration’s ownership rights, and in subsec. (f) in par. (1) substituting provisions relating to small business investment company for provisions relating to development company and requiring prioritized payment rate to be included in central registration requirements, and in par. (2) inserting provisions relating to participating securities, contracts to carry out pooling, and maintenance of commercial bank accounts. 1989—Subsec. (a). Pub. L. 101–162 inserted “, including companies operating under the authority of section 681(d) of this title,” after “investment companies”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1996 Amendment
 

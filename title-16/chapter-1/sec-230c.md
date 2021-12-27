@@ -17,6 +17,8 @@ In furtherance of the purposes of this part, and after consultation with the Com
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Paragraphs (4) and (5) of section 230 of this title, included within the reference in text to paragraphs (1) through (5) of section 230 of this title, were redesignated paragraphs (5) and (6), respectively, of section 230 of this title, and a new paragraph (4) was added, by Pub. L. 100–250, § 1(a), Feb. 16, 1988, 102 Stat. 16.
@@ -24,6 +26,8 @@ Paragraphs (4) and (5) of section 230 of this title, included within the referen
 ### Amendments
 
 1979—Pub. L. 96–87 substituted reference to “section 907 of this title” for reference to “section 7 of this title” in the original. Since “section 7 of this title” had already been translated as “section 230f of this title” as the probable intent of Congress the substitution of “907” for “7” required no change in text as set out in this section.
+
+### Statutory Notes and Related Subsidiaries
 
 ### “Secretary” Defined
 

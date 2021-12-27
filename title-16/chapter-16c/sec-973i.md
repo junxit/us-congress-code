@@ -28,6 +28,8 @@ section: 973i
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1988—Subsec. (a)(2)(C). Pub. L. 100–350 substituted “section 973c(a)(7) of this title” for “section 973c(b)(7) of this title”.

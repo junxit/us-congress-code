@@ -22,9 +22,13 @@ section: 87
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Subsecs. (a), (b). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing. Subsec. (b)(5). Pub. L. 103–437 substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”. 1993—Pub. L. 103–156, § 12(j), which directed amendment of “Section 11”, without specifying the name of the Act being amended, was executed to this section, which is section 11 of the United States Grain Standards Act, to reflect the probable intent of Congress. Subsec. (a). Pub. L. 103–156, § 12(j)(1), substituted “the Administrator” for “he” before “determines”. Subsec. (b)(1). Pub. L. 103–156, § 12(j)(2)(A), substituted “the producer” for “he”. Subsec. (b)(5). Pub. L. 103–156, § 12(j)(2)(B), substituted “the Administrator” for “he” in two places. 1977—Subsec. (b)(3). Pub. L. 95–113, § 1604(h)(1), substituted “to perform official weighing or supervision of weighing” for “to perform supervision of weighing”. Subsec. (b)(4). Pub. L. 95–113, § 1606(g), substituted “official weighing or supervision of weighing” for “official weighing”. Subsec. (b)(5). Pub. L. 95–113, § 1604(h)(2), substituted “to perform official inspection or perform official weighing or supervision of weighing except that” for “to perform official inspection or perform supervision of weighing except that” and “member, director, officer” for “member, officer”. Subsec. (c). Pub. L. 95–113, § 1604(h)(3), inserted “or State agency delegated authority under this chapter” after “official agency”. 1976—Subsec. (a). Pub. L. 94–582, § 13(a)–(c), substituted “Administrator” for “Secretary” wherever appearing and “perform any official function” for “perform any official inspection function”, and designated first paragraph provisions, as amended, as subsec. (a), respectively. Subsecs. (b), (c). Pub. L. 94–582, § 13(c), added subsecs. (b) and (c). 1968—Pub. L. 90–487 substituted provisions prohibiting a conflict of interest on the part of inspectors who are interested financially in a grain elevator or in grain merchandising, for provisions covering the separability of provisions of this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1977 Amendment
 

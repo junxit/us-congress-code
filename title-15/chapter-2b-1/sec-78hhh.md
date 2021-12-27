@@ -15,6 +15,8 @@ Each member of SIPC shall file with such member’s examining authority, or coll
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 12 of Pub. L. 91–598 was renumbered section 16 and is classified to section 78lll of this title.

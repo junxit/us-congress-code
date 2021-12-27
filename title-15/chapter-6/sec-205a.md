@@ -23,6 +23,8 @@ The Congress finds as follows:
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Act of July 28, 1866; 14 Stat. 339, referred to in par. (2), is predecessor of R.S. § 3569 authorizing use of the metric system, which is classified to section 204 of this title.
@@ -30,6 +32,8 @@ Act of July 28, 1866; 14 Stat. 339, referred to in par. (2), is predecessor of R
 ### Amendments
 
 1988—Pars. (3) to (7). Pub. L. 100–418 added pars. (3) to (7).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 1996 Amendment
 
@@ -42,6 +46,8 @@ Pub. L. 94–168, § 1, Dec. 23, 1975, 89 Stat. 1007, provided: “That this Act
 ### Congressional Statement of Findings; Metric Conversion in Federal Construction Projects
 
 Pub. L. 104–289, § 2, Oct. 11, 1996, 110 Stat. 3411, provided that: “The Congress finds the following: “(1) The Metric Conversion Act of 1975 [15 U.S.C. 205a et seq.] was enacted in order to set forth the policy of the United States to convert to the metric system. Section 3 of that Act [15 U.S.C. 205b] requires that each Federal agency use the metric system of measurements in its procurement, grants, and other business-related activities, unless that use is likely to cause significant cost or loss of markets to United States firms, such as when foreign competitors are producing competing products in non-metric units. “(2) In accordance with that Act and Executive Order 12770, of July 25, 1991 [set out below], Federal agencies increasingly construct new Federal buildings in round metric dimensions. As a result, companies that wish to bid on Federal construction projects increasingly are asked to supply materials or products in round metric dimensions. “(3) While the Metric Conversion Act of 1975 currently provides an exemption to metric usage when impractical or when such usage will cause economic inefficiencies, amendments are warranted to ensure that the use of specific metric components in metric construction projects do not increase the cost of Federal buildings to the taxpayers.”
+
+### Executive Documents
 
 ### Ex. Ord. No. 12770. Metric Usage in Federal Government Programs
 

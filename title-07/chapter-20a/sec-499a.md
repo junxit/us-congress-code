@@ -31,6 +31,8 @@ section: 499a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 551 of this title.
@@ -38,6 +40,8 @@ Section was formerly classified to section 551 of this title.
 ### Amendments
 
 1995—Subsec. (b)(9). Pub. L. 104–48, § 12(a), inserted at end “A person shall not be deemed to be responsibly connected if the person demonstrates by a preponderance of the evidence that the person was not actively involved in the activities resulting in a violation of this chapter and that the person either was only nominally a partner, officer, director, or shareholder of a violating licensee or entity subject to license or was not an owner of a violating licensee or entity subject to license which was the alter ego of its owners.” Subsec. (b)(11), (12). Pub. L. 104–48, § 2, added pars. (11) and (12). Subsec. (b)(13). Pub. L. 104–48, § 9(a), added par. (13). 1991—Pub. L. 102–237 inserted section catchline, added subsec. (a), designated existing provisions as subsec. (b), and in subsec. (b), inserted heading, substituted “For purposes of this chapter:” for “When used in this chapter—” and periods for semicolons at the end of pars. (1) to (6) and (9). 1981—Pars. (6), (7). Pub. L. 97–98 substituted “$230,000” for “$200,000”. 1978—Par. (6)(B). Pub. L. 95–562, § 1(a)(1), substituted “$200,000” for “$100,000”. Par. (6)(C). Pub. L. 95–562, § 1(b), inserted “other than potatoes” after “commodity”. Par. (7). Pub. L. 95–562, § 1(a)(2), substituted “$200,000” for “$100,000”. 1969—Par. (6)(B). Pub. L. 91–107, § 1, substituted “$100,000” for “$90,000”. Par. (7). Pub. L. 91–107, § 2, substituted “$100,000” for “$90,000”. 1962—Par. (6). Pub. L. 87–725, § 1, substituted “wholesale or jobbing quantities” for “carloads”, the requirement that the dealer’s invoice cost of his purchases in any calendar year exceed $90,000 for the requirement that his purchases in such year exceed 20 carloads, and struck out definition of “in carloads”. Par. (7). Pub. L. 87–725, § 1, excluded from definition of “broker”, persons who are independent agents negotiating sales for vendors and whose sales are of frozen fruits and vegetables having an invoice value not exceeding $90,000 in any calendar year. Pars. (9), (10). Pub. L. 87–725, § 2, added pars. (9) and (10). 1940—Par. (4). Act June 29, 1940, § 1, designated existing provisions as cl. (A) and added cl. (B). Par. (6)(C). Act June 29, 1940, § 2, inserted “, or consists of cherries in brine,” after “ice”. 1937—Par. (6)(C). Act Aug. 20, 1937, inserted “unless such product is frozen or packed in ice within the meaning of paragraph 4 of this section” after “foreign commerce”. 1934—Par. (6)(C). Act Apr. 13, 1934, added cl. (C).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1981 Amendment
 

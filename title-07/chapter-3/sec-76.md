@@ -36,9 +36,13 @@ section: 76
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2020—Subsec. (a)(1). Pub. L. 116–216 substituted “soybeans, mixed” for “soybeans mixed”. 1994—Subsecs. (a) to (c). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing. 1993—Subsec. (a)(1). Pub. L. 103–156, which directed amendment of “Section 4(a)(1)” by substituting “the judgment of the Administrator” for “his judgment”, without specifying the name of the Act being amended, was executed to this section, which is section 4 of the United States Grain Standards Act, to reflect the probable intent of Congress. 1990—Subsec. (b). Pub. L. 101–624, § 2005, designated existing provisions as par. (1) and added par. (2). Subsecs. (c), (d). Pub. L. 101–624, § 2006, added subsec. (c) and redesignated former subsec. (c) as (d). 1985—Subsec. (c). Pub. L. 99–198 added subsec. (c). 1977—Subsec. (a). Pub. L. 95–113 substituted “sorghum” for “grain sorghum”, “standards or procedures” for “standards”, “weight certification and controls” for “weight certification procedures and controls”, and “calibration and maintenance, for grain” for “calibration and maintenance for grain”. 1976—Subsec. (a). Pub. L. 94–582, § 5(a), authorized weighing of grain, designated existing provisions as cl. (1), inserted cl. (2), and reenacted provision for amendment or revocation of standards. Subsec. (b). Pub. L. 94–582, § 5(b), substituted “Administrator” for “Secretary” in two places. 1968—Pub. L. 90–487 substituted provisions authorizing Secretary to establish, amend, and revoke standards for provisions making the use of official standards compulsory, setting out exceptions, and providing for the right of appeal.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1977 Amendment
 

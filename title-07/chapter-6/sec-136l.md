@@ -27,9 +27,13 @@ section: 136l
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1991—Subsec. (a)(2). Pub. L. 102–237 substituted “, except that” for “: Provided, That” and “uses” for “use”. 1988—Subsec. (b)(1). Pub. L. 100–532 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any registrant, commercial applicator, wholesaler, dealer, retailer, or other distributor who knowingly violates any provision of this subchapter shall be guilty of a misdemeanor and shall on conviction be fined not more than $25,000, or imprisoned for not more than one year, or both.” 1978—Subsec. (a)(2). Pub. L. 95–396, § 17(1), authorized assessment of a civil penalty of not more than $500 for a first offense and not more than $1,000 for each subsequent offense against any applicator providing a service of controlling pests for violations of this subchapter. Subsec. (a)(3). Pub. L. 95–396, § 17(2), struck out provision respecting certain considerations when determining amount of penalty, now covered in par. (4). Subsec. (a)(4). Pub. L. 95–396, § 17(4), reenacted second sentence of par. (3) as par. (4) and authorized Administrator to issue a warning in lieu of assessing a penalty. Former par. (4) redesignated (5). Subsec. (a)(5). Pub. L. 95–396, § 17(3), redesignated former par. (4) as (5).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1988 Amendment
 

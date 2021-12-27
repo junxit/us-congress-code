@@ -20,6 +20,8 @@ As used in this subchapter, the term—
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The District of Columbia Nonprofit Corporation Act, referred to in par. (4), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.

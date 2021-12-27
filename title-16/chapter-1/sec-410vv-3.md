@@ -17,6 +17,8 @@ section: 410vv–3
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1998—Pub. L. 105–277 substituted “Marsh-Billings-Rockefeller” for “Marsh-Billings” in section catchline and wherever appearing in subsecs. (a) and (b).

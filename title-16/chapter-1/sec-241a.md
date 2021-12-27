@@ -15,9 +15,13 @@ The following-described lands are made a part of the Theodore Roosevelt National
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act Apr. 25, 1947, ch. 41, 61 Stat. 52, which comprises this subchapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

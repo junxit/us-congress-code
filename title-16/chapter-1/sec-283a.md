@@ -16,6 +16,8 @@ section: 283a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1975—Subsec. (b). Pub. L. 94–174 inserted provisions relating to the exchange of lands in order to provide for an adequate entrance road into the McKittrick Canyon area of the park.

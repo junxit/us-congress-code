@@ -143,6 +143,8 @@ section: 839b
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Ethics in Gov­ernment Act of 1978 was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, § 201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables. The Federal Columbia River Transmission System Act, referred to in subsecs. (c)(10)(A) and (h)(10)(B), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables. The Federal Advisory Committee Act, referred to in subsec. (h)(10)(D)(iii), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -154,6 +156,8 @@ September 30, 1996, referred to in subsec. (h)(10)(D)(i), (ii), was in the origi
 ### Amendments
 
 2011—Subsec. (h)(10)(B). Pub. L. 112–74, which directed amendment of “section 839b(h)(10)(B) of title 16, United States Code” by substituting “$2,500,000” for “$1,000,000”, was executed by making the substitution in subsec. (h)(10)(B) of this section, which is section 4 of the Pacific Northwest Electric Power Planning and Conservation Act, to reflect the probable intent of Congress. 1999—Subsec. (h)(10)(D)(vii), (viii). Pub. L. 106–60 added cl. (vii) and struck out former cls. (vii) and (viii) which read as follows: “(vii) Cost Limitation.—The cost of this provision shall not exceed $2,000,000 in 1997 dollars. “(viii) Expiration.—This paragraph shall expire on September 30, 2000.” 1996—Subsec. (h)(10)(D). Pub. L. 104–206, which directed that subpar. (D) be inserted after subsec. (h)(10)(C) of the Northwest Power Planning and Conservation Act, was executed by adding subsec. (h)(10)(D) to this section, which is from the Pacific Northwest Electric Power Planning and Conservation Act, to reflect the probable intent of Congress. 1994—Subsec. (h)(12)(A). Pub. L. 103–437 substituted “Committees on Energy and Commerce and on Natural Resources” for “Committees on Interstate and Foreign Commerce and on Interior and Insular Affairs”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

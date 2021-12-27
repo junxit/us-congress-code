@@ -65,6 +65,8 @@ section: 3839bb
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Agricultural Adjustment Act, referred to in subsec. (d)(3)(E), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§ 601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 7 and Tables.
@@ -76,6 +78,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 ### Amendments
 
 2018—Subsec. (c)(2)(C). Pub. L. 115–334, § 2404(1), added subpar. (C). Subsec. (e). Pub. L. 115–334, § 2404(2), substituted “2023” for “2018”. 2014—Subsec. (e). Pub. L. 113–79 substituted “2018” for “2012”. 2008—Subsec. (e). Pub. L. 110–246, § 2601, substituted “2012” for “2007”. 2002—Pub. L. 107–171 amended section catchline and text generally. Prior to amendment, section required the Secretary to establish conservation farm option pilot programs for producers of wheat, feed grains, cotton, and rice.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2008 Amendment
 

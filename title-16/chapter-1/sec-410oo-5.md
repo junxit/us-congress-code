@@ -19,9 +19,13 @@ section: 410oo–5
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14(b) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Termination of Advisory Commissions
 

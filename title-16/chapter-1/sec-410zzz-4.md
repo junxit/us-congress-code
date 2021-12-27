@@ -15,6 +15,8 @@ The Saint-Gaudens Memorial having by its active interest preserved for posterity
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2019—Pub. L. 116–9 substituted “National Historical Park” for “National Historic Site”.

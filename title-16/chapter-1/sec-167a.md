@@ -16,9 +16,13 @@ section: 167a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Subsecs. (a) and (b) of this section constitute sections 1 and 2, respectively, of act Aug. 8, 1946.
+
+### Executive Documents
 
 ### Transfer of Functions
 

@@ -30,13 +30,19 @@ section: 717f
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1988—Subsec. (f). Pub. L. 100–474 designated existing provisions as par. (1) and added par. (2). 1978—Subsec. (c). Pub. L. 95–617, § 608(a), (b)(1), designated existing first paragraph as par. (1)(A) and existing second paragraph as par. (1)(B) and added par. (2). Subsec. (e). Pub. L. 95–617, § 608(b)(2), substituted “subsection (c)(1)” for “subsection (c)”. 1947—Subsec. (h). Act July 25, 1947, added subsec. (h). 1942—Subsecs. (c) to (g). Act Feb. 7, 1942, struck out subsec. (c), and added new subsecs. (c) to (g).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 1988 Amendment
 
 Pub. L. 100–474, § 3, Oct. 6, 1988, 102 Stat. 2302, provided that: “The provisions of this Act [amending this section and enacting provisions set out as a note under section 717w of this title] shall become effective one hundred and twenty days after the date of enactment [Oct. 6, 1988].”
+
+### Executive Documents
 
 ### Transfer of Functions
 

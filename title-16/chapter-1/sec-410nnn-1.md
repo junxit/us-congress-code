@@ -21,9 +21,13 @@ section: 410nnn–1
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2009—Pub. L. 111–11, § 7113(a)(3)(B), substituted “National Historical Park” for “National Historic Site” in section catchline. Subsec. (a). Pub. L. 111–11, § 7113(a)(3)(A), (C), substituted “National Historical Park” for “National Historic Site” and “historical park” for “historic site”. Subsec. (b)(1). Pub. L. 111–11, § 7113(b)(1), inserted heading. Pub. L. 111–11, § 7113(a)(3)(A), (C), substituted “historical park” for “historic site” and “National Historical Park” for “National Historic Site”. Subsec. (b)(2). Pub. L. 111–11, § 7113(b)(3), added par. (2). Former par. (2) redesignated (3). Pub. L. 111–11, § 7113(a)(3)(C), substituted “historical park” for “historic site” in two places. Subsec. (b)(3). Pub. L. 111–11, § 7113(b)(4), inserted heading and substituted “Not later than” for “Within” and “maps referred to in paragraphs (1) and (2)” for “map referred to in paragraph (1)”. Pub. L. 111–11, § 7113(b)(2), redesignated par. (2) as (3).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

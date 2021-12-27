@@ -33,6 +33,8 @@ section: 77ddd
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Securities Act of 1933, referred to in subsec. (a)(4), (5), and (10), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables. The National Housing Act, referred to in subsec. (a)(5), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified generally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. Provisions of that act relating to insurance of mortgages are contained in section 1707 et seq. of Title 12. Title XI of the National Housing Act, is classified to subchapter IX–B (§ 1749aaa et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see References in Text note set out under section 1701 of Title 12 and Tables. The Small Business Investment Act of 1958, referred to in subsec. (e), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
@@ -40,6 +42,8 @@ The Securities Act of 1933, referred to in subsec. (a)(4), (5), and (10), is act
 ### Amendments
 
 2010—Subsec. (b). Pub. L. 111–203 substituted “section 2(a) of such Act” for “section 2 of such Act”. 1998—Subsec. (a)(4)(A). Pub. L. 105–353 substituted “(13) of section” for “(14) of subsection”. 1996—Subsec. (a)(4)(A). Pub. L. 104–290 substituted “(11), or (14)” for “or (11)”. 1990—Subsec. (a)(3). Pub. L. 101–550, § 403(1)(A), struck out par. (3) which read as follows: “any security which, prior to or within six months after August 3, 1939, has been sold or disposed of by the issuer or bona fide offered to the public, but this exemption shall not apply to any new offering of any such security by an issuer subsequent to such six months;”. Subsec. (a)(4)(A). Pub. L. 101–550, § 403(1)(B), struck out “, as heretofore amended,” after “1933”. Subsec. (d). Pub. L. 101–550, § 403(2), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Commission may, on application by the issuer and after opportunity for hearing thereon, by order exempt from any one or more of the provisions of this subchapter any security issued or proposed to be issued by a person organized and existing under the laws of a foreign government or a political subdivision thereof, if and to the extent that the Commission finds that compliance with such provision or provisions is not necessary in the public interest and for the protection of investors.” 1980—Subsec. (a)(8). Pub. L. 96–477, § 302(a), substituted “an aggregate principal amount of securities of the same issuer greater than the figure stated in section 3(b) of the Securities Act of 1933 limiting exemptions thereunder, or such lesser amount as the Commission may establish by its rules and regulations” for “more than $250,000 aggregate principal amount of any securities of the same issuer”. Subsec. (a)(9). Pub. L. 96–477, § 302(b), substituted “$10,000,000, or such lesser amount as the Commission may establish by its rules and regulations” for “$1,000,000 or less”, “more than $10,000,000” for “more than $1,000,000”, and inserted “, or such lesser amount as the Commission may establish by its rules and regulations” after “same issuer”. 1970—Subsec. (a)(4). Pub. L. 91–567 designated existing provisions as cl. (A) and added cl. (B). 1966—Subsec. (a)(10). Pub. L. 89–754 added par. (10). 1960—Subsec. (c). Pub. L. 86–760 inserted “or on January 1, 1959, such securities were outstanding”. 1958—Subsec. (e). Pub. L. 85–699 added subsec. (e). 1954—Subsec. (b). Act Aug. 10, 1954, struck out “as heretofore amended,”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 
@@ -52,6 +56,8 @@ Amendment by Pub. L. 91–567 applicable with respect to securities sold after J
 ### Effective Date of 1954 Amendment
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

@@ -17,6 +17,8 @@ In the administration of any Federal disaster loan program under the authority o
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 636a of this title, referred to in text, was repealed by Pub. L. 97–35, title XIX, § 1917, Aug. 13, 1981, 95 Stat. 781. Section 4452 of title 42, referred to in text, was repealed by Pub. L. 93–24, § 7, Apr. 20, 1973, 87 Stat. 25. Section 233 of Public Law 91–606, referred to in text, amended section 1820(a)(2), (f) [now 3720(a)(2), (f)] of Title 38, Veterans’ Benefits.
@@ -24,6 +26,8 @@ Section 636a of this title, referred to in text, was repealed by Pub. L. 97–35
 ### Codification
 
 Section was enacted as part of the Disaster Relief Act of 1970, and not as part of the Small Business Act which comprises this chapter. Section was formerly classified to section 4454 of Title 42, The Public Health and Welfare.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

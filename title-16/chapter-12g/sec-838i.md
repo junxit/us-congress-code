@@ -34,6 +34,8 @@ section: 838i
 
 2 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Executive Order Numbered 8526 dated August 26, 1940, referred to in subsec. (a), is not classified to the Code. The Pacific Northwest Electric Power Planning and Conservation Act, referred to in subsec. (b)(12), is Pub. L. 96–501, Dec. 5, 1980, 94 Stat. 2697, which is classified principally to chapter 12H (§ 839 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 839 of this title and Tables. Section 9105 of title 31, referred to in subsec. (c), was amended generally by Pub. L. 101–576, title III, § 305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, does not contain a subsec. (d).
@@ -45,6 +47,8 @@ In subsec. (c), “chapter 91 of title 31”, “section 9101 of title 31”, an
 ### Amendments
 
 1980—Subsec. (b)(6)(iv). Pub. L. 96–501, § 8(a), added cl. (iv). Subsec. (b)(12). Pub. L. 96–501, § 8(b), added par. (12).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1980 Amendment
 

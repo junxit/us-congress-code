@@ -18,9 +18,13 @@ section: 90b
 
 1 Subsec. (a) designation editorially supplied.
 
+### Editorial Notes
+
 ### Amendments
 
 1988—Subsec. (b). Pub. L. 100–668 added subsec. (b).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Boundary Adjustments for Road
 

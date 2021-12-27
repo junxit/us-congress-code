@@ -24,9 +24,13 @@ section: 80a–3a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Philanthropy Protection Act of 1995, and not as part of the Investment Company Act of 1940 which comprises this subchapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

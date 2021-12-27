@@ -35,13 +35,19 @@ section: 824a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2015—Subsec. (c). Pub. L. 114–94, § 61002(a), designated existing provisions as par. (1) and added pars. (2) to (5). Subsec. (d). Pub. L. 114–94, § 61002(b), inserted “or municipality” before “engaged in the transmission or sale of electric energy”. 1978—Subsec. (g). Pub. L. 95–617 added subsec. (g). 1953—Subsec. (f). Act Aug. 7, 1953, added subsec. (f).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 1978 Amendment
 
 Pub. L. 95–617, title II, § 206(b), Nov. 9, 1978, 92 Stat. 3142, provided that: “The amendment made by subsection (a) [adding subsec. (g) of this section] shall not affect any proceeding of the Commission [Federal Energy Regulatory Commission] pending on the date of the enactment of this Act [Nov. 9, 1978] or any case pending on such date respecting a proceeding of the Commission.”
+
+### Executive Documents
 
 ### Delegation of Functions
 

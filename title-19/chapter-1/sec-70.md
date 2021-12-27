@@ -15,6 +15,8 @@ If the master of any vessel shall obstruct or hinder, or shall intentionally cau
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 R.S. § 3068 derived from act Mar. 2, 1799, ch. 22, § 71, 1 Stat. 678.

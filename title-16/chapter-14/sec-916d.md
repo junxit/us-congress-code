@@ -24,10 +24,14 @@ section: 916d
 
 ## Notes
 
-### Transfer of Functions
-
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.
+### Statutory Notes and Related Subsidiaries
 
 ### Refund of License Fees Paid Under Subchapter I of This Chapter
 
 Act Aug. 9, 1950, ch. 653, § 16, 64 Stat. 425, provided in part that the Secretary of the Interior is authorized to refund any part of a license fee paid under former section 908 of this title that is in excess of the license fee required under this section.
+
+### Executive Documents
+
+### Transfer of Functions
+
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.

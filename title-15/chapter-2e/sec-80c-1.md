@@ -23,9 +23,13 @@ section: 80c–1
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (e). Pub. L. 115–174 added subsec. (e). 2016—Subsec. (a). Pub. L. 114–284 inserted “(acting through the Office of the Advocate for Small Business Capital Formation and in consultation with the Small Business Capital Formation Advisory Committee)” after “the Securities and Exchange Commission”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

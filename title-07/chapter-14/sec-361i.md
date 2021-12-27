@@ -15,6 +15,8 @@ The Congress may at any time, amend, suspend, or repeal any or all of the provis
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 368b of this title. The provisions of section 368b were eliminated from section 361i of this title.

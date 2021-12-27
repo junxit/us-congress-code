@@ -17,6 +17,8 @@ section: 228b
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Navajo Boundary Act of 1934, referred to in subsec. (a), is act June 14, 1934, ch. 521, 48 Stat. 960, which was not classified to the Code.

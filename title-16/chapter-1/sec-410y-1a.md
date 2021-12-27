@@ -15,6 +15,8 @@ The boundaries of the park are revised to include approximately 600 additional a
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the National Parks and Recreation Act of 1978, and not as part of the Chesapeake and Ohio Canal Development Act which comprises this subchapter.

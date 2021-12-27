@@ -21,9 +21,13 @@ The purposes of this subchapter are—
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1998—Pars. (4), (5). Pub. L. 105–277 substituted “Marsh-Billings-Rockefeller” for “Marsh-Billings”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

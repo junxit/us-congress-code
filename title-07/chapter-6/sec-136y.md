@@ -19,6 +19,8 @@ There is authorized to be appropriated to carry out this subchapter (other than 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Another section 1768 of Pub. L. 99–198 enacted sections 154a and 159 and amended sections 151, 154, and 157 of Title 21, Food and Drugs.
@@ -26,6 +28,8 @@ Another section 1768 of Pub. L. 99–198 enacted sections 154a and 159 and amend
 ### Amendments
 
 1988—Pub. L. 100–532 amended section generally. Prior to amendment, section read as follows: “There is authorized to be appropriated to carry out this subchapter for the period beginning October 1, 1985, and ending September 30, 1986, $68,604,200 of which not more than $11,993,100 shall be available for research under this subchapter.” 1985—Pub. L. 99–198 substituted provisions authorizing appropriations of $68,604,200 for fiscal year 1986 of which not more than $11,993,100 shall be available for research for former provisions which had authorized appropriations for fiscal years 1973 through 1984. 1983—Pub. L. 98–201 authorized necessary appropriations for period beginning Oct. 1, 1983, and ending Sept. 30, 1984, not in excess of $64,200,000. 1980—Pub. L. 96–539 inserted provisions authorizing appropriations for period beginning Oct. 1, 1979, and ending Sept. 30, 1980, and for period beginning Oct. 1, 1980, and ending Sept. 30, 1981. 1978—Pub. L. 95–396, § 25, substituted appropriations authorization of $46,636,000 for period beginning Oct. 1, 1976, and ending Sept. 30, 1977, for prior authorization of $23,600,000 for period beginning Oct. 1, 1976, and ending Mar. 31, 1977, and authorized appropriations of $54,500,000 for period beginning Oct. 1, 1977, and ending Sept. 30, 1978, and such sums as may be necessary, limited to $70,000,000, for period beginning Oct. 1, 1978, and ending Sept. 30, 1979. 1975—Pub. L. 94–140 authorized appropriation of $47,868,000 to carry out provisions of this subchapter for period beginning Oct. 1, 1975, and ending Sept. 30, 1976, and $23,600,000 for period beginning Oct. 1, 1976, and ending Mar. 31, 1977. Pub. L. 94–109 inserted provisions authorizing appropriation of $5,983,500 for period beginning Oct. 1, 1975 and ending Nov. 15, 1975. Pub. L. 94–51 authorized appropriation of $11,967,000 to carry out provisions of this subchapter for period beginning July 1, 1975, and ending Sept. 30, 1975.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1988 Amendment
 

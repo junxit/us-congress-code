@@ -35,6 +35,8 @@ section: 773f
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2007—Subsec. (a). Pub. L. 109–479, § 301(a), substituted “$200,000” for “$25,000” and “violator, the degree of culpability, any history of prior offenses,” for “violation, the degree of culpability, and history of prior offenses, ability to pay,” and inserted at end “In assessing such penalty, the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay if the information is provided to the Secretary at least 30 days prior to an administrative hearing.” Subsec. (e). Pub. L. 109–479, § 301(b), added subsec. (e).

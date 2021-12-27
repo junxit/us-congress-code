@@ -16,9 +16,13 @@ section: 77o
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2010—Pub. L. 111–203 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b). 1934—Act June 6, 1934, exempted from liability controlling persons having no knowledge or reasonable grounds for belief.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

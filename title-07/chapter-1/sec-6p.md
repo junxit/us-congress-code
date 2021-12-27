@@ -18,6 +18,8 @@ section: 6p
 
 1 So in original. Probably should be capitalized.
 
+### Editorial Notes
+
 ### Codification
 
 Another section 4p of act Sept. 21, 1922, was renumbered section 4q and is classified to section 6q of this title.
@@ -25,6 +27,8 @@ Another section 4p of act Sept. 21, 1922, was renumbered section 4q and is class
 ### Amendments
 
 2000—Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(11)(A)], substituted “title, contract markets, or derivatives transaction execution facilities” for “title or contract markets”. Subsec. (b). Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(11)(B)], inserted “derivatives transaction execution facility,” after “contract market,”. 1992—Pub. L. 102–546 designated existing provisions as subsec. (a) and added subsec. (b). 1983—Pub. L. 97–444 substituted “persons required to be registered with the Commission” for “futures commission merchants, floor brokers, and those persons associated with futures commission merchants or floor brokers” in first sentence, “customers, clients, pool participants, or other members of the public with whom such individuals deal” for “the customers of futures commission merchants and floor brokers” in last sentence, and in second and third sentences struck out “as futures commission merchants, floor brokers, and those persons associated with futures commission merchants or floor brokers,” after “applicants for registration”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1983 Amendment
 

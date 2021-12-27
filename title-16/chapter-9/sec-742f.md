@@ -62,6 +62,8 @@ section: 742f
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in subsec. (b)(1), is act Aug. 8, 1956, ch. 1036, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables. The National Wildlife Refuge System Administration Act of 1966, referred to in subsecs. (b)(2)(B)(ii) and (d)(2)(B), (C)(i), consists of sections 4 and 5 of Pub. L. 89–699, Oct. 15, 1966, 80 Stat. 927, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under section 668dd of this title.
@@ -70,9 +72,7 @@ This Act, referred to in subsec. (b)(1), is act Aug. 8, 1956, ch. 1036, known as
 
 2018—Subsec. (g). Pub. L. 115–168 substituted “2018 through 2022” for “2011 through 2014”. 2011—Subsec. (b)(2)(B)(ii). Pub. L. 111–357, § 2(b), substituted “National Wildlife Refuge System Administration Act of 1966” for “National Wildlife Refuge Administration Act of 1966”. Subsec. (d)(2)(C)(i). Pub. L. 111–357, § 2(b), substituted “National Wildlife Refuge System Administration Act of 1966” for “National Wildlife Refuge Administration Act of 1966”. Subsec. (f). Pub. L. 111–357, § 4(a)(2), added subsec. (f). Former subsec. (f) redesignated (g). Pub. L. 111–357, § 2(a), amended subsec. (f) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), and (e) of this section $2,000,000 for each of fiscal years 2004 through 2009.” Subsec. (g). Pub. L. 111–357, § 4(a)(1), redesignated subsec. (f) as (g). 2004—Subsec. (d)(2)(A). Pub. L. 108–327, § 4, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Interior may enter into a cooperative agreement (within the meaning of chapter 63 of title 31) with any partner organization, academic institution, or State or local government agency to carry out 1 or more projects or programs for a refuge or complex of geographically related refuges in accordance with this subsection.” Subsec. (f). Pub. L. 108–327, § 2, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), and (e) of this section $2,000,000 for each of fiscal years 1999 through 2004.” 1998—Subsec. (b)(2). Pub. L. 105–242, § 3, inserted par. (2) heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B). Subsec. (c)(2). Pub. L. 105–242, § 4(b), inserted “awards (including nominal cash awards) and recognition,” after “lodging,” and “without regard to their places of residence” after “volunteers”. Subsec. (c)(6). Pub. L. 105–242, § 4(c), added par. (6) and struck out former par. (6) which read as follows: “There are authorized to be appropriated to carry out this subsection $100,000 for the Secretary of the Interior and $50,000 for the Secretary of Commerce for each of the fiscal years 1980, 1981, 1982, 1983, 1984, 1985, and 1986.” Subsecs. (d) to (f). Pub. L. 105–242, §§ 5–7, added subsecs. (d) to (f). 1984—Subsec. (c)(6). Pub. L. 98–498 substituted “1984, 1985, and 1986” for “and 1984”. 1983—Subsec. (c)(6). Pub. L. 98–44 substituted “, 1983, and 1984” for “and 1983”. 1982—Subsec. (c)(6). Pub. L. 97–347 substituted “1982 and 1983” for “and 1982”. 1978—Subsec. (a)(4). Pub. L. 95–616, § 4(1), reenacted existing provisions, substituting reference to fish resources for prior reference to fisheries resources and incorporated provisions of par. (5) relating to wildlife resources, substituting reference to acquisition by purchase or exchange of land and water for prior reference to acquisition of refuge lands. Subsec. (a)(5). Pub. L. 95–616, § 4(1), struck out par. (5) relating to wildlife resources. See par. (4). Subsecs. (b), (c). Pub. L. 95–616, § 4(3), added subsecs. (b) and (c).
 
-### Transfer of Functions
-
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.
+### Statutory Notes and Related Subsidiaries
 
 ### Congressional Findings and Purposes
 
@@ -81,3 +81,9 @@ Pub. L. 105–242, § 2, Oct. 5, 1998, 112 Stat. 1574, provided that: “(a) Fin
 ### Pilot Projects
 
 Pub. L. 105–242, § 4(a), Oct. 5, 1998, 112 Stat. 1575, as amended, formerly set out as a note under this section, was transferred and is classified to section 742f–1 of this title.
+
+### Executive Documents
+
+### Transfer of Functions
+
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.

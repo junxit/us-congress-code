@@ -24,9 +24,13 @@ section: 13a–2
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Par. (1). Pub. L. 106–554 inserted “derivatives transaction execution facility,” after “contract market,”. 1992—Pars. (1), (8)(A). Pub. L. 102–546 inserted reference to floor trader. 1983—Par. (8). Pub. L. 97–444 added par. (8).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1992 Amendment
 

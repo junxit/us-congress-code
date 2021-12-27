@@ -34,6 +34,8 @@ section: 313d
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This section, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 109–430, Dec. 20, 2006, 120 Stat. 2918, which enacted this section and provisions set out as notes under this section and section 311 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under section 311 of this title and Tables.
@@ -41,6 +43,8 @@ This section, referred to in subsec. (e), was in the original “this Act”, me
 ### Amendments
 
 2019—Subsec. (b)(1)(A). Pub. L. 115–423, § 2(a)(1)(A), substituted “, including precipitation, soil moisture, and evaporative demand, in order to make usable, reliable, and timely forecasts of drought and” for “in order to make usable, reliable, and timely forecasts of drought, including”. Subsec. (b)(3). Pub. L. 115–423, § 2(a)(1)(B), inserted “watershed,” after “regional,”. Subsec. (b)(4). Pub. L. 115–423, § 2(a)(1)(C), inserted “, through interagency agreements” after “integrate”and “information” after “warning”. Subsec. (b)(5). Pub. L. 115–423, § 2(a)(1)(D), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “build upon existing forecasting and assessment programs and partnerships, including through the designation of one or more cooperative institutes to assist with National Integrated Drought Information System functions; and”. Subsec. (b)(6). Pub. L. 115–423, § 2(a)(1)(E), inserted “the prediction,” after “relating to”. Subsec. (c). Pub. L. 115–423, § 2(a)(3), added subsec. (c). Former subsec. (c) redesignated (d). Subsec. (d). Pub. L. 115–423, § 2(a)(2), (4), redesignated subsec. (c) as (d) and inserted “and sustainment” after “development”. Former subsec. (d) redesignated (e). Subsec. (e). Pub. L. 115–423, § 2(a)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f). Subsec. (f). Pub. L. 115–423, § 2(a)(5), added subsec. (f) and struck out former subsec. (f), which related to report by Under Secretary to congressional committees regarding National Integrated Drought Information System program not later than 18 months after Mar. 6, 2014. Pub. L. 115–423, § 2(a)(2), redesignated subsec. (e) as (f). 2014—Subsec. (a). Pub. L. 113–86, § 2(1), inserted “to better inform and provide for more timely decisionmaking to reduce drought related impacts and costs” before period at end. Subsec. (b). Pub. L. 113–86, § 2(2), added subsec. (b) and struck out former subsec. (b) which set out required functions of the National Integrated Drought Information System. Subsec. (e). Pub. L. 113–86, § 2(3), added subsec. (e).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Authorization of Appropriations
 

@@ -29,10 +29,14 @@ When used in this chapter, unless the context otherwise requires—
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2005—Par. (11). Pub. L. 109–58 added par. (11). 1992—Par. (10). Pub. L. 102–486 added par. (10).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Termination of Federal Power Commission; Transfer of Functions
 
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.

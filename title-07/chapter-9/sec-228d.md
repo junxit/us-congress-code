@@ -19,6 +19,8 @@ Not later than March 1 of each year, the Secretary shall submit to Congress and 
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 415 of act Aug. 15, 1921, was renumbered section 417 and is classified to section 229c of this title.

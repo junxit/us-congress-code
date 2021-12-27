@@ -16,9 +16,13 @@ section: 832k
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1946—Subsec. (b). Act July 26, 1946, took from the Administrator the authority to make settlement of suits. 1945—Act Oct. 23, 1945, added subsec. (a), designated existing provisions as subsec. (b), and amended such provisions generally.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Functions
 

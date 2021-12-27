@@ -16,6 +16,8 @@ section: 396c
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Subsec. (a). Pub. L. 106–510 substituted “Haleakala̅ National Park” for “Haleakala National Park”.

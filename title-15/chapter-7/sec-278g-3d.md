@@ -18,9 +18,13 @@ section: 278g–3d
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Internet of Things Cybersecurity Improvement Act of 2020, also known as the IoT Cybersecurity Improvement Act of 2020, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definitions
 

@@ -19,6 +19,8 @@ section: 347a
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 8 of act May 8, 1914, was renumbered section 9 and is classified to section 348 of this title.

@@ -11,4 +11,4 @@ section: 747b
 
 ### removalDescription
 
-Section, act Feb. 25, 1929, ch. 313, § 1, 45 Stat. 1261; 1939 Reorg. Plan No. II, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938, related to lighthouse keepers; traveling expenses incurred in obtaining medical attention.
+Section, act Feb. 25, 1929, ch. 313, § 1, 45 Stat. 1261; 1939 Reorg. Plan No. II, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938, related to traveling expenses incurred by lighthouse keepers at isolated stations in obtaining medical attention.

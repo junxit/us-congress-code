@@ -15,6 +15,8 @@ On and after July 5, 1952, the Secretary may contract with cooperatives furnishi
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Department of Agriculture Appropriation Act, 1953, and not as part of the United States Cotton Standards Act which comprises this chapter.

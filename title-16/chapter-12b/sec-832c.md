@@ -20,9 +20,13 @@ section: 832c
 
 1 So in original. Probably should be “subsection”.
 
+### Editorial Notes
+
 ### Amendments
 
 1940—Subsec. (b). Act Mar. 6, 1940, substituted “January 1, 1942” for “January 1, 1941” wherever appearing.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Functions
 

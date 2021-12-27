@@ -16,9 +16,13 @@ section: 694c
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1988—Pub. L. 100–590 designated existing provisions as subsec. (a) and added subsec. (b). 1980—Pub. L. 96–302 repealed investment of idle funds provision, which is covered in section 694–2 of this title. 1977—Pub. L. 95–89 prohibited payment of administrative expenses from the fund and deleted provisions which authorized: a $110,000,000 appropriation of capital for the fund; and payment during the fiscal year into the Treasury as miscellaneous receipts, from the fund, of interest on the cumulative amount of appropriations available as capital to the fund less the average undisbursed cash balance in the fund during the year. Pub. L. 95–14 substituted “$110,000,000” for “$56,500,000”. 1976—Pub. L. 94–305 substituted “$56,500,000” for “$35,000,000”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1988 Amendment
 

@@ -35,9 +35,13 @@ section: 824d
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (g). Pub. L. 115–270 added subsec. (g). 1978—Subsec. (d). Pub. L. 95–617, § 207(a), substituted “sixty” for “thirty” in two places. Subsec. (f). Pub. L. 95–617, § 208, added subsec. (f).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Study of Electric Rate Increases Under Federal Power Act
 

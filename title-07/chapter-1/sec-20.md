@@ -19,9 +19,13 @@ section: 20
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Subsec. (e). Pub. L. 106–554 added subsec. (e). 1983—Subsec. (d). Pub. L. 97–444 prohibited disclosure of market positions.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1983 Amendment
 

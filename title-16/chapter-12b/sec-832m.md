@@ -31,9 +31,13 @@ section: 832m
 
 1 So in original. No par. (2) has been enacted.
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Energy and Water Development Appropriations Act, 1996, and not as part of the Bonneville Project Act of 1937 which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Voluntary Separation Incentives to Employees
 

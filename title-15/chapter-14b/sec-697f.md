@@ -53,6 +53,8 @@ section: 697f
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 For definition of “this chapter”, referred to in subsec. (a)(1), see References in Text note set out under section 661 of this title. Public Law 103–317, referred to in subsec. (a)(2)(B)(iii), is Pub. L. 103–317, Aug. 26, 1994, 108 Stat. 1724, known as the Departments of Commerce, Justice, and State, The Judiciary, and Related Agencies Appropriations Act, 1995. For complete classification of this Act to the Code, see Tables. The Small Business Prepayment Penalty Relief Act of 1994, referred to in subsec. (g), is title V of Pub. L. 103–403, Oct. 22, 1994, 108 Stat. 4198, which enacted this section and provisions set out as notes under this section and section 661 of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 661 of this title and Tables.
@@ -60,6 +62,8 @@ For definition of “this chapter”, referred to in subsec. (a)(1), see Referen
 ### Amendments
 
 1996—Subsec. (a)(1). Pub. L. 104–208, § 208(h)(1)(H)(i), struck out at end “A small business investment company operating under the authority of section 681(d) of this title that has issued a debenture that was purchased by and is held by the Administration, may, under the same terms and conditions, prepay such debenture, and the penalty as provided in this section, and shall thereafter be immediately eligible to apply for additional assistance from the Administration.” Subsec. (e)(1)(B). Pub. L. 104–208, § 208(h)(1)(H)(ii), substituted “section 681 of this title” for “subsection (c) or (d) of section 681 of this title”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Intention of Congress
 

@@ -25,6 +25,8 @@ In this subchapter:
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -32,6 +34,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 ### Amendments
 
 2008—Par. (4). Pub. L. 110–246, § 6026(a), inserted “Missouri (other than counties included in the Delta Regional Authority),” after “Minnesota,”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2008 Amendment
 

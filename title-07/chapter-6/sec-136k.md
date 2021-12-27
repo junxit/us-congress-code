@@ -26,6 +26,8 @@ section: 136k
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 13 of act June 25, 1947, was classified to section 135k of this title prior to amendment of act June 25, 1947, by Pub. L. 92–516.
@@ -33,6 +35,8 @@ A prior section 13 of act June 25, 1947, was classified to section 135k of this 
 ### Amendments
 
 1988—Subsec. (b). Pub. L. 100–532, § 801(h)(1), directed that sentence beginning “In the case of” be moved from par. (3) and become a full measure sentence after par. (3). Subsec. (c). Pub. L. 100–532, § 801(h)(2), substituted “sold. On” for “sold: Provided, That upon”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1988 Amendment
 

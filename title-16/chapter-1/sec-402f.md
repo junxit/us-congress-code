@@ -15,6 +15,8 @@ For the purpose of preserving in their natural state the outstanding scenic feat
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Amendments
 
 1942—Act Mar. 7, 1942, corrected description of portions of the land.

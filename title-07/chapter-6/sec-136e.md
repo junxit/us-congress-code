@@ -23,6 +23,8 @@ section: 136e
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 7 of act June 25, 1947, was classified to section 135e of this title prior to amendment of act June 25, 1947, by Pub. L. 92–516.
@@ -30,6 +32,8 @@ A prior section 7 of act June 25, 1947, was classified to section 135e of this t
 ### Amendments
 
 1991—Subsec. (b). Pub. L. 102–237, § 1006(b)(1), substituted “the Administrator” for “he” before “shall”. Subsec. (c)(1)(A) to (C). Pub. L. 102–237, § 1006(b)(3)(F), substituted “the producer” for “he”. Subsec. (c)(2). Pub. L. 102–237, § 1006(b)(3)(G), substituted “the Administrator” for “him” after “inform” and “the producer” for “he”. 1978—Subsec. (a). Pub. L. 95–396, § 13(1), made requirement of registration applicable to production of active ingredient used in producing a pesticide subject to this subchapter. Subsec. (c)(1). Pub. L. 95–396, § 13(2), required information pertaining to types and amounts of active ingredients used in producing pesticides where applicable. Subsec. (d). Pub. L. 95–396, § 13(3), considered names of pesticides or active ingredients used in producing pesticides produced, sold, or distributed at an establishment as not being confidential information.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

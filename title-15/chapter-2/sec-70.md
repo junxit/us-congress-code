@@ -32,9 +32,13 @@ As used in this subchapter—
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Wool Products Labeling Act of 1939, referred to in subsec. (h)(3), is act Oct. 14, 1940, ch. 871, 54 Stat. 1128, as amended, which is classified generally to subchapter III (§ 68 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 68 of this title and Tables.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

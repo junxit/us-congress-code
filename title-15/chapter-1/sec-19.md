@@ -26,6 +26,8 @@ section: 19
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The antitrust laws, referred to in subsec. (a)(1)(B), are defined in section 12 of this title.

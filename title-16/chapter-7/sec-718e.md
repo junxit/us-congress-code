@@ -21,9 +21,13 @@ section: 718e
 
 1 So in original. Probably should be “504(1)(D)”.
 
+### Editorial Notes
+
 ### Amendments
 
 2006—Pub. L. 109–266, § 10(f)(1), inserted section catchline. Subsec. (a). Pub. L. 109–266, § 10(f)(1), inserted heading and substituted “Migratory Bird Hunting and Conservation Stamp” for “migratory-bird hunting stamp” in text. Subsec. (b). Pub. L. 109–266, § 10(f)(2), inserted heading and substituted “Except as provided in clauses (i) and (ii) of section 504(l)(D) of title 18, no person shall alter” for “Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no person shall alter” in text. Subsec. (c). Pub. L. 109–266, § 10(f)(3)(C)(ii), which directed substitution of “shall be paid, after deducting expenses for marketing, into the Migratory Bird Conservation Fund” for “shall be paid into the migratory bird conservation fund” in concluding provisions, was executed by making the substitution for “shall be paid, after deducting expenses for marketing, into the migratory bird conservation fund” to reflect the probable intent of Congress. Pub. L. 109–266, § 10(f)(3)(A), (B), (C)(i), inserted heading, substituted “Secretary may” for “Secretary of the Interior may” in introductory provisions, and substituted “Secretary” for “Secretary of the Interior” and “Migratory Bird Hunting and Conservation Stamps” for “migratory bird hunting stamps” in concluding provisions. 1988—Subsec. (c). Pub. L. 100–653 inserted “, after deducting expenses for marketing,” after “paid”. 1984—Subsec. (b). Pub. L. 98–369, § 1077(b)(3), substituted “Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no person” for “No person”. Subsec. (c). Pub. L. 98–369, § 1077(a), added subsec. (c). 1935—Act June 15, 1935, amended section generally.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1984 Amendment
 

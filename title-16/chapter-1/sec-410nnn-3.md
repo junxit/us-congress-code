@@ -15,6 +15,8 @@ Within the historical park, the Secretary is authorized to acquire lands and int
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2009—Pub. L. 111–11 substituted “historical park” for “historic site”.

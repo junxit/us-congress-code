@@ -32,9 +32,13 @@ section: 78j–2
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsec. (c)(1), was in the original “this title”. See References in Text note set out under section 78a of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

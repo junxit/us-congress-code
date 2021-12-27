@@ -22,6 +22,8 @@ section: 832a
 
 1 So in original. Probably should be “cancellation”.
 
+### Editorial Notes
+
 ### Codification
 
 Provisions of the first par. of subsec. (a) which prescribed the compensation of the Administrator were omitted as compensation of the Administrator is prescribed by section 5316 of Title 5, Government Organization and Employees.
@@ -29,6 +31,8 @@ Provisions of the first par. of subsec. (a) which prescribed the compensation of
 ### Amendments
 
 1945—Subsec. (a). Act Oct. 23, 1945, § 5, struck out provisions relating to the appointment and compensation of an Assistant Administrator, chief engineer and general counsel and to the powers and duties of the Assistant Administrator. See section 832i of this title. Subsec. (f). Act Oct. 23, 1945, § 1, substituted “is authorized to enter into such contracts, agreements, and arrangements, including the amendment, modification, adjustment, or cancelation thereof and the compromise or final settlement of any claim arising thereunder, and to make such expenditures, upon such terms and conditions and in such manner as he may deem necessary” for “is authorized, in the name of the United States, to negotiate and enter into such contracts, agreements, and arrangements as he shall find necessary or appropriate to carry out the purposes of this chapter”. 1940—Subsec. (a). Act Mar. 6, 1940, inserted provisions relating to jurisdiction and functions of administrator.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 
@@ -40,4 +44,10 @@ Act Mar. 6, 1940, ch. 47, § 1, 54 Stat. 47, cited as a credit to this section, 
 
 ### Transfer of Functions
 
-In subsec. (a), “Secretary of Energy” substituted for “Secretary of the Interior” in five places and “Department of Energy” substituted for “Department of the Interior” pursuant to Pub. L. 95–91, § 302(a)(1)(D), (2), which is classified to section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, and which transferred functions of Secretary of the Interior with respect to Bonneville Power Administration to Secretary of Energy, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator. Provisions of the second sentence of the second par. of subsec. (a), which related to the advisory board and its composition, were omitted pursuant to Reorg. Plan No. 4 of 1965, §§ 11(c) and 13(a), set out in the Appendix to Title 5, Government Organization and Employees, which abolished the advisory board and transferred its functions, including the functions of the chairman and other officers, to the Secretary of the Interior. For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+In subsec. (a), “Secretary of Energy” substituted for “Secretary of the Interior” in five places and “Department of Energy” substituted for “Department of the Interior” pursuant to Pub. L. 95–91, § 302(a)(1)(D), (2), which is classified to section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, and which transferred functions of Secretary of the Interior with respect to Bonneville Power Administration to Secretary of Energy, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
+
+### Executive Documents
+
+### Transfer of Functions
+
+Provisions of the second sentence of the second par. of subsec. (a), which related to the advisory board and its composition, were omitted pursuant to Reorg. Plan No. 4 of 1965, §§ 11(c) and 13(a), set out in the Appendix to Title 5, Government Organization and Employees, which abolished the advisory board and transferred its functions, including the functions of the chairman and other officers, to the Secretary of the Interior. For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.

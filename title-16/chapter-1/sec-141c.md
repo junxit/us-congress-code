@@ -16,6 +16,8 @@ section: 141c
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Subsecs. (a) and (b) of this section constitute sections 1 and 2, respectively, of act June 16, 1938.

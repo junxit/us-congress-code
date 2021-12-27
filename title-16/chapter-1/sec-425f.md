@@ -15,6 +15,8 @@ It shall be lawful for the authorities of any State having had troops engaged in
 
 ## Notes
 
+### Executive Documents
+
 ### Transfer of Functions
 
 Transfer of administrative functions of park, see note set out under section 425 of this title.

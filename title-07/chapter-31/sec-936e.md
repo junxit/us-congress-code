@@ -18,9 +18,13 @@ section: 936e
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” in heading of subsec. (d) and wherever appearing in text. 1993—Pub. L. 103–201 inserted “certain” before “electric” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Administrator may not require prior approval of, impose any requirement, restriction, or prohibition with respect to the operations of, or deny or delay the granting of a lien accommodation to, any electric borrower under this chapter whose net worth exceeds 110 percent of the outstanding principal balance on all loans made or guaranteed to the borrower by the Administrator.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Regulations
 

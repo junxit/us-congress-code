@@ -19,6 +19,8 @@ section: 87j
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The enactment of this section, referred to in subsec. (a), means Oct. 24, 1988, the date of enactment of Pub. L. 100–518. The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -26,6 +28,8 @@ The enactment of this section, referred to in subsec. (a), means Oct. 24, 1988, 
 ### Amendments
 
 2020—Subsec. (a). Pub. L. 116–216, § 7(1), in last sentence, substituted “successively for more than 2 terms” for “successive terms”. Subsec. (e). Pub. L. 116–216, § 7(2), substituted “2025” for “2020”. 2015—Subsec. (e). Pub. L. 114–54 substituted “2020” for “2015”. 2005—Subsec. (e). Pub. L. 109–83 substituted “2015” for “2005”. 2000—Subsec. (e). Pub. L. 106–472 substituted “2005” for “2000”. 1994—Subsecs. (a), (c). Pub. L. 103–354 substituted “Secretary” for “Administrator”. 1993—Subsec. (a). Pub. L. 103–156, § 13(b)(1), struck out “(1)” before “Not later than” and struck out par. (2) which read as follows: “To ensure a smooth transition, the advisory committee established under section 87i of this title (as in effect prior to October 1, 1988) shall continue in existence until all members of the advisory committee established under this section are appointed; and the Secretary may appoint members of the advisory committee established under section 87i of this title to serve on the advisory committee established under this section, without regard to the time of service of such members on the advisory committee established under section 87i of this title.” Subsec. (e). Pub. L. 103–156, § 14(c), added subsec. (e).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2000 Amendment
 

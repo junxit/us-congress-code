@@ -61,9 +61,13 @@ section: 78pp
 
 1 So in original. Section 5703 of Title 5 does not contain a subsec. (b).
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

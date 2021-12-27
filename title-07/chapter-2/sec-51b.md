@@ -15,6 +15,8 @@ Further to carry out the purposes of this chapter the Secretary of Agriculture i
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 This section was not enacted as part of the United States Cotton Standards Act which comprises this chapter.

@@ -16,6 +16,8 @@ section: 971f
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2015—Subsec. (a). Pub. L. 114–81, § 107(3), added subsec. (a) and struck out former subsec. (a) which related to particular powers of persons authorized to enforce the provisions of this chapter and the regulations issued thereunder. Subsec. (b). Pub. L. 114–81, § 107(4), substituted “enforcement activities with respect to this chapter that are otherwise authorized by law” for “the enforcement activities specified in subsection (a) of this section” in two places. Subsec. (c). Pub. L. 114–81, § 107(3)(A), struck out subsec. (c) which related to bonds or stipulations.

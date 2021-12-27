@@ -15,6 +15,8 @@ All hunting, or the killing, wounding, or capturing at any time of any bird or w
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in text, is act May 7, 1894, which is classified to sections 24 to 30a of this title. For complete classification of this Act to the Code, see Tables.

@@ -28,6 +28,8 @@ Except as otherwise specifically provided in this chapter, the Corporation—
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 “Sections 3114, 3115, and 3118 of title 40” substituted in subsec. (i) for “the Act of February 26, 1931 (46 Stat. 1422, ch. 307, secs. 1 to 5, inclusive), as now compiled in section 258a to 258e, inclusive, of Title 40 of the United States Code” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works. Subsec. (j), last sentence, directed the directors of the Authority to report their recommendations to Congress not later than April 1, 1936, and has been omitted as executed.
@@ -35,6 +37,8 @@ Except as otherwise specifically provided in this chapter, the Corporation—
 ### Amendments
 
 2004—Subsecs. (f), (i). Pub. L. 108–447 substituted “Board” for “board” wherever appearing. 1972—Subsec. (f). Pub. L. 92–310 struck out provisions which required the treasurer and assistant treasurers to give bonds for the safekeeping of securities and moneys of the Corporation. 1941—Subsec. (k). Act July 18, 1941, amended subsec. (k) generally. 1935—Subsec. (i). Act Aug. 31, 1935, § 1, inserted proviso. Subsec. (j). Act Aug. 31, 1935, § 2, amended subsec. (j) generally. Subsec. (k). Act Aug. 31, 1935, § 3, added subsec. (k). Subsec. (l). Act Aug. 31, 1935, § 13, added subsec. (l).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 
@@ -47,6 +51,8 @@ Amendment by Pub. L. 108–447 effective on the later of the date on which at le
 ### Release of Use Restrictions
 
 Pub. L. 113–121, title VI, § 6005(h), June 10, 2014, 128 Stat. 1360, provided that: “Notwithstanding any other provision of law, the Tennessee Valley Authority shall, without monetary consideration, grant releases from real estate restrictions established pursuant to section 4(k)(b) of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831c(k)(b)) with respect to tracts of land identified in section 4(k)(b) of that Act, subject to the condition that such releases shall be granted in a manner consistent with applicable Tennessee Valley Authority policies.”
+
+### Executive Documents
 
 ### Delegation of Functions
 

@@ -16,9 +16,13 @@ section: 278i
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Subsecs. (c), (d). Pub. L. 114–329 struck out subsecs. (c) and (d) which required the Director to submit to Congress a 3-year programmatic planning document for the Institute and annual updates. 2007—Subsecs. (c), (d). Pub. L. 110–69 added subsecs. (c) and (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

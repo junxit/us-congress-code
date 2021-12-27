@@ -32,6 +32,8 @@ section: 77kkk
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 25(a) of the Federal Reserve Act, as amended, referred to in subsec. (b)(5), which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
@@ -40,9 +42,13 @@ Section 25(a) of the Federal Reserve Act, as amended, referred to in subsec. (b)
 
 2010—Subsec. (c). Pub. L. 111–203 struck out subsec. (c) which related to issue or sale of securities by a registered holding company. 1990—Subsec. (a). Pub. L. 101–550, § 409(1)–(4), struck out “the indenture to be qualified shall provide that” before “if” in first par., substituted “If” for “The indenture to be qualified shall provide that, if” in third par., substituted “three months” for “four months” and “three months’ ” for “four months’ ” wherever appearing, and inserted at end “In any case commenced under the Bankruptcy Act of July 1, 1898, or any amendment thereto enacted prior to November 6, 1978, all references to periods of three months shall be deemed to be references to periods of four months.” Subsec. (b). Pub. L. 101–550, § 409(5), substituted “shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “may”.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+### Executive Documents
 
 ### Transfer of Functions
 

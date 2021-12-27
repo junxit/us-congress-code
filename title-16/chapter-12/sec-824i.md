@@ -38,6 +38,8 @@ section: 824i
 
 1 So in original. The period probably should be a comma.
 
+### Editorial Notes
+
 ### Amendments
 
 1980—Subsec. (a)(1). Pub. L. 96–294 added applicability to geothermal power producers.

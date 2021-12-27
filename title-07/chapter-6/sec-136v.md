@@ -21,6 +21,8 @@ section: 136v
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
@@ -28,6 +30,8 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is act 
 ### Amendments
 
 1988—Pub. L. 100–532, § 801(m), inserted headings for subsecs. (a) to (c) and realigned margins of pars. (1) to (4) of subsec. (c). 1978—Subsec. (a). Pub. L. 95–396 inserted “federally registered” before “pesticide or device”. Subsec. (b). Pub. L. 95–396 substituted “labeling or packaging” and “required under” for “labeling and packaging” and “required pursuant to”, respectively. Subsec. (c)(1). Pub. L. 95–396 incorporated existing text in provisions designated par. (1) and substituted “registration for additional uses of federally registered pesticides” for “registration for pesticides”. Subsec. (c)(2). Pub. L. 95–396 incorporated existing text in provisions designated par. (2), conditioned disapproval of registration on communication of intention to disapprove and reasons for disapproval and provision for time to respond, and restricted authority of Administrator to prohibit or disapprove a State registration. Subsec. (c)(3). Pub. L. 95–396 added par. (3). Subsec. (c)(4). Pub. L. 95–396 incorporated existing text in provisions designated par. (4) and authorized suspension of registration authority of the State based on findings of inability or failure to exercise adequate controls following an indication of intention to suspend and reasons for the suspension and provision for time to respond.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1988 Amendment
 

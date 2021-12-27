@@ -15,9 +15,13 @@ The Secretary of the Interior is authorized to accept donations of land, interes
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 “Section 3113 of title 40” substituted in text for “the Act of August 1, 1888 (U.S.C., title 40, secs. 257, 258; 25 Stat. 357)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works. Section was formerly classified to section 443b of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

@@ -25,6 +25,8 @@ section: 410ww
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Subsec. (b)(5). Pub. L. 114–328 substituted “National Museum” for “Aviation Center”. 2009—Subsec. (c). Pub. L. 111–11 added subsec. (c). 2000—Subsec. (b). Pub. L. 106–356 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The park shall consist of the following sites, as generally depicted on a map entitled ‘Proposed Dayton Aviation Heritage National Historical Park’, numbered NHP–DAH 80,000, and dated February 1992: “(1) A core parcel in Dayton, Ohio, which shall consist of the Wright Cycle Company Building, Hoover Block, and lands between. “(2) Huffman Prairie Flying Field, Wright-Patterson Air Force Base, Ohio. “(3) The Wright 1905 Flyer and Wright Hall, Dayton, Ohio. “(4) The Paul Laurence Dunbar home, Dayton, Ohio.”
@@ -32,6 +34,8 @@ section: 410ww
 ### Short Title of 2000 Amendment
 
 Pub. L. 106–356, § 1, Oct. 24, 2000, 114 Stat. 1391, provided that: “This Act [amending this section and sections 410ww–6 and 410ww–8 of this title] may be cited as the ‘Dayton Aviation Heritage Preservation Amendments Act of 2000’.”
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

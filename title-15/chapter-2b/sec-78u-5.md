@@ -79,9 +79,13 @@ section: 78u–5
 
 1 So in original. The semicolon probably should be a comma.
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsecs. (c)(1), (f), and (g), was in the original “this title”. See References in Text note set out under section 78a of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

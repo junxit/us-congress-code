@@ -25,6 +25,8 @@ It shall be unlawful in or in connection with any transaction in interstate or f
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 552 of this title.

@@ -15,9 +15,13 @@ The Secretary of the Interior be, and he is, authorized and directed to transfer
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of act July 3, 1930, ch. 837, 46 Stat. 855, which comprises this subchapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Sewage-Disposal System for Yorktown Area
 

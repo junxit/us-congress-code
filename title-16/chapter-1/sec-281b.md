@@ -22,6 +22,8 @@ The Nez Perce Tribe’s governing body, if it so desires, with the approval of t
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1992—Pub. L. 102–576 substituted provisions relating to acquisition of lands or interest therein owned by State or political subdivision of State and provisions relating to acquisition of sites designated as components of park after Nov. 1, 1991, for proviso in first sentence limiting amount of land which may be purchased in fee to 1,500 acres and amount of scenic easements which may be purchased to 1,500 acres.

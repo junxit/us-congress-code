@@ -15,9 +15,13 @@ Any person who shall neglect or refuse to attend and testify, or to answer any l
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1980—First par. Pub. L. 96–252 inserted “any” after “produce” and “an order of a district court of the United States directing compliance with” after “obedience to”. 1975—Second par. Pub. L. 93–637, § 203(c)(1), substituted “person, partnership, or corporation” for “corporation” wherever appearing. Third par. Pub. L. 93–637, § 203(c)(2), substituted “If any persons, partnership, or corporation” for “If any corporation”, and “in the case of a corporation or partnership in the district where the corporation or partnership has its principal office or in any district in which it shall do business, and in the case of any person in the district where such person resides or has his principal place of business” for “in the district where the corporation has its principal office or in any district in which it shall do business”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 
@@ -26,6 +30,8 @@ Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys”
 ### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–252 effective May 28, 1980, see section 23 of Pub. L. 96–252, set out as a note under section 45 of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

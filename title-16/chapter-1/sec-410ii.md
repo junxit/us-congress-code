@@ -20,9 +20,13 @@ section: 410ii
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1995—Subsec. (b). Pub. L. 104–11 substituted “San Juan Basin and surrounding areas” for “San Juan Basin”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 2004 Amendment
 

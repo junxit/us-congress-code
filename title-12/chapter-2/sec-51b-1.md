@@ -25,7 +25,7 @@ Section 51d of this title, referred to in text, which was section 304 of the Eme
 
 1980—Pub. L. 96–221 struck out limitation on payment of cumulative dividends at a rate not exceeding 6 per centum per annum.
 
-### Statutory Notes and Related Subsidiaries
+### Executive Documents
 
 ### Exception as to Transfer of Functions
 

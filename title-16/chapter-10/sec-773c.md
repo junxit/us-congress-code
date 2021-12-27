@@ -19,9 +19,13 @@ section: 773c
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1996—Subsec. (c). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1853(b)(6) of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1996 Amendment
 

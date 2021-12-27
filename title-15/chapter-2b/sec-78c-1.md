@@ -22,6 +22,8 @@ section: 78c–1
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 This chapter, referred to in subsec. (b)(2) to (4), was in the original “this title”. See References in Text note set out under section 78a of this title.
@@ -29,6 +31,8 @@ This chapter, referred to in subsec. (b)(2) to (4), was in the original “this 
 ### Amendments
 
 2010—Subsec. (a). Pub. L. 111–203, § 762(d)(1)(A), struck out subsec. (a) and reserved that subsec. Prior to amendment, text read as follows: “The definition of ‘security’ in section 78c(a)(10) of this title does not include any non-security-based swap agreement (as defined in section 206C of the Gramm-Leach-Bliley Act).” Subsec. (b). Pub. L. 111–203, § 762(d)(1)(B), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreement” wherever appearing.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2010 Amendment
 

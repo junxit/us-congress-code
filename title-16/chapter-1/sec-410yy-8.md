@@ -55,9 +55,13 @@ section: 410yy–8
 
 2 So in original. Probably should be “paragraph (1),”.
 
+### Editorial Notes
+
 ### Amendments
 
 1999—Subsec. (c)(1)(A) to (D). Pub. L. 106–134 substituted “after consideration of nominees” for “from nominees”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Termination of Advisory Commissions
 

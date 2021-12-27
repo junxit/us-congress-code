@@ -19,6 +19,8 @@ section: 743a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Bureau of Sport Fisheries and Wildlife, referred to in subsec. (b), was replaced and succeeded by the United States Fish and Wildlife Service. See section 742b(c) of this title.
@@ -26,6 +28,8 @@ The Bureau of Sport Fisheries and Wildlife, referred to in subsec. (b), was repl
 ### Amendments
 
 1994—Subsec. (c). Pub. L. 103–437 substituted “Committee on Commerce, Science, and Transportation” for “Committee on Commerce”. 1980—Subsec. (c). Pub. L. 96–470 substituted provision requiring that a report to Congress be made at the end of any fiscal year that provisions of this section are utilized for provision requiring an annual report to Congress be made on utilization of the provisions of this section and struck out “annual” before “report shall be”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Functions
 

@@ -15,6 +15,8 @@ Effective upon acceptance thereof by the State of Washington (1) the jurisdictio
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 251e of this title and sections 251e to 251m of this title, referred to in text, were in the original “subsection 1(a) of this Act” and “this Act”, respectively. “This Act” means Pub. L. 94–578.

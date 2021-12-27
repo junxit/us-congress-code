@@ -27,6 +27,8 @@ section: 941f
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Executive Order 13340, referred to in subsec. (b)(5), is Ex. Ord. No. 13340, May 18, 2004, 69 F.R. 29043, which is set out as a note under section 1268 of Title 33, Navigation and Navigable Waters.
@@ -38,6 +40,8 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substanti
 ### Amendments
 
 2016—Subsec. (a). Pub. L. 114–322, § 3901(e)(1), substituted “2021” for “2011” in introductory provisions. Subsec. (b). Pub. L. 114–322, § 3901(e)(2)(A), substituted “2016 through 2020” for “2007 through 2012” in introductory provisions. Subsec. (b)(5). Pub. L. 114–322, § 3901(e)(2)(B), inserted “the Great Lakes Restoration Initiative Action Plan based on” after “in support of”. Subsec. (c). Pub. L. 114–322, § 3901(e)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Not later than June 30, 2007, the Director shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives the 2002 report required under this section as in effect on the day before October 11, 2006.” 2006—Pub. L. 109–326 amended section catchline and text generally. Prior to amendment, text read as follows: “On December 31, 2002, the Director shall submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes— “(1) actions taken to solicit and review proposals under section 941c of this title; “(2) the results of proposals implemented under section 941c of this title; and “(3) progress toward the accomplishment of the goals specified in section 941d of this title.” 1998—Pub. L. 105–265 amended section generally, substituting present provisions for provisions which had required report not later than 1 year after date of enactment and annually thereafter. 1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2008, which enacted this section.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

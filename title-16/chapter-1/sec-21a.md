@@ -15,6 +15,8 @@ The boundary of the Yellowstone National Park is changed so as to read as follow
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1930—Act Apr. 19, 1930, struck out “Provided, That whereas it is the purpose and intent of Congress to retain the areas hereby added to the park in its original wilderness character, therefore, no new roads shall be constructed and no hotels or permanent camps shall be authorized or permitted to be maintained on such lands”.

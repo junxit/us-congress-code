@@ -19,9 +19,13 @@ section: 13c
 
 1 So in original. The words “or the Commission” probably should not appear.
 
+### Editorial Notes
+
 ### Amendments
 
 1992—Subsec. (c). Pub. L. 102–546, § 402(9)(C), which directed that “the Secretary of Agriculture or” be struck out, could not be executed because of amendment by Pub. L. 93–463, § 103(a). See 1974 Amendment note below. Pub. L. 102–546, § 402(1)(D), substituted “Commission” for “commission” before “to report”. 1983—Subsec. (a). Pub. L. 97–444, § 230(1), struck out “in administrative proceedings under this chapter” after “may be held responsible”. Subsecs. (b), (c). Pub. L. 97–444, § 230(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c). 1974—Subsec. (b). Pub. L. 93–463, § 103(a), provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared in the phrase “the Secretary of Agriculture or the Commission”. Because the word “commission” was not capitalized in the text of this section, section 103(b) did not apply to this section and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1983 Amendment
 

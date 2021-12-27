@@ -15,6 +15,8 @@ The Secretary of the Interior is authorized and directed to promptly instigate s
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The effective date of this provision, referred to in text, probably means the date of enactment of Pub. L. 97–250, which was approved Sept. 8, 1982.

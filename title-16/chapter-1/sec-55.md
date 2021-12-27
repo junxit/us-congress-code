@@ -15,6 +15,8 @@ The Secretary of the Interior is authorized and empowered to grant leases, for p
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 This section superseded earlier provisions as to leases contained in section 2 of act Oct. 1, 1890. As enacted by act July 23, 1914, this section contained a provision, omitted for purposes of codification, continuing in effect all existing laws relating to the park and not in conflict with it.

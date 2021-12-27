@@ -25,7 +25,7 @@ Section 6, referred to in text, was repealed by Pub. L. 86–251, § 1(c)(1), Se
 
 Section is comprised of subsec. (b), third sentence, of section 209 of act Mar. 4, 1923. For classification to this title of other provisions of section 209, see Tables.
 
-### Statutory Notes and Related Subsidiaries
+### Executive Documents
 
 ### Exception as to Transfer of Functions
 

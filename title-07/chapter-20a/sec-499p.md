@@ -15,6 +15,8 @@ In construing and enforcing the provisions of this chapter, the act, omission, o
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 566 of this title.

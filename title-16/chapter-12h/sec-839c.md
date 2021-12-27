@@ -80,6 +80,8 @@ section: 839c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Bonneville Project Act of 1937, referred to in subsecs. (a), (b)(1), and (f), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§ 832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables. The Federal Columbia River Transmission System Act, referred to in subsec. (f), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables. Act of August 31, 1964, referred to in subsec. (f), is Pub. L. 88–552, Aug. 31, 1964, 78 Stat. 756, which is classified generally to chapter 12F (§ 837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.

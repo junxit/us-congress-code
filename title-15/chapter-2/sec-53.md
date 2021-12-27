@@ -27,9 +27,13 @@ section: 53
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Subsecs. (a), (b). Pub. L. 103–312, § 10(a), in concluding provisions, substituted “Any suit may be brought where such person, partnership, or corporation resides or transacts business, or wherever venue is proper under section 1391 of title 28. In addition, the court may, if the court determines that the interests of justice require that any other person, partnership, or corporation should be a party in such suit, cause such other person, partnership, or corporation to be added as a party without regard to whether venue is otherwise proper in the district in which the suit is brought. In any suit under this section, process may be served on any person, partnership, or corporation wherever it may be found.” for “Any such suit shall be brought in the district in which such person, partnership, or corporation resides or transacts business.” Subsecs. (c), (d). Pub. L. 103–312, § 10(b), added subsec. (c) and redesignated former subsec. (c) as (d). 1973—Subsecs. (b), (c). Pub. L. 93–153 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+### Executive Documents
 
 ### Transfer of Functions
 

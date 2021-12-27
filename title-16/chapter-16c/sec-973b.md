@@ -15,6 +15,8 @@ The Secretary of Commerce, with the concurrence of the Secretary of State and af
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date
 
 Authority to promulgate regulations effective on June 7, 1988, with any such regulation not to be effective before date on which Treaty enters into force for the United States, see section 21 of Pub. L. 100–330, set out as an Effective Date note under section 973 of this title.

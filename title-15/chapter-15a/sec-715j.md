@@ -15,6 +15,8 @@ Wherever reference is made in this chapter to the President such reference shall
 
 ## Notes
 
+### Executive Documents
+
 ### Delegation of Functions
 
 Ex. Ord. No. 6979, Feb. 28, 1935, which designated and appointed Secretary of the Interior to execute powers and functions vested in President by this chapter except those vested in him by section 715c of this title, was superseded by Ex. Ord. No. 10752, set out below. Ex. Ord. No. 7756, Dec. 1, 1937, 2 F.R. 2664, which delegated to Secretary of the Interior powers and functions vested in President under this chapter except those vested in him by section 715c of this title, and authorized Secretary to establish a Petroleum Conservation Division in Department of the Interior, the functions and duties of which shall be: (1) to assist, in such manner as may be prescribed by Secretary of the Interior, in administering said act, (2) to cooperate with oil and gas-producing States in prevention of waste in oil and gas production and in adoption of uniform oil- and gas-conservation laws and regulations, and (3) to keep informed currently as to facts which may be required for exercise of responsibility of President under section 715c of this title, was superseded by Ex. Ord. No. 10752, set out below.

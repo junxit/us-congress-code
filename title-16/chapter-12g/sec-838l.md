@@ -70,6 +70,8 @@ section: 838l
 
 1 So in original. Probably should be “section;” or “section”.
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Federal Columbia River Transmission System Act which comprises this chapter. Section is comprised of section 3201 of Pub. L. 104–134. Subsec. (h) of section 3201 of Pub. L. 104–134 amended section 6 of Pub. L. 103–436, which is not classified to the Code.

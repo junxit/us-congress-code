@@ -38,9 +38,13 @@ section: 918c
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Rural Electrification Act of 1936 which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definitions
 

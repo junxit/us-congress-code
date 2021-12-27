@@ -15,9 +15,13 @@ The Secretary of the Interior, in his discretion, is authorized to construct upo
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1952—Act July 10, 1952, inserted last sentence.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Acquisition of Land Encroached Upon by Deshler-Morris House
 

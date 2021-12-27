@@ -15,9 +15,13 @@ In order to preserve and protect for the education, inspiration, recreation, and
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Dante Fascell Biscayne National Park Visitor Center
 
