@@ -43,6 +43,8 @@ section: 544b
 
 1 So in original. Probably should be “Willamette”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Second Supplemental Appropriations Act, 1984, referred to in subsec. (a)(2)(B)(i), is Pub. L. 98–396, Aug. 22, 1984, 98 Stat. 1369. For complete classification of this Act to the Code, see Tables.
@@ -50,6 +52,8 @@ The Second Supplemental Appropriations Act, 1984, referred to in subsec. (a)(2)(
 ### Amendments
 
 2000—Subsec. (b)(2). Pub. L. 106–291, § 346(d)(1), substituted “by paragraph (1)” for “in this section” in introductory provisions. Subsec. (b)(3). Pub. L. 106–291, § 346(d)(2), which directed amendment of subsec. (b)(2) by adding at the end a par. (3), was executed by adding par. (3) after subsec. (b)(2), to reflect the probable intent of Congress. 1999—Subsec. (a)(2). Pub. L. 106–31 made technical correction to directory language of Pub. L. 105–277. See 1998 Amendment note below. 1998—Subsec. (a)(2). Pub. L. 105–277, as amended by Pub. L. 106–31, inserted par. (2) heading, designated existing provisions as subpar. (A), inserted heading, and substituted “Except as provided in subparagraph (B), the boundaries” for “The boundaries”, and added subpar. (B). 1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committees on Agriculture and”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1999 Amendment
 

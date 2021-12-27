@@ -15,6 +15,8 @@ For the purpose of establishing a Federal area of national historical importance
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 Words “national historic site” substituted in text for “national monument” in view of redesignation of Fort Vancouver National Monument as Fort Vancouver National Historic Site by Pub. L. 87–78, classified to section 450ff–6 of this title.

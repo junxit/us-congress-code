@@ -159,6 +159,8 @@ section: 545b
 
 5 So in original. Probably should be “if”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Wilderness Act, referred to in subsec. (c)(1)(A), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables. The Endangered Species Act, referred to in subsec. (d)(2)(B), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables. The National Forest Management Act, referred to in subsec. (d)(2)(B), probably means the National Forest Management Act of 1976, Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables. The Oregon Wilderness Act of 1984, referred to in subsec. (d)(3)(A), is Pub. L. 98–328, June 26, 1984, 98 Stat. 272, which enacted subchapter C (§ 460oo) of chapter 1 of this title and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables. The Federal Power Act, referred to in subsec. (d)(9), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables. The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (f)(2)(A), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
@@ -170,6 +172,8 @@ Section is comprised of section 1023 of Pub. L. 104–333. Subsec. (c)(1)(A) of 
 ### Amendments
 
 2000—Subsec. (c)(1)(A). Pub. L. 106–176 struck out “of 1964” after “Wilderness Act”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

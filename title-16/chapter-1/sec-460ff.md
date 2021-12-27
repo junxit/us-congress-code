@@ -15,9 +15,13 @@ For the purpose of preserving and protecting for public use and enjoyment, the h
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Pub. L. 106–291 substituted “National Park” for “National Recreation Area” and substituted “park” for “recreation area” wherever appearing.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Redesignation of Cuyahoga Valley National Recreation Area
 

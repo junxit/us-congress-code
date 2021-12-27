@@ -15,6 +15,8 @@ The Federal lands in the Cooperative Management and Protection Area depicted as 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of section 201 of Pub. L. 106–399. Section 201 also enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title.

@@ -15,6 +15,8 @@ The Secretary shall designate the principal environmental education center withi
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section 4(b) of Pub. L. 94–544 and section 7(b) of Pub. L. 94–567 enacted identical sections.

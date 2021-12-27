@@ -24,6 +24,8 @@ section: 558c
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Subsec. (e). Pub. L. 114–245 added subsec. (e). 1990—Subsec. (d). Pub. L. 101–286 added subsec. (d).

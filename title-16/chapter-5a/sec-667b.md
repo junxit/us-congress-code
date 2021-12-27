@@ -15,9 +15,13 @@ Upon request, real property which is under the jurisdiction or control of a Fede
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1972—Cl. (2). Pub. L. 92–432 struck out “chiefly” before “valuable for use”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Functions
 

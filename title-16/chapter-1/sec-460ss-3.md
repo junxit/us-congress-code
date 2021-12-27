@@ -60,9 +60,13 @@ section: 460ss–3
 
 2 So in original. Probably should be followed by a period.
 
+### Editorial Notes
+
 ### Amendments
 
 1992—Subsec. (j). Pub. L. 102–570 added subsec. (j). 1988—Subsec. (c). Pub. L. 100–580, § 12(a)(A), substituted “14” for “12” in introductory provisions. Subsec. (c)(11), (12). Pub. L. 100–580, § 12(a)(B), added pars. (11) and (12). Subsec. (f)(1). Pub. L. 100–653, § 602(b), substituted “Procedures” for “Decisions of Task Force” as par. heading and amended text generally. Prior to amendment, text read as follows: “All decisions of the Task Force must be by unanimous vote of all the members.” Subsec. (h). Pub. L. 100–653, § 603(1), substituted “, the State of California, or the State of Oregon” for “or the State of California”. Subsec. (i). Pub. L. 100–653, § 601, substituted “Expenses” for “Limitation on spending authority” in heading and amended text generally, designating existing provisions as par. (2) and adding par. (1).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Special Rule
 

@@ -15,6 +15,8 @@ Notwithstanding the provisions of section 200306(a)(2) of title 54, moneys appro
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2014—Pub. L. 113–287 substituted “section 200306(a)(2) of title 54” for “section 460l–9(a)(1) of this title”.

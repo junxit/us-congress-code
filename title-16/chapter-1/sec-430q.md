@@ -15,9 +15,13 @@ If any person shall, except by permission of the Secretary of the Interior, dest
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1976—Pub. L. 94–578 struck out provisions which limited fines to not less than $5 nor more than $500.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

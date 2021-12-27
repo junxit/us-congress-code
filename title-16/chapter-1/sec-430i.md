@@ -15,14 +15,20 @@ In order to preserve for historical and professional military study one of the m
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1966—Pub. L. 89–554 struck out provisions which required the affairs of park, subject to supervision and direction of Secretary of the Interior, to be in charge of three commissioners.
 
-### Transfer of Functions
-
-Administrative functions of Guilford Courthouse National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under section 901 of Title 5, Government Organization and Employees. National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, by act Mar. 2, 1934, ch. 38, § 1, 48 Stat. 389.
+### Statutory Notes and Related Subsidiaries
 
 ### Abolition of Commission
 
 Act Oct. 9, 1942, ch. 583, 56 Stat. 778, provided: “That the Guilford Courthouse National Military Park Commission, established pursuant to the Act of March 2, 1917 (39 Stat. 996; 16 U.S.C. 430i), is abolished effective at the expiration, on October 13, 1941, of the current appointment of the resident commissioner.”
+
+### Executive Documents
+
+### Transfer of Functions
+
+Administrative functions of Guilford Courthouse National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under section 901 of Title 5, Government Organization and Employees. National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, by act Mar. 2, 1934, ch. 38, § 1, 48 Stat. 389.

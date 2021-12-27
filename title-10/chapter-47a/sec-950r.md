@@ -15,6 +15,8 @@ Any person subject to this chapter who, knowing that an offense punishable by th
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 950r, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2624, related to accessory after the fact, prior to the general amendment of this chapter by Pub. L. 111–84.

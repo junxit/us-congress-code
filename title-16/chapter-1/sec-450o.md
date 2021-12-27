@@ -15,9 +15,13 @@ When title to the site of the Andrew Johnson Homestead and the site of the tailo
 
 ## Notes
 
+### Editorial Notes
+
 ### Change of Name
 
 “National historic site” substituted in text for “national monument” on authority of Pub. L. 88–197, which redesignated Andrew Johnson National Monument as Andrew Johnson National Historic Site.
+
+### Executive Documents
 
 ### Establishment of Monument; Boundaries
 

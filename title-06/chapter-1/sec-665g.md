@@ -220,7 +220,7 @@ section: 665g
       - **(ii)** reducing cybersecurity risks to, and identifying, responding to, and recovering from cybersecurity threats to, information systems owned or operated by, or on behalf of, State, local, or Tribal governments as a result of the award of grants under this section.
   - **(3)** *Public availability*
     - **(A)** *In general* The Secretary, acting through the Director, shall make each report submitted under paragraph (2) publicly available, including by making each report available on the website of the Agency.
-    - **(B)** *Redactions* In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under section 552 of title 5, United States Code (commonly referred to as the ‘Freedom of Information Act’).
+    - **(B)** *Redactions* In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under section 552 of title 5 (commonly referred to as the ‘Freedom of Information Act’).
   - **(4)** *Study of risk-based formulas*
     - **(A)** *In general* Not later than September 30, 2024, the Secretary, acting through the Director, shall submit to the appropriate committees of Congress a study and legislative recommendations on the potential use of a risk-based formula for apportioning funds under this section, including—
       - **(i)** potential components that could be included in a risk-based formula, including the potential impact of those components on support for rural areas under this section;
@@ -250,4 +250,12 @@ section: 665g
 
 ## Source credit
 
-(Pub. L. 107–296, title XXII, § 2218, as added Pub. L. 117–58, div. G, title VI, § 70612(a), Nov. 15, 2021, 135 Stat. 1272.)
+(Pub. L. 107–296, title XXII, § 2220A, formerly § 2218, as added Pub. L. 117–58, div. G, title VI, § 70612(a), Nov. 15, 2021, 135 Stat. 1272; renumbered § 2220A and amended, Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(viii), Dec. 27, 2021, 135 Stat. 2061.)
+
+## Notes
+
+### Editorial Notes
+
+### Amendments
+
+2021—Pub. L. 117–81 re-enact4ed section catchline.

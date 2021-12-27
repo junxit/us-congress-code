@@ -18,7 +18,16 @@ section: 127f
   - **(2)** a detailed description of the purpose for which such expenditure was made;
   - **(3)** an explanation why other authorities available to the Department of Defense could not be used for such expenditure; and
   - **(4)** any other matters the Secretary considers appropriate.
+- **(f)** *Non-Conventional Assisted Recovery Capabilities.—* Funding used to establish, develop, and maintain non-conventional assisted recovery capabilities under this section may only be obligated and expended with the concurrence of the relevant Chief of Mission or Chiefs of Mission.
 
 ## Source credit
 
-(Added Pub. L. 116–283, div. A, title X, § 1052(a), Jan. 1, 2021, 134 Stat. 3849.)
+(Added Pub. L. 116–283, div. A, title X, § 1052(a), Jan. 1, 2021, 134 Stat. 3849; amended Pub. L. 117–81, div. A, title X, § 1093(b), Dec. 27, 2021, 135 Stat. 1935.)
+
+## Notes
+
+### Editorial Notes
+
+### Amendments
+
+2021—Subsec. (f). Pub. L. 117–81 added subsec. (f).

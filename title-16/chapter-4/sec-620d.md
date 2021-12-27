@@ -67,6 +67,8 @@ section: 620d
 
 1 So in original. Probably should be “Contractual”.
 
+### Editorial Notes
+
 ### Amendments
 
 1997—Subsec. (c)(2)(C). Pub. L. 105–83, § 603(1), added subpar. (C). Subsec. (d)(1). Pub. L. 105–83, § 603(2), inserted subpar. (A) designation and heading, substituted “Subject to subparagraph (B), the head” for “The head”, and added subpar. (B). 1993—Subsec. (a)(3), (4). Pub. L. 103–45, § 3(a), added pars. (3) and (4). Subsec. (c)(1). Pub. L. 103–45, § 3(b)(1), designated existing provisions as subpar. (A) and added subpar. (B). Subsec. (c)(2). Pub. L. 103–45, § 3(b)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), and added subpar. (B).

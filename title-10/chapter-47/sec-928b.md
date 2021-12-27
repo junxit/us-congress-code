@@ -24,9 +24,13 @@ shall be punished as a court-martial may direct.
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2019—Pub. L. 116–92 inserted section catchline. Identical section catchline had been editorially supplied.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

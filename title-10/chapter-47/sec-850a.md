@@ -27,9 +27,13 @@ section: 850a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Subsec. (c). Pub. L. 114–328, in introductory provisions, struck out “, or the president of a court-martial without a military judge,” after “the military judge”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2016 Amendment
 

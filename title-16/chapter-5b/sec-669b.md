@@ -32,6 +32,8 @@ section: 669b
 
 1 So in original. Probably should be “paragraph (1) of subsection (b)”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
@@ -40,6 +42,8 @@ The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18,
 
 2015—Subsec. (b)(2)(C). Pub. L. 114–113 substituted “2026” for “2016”. 2005—Subsec. (b)(2)(C). Pub. L. 109–75 substituted “2016” for “2006”. 2000—Subsec. (a). Pub. L. 106–553, § 1(a)(2) [title IX, § 902(d)(1)], designated existing provisions as par. (1) and added par. (2). Subsecs. (c), (d). Pub. L. 106–553, § 1(a)(2) [title IX, § 902(d)(2)], added subsecs. (c) and (d). 1989—Pub. L. 101–233 designated existing provisions as subsec. (a) and added subsec. (b). 1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text. 1972—Pub. L. 92–558 substituted “(beginning with the fiscal year 1975)” for “(beginning with the fiscal year 1971)” and inserted reference to section 4161(b) of title 26. 1970—Pub. L. 91–503 inserted provisions for the deposit of the 10 per cent tax on pistols and revolvers under section 4181 of title 26 into the Federal aid to wildlife restoration fund beginning in fiscal year 1971.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 1989 Amendment
 
 Pub. L. 101–233, § 7(a)(3), Dec. 13, 1989, 103 Stat. 1975, provided that: “The amendments made by this subsection of this Act [amending this section and section 669c of this title] take effect October 1, 1989.”
@@ -47,6 +51,8 @@ Pub. L. 101–233, § 7(a)(3), Dec. 13, 1989, 103 Stat. 1975, provided that: “
 ### Effective Date of 1972 Amendment
 
 Pub. L. 92–558, title I, § 101(c), Oct. 25, 1972, 86 Stat. 1172, as amended by Pub. L. 93–313, June 8, 1974, 88 Stat. 238, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 669c of this title] of this section shall take effect January 1, 1975.”
+
+### Executive Documents
 
 ### Transfer of Functions
 

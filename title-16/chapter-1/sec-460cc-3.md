@@ -25,6 +25,8 @@ section: 460cc–3
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1982—Subsec. (a). Pub. L. 97–232 substituted “twenty” for “ten”. 1980—Subsec. (b). Pub. L. 96–344 substituted in provision preceding par. (1) “fifteen” for “eleven” and in par. (5) “seven” for “three”.

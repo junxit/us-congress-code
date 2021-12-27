@@ -16,9 +16,13 @@ section: 577h
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2014—Subsec. (a). Pub. L. 113–287 substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act (78 Stat. 897), as amended”. 1976—Pub. L. 94–384 designated existing provisions as subsec. (a), substituted “implement” for “carry out the provisions of”, “$9,000,000” for “$4,500,000”, and “lands, water, or interests therein” for “land”, struck out “however” after “Provided”, inserted provision relating to the availability of funds under the Land and Water Conservation Fund Act and provision relating to the availability of appropriations for payment of court judgments in condemnation actions regardless of the date of institution of such action, and added subsec. (b). 1961—Pub. L. 87–351 increased appropriation for purchase and condemnation of land from $2,500,000 to $4,500,000. 1956—Act June 22, 1956, increased appropriation for purchase and condemnation of land from $500,000 to $2,500,000.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Availability of Appropriations
 

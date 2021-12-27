@@ -23,7 +23,7 @@ section: 133b
   - **(9)** advising the Secretary on all aspects of acquisition and sustainment relating to—
     - **(A)** defense acquisition programs;
     - **(B)** core logistics capabilities (as described under section 2464 of this title); and
-    - **(C)** the national technology and industrial base (as defined in section 2500 of this title).
+    - **(C)** the national technology and industrial base (as defined in section 4801 of this title).
 - **(c)** *Precedence in Department of Defense.—*
   - **(1)** *Precedence in matters of responsibility.—* With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense, and the Under Secretary of Defense for Research and Engineering.
   - **(2)** *Precedence in other matters.—* With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Chief Management Officer, the Under Secretary of Defense for Research and Engineering, and the Secretaries of the military departments.
@@ -34,9 +34,7 @@ section: 133b
 
 ## Notes
 
-### Amendment of Section
-
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
+### Editorial Notes
 
 ### Prior Provisions
 
@@ -45,6 +43,8 @@ A prior section 133b was renumbered section 138a of this title and was subsequen
 ### Amendments
 
 2021—Subsec. (b)(9). Pub. L. 116–283, § 811(a)(2), added par. (9). Subsec. (b)(9)(C). Pub. L. 116–283, § 1883(b)(2), substituted “section 4801” for “section 2500”. 2019—Subsec. (b)(2). Pub. L. 116–92, § 902(92), inserted “appropriate prototyping activities,” after “development,”. Subsec. (b)(4) to (8). Pub. L. 116–92, § 1662(a), added par. (4), redesignated former pars. (4) to (7) as (5) to (8), respectively, and in par. (6) inserted “, including the nuclear command, control, and communications system,” after “modernization of nuclear forces”. 2017—Subsec. (b)(6). Pub. L. 115–91, § 902, substituted “advisory authority” for “supervisory authority”. Subsec. (c)(1). Pub. L. 115–91, § 910(c)(3)(A), inserted “the Chief Management Officer of the Department of Defense,” after “the Deputy Secretary of Defense,”. Subsec. (c)(2). Pub. L. 115–91, § 910(c)(3)(B), inserted “the Chief Management Officer,” after “the Deputy Secretary,”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2021 Amendment
 

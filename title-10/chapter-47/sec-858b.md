@@ -21,9 +21,13 @@ section: 858b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Subsec. (b). Pub. L. 115–91 substituted “section 860a or 860b of this title (article 60a or 60b)” for “section 860 of this title (article 60)”. 2016—Subsec. (a)(1). Pub. L. 114–328 substituted “section 857 of this title (article 57)” for “section 857(a) of this title (article 57(a))”. 1997—Subsec. (a)(1). Pub. L. 105–85 substituted “forfeiture of pay, or of pay and allowances, due that member” for “forfeiture of pay and (if adjudged by a general court-martial) allowances due that member” in first sentence. 1996—Subsec. (a)(1). Pub. L. 104–201, § 1068(a)(1)(B), substituted “two-thirds of all pay” for “two-thirds of all pay and allowances” in third sentence. Pub. L. 104–201, § 1068(a)(1)(A), which directed amendment of first sentence by inserting “(if adjudged by a general court-martial)” after “all pay and”, was executed by making the insertion after “of pay and” in first sentence to reflect the probable intent of Congress.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2017 Amendment
 

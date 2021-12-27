@@ -43,6 +43,8 @@ section: 460ii–4
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The Land and Water Conservation Fund Act (78 Stat. 897), referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which was classified principally to part B (§ 460l–4 et seq.) of subchapter LXIX of this chapter. Sections 2, 3, 4(i)(1)(C), (j) to (n), 5 to 10, and 201 of the Act were repealed and restated as sections 100506(c) and 100904 and chapter 2003 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54. The convening of the Ninety-sixth Congress, referred to in subsec. (a)(1), took place on Jan. 15, 1979. The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables. The Clean Air Act, referred to in subsec. (d)(6), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
@@ -54,6 +56,8 @@ In subsec. (a)(1), “section 200306(a)(4) of title 54” substituted for “sec
 ### Amendments
 
 1999—Pub. L. 106–154, § 2(d)(1), inserted section catchline. Subsec. (a). Pub. L. 106–154, § 2(d)(1), (2), inserted subsec. heading, designated existing provisions as par. (1), inserted heading, substituted “$115,000,000” for “$79,400,000” and “this subchapter” for “this subchapter and chapter 43 of this title”, and added pars. (2) and (3). Subsec. (c). Pub. L. 106–154, § 2(d)(3), inserted subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, substituted “transmit to the Committee on Resources of the House of Representatives” for “transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives”, and added par. (2). Subsec. (c)(1)(A). Pub. L. 106–154, § 2(e)(4), substituted “of this subchapter” for “of this subchapter and chapter 43 of this title”. 1984—Subsec. (a). Pub. L. 98–568, § 1(e)(1), substituted “$79,400,000” for “$72,900,000” and inserted provision respecting applicable statutory ceiling on appropriations. Subsec. (c). Pub. L. 98–568, § 1(e)(2), substituted “seven years” for “three years”. Subsec. (d). Pub. L. 98–568, § 1(e)(3), added subsec. (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

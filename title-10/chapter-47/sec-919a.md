@@ -27,9 +27,13 @@ section: 919a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Subsec. (b). Pub. L. 115–91 substituted “926, 928, and 928a” for “928a, 926, and 928” and “126, 128, and 128a” for “128a 126, and 128”. 2016—Subsec. (b). Pub. L. 114–328 substituted “928a,” for “924,” and “128a” for “124,”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2017 Amendment
 

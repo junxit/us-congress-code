@@ -23,6 +23,8 @@ section: 460ggg–2
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The laws pertaining to mineral leasing, referred to in subsec. (b)(4), are classified generally to Title 30, Mineral Lands and Mining.

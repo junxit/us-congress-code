@@ -17,6 +17,8 @@ Notwithstanding any other provision of law, no funds heretofore or hereafter aut
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Act of June 7, 1924, referred to in text, is act June 7, 1924, ch. 348, 43 Stat. 653, which is classified to sections 471, 499, 505, 515, 564, 565, 566, 567, 568, 569, and 570 of this title. For complete classification of this Act to the Code, see Tables. Sections 564, 565, and 566 of this title, referred to in text, were repealed by Pub. L. 95–313, § 13(a)(1), July 1, 1978, 92 Stat. 374.

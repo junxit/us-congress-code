@@ -15,9 +15,13 @@ Any person subject to this chapter who, wrongfully and knowingly, deposits obsce
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 920a was renumbered section 930 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

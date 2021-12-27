@@ -21,9 +21,13 @@ section: 460ffff–3
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Act of June 30, 1906, referred to in subsec. (a)(3), is act June 30, 1906, ch. 3926, 34 Stat. 801, which is not classified to the Code. The Indian Gaming Regulatory Act, referred to in subsec. (d), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§ 2701 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 31, Money and Finance, and Tables.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definitions
 

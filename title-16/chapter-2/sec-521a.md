@@ -15,6 +15,8 @@ In order to facilitate the administration, management, and consolidation of the 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Weeks Act of March 1, 1911, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables. Act June 24, 1954, referred to in text, is act June 24, 1954, ch. 357, 68 Stat. 270, which is classified principally to subchapter III (§ 2631 et seq.) of chapter 44 of Title 43, Public Lands. For complete classification of this Act to the Code, see Tables. Act February 11, 1920, referred to in text, related to exchanges of lands in or adjacent to Siuslaw National Forest and was not classified to the Code. See Codification note set out under sections 486a to 486w of this title. Act September 22, 1922, referred to in text, is classified to section 487 of this title. Act June 4, 1936, referred to in text, is classified to section 487a of this title.

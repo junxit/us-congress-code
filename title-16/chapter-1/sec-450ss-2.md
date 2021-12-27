@@ -17,6 +17,8 @@ section: 450ss–2
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Subsec. (a). Pub. L. 108–199, § 544(c)(1), substituted “an affiliate” for “a unit” in first sentence and struck out second sentence, which read as follows: “The Memorial shall be administered by the Trust in cooperation with the Secretary and in accordance with the provisions of sections 450ss to 450ss–7 of this title, sections 1, 2, 3, and 4 of this title, and sections 461 to 467 of this title.” Subsec. (b). Pub. L. 108–199, § 544(c)(3), added subsec. (b). Former subsec. (b) redesignated (c). Subsec. (c). Pub. L. 108–199, § 544(c)(2), (4), redesignated subsec. (b) as (c), substituted “1997. The map shall be on file and available for public inspection in the appropriate office of the Foundation.” for “1997 (hereafter referred to in sections 450ss to 450ss–7 of this title as the ‘map’):”, and struck out pars. (1) and (2) which read as follows: “(1) Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service and the Trust. “(2) After advising the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives, in writing, the Trust, as established by section 450ss–3 of this title, in consultation with the Secretary, may make minor revisions of the boundaries of the Memorial when necessary by publication of a revised drawing or other boundary description in the Federal Register.”

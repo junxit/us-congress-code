@@ -23,6 +23,8 @@ section: 460ffff–2
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Definitions
 
 For definition of “Secretary” as used in this section, see section 3 of Pub. L. 103–433, set out as a note under section 410aaa of this title.

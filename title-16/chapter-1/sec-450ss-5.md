@@ -20,6 +20,8 @@ Authorization of Appropriations: 11 So in original. “Appropriations” probabl
 
 1 So in original. “Appropriations” probably should not be capitalized.
 
+### Editorial Notes
+
 ### Amendments
 
 2021—Par. (1). Pub. L. 116–283 substituted “the Secretary may provide, from the National Park Service’s National Recreation and Preservation account, the remainder of” for “there is hereby authorized”. 2004—Par. (1). Pub. L. 108–199, § 544(f)(1), inserted “for an endowment fund subject to paragraph (2)” after “the sum of $5,000,000”. Par. (2). Pub. L. 108–199, § 544(f)(2), struck out “Trust or to the Oklahoma City Memorial” after “each non-Federal dollar donated to the” and substituted “operation, or endowment” for “or operation”.

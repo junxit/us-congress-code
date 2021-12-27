@@ -19,9 +19,13 @@ shall be punished as a court-martial may direct.
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 906a was renumbered section 903a of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

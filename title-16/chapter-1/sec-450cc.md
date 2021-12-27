@@ -15,6 +15,8 @@ The Secretary of the Interior is authorized to accept, on behalf of the United S
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Preservation and Administration of Castle Clinton National Monument
 
 Study by New York City National Shrines Advisory Board concerning preservation and administration of Castle Clinton National Monument, see act Aug. 11, 1955, ch. 779, §§ 1, 2, 69 Stat. 632, which is classified as a note under section 102303 of Title 54, National Park Service and Related Programs.

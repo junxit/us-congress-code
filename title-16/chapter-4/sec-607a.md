@@ -15,6 +15,8 @@ The Secretary of the Interior may permit under regulations to be prescribed by h
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of the last sentence of section 11 of act May 14, 1898. The remainder of section 11 of act May 14, 1898, is classified to section 615a of this title. Section was formerly classified to section 423 of Title 48, Territories and Insular Possessions.

@@ -15,6 +15,8 @@ As used in this subchapter “whoever” includes also associations, partnership
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1972—Pub. L. 92–535 substituted “poison, wound, kill, capture, trap, collect, molest” for “wound, kill, capture, trap, collect, or otherwise willfully molest”.

@@ -26,9 +26,13 @@ section: 539k
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Geothermal Steam Act of 1970, referred to in subsec. (b)(4), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Interstate 90 Land Exchange
 

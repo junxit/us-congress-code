@@ -29,6 +29,8 @@ section: 950f
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 950f, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2621; amended Pub. L. 110–181, div. A, title X, § 1063(a)(6), Jan. 28, 2008, 122 Stat. 322, related to review by Court of Military Commission Review, prior to the general amendment of this chapter by Pub. L. 111–84.
@@ -36,6 +38,8 @@ A prior section 950f, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 St
 ### Amendments
 
 2018—Subsec. (b)(6). Pub. L. 115–232 added par. (6). 2017—Subsec. (b)(5). Pub. L. 115–91 added par. (5). 2011—Subsec. (a). Pub. L. 112–81 substituted “judges on the Court” for “appellate military judges” in second sentence.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2018 Amendment
 

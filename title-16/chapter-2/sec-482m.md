@@ -15,9 +15,13 @@ The following-described lands of the Jackson Hole National Monument are made a p
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Jackson Hole National Monument, referred to in text, was created in Wyoming by Presidential Proc. No. 2578, Mar. 15, 1943, 57 Stat. 731. For provisions transferring other lands of such former national monument, see sections 406d–1 and 673b of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Revocation of Temporary Withdrawals of Public Lands
 

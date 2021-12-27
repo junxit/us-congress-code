@@ -15,6 +15,8 @@ Punishment by flogging, or by branding, marking, or tattooing on the body, or an
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 949s, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2617, prohibited cruel or unusual punishments, prior to the general amendment of this chapter by Pub. L. 111–84.

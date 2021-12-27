@@ -15,6 +15,8 @@ Advances of money under any appropriation for the Forest Service may be made to 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as a part of the Agricultural Appropriation Act for the fiscal year 1909, act May 23, 1908. Section was formerly classified to section 534 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
@@ -22,6 +24,8 @@ Section was enacted as a part of the Agricultural Appropriation Act for the fisc
 ### Amendments
 
 1972—Pub. L. 92–310 struck out provisions which required chiefs of field parties to give bonds.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Functions
 

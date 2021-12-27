@@ -17,6 +17,8 @@ section: 546a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2014—Subsec. (b). Pub. L. 113–287 substituted “section 100506 of title 54” for “section 460l–9 of this title”.

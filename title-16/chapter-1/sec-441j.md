@@ -15,6 +15,8 @@ In order to include lands of outstanding scenic and scientific character in the 
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 Words “Park” and “park” substituted in text for “Monument” and “monument”, respectively, pursuant to Pub. L. 95–625, § 611, which is classified to section 441e–1 of this title and which redesignated Badlands National Monument as Badlands National Park.

@@ -16,9 +16,13 @@ section: 460mmm–2
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Pub. L. 108–400, § 1(c)(1), substituted “McInnis” for “Colorado” in section catchline. Subsec. (a). Pub. L. 108–400, § 1(c)(2), substituted “McInnis Canyons” for “Colorado Canyons”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2004 Amendment
 

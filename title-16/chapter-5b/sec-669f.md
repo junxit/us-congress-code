@@ -16,9 +16,13 @@ section: 669f
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1970—Pub. L. 91–503 divided existing provisions into subsecs. (a) and (b), permitted advance payments to the States for work which has been adequately defined in a comprehensive fish and wildlife plan, and struck out reference to progress payments in provision covering joint determination of time and amounts of payments.
+
+### Executive Documents
 
 ### Transfer of Functions
 

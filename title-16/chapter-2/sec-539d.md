@@ -24,6 +24,8 @@ section: 539d
 
 1 So in original. Probably should be capitalized.
 
+### Editorial Notes
+
 ### References in Text
 
 The National Forest Management Act of 1976, referred to in subsecs. (a) and (f), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. Section 6(k) of the Act (16 U.S.C. 1604(k)), probably means section 6(k) of the Forest and Rangeland Renewable Resources Planning Act of 1974, which is classified to section 1604(k) of this title, and which was added by section 6 of the Act. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables. This Act, referred to in subsec. (f), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables. The Small Business Act, referred to in subsec. (f), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
@@ -31,6 +33,8 @@ The National Forest Management Act of 1976, referred to in subsecs. (a) and (f),
 ### Amendments
 
 1990—Subsec. (a). Pub. L. 101–626, § 101, added subsec. (a) and struck out former subsec. (a) which read as follows: “The Congress authorizes and directs that the Secretary of the Treasury shall make available to the Secretary of Agriculture the sum of at least $40,000,000 annually or as much as the Secretary of Agriculture finds is necessary to maintain the timber supply from the Tongass National Forest to dependent industry at a rate of four billion five hundred million foot board measure per decade. Such sums will be drawn from receipts from oil, gas, timber, coal, and other natural resources collected by the Secretary of Agriculture and the Secretary of the Interior notwithstanding any other law providing for the distribution of such receipts: Provided, That such funds shall not be subject to deferral or rescission under the Budget Impoundment and Control Act of 1974, and such funds shall not be subject to annual appropriation.” Subsec. (d). Pub. L. 101–626, § 102, added subsec. (d) and struck out former subsec. (d) which read as follows: “The provisions of this section shall apply notwithstanding the provisions of section 6(k) of the National Forest Management Act of 1976 (90 Stat. 2949).” Subsec. (e). Pub. L. 101–626, § 103(a), added subsec. (e). Subsec. (f). Pub. L. 101–626, § 105(b), added subsec. (f).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 1990 Amendment
 

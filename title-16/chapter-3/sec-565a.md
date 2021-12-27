@@ -17,6 +17,8 @@ The Secretary of Agriculture is authorized to cooperate with the Territories of 
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 564 and 565 of this title, referred to in text, were repealed by Pub. L. 95–313, § 13(a)(1), July 1, 1978, 92 Stat. 374.

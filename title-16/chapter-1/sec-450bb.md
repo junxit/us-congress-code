@@ -25,9 +25,13 @@ section: 450bb
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Pub. L. 108–307 inserted section catchline and amended text generally. Prior to amendment, section authorized the Secretary of the Interior to acquire certain lands for the Harpers Ferry National Historical Park. 1994—Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the Congress of the United States”. 1989—Pub. L. 101–109 substituted “two thousand five hundred and five acres” for “two thousand four hundred and seventy-five acres” in first sentence and inserted after first sentence “The Secretary is authorized to acquire, by donation only, approximately twenty-seven acres of land or interests therein which are outside the boundary of the Harpers Ferry National Historical Park and generally depicted on a map entitled ‘Proposed Bradley and Ruth Nash Addition—Harpers Ferry National Historical Park,’ dated April 1, 1989 and numbered 385–80056. Such map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, Washington, District of Columbia. When acquired, such lands or interests therein shall become a part of the park, subject to the laws and regulations applicable thereto.” 1980—Pub. L. 96–199 substituted “ ‘Boundary Map, Harpers Ferry National Historical Park’, numbered 385–80,021A and dated April 1979” for “ ‘Boundary Map, Harpers Ferry National Historical Park’, numbered 385–40,000D and dated April 1974” and “two thousand four hundred and seventy-five acres” for “two thousand acres”. 1974—Pub. L. 93–466 inserted reference to updated map, prohibited the Secretary from exercising any power of condemnation on lands in which a less than fee interest has been previously acquired, authorized the acquisition of land with appropriated funds and by exchange, authorized an increase in total area from 1500 to 2000 acres, and authorized the Secretary to make minor boundary changes by publication of a revised description in the Federal Register, after advising the Committees on Interior and Insular Affairs.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 2004 Amendment
 

@@ -15,6 +15,8 @@ The Forest Service may sell and distribute supplies, equipment, and materials to
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as a part of the Department of Agriculture Organic Act of 1944.

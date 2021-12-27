@@ -29,6 +29,8 @@ section: 240d
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Text of section, as added by Pub. L. 115–91, is based on text of section 1005 of Pub. L. 114–92, div. A, title X, Nov. 25, 2015, 129 Stat. 961, which was formerly set out as a note under section 2222 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, § 1002(e)(4), Dec. 12, 2017, 131 Stat. 1541.
@@ -36,6 +38,8 @@ Text of section, as added by Pub. L. 115–91, is based on text of section 1005 
 ### Amendments
 
 2018—Pub. L. 115–232 renumbered section 254 of this title as this section. 2017—Subsec. (a). Pub. L. 115–91, § 1002(e)(2)(B), struck out “, United States Code,” after “title 31”. Subsec. (d)(1)(A). Pub. L. 115–91, § 1002(e)(3)(A)(i), inserted “and the Chief Management Officer of the Department of Defense” before semicolon. Pub. L. 115–91, § 1002(e)(2)(A), struck out “, United States Code” after “title 31”. Subsec. (d)(1)(C), (D). Pub. L. 115–91, § 1002(e)(3)(A)(ii)–(iv), added subpar. (C) and redesignated former subpar. (C) as (D). Subsec. (e)(1). Pub. L. 115–91, § 1002(e)(3)(B), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “shall be implemented in a manner that is consistent with the requirements of section 1008 of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 10 U.S.C. 113 note);”. Subsec. (e)(2). Pub. L. 115–91, § 1002(e)(3)(B)(ii), redesignated par. (3) as (2). Former par. (2) redesignated (1). Pub. L. 115–91, § 1002(e)(2)(B), struck out “, United States Code,” after “title 31”. Subsec. (e)(3). Pub. L. 115–91, § 1002(e)(3)(B)(ii), redesignated par. (3) as (2). Pub. L. 115–91, § 1002(e)(2)(A), struck out “, United States Code” after “title 31”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

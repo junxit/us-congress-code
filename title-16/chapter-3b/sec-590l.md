@@ -16,9 +16,13 @@ section: 590l
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1940—Subsec. (b). Act July 2, 1940, inserted last sentence. 1939—Act Mar. 25, 1939, designated existing provisions as subsec. (a) and added subsec. (b).
+
+### Executive Documents
 
 ### Transfer of Functions
 

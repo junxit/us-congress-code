@@ -28,6 +28,8 @@ section: 222b
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section, as added and amended by Pub. L. 115–232, is based on Pub. L. 114–328, div. A, title XVI, § 1696, Dec. 23, 2016, 130 Stat. 2638, which was transferred to this chapter and renumbered as this section.

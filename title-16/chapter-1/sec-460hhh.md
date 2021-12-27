@@ -19,6 +19,8 @@ As used in this subchapter:
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Short Title
 
 Pub. L. 103–63, § 1, Aug. 4, 1993, 107 Stat. 297, provided that: “This Act [enacting this subchapter] may be cited as the ‘Spring Mountains National Recreation Area Act’.”

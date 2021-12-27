@@ -15,6 +15,8 @@ Subject to valid existing rights, the minerals in public lands within the Copper
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Reorganization Plan Numbered 3 of 1946, referred to in text, is Reorg. Plan No. 3 of 1946, July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, which is set out in the Appendix to Title 5, Government Organization and Employees.

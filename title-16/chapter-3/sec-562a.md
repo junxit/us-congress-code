@@ -15,6 +15,8 @@ The Secretary of Agriculture is authorized to establish and maintain a forest ex
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 A provision authorizing an appropriation of $30,000 for fiscal year ending June 30, 1927, for establishment of the forest experiment station referred to in this section was omitted as executed.

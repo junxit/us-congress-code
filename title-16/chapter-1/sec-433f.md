@@ -15,6 +15,8 @@ The provisions of the Act of March 3, 1919 (ch. 116, 40 Stat. 1322–1324), and 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The act of Mar. 3, 1919, and Acts supplemental and amendatory thereto were not classified to the Code.

@@ -15,6 +15,8 @@ All of the lands transferred to the Secretary of the Interior, pursuant to the p
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 715s of this title, referred to in text, was in the original “the Act of June 15, 1935, as amended (49 Stat. 383; 16 U.S.C. 715s)”. The act of August 14, 1946, referred to in text, is act Aug. 14, 1946, ch. 965, 60 Stat. 1080, which amended act Mar. 10, 1934, ch. 55, by generally amending sections 1 to 6, which are classified to sections 661 to 665 and 666 of this title, and by adding sections 7 to 9, which are classified to sections 666a to 666c of this title. Subsequent acts added sections 5A and 10 of act Mar. 10, 1934, which are classified to sections 665a and 666c–1 of this title, respectively.
@@ -22,6 +24,8 @@ Section 715s of this title, referred to in text, was in the original “the Act 
 ### Amendments
 
 1978—Pub. L. 95–616 substituted in second sentence “terms and conditions as the Secretary of the Interior shall prescribe” for “terms and conditions as are consistent with the general purposes of section 2 of the Surplus Property Act of 1944, as amended, and with the purposes of section 666f of this title and this section” and made moneys received or collected in connection with the leases to be subject to section 715s of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

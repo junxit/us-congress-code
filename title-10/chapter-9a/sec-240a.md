@@ -16,9 +16,13 @@ section: 240a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Pub. L. 115–232 renumbered section 251 of this title as this section.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Review and Recommendations on Efforts To Obtain Audit Opinion on Full Financial Statements
 

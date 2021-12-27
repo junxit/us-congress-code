@@ -24,9 +24,13 @@ In order to preserve and protect for the use and enjoyment of present and future
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1999—Subsec. (a)(4). Pub. L. 106–132 added Pub. L. 92–592, § 3(b)(2). See 1972 Amendment note below. 1994—Subsec. (b). Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the United States House of Representatives and the United States Senate”. 1972—Subsec. (a)(4). Pub. L. 92–592, § 3(b)(2), as added by Pub. L. 106–132, substituted “World War Veterans Park at Miller Field” for “Miller Field”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### DeKorte State Park; Protection and Use of; Study for Establishment as a Unit of the National Park System and Administration as Unit of Gateway National Recreation Area; Report to Congressional Committees; Authorization of Appropriations
 

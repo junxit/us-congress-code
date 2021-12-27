@@ -32,9 +32,13 @@ section: 130b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2002—Subsecs. (a), (c)(4)(C). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2002 Amendment
 

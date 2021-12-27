@@ -15,13 +15,19 @@ The Secretary of the Interior, under such rules and regulations as he may prescr
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is comprised of the first two sentences of section 11 of act May 14, 1898, the remainder of section 11 of act May 14, 1898, is classified to section 607a of this title. Section was formerly classified to section 421 of Title 48, Territories and Insular Possessions.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 Acts Oct. 28, 1921, and Mar. 3, 1925, consolidated offices of register and receiver and provided for a single officer to be known as register.
+
+### Executive Documents
 
 ### Transfer of Functions
 

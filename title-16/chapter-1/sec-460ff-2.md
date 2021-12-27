@@ -19,9 +19,13 @@ section: 460ff–2
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Subsec. (a)(i), (ii). Pub. L. 106–291 substituted “park” for “recreation area”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

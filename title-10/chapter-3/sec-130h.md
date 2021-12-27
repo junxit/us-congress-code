@@ -21,6 +21,14 @@ section: 130h
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2021—Subsec. (e). Pub. L. 116–283 substituted “January 1, 2026” for “January 1, 2021”. 2018—Subsec. (e). Pub. L. 115–232 substituted “January 1, 2021” for “January 1, 2019”. 2016—Pub. L. 114–328, § 1682(a)(1)(C), added section catchline and struck out former section catchline which read as follows: “Prohibitions on providing certain missile defense information to Russian Federation”. Subsec. (c). Pub. L. 114–328, § 1081(a)(1), substituted “subsections (a) and (b)” for “subsection (a) and (b)”. Subsec. (d). Pub. L. 114–328, § 1682(a)(1)(B), added subsec. (d). Former subsec. (d) redesignated (e). Pub. L. 114–328, § 1081(a)(1), substituted “subsections (a) and (b)” for “subsection (a) and (b)”. Subsec. (e). Pub. L. 114–328, § 1682(a)(1)(A), (b), redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, text read as follows: “The prohibitions in subsections (a) and (b) shall expire on January 1, 2017.”
+
+### Statutory Notes and Related Subsidiaries
+
+### Certification Required for Russia and China to Tour Certain Missile Defense Sites
+
+Pub. L. 117–81, div. A, title XVI, § 1667, Dec. 27, 2021, 135 Stat. 2106, provided that: “(a) Certification.—Before the Secretary of Defense makes a determination with respect to allowing a foreign national of Russia or China to tour a covered site, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a certification that—“(1) the Secretary has determined that such tour is in the national security interest of the United States, including the justifications for such determination; and “(2) the Secretary will not share any technical data relating to the covered site with the foreign nationals. “(b) Timing.—The Secretary may not conduct a tour described in subsection (a) until a period of 45 days has elapsed following the date on which the Secretary submits the certification for that tour under such subsection. “(c) Construction With Other Requirements.—Nothing in this section shall be construed to supersede or otherwise affect section 130h of title 10, United States Code. “(d) Covered Site.—In this section, the term ‘covered site’ means any of the following:“(1) The combat information center of a naval ship equipped with the Aegis ballistic missile defense system. “(2) An Aegis Ashore site. “(3) A terminal high altitude area defense battery. “(4) A ground-based midcourse defense interceptor silo.”

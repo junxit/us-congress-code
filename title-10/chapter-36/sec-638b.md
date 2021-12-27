@@ -36,9 +36,13 @@ section: 638b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (c)(1)(B). Pub. L. 115–232 substituted “section 7311, 8323, or 9311” for “section 3911, 6323, or 8911”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2018 Amendment
 

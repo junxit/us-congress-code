@@ -15,9 +15,13 @@ The Congress finds the natural, scenic, recreation, historic, and other values o
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1999—Pub. L. 106–154, § 2(a)(3), substituted “may not exceed 10,000 acres” for “may not exceed approximately 6,800 acres” in penultimate sentence. Pub. L. 106–154, § 2(a)(2), inserted fourth sentence and struck out former fourth sentence which read as follows: “Following reasonable notice in writing to the Committee on Natural Resources of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate of his intention to do so, the Secretary of the Interior (hereinafter referred to as the ‘Secretary’) may, by publication of a revised map or other boundary description in the Federal Register, (1) make minor revisions in the boundary of the recreation area, and (2) revise the boundary to facilitate access to the recreation area, or to delete lands which would be of little or no benefit to the recreation area due to the existence of valuable improvements completely constructed prior to August 15, 1978.” Pub. L. 106–154, § 2(a)(1), in third sentence, inserted “and on the maps entitled ‘Chattahoochee River National Recreation Area Interim Boundary Map #1’, ‘Chattahoochee River National Recreation Area Interim Boundary Map #2’, and ‘Chattahoochee River National Recreation Area Interim Boundary Map #3’, and dated August 6, 1998,” after “numbered CHAT–20,003, and dated September 1984,”. 1994—Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”. 1984—Pub. L. 98–568 substituted “CHAT–20,003, and dated September 1984” for “CHAT–20,000, and dated July 1976” and “approximately 6,800 acres” for “six thousand three hundred acres” and inserted provision declaring the corridor area to be an area of national concern.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

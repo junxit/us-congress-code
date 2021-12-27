@@ -25,6 +25,8 @@ The National Forest System lands which may be sold, exchanged, or interchanged u
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Pub. L. 115–334, § 8621(a), substituted “$500,000” for “$150,000” in introductory provisions. Pars. (4) to (6). Pub. L. 115–334, § 8621(b), added pars. (4) to (6).

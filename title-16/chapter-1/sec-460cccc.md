@@ -75,6 +75,8 @@ section: 460cccc
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (e)(2)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
@@ -82,6 +84,8 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (e)(2
 ### Prior Provisions
 
 A prior section 460cccc, Pub. L. 115–141, div. G, title I, § 121(a)(2), Mar. 23, 2018, 132 Stat. 661, which related to Ste. Genevieve National Historical Park, was transferred to section 410xxx of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Definition of “Secretary”
 

@@ -15,6 +15,8 @@ Birch timber and pulp wood or wood pulp manufactured from timber in Alaska may b
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 422 of Title 48, Territories and Insular Possessions.

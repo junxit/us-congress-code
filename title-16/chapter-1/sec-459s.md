@@ -17,9 +17,13 @@ After June 6, 1942, the lands acquired for the Acadia, French Creek, Shenandoah,
 
 1 See Change of Name note below.
 
+### Editorial Notes
+
 ### Codification
 
 Proviso directing the Secretary of the Interior to file with the National Archives within six months after June 6, 1942, a map of each recreational demonstration project enumerated in the section has been omitted as executed.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

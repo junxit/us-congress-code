@@ -20,6 +20,8 @@ section: 497e
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly set out as a note under section 497 of this title. In subsec. (b), “section 306109 of title 54” substituted for “section 110(g) of the National Historic Preservation Act (16 U.S.C. 470h–2(g))” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.

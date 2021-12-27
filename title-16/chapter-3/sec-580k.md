@@ -25,9 +25,13 @@ section: 580k
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 581 of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 95–307, § 8(a), June 30, 1978, 92 Stat. 356.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Termination of Advisory Boards
 

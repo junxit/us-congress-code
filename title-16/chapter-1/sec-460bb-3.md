@@ -22,6 +22,8 @@ section: 460bb–3
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
@@ -29,6 +31,8 @@ The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4), referred to in su
 ### Amendments
 
 1988—Subsec. (f). Pub. L. 100–348 substituted “San Francisco Maritime National Historical Park” for “National Maritime Museum”. 1986—Subsec. (e). Pub. L. 99–395, § 2(a), substituted “and for admission to the sailing vessel Balclutha and other historic vessels of the National Maritime Museum” for “and, for a period not exceeding five years from November 10, 1978, for admission to the sailing vessel Balclutha”. Subsec. (f). Pub. L. 99–395, § 1, struck out provision which had included a coordinated public and private access system to and within the recreation area and other units of the national park system in Marin and San Francisco Counties among the allowable uses to which rental proceeds from Haslett Warehouse, Cliff House Properties and Louis’ Restaurant were to be put, inserted in second proviso a reference to the administration of the AFDL–38 Drydock and other vessels or heavy marine equipment, and inserted parenthetical in second proviso to include rental or lease of properties under management contracts into which the Secretary may enter. 1978—Subsecs. (e), (f). Pub. L. 95–625 added subsecs. (e) and (f).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Fort Baker Agreements and Leases
 

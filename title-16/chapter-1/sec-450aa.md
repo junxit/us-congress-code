@@ -15,6 +15,8 @@ The Secretary of the Interior is authorized and directed to acquire, on behalf o
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Authorization of Appropriations
 
 Section 4 of act July 14, 1943, as amended Sept. 9, 1950, ch. 940, 64 Stat. 829, provided that: “There are authorized to be appropriated such sums not to exceed $150,000 as may be necessary to carry out the provisions of this Act [sections 450aa to 450aa–2 of this title].”

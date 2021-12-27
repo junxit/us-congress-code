@@ -18,6 +18,8 @@ section: 460jjj
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Subsec. (c). Pub. L. 103–437 in first sentence struck out “Select” before “Committee on Indian Affairs”.

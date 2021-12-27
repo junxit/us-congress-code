@@ -161,6 +161,8 @@ section: 539p
 
 1 So in original. The word “Riparian” probably should precede “National”.
 
+### Editorial Notes
+
 ### References in Text
 
 Enactment of this Act, referred to in subsec. (c)(6)(A), means the enactment of Pub. L. 113–291, which was approved Dec. 19, 2014. The National Environmental Policy Act of 1969, referred to in subsec. (c)(9), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables. The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2)(B)(ii), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables. The Geothermal Steam Act of 1970, referred to in subsec. (i)(1)(B), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.

@@ -16,9 +16,13 @@ section: 806a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Subsec. (a). Pub. L. 114–328 substituted “military appellate judge, military judge, or military magistrate to perform the duties of the position involved.” for “military judge or military appellate judge to perform the duties of the judge’s position.” 1999—Subsec. (b). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”. 1996—Subsec. (b). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2016 Amendment
 

@@ -18,6 +18,8 @@ The Under Secretary of Defense (Comptroller) shall—
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Pub. L. 115–232 renumbered section 253 of this title as this section.

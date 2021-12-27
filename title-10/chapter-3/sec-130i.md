@@ -65,7 +65,7 @@ section: 130i
       - **(vi)** combat support agencies (as defined in paragraphs (1) through (4) of section 193(f) of this title);
       - **(vii)** special operations activities specified in paragraphs (1) through (9) of section 167(k) of this title;
       - **(viii)** production, storage, transportation, or decommissioning of high-yield explosive munitions, by the Department; or
-      - **(ix)** a Major Range and Test Facility Base (as defined in section 196(i) of this title).
+      - **(ix)** a Major Range and Test Facility Base (as defined in sections 11 So in original. Probably should be “section”. 4173(i) of this title).
   - **(4)** The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
   - **(5)** The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meanings given those terms in section 2510 of title 18.
   - **(6)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 44801 of title 49.
@@ -76,9 +76,9 @@ section: 130i
 
 ## Notes
 
-### Amendment of Subsection (j)(3)(C)(ix)
+1 So in original. Probably should be “section”.
 
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1845(c)(4), Jan. 1, 2021, 134 Stat. 4151, 4247, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (j)(3)(C)(ix) of this section is amended by striking “section 196(i)” and inserting “sections 4173(i)”. See 2021 Amendment note below.
+### Editorial Notes
 
 ### References in Text
 
@@ -87,6 +87,8 @@ The Presidential Protection Assistance Act of 1976, referred to in subsec. (j)(3
 ### Amendments
 
 2021—Subsec. (i)(1). Pub. L. 116–283, § 1081(a)(8)(A), substituted “of subsection (j)(3)(C) shall” for “of subsection (j)(3)(C) shall”, resulting in no change in text. See 2019 Amendment notes and Coordination of Amendments by Pub. L. 116–92 note below. Subsec. (j)(3)(C)(ix). Pub. L. 116–283, § 1845(c)(4), substituted “sections 4173(i)” for “section 196(i)”. Subsec. (j)(6). Pub. L. 116–283, § 1081(a)(8)(B), inserted a period at end. 2019—Subsec. (i). Pub. L. 116–92, § 1694(a), substituted “2023” for “2020” in two places. Subsec. (i)(1). Pub. L. 116–92, § 1731(a)(6)(A), inserted “(C)” after “subsection (j)(3)”. Pub. L. 116–92, § 1694(b)(1), which directed substitution of “of subsection (j)(3)(C)” for “of subsection (j)(3)”, resulted in no change in text because of prior execution of amendment by Pub. L. 116–92, § 1731(a)(6)(A). See Amendment note above and Coordination of Amendments by Pub. L. 116–92 note below. Subsec. (j)(6). Pub. L. 116–92, § 1731(a)(6)(B), substituted “44802” for “40101”. Pub. L. 116–92, § 1694(b)(2), substituted “in section 44801 of title 49” for “in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 44802 note).” 2017—Pub. L. 115–91 amended section generally. Prior to amendment, section related to protection of certain facilities and assets from unmanned aircraft and consisted of provisions relating to authority of Secretary of Defense, authorized actions, forfeiture, regulations, and definitions.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2021 Amendment
 

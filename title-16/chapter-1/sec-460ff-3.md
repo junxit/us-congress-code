@@ -27,6 +27,8 @@ section: 460ff–3
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The Act of August 25, 1916 (39 Stat. 535) as amended and supplemented (16 U.S.C. 1, 2–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
@@ -34,6 +36,8 @@ The Act of August 25, 1916 (39 Stat. 535) as amended and supplemented (16 U.S.C.
 ### Amendments
 
 2000—Pub. L. 106–291 substituted “park” for “recreation area” wherever appearing. 1986—Subsec. (c). Pub. L. 99–658 designated existing provision as par. (1) and added par. (2). 1978—Subsec. (f). Pub. L. 95–625 inserted in introductory text “(or intergovernmental organization)” after “local government” in two places, and last sentence providing that assistance may include payments for technical aid.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Appropriations for Roads
 

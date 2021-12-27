@@ -48,6 +48,8 @@ section: 460qqq–3
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(2)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables. This Act, referred to in subsec. (a)(2)(B), is Pub. L. 107–282, Nov. 6, 2002, 116 Stat. 1994, known as the Clark County Conservation of Public Land and Natural Resources Act of 2002. For complete classification of this Act to the Code, see Short Title note set out under section 460qqq of this title and Tables. Section 208, referred to in subsec. (b)(2)(B)(i)(II), is section 208 of Pub. L. 107–282, Nov. 6, 2002, 116 Stat. 2005, which is not classified to the Code.

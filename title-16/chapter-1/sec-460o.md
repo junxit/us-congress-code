@@ -15,9 +15,13 @@ In order to further the purposes of the joint resolution approved September 27, 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The joint resolution approved September 27, 1961, referred to in text, is Pub. L. 87–328, which was not classified to the Code.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Joseph M. McDade Recreational Trail
 

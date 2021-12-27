@@ -31,9 +31,13 @@ As a condition to the extending of any benefits under this chapter to any lands 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2013—Pub. L. 113–67, § 705(a)(1), substituted “require the following:” for “require—” in introductory provisions. Par. (1). Pub. L. 113–67, § 705(a)(2), substituted period for semicolon at end. Par. (2). Pub. L. 113–67, § 705(a)(3), substituted period at end for “; and”. Par. (4). Pub. L. 113–67, § 705(a)(4), added par. (4).
+
+### Executive Documents
 
 ### Transfer of Functions
 

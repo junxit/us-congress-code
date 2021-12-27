@@ -15,9 +15,13 @@ It shall be lawful for the authorities of any State having troops engaged in the
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 “Stones River National Battlefield” substituted in text for “Stones River National Park” in view of redesignation of Stones River National Military Park as Stones River National Battlefield by Pub. L. 86–443. See section 426l of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

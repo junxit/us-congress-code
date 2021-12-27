@@ -16,6 +16,8 @@ section: 450bb–4
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 2 of the Act of December 15, 1868, referred to in subsec. (a), means act Dec. 15, 1868, ch. 2, § 2, 15 Stat. 266, which was not classified to the Code.

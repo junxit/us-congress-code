@@ -68,6 +68,8 @@ section: 460ss–2
 
 1 So in original. Probably should be “knowledgeable”.
 
+### Editorial Notes
+
 ### Amendments
 
 1988—Subsec. (g)(1). Pub. L. 100–653, § 602(a), substituted “Procedures” for “Decisions of Council” as par. heading and amended text generally. Prior to amendment, text read as follows: “All decisions of the Council must be by unanimous vote of all of the members.” Subsec. (i). Pub. L. 100–653, § 603(1), substituted “, the State of California, or the State of Oregon” for “or the State of California”. Subsec. (j)(1). Pub. L. 100–653, § 603(2), inserted provision at end that any Council member who is employee of agency or governmental unit and is eligible for travel expenses from that agency or unit for performing services for Council not be eligible for travel expenses under this par.

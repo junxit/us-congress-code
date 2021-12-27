@@ -16,9 +16,13 @@ section: 459e
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1978—Subsec. (b). Pub. L. 95–625 inserted “the main unit of” before “Robert Moses State Park”, included in the boundaries the mainland terminal and headquarters sites, not to exceed a total of twelve acres, on the Patchogue River within Suffolk County, New York, and substituted map numbered OGP—0004, dated May 1978 for OGP—0002, dated June 1964 and requirement of publishing the map in the Federal Register for prior provision for filing the map with the Federal Register.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 1984 Amendment
 

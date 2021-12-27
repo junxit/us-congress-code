@@ -15,6 +15,8 @@ Notwithstanding the foregoing provisions of this chapter, the Secretary is autho
 
 ## Notes
 
+### Executive Documents
+
 ### Transfer of Functions
 
 Production and Marketing Administration functions transferred to other units of Department of Agriculture under Secretary’s memorandum 1320, supp. 4, of Nov. 2, 1953. Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title. Agriculture Adjustment Administration consolidated into Production and Marketing Administration by Secretary of Agriculture’s Memorandum No. 1118, Aug. 18, 1945, which consolidation was ratified by 1946 Reorg. Plan No. 3, set out in the Appendix to Title 5, Government Organization and Employees. Federal Crop Insurance Corporation consolidated with other agencies into Agricultural Conservation and Adjustment Administration for duration of World War II, see Ex. Ord. No. 9069, Feb. 23, 1942. Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.

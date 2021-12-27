@@ -18,6 +18,8 @@ section: 590g
 
 1 So in original. The comma probably should be a semicolon.
 
+### Editorial Notes
+
 ### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -26,9 +28,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2008—Subsec. (a)(1). Pub. L. 110–246, § 2802(a)(2), substituted “soil and water quality and related resources” for “soil fertility”. 1985—Subsec. (a)(7). Pub. L. 99–198 added cl. (7). 1972—Subsec. (a)(6). Pub. L. 92–419 added cl. (6). 1962—Subsecs. (b) to (g). Pub. L. 87–703 repealed subsecs. (b) to (g) which provided for State plans as follows: subsec. (b), cooperation with States by making grants; subsec. (c), State plans; subsec. (d), conditions of plans; subsec. (e), approval of plans; subsec. (f), allocation of funds; and subsec. (g), apportionment of funds. 1937—Subsec. (g). Act June 28, 1937, substituted “any such apportionment of funds available for carrying out State plans during any year prior to 1942 may be made at any time prior to or during the year to which such plans relate” for “apportionments of funds available for carrying out the purposes specified in this section for the year 1936 may be made at any time during 1936, and apportionments for 1937 may be made at any time during 1937”.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+### Executive Documents
 
 ### Transfer of Functions
 

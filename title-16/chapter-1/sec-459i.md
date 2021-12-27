@@ -15,9 +15,13 @@ In order to provide for public outdoor recreation use and enjoyment of certain s
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States House of Representatives and United States Senate”. 1983—Pub. L. 98–170 substituted “CUIS 40,000E” for “CUIS 40,000D”. 1978—Pub. L. 95–625 substituted reference to Boundary Map “numbered CUIS 40,000D, and dated January 1978” for “numbered CUIS—40,000B, and dated June 1971”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 2004 Amendment
 

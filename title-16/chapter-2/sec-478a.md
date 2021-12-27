@@ -15,6 +15,8 @@ When the Secretary of Agriculture determines that a tract of National Forest Sys
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section is also set out as section 1012a of Title 7, Agriculture.
@@ -22,6 +24,8 @@ Section is also set out as section 1012a of Title 7, Agriculture.
 ### Amendments
 
 1976—Pub. L. 94–579 substituted provisions setting forth the procedures applicable to designation of townsites of tracts of National Forest System lands in Alaska or the eleven contiguous Western States for provisions setting forth the procedures applicable to designation of townsites from any national forest lands or lands administered by the Secretary of Agriculture under the Bankhead-Jones Farm Tenant Act.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Savings Provision
 

@@ -15,6 +15,8 @@ In order to preserve and protect the outstanding natural, scenic, scientific, ec
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Congress”.

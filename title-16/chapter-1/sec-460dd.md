@@ -16,9 +16,13 @@ section: 460dd
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2003—Pub. L. 108–43 designated existing provisions as subsec. (a), substituted “1,256,000 acres” for “one million two hundred and thirty-six thousand eight hundred and eighty acres”, and added subsec. (b).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 2003 Amendment
 

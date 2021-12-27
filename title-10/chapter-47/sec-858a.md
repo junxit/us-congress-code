@@ -19,9 +19,13 @@ section: 858a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Pub. L. 115–91, § 531(f)(2), struck out “upon approval” after “reduction in enlisted grade” in section catchline. Subsec. (a). Pub. L. 115–91, § 531(f)(1), substituted “, if such a reduction is authorized by regulation prescribed by the President. The reduction in pay grade shall take effect on the date” for “, effective on the date” in concluding provisions. 2016—Subsec. (a). Pub. L. 114–328, § 5303(1), in introductory provisions, substituted “A” for “Unless otherwise provided in regulations to be prescribed by the Secretary concerned, a” and “as set forth in the judgment of the court-martial entered into the record under section 860c of this title (article 60c)” for “as approved by the convening authority”, and, in concluding provisions, substituted “on which the judgment is so entered” for “of that approval”. Subsec. (b). Pub. L. 114–328, § 5303(2), substituted “reduced, or, as finally affirmed” for “disapproved, or, as finally approved”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2017 Amendment
 

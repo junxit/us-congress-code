@@ -32,9 +32,13 @@ section: 830a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2019—Pub. L. 116–92, § 531(b)(1), substituted “Proceedings conducted before referral” for “Certain proceedings conducted before referral” in section catchline. Subsec. (a)(1), (2). Pub. L. 116–92, § 531(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows: “(1) Proceedings may be conducted to review, or otherwise act on, the following matters before referral of charges and specifications to court-martial for trial in accordance with regulations prescribed by the President: “(A) Pre-referral investigative subpoenas. “(B) Pre-referral warrants or orders for electronic communications. “(C) Pre-referral matters referred by an appellate court. “(D) Pre-referral matters under subsection (c) or (e) of section 806b of this title (article 6b). “(2) The regulations prescribed under paragraph (1) shall— “(A) include procedures for the review of such rulings that may be ordered under this section as the President considers appropriate; and “(B) provide such limitations on the relief that may be ordered under this section as the President considers appropriate.” 2017—Subsec. (a)(1). Pub. L. 115–91, § 531(b)(1), inserted “, or otherwise act on,” after “to review” in introductory provisions. Subsec. (a)(1)(D). Pub. L. 115–91, § 531(b)(2), added subpar. (D).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2017 Amendment
 

@@ -35,9 +35,13 @@ section: 903a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Pub. L. 114–328 renumbered section 906a of this title as this section.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2016 Amendment
 

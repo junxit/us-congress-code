@@ -15,6 +15,8 @@ Upon a determination by the Secretary of the Interior that sufficient land and i
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 Pub. L. 98–422 provided: “That (a) in recognition of its historic significance to the United States and Canada, the Saint Croix Island National Monument in the State of Maine is hereby redesignated as the ‘Saint Croix Island International Historic Site’. “(b) Any reference in a law, map, regulation, document, record, or other paper of the United States to such monument shall be deemed to be a reference to the ‘Saint Croix Island International Historic Site’. “(c) Nothing in this joint resolution shall affect the status of the ‘Saint Croix Island International Historic Site’ as a national monument and a unit of the National Park System.”

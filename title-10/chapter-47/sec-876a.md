@@ -15,9 +15,13 @@ Under regulations prescribed by the Secretary concerned, an accused who has been
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Pub. L. 114–328 struck out “, as approved under section 860 of this title (article 60),” after “if the sentence” and substituted “of the entry of judgment under section 860c of this title (article 60c)” for “on which the sentence is approved under section 860 of this title (article 60)”. 1983—Pub. L. 98–209 substituted “under section 860 of this title (article 60)” for “under section 864 or 865 of this title (article 64 or 65) by the officer exercising general court-martial jurisdiction” and “by the officer exercising general court-martial jurisdiction”, respectively.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2016 Amendment
 

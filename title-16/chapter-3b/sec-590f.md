@@ -22,6 +22,8 @@ section: 590f
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2013—Pub. L. 113–67 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “There is authorized” for “There are hereby authorized”, and added subsec. (b). 1944—Act Sept. 21, 1944, inserted second par.

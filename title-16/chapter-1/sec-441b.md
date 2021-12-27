@@ -15,6 +15,8 @@ The establishment of said park is conditioned upon the State of South Dakota fir
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 Word “park” substituted in text for “monument” pursuant to Pub. L. 95–625, § 611, which is classified to section 441e–1 of this title and which redesignated Badlands National Monument as Badlands National Park.

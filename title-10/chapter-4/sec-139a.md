@@ -10,14 +10,14 @@ section: 139a
 - **(a)** *Appointment.—* There is a Director of Cost Assessment and Program Evaluation in the Department of Defense, appointed by the President, by and with the advice and consent of the Senate.
 - **(b)** *Independent Advice to Secretary of Defense.—*
   - **(1)** The Director of Cost Assessment and Program Evaluation is the principal advisor to the Secretary of Defense and other senior officials of the Department of Defense, and shall provide independent analysis and advice to such officials, on the following matters:
-    - **(A)** Matters assigned to the Director pursuant to this section and section 2334 of this title.
+    - **(A)** Matters assigned to the Director pursuant to this section and section 2334 11 See References in Text note below. of this title.
     - **(B)** Matters assigned to the Director by the Secretary pursuant to section 113 of this title.
   - **(2)** The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense.
 - **(c)** *Deputy Directors.—* There are two Deputy Directors within the Office of the Director of Cost Assessment and Program Evaluation, as follows:
   - **(1)** The Deputy Director for Cost Assessment.
   - **(2)** The Deputy Director for Program Evaluation.
 - **(d)** *Responsibilities.—* The Director of Cost Assessment and Program Evaluation shall serve as the principal official within the senior management of the Department of Defense for the following:
-  - **(1)** Cost estimation and cost analysis for acquisition programs of the Department of Defense, and carrying out the duties assigned pursuant to section 2334 of this title.
+  - **(1)** Cost estimation and cost analysis for acquisition programs of the Department of Defense, and carrying out the duties assigned pursuant to section 2334 1 of this title.
   - **(2)** Analysis and advice on matters relating to the planning and programming phases of the Planning, Programming, Budgeting and Execution system, and the preparation of materials and guidance for such system, as directed by the Secretary of Defense, working in coordination with the Under Secretary of Defense (Comptroller).
   - **(3)** Analysis and advice for resource discussions relating to requirements under consideration in the Joint Requirements Oversight Council pursuant to section 181 of this title.
   - **(4)** Formulation of study guidance for analyses of alternatives for major defense acquisition programs and performance of such analyses, as directed by the Secretary of Defense.
@@ -33,17 +33,23 @@ section: 139a
 
 ## Notes
 
-### Amendment of Section
+1 See References in Text note below.
 
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
+### Editorial Notes
+
+### References in Text
+
+Section 2334 of this title, referred to in subsecs. (b)(1)(A) and (d)(1), was repealed by Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (h) of section 2334 were transferred to various provisions in chapter 222 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, § 1812(b)(1), (3), (c)(1), (d), (e)(1), (f)(1), (g)(1), (h)(1), Jan. 1, 2021, 134 Stat. 4174–4177.
 
 ### Prior Provisions
 
-A prior section 139a was renumbered section 138b of this title. Another prior section 139a was renumbered section 2432 of this title.
+A prior section 139a was renumbered section 138b of this title. Another prior section 139a was renumbered section 4351 of this title.
 
 ### Amendments
 
-2021—Subsec. (b)(1)(A). Pub. L. 116–283, which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2334”, which was redesignated as multiple sections. 2019—Subsec. (d)(6). Pub. L. 116–92, § 1621(e)(1)(A)(iii), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”. Pub. L. 116–92, § 902(5), substituted “Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering,” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”. 2017—Subsec. (d)(9). Pub. L. 115–91 added par. (9). 2013—Subsec. (d)(4). Pub. L. 112–239, which directed amendment of par. (4) by inserting a period at end, was not executed to reflect the probable intent of Congress and the prior amendment by Pub. L. 111–383, § 1075(b)(5). See 2011 Amendment note below. 2011—Pub. L. 111–383, § 901(f), renumbered section 139c of this title as this section. Subsec. (d)(4). Pub. L. 111–383, § 1075(b)(5), which directed amendment of section 139c of this title by inserting a period at the end of subsec. (d)(4), was executed to this section, to reflect the probable intent of Congress and the renumbering of section 139c of this title as this section by Pub. L. 111–383, § 901(f). See above.
+2021—Subsecs. (b)(1)(A), (d)(1). Pub. L. 116–283, which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2334”, which was redesignated as multiple sections. 2019—Subsec. (d)(6). Pub. L. 116–92, § 1621(e)(1)(A)(iii), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”. Pub. L. 116–92, § 902(5), substituted “Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering,” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”. 2017—Subsec. (d)(9). Pub. L. 115–91 added par. (9). 2013—Subsec. (d)(4). Pub. L. 112–239, which directed amendment of par. (4) by inserting a period at end, was not executed to reflect the probable intent of Congress and the prior amendment by Pub. L. 111–383, § 1075(b)(5). See 2011 Amendment note below. 2011—Pub. L. 111–383, § 901(f), renumbered section 139c of this title as this section. Subsec. (d)(4). Pub. L. 111–383, § 1075(b)(5), which directed amendment of section 139c of this title by inserting a period at the end of subsec. (d)(4), was executed to this section, to reflect the probable intent of Congress and the renumbering of section 139c of this title as this section by Pub. L. 111–383, § 901(f). See above.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2021 Amendment
 

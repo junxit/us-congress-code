@@ -55,9 +55,13 @@ section: 544f
 
 2 So in original. No subsec. (g) has been enacted.
 
+### Editorial Notes
+
 ### Amendments
 
 2000—Subsec. (o). Pub. L. 106–291 designated existing provisions as par. (1), inserted par. heading, substituted “section 544g(e) of this title.” for “the Uniform Appraisal Standards for Federal Land Acquisitions (Interagency Land Acquisition Conference, 1973).” in first sentence, and added par. (2).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Administration, Operation, and Maintenance of Pierce National Wildlife Refuge and Little White Salmon National Fish Hatchery
 

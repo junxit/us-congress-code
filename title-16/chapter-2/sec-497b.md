@@ -51,6 +51,8 @@ section: 497b
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Act of March 4, 1915 (16 U.S.C. 497), referred to in subsec. (a), is act Mar. 4, 1915, ch. 144, 38 Stat. 1086. For complete classification of this Act to the Code, see Tables. This section, referred to in subsecs. (a), (b), and (e), was in the original “this Act”, meaning Pub. L. 99–522, Oct. 22, 1986, 100 Stat. 3000, known as the National Forest Ski Area Permit Act of 1986, which enacted this section and notes set out under this section. For complete classification of this Act to the Code, see Short Title note below and Tables. The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables. The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (e), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
@@ -58,6 +60,8 @@ Act of March 4, 1915 (16 U.S.C. 497), referred to in subsec. (a), is act Mar. 4,
 ### Amendments
 
 2011—Subsec. (a). Pub. L. 112–46, § 3(1), substituted “ski areas and associated facilities” for “nordic and alpine ski areas and facilities”. Subsec. (b). Pub. L. 112–46, § 3(2), substituted “skiing and other snow sports and recreational uses authorized by this section” for “nordic and alpine skiing operations and purposes” in introductory provisions. Subsec. (c). Pub. L. 112–46, § 3(4), added subsec. (c). Former subsec. (c) redesignated (d). Subsec. (d). Pub. L. 112–46, § 3(5), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Within one year after October 22, 1986, the Secretary shall promulgate rules and regulations to implement the provisions of this section, and shall, to the extent practicable and with the consent of existing permit holders, convert all existing ski area permits or leases on National Forest System lands into ski area permits which conform to the provisions of this section within 3 years of October 22, 1986.” Pub. L. 112–46, § 3(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e). Subsec. (e). Pub. L. 112–46, § 3(6), substituted “the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.)” for “the National Environmental Policy Act, or the Forest and Rangelands Renewable Resources Planning Act as amended by the National Forest Management Act”. Pub. L. 112–46, § 3(3), redesignated subsec. (d) as (e).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 2011 Amendment
 

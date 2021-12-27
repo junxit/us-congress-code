@@ -15,6 +15,8 @@ The areas to be included in said Badlands National Park are situated in the Stat
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 “Park” substituted for “Monument” in first undesignated par. pursuant to Pub. L. 95–625, § 611, which is classified to section 441e–1 of this title and which redesignated Badlands National Monument as Badlands National Park.

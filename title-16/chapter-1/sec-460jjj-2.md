@@ -23,6 +23,8 @@ section: 460jjj–2
 
 1 See Change of Name note below.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 References to United States Claims Court deemed to refer to United States Court of Federal Claims, see section 902(b) of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.

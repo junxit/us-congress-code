@@ -15,6 +15,8 @@ Any State, or political subdivision thereof, organization, or individual may, wi
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 “Whitman National Monument” redesignated “Whitman Mission National Historic Site” by Pub. L. 87–471, set out as section 433n of this title.

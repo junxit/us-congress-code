@@ -24,6 +24,8 @@ section: 705a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2017—Subsec. (b)(1)(B). Pub. L. 115–91 inserted “or 352(a)” after “section 305”.

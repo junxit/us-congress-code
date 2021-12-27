@@ -21,9 +21,13 @@ section: 460jj
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2009—Subsec. (a). Pub. L. 111–11 substituted “35,235 acres” for “thirty-six thousand two hundred thirty-five acres” and “and dated May 2007” for “, dated July 1978”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

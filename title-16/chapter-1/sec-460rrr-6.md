@@ -22,6 +22,8 @@ Nothing in this subchapter—
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Act of May 31, 1939, referred to in par. (1), is act May 31, 1939, ch. 155, 53 Stat. 785, which is not classified to the Code.

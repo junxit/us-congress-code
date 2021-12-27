@@ -15,6 +15,8 @@ In order to preserve for public use and enjoyment an area in the State of North 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1974—Pub. L. 93–477 substituted “ ‘Boundary Map, Cape Lookout National Seashore’, dated March 1974, and numbered 623–20,009” for “ ‘Proposed Boundaries—Proposed Cape Lookout National Seashore’, dated April 1964, and numbered NS–CL–7101–B”, and struck out proviso relating to certain property not to be included in seashore.

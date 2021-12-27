@@ -19,9 +19,13 @@ section: 669e
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1970—Subsec. (a). Pub. L. 91–503 inserted an alternative method of application for funds by the submission of a comprehensive fish and wildlife resource management plan for a period of five years based on projections for fifteen years, to be updated every three years, laid down a maximum limit of federal assistance of 75 percent of the estimated cost of the implementation of the plan, and, in the existing method of application, now contained in par. (2), struck out reference to Secretary of the Treasury and the requirement that the State pay 10 percent of the costs. Subsecs. (b), (c). Pub. L. 91–503 added subsecs. (b) and (c).
+
+### Executive Documents
 
 ### Transfer of Functions
 

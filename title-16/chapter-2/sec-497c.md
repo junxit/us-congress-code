@@ -34,6 +34,8 @@ section: 497c
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Act of March 4, 1915, referred to in subsecs. (a) and (j), is act Mar. 4, 1915, ch. 144, 38 Stat. 1086. For complete classification of this Act to the Code, see Tables. Act of June 4, 1897, referred to in subsecs. (a) and (j), is act June 4, 1897, ch. 2, 30 Stat. 11. For complete classification of this Act to the Code, see Tables. The National Forest Ski Area Permit Act of 1986, referred to in subsecs. (a) and (j), is Pub. L. 99–522, Oct. 22, 1986, 100 Stat. 3000, which enacted section 497b of this title and provisions set out as a note under section 497b of this title. For complete classification of this Act to the Code, see Short Title note set out under section 497b of this title and Tables. The National Environmental Policy Act of 1969, referred to in subsec. (i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -41,6 +43,8 @@ Act of March 4, 1915, referred to in subsecs. (a) and (j), is act Mar. 4, 1915, 
 ### Amendments
 
 2000—Subsec. (b)(3). Pub. L. 106–176, § 117(1), substituted “required by this section” for “legislated by this Act”. Subsec. (d). Pub. L. 106–176, § 117(2), in introductory provisions, substituted “formula of this section” for “formula of this Act”, in pars. (1) to (3), substituted “this section” for “this Act”, and, in concluding provisions, inserted “adjusted gross revenue for the” before “1994–1995 base year” and substituted “this section” for “this Act”. Subsec. (f). Pub. L. 106–176, § 117(3), inserted “offered for commercial or other promotional purposes” after “complimentary lift tickets”. Subsec. (i). Pub. L. 106–176, § 117(4), substituted “this section” for “this Act”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

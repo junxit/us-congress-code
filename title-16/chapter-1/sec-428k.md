@@ -15,9 +15,13 @@ In furtherance of the purposes of sections 428 to 428d and 428e to 428i of this 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Pub. L. 108–367 substituted “Tennessee” for “Tennessee, but the total area commemorating the battle of Fort Donelson shall not exceed 600 acres”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

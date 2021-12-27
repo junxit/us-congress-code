@@ -17,9 +17,13 @@ The Secretary of Agriculture (hereinafter referred to as the “Secretary”) is
 
 1 So in original. The word “and” probably should appear after “civil service”.
 
+### Editorial Notes
+
 ### Amendments
 
 1993—Pub. L. 103–82 substituted “the Corporation for National and Community Service” for “ACTION”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1993 Amendment
 

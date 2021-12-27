@@ -21,6 +21,8 @@ section: 123a
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 Provisions similar to those in this section were contained in section 115(b)(4) of this title, prior to repeal by Pub. L. 101–510, § 1483(a).
@@ -28,6 +30,8 @@ Provisions similar to those in this section were contained in section 115(b)(4) 
 ### Amendments
 
 2008—Pub. L. 110–417 in section catchline substituted “Suspension of end-strength and other strength limitations in time of war or national emergency” for “Suspension of end-strength limitations in time of war or national emergency”, in subsec. (a) designated existing provisions as par. (1) and added par. (2), and in subsec. (b) substituted “Termination of Waiver” for “Upon Termination of War or National Emergency” in heading, designated existing provisions as par. (1), substituted “subsection (a)(1)” for “subsection (a)”, and added par. (2). 2001—Pub. L. 107–107 amended text generally. Prior to amendment, text read as follows: “If at the end of any fiscal year there is in effect a war or national emergency, the President may defer the effectiveness of any end-strength limitation with respect to that fiscal year prescribed by law for any military or civilian component of the armed forces or of the Department of Defense. Any such deferral may not extend beyond November 30 of the following fiscal year.”
+
+### Executive Documents
 
 ### Delegation of Authority
 

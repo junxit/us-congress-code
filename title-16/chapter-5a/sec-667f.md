@@ -15,6 +15,8 @@ For the purpose of preventing crop damage by migratory waterfowl, the Commodity 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 442 of Title 7, Agriculture, prior to editorial reclassification and renumbering as this section.

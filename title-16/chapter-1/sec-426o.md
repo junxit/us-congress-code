@@ -19,6 +19,8 @@ The Secretary is authorized to enter into an agreement with the city of Murfrees
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1991—Pub. L. 102–225 amended section generally. Prior to amendment, section read as follows: “The Secretary is authorized to enter into an agreement with the city of Murfreesboro, Tennessee, under which (1) the Secretary shall acquire sufficient interest in land and shall construct thereon a trail linking the battlefield with Fortress Rosecrans, (2) the city shall operate and maintain the trail in accordance with standards approved by the Secretary, and (3) the Secretary shall preserve the existing remnants of Fortress Rosecrans and the city shall operate and maintain the fortress.”

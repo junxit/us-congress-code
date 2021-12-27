@@ -16,6 +16,8 @@ section: 460ccc–5
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Pub. L. 103–450 designated existing provisions as subsec. (a) and added subsec. (b).

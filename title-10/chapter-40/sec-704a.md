@@ -15,6 +15,8 @@ No member or category of members of the armed forces may be authorized, granted,
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, referred to in text, is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.

@@ -15,9 +15,13 @@ The Secretary of the Interior is authorized, in his discretion, to acquire in be
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 “Section 3113 of title 40” substituted in text for “the Act of August 1, 1888 (25 Stat. 357)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Antietam National Battlefield Site Redesignated as Antietam National Battlefield; Boundary Revision
 

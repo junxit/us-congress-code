@@ -15,6 +15,8 @@ Notwithstanding any other provision of law, any institution eligible to receive 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Agricultural Research, Extension, and Education Reform Act of 1998, referred to in text, is Pub. L. 105–185, June 23, 1998, 112 Stat. 523. For complete classification of this Act to the Code, see Tables.

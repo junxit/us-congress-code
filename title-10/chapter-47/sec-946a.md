@@ -33,9 +33,13 @@ section: 946a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2021—Subsec. (b)(2)(D). Pub. L. 116–283 added subpar. (D).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

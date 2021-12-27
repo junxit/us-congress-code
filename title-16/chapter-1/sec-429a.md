@@ -15,6 +15,8 @@ Each parcel of land acquired under section 429 of this title shall be under the 
 
 ## Notes
 
+### Executive Documents
+
 ### Transfer of Functions
 
 “Secretary of the Interior” substituted in text for “Secretary of War” pursuant to Reorg. Plan No. 3 of 1950, §§ 1, 2; Ex. Ord. No. 6166, § 2; and Ex. Ord. No. 6228, § 1. See below. Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees, transferred the functions of other officers, employees, and agencies of the Department of the Interior, with certain exceptions, to the Secretary of the Interior, with power to delegate. Ex. Ord. No. 6166, § 2, and Ex. Ord. No. 6228, § 1, set out as a note under section 901 of Title 5, transferred the administrative functions of Brices Cross Roads and Tupelo battlefield sites to the Department of the Interior.

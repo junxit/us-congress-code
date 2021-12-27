@@ -25,9 +25,13 @@ shall be punished as a court-martial may direct.
 
 Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 89550:689.May 5, 1950, ch. 169, § 1 (Art. 95), 64 Stat. 136.
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Pub. L. 114–328 renumbered section 895 of this title as this section.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2016 Amendment
 

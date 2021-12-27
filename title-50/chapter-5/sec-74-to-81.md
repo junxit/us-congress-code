@@ -11,7 +11,7 @@ section: 74 to 81
 
 ### removalDescription
 
-Section 74, act Jan. 22, 1923, ch. 28, 42 Stat. 1142, provided that net proceeds of sales of useless ordnance material by Navy Department should be covered into Treasury as “Miscellaneous receipts”. See section 7543 of Title 10, Armed Forces.
+Section 74, act Jan. 22, 1923, ch. 28, 42 Stat. 1142, provided that net proceeds of sales of useless ordnance material by Navy Department should be covered into Treasury as “Miscellaneous receipts”. See section 8763 of Title 10, Armed Forces.
 
 ### removalDescription
 
@@ -35,7 +35,7 @@ Section 79, act June 3, 1916, ch. 134, § 124, 39 Stat. 215, related to nitrate 
 
 ### removalDescription
 
-Section 80, act June 3, 1916, ch. 134, § 120, 39 Stat. 213, 214, related to procurement of war material and mobilization of industries. See sections 2538 to 2540 of Title 10.
+Section 80, act June 3, 1916, ch. 134, § 120, 39 Stat. 213, 214, related to procurement of war material and mobilization of industries. See sections 4882 to 4884, 4892, and 4971 of Title 10.
 
 ### removalDescription
 

@@ -27,6 +27,8 @@ section: 460dddd–2
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees. This part, referred to in subsec. (d)(4), is part II (§§ 1211–1255) of subtitle C of title I of Pub. L. 116–9, Mar. 12, 2019, 133 Stat. 667, which enacted this subchapter, amended section 1274 of this title, enacted provisions set out as notes under section 1274 of this title, and enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title and in a table of National Monuments set out under section 320301 of Title 54, National Parks Service and Related Programs.

@@ -22,6 +22,8 @@ section: 460nnn–62
 
 1 So in original. Probably should be section “460nnn–22(e)”.
 
+### Editorial Notes
+
 ### References in Text
 
 The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables. The effective date of the Wilderness Act, referred to in subsec. (a), means Sept. 3, 1964, the date of enactment of Pub. L. 88–577, which enacted chapter 23 of this title. This subchapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, known as the Steens Mountain Cooperative Management and Protection Act of 2000, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460nnn of this title and Tables.

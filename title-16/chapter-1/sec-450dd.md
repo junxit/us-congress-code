@@ -17,9 +17,13 @@ For the purpose of establishing an appropriate memorial to Hernando De Soto, the
 
 1 So in original. Probably should be “purchasable”.
 
+### Editorial Notes
+
 ### Amendments
 
 1960—Pub. L. 86–728 increased limitation on acquisition of land from twenty-five to thirty acres.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Authorization of Appropriations
 

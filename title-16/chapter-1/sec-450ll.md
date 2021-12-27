@@ -15,6 +15,8 @@ The Secretary of the Interior is authorized and directed to acquire, on behalf o
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Short Title of 2002 Amendment
 
 Pub. L. 107–215, § 1, Aug. 21, 2002, 116 Stat. 1054, provided that: “This Act [enacting section 450ll–3 of this title] may be cited as the ‘Booker T. Washington National Monument Boundary Adjustment Act of 2002’.”

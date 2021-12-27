@@ -32,6 +32,8 @@ section: 460l–6d
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Land and Water Conservation Fund Act of 1965.
@@ -39,6 +41,8 @@ Section was not enacted as part of the Land and Water Conservation Fund Act of 1
 ### Amendments
 
 2014—Pub. L. 113–287, § 4(c), amended section generally. Prior to amendment, section related to commercial filming with respect to lands under the jurisdiction of the Secretaries of the Interior and Agriculture.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Repeals
 

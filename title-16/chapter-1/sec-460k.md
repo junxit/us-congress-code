@@ -18,9 +18,13 @@ In recognition of mounting public demands for recreational opportunities on area
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1966—Pub. L. 89–669 substituted “areas within the National Wildlife Refuge System” for “national wildlife refuges, game ranges” in introductory text.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

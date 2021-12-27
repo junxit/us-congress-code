@@ -27,9 +27,13 @@ section: 450ss–3
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Pub. L. 108–199 amended section generally. Prior to amendment, section provided for establishment of the Oklahoma City National Memorial Trust, its Board of Directors, staff, powers, and tax exempt status.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Authorization of Secretary To Reimburse Previous Costs Paid by Foundation or Trust
 

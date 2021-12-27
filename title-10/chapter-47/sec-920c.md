@@ -29,6 +29,8 @@ section: 920c
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date
 
 Amendment by Pub. L. 112–81 effective 180 days after Dec. 31, 2011, and applicable with respect to offenses committed on or after such effective date, see section 541(f) of Pub. L. 112–81, set out as an Effective Date of 2011 Amendment note under section 843 of this title.

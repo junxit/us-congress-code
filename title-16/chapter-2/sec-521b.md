@@ -21,6 +21,8 @@ For purposes of providing information that will aid the Congress in its oversigh
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The National Forest Reservation Commission, referred to in text, was abolished and the functions thereof were transferred to the Secretary of Agriculture by section 17(a)(1) of Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2961.

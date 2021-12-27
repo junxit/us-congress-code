@@ -23,9 +23,13 @@ section: 908a
 
 Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 903(a)903(b)50:697(a).50:697(b).May 5, 1950, ch. 169, § 1 (Art. 103), 64 Stat. 138. In subsection (b)(1), the words “of this section” are omitted as surplusage.
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Pub. L. 114–328 renumbered section 903 of this title as this section.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2016 Amendment
 

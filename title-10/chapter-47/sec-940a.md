@@ -22,9 +22,13 @@ section: 940a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2021—Subsec. (d). Pub. L. 116–283 added subsec. (d). 2019—Pub. L. 116–92 designated existing provisions as subsec. (a), inserted heading, in introductory provisions substituted “The Secretary of Defense, in consultation with the Secretary of Homeland Security,” for “The Secretary of Defense” and inserted “(including with respect to the Coast Guard)” after “military justice system”, in par. (4) inserted “public” before “access to docket information”, and added subsecs. (b) and (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

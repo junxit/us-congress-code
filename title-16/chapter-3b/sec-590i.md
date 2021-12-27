@@ -15,9 +15,13 @@ The Secretary is authorized to conduct surveys, investigations, and research rel
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1982—Pub. L. 97–375 struck out requirement that the Secretary transmit to Congress a report on operations under this subchapter, including a statement by classes and amounts of expenditures and obligations, for the fiscal year ending June 30, 1937, and for each fiscal year thereafter. 1937—Act June 28, 1937, inserted last sentence.
+
+### Executive Documents
 
 ### Transfer of Functions
 

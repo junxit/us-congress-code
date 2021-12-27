@@ -19,6 +19,8 @@ makes, draws, utters, or delivers any check, draft, or order for the payment of 
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Effective Date
 
 Pub. L. 87–385, § 2, Oct. 4, 1961, 75 Stat. 814, provided that: “This Act [enacting this section] becomes effective on the first day of the fifth month following the month in which it is enacted [October 1961].”

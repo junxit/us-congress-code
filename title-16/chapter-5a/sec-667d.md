@@ -15,9 +15,13 @@ A statement of the acreage and value of such property as may have been transferr
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1995—Pub. L. 104–66 struck out before period at end “and shall be included in the annual budget transmitted to the Congress”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Functions
 

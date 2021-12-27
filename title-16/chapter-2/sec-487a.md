@@ -15,6 +15,8 @@ When the Secretary of Agriculture finds that merchantable timber may be cut with
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Act of June 4, 1936, chapter 494, section 1, 49 Stat. 1460, referred to in text, related to exchanges of lands in or adjacent to Rogue River National Forest and was not classified to the Code. See Codification note set out under sections 486a to 486w of this title. Act of Congress approved June 9, 1916, referred to in text, was not classified to the Code.

@@ -20,9 +20,13 @@ section: 613a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2011—Subsec. (a). Pub. L. 111–383, § 503(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The proceedings of a selection board convened under section 611 this title may not be disclosed to any person not a member of the board.” Subsec. (b). Pub. L. 111–383, § 503(a)(2), substituted “Notes, and Records” for “and Records” in heading. Subsec. (c). Pub. L. 111–383, § 503(a)(3), added subsec. (c).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

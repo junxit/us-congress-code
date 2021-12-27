@@ -15,6 +15,8 @@ The jurisdiction of the State and the United States over waters of any stream in
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Time of enactment of this subchapter, referred to in text, means Aug. 22, 1972, the date of enactment of Pub. L. 92–400, which enacted this subchapter.

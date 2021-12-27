@@ -15,6 +15,8 @@ Forest inspectors, superintendents, supervisors, surveyors, rangers, and fire pa
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Transfer of Functions
 
 Act Feb. 1, 1905, transferred certain functions with regard to the administration of public forests from Secretary of the Interior to Secretary of Agriculture.

@@ -36,6 +36,8 @@ section: 950d
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 950d, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2620, related to appeal by the United States, prior to the general amendment of this chapter by Pub. L. 111–84.

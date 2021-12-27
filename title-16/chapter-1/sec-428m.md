@@ -15,6 +15,8 @@ There is authorized to be appropriated the sum of not to exceed $454,000 for the
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1972—Pub. L. 92–272 increased authorization of appropriations from a sum not to exceed $226,000 to a sum not to exceed $454,000.

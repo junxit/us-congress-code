@@ -24,6 +24,8 @@ section: 688a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (f)(2), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
@@ -31,6 +33,8 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 ### Amendments
 
 2021—Subsecs. (g), (h). Pub. L. 116–283 added subsec. (g) and redesignated former subsec. (g) as (h). 2017—Subsec. (f). Pub. L. 115–91 substituted “outside a period as follows:” for “after December 31, 2011.” and added pars. (1) and (2). 2011—Subsec. (f). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”. 2006—Pub. L. 109–364, § 621(d)(2)(A), substituted “Retired members: temporary authority to order to active duty in high-demand, low-density assignments” for “Retired aviators: temporary authority to order to active duty” in section catchline. Subsec. (a). Pub. L. 109–364, § 621(b)(1), in first sentence, substituted “The Secretary of a military department may order to active duty a retired member who agrees to serve on active duty in an assignment intended to alleviate a high-demand, low-density military capability or in any other specialty designated by the Secretary as critical to meet wartime or peacetime requirements” for “The Secretary of a military department may order to active duty a retired officer having expertise as an aviator to fill staff positions normally filled by aviators on active duty” and, in second sentence, substituted “member” for “officer” in two places. Subsec. (b). Pub. L. 109–364, § 621(b)(2), substituted “a member” for “an officer”. Subsec. (c). Pub. L. 109–364, § 621(b)(3), substituted “1,000 members” for “500 officers”. Subsec. (d). Pub. L. 109–364, § 621(b)(4), substituted “member to active duty under” for “officer to active duty under”. Subsec. (e). Pub. L. 109–364, § 621(b)(5), substituted “Retired members” for “Officers”. Subsec. (f). Pub. L. 109–364, § 621(b)(6), substituted “A retired member” for “An officer” and “December 31, 2010” for “September 30, 2008”. Subsec. (g). Pub. L. 109–364, § 621(b)(7), added subsec. (g).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transition Provision
 

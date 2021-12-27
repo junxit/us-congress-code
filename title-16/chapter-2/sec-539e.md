@@ -21,9 +21,13 @@ section: 539e
 
 2 So in original.
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Subsec. (a). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”. 1990—Subsec. (a). Pub. L. 101–626, § 104(a), struck out at end “If, at any time after December 2, 1980, the Secretary finds that the available land base in the Tongass National Forest is inadequate to maintain the timber supply from the Tongass National Forest to dependent industry at the rate of four billion five hundred million foot board measure per decade, he shall include such information in his report.” Subsec. (b). Pub. L. 101–626, § 104(a), added cl. (5). Subsec. (c). Pub. L. 101–626, § 104(b), substituted “the southeast Alaska commercial fishing industry, and the Alaska Land Use Council.” for “and the Alaska Land Use Council”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Termination of Reporting Requirements
 

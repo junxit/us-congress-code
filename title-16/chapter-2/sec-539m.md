@@ -21,9 +21,13 @@ section: 539m
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Sections 539m to 539m–12 of this title, referred to in subsec. (b), was in the original “this title”, meaning title IV of div. F of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 279, which is classified generally to sections 539m to 539m–12 of this title. For complete classification of title IV to the Code, see Short Title note set out below and Tables.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

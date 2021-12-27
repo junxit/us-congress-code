@@ -7,7 +7,7 @@ section: 240e
 
 # § 240e. Audits: use of commercial data integration and analysis products in preparing audits
 
-- **(a)** *Deployment of Data Analytics Capabilities.—* The Secretary of Defense shall use competitive procedures under chapter 137 of this title to procure or develop technologies or services, including those based on commercially available information technologies and services to improve data collection and analyses to support preparation of auditable financial statements for the Department of Defense.
+- **(a)** *Deployment of Data Analytics Capabilities.—* The Secretary of Defense shall use competitive procedures under chapter 137 11 See References in Text note below. of this title to procure or develop technologies or services, including those based on commercially available information technologies and services to improve data collection and analyses to support preparation of auditable financial statements for the Department of Defense.
 - **(b)** *Use of Funding and Resources.—* The Secretary of Defense may use science and technology funding, prototypes, and test and evaluation resources as appropriate in support of deployment of technologies and services as described in subsection (a).
 
 ## Source credit
@@ -16,9 +16,17 @@ section: 240e
 
 ## Notes
 
+1 See References in Text note below.
+
+### Editorial Notes
+
 ### Codification
 
 Text of section, as added by Pub. L. 115–91, is based on text of subsecs. (a) and (b) of section 1003 of Pub. L. 114–328, div. A, title X, Dec. 23, 2016, 130 Stat. 2380, which were formerly set out in a note under section 2222 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, § 1002(f)(3), Dec. 12, 2017, 131 Stat. 1542.
+
+### References in Text
+
+Chapter 137 of this title, referred to in subsec. (a), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
 
 ### Amendments
 

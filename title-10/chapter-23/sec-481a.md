@@ -28,9 +28,13 @@ section: 481a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2021—Subsec. (d). Pub. L. 116–283 added subsec. (d). 2019—Subsecs. (a), (b). Pub. L. 116–92 inserted “(including unwanted sexual contact)” after “assault” wherever appearing.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2019 Amendment
 

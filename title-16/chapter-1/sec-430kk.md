@@ -25,9 +25,13 @@ section: 430kk
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Pub. L. 108–394 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (g).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 2004 Amendment
 

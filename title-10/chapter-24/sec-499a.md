@@ -26,6 +26,8 @@ section: 499a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Subsec. (d). Pub. L. 115–232 substituted “after December 11, 2017,” for “on or after the date of the enactment of this section” in introductory provisions.

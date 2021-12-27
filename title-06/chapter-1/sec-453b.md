@@ -19,7 +19,7 @@ section: 453b
 - **(e)** *Exception for certain procurements outside the United States* Subsection (a) does not apply to the following:
   - **(1)** Procurements by vessels in foreign waters.
   - **(2)** Emergency procurements.
-- **(f)** *Exception for small purchases* Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of title 10.
+- **(f)** *Exception for small purchases* Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 3205 of title 10.
 - **(g)** *Applicability to contracts and subcontracts for procurement of commercial products* This section is applicable to contracts and subcontracts for the procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed under subsections (b)(1)(C) and (b)(1)(D) above. For the purposes of this section, “commercial product” shall be as defined in section 103 of title 41.
 - **(h)** *Geographic coverage* In this section, the term “United States” includes the possessions of the United States.
 - **(i)** *Notification required within 7 days after contract award if certain exceptions applied* In the case of any contract for the procurement of an item described in subsection (b)(1), if the Secretary of Homeland Security applies an exception set forth in subsection (c) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOps.gov (or any successor site).
@@ -31,7 +31,7 @@ section: 453b
 
 ## Source credit
 
-(Pub. L. 111–5, div. A, title VI, § 604, Feb. 17, 2009, 123 Stat. 165; Pub. L. 115–232, div. A, title VIII, § 836(g)(1), Aug. 13, 2018, 132 Stat. 1872.)
+(Pub. L. 111–5, div. A, title VI, § 604, Feb. 17, 2009, 123 Stat. 165; Pub. L. 115–232, div. A, title VIII, § 836(g)(1), Aug. 13, 2018, 132 Stat. 1872; Pub. L. 117–81, div. A, title XVII, § 1702(c)(5), Dec. 27, 2021, 135 Stat. 2156.)
 
 ## Notes
 
@@ -45,7 +45,7 @@ In subsec. (g), “section 1906 of title 41” substituted for “section 34 of 
 
 ### Amendments
 
-2018—Subsec. (g). Pub. L. 115–232, substituted “commercial products” for “commercial items” in heading and, in text, substituted “procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed” for “procurement of commercial items not withstanding section 1906 of title 41, with the exception of commercial items listed” and “ ‘commercial product’ shall be as defined in section 103 of title 41.” for “ ‘commercial’ shall be as defined in the Federal Acquisition Regulation—Part 2.”
+2021—Subsec. (f). Pub. L. 117–81 substituted “section 3205” for “section 2304(g)”. 2018—Subsec. (g). Pub. L. 115–232, substituted “commercial products” for “commercial items” in heading and, in text, substituted “procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed” for “procurement of commercial items not withstanding section 1906 of title 41, with the exception of commercial items listed” and “ ‘commercial product’ shall be as defined in section 103 of title 41.” for “ ‘commercial’ shall be as defined in the Federal Acquisition Regulation—Part 2.”
 
 ### Statutory Notes and Related Subsidiaries
 

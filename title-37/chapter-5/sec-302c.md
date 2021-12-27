@@ -48,7 +48,7 @@ A prior section 302c, added Pub. L. 96–284, § 3(a)(1), June 28, 1980, 94 Stat
 
 ### Change of Name
 
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of Title 42, The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
 
 ### Effective Date of 1997 Amendment
 

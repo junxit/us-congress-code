@@ -17,9 +17,13 @@ The Secretary of the Interior is authorized and directed to acquire, on behalf o
 
 1 So in original.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 “Whitman Mission National Historic Site” and “national historic site” substituted in text for “Whitman National Monument” and “national monument”, respectively, pursuant to Pub. L. 87–471, which redesignated Whitman National Monument as Whitman Mission National Historic Site. See section 433n of this title.
+
+### Executive Documents
 
 ### Transfer of Functions
 

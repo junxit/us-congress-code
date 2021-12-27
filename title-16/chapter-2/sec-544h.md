@@ -22,6 +22,8 @@ section: 544h
 
 1 So in original. No par. (2) has been enacted.
 
+### Editorial Notes
+
 ### Codification
 
 November 17, 1986, referred to in subsec. (b)(1), was in the original “the effective date of this Act”, which was translated as being the date of enactment of Pub. L. 99–663.

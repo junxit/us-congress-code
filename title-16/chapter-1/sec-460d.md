@@ -17,9 +17,13 @@ The Chief of Engineers, under the supervision of the Secretary of the Army, is a
 
 1 So in original.
 
+### Editorial Notes
+
 ### Amendments
 
 2007—Pub. L. 110–114 inserted “federally recognized Indian tribes and” before “Federal” and “Indian tribes or” after “considerations, to such” in second proviso and “federally recognized Indian tribe” after “That in any such lease or license to a” in third proviso. 1970—Pub. L. 91–611 provided that the rules and regulations should include but not be limited to prohibitions of dumping and unauthorized disposal of refuse, garbage, rubbish, trash, debris, or litter of any kind at water resource development projects, prescribed penalty for violation of the rules and regulations, provided for trial and sentence in accordance with section 3401 of title 18, authorized issuance of citation for violation of the regulations, provided for issuance of process for arrest of any violators, and recognized the authority of Federal officer without process of arrest any person taken in act of violating the regulations. 1964—Pub. L. 88–578 struck out “, without charge,” after “The water areas of all such projects shall be open to public use generally”. 1962—Pub. L. 87–874 substituted references to water resource development projects for references to reservoir areas wherever appearing, and authorized the Chief of Engineers to permit the construction, maintenance, and operation of facilities by local interests. 1954—Act Sept. 3, 1954, amended section generally, and, among other changes, inserted “for park or recreational purposes” in first proviso, inserted “or leases where appropriate” in second proviso, and inserted third proviso permitting lessees and licensees to cut timber and harvest crop in certain cases and containing provisions with respect to the collection, utilization, and disposition of the proceeds from the sale of timber and crops. 1946—Act July 24, 1946, inserted first proviso dealing with leases to nonprofit organizations.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 
@@ -41,10 +45,12 @@ Pub. L. 99–662, title XI, § 1134(a)–(c), Nov. 17, 1986, 100 Stat. 4250, pro
 
 Pub. L. 99–662, title XI, § 1134(d), Nov. 17, 1986, 100 Stat. 4251, as amended by Pub. L. 101–640, title III, § 320, Nov. 28, 1990, 104 Stat. 4643, provided that: “On and after December 31, 1989, no houseboat, boathouse, floating cabin, sleeping facilities at marinas, or lawfully installed dock or cabin or trailer and appurtenant structures shall be required to be removed from any Federal water resources reservoir or lake project administered by the Secretary on which it was located on the date of enactment of this Act [Nov. 17, 1986], if (1) such property is maintained in usable and safe condition, (2) such property does not occasion a threat to life or property, and (3) the holder of the lease, permit, or license is in substantial compliance with the existing lease or license, except where necessary for immediate use for public purposes or other higher public use or for a navigation or flood control project.” Pub. L. 97–140, § 6, Dec. 29, 1981, 95 Stat. 1718, provided that: “Notwithstanding any other provision of law, no houseboat, floating cabin, marina (including any with sleeping facilities), or lawfully installed dock or cabin and appurtenant structures shall be required to be removed before December 31, 1989, from any Federal water resources reservoir or lake project administered by the Secretary of the Army, acting through the Chief of Engineers, on which it was located on the date of enactment of this Act [Dec. 29, 1981], if such property is maintained in usable condition, and, in the judgment of the Chief of Engineers, does not occasion a threat to life or property.” Similar provisions were contained in Pub. L. 97–128, § 8, Dec. 29, 1981, 95 Stat. 1685.
 
-### Secretary of the Air Force
-
-For transfer of certain functions relating to real property under jurisdiction of Air Force, and certain functions relating to construction of buildings and facilities insofar as they may pertain to Department of the Air Force, from Secretary of the Army to Secretary of the Air Force, see Secretary of Defense Transfer Order Nos. 14, eff. July 1, 1948; 18, eff. July 7, 1948; and 40 [App. B(66)], July 22, 1949.
-
 ### Section as Unaffected by Submerged Lands Act
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of Title 43, Public Lands.
+
+### Executive Documents
+
+### Secretary of the Air Force
+
+For transfer of certain functions relating to real property under jurisdiction of Air Force, and certain functions relating to construction of buildings and facilities insofar as they may pertain to Department of the Air Force, from Secretary of the Army to Secretary of the Air Force, see Secretary of Defense Transfer Order Nos. 14, eff. July 1, 1948; 18, eff. July 7, 1948; and 40 [App. B(66)], July 22, 1949.

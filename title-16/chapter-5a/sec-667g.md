@@ -15,6 +15,8 @@ For the purpose of meeting emergency situations caused by adverse weather condit
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 447 of Title 7, Agriculture, prior to editorial reclassification and renumbering as this section.

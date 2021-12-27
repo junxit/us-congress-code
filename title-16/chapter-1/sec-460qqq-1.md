@@ -20,6 +20,8 @@ In this subchapter:
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Definitions
 
 Pub. L. 107–282, § 3, Nov. 6, 2002, 116 Stat. 1995, provided that: “In this Act [see Short Title note set out under section 460qqq of this title]: “(1) Agreement.—The term ‘Agreement’ means the Agreement entitled ‘Interim Cooperative Management Agreement Between the United States of the Interior Bureau of Land Management and Clark County’, dated November 4, 1992. “(2) County.—The term ‘County’ means Clark County, Nevada. “(3) Secretary.—The term ‘Secretary’ means—“(A) the Secretary of Agriculture with respect to land in the National Forest System; or “(B) the Secretary of the Interior, with respect to other Federal land. “(4) State.—The term ‘State’ means the State of Nevada.”

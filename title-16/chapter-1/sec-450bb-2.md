@@ -19,6 +19,8 @@ The Secretary is authorized to—
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Act of June 7, 1974, referred to in par. (3), is Pub. L. 93–303, June 7, 1974, 88 Stat. 192, which amended former sections 460l–6a, 460l–8, and 460l–10a of this title. For complete classification of this Act to the Code, see Tables.
@@ -26,6 +28,8 @@ Act of June 7, 1974, referred to in par. (3), is Pub. L. 93–303, June 7, 1974,
 ### Amendments
 
 2004—Pub. L. 108–307 substituted “Secretary” for “Secretary of the Interior” in introductory provisions. 1974—Par. (3). Pub. L. 93–466 added par. (3).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

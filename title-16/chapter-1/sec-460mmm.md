@@ -18,9 +18,13 @@ section: 460mmm
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Subsec. (b). Pub. L. 108–400 substituted “McInnis Canyons” for “Colorado Canyons”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

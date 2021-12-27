@@ -16,6 +16,8 @@ section: 671b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1989—Subsec. (a). Pub. L. 101–189 substituted “armed forces” for “Armed Forces of the United States”.

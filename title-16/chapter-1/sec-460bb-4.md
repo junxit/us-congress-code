@@ -23,6 +23,8 @@ section: 460bb–4
 
 1 So in original. The period probably should be a colon.
 
+### Editorial Notes
+
 ### Amendments
 
 1992—Subsec. (g). Pub. L. 102–525 substituted “thirty” for “twenty”. 1980—Subsec. (b). Pub. L. 96–607, § 1001(6), substituted “eighteen” for “seventeen”. Pub. L. 96–344, § 4(2), substituted “five” for “three” and inserted proviso that the terms of members appointed or reappointed subsequent to Jan. 1, 1979, be extended so as not to expire before June 1, 1985. Subsec. (e). Pub. L. 96–607, § 1001(7), substituted “Marin, San Mateo,” for “Marin”. Subsec. (g). Pub. L. 96–344, § 4(3), substituted “twenty” for “ten”. 1978—Subsec. (b). Pub. L. 95–625 increased Commission membership from fifteen to seventeen.

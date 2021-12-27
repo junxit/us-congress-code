@@ -23,6 +23,8 @@ In sections 450ss to 450ss–7 of this title:
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Pub. L. 108–199 added par. (1), redesignated former pars. (1) to (3) as pars. (2) to (4), respectively, and struck out “designated under section 450ss–3(a) of this title” before the period in par. (4).

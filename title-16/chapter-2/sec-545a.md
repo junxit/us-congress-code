@@ -30,6 +30,8 @@ section: 545a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The geothermal leasing laws of the United States, referred to in subsec. (i), are classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining.

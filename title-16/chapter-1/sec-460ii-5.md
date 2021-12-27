@@ -33,6 +33,8 @@ section: 460ii–5
 
 1 So in original. Probably should be “within”.
 
+### Editorial Notes
+
 ### Amendments
 
 1999—Subsec. (a). Pub. L. 106–154, § 2(e)(5), substituted “this subchapter” for “this subchapter and chapter 43 of this title” in introductory provisions. Subsec. (d). Pub. L. 106–154, § 2(e)(6), substituted “this subchapter” for “this subchapter and chapter 43 of this title”.

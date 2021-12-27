@@ -15,6 +15,8 @@ A military commission under this chapter shall have jurisdiction to try persons 
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 948d, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2603, related to jurisdiction of military commissions, prior to the general amendment of this chapter by Pub. L. 111–84. A prior section 948e, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2603, which required the Secretary of Defense to submit an annual report to congressional committees, was omitted in the general amendment of this chapter by Pub. L. 111–84. See section 1806 of Pub. L. 111–84, set out as a note under section 948a of this title.

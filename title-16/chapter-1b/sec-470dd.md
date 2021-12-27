@@ -19,6 +19,8 @@ Any exchange or ultimate disposition under such regulation of archaeological res
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2014—Par. (2). Pub. L. 113–287 substituted “chapter 3125 or chapter 3203 of title 54” for “the Act of June 27, 1960 (16 U.S.C. 469–469c) or the Act of June 8, 1906 (16 U.S.C. 431–433)”.

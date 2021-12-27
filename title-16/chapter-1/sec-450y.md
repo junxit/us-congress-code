@@ -15,9 +15,13 @@ For the purpose of permanently commemorating the explorations of Francisco Vás
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1952—Act July 9, 1952, changed “Coronado International Memorial” to “Coronado National Memorial”, and struck out proviso which required action of Mexican Government prior to establishment of the Memorial.
+
+### Executive Documents
 
 ### Establishment of Memorial; Boundaries
 

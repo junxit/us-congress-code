@@ -26,6 +26,8 @@ section: 521d
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2018—Pub. L. 115–334, § 8621(c)(1)–(3), designated first sentence as subsec. (a) and inserted subsec. heading, designated second sentence as par. (1) of subsec. (b), inserted subsec. and par. headings, and substituted “covenants” for “convenants”, and designated third sentence as par. (2) of subsec. (b), inserted par. heading, and substituted “Paragraph (1) shall not” for “The preceding sentence shall not”. Subsec. (c). Pub. L. 115–334, § 8621(c)(4), added subsec. (c).

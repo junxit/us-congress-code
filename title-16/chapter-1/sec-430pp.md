@@ -15,6 +15,8 @@ In furtherance of the purposes of the Act of March 4, 1931 (46 Stat. 1522), the 
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Act of March 4, 1931 (46 Stat. 1522), referred to in text, was not classified to the Code.

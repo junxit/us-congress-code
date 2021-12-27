@@ -22,6 +22,8 @@ The maps shall be on file and available for public inspection in the office of t
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2014—Pub. L. 113–291, § 3030(1)(A), in introductory provisions, substituted “islands, shoreline, and light stations” for “islands and shoreline” and inserted “historic,” after “scenic,”. Subsec. (a). Pub. L. 113–291, § 3030(1)(B), substituted “The area” for “the area” and period at end for “; and”. Subsec. (b). Pub. L. 113–291, § 3030(1)(C), substituted “1985.” for “1985..” Subsec. (c). Pub. L. 113–291, § 3030(1)(D), added subsec. (c). 1986—Pub. L. 99–497 designated the provision specifying the boundaries of the Apostle Islands National Lakeshore as the area depicted on the map numbered NL–AI–91,000 as subsec. (a), substituted “1970; and” for “1970”, added subsec. (b), and in provision following subsec. (b) substituted “maps” for “map”.

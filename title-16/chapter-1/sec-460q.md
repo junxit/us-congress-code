@@ -15,6 +15,8 @@ In order to provide, in a manner coordinated with the other purposes of the Cent
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 Pub. L. 105–44, § 1, Sept. 30, 1997, 111 Stat. 1141, provided that: “(a) Designation.—The reservoir created by Trinity Dam in the Central Valley project, California, and designated as ‘Clair Engle Lake’ by Public Law 88–662 (78 Stat. 1093) is hereby redesignated as ‘Trinity Lake’. “(b) References.—Any reference in any law, regulation, document, record, map, or other paper of the United States to the reservoir referred to in subsection (a) shall be considered to be a reference to ‘Trinity Lake’. “(c) Repeal of Earlier Designation.—Public Law 88–662 (78 Stat. 1093) is repealed.”

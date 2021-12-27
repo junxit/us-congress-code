@@ -15,9 +15,13 @@ In order to commemorate the campaign, siege, and defense of Vicksburg, and to pr
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1966—Pub. L. 89–554 struck out provisions relating to appointment and pay of three commissioners to supervise Vicksburg National Military Park, and of a secretary.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 
@@ -26,6 +30,8 @@ In order to commemorate the campaign, siege, and defense of Vicksburg, and to pr
 ### Short Title of 2002 Amendment
 
 Pub. L. 107–238, § 1, Oct. 11, 2002, 116 Stat. 1486, provided that: “This Act [enacting sections 430h–10 to 430h–13 of this title] may be cited as the ‘Vicksburg National Military Park Boundary Modification Act of 2002’.”
+
+### Executive Documents
 
 ### Transfer of Functions
 

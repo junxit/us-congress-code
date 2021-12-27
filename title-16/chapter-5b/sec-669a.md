@@ -42,6 +42,8 @@ As used in this chapter—
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 669c(d) of this title, referred to in par. (9), was in the original “section 304(d)”, and was translated as reading “section 4(d)”, meaning section 4(d) of Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, does not contain a section 304(d), and section 4(d) relates to wildlife conservation and restoration programs. Section 669c(d) of this title was redesignated section 669c(e) of this title by Pub. L. 116–94, div. P, title V, § 501(d)(2)(A), Dec. 20, 2019, 133 Stat. 3192. This chapter, referred to in par. (9), was in the original “this title”, and was translated as reading “this Act”, meaning Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, which enacted this chapter, does not contain titles.
@@ -49,6 +51,8 @@ Section 669c(d) of this title, referred to in par. (9), was in the original “s
 ### Amendments
 
 2019—Pars. (2) to (11). Pub. L. 116–94 added pars. (2) and (3) and redesignated former pars. (2) to (9) as (4) to (11), respectively. Pub. L. 116–17 added par. (2) and redesignated former pars. (2) to (8) as (3) to (9), respectively. Such pars. (2) to (9) were subsequently redesignated (4) to (11) by Pub. L. 116–94. 2000—Pub. L. 106–553 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “For the purposes of this chapter the term ‘wildlife-restoration project’ shall be construed to mean and include the selection, restoration, rehabilitation, and improvement of areas of land or water adaptable as feeding, resting, or breeding places for wildlife, including acquisition by purchase, condemnation, lease, or gift of such areas or estates or interests therein as are suitable or capable of being made suitable therefor, and the construction thereon or therein of such works as may be necessary to make them available for such purposes and also including such research into problems of wildlife management as may be necessary to efficient administration affecting wildlife resources, and such preliminary or incidental costs and expenses as may be incurred in and about such projects; the term ‘State fish and game department’ shall be construed to mean and include any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department.” 1960—Pub. L. 86–624 struck out provisions which defined “State” as including the several States and the Territory of Hawaii. 1956—Act July 2, 1956, included definition of “State”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1956 Amendment
 

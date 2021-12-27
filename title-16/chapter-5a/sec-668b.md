@@ -17,13 +17,19 @@ section: 668b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1972—Pub. L. 92–535 substituted provisions relating to enforcement of this subchapter including arrest, without warrant, issuance and execution of warrants and process, search, forfeiture, and applicability of certain customs laws, for provisions incorporating provisions of section 706 in haec verba.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” in subsec. (a) pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+
+### Executive Documents
 
 ### Transfer of Functions
 

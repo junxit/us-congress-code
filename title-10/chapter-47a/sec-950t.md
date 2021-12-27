@@ -61,6 +61,8 @@ The following offenses shall be triable by military commission under this chapte
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 Prior sections 950t to 950w were omitted in the general amendment of this chapter by Pub. L. 111–84. Section 950t, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2625, related to attempts to commit any offense punishable by this chapter. Section 950u, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2625, related to solicitation. Section 950v, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2625, related to definitions, construction, and crimes triable by military commissions. Section 950w, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2630, related to perjury, obstruction of justice, and contempt.

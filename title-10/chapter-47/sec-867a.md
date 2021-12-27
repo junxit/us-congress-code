@@ -16,9 +16,13 @@ section: 867a
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Subsec. (a). Pub. L. 114–328 inserted “United States” before “Court of Appeals” in second sentence. 1994—Subsec. (a). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in two places.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2016 Amendment
 

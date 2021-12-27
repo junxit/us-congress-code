@@ -15,9 +15,13 @@ Joshua Tree National Monument, in the State of California, established by Procla
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1961—Pub. L. 87–80 included within the boundaries of Joshua Tree National Monument certain federally owned lands situate in county of San Bernardino, California.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Abolition of Joshua Tree National Monument
 

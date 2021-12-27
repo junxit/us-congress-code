@@ -30,6 +30,8 @@ section: 222c
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2019—Subsec. (a). Pub. L. 116–92, § 1006(1), substituted “subsection (c)” for “subsection (b)” in introductory provisions. Subsecs. (b) to (e). Pub. L. 116–92, § 1006(2)–(4), added subsec. (b), redesignated former subsec. (b) as (c) and in par. (6) substituted “subsection (d)” for “subsection (c)”, and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.

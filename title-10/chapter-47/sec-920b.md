@@ -42,9 +42,13 @@ section: 920b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2016—Subsec. (h)(1). Pub. L. 114–328 inserted before period at end “, except that the term ‘sexual act’ also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person”. 2013—Pub. L. 112–239 made technical amendment to directory language of Pub. L. 112–81, which enacted this section.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2016 Amendment
 

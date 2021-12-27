@@ -15,10 +15,14 @@ The Secretary of the Interior is authorized in his discretion to acquire, by pur
 
 ## Notes
 
-### Boundaries of Monument
-
-Boundaries established by Presidential Proc. No. 2307, Oct. 25, 1938, 3 F.R. 2579, 53 Stat. 2494.
+### Statutory Notes and Related Subsidiaries
 
 ### Inclusion in Natchez Trace Parkway
 
 Ackia Battleground National Monument included in the Natchez Trace Parkway, see section 460–1 of this title.
+
+### Executive Documents
+
+### Boundaries of Monument
+
+Boundaries established by Presidential Proc. No. 2307, Oct. 25, 1938, 3 F.R. 2579, 53 Stat. 2494.

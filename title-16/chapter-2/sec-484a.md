@@ -15,9 +15,13 @@ Whenever an exchange of land is proposed by a State, county, or municipal govern
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1983—Pub. L. 97–465 inserted references to State, county, or municipal government in three places in existing provisions and inserted provision authorizing the conveyance of lands to any State, county, or municipal government pursuant to this section only if the lands were being utilized by such entities on January 12, 1983, and requiring that lands so conveyed be used only for the purposes for which they were being used prior to conveyance.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

@@ -15,6 +15,8 @@ Notwithstanding the provisions of section 1348 of title 31, appropriations for t
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 “Section 1348 of title 31” substituted in text for “section 7 of the Act of August 23, 1912, as amended (31 U.S.C. 679)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.

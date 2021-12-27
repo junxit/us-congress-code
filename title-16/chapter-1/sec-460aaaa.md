@@ -49,6 +49,8 @@ section: 460aaaa
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Act of June 14, 1926, referred to in par. (2)(C)(i), is act June 14, 1926, ch. 578, 44 Stat. 741, popularly known as the Recreation and Public Purposes Act, which is classified to sections 869 to 869–4 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 869 of Title 43 and Tables.

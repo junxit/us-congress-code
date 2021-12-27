@@ -40,6 +40,8 @@ section: 127a
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
@@ -47,6 +49,8 @@ The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov.
 ### Amendments
 
 2011—Subsec. (a)(1)(A). Pub. L. 111–383, § 1075(b)(2)(A), substituted “armed forces” for “Armed Forces”. Subsec. (a)(3), (4). Pub. L. 112–81 redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Whenever an operation to which this section applies is commenced or subsequently becomes covered by this section, the Secretary of Defense shall designate and identify that operation for the purposes of this section and shall promptly notify Congress of that designation (and of the identification of the operation).” Subsec. (b)(1). Pub. L. 111–383, § 1075(b)(2)(B), substituted “armed forces” for “Armed Forces” in two places. 2003—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which required Secretary of Defense, within 45 days after identifying an operation pursuant to subsec. (a)(2), to submit a report to Congress relating to the funding, objectives, duration, cost, and exit criteria of the operation. 1996—Pub. L. 104–106 substituted “Operations for which funds are not provided in advance: funding mechanisms” for “Expenses for contingency operations” as section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to funding procedures for operations designated by the Secretary of Defense as National Contingency Operations.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1996 Amendment
 

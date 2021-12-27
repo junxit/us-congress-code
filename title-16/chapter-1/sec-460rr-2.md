@@ -29,9 +29,13 @@ section: 460rr–2
 
 1 So in original. Probably should be “subsection (f),”.
 
+### Editorial Notes
+
 ### References in Text
 
 This subchapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 99–504, Oct. 20, 1986, 100 Stat. 1802, known as the Nebraska Wilderness Act of 1985, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

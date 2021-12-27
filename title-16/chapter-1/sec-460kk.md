@@ -88,6 +88,8 @@ section: 460kk
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in subsecs. (i) and (q)(4), means Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3467, known as the National Parks and Recreation Act of 1978. For complete classification of this Act to the Code, see Tables. The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.), referred to in subsec. (i), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
@@ -95,6 +97,8 @@ This Act, referred to in subsecs. (i) and (q)(4), means Pub. L. 95–625, Nov. 1
 ### Amendments
 
 2002—Subsec. (c)(1). Pub. L. 107–236, §§ 2(1), 3(1), substituted “ ‘Santa Monica Mountains National Recreation Area and Santa Monica Mountains Zone, California, Boundary Map’, numbered 80,047–C and dated August 2001” for “ ‘Boundary Map, Santa Monica Mountains National Recreation Area, California, and Santa Monica Mountains Zone’, numbered SMM–NRA 80,000, and dated May 1978” and “Committee on Resources” for “Committee on Natural Resources”. Subsec. (c)(2)(A). Pub. L. 107–236, § 2(2), inserted after third sentence “Lands within the ‘Wildlife Corridor Expansion Zone’ identified on the boundary map referred to in paragraph (1) may be acquired only by donation or with donated funds.” Subsec. (c)(2)(B). Pub. L. 107–236, § 3(2), substituted “certain federally owned” for “of certain federally owned” in first sentence. Subsec. (n)(5). Pub. L. 107–236, § 3(3), substituted “laws,” for “laws” in second sentence. 1994—Subsec. (c)(1). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”. 1984—Subsec. (c)(2). Pub. L. 98–572 designated existing provisions as subpar. (A), inserted exception clause in third sentence, and added subpars. (B) and (C). 1980—Subsec. (q)(2)(E). Pub. L. 96–199 increased from 5 to 9 the number of members appointed by the Secretary of the Interior. 1979—Subsec. (f)(1). Pub. L. 96–87 substituted “construction of which was begun before January 1, 1978” for “construction of which was begun before January 1, 1976”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Anthony C. Beilenson Visitor Center
 

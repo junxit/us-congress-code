@@ -30,6 +30,8 @@ section: 129b
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, § 9002, Nov. 21, 1989, 103 Stat. 1129, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, § 1481(b)(3).

@@ -23,6 +23,8 @@ section: 460ff–1
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 460ff–4 of this title, referred to in subsec. (b), was in the original “section 5 of this Act” meaning section 5 of Pub. L. 93–555 which was repealed and section 6 was redesignated section 5 by Pub. L. 106–291, title I, § 149(d), Oct. 11, 2000, 114 Stat. 956.

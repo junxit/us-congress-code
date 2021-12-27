@@ -23,6 +23,8 @@ section: 470ee
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1988—Subsec. (a). Pub. L. 100–588, § 1(b), inserted “, or attempt to excavate, remove, damage, or otherwise alter or deface” after “deface”. Subsec. (d). Pub. L. 100–588, § 1(c), substituted “$500” for “$5,000”.
