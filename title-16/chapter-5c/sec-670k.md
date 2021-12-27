@@ -30,9 +30,13 @@ As used in this subchapter—
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2011—Pub. L. 112–81 inserted section catchline.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Functions
 

@@ -15,9 +15,13 @@ The jurisdiction of the United States District Court for the District of Hawaii 
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1960—Pub. L. 86–624 struck out Kure Island. 1959—Pub. L. 86–3 extended jurisdiction to cases arising on or within Palmyra Island.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1959 Amendment
 

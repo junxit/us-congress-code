@@ -15,6 +15,8 @@ Any bonds or other obligations of Puerto Rico issued after August 3, 1935, for t
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.

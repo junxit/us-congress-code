@@ -15,9 +15,13 @@ Upon adoption of the constitution by the people of Puerto Rico, the President of
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Constitution of the Commonwealth of Puerto Rico
 

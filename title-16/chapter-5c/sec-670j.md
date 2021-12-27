@@ -23,6 +23,8 @@ section: 670j
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2011—Pub. L. 112–81, § 312(b)(10), inserted section catchline and headings for subsecs. (a) to (d). Subsec. (b)(2), (3). Pub. L. 112–81, § 312(c), substituted “magistrate judge” for “magistrate”.

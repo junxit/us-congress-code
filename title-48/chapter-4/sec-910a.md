@@ -15,6 +15,8 @@ The government of Puerto Rico may assist slum clearance and urban redevelopment 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter. Section 102 of act July 18, 1950, cited as a credit to this section, as applicable to Alaska and Hawaii, was classified to sections 480a and 721a of this title.

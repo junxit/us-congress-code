@@ -30,6 +30,8 @@ section: 698u
 
 1 See References in Text note below.
 
+### Editorial Notes
+
 ### References in Text
 
 Section 101 of the National Historic Preservation Act (16 U.S.C. 470a), referred to in subsec. (a)(3)(A), is section 101 of Pub. L. 89–665, which was repealed and restated as chapters 3021 to 3027 and sections 302902(a), 302903(a), 302904 to 302909, 303902, 303903, and 306101(b) and (c) of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272.
@@ -37,6 +39,8 @@ Section 101 of the National Historic Preservation Act (16 U.S.C. 470a), referred
 ### Amendments
 
 2000—Subsec. (a)(4)(A). Pub. L. 106–176 substituted “to acquire” for “to purchase”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

@@ -15,6 +15,8 @@ Nothing in this subchapter shall enlarge or diminish or in any way affect (1) th
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2011—Pub. L. 112–81 inserted section catchline.

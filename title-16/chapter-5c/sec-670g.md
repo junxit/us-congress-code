@@ -16,9 +16,13 @@ section: 670g
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2011—Pub. L. 112–81 inserted section catchline and headings for subsecs. (a) and (b). 1982—Subsec. (a). Pub. L. 97–396 inserted “of fish, wildlife, and plants” after “species”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Functions
 

@@ -29,6 +29,8 @@ section: 698s
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1994—Subsec. (b)(2)(B). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs”.

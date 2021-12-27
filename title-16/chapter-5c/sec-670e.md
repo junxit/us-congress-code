@@ -15,6 +15,8 @@ Nothing herein contained shall be construed to modify, amend or repeal any provi
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Public Law 85–337, referred to in text, is Pub. L. 85–337, Feb. 28, 1958, 72 Stat. 28, which is classified to section 2671 of Title 10, Armed Forces; section 472 of former Title 40, Public Buildings, Property, and Works [now 40 U.S.C. 102]; and sections 155 to 158 of Title 43, Public Lands. For complete classification of this Act to the Code, see Tables. Section 9 of the Act of June 7, 1924 [ch. 348, 43 Stat. 655], referred to in text, was classified to the code as follows: The first and fifth sentences were classified to section 471(b) of this title, which was repealed by section 704(a) of Pub. L. 94–579; the second and third sentences were classified to section 505 of this title; and the fourth sentence was classified to section 499 of this title.

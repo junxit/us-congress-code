@@ -17,6 +17,8 @@ section: 698b
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1976—Subsec. (b). Pub. L. 94–578 substituted “detached year-round one-family dwelling which serves as the owner’s permanent place of abode at the time of acquisition, and” for “detached, one-family dwelling,”.

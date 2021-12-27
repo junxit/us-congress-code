@@ -21,6 +21,8 @@ section: 698h
 
 1 See 1988 Amendment note below.
 
+### Editorial Notes
+
 ### Amendments
 
 1988—Subsec. (b)(i). Pub. L. 100–301, § 4(f)(1), inserted “with respect to the preserve and January 1, 1986, with respect to the Addition” after “November 23, 1971,”. Subsec. (b)(ii). Pub. L. 100–301, § 4(f)(2)(A), inserted “with respect to the preserve and January 1, 1986, with respect to the Addition” after “November 23, 1971,”. Pub. L. 100–301, § 4(f)(2)(B), which directed insertion of “or January 1, 1986, as the case may be,” after “November 23, 1971,” the second and third places it appears, was executed by making the insertion after “November 23, 1971,” the second place it appears and after “November 23, 1971” preceding the period as the probable intent of Congress.

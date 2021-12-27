@@ -15,9 +15,13 @@ No person shall take, injure, or disturb any bird, or nest or egg thereof, or in
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 690i, included within the reference to sections 690 to 690i, was omitted from the Code.
+
+### Executive Documents
 
 ### Transfer of Functions
 

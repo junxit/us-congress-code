@@ -20,6 +20,8 @@ The Secretary of the Interior is authorized to contract for the delivery of wate
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Federal reclamation laws, referred to in introductory text, are identified in section 695f of this title.

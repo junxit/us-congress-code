@@ -15,6 +15,8 @@ Bonds or other obligations of Puerto Rico or any municipal government therein, p
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.

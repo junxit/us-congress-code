@@ -22,9 +22,13 @@ section: 698q
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2009—Subsec. (b). Pub. L. 111–11, § 7103(1), designated existing provisions as par. (1), inserted heading, and added par. (2). Subsec. (c). Pub. L. 111–11, § 7103(2), substituted “maps” for “map” in introductory provisions.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title
 

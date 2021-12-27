@@ -38,6 +38,8 @@ section: 670h
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (c)(1), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
@@ -49,6 +51,8 @@ In subsec. (d), “chapter 63 of title 31” substituted for “the Federal Gran
 ### Amendments
 
 2011—Pub. L. 112–81 inserted section catchline and headings for subsecs. (a) to (d). 1982—Subsec. (d). Pub. L. 97–396 added subsec. (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Transfer of Functions
 

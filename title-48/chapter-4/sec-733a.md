@@ -15,9 +15,13 @@ All citizens of the United States who have resided or who shall after March 4, 1
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 5a of Title 8, Aliens and Nationality.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

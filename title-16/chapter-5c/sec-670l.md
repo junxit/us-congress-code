@@ -15,6 +15,8 @@ Notwithstanding any other provision in this subchapter, section 670i of this tit
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2011—Pub. L. 112–81 inserted section catchline.

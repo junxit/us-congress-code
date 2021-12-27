@@ -15,6 +15,8 @@ To facilitate administration for the purpose for which the preserve has been est
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 “Custer State Park Game Sanctuary” changed to “Norbeck Wildlife Preserve” by act Oct. 6, 1949.

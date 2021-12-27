@@ -15,9 +15,13 @@ The Secretary of the Interior is authorized to make such expenditures for constr
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 690i, included within the reference to sections 690 to 690i, was omitted from the Code.
+
+### Executive Documents
 
 ### Transfer of Functions
 

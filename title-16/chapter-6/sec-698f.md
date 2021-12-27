@@ -22,9 +22,13 @@ section: 698f
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2004—Subsec. (d)(3). Pub. L. 108–483 substituted “The amount described in paragraph (2)” for “The amount described in paragraph (1)”. 1988—Subsec. (c). Pub. L. 100–301, § 4(b), inserted in provisions before first proviso “or the Addition” after “boundaries of the preserve” and in first proviso “in the preserve” after “subdivisions,” and “and, any land acquired by the State of Florida, or any of its subdivisions, in the Addition shall be acquired in accordance with subsection (d)” before the colon. Pub. L. 100–301, § 4(e), inserted “and the Addition” after “for the purposes of the preserve” and after “any lands within the preserve” in third sentence. Pub. L. 100–301, § 4(c), inserted “or the Addition” after “land within the preserve” and after “property within the preserve” in fourth sentence. Pub. L. 100–301, § 4(d), inserted at end “Nothing in sections 698f to 698m–4 of this title shall be construed to interfere with the right of the State of Florida to acquire such property rights as may be necessary for Interstate 75.” Subsec. (d). Pub. L. 100–301, § 4(a), added subsec. (d).
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 1988 Amendment
 

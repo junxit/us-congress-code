@@ -15,9 +15,13 @@ The Secretary of the Interior is authorized to acquire, by purchase or otherwise
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2019—Pub. L. 116–94 substituted “White Horse Hill National Game Preserve” for “Sullys Hill National Game Preserve” in text.
+
+### Executive Documents
 
 ### Transfer of Functions
 

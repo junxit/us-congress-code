@@ -15,6 +15,8 @@ Such lands, when acquired in accordance with the provisions of sections 690 to 6
 
 ## Notes
 
+### Editorial Notes
+
 ### References in Text
 
 Section 690i, included within the reference to sections 690 to 690i, was omitted from the Code.

@@ -15,9 +15,13 @@ On lands within the game preserve established in section 689a of this title, hun
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1948—Act June 25, 1948, struck out penal provisions. See section 41 of Title 18, Crimes and Criminal Procedure.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1948 Amendment
 

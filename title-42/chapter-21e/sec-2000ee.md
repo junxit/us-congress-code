@@ -123,11 +123,11 @@ Section was formerly set out as a note under section 601 of Title 5, Government 
 
 2018—Subsec. (f). Pub. L. 115–118, § 108(b)(1), substituted “The Board” for “The Board shall” in introductory provisions. Subsec. (f)(1). Pub. L. 115–118, § 108(b)(2), substituted “shall make its” for “make its”. Subsec. (f)(2). Pub. L. 115–118, § 108(b)(3), substituted “shall hold public” for “hold public” and inserted before period at end “, but may, notwithstanding section 552b of title 5, meet or otherwise communicate in any number to confer or deliberate in a manner that is closed to the public”. Subsec. (j)(2) to (4). Pub. L. 115–118, § 108(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. 2015—Subsec. (g)(5). Pub. L. 114–113 added par. (5). 2007—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (l).
 
+### Statutory Notes and Related Subsidiaries
+
 ### Change of Name
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
-### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2007 Amendment
 
