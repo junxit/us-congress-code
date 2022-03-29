@@ -17,13 +17,19 @@ section: 122a
     - **(B)** proprietary information;
     - **(C)** information that is exempt from disclosure under section 552 of title 5 (commonly referred to as the “Freedom of Information Act”); or
     - **(D)** any other type of information that the Secretary of Defense determines should not be made available to the public in the interest of national security.
-- **(c)** *Semi-annual Summaries.—* Not later than January 1 and July 1 of each year, the Secretary of Defense shall make publicly available on an appropriate internet website a summary of all reports submitted to Congress by the Department of Defense for the preceding six-month period that are required to be submitted by statute. Each such summary shall include, for each report covered by the summary, the title of report, the date of delivery, and the section of law under which such report is required.
+- **(c)** *11 See Applicability of Amendment note below. Semi-annual Summaries.—* Not later than January 1 and July 1 of each year, the Secretary of Defense shall make publicly available on an appropriate internet website a summary of all reports submitted to Congress by the Department of Defense for the preceding six-month period that are required to be submitted by statute. Each such summary shall include, for each report covered by the summary, the title of report, the date of delivery, and the section of law under which such report is required.
 
 ## Source credit
 
 (Added Pub. L. 111–383, div. A, title X, § 1061(a)(1), Jan. 7, 2011, 124 Stat. 4362; amended Pub. L. 112–81, div. A, title X, § 1068, Dec. 31, 2011, 125 Stat. 1589; Pub. L. 113–66, div. A, title X, § 1081(a), Dec. 26, 2013, 127 Stat. 871; Pub. L. 115–91, div. A, title X, § 1081(a)(3), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 117–81, div. A, title X, § 1062(a), Dec. 27, 2021, 135 Stat. 1909.)
 
 ## Notes
+
+1 See Applicability of Amendment note below.
+
+### Applicability of Amendment
+
+Subsec. (c) of this section as added by section 1062(a) of Pub. L. 117–81 applicable one year after Dec. 27, 2021. See Effective Date of 2021 Amendment note below.
 
 ### Editorial Notes
 
