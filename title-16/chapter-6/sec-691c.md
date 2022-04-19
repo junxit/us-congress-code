@@ -15,7 +15,7 @@ The Secretary of the Interior may do all things and make all expenditures necess
 
 ## Notes
 
-### Statutory Notes and Related Subsidiaries
+### Executive Documents
 
 ### Transfer of Functions
 

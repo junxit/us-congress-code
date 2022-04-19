@@ -20,6 +20,8 @@ Following a determination of the appropriate uses of the Plains High School for 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 In par. (1), “section 100502 of title 54” substituted for “section 12(b) of the Act entitled “An Act to improve the administration of the national park system by the Secretary, and to clarify the authorities applicable to the system, and for other purposes”, approved August 18, 1970 (16 U.S.C. la–1 et seq.)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.

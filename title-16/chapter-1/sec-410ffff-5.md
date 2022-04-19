@@ -15,6 +15,8 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1998—Pub. L. 105–363 substituted “$4,000,000” for “$1,500,000”.

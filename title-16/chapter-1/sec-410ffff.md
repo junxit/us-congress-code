@@ -18,9 +18,13 @@ As used in this subchapter—
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2021—Par. (2). Pub. L. 116–305 substituted “historical park” for “historic site” and “National Historical Park” for “National Historic Site”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 2021 Amendment
 

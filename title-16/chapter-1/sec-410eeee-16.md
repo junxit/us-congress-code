@@ -17,9 +17,13 @@ The Secretary of the Interior is authorized to construct a visitor center and su
 
 1 See Change of Name note below.
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 460m–29a of this title. Section was enacted as part of the Omnibus Parks and Public Lands Management Act of 1996, and not as part of title XI of the National Parks and Recreation Act of 1978 which comprises this subchapter.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

@@ -20,6 +20,8 @@ section: 410eeee–2
 
 1 See Change of Name note below.
 
+### Editorial Notes
+
 ### References in Text
 
 This Act, referred to in subsec. (c), is Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3467, known as the National Parks and Recreation Act of 1978. For complete classification of this Act to the Code, see Tables.
@@ -31,6 +33,8 @@ Section was formerly classified to section 460m–16 of this title. Pub. L. 99�
 ### Amendments
 
 1986—Subsec. (a). Pub. L. 99–500, Pub. L. 99–590, Pub. L. 99–591, amended subsec. (a) identically inserting provisions relating to acquisition of an administrative headquarters site.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

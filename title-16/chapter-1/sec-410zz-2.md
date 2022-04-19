@@ -26,6 +26,8 @@ section: 410zz–2
 
 1 So in original. Probably should be “detrimental”.
 
+### Editorial Notes
+
 ### Amendments
 
 2020—Subsec. (a). Pub. L. 116–260, § 201(b)(1), designated existing provisions as par. (1) and added par. (2). Subsec. (b)(2), (3). Pub. L. 116–260, § 201(b)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: “Lands or interests therein owned by the State of Arizona or a political subdivision thereof may only be acquired by donation or exchange.”

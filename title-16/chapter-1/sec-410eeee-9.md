@@ -15,6 +15,8 @@ The Secretary of the Army shall cooperate with the Secretary of the Interior con
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 460m–23 of this title.

@@ -20,6 +20,8 @@ section: 410hhhh–3
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2021—Subsec. (a). Pub. L. 116–341, § 2(b)(4), (5), made identical amendments, substituting “historical park” for “historic site”. See Codification note set out under section 410hhhh of this title.

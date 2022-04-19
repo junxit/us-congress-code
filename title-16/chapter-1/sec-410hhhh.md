@@ -38,6 +38,8 @@ section: 410hhhh
 
 2 So in original. Probably should be “Historic Site”. See Codification and 2021 Amendment notes below.
 
+### Editorial Notes
+
 ### Codification
 
 As enacted, the amendment by section 2(b)(5) of Pub. L. 116–341 substituting “historical park” for “historic site” is identical to the one by section 2(b)(4), and the amendment by section 2(b)(6) substituting “Historical Park” for “Historic Site” effectively duplicates those by section 2(b)(1), (2)(B), and (3), applies where it probably should not, and does not apply in other cases where it probably should. A companion bill, S. 3098 of the 116th Congress, 1st Session, contained amendments similar to those by section 2(b)(5) and (6) of Pub. L. 116–341, but they were formatted such that section 2(b)(5) applied specifically to section catchlines and section 2(b)(6) applied specifically to subsection headings. Nevertheless, the amendments as enacted by Pub. L. 116–341 have been executed as written and formatted.
@@ -45,6 +47,8 @@ As enacted, the amendment by section 2(b)(5) of Pub. L. 116–341 substituting �
 ### Amendments
 
 2021—Pub. L. 116–341, § 2(b)(4), (5), made identical amendments, substituting “historical park” for “historic site” wherever appearing. See Codification note above. Subsec. (a). Pub. L. 116–341, § 2(b)(1) substituted “National Historical Park” for “National Historic Site”. See Codification note above. Subsec. (b)(1). Pub. L. 116–341, § 2(b)(6), substituted “Historical Park” for “Historic Site”. Amendment was executed as directed, notwithstanding that it probably should not have applied to the quoted text. See Codification note above. 1997—Subsec. (c)(2). Pub. L. 105–106 struck out “, the Plains Railroad Depot (described in subsection (b)(2)(B)),” before “and the Plains High School”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Short Title of 2021 Amendment
 

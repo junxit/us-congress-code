@@ -20,9 +20,13 @@ Within two years from November 10, 1978, the Secretary shall submit, in writing,
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 460m–17 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

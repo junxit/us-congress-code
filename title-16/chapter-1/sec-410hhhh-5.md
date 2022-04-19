@@ -19,6 +19,8 @@ For the purposes of this subchapter—
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 2021—Par. (2). Pub. L. 116–341, § 2(b)(4), (5), made identical amendments, substituting “historical park” for “historic site”. See Codification note set out under section 410hhhh of this title. Pub. L. 116–341, § 2(b)(3), substituted “National Historical Park” for “National Historic Site”. See Codification note set out under section 410hhhh of this title.

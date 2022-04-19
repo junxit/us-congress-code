@@ -15,6 +15,8 @@ It shall be the duty of the Secretary of the Interior to lay out said land in a 
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 450w of this title.

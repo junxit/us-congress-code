@@ -15,6 +15,8 @@ The Secretary of the Interior, in coordination with all Federal, State, and othe
 
 ## Notes
 
+### Editorial Notes
+
 ### Prior Provisions
 
 A prior section 3 of Pub. L. 94–389 was classified to section 673f of this title, prior to repeal by Pub. L. 105–362.

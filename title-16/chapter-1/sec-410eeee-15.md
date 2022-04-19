@@ -17,9 +17,13 @@ In order to provide for public use and enjoyment of the scenic and natural resou
 
 1 See Change of Name note below.
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 460m–29 of this title.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 

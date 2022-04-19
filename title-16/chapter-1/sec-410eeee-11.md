@@ -15,6 +15,8 @@ There are hereby authorized to be appropriated such sums as may be necessary for
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was formerly classified to section 460m–25 of this title. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.

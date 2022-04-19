@@ -15,7 +15,7 @@ When title to the site of the Andrew Johnson Homestead and the site of the tailo
 
 ## Notes
 
-### Editorial Notes
+### Statutory Notes and Related Subsidiaries
 
 ### Change of Name
 
