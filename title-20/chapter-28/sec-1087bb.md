@@ -133,7 +133,7 @@ section: 1087bb
 
 ### Amendment of Section
 
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3137, 3199, 3200, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended: (1) by striking “the expected family contribution” each place the term appears and inserting “the student aid index”; (2) by striking “an expected family contribution” each place the term appears and inserting “a student aid index”; and (3) by striking “average expected family contribution” each place the term appears and inserting “average student aid index”. See 2020 Amendment notes below.
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3137, 3199, 3200; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended: (1) by striking “the expected family contribution” each place the term appears and inserting “the student aid index”; (2) by striking “an expected family contribution” each place the term appears and inserting “a student aid index”; and (3) by striking “average expected family contribution” each place the term appears and inserting “average student aid index”. See 2020 Amendment notes below.
 
 ### Editorial Notes
 
@@ -153,7 +153,7 @@ A prior section 1087bb, Pub. L. 89–329, title IV, § 462, as added Pub. L. 92�
 
 ### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 ### Effective Date of 2009 Amendment
 

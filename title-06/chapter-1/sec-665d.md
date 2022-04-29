@@ -5,7 +5,7 @@ chapter: 1
 section: 665d
 ---
 
-# § 665d. Sector risk management agencies
+# § 665d. Sector Risk Management Agencies
 
 - **(a)** *In general* Consistent with applicable law, Presidential directives, Federal regulations, and strategic guidance from the Secretary, each Sector Risk Management Agency, in coordination with the Director, shall—
   - **(1)** provide specialized sector-specific expertise to critical infrastructure owners and operators within its designated critical infrastructure sector or subsector of such sector; and
@@ -40,7 +40,7 @@ section: 665d
 
 ## Source credit
 
-(Pub. L. 107–296, title XXII, § 2218, formerly § 2215, as added Pub. L. 116–283, div. H, title XC, § 9002(c)(1), Jan. 1, 2021, 134 Stat. 4770; renumbered § 2218 and amended, Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(v), Dec. 27, 2021, 135 Stat. 2061.)
+(Pub. L. 107–296, title XXII, § 2218, formerly § 2215, as added Pub. L. 116–283, div. H, title XC, § 9002(c)(1), Jan. 1, 2021, 134 Stat. 4770; renumbered § 2218 and amended Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(v), Dec. 27, 2021, 135 Stat. 2061.)
 
 ## Notes
 
@@ -52,4 +52,4 @@ A prior section 2218 of Pub. L. 107–296, title XXII, as added Pub. L. 117–58
 
 ### Amendments
 
-2021—Pub. L. 117–81 re-enacted section catchline.
+2021—Pub. L. 117–81 reenacted section catchline.

@@ -68,6 +68,10 @@ section: 179D
 
 ## Notes
 
+### Inflation Adjusted Items for Certain Years
+
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
+
 ### Editorial Notes
 
 ### Amendments

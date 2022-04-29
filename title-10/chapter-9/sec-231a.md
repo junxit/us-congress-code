@@ -35,12 +35,12 @@ section: 231a
       - **(iii)** the confidence or certainty level associated with the cost estimate for each aircraft program; and
       - **(iv)** a certification that the calculations from which the cost estimate is derived are based on common cost categories used by the Under Secretary of Defense for Acquisition and Sustainment for calculating the life-cycle cost of an aircraft program.
     - **(F)** An assessment by the Secretary of Defense of the extent to which the combined aircraft forces of the Department of the Army, the Department of the Navy, and the Department of the Air Force meet the national security requirements of the United States.
-  - **(3)** For any cost estimate required by subparagraph (C) or (D) of paragraph (2) for any aircraft program for which the Secretary is required to include in a report under section 2432 11 See References in Text note below. of this title, the source of the cost information used to prepare the annual aircraft plan shall be derived from the Selected Acquisition Report data that the Secretary plans to submit to the congressional defense committees in accordance with subsection (f) of that section for the year for which the annual aircraft procurement plan is prepared.
+  - **(3)** For any cost estimate required by subparagraph (C) or (D) of paragraph (2) for any aircraft program for which the Secretary is required to include in a report under section 4351 of this title, the source of the cost information used to prepare the annual aircraft plan shall be derived from the Selected Acquisition Report data that the Secretary plans to submit to the congressional defense committees in accordance with subsection (f) of that section for the year for which the annual aircraft procurement plan is prepared.
   - **(4)** Each annual aircraft procurement plan shall be submitted in unclassified form, and shall contain a classified annex. A summary version of the unclassified report shall be made available to the public.
 - **(d)** *Assessment When Aircraft Procurement Budget Is Insufficient to Meet Applicable Requirements.—* If the budget for any fiscal year provides for funding of the procurement of aircraft for the Department of the Army, the Department of the Navy, or the Department of the Air Force at a level that is not sufficient to sustain the aviation force structure specified in the aircraft procurement plan for such Department for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes the funding shortfall and discusses the risks associated with the reduced force structure of aircraft that will result from funding aircraft procurement at such level. The assessment shall be coordinated in advance with the commanders of the combatant commands.
 - **(e)** *Annual Report on Aircraft Inventory.—*
   - **(1)** As part of the annual plan and certification required to be submitted under this section, the Secretary shall include a report on the aircraft in the inventory of the Department of Defense.
-  - **(2)** Each report under paragraph (1) shall include the following, for the year covered by such report, include:
+  - **(2)** Each report under paragraph (1) shall include for the year covered by such report, the following:
     - **(A)** The total number of aircraft in the inventory.
     - **(B)** The total number of the aircraft in the inventory that are active, stated in the following categories (with appropriate subcategories for mission aircraft, training aircraft, dedicated test aircraft, and other aircraft):
       - **(i)** Primary aircraft.
@@ -64,13 +64,7 @@ section: 231a
 
 ## Notes
 
-1 See References in Text note below.
-
 ### Editorial Notes
-
-### References in Text
-
-Section 2432 of this title, referred to in subsec. (c)(3), was renumbered as section 4351 of this title by Pub. L. 116–283, div. A, title XVIII, § 1849(b), (c), (d)(1), (e)(1), (f)(1), (g), (h)(1), (i), (j), (k)(1), Jan. 1, 2021, 134 Stat. 4259–4263, as amended by Pub. L. 117–81, div. A, title XVII, § 1701(o)(1)(B), (3), (4), (5)(A), Dec. 27, 2021, 135 Stat. 2146, 2147.
 
 ### Prior Provisions
 
@@ -78,7 +72,7 @@ A prior section 231a, added Pub. L. 110–417, [div. A], title I, § 141(a), Oct
 
 ### Amendments
 
-2021—Subsec. (c)(3). Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2432”, which was redesignated as multiple sections. Subsec. (e)(2). Pub. L. 117–81, which directed the substitution of “include” for “include the following,”, was executed by substituting “include” for “the following” to reflect the probable intent of Congress.
+2021—Subsec. (c)(3). Pub. L. 116–283, § 1883(b)(2), substituted “section 4351” for “section 2432”. Subsec. (e)(2). Pub. L. 117–81, substituted “include” for “include the following,” in introductory provisions.
 
 ### Statutory Notes and Related Subsidiaries
 

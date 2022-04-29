@@ -7,7 +7,7 @@ section: 665h
 
 # § 665h. National Cyber Exercise Program
 
-- **(a)** *Establishment of Program*
+- **(a)** *Establishment of program*
   - **(1)** *In general* There is established in the Agency the National Cyber Exercise Program (referred to in this section as the “Exercise Program”) to evaluate the National Cyber Incident Response Plan, and other related plans and strategies.
   - **(2)** *Requirements*
     - **(A)** *In general* The Exercise Program shall be—
@@ -25,7 +25,7 @@ section: 665h
 - **(b)** *Definitions* In this section:
   - **(1)** *State* The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, and any other territory or possession of the United States.
   - **(2)** *Private entity* The term “private entity” has the meaning given such term in section 1501 of this title.
-- **(c)** *Rule of construction* Nothing in this section shall be construed to affect the authorities or responsibilities of the Administrator of the Federal Emergency Management Agency pursuant to section748 of this title.
+- **(c)** *Rule of construction* Nothing in this section shall be construed to affect the authorities or responsibilities of the Administrator of the Federal Emergency Management Agency pursuant to section 748 of this title.
 
 ## Source credit
 

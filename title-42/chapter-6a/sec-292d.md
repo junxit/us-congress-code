@@ -13,14 +13,12 @@ section: 292d
       - **(i)**
         - **(I)** has been accepted for enrollment at an eligible institution, or (II) in the case of a student attending an eligible institution, is in good standing at that institution, as determined by the institution;
       - **(ii)** is or will be a full-time student at the eligible institution;
-      - **(iii)** has agreed that all funds received under such loan shall be used solely for tuition, other reasonable educational expenses, including fees, books, and laboratory expenses, and reasonable living expenses, incurred by such students;
-      - **(iv)** if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section; and
-      - **(v)** in the case of a pharmacy student, has satisfactorily completed three years of training; or
+      - **(iii)** has agreed that all funds received under such loan shall be used solely for tuition, other reasonable educational expenses, including fees, books, and laboratory expenses, and reasonable living expenses, incurred by such students; and
+      - **(iv)** in the case of a pharmacy student, has satisfactorily completed three years of training; or
     - **(B)** an individual who—
       - **(i)** has previously had a loan insured under this subpart when the individual was a full-time student at an eligible institution;
-      - **(ii)** is in a period during which, pursuant to paragraph (2), the principal amount of such previous loan need not be paid;
-      - **(iii)** has agreed that all funds received under the proposed loan shall be used solely for repayment of interest due on previous loans made under this subpart; and
-      - **(iv)** if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section;
+      - **(ii)** is in a period during which, pursuant to paragraph (2), the principal amount of such previous loan need not be paid; and
+      - **(iii)** has agreed that all funds received under the proposed loan shall be used solely for repayment of interest due on previous loans made under this subpart;
   - **(2)** evidenced by a note or other written agreement which—
     - **(A)** is made without security and without endorsement, except that if the borrower is a minor and such note or other written agreement executed by him would not, under the applicable law, create a binding obligation, an endorsement may be required;
     - **(B)** provides for repayment of the principal amount of the loan in installments over a period of not less than 10 years (unless sooner repaid) nor more than 25 years beginning not earlier than 9 months nor later than 12 months after the date of—
@@ -50,7 +48,7 @@ section: 292d
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title VII, § 705, as added Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 1996; amended Pub. L. 103–43, title XX, § 2014(a)(1), June 10, 1993, 107 Stat. 215; Pub. L. 105–244, title I, § 102(a)(13)(A), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–392, title I, § 141(a)(1), (2), Nov. 13, 1998, 112 Stat. 3578.)
+(July 1, 1944, ch. 373, title VII, § 705, as added Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 1996; amended Pub. L. 103–43, title XX, § 2014(a)(1), June 10, 1993, 107 Stat. 215; Pub. L. 105–244, title I, § 102(a)(13)(A), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–392, title I, § 141(a)(1), (2), Nov. 13, 1998, 112 Stat. 3578; Pub. L. 117–103, div. R, § 104(1), Mar. 15, 2022, 136 Stat. 821.)
 
 ## Notes
 
@@ -68,7 +66,7 @@ A prior section 292d, act July 1, 1944, ch. 373, title VII, § 704, formerly § 
 
 ### Amendments
 
-1998—Subsec. (a)(2)(C). Pub. L. 105–392 added cl. (x), redesignated former cl. (x) as (xi) and substituted “(x)” for “(ix)”, and substituted “(xi)” for “(x)” in concluding provisions. Pub. L. 105–244 substituted “section 1002(a)” for “section 1088(a)” in cl. (i). 1993—Subsec. (a)(2)(H), (I). Pub. L. 103–43 redesignated subpar. (I) as (H) and struck out former subpar. (H) which read as follows: “notwithstanding the provisions of the Fair Debt Collection Practices Act, authorizes an institution or postgraduate training program attended by the borrower to assist in the collection of any loan that becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower’s loans; and”.
+2022—Subsec. (a)(1)(A)(iv), (v). Pub. L. 117–103, § 104(1)(A), redesignated cl. (v) as (iv) and struck out former cl. (iv) which read as follows: “if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section; and”. Subsec. (a)(1)(B)(iv). Pub. L. 117–103, § 104(1)(B), struck out cl. (iv) which read as follows: “if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section;”. 1998—Subsec. (a)(2)(C). Pub. L. 105–392 added cl. (x), redesignated former cl. (x) as (xi) and substituted “(x)” for “(ix)”, and substituted “(xi)” for “(x)” in concluding provisions. Pub. L. 105–244 substituted “section 1002(a)” for “section 1088(a)” in cl. (i). 1993—Subsec. (a)(2)(H), (I). Pub. L. 103–43 redesignated subpar. (I) as (H) and struck out former subpar. (H) which read as follows: “notwithstanding the provisions of the Fair Debt Collection Practices Act, authorizes an institution or postgraduate training program attended by the borrower to assist in the collection of any loan that becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower’s loans; and”.
 
 ### Statutory Notes and Related Subsidiaries
 

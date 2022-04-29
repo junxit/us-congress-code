@@ -70,4 +70,4 @@ section: 526a
 
 ### Amendments
 
-2021—Subsecs. (c) to (h). Pub. L. 116–283, § 501(a), added subsec. (c) and redesignated former subsecs. (c) to (g) as (d) to (h), respectively. Former subsec. (h) redesignated (i). Subsec. (i). Pub. L. 117–81 added subsec. (i) relating to transfer of authorizations among military services. Pub. L. 116–283, § 501(a)(1), redesignated subsec. (h) as (i).
+2021—Subsecs. (c) to (h). Pub. L. 116–283, § 501(a), added subsec. (c) and redesignated former subsecs. (c) to (g) as (d) to (h), respectively. Former subsec. (h) redesignated (i). Subsec. (i). Pub. L. 117–81 added subsec. (i) relating to transfer of authorizations among military services. Pub. L. 116–283, § 501(a)(1), redesignated subsec. (h) as (i) relating to annual report.

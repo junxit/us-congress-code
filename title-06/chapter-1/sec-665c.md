@@ -23,7 +23,7 @@ section: 665c
 
 ## Source credit
 
-(Pub. L. 107–296, title XXII, § 2217, formerly § 2215, as added Pub. L. 116–283, div. A, title XVII, § 1717(a)(1)(B), Jan. 1, 2021, 134 Stat. 4099; renumbered § 2217 and amended, Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(iv), Dec. 27, 2021, 135 Stat. 2061.)
+(Pub. L. 107–296, title XXII, § 2217, formerly § 2215, as added Pub. L. 116–283, div. A, title XVII, § 1717(a)(1)(B), Jan. 1, 2021, 134 Stat. 4099; renumbered § 2217 and amended Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(iv), Dec. 27, 2021, 135 Stat. 2061.)
 
 ## Notes
 
@@ -35,7 +35,7 @@ A prior section 2217 of Pub. L. 107–296, title XXII, as added Pub. L. 116–28
 
 ### Amendments
 
-2021—Pub. L. 117–81 re-enacted section catchline.
+2021—Pub. L. 117–81 reenacted section catchline.
 
 ### Statutory Notes and Related Subsidiaries
 

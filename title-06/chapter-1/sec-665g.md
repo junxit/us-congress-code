@@ -5,7 +5,7 @@ chapter: 1
 section: 665g
 ---
 
-# § 665g. State and local cybersecurity grant program
+# § 665g. State and Local Cybersecurity Grant Program
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Appropriate committees of Congress* The term “appropriate committees of Congress” means—
@@ -16,7 +16,7 @@ section: 665g
   - **(4)** *Eligible entity* The term “eligible entity” means a—
     - **(A)** State; or
     - **(B)** Tribal government.
-  - **(5)** *Incident* The term “incident” has the meaning given the term in section 2209.
+  - **(5)** *Incident* The term “incident” has the meaning given the term in section 659 of this title.
   - **(6)** *Information sharing and analysis organization* The term “information sharing and analysis organization” has the meaning given the term in section 671 of this title.
   - **(7)** *Information system* The term “information system” has the meaning given the term in section 1501 of this title.
   - **(8)** *Multi-entity group* The term “multi-entity group” means a group of 2 or more eligible entities desiring a grant under this section.
@@ -220,7 +220,7 @@ section: 665g
       - **(ii)** reducing cybersecurity risks to, and identifying, responding to, and recovering from cybersecurity threats to, information systems owned or operated by, or on behalf of, State, local, or Tribal governments as a result of the award of grants under this section.
   - **(3)** *Public availability*
     - **(A)** *In general* The Secretary, acting through the Director, shall make each report submitted under paragraph (2) publicly available, including by making each report available on the website of the Agency.
-    - **(B)** *Redactions* In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under section 552 of title 5 (commonly referred to as the ‘Freedom of Information Act’).
+    - **(B)** *Redactions* In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under section 552 of title 5 (commonly referred to as the “Freedom of Information Act”).
   - **(4)** *Study of risk-based formulas*
     - **(A)** *In general* Not later than September 30, 2024, the Secretary, acting through the Director, shall submit to the appropriate committees of Congress a study and legislative recommendations on the potential use of a risk-based formula for apportioning funds under this section, including—
       - **(i)** potential components that could be included in a risk-based formula, including the potential impact of those components on support for rural areas under this section;
@@ -250,12 +250,16 @@ section: 665g
 
 ## Source credit
 
-(Pub. L. 107–296, title XXII, § 2220A, formerly § 2218, as added Pub. L. 117–58, div. G, title VI, § 70612(a), Nov. 15, 2021, 135 Stat. 1272; renumbered § 2220A and amended, Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(viii), Dec. 27, 2021, 135 Stat. 2061.)
+(Pub. L. 107–296, title XXII, § 2220A, formerly § 2218, as added Pub. L. 117–58, div. G, title VI, § 70612(a), Nov. 15, 2021, 135 Stat. 1272; renumbered § 2220A and amended Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(viii), Dec. 27, 2021, 135 Stat. 2061.)
 
 ## Notes
 
 ### Editorial Notes
 
+### References in Text
+
+The Food and Nutrition Act of 2008, referred to in subsec. (m)(2)(C)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+
 ### Amendments
 
-2021—Pub. L. 117–81 re-enact4ed section catchline.
+2021—Pub. L. 117–81 reenacted section catchline.

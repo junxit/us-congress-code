@@ -76,7 +76,7 @@ section: 665e
 
 ## Source credit
 
-(Pub. L. 107–296, title XXII, § 2219, formerly § 2216, as added Pub. L. 116–283, div. A, title XVII, § 1718(a), Jan. 1, 2021, 134 Stat. 4102; renumbered § 2219 and amended, Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(vi), Dec. 27, 2021, 135 Stat. 2061.)
+(Pub. L. 107–296, title XXII, § 2219, formerly § 2216, as added Pub. L. 116–283, div. A, title XVII, § 1718(a), Jan. 1, 2021, 134 Stat. 4102; renumbered § 2219 and amended Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(vi), Dec. 27, 2021, 135 Stat. 2061.)
 
 ## Notes
 
@@ -90,4 +90,4 @@ The date of enactment of the Cybersecurity Advisory Committee Authorization Act 
 
 ### Amendments
 
-2021—Pub. L. 117–81 re-enacted section catchline.
+2021—Pub. L. 117–81 reenacted section catchline.

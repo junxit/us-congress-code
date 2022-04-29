@@ -37,7 +37,7 @@ section: 287d
       - **(i)** research on women’s health;
       - **(ii)** research on gender differences in clinical drug trials, including responses to pharmacological drugs;
       - **(iii)** research on gender differences in disease etiology, course, and treatment;
-      - **(iv)** research on obstetrical and gynecological health conditions, diseases, and treatments; and
+      - **(iv)** research on obstetrical and gynecological health conditions, diseases, and treatments, including preventable maternal mortality and severe maternal morbidity; and
       - **(v)** research on women’s health conditions which require a multidisciplinary approach;
     - **(B)** report to the Director of the Office on such research;
     - **(C)** provide recommendations to such Director regarding activities of the Office (including recommendations on the development of the methodologies described in subsection (c)(4)(C) and recommendations on priorities in carrying out research described in subparagraph (A)); and
@@ -58,7 +58,7 @@ section: 287d
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title IV, § 486, as added Pub. L. 103–43, title I, § 141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, § 106, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 111–148, title III, § 3509(c), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. A, title II, § 2038(c), Dec. 13, 2016, 130 Stat. 1065.)
+(July 1, 1944, ch. 373, title IV, § 486, as added Pub. L. 103–43, title I, § 141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, § 106, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 111–148, title III, § 3509(c), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. A, title II, § 2038(c), Dec. 13, 2016, 130 Stat. 1065; Pub. L. 117–103, div. P, title I, § 141(d), Mar. 15, 2022, 136 Stat. 798.)
 
 ## Notes
 
@@ -66,7 +66,7 @@ section: 287d
 
 ### Amendments
 
-2016—Subsec. (c)(2). Pub. L. 114–255 substituted “senior-level staff designees” for “designees”. 2010—Subsec. (a). Pub. L. 111–148 inserted “and who shall report directly to the Director” before period at end. 1998—Subsec. (d)(2). Pub. L. 105–340 substituted “NIH” for “the Office”.
+2022—Subsec. (d)(4)(A)(iv). Pub. L. 117–103 inserted “, including preventable maternal mortality and severe maternal morbidity” before “; and”. 2016—Subsec. (c)(2). Pub. L. 114–255 substituted “senior-level staff designees” for “designees”. 2010—Subsec. (a). Pub. L. 111–148 inserted “and who shall report directly to the Director” before period at end. 1998—Subsec. (d)(2). Pub. L. 105–340 substituted “NIH” for “the Office”.
 
 ### Statutory Notes and Related Subsidiaries
 

@@ -69,7 +69,7 @@ section: 301a
   - **(5)** *Return of donations* The Commissioner of U.S. Customs and Border Protection, or the Administrator of General Services, as applicable, may return any donation made pursuant to subsection (a) or (b). No interest shall be owed to the donor with respect to any donation provided under such subsections that is returned pursuant to this subsection.
   - **(6)** *Prohibition on certain funding*
     - **(A)** *In general* Except as provided in subsections (a) and (b) regarding the acceptance of donations, the Commissioner of U.S. Customs and Border Protection and the Administrator of General Services, as applicable, may not, with respect to an agreement entered into under either of such subsections, obligate or expend amounts in excess of amounts that have been appropriated pursuant to any appropriations Act for purposes specified in either of such subsections or otherwise made available for any of such purposes.
-    - **(B)** *Certification requirement* Before accepting any donations pursuant to an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection shall certify to the congressional committees set forth in paragraph (7) that 11 So in original.
+    - **(B)** *Certification requirement* Before accepting any donations pursuant to an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection shall certify to the congressional committees set forth in paragraph (7) that 1
       - **(i)** the donation will not be used for the construction of a detention facility or a border fence or wall; and
       - **(ii)** the donor will be notified in the Donations Acceptance Agreement that the donor shall be financially responsible for all costs and operating expenses related to the operation, maintenance, and repair of the donated real property until such time as U.S. Customs and Border Protection provides the donor written notice otherwise.
   - **(7)** *Annual reports* The Commissioner of U.S. Customs and Border Protection, in collaboration with the Administrator of General Services, as applicable, shall submit an annual report identifying the activities undertaken and agreements entered into pursuant to subsections (a) and (b) to—
@@ -95,8 +95,6 @@ section: 301a
 (Pub. L. 107–296, title IV, § 482, as added Pub. L. 114–279, § 2(a), Dec. 16, 2016, 130 Stat. 1417; amended Pub. L. 116–260, div. O, title III, § 301, Dec. 27, 2020, 134 Stat. 2149; Pub. L. 117–81, div. F, title LXIV, § 6410, Dec. 27, 2021, 135 Stat. 2408.)
 
 ## Notes
-
-1 So in original.
 
 1 So in original.
 

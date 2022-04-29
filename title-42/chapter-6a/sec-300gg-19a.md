@@ -55,10 +55,6 @@ section: 300gg–19a
 
 5 So in original.
 
-### Applicability of Amendment
-
-Amendment of section by section 102(a)(3)(A) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.
-
 ### Editorial Notes
 
 ### References in Text

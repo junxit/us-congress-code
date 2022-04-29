@@ -72,7 +72,7 @@ section: 24
   - **(4)** *Reduction of increased credit amount based on modified adjusted gross income*
     - **(A)** *In general* The amount of the credit allowable under subsection (a) (determined without regard to subsection (b)) shall be reduced by $50 for each $1,000 (or fraction thereof) by which the taxpayer’s modified adjusted gross income (as defined in subsection (b)) exceeds the applicable threshold amount.
     - **(B)** *Applicable threshold amount* For purposes of this paragraph, the term “applicable threshold amount” means—
-      - **(i)** $150,000, in the case of a joint return or surviving spouse (as defined in section 2(a)),
+      - **(i)** $150,000, in the case of a joint return or surviving spouse (as defined in section 2(a)) ,11 So in original.
       - **(ii)** $112,500, in the case of a head of household (as defined in section 2(b)), and
       - **(iii)** $75,000, in any other case.
     - **(C)** *Limitation on reduction*
@@ -127,6 +127,8 @@ section: 24
 (Added Pub. L. 105–34, title I, § 101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, § 6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, § 2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, § 501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§ 201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, § 618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, § 204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§ 411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, § 101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§ 101(a), 102(a), 104(a), title II, § 204, title IV, § 408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, § 402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, § 11(c)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–343, div. B, title I, § 106(e)(2)(B), title II, § 205(d)(1)(A), div. C, title V, § 501(a), Oct. 3, 2008, 122 Stat. 3817, 3838, 3876; Pub. L. 110–351, title V, § 501(c)(1), Oct. 7, 2008, 122 Stat. 3979; Pub. L. 111–5, div. B, title I, §§ 1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, 123 Stat. 313, 314, 330, 332; Pub. L. 111–148, title X, § 10909(b)(2)(A), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§ 101(b)(1), 103(b), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§ 103(b), 104(c)(2)(B), Jan. 2, 2013, 126 Stat. 2319, 2321; Pub. L. 113–295, div. A, title II, § 209(a), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, § 807(a), June 29, 2015, 129 Stat. 418; Pub. L. 114–113, div. Q, title I, § 101(a), (b), title II, §§ 205(a), (b), 208(a)(1), Dec. 18, 2015, 129 Stat. 3044, 3081, 3083; Pub. L. 115–97, title I, § 11022(a), Dec. 22, 2017, 131 Stat. 2073; Pub. L. 115–141, div. U, title I, § 101(i)(1), title IV, § 401(a)(3), Mar. 23, 2018, 132 Stat. 1162, 1184; Pub. L. 117–2, title IX, §§ 9611(a), (b)(2), 9612(a), Mar. 11, 2021, 135 Stat. 144, 148, 150.)
 
 ## Notes
+
+1 So in original.
 
 ### Inflation Adjusted Items for Certain Years
 
