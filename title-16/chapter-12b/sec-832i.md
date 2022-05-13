@@ -25,7 +25,7 @@ In subsecs. (a) and (b), “chapter 51 and subchapter III of chapter 53 of title
 
 ### Amendments
 
-1949—Subsecs. (a) and (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”. 1945—Act Oct. 23, 1945, added subsecs. (a) and (c), designated existing provisions as subsec. (b), and amended such provisions generally.
+1949—Subsecs. (a), (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”. 1945—Act Oct. 23, 1945, added subsecs. (a) and (c), designated existing provisions as subsec. (b), and amended such provisions generally.
 
 ### Statutory Notes and Related Subsidiaries
 
