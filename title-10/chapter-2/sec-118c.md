@@ -41,3 +41,11 @@ section: 118c
 ## Source credit
 
 (Added Pub. L. 117–81, div. A, title II, § 211(a), Dec. 27, 2021, 135 Stat. 1585.)
+
+## Notes
+
+### Editorial Notes
+
+### Prior Provisions
+
+Provisions similar to those in this section were contained in Pub. L. 115–232, div. A, title II, § 218, Aug. 13, 2018, 132 Stat. 1679, which was not classified to the Code and was repealed by Pub. L. 117–81, div. A, title II, § 211(c), Dec. 27, 2021, 135 Stat. 1587.
