@@ -38,6 +38,12 @@ section: 31l
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
+### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
+
 ### Definition of “Secretary”
 
-For definitionof Secretary as used in this section, see section 18701 of Title, 42, The Public Health and Welfare.
+For definition of Secretary as used in this section, see section 18701 of Title 42, The Public Health and Welfare.
