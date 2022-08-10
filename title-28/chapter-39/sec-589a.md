@@ -24,7 +24,7 @@ section: 589a
   - **(2)** 48.89 percent of the fees collected under section 1930(a)(3) of this title;
   - **(3)** one-half of the fees collected under section 1930(a)(4) of this title;
   - **(4)** one-half of the fees collected under section 1930(a)(5) of this title;
-  - **(5)** 100 percent of the fees collected under section 1930(a)(6) of this title; 11 See Deposits of Fees Under Subsection (a)(6) for Certain Fiscal Years note below.
+  - **(5)** 100 percent of the fees collected under section 1930(a)(6) of this title; 11 See Deposits of Fees Under Section 1930(a)(6) of This Title for Certain Fiscal Years note below.
   - **(6)** three-fourths of the fees collected under the last sentence of section 1930(a) of this title;
   - **(7)** the compensation of trustees received under section 330(d) of title 11 by the clerks of the bankruptcy courts;
   - **(8)** excess fees collected under section 586(e)(2) of this title;
@@ -47,7 +47,7 @@ section: 589a
 
 ## Notes
 
-1 See Deposits of Fees Under Subsection (a)(6) for Certain Fiscal Years note below.
+1 See Deposits of Fees Under Section 1930(a)(6) of This Title for Certain Fiscal Years note below.
 
 ### Editorial Notes
 

@@ -12,7 +12,7 @@ section: 240d
 - **(c)** *Monitoring Audits.—* The Inspector General shall monitor the conduct of all audits by independent external auditors under subsection (a).
 - **(d)** *Reports on Audits.—*
   - **(1)** *In general.—* The Inspector General shall require the independent external auditors conducting audits under subsection (a) to submit a report on their audits each year to—
-    - **(A)** the Under Secretary of Defense (Comptroller) as the Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31 and the Chief Management Officer of the Department of Defense;
+    - **(A)** the Under Secretary of Defense (Comptroller) as the Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31 and the Chief Management Officer of the Department of Defense; 11 See Transfer of Functions note below.
     - **(B)** the Controller of the Office of Federal Financial Management in the Office of Management and Budget;
     - **(C)** the head of each component audited; and
     - **(D)** the appropriate committees of Congress.
@@ -29,6 +29,8 @@ section: 240d
 
 ## Notes
 
+1 See Transfer of Functions note below.
+
 ### Editorial Notes
 
 ### Codification
@@ -44,6 +46,10 @@ Text of section, as added by Pub. L. 115–91, is based on text of section 1005 
 ### Change of Name
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
+### Transfer of Functions
+
+Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
 
 ### Transparency of Accounting Firms Used To Support Department of Defense Audit
 

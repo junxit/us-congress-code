@@ -54,4 +54,4 @@ section: 907c
 
 ### References in Text
 
-Section 258B, referred to in subsec. (e)(1), (2), means section 258B of Pub. L. 99–177, which is classified to this section. The Congressional Budget Act of 1974, referred to in subsec. (k), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Titles III and IV of the Act are classified generally to subchapters I (§ 631 et seq.) and II (§ 651 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+Section 258B, referred to in subsec. (e)(1), (2), means section 258B of Pub. L. 99–177, which is classified to this section. The Congressional Budget Act of 1974, referred to in subsec. (k), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Titles III and IV of the Act are classified generally to subchapters I (§ 631 et seq.) and II (§ 651 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.

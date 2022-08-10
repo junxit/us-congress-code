@@ -13,14 +13,16 @@ section: 133a
   - **(2)** establishing policies on, and supervising, all defense research and engineering, technology development, technology transition, appropriate prototyping activities, experimentation, and developmental testing activities and programs and unifying defense research and engineering efforts across the Department; and
   - **(3)** serving as the principal advisor to the Secretary on all research, engineering, and technology development activities and programs in the Department.
 - **(c)** *Precedence in Department of Defense.—*
-  - **(1)** *Precedence in matters of responsibility.—* With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense.
-  - **(2)** *Precedence in other matters.—* With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Chief Management Officer, and the Secretaries of the military departments.
+  - **(1)** *Precedence in matters of responsibility.—* With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense.11 See Transfer of Functions note below.
+  - **(2)** *Precedence in other matters.—* With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Chief Management Officer,1 and the Secretaries of the military departments.
 
 ## Source credit
 
 (Added Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339; amended Pub. L. 115–91, div. A, title IX, § 910(c)(2), Dec. 12, 2017, 131 Stat. 1518; Pub. L. 116–92, div. A, title IX, § 902(2), Dec. 20, 2019, 133 Stat. 1542.)
 
 ## Notes
+
+1 See Transfer of Functions note below.
 
 ### Editorial Notes
 
@@ -45,6 +47,10 @@ Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339
 ### Semiannual Updates on Meetings Held by the Missile Defense Executive Board
 
 Pub. L. 117–81, div. A, title XVI, § 1671(a)–(c), Dec. 27, 2021, 135 Stat. 2112, provided that: “(a) Semiannual Updates.—Not later than March 1 and September 1 of each year, the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment, acting in their capacities as co-chairs of the Missile Defense Executive Board pursuant to section 1681(c) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 2162), shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a semiannual update including, with respect to the six-month period preceding the update—“(1) the dates on which the Board met; and “(2) except as provided by subsection (b), a summary of any decisions made by the Board at each meeting of the Board and the rationale for and options that informed such decisions. “(b) Exception for Certain Budgetary Matters.—The co-chairs shall not be required to include in a semiannual update under subsection (a) the matters described in paragraph (2) of such subsection with respect to decisions of the Board relating to the budget of the President for a fiscal year if the budget for that fiscal year has not been submitted to Congress under section 1105 of title 31, United States Code, as of the date of the semiannual update. “(c) Form of Update.—The co-chairs may provide a semiannual update under subsection (a) either in the form of a briefing or a written report.”
+
+### Transfer of Functions
+
+Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
 
 ### Service of Incumbent USD for ATL in Position
 

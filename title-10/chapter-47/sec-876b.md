@@ -37,7 +37,7 @@ section: 876b
 
 ## Notes
 
-### Editorial Notes
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date
 

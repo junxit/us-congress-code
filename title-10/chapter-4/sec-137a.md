@@ -19,13 +19,15 @@ section: 137a
   - **(4)** One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Personnel and Readiness.
   - **(5)** One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense (Comptroller).
   - **(6)** One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Intelligence and Security, who shall be appointed from among persons who have extensive expertise in intelligence matters.
-- **(d)** The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense. The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
+- **(d)** The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense,11 See Transfer of Functions note below. the Secretaries of the military departments, and the Under Secretaries of Defense. The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
 
 ## Source credit
 
 (Added Pub. L. 111–84, div. A, title IX, § 906(a)(1), Oct. 28, 2009, 123 Stat. 2425; amended Pub. L. 111–383, div. A, title IX, § 901(b)(3), (k)(1)(A), Jan. 7, 2011, 124 Stat. 4318, 4325; Pub. L. 113–291, div. A, title IX, § 901(i)(1), (j)(2)(C), (k)(3), Dec. 19, 2014, 128 Stat. 3467, 3468; Pub. L. 115–91, div. A, title IX, § 906(a)–(c), (f)(1), title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1513, 1514, 1597; Pub. L. 115–232, div. A, title X, § 1081(f)(1)(C), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title XVI, § 1621(e)(1)(B), Dec. 20, 2019, 133 Stat. 1733.)
 
 ## Notes
+
+1 See Transfer of Functions note below.
 
 ### Editorial Notes
 
@@ -50,6 +52,10 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 ### Savings Provisions
 
 Pub. L. 111–84, div. A, title IX, § 906(e), Oct. 28, 2009, 123 Stat. 2428, provided that: “(1) In general.—Notwithstanding the amendments made by this section [enacting this section and amending sections 133a, 134a, 136a, 138, and former 138a of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees], the individual serving in a position specified in paragraph (2) on the day before the date of the enactment of this Act [Oct. 28, 2009] may continue to serve in such position without the requirement for appointment by the President, by and with the advice and consent of the Senate, for a period of up to four years after the date of the enactment of this Act. “(2) Covered positions.—The positions specified in this paragraph are the following:“(A) The Principal Deputy Under Secretary of Defense (Comptroller). “(B) The Principal Deputy Under Secretary of Defense for Intelligence.”
+
+### Transfer of Functions
+
+Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
 
 ### Temporary Authority for Additional DUSDS
 
