@@ -46,6 +46,10 @@ section: 665b
 
 ### Editorial Notes
 
+### Prior Provisions
+
+A prior section 2216 of Pub. L. 107–296 was renumbered section 2219 and is classified to section 665e of this title.
+
 ### Amendments
 
 2021—Pub. L. 117–81 reenacted section catchline.
