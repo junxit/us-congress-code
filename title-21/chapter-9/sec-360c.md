@@ -175,10 +175,10 @@ section: 360c
     - **(A)** As part of a submission under section 360(k) of this title respecting a device, the person required to file a premarket notification under such section shall provide an adequate summary of any information respecting safety and effectiveness or state that such information will be made available upon request by any person.
     - **(B)** Any summary under subparagraph (A) respecting a device shall contain detailed information regarding data concerning adverse health effects and shall be made available to the public by the Secretary within 30 days of the issuance of a determination that such device is substantially equivalent to another device.
 - **(j)** *Training and oversight of least burdensome requirements*
-  - **(1)** *The Secretary shall—*
+  - **(1)** The Secretary shall—
     - **(A)** ensure that each employee of the Food and Drug Administration who is involved in the review of premarket submissions, including supervisors, receives training regarding the meaning and implementation of the least burdensome requirements under subsections (a)(3)(D) and (i)(1)(D) of this section and section 360e(c)(5) of this title; and
     - **(B)** periodically assess the implementation of the least burdensome requirements, including the employee training under subparagraph (A), to ensure that the least burdensome requirements are fully and consistently applied.
-  - **(2)** *Not later than 18 months after December 13, 2016, the ombudsman for any organizational unit of the Food and Drug Administration responsible for the premarket review of devices shall—*
+  - **(2)** Not later than 18 months after December 13, 2016, the ombudsman for any organizational unit of the Food and Drug Administration responsible for the premarket review of devices shall—
     - **(A)** conduct an audit of the training described in paragraph (1)(A), including the effectiveness of such training in implementing the least burdensome requirements;
     - **(B)** include in such audit interviews of persons who are representatives of the device industry regarding their experiences in the device premarket review process, including with respect to the application of least burdensome concepts to premarket review and decisionmaking;
     - **(C)** include in such audit a list of the measurement tools the Secretary uses to assess the implementation of the least burdensome requirements, including under paragraph (1)(B) and section 360g–1(a)(3) of this title, and may also provide feedback on the effectiveness of such tools in the implementation of the least burdensome requirements;
@@ -197,7 +197,7 @@ section: 360c
 
 ### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(1), (8), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(1), (8), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 ### Amendments
 

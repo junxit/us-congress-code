@@ -24,11 +24,11 @@ section: 360bbb–5
   - **(1)** reviewing the operations and activities of the Partnerships in the previous year; and
   - **(2)** addressing such other issues relating to this section as the Secretary determines to be appropriate.
 - **(e)** *Definition* In this section, the term “medical product” includes a drug, a biological product as defined in section 262 of title 42, a device, and any combination of such products.
-- **(f)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated $6,000,000 for each of fiscal years 2018 through 2022.
+- **(f)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated $1,265,753 for the period beginning on October 1, 2022 and ending on December 16, 2022.
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 566, as added Pub. L. 110–85, title VI, § 603, Sept. 27, 2007, 121 Stat. 898; amended Pub. L. 112–144, title XI, § 1102, July 9, 2012, 126 Stat. 1108; Pub. L. 115–52, title VI, § 602, Aug. 18, 2017, 131 Stat. 1048.)
+(June 25, 1938, ch. 675, § 566, as added Pub. L. 110–85, title VI, § 603, Sept. 27, 2007, 121 Stat. 898; amended Pub. L. 112–144, title XI, § 1102, July 9, 2012, 126 Stat. 1108; Pub. L. 115–52, title VI, § 602, Aug. 18, 2017, 131 Stat. 1048; Pub. L. 117–180, div. F, title V, § 5005, Sept. 30, 2022, 136 Stat. 2167.)
 
 ## Notes
 
@@ -36,4 +36,4 @@ section: 360bbb–5
 
 ### Amendments
 
-2017—Subsec. (f). Pub. L. 115–52 substituted “2018 through 2022” for “2013 through 2017”. 2012—Subsec. (f). Pub. L. 112–144 amended subsec. (f) generally. Prior to amendment, text read as follows: “To carry out this section, there are authorized to be appropriated $5,000,000 for fiscal year 2008 and such sums as may be necessary for each of fiscal years 2009 through 2012.”
+2022—Subsec. (f). Pub. L. 117–180 substituted “$1,265,753 for the period beginning on October 1, 2022 and ending on December 16, 2022” for “$6,000,000 for each of fiscal years 2018 through 2022”. 2017—Subsec. (f). Pub. L. 115–52 substituted “2018 through 2022” for “2013 through 2017”. 2012—Subsec. (f). Pub. L. 112–144 amended subsec. (f) generally. Prior to amendment, text read as follows: “To carry out this section, there are authorized to be appropriated $5,000,000 for fiscal year 2008 and such sums as may be necessary for each of fiscal years 2009 through 2012.”
