@@ -26,7 +26,7 @@ Based on title 28, U.S.C., 1940 ed., § 213, and sections 11–201, 11–202, Di
 
 ### References in Text
 
-The effective date of the Federal Courts Improvement Act of 1982, referred to in subsec. (c), is the effective date of Pub. L. 97–164, Oct. 1, 1982. See Effective Date of 1982 Amendment note set out under section 171 of this title. Section 225 of the Federal Salary Act of 1967, referred to in subsec. (d), is section 225 of Pub. L. 90–206, Dec. 16, 1967, 81 Stat. 642, as amended, which is classified to chapter 11 (§ 351 et seq.) of Title 2, The Congress.
+The effective date of the Federal Courts Improvement Act of 1982, referred to in subsec. (c), is the effective date of Pub. L. 97–164, Oct. 1, 1982. See Effective Date of 1982 Amendment note set out under section 171 of this title. Section 225 of the Federal Salary Act of 1967, referred to in subsec. (d), is section 225 of Pub. L. 90–206, Dec. 16, 1967, 81 Stat. 642, which is classified to chapter 11 (§ 351 et seq.) of Title 2, The Congress.
 
 ### Editorial Notes
 

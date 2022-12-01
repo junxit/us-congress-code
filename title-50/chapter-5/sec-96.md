@@ -11,4 +11,4 @@ section: 96
 
 ### removalDescription
 
-Section, act July 15, 1939, ch. 283, 53 Stat. 1042, related to purchase by Secretary of War of equipment for experimental and test purposes. See section 2373 of Title 10, Armed Forces.
+Section, act July 15, 1939, ch. 283, 53 Stat. 1042, related to purchase by Secretary of War of equipment for experimental and test purposes. See section 4023 of Title 10, Armed Forces.
