@@ -98,7 +98,7 @@ section: 283m
 
 ### References in Text
 
-The Animal Welfare Act, referred to in subsecs. (d)(2)(D), (3)(B) and (e)(3)(A)(ix), is Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, as amended, which is classified generally to chapter 54 (§ 2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of Title 7 and Tables. Section 3 of the Chimpanzee Health Improvement, Maintenance, and Protection Act, referred to in subsec. (d)(4)(A), is section 3 of Pub. L. 106–551, which is set out as a note below.
+The Animal Welfare Act, referred to in subsecs. (d)(2)(D), (3)(B) and (e)(3)(A)(ix), is Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, which is classified generally to chapter 54 (§ 2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of Title 7 and Tables. Section 3 of the Chimpanzee Health Improvement, Maintenance, and Protection Act, referred to in subsec. (d)(4)(A), is section 3 of Pub. L. 106–551, which is set out as a note below.
 
 ### Codification
 

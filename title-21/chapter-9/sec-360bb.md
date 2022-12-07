@@ -24,7 +24,13 @@ section: 360bb
 
 ## Notes
 
+1 See References in Text note below.
+
 ### Editorial Notes
+
+### References in Text
+
+Subsection (b), referred to in subsec. (a)(1), was redesignated as subsec. (c) of this section by Pub. L. 100–290, § 2(b), Apr. 18, 1988, 102 Stat. 90.
 
 ### Amendments
 

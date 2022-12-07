@@ -9,7 +9,7 @@ section: 829a
 
 - **(a)** *In general* Notwithstanding section 802(10) of this title, a pharmacy may deliver a controlled substance to a practitioner in accordance with a prescription that meets the requirements of this subchapter and the regulations issued by the Attorney General under this subchapter, for the purpose of administering the controlled substance by the practitioner if—
   - **(1)** the controlled substance is delivered by the pharmacy to the prescribing practitioner or the practitioner administering the controlled substance, as applicable, at the location listed on the practitioner’s certificate of registration issued under this subchapter;
-  - **(2)** the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under section 823(g)(2) of this title and—
+  - **(2)** the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under section 823(h)(2) of this title and—
     - **(A)** the practitioner who issued the prescription is a qualifying practitioner authorized under, and acting within the scope of that section; and
     - **(B)** the controlled substance is to be administered by injection or implantation;
   - **(3)** the pharmacy and the practitioner are authorized to conduct the activities specified in this section under the law of the State in which such activities take place;
@@ -25,7 +25,7 @@ section: 829a
 
 ## Source credit
 
-(Pub. L. 91–513, title II, § 309A, as added Pub. L. 115–271, title III, § 3204(a), Oct. 24, 2018, 132 Stat. 3945.)
+(Pub. L. 91–513, title II, § 309A, as added Pub. L. 115–271, title III, § 3204(a), Oct. 24, 2018, 132 Stat. 3945; amended Pub. L. 117–215, title I, § 103(b)(1)(E), Dec. 2, 2022, 136 Stat. 2263.)
 
 ## Notes
 
@@ -34,3 +34,7 @@ section: 829a
 ### References in Text
 
 Section 3204(b) of the SUPPORT for Patients and Communities Act, referred to in subsec. (b)(2), is section 3204(b) of Pub. L. 115–271, title III, Oct. 24, 2018, 132 Stat. 3946, which is not classified to the Code.
+
+### Amendments
+
+2022—Subsec. (a)(2). Pub. L. 117–215 substituted “823(h)(2)” for “823(g)(2)” in introductory provisions.
