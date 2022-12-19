@@ -63,7 +63,7 @@ section: 379h
     - **(A)** *In general* For each fiscal year, after the annual base revenue established in subsection (b)(1)(A) is adjusted in accordance with paragraphs (1) and (2), such revenue shall be adjusted further for such fiscal year, in accordance with this paragraph, to reflect changes in the resource capacity needs of the Secretary for the process for the review of human drug applications.
     - **(B)** *Methodology* For purposes of this paragraph, the Secretary shall employ the capacity planning methodology utilized by the Secretary in setting fees for fiscal year 2021, as described in the notice titled “Prescription Drug User Fee Rates for Fiscal Year 2021” published in the Federal Register on August 3, 2020 (85 Fed. Reg. 46651). The workload categories used in applying such methodology in forecasting shall include only the activities described in that notice and, as feasible, additional activities that are directly related to the direct review of applications and supplements, including additional formal meeting types, the direct review of postmarketing commitments and requirements, the direct review of risk evaluation and mitigation strategies, and the direct review of annual reports for approved prescription drug products. Subject to the exceptions in the preceding sentence, the Secretary shall not include as workload categories in applying such methodology in forecasting any non-core review activities, including those activities that the Secretary referenced for potential future use in such notice but did not utilize in setting fees for fiscal year 2021.
     - **(C)** *Limitation* Under no circumstances shall an adjustment under this paragraph result in fee revenue for a fiscal year that is less than the sum of the amounts under subsections (b)(1)(A) (the annual base revenue for the fiscal year), (b)(1)(B) (the dollar amount of the inflation adjustment for the fiscal year), and (b)(1)(C) (the dollar amount of the strategic hiring and retention adjustment for the fiscal year).
-    - **(D)** *Publication in Federal Register* The Secretary shall publish in the Federal Register notice under paragraph (6) of 11 So in original. The word “of” probably should not appear. the fee revenue and fees resulting from the adjustment and the methodologies under this paragraph.
+    - **(D)** *Publication in Federal Register* The Secretary shall publish in the Federal Register notice under paragraph (6) of 11 So in original. The word “of” probably should not appear. See sections 379j–42(c)(2)(D) and 379j–52(c)(3)(D) of this title. the fee revenue and fees resulting from the adjustment and the methodologies under this paragraph.
   - **(4)** *Operating reserve adjustment*
     - **(A)** *Increase* For fiscal year 2023 and subsequent fiscal years, the Secretary shall, in addition to adjustments under paragraphs (1), (2), and (3), further increase the fee revenue and fees if such an adjustment is necessary to provide for operating reserves of carryover user fees for the process for the review of human drug applications for each fiscal year in at least the following amounts:
       - **(i)** For fiscal year 2023, at least 8 weeks of operating reserves.
@@ -130,7 +130,7 @@ section: 379h
 
 ## Notes
 
-1 So in original. The word “of” probably should not appear.
+1 So in original. The word “of” probably should not appear. See sections 379j–42(c)(2)(D) and 379j–52(c)(3)(D) of this title.
 
 ### Termination of Section
 
