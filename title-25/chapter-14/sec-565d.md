@@ -5,12 +5,10 @@ chapter: 14
 section: 565d
 ---
 
-# § 565d. Omitted
+# § 565d. Repealed. Pub. L. 117–261, § 2, Dec. 21, 2022, 136 Stat. 2393
 
 ## Notes
 
-### Editorial Notes
+### removalDescription
 
-### Codification
-
-Section, Pub. L. 89–224, § 5, Oct. 1, 1965, 79 Stat. 898, which directed that remaining funds be deposited in the Treasury of the United States if insufficient to justify a further distribution, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 89–224, § 5, Oct. 1, 1965, 79 Stat. 898, directed that remaining funds be deposited in the Treasury of the United States if insufficient to justify a further distribution.

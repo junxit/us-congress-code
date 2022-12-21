@@ -46,7 +46,7 @@ section: 268a
 
 ### References in Text
 
-This section and the section, referred to in subsecs. (a) and (b)(2), were in the original “This Act” and “the Act”, which were translated as meaning section 150 of Pub. L. 108–199, div. H, Jan. 23, 2004, 118 Stat. 446, to reflect the probable intent of Congress. The act of June 11, 1940, referred to in subsecs. (b)(1)(A) and (c)(1)(C), is act June 11, 1940, ch. 304, 54 Stat. 262, as amended, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
+This section and the section, referred to in subsecs. (a) and (b)(2), were in the original “This Act” and “the Act”, which were translated as meaning section 150 of Pub. L. 108–199, div. H, Jan. 23, 2004, 118 Stat. 446, to reflect the probable intent of Congress. The act of June 11, 1940, referred to in subsecs. (b)(1)(A) and (c)(1)(C), is act June 11, 1940, ch. 304, 54 Stat. 262, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
 
 ### Codification
 

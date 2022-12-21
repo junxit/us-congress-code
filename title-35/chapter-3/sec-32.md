@@ -19,7 +19,7 @@ The Director may, after notice and opportunity for a hearing, suspend or exclude
 
 Based on Title 35, U.S.C., 1946 ed., § 11 (R.S. 487, amended Feb. 18, 1922, ch. 58, § 3, 42 Stat. 390). See note under section 31.
 
-### Editoral Notes
+### Editorial Notes
 
 ### Amendments
 

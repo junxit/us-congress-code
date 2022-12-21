@@ -36,4 +36,4 @@ section: 460aaa–2
 
 ### References in Text
 
-Act of March 4, 1915, referred to in subsec. (b)(8), is act Mar. 4, 1915, ch. 144, 38 Stat. 1086, as amended. For complete classification of this Act to the Code, see Tables.
+Act of March 4, 1915, referred to in subsec. (b)(8), is act Mar. 4, 1915, ch. 144, 38 Stat. 1086. For complete classification of this Act to the Code, see Tables.

@@ -23,4 +23,4 @@ section: 117b
 
 ### References in Text
 
-Act of October 19, 1973, referred to in subsec. (b), is Pub. L. 93–134, Oct. 19, 1973, 87 Stat. 466, as amended, known as the Indian Tribal Judgment Funds Use or Distribution Act, which is classified generally to chapter 16 (§ 1401 et seq.) of this title. For complete classification of this Act to the Code, see section 1401(c) of this title and Tables.
+Act of October 19, 1973, referred to in subsec. (b), is Pub. L. 93–134, Oct. 19, 1973, 87 Stat. 466, known as the Indian Tribal Judgment Funds Use or Distribution Act, which is classified generally to chapter 16 (§ 1401 et seq.) of this title. For complete classification of this Act to the Code, see section 1401(c) of this title and Tables.

@@ -8,7 +8,7 @@ section: 15b
 # § 15b. Cotton futures contracts
 
 - **(a)** *Short title* This section may be cited as the “United States Cotton Futures Act”.
-- **(b)** *Repeal of tax on cotton futures* Subchapter D of chapter 39 of title 26 (relating to tax on cotton futures) is repealed.
+- **(b)** *Omitted*
 - **(c)** *Definitions* For purposes of this section—
   - **(1)** *Cotton futures contract* The term “cotton futures contract” means any contract of sale of cotton for future delivery made at, on, or in any exchange, board of trade, or similar institution or place of business which has been designated a “contract market” by the Commodity Futures Trading Commission pursuant to the Commodity Exchange Act [7 U.S.C. 1 et seq.] and the term “contract of sale” as so used shall be held to include sales, agreements of sale, and agreements to sell, except that—
     - **(A)** any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section; and
@@ -71,7 +71,7 @@ The Commodity Exchange Act, referred to in subsec. (c)(1), is act Sept. 21, 1922
 
 ### Codification
 
-Section was enacted as part of the Tax Reform Act of 1976, and not as part of the Commodity Exchange Act which comprises this chapter. This section, referred to in subsec. (c)(1), was in the original a reference to this “Act”, meaning the United States Cotton Futures Act, which comprises this section. In subsec. (f)(1)(G), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+Section was enacted as part of the Tax Reform Act of 1976, and not as part of the Commodity Exchange Act which comprises this chapter. Section is comprised of section 1952(a)–(m) of Pub. L. 94–455. Section 1952(b) of Pub. L. 94–455 repealed subchapter D of former chapter 39 of Title 26, Internal Revenue Code. See Prior Provisions note preceding section 4701 of Title 26. This section, referred to in subsec. (c)(1), was in the original a reference to this “Act”, meaning the United States Cotton Futures Act, which comprises this section. In subsec. (f)(1)(G), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 ### Amendments
 

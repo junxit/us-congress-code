@@ -25,7 +25,7 @@ Based on Title 35, U.S.C., 1946 ed., § 4 (R.S. 480). The language is revised an
 
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
-### Statutory Notes and Related Subsidiairies
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1975 Amendment
 

@@ -25,7 +25,7 @@ section: 460ii–3
 
 ### References in Text
 
-The Federal Power Act (16 U.S.C. 791a et seq.), referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act (16 U.S.C. 791a et seq.), referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 ### Amendments
 
