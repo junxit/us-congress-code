@@ -25,7 +25,7 @@ section: 762a
 
 ### References in Text
 
-The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to this chapter (§ 701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables. The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to this chapter (§ 701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables. The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 ### Codification
 

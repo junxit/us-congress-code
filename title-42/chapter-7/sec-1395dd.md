@@ -70,10 +70,6 @@ section: 1395dd
 
 1 So in original. Probably should be followed by a comma.
 
-### Applicability of Amendment
-
-Amendment of section by section 125(b)(2)(B) of Pub. L. 116–260 applicable to items and services furnished on or after Jan. 1, 2023. See 2020 Amendment note below.
-
 ### Editorial Notes
 
 ### Prior Provisions
