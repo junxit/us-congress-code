@@ -11,7 +11,7 @@ section: 360bbb–6
   - **(1)** *In general* The Secretary shall establish an advisory committee to be known as the “Advisory Committee on Risk Communication” (referred to in this section as the “Committee”).
   - **(2)** *Duties of Committee* The Committee shall advise the Commissioner on methods to effectively communicate risks associated with the products regulated by the Food and Drug Administration.
   - **(3)** *Members* The Secretary shall ensure that the Committee is composed of experts on risk communication, experts on the risks described in subsection (b), and representatives of patient, consumer, and health professional organizations.
-  - **(4)** *Permanence of Committee* Section 14 of the Federal Advisory Committee Act shall not apply to the Committee established under this subsection.
+  - **(4)** *Permanence of Committee* Section 1013 of title 5 shall not apply to the Committee established under this subsection.
 - **(b)** *Partnerships for risk communication*
   - **(1)** *In general* The Secretary shall partner with professional medical societies, medical schools, academic medical centers, and other stakeholders to develop robust and multi-faceted systems for communication to health care providers about emerging postmarket drug risks.
   - **(2)** *Partnerships* The systems developed under paragraph (1) shall—
@@ -20,12 +20,12 @@ section: 360bbb–6
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 567, as added Pub. L. 110–85, title IX, § 917, Sept. 27, 2007, 121 Stat. 960.)
+(June 25, 1938, ch. 675, § 567, as added Pub. L. 110–85, title IX, § 917, Sept. 27, 2007, 121 Stat. 960; amended Pub. L. 117–286, § 4(a)(157), Dec. 27, 2022, 136 Stat. 4323.)
 
 ## Notes
 
 ### Editorial Notes
 
-### References in Text
+### Amendments
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (a)(4), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+2022—Subsec. (a)(4). Pub. L. 117–286 substituted “Section 1013 of title 5” for “Section 14 of the Federal Advisory Committee Act”.

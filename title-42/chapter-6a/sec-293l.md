@@ -32,21 +32,17 @@ section: 293l
 - **(f)** *Compensation and expenses*
   - **(1)** *Compensation* Each member of the Advisory Committee shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which such member is engaged in the performance of the duties of the Committee.
   - **(2)** *Expenses* The members of the Advisory Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Committee.
-- **(g)** *FACA* The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act do not conflict with the requirements of this section.
+- **(g)** *Chapter 10 of title 5* Chapter 10 of title 5 shall apply to the Advisory Committee under this section only to the extent that the provisions of chapter 10 of title 5 do not conflict with the requirements of this section.
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title VII, § 749, formerly § 748, as added Pub. L. 105–392, title I, § 102(4), Nov. 13, 1998, 112 Stat. 3539; renumbered § 749 and amended Pub. L. 111–148, title V, §§ 5103(d)(1), 5303(1), Mar. 23, 2010, 124 Stat. 605, 618; Pub. L. 116–136, div. A, title III, § 3401(5), Mar. 27, 2020, 134 Stat. 386.)
+(July 1, 1944, ch. 373, title VII, § 749, formerly § 748, as added Pub. L. 105–392, title I, § 102(4), Nov. 13, 1998, 112 Stat. 3539; renumbered § 749 and amended Pub. L. 111–148, title V, §§ 5103(d)(1), 5303(1), Mar. 23, 2010, 124 Stat. 605, 618; Pub. L. 116–136, div. A, title III, § 3401(5), Mar. 27, 2020, 134 Stat. 386; Pub. L. 117–286, § 4(a)(237), Dec. 27, 2022, 136 Stat. 4331.)
 
 ## Notes
 
 1 So in original. Probably should be “Committee”.
 
 ### Editorial Notes
-
-### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 ### Codification
 
@@ -58,7 +54,7 @@ A prior section 293l, act July 1, 1944, ch. 373, title VII, § 748, as added Pub
 
 ### Amendments
 
-2020—Subsec. (d)(2). Pub. L. 116–136 substituted “Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives” for “Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives”. 2010—Subsec. (d)(3) to (5). Pub. L. 111–148, § 5103(d)(1), added pars. (3) to (5).
+2022—Subsec. (g). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5 shall apply to the Advisory Committee under this section only to the extent that the provisions of chapter 10 of title 5” for “The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act” in text. 2020—Subsec. (d)(2). Pub. L. 116–136 substituted “Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives” for “Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives”. 2010—Subsec. (d)(3) to (5). Pub. L. 111–148, § 5103(d)(1), added pars. (3) to (5).
 
 ### Statutory Notes and Related Subsidiaries
 

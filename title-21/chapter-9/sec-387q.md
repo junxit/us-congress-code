@@ -26,23 +26,23 @@ section: 387q
   - **(2)** on the effects of the alteration of the nicotine yields from tobacco products;
   - **(3)** on whether there is a threshold level below which nicotine yields do not produce dependence on the tobacco product involved; and
   - **(4)** on its review of other safety, dependence, or health issues relating to tobacco products as requested by the Secretary.
-- **(d)** *Compensation; support; FACA*
+- **(d)** *Compensation; support; chapter 10 of title 5*
   - **(1)** *Compensation and travel* Members of the Advisory Committee who are not officers or employees of the United States, while attending conferences or meetings of the committee or otherwise engaged in its business, shall be entitled to receive compensation at rates to be fixed by the Secretary, which may not exceed the daily equivalent of the rate in effect under the Senior Executive Schedule under section 5382 of title 5, for each day (including travel time) they are so engaged; and while so serving away from their homes or regular places of business each member may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
   - **(2)** *Administrative support* The Secretary shall furnish the Advisory Committee clerical and other assistance.
-  - **(3)** *Nonapplication of FACA* Section 14 of the Federal Advisory Committee Act does not apply to the Advisory Committee.
+  - **(3)** *Nonapplication of chapter 10 of title 5* Section 1013 of title 5 does not apply to the Advisory Committee.
 - **(e)** *Proceedings of advisory panels and committees* The Advisory Committee shall make and maintain a transcript of any proceeding of the panel or committee. Each such panel and committee shall delete from any transcript made under this subsection information which is exempt from disclosure under section 552(b) of title 5.
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 917, as added Pub. L. 111–31, div. A, title I, § 101(b)(3), June 22, 2009, 123 Stat. 1824.)
+(June 25, 1938, ch. 675, § 917, as added Pub. L. 111–31, div. A, title I, § 101(b)(3), June 22, 2009, 123 Stat. 1824; amended Pub. L. 117–286, § 4(a)(160), Dec. 27, 2022, 136 Stat. 4323.)
 
 ## Notes
 
 ### Editorial Notes
 
-### References in Text
+### Amendments
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(3), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+2022—Subsec. (d). Pub. L. 117–286, § 4(a)(160)(A), substituted “chapter 10 of title 5” for “FACA” in heading. Subsec. (d)(3). Pub. L. 117–286, § 4(a)(160)(B), substituted “chapter 10 of title 5” for “FACA” in heading and “Section 1013 of title 5” for “Section 14 of the Federal Advisory Committee Act” in text.
 
 ### Statutory Notes and Related Subsidiaries
 

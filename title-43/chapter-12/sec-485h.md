@@ -53,7 +53,7 @@ section: 485h
 
 ### References in Text
 
-The Rural Electrification Act of 1936, referred to in subsec. (c)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables. The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables. The Federal Power Act, referred to in subsec. (c)(8), is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Act is classified generally to subchapter I (§ 791a et seq.) of chapter 12 of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables. Act of September 21, 1959, referred to in subsec. (d)(1), is Pub. L. 86–308, Sept. 21, 1959, 73 Stat. 584, which amended section 485b–1 of this title, enacted provisions set out as a note under section 485b–1 of this title, and amended provisions set out as a note under section 485b of this title. For complete classification of this Act to the Code, see Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (c)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables. The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables. The Federal Power Act, referred to in subsec. (c)(8), is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Act is classified generally to subchapter I (§ 791a et seq.) of chapter 12 of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables. Act of September 21, 1959, referred to in subsec. (d)(1), is Pub. L. 86–308, Sept. 21, 1959, 73 Stat. 584, which amended section 485b–1 of this title, enacted provisions set out as a note under section 485b–1 of this title, and amended provisions set out as a note under section 485b of this title. For complete classification of this Act to the Code, see Tables.
 
 ### Amendments
 
@@ -65,7 +65,7 @@ The Rural Electrification Act of 1936, referred to in subsec. (c)(1), is act May
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### Construction With Section 101–1 of Title 33
+### Construction With Section 701–1 of Title 33
 
 Section as amended and modified by act Dec. 22, 1944, ch. 665, § 1(c), 58 Stat. 665, see section 701–1(c) of Title 33, Navigation and Navigable Waters.
 

@@ -19,4 +19,4 @@ Turtle Bay and Turtle Bayou, in Chambers County, in the State of Texas, are decl
 
 ### References in Text
 
-The Rivers and Harbors Act approved June 25, 1910, referred to in text, is act June 25, 1910, ch. 382, 36 Stat. 630, as amended, which is classified to sections 546, 564, and 643 of this title. For complete classification of this Act to the Code, see Tables.
+The Rivers and Harbors Act approved June 25, 1910, referred to in text, is act June 25, 1910, ch. 382, 36 Stat. 630, which is classified to sections 546, 564, and 643 of this title. For complete classification of this Act to the Code, see Tables.

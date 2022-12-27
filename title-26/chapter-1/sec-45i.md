@@ -69,4 +69,4 @@ Section applicable to production in taxable years beginning after Dec. 31, 2004,
 
 ### Inflation Adjusted Items for Certain Years
 
-Provisions relating to inflation adjustment of items in this section for certain years were contained in the following: 2020—Internal Revenue Notice 2021–34. 2019—Internal Revenue Notice 2020–21. 2018—Internal Revenue Notice 2019–37. 2017—Internal Revenue Notice 2018–52. 2016—Internal Revenue Notice 2017–51.
+Provisions relating to inflation adjustment of items in this section for certain years were contained in the following: 2021—Internal Revenue Notice 2022–18. 2020—Internal Revenue Notice 2021–34. 2019—Internal Revenue Notice 2020–21. 2018—Internal Revenue Notice 2019–37. 2017—Internal Revenue Notice 2018–52. 2016—Internal Revenue Notice 2017–51.

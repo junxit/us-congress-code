@@ -7,7 +7,7 @@ section: 50e
 
 # § 50e. USGS energy and minerals research facility
 
-- **(a)** *Establishment* The Director of the United States Geological Survey (referred to in this section as the “Director”), shall fund, through a cooperative agreement with an academic partner, the design, construction, and tenant build-out of a facility to support energy and minerals research and appurtenant associated structures.
+- **(a)** *Establishment* The Director of the United States Geological Survey (referred to in this section as the “Director”),11 So in original. The comma probably should not appear. shall fund, through a cooperative agreement with an academic partner, the design, construction, and tenant build-out of a facility to support energy and minerals research and appurtenant associated structures.
 - **(b)** *Ownership* The United States Geological Survey shall retain ownership of the facility and associated structures described in subsection (a).
 - **(c)** *Agreements* The Director may enter into agreements with, and to collect and expend funds or in-kind contributions from, academic, Federal, State, or other tenants over the life of the facility described in subsection (a) for the purposes of—
   - **(1)** facility planning;
@@ -26,6 +26,8 @@ section: 50e
 (Pub. L. 117–58, div. D, title II, § 40204, Nov. 15, 2021, 135 Stat. 960.)
 
 ## Notes
+
+1 So in original. The comma probably should not appear.
 
 ### Statutory Notes and Related Subsidiaries
 

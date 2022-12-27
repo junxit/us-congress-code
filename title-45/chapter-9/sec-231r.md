@@ -26,7 +26,7 @@ section: 231r
 
 ### References in Text
 
-The Social Security Act, referred to in subsecs. (a), (b), (c), and (d)(1), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Titles II and XVIII of the Social Security Act are classified generally to subchapters II (§ 401 et seq.) and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables. Sections 204(a)(3), 204(a)(4), 206(3), 207(3) of title II of this Act, referred to in subsec. (d)(3), are sections 204(a)(3), 204(a)(4), 206(3), 207(3) of title II of Pub. L. 93–445 and are set out as part of a Transitional Provisions note under section 231 of this title.
+The Social Security Act, referred to in subsecs. (a), (b), (c), and (d)(1), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Titles II and XVIII of the Social Security Act are classified generally to subchapters II (§ 401 et seq.) and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables. Sections 204(a)(3), 204(a)(4), 206(3), 207(3) of title II of this Act, referred to in subsec. (d)(3), are sections 204(a)(3), 204(a)(4), 206(3), 207(3) of title II of Pub. L. 93–445 and are set out as part of a Transitional Provisions note under section 231 of this title.
 
 ### Amendments
 

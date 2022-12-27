@@ -51,12 +51,12 @@ section: 124k
     - **(C)** all detailees under subsection (d)(5) 2 have appropriate access to all relevant information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, available at the National Counterterrorism Center in order to accomplish the objectives under that paragraph;
     - **(D)** all detailees under subsection (d)(5) 2 have the appropriate security clearances and are trained in the procedures for handling, processing, storing, and disseminating classified products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information; and
     - **(E)** all detailees under subsection (d)(5) 2 complete appropriate privacy and civil liberties training.
-- **(g)** *Inapplicability of the Federal Advisory Committee Act* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the ITACG or any subsidiary groups thereof.
+- **(g)** *Inapplicability of chapter 10 of title 5* Chapter 10 of title 5 shall not apply to the ITACG or any subsidiary groups thereof.
 - **(h)** *Authorization of appropriations* There are authorized to be appropriated such sums as may be necessary for each of fiscal years 2008 through 2012 to carry out this section, including to obtain security clearances for the State, local, and tribal participants in the ITACG.
 
 ## Source credit
 
-(Pub. L. 107–296, title II, § 210D, as added Pub. L. 110–53, title V, § 521(a), Aug. 3, 2007, 121 Stat. 328; amended Pub. L. 111–258, § 5(b)(2), (c), Oct. 7, 2010, 124 Stat. 2650, 2651; Pub. L. 116–92, div. E, title LXVII, § 6726(b), Dec. 20, 2019, 133 Stat. 2236.)
+(Pub. L. 107–296, title II, § 210D, as added Pub. L. 110–53, title V, § 521(a), Aug. 3, 2007, 121 Stat. 328; amended Pub. L. 111–258, § 5(b)(2), (c), Oct. 7, 2010, 124 Stat. 2650, 2651; Pub. L. 116–92, div. E, title LXVII, § 6726(b), Dec. 20, 2019, 133 Stat. 2236; Pub. L. 117–286, § 4(a)(12), Dec. 27, 2022, 136 Stat. 4306.)
 
 ## Notes
 
@@ -68,8 +68,8 @@ section: 124k
 
 ### References in Text
 
-Subsection (d)(5) and (6), referred to in subsec. (f)(2), was redesignated subsec. (c)(5) and (6), respectively, by Pub. L. 116–92, div. E, title LXVII, § 6726(b)(2), Dec. 20, 2019, 133 Stat. 2236. The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Subsection (d)(5) and (6), referred to in subsec. (f)(2), was redesignated subsec. (c)(5) and (6), respectively, by Pub. L. 116–92, div. E, title LXVII, § 6726(b)(2), Dec. 20, 2019, 133 Stat. 2236.
 
 ### Amendments
 
-2019—Subsec. (c). Pub. L. 116–92, § 6726(b)(1), (2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to responsibilities of program manager. Subsec. (c)(9). Pub. L. 116–92, § 6726(b)(3), struck out par. (9) which read as follows: “provide the assessment developed pursuant to paragraph (8) to the program manager for use in the annual reports required by subsection (c)(2).” Subsecs. (d) to (i). Pub. L. 116–92, § 6726(b)(2), redesignated subsecs. (e) to (i) as (d) to (h), respectively. 2010—Subsec. (c). Pub. L. 111–258, § 5(c)(1), struck out “, in consultation with the Information Sharing Council,” after “program manager” in introductory provisions. Subsec. (c)(3). Pub. L. 111–258, § 5(c)(2)–(4), added par. (3). Subsec. (d)(5)(E), (F). Pub. L. 111–258, § 5(b)(2)(A), added subpar. (E) and redesignated former subpar. (E) as (F). Subsec. (d)(8), (9). Pub. L. 111–258, § 5(b)(2)(B)–(D), added pars. (8) and (9).
+2022—Subsec. (g). Pub. L. 117–286 which directed amendment of subsec. (h) by substituting “chapter 10 of title 5” for “the Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text, was executed by making the substitutions in subsec. (g) to reflect the probable intent of Congress and the prior amendment by Pub. L. 116–92. See 2019 Amendment below. 2019—Subsec. (c). Pub. L. 116–92, § 6726(b)(1), (2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to responsibilities of program manager. Subsec. (c)(9). Pub. L. 116–92, § 6726(b)(3), struck out par. (9) which read as follows: “provide the assessment developed pursuant to paragraph (8) to the program manager for use in the annual reports required by subsection (c)(2).” Subsecs. (d) to (i). Pub. L. 116–92, § 6726(b)(2), redesignated subsecs. (e) to (i) as (d) to (h), respectively. 2010—Subsec. (c). Pub. L. 111–258, § 5(c)(1), struck out “, in consultation with the Information Sharing Council,” after “program manager” in introductory provisions. Subsec. (c)(3). Pub. L. 111–258, § 5(c)(2)–(4), added par. (3). Subsec. (d)(5)(E), (F). Pub. L. 111–258, § 5(b)(2)(A), added subpar. (E) and redesignated former subpar. (E) as (F). Subsec. (d)(8), (9). Pub. L. 111–258, § 5(b)(2)(B)–(D), added pars. (8) and (9).

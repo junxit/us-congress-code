@@ -1,21 +1,15 @@
 ---
-identifier: /us/usc/t5a/pl/92/463/s13
+identifier: 
 title: 5a
 section: 13
 ---
 
-# § 13. Responsibilities of Library of Congress; reports and background papers; depository
-
-Subject to section 552 of title 5, United States Code, the Administrator shall provide for the filing with the Library of Congress of at least eight copies of each report made by every advisory committee and, where appropriate, background papers prepared by consultants. The Librarian of Congress shall establish a depository for such reports and papers where they shall be available to public inspection and use.
-
-## Source credit
-
-(Pub. L. 92–463, § 13, Oct. 6, 1972, 86 Stat. 775; 1977 Reorg. Plan No. 1, § 5F, eff. Nov. 20, 1977, 42 F.R. 56101, 91 Stat. 1634.)
+# § 13. Omitted]
 
 ## Notes
 
-### Executive Documents
+### Editorial Notes
 
-### Transfer of Functions
+### Codification
 
-“Administrator”, meaning Administrator of General Services, substituted in text for “Director”, meaning Director of Office of Management and Budget, pursuant to Reorg. Plan No. 1 of 1977, § 5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.
+Section, Pub. L. 95–452, § 13, formerly § 12, Oct. 12, 1978, 92 Stat. 1109; renumbered § 13, Pub. L. 110–409, § 7(a), Oct. 14, 2008, 122 Stat. 4305, which provided that Pub. L. 95–452 would take effect on Oct. 1, 1978, was omitted in light of the repeal of most of the sections of Pub. L. 95–452 and restatement of those provisions in chapter 4 of this title.

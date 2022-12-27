@@ -48,7 +48,7 @@ section: 360ccc–1
   - **(3)** A qualified expert panel, as used in this section, is a panel that—
     - **(A)** is composed of experts qualified by scientific training and experience to evaluate the target animal safety and effectiveness of the new animal drug under consideration;
     - **(B)** operates external to FDA; and
-    - **(C)** is not subject to the Federal Advisory Committee Act.
+    - **(C)** is not subject to chapter 10 of title 5.
   - **(4)** Within 180 days after the receipt of a request for listing a new animal drug in the index, the Secretary shall grant or deny the request. The Secretary shall grant the request if the request for indexing continues to meet the eligibility criteria in subsection (a) and the Secretary finds, on the basis of the report of the qualified expert panel and other information available to the Secretary, that the benefits of using the new animal drug for the proposed use in a minor species outweigh its risks to the target animal, taking into account the harm caused by the absence of an approved or conditionally-approved new animal drug for the minor species in question. If the Secretary denies the request, the Secretary shall thereafter provide due notice and the opportunity for an informal conference. The decision of the Secretary following an informal conference shall constitute final agency action subject to judicial review.
 - **(e)** *Index contents; publication*
   - **(1)** The index established under subsection (a) shall include the following information for each listed drug—
@@ -92,7 +92,7 @@ section: 360ccc–1
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 572, as added Pub. L. 108–282, title I, § 102(b)(4), Aug. 2, 2004, 118 Stat. 896; amended Pub. L. 114–89, § 2(a)(3)(C), Nov. 25, 2015, 129 Stat. 699; Pub. L. 115–234, title III, § 302, Aug. 14, 2018, 132 Stat. 2436.)
+(June 25, 1938, ch. 675, § 572, as added Pub. L. 108–282, title I, § 102(b)(4), Aug. 2, 2004, 118 Stat. 896; amended Pub. L. 114–89, § 2(a)(3)(C), Nov. 25, 2015, 129 Stat. 699; Pub. L. 115–234, title III, § 302, Aug. 14, 2018, 132 Stat. 2436; Pub. L. 117–286, § 4(a)(158), Dec. 27, 2022, 136 Stat. 4323.)
 
 ## Notes
 
@@ -100,11 +100,11 @@ section: 360ccc–1
 
 ### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(E), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables. The Federal Advisory Committee Act, referred to in subsec. (d)(3)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees. The Controlled Substances Act, referred to in subsec. (k), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(E), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables. The Controlled Substances Act, referred to in subsec. (k), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 ### Amendments
 
-2018—Subsec. (h)(1). Pub. L. 115–234, § 302(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label use is prohibited.’;”. Subsec. (h)(2). Pub. L. 115–234, § 302(2), substituted “or food-producing animals” for “or other animals”. 2015—Subsec. (k). Pub. L. 114–89 added subsec. (k).
+2022—Subsec. (d)(3)(C). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.” 2018—Subsec. (h)(1). Pub. L. 115–234, § 302(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label use is prohibited.’;”. Subsec. (h)(2). Pub. L. 115–234, § 302(2), substituted “or food-producing animals” for “or other animals”. 2015—Subsec. (k). Pub. L. 114–89 added subsec. (k).
 
 ### Statutory Notes and Related Subsidiaries
 

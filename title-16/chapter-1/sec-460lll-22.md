@@ -29,16 +29,16 @@ section: 460lll–22
   - **(1)** *Frequency* The Advisory Board shall meet at least biannually.
   - **(2)** *Public meeting* A meeting of the Advisory Board shall be open to the general public.
   - **(3)** *Notice of meetings* The chairperson, through the placement of notices in local news media and by other appropriate means shall give 2 weeks’ public notice of each meeting of the Advisory Board.
-- **(h)** *No termination* Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Board.
+- **(h)** *No termination* Section 1013(a) of title 5 shall not apply to the Advisory Board.
 
 ## Source credit
 
-(Pub. L. 105–277, div. A, § 101(e) [title V, § 522], Oct. 21, 1998, 112 Stat. 2681–231, 2681–314.)
+(Pub. L. 105–277, div. A, § 101(e) [title V, § 522], Oct. 21, 1998, 112 Stat. 2681–231, 2681–314; Pub. L. 117–286, § 4(a)(94), Dec. 27, 2022, 136 Stat. 4316.)
 
 ## Notes
 
 ### Editorial Notes
 
-### References in Text
+### Amendments
 
-Section 14(a)(2) of the Federal Advisory Committee Act, referred to in subsec. (h), is section 14(a)(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+2022—Subsec. (h). Pub. L. 117–286 substituted “Section 1013(a) of title 5” for “Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.)”.

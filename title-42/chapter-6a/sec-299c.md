@@ -38,19 +38,15 @@ section: 299c
   - **(1)** *Appointed members* Members of the Advisory Council appointed under subsection (c)(2) shall receive compensation for each day (including travel time) engaged in carrying out the duties of the Advisory Council unless declined by the member. Such compensation may not be in an amount in excess of the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day during which such member is engaged in the performance of the duties of the Advisory Council.
   - **(2)** *Ex officio members* Officials designated under subsection (c)(3) as ex officio members of the Advisory Council may not receive compensation for service on the Advisory Council in addition to the compensation otherwise received for duties carried out as officers of the United States.
 - **(i)** *Staff* The Director shall provide to the Advisory Council such staff, information, and other assistance as may be necessary to carry out the duties of the Council.
-- **(j)** *Duration* Notwithstanding section 14(a) of the Federal Advisory Committee Act, the Advisory Council shall continue in existence until otherwise provided by law.
+- **(j)** *Duration* Notwithstanding section 1013(a) of title 5, the Advisory Council shall continue in existence until otherwise provided by law.
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title IX, § 941, formerly § 921, as added Pub. L. 106–129, § 2(a), Dec. 6, 1999, 113 Stat. 1663; amended Pub. L. 108–173, title IX, § 900(e)(2)(D), Dec. 8, 2003, 117 Stat. 2372; renumbered § 931, Pub. L. 109–41, § 2(a)(3), July 29, 2005, 119 Stat. 424; renumbered § 941, Pub. L. 111–148, title III, § 3013(a)(2), Mar. 23, 2010, 124 Stat. 381.)
+(July 1, 1944, ch. 373, title IX, § 941, formerly § 921, as added Pub. L. 106–129, § 2(a), Dec. 6, 1999, 113 Stat. 1663; amended Pub. L. 108–173, title IX, § 900(e)(2)(D), Dec. 8, 2003, 117 Stat. 2372; renumbered § 931, Pub. L. 109–41, § 2(a)(3), July 29, 2005, 119 Stat. 424; renumbered § 941, Pub. L. 111–148, title III, § 3013(a)(2), Mar. 23, 2010, 124 Stat. 381; Pub. L. 117–286, § 4(a)(242), Dec. 27, 2022, 136 Stat. 4332.)
 
 ## Notes
 
 ### Editorial Notes
-
-### References in Text
-
-Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (j), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5.
 
 ### Prior Provisions
 
@@ -58,4 +54,4 @@ A prior section 299c, act July 1, 1944, ch. 373, title IX, § 921, as added Pub.
 
 ### Amendments
 
-2003—Subsec. (c)(3)(A). Pub. L. 108–173 substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”.
+2022—Subsec. (j). Pub. L. 117–286 which directed amendment of “Section 942(j) of the Public Health Service Act” by substituting “section 1013(a) of title 5,” for “section 14(a) of the Federal Advisory Committee Act,”, was executed to this section, which is section 941 of the Public Health Service Act, to reflect the probable intent of Congress. 2003—Subsec. (c)(3)(A). Pub. L. 108–173 substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”.

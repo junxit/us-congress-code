@@ -1,45 +1,15 @@
 ---
-identifier: /us/usc/t5a/pl/95/452/s1
+identifier: 
 title: 5a
 section: 1
 ---
 
-# § 1. Short title
-
-This Act be cited as the “Inspector General Act of 1978”.
-
-## Source credit
-
-(Pub. L. 95–452, § 1, Oct. 12, 1978, 92 Stat. 1101.)
+# § 1. Transferred]
 
 ## Notes
 
-### Statutory Notes and Related Subsidiaries
+### Editorial Notes
 
-### Short Title of 2018 Amendment
+### Codification
 
-Pub. L. 115–192, § 1, June 25, 2018, 132 Stat. 1502, provided that: “This Act [amending sections 3, 5, and 11 of Pub. L. 95–452, set out in this Appendix, and repealing provisions set out as a note under section 3 of Pub. L. 95–452, set out in this Appendix] may be cited as the ‘Whistleblower Protection Coordination Act’.”
-
-### Short Title of 2016 Amendment
-
-Pub. L. 114–317, § 1(a), Dec. 16, 2016, 130 Stat. 1595, provided that: “This Act [enacting section 8N of Pub. L. 95–452, set out in this Appendix, amending sections 3 to 6, 8, 8A, 8D, 8E, 8G, 8I, 8J, 8M, and 11 of Pub. L. 95–452, set out in this Appendix, enacting provisions set out as a note under section 8M of Pub. L. 95–452, set out in this Appendix, amending provisions set out as a note under section 11 of Pub. L. 95–452, set out in this Appendix, and repealing provisions set out as notes under section 8M of Pub. L. 95–452, set out in this Appendix, and section 1211 of Title 5, Government Organization and Employees] may be cited as the ‘Inspector General Empowerment Act of 2016’.”
-
-### Short Title of 2008 Amendment
-
-Pub. L. 110–409, § 1, Oct. 14, 2008, 122 Stat. 4302, provided that: “This Act [see Tables for classification] may be cited as the ‘Inspector General Reform Act of 2008’.”
-
-### Short Title of 2006 Amendment
-
-Pub. L. 109–440, § 1, Dec. 20, 2006, 120 Stat. 3286, provided that: “This Act [amending provisions set out as a note under section 8G of Pub. L. 95–452, set out in this Appendix] may be cited as the ‘Iraq Reconstruction Accountability Act of 2006’.”
-
-### Short Title of 1998 Amendment
-
-Pub. L. 105–272, title VII, § 701(a), Oct. 20, 1998, 112 Stat. 2413, provided that: “This title [enacting section 8H of Pub. L. 95–452, set out in this Appendix, amending section 8I of Pub. L. 95–452, set out in this Appendix, and section 403q of Title 50, War and National Defense, and enacting provisions set out as a note under section 8H of Pub. L. 95–452, set out in this Appendix] may be cited as the ‘Intelligence Community Whistleblower Protection Act of 1998’.”
-
-### Short Title of 1988 Amendment
-
-Pub. L. 100–504, title I, § 101, Oct. 18, 1988, 102 Stat. 2515, provided that: “This title [enacting sections 8B–8F of Pub. L. 95–452, set out in this Appendix, amending sections 2, 4–6, 8, 9, and 11 of Pub. L. 95–452, set out in this Appendix, sections 5315 and 5316 of this title, sections 405 and 1105 of Title 31, Money and Finance, and section 410 of Title 39, Postal Service, repealing sections 3521–3527 and 7138 of Title 42, The Public Health and Welfare, and section 231v of Title 45, Railroads, and enacting provisions set out as notes under sections 1, 5, 8D, 8E, and 9 of Pub. L. 95–452, set out in this Appendix] may be cited as the ‘Inspector General Act Amendments of 1988’.”
-
-### Payment Authority Subject to Appropriations
-
-Pub. L. 100–504, title I, § 112, Oct. 18, 1988, 102 Stat. 2530, provided that: “Any authority to make payments under this title [see Short Title of 1988 Amendment note above] shall be effective only to such extent as provided in appropriations Acts.”
+Section, Pub. L. 95–452, § 1, Oct. 12, 1978, 92 Stat. 1101, which provided that Pub. L. 95–452 could be cited as the “Inspector General Act of 1978”, was transferred and is set out as a note under section 401 of this title.

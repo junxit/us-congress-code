@@ -22,16 +22,22 @@ section: 460ww–5
   - **(9)** one member to represent the Fayette County Chamber of Commerce;
   - **(10)** one member to represent recreational users of Summersville Lake; and
   - **(11)** two members to represent local citizens or citizens groups which are concerned with the Gauley River or own lands included within the boundaries of the recreation area.
-- **(e)** *Termination; charter* The Advisory Committee shall terminate on the date ten years after October 26, 1988, notwithstanding the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776). The provisions of section 14(b) of such Act (relating to the charter of the Committee) are hereby waived with respect to this Advisory Committee.
+- **(e)** *Termination; charter* The Advisory Committee shall terminate on the date ten years after October 26, 1988, notwithstanding chapter 10 of title 5. The provisions of section 1013(b) of title 5 (relating to the charter of the Committee),11 So in original. The comma probably should not appear. are hereby waived with respect to this Advisory Committee.
 
 ## Source credit
 
-(Pub. L. 100–534, title II, § 206, Oct. 26, 1988, 102 Stat. 2705.)
+(Pub. L. 100–534, title II, § 206, Oct. 26, 1988, 102 Stat. 2705; Pub. L. 117–286, § 4(a)(92), Dec. 27, 2022, 136 Stat. 4316.)
 
 ## Notes
+
+1 So in original. The comma probably should not appear.
 
 ### Editorial Notes
 
 ### References in Text
 
-This Act, referred to in subsecs. (a) and (c), is Pub. L. 100–534, Oct. 26, 1988, 102 Stat. 2699, known as the West Virginia National Interest River Conservation Act of 1987, which enacted this subchapter and sections 410eeee–12 to 410eeee–15 of this title, amended sections 410eeee–1 and 1274 of this title, and enacted provisions set out as notes under sections 410eeee–1 and 1274 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 410eeee–1 of this title and Tables. The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+This Act, referred to in subsecs. (a) and (c), is Pub. L. 100–534, Oct. 26, 1988, 102 Stat. 2699, known as the West Virginia National Interest River Conservation Act of 1987, which enacted this subchapter and sections 410eeee–12 to 410eeee–15 of this title, amended sections 410eeee–1 and 1274 of this title, and enacted provisions set out as notes under sections 410eeee–1 and 1274 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 410eeee–1 of this title and Tables.
+
+### Amendments
+
+2022—Subsec. (e). Pub. L. 117–286 substituted “chapter 10 of title 5. The provisions of section 1013(b) of title 5 (relating to the charter of the Committee),” for “the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776). The provisions of section 14(b) of such Act (relating to the charter of the Committee)”.

@@ -27,12 +27,12 @@ section: 460nnn–51
 - **(d)** *1 Chairperson and procedures* The advisory council shall elect a chairperson and establish such rules and procedures as it deems necessary or desirable.
 - **(e)** *Service without compensation* Members of the advisory council shall serve without pay, but the Secretary shall reimburse members for reasonable expenses incurred in carrying out official duties as a member of the council.
 - **(f)** *Administrative support* The Secretary shall provide the advisory council with necessary administrative support and shall designate an appropriate officer of the Bureau of Land Management to serve as the Secretary’s liaison to the council.
-- **(g)** *State liaison* The Secretary shall appoint one person, nominated by the Governor of Oregon, to serve as the State government liaison to the advisory council.
-- **(h)** *Applicable law* The advisory committee 22 So in original. Probably should be “advisory council”. shall be subject to the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) and the Federal Advisory Committee Act (5 U.S.C. App.).
+- **(g)** *State liaison* The Secretary shall appoint one person, nominated by the Governor of Oregon, to serve as the State government liaison to the adv1isory council.
+- **(h)** *Applicable law* The advisory committee 22 So in original. Probably should be “advisory council”. shall be subject to the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) and chapter 10 of title 5.
 
 ## Source credit
 
-(Pub. L. 106–399, title I, § 131, Oct. 30, 2000, 114 Stat. 1664.)
+(Pub. L. 106–399, title I, § 131, Oct. 30, 2000, 114 Stat. 1664; Pub. L. 117–286, § 4(a)(96), Dec. 27, 2022, 136 Stat. 4316.)
 
 ## Notes
 
@@ -44,4 +44,8 @@ section: 460nnn–51
 
 ### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (h), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables. The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (h), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+
+### Amendments
+
+2022—Subsec. (h). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”

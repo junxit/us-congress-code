@@ -35,7 +35,7 @@ section: 615c
   - **(1)** *Quorum* One-third of the members of the Advisory Committee shall constitute a quorum for conducting business of the Advisory Committee.
   - **(2)** *Subcommittees* To assist the Advisory Committee in carrying out its functions, the chair may establish appropriate subcommittees composed of members of the Advisory Committee and other subject matter experts as determined to be necessary.
   - **(3)** *Additional rules* The Advisory Committee may adopt other rules as needed.
-- **(f)** *Federal Advisory Committee Act* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee.
+- **(f)** *Chapter 10 of title 5* Chapter 10 of title 5 shall not apply to the Advisory Committee.
 - **(g)** *Implementing recommendations* The Commission shall have the authority to promulgate regulations to implement the recommendations proposed by the Advisory Committee, as well as any other regulations, technical standards, protocols, and procedures as are necessary to achieve reliable, interoperable communication that ensures access by individuals with disabilities to an Internet protocol-enabled emergency network, where achievable and technically feasible.
 - **(h)** *Definitions* In this section—
   - **(1)** the term “Commission” means the Federal Communications Commission;
@@ -44,7 +44,7 @@ section: 615c
 
 ## Source credit
 
-(Pub. L. 111–260, title I, § 106, Oct. 8, 2010, 124 Stat. 2762.)
+(Pub. L. 111–260, title I, § 106, Oct. 8, 2010, 124 Stat. 2762; Pub. L. 117–286, § 4(a)(298), Dec. 27, 2022, 136 Stat. 4338.)
 
 ## Notes
 
@@ -54,8 +54,12 @@ section: 615c
 
 ### References in Text
 
-Section 158(e)(4) of the National Telecommunications and Information Administration Organization Act, referred to in subsec. (c)(7), probably means section 158(f)(4) of title I of Pub. L. 102–538, which was formerly classified to section 942(f)(4) of this title and was omitted from the Code. The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 158(e)(4) of the National Telecommunications and Information Administration Organization Act, referred to in subsec. (c)(7), probably means section 158(f)(4) of title I of Pub. L. 102–538, which was formerly classified to section 942(f)(4) of this title and was omitted from the Code.
 
 ### Codification
 
 Section was enacted as part of the Twenty-First Century Communications and Video Accessibility Act of 2010, and not as part of the Communications Act of 1934 which comprises this chapter.
+
+### Amendments
+
+2022—Subsec. (f). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.

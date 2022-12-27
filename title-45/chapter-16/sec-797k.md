@@ -21,4 +21,4 @@ section: 797k
 
 ### References in Text
 
-The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see section 151 of this title and Tables.
+The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see section 151 of this title and Tables.

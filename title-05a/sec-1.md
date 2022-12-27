@@ -1,21 +1,15 @@
 ---
-identifier: /us/usc/t5a/pl/92/463/s1
+identifier: 
 title: 5a
 section: 1
 ---
 
-# § 1. Short title
-
-This Act may be cited as the “Federal Advisory Committee Act”.
-
-## Source credit
-
-(Pub. L. 92–463, § 1, Oct. 6, 1972, 86 Stat. 770.)
+# § 1. Transferred]
 
 ## Notes
 
-### Statutory Notes and Related Subsidiaries
+### Editorial Notes
 
-### Short Title of 1997 Amendment
+### Codification
 
-Pub. L. 105–153, § 1, Dec. 17, 1997, 111 Stat. 2689, provided that: “This Act [enacting section 15 of Pub. L. 92–463, set out in this Appendix, amending section 3 of Pub. L. 92–463, set out in this Appendix, renumbering former section 15 of Pub. L. 92–463, set out in this Appendix, as section 16, and enacting provisions set out as notes under sections 3 and 15 of Pub. L. 92–463, set out in this Appendix] may be cited as the ‘Federal Advisory Committee Act Amendments of 1997’.”
+Section, Pub. L. 92–463, § 1, Oct. 6, 1972, 86 Stat. 770, which provided that Pub. L. 92–463 could be cited as the “Federal Advisory Committee Act”, was transferred and is set out as a note under section 1001 of this title.

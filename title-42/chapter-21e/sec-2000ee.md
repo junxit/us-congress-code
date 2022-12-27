@@ -93,7 +93,7 @@ section: 2000ee
   - **(2)** *Rules and procedures* After consultation with the Secretary of Defense, the Attorney General, and the Director of National Intelligence, the Board shall adopt rules and procedures of the Board for physical, communications, computer, document, personnel, and other security relating to carrying out the functions of the Board.
 - **(l)** *Treatment as agency, not as advisory committee* The Board—
   - **(1)** is an agency (as defined in section 551(1) of title 5); and
-  - **(2)** is not an advisory committee (as defined in section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.)).
+  - **(2)** is not an advisory committee (as defined in section 1001(2) of title 5).
 - **(m)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section amounts as follows:
   - **(1)** For fiscal year 2008, $5,000,000.
   - **(2)** For fiscal year 2009, $6,650,000.
@@ -103,7 +103,7 @@ section: 2000ee
 
 ## Source credit
 
-(Pub. L. 108–458, title I, § 1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, § 801(a), Aug. 3, 2007, 121 Stat. 352; Pub. L. 114–113, div. M, title III, § 305, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 115–118, title I, § 108, Jan. 19, 2018, 132 Stat. 15.)
+(Pub. L. 108–458, title I, § 1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, § 801(a), Aug. 3, 2007, 121 Stat. 352; Pub. L. 114–113, div. M, title III, § 305, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 115–118, title I, § 108, Jan. 19, 2018, 132 Stat. 15; Pub. L. 117–286, § 4(a)(259), Dec. 27, 2022, 136 Stat. 4334.)
 
 ## Notes
 
@@ -113,7 +113,7 @@ section: 2000ee
 
 ### References in Text
 
-Section 5703 of title 5, referred to in subsec. (i)(2), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b). Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (l)(2), is section 3(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 5703 of title 5, referred to in subsec. (i)(2), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
 ### Codification
 
@@ -121,7 +121,7 @@ Section was formerly set out as a note under section 601 of Title 5, Government 
 
 ### Amendments
 
-2018—Subsec. (f). Pub. L. 115–118, § 108(b)(1), substituted “The Board” for “The Board shall” in introductory provisions. Subsec. (f)(1). Pub. L. 115–118, § 108(b)(2), substituted “shall make its” for “make its”. Subsec. (f)(2). Pub. L. 115–118, § 108(b)(3), substituted “shall hold public” for “hold public” and inserted before period at end “, but may, notwithstanding section 552b of title 5, meet or otherwise communicate in any number to confer or deliberate in a manner that is closed to the public”. Subsec. (j)(2) to (4). Pub. L. 115–118, § 108(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. 2015—Subsec. (g)(5). Pub. L. 114–113 added par. (5). 2007—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (l).
+2022—Subsec. (l)(2). Pub. L. 117–286 substituted “section 1001(2) of title 5).” for “section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.)).” 2018—Subsec. (f). Pub. L. 115–118, § 108(b)(1), substituted “The Board” for “The Board shall” in introductory provisions. Subsec. (f)(1). Pub. L. 115–118, § 108(b)(2), substituted “shall make its” for “make its”. Subsec. (f)(2). Pub. L. 115–118, § 108(b)(3), substituted “shall hold public” for “hold public” and inserted before period at end “, but may, notwithstanding section 552b of title 5, meet or otherwise communicate in any number to confer or deliberate in a manner that is closed to the public”. Subsec. (j)(2) to (4). Pub. L. 115–118, § 108(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. 2015—Subsec. (g)(5). Pub. L. 114–113 added par. (5). 2007—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (l).
 
 ### Statutory Notes and Related Subsidiaries
 

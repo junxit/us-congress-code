@@ -20,7 +20,7 @@ section: 1395ee
       - **(i)** *Number and appointment* The Committee shall be composed of 11 members appointed by the Comptroller General of the United States.
       - **(ii)** *Qualifications* The membership of the Committee shall include individuals with national recognition for their expertise in physician-focused payment models and related delivery of care. No more than 5 members of the Committee shall be providers of services or suppliers, or representatives of providers of services or suppliers.
       - **(iii)** *Prohibition on Federal employment* A member of the Committee shall not be an employee of the Federal Government.
-      - **(iv)** *Ethics disclosure* The Comptroller General shall establish a system for public disclosure by members of the Committee of financial and other potential conflicts of interest relating to such members. Members of the Committee shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).
+      - **(iv)** *Ethics disclosure* The Comptroller General shall establish a system for public disclosure by members of the Committee of financial and other potential conflicts of interest relating to such members. Members of the Committee shall be treated as employees of Congress for purposes of applying subchapter I of chapter 131 of title 5.
       - **(v)** *Date of initial appointments* The initial appointments of members of the Committee shall be made by not later than 180 days after April 16, 2015.
     - **(C)** *Term; vacancies*
       - **(i)** *Term* The terms of members of the Committee shall be for 3 years except that the Comptroller General shall designate staggered terms for the members first appointed.
@@ -32,7 +32,7 @@ section: 1395ee
     - **(F)** *Operational and technical support*
       - **(i)** *In general* The Assistant Secretary for Planning and Evaluation shall provide technical and operational support for the Committee, which may be by use of a contractor. The Office of the Actuary of the Centers for Medicare & Medicaid Services shall provide to the Committee actuarial assistance as needed.
       - **(ii)** *Funding* The Secretary shall provide for the transfer, from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, such amounts as are necessary to carry out this paragraph (not to exceed $5,000,000) for fiscal year 2015 and each subsequent fiscal year. Any amounts transferred under the preceding sentence for a fiscal year shall remain available until expended.
-    - **(G)** *Application* Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
+    - **(G)** *Application* Section 1013 of title 5 shall not apply to the Committee.
   - **(2)** *Criteria and process for submission and review of physician-focused payment models*
     - **(A)** *Criteria for assessing physician-focused payment models*
       - **(i)** *Rulemaking* Not later than November 1, 2016, the Secretary shall, through notice and comment rulemaking, following a request for information, establish criteria for physician-focused payment models, including models for specialist physicians, that could be used by the Committee for making comments and recommendations pursuant to paragraph (1)(D).
@@ -50,15 +50,11 @@ section: 1395ee
 
 ## Source credit
 
-(Aug. 14, 1935, ch. 531, title XVIII, § 1868, as added Pub. L. 101–508, title IV, § 4112, Nov. 5, 1990, 104 Stat. 1388–64; amended Pub. L. 108–173, title IX, § 942(a), Dec. 8, 2003, 117 Stat. 2420; Pub. L. 111–148, title III, § 3134(b)(2), Mar. 23, 2010, 124 Stat. 435; Pub. L. 114–10, title I, § 101(e)(1), Apr. 16, 2015, 129 Stat. 115; Pub. L. 115–123, div. E, title X, § 51003(b), Feb. 9, 2018, 132 Stat. 295.)
+(Aug. 14, 1935, ch. 531, title XVIII, § 1868, as added Pub. L. 101–508, title IV, § 4112, Nov. 5, 1990, 104 Stat. 1388–64; amended Pub. L. 108–173, title IX, § 942(a), Dec. 8, 2003, 117 Stat. 2420; Pub. L. 111–148, title III, § 3134(b)(2), Mar. 23, 2010, 124 Stat. 435; Pub. L. 114–10, title I, § 101(e)(1), Apr. 16, 2015, 129 Stat. 115; Pub. L. 115–123, div. E, title X, § 51003(b), Feb. 9, 2018, 132 Stat. 295; Pub. L. 117–286, § 4(a)(255), (c)(42), Dec. 27, 2022, 136 Stat. 4334, 4359.)
 
 ## Notes
 
 ### Editorial Notes
-
-### References in Text
-
-The Ethics in Government Act of 1978, referred to in subsec. (c)(1)(B)(iv), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables. Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c)(1)(G), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 ### Prior Provisions
 
@@ -66,7 +62,7 @@ A prior section 1395ee, act Aug. 14, 1935, ch. 531, title XVIII, § 1868, as add
 
 ### Amendments
 
-2018—Subsec. (c)(2)(C). Pub. L. 115–123 amended subpar. (C) generally. Prior to amendment, text read as follows: “The Committee shall, on a periodic basis, review models submitted under subparagraph (B), prepare comments and recommendations regarding whether such models meet the criteria described in subparagraph (A), and submit such comments and recommendations to the Secretary.” 2015—Subsec. (c). Pub. L. 114–10 added subsec. (c). 2010—Subsec. (a). Pub. L. 111–148 struck out subsec. (a) which related to the Practicing Physicians Advisory Council. 2003—Pub. L. 108–173, § 942(a)(1), inserted “; Council for Technology and Innovation” in section catchline. Subsec. (a). Pub. L. 108–173, § 942(a)(2)–(4), inserted subsec. heading, redesignated existing provisions as par. (1), substituted “in this subsection” for “in this section”, and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively. Subsec. (b). Pub. L. 108–173, § 942(a)(5), added subsec. (b). Former subsec. (b) redesignated par. (2) of subsec. (a). Subsec. (c). Pub. L. 108–173, § 942(a)(4), redesignated subsec. (c) as par. (3) of subsec. (a).
+2022—Subsec. (c)(1)(B)(iv). Pub. L. 117–286, § 4(c)(42), substituted “subchapter I of chapter 131 of title 5.” for “title I of the Ethics in Government Act of 1978 (Public Law 95–521).” Subsec. (c)(1)(G). Pub. L. 117–286, § 4(a)(255), substituted “Section 1013 of title 5” for “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)”. 2018—Subsec. (c)(2)(C). Pub. L. 115–123 amended subpar. (C) generally. Prior to amendment, text read as follows: “The Committee shall, on a periodic basis, review models submitted under subparagraph (B), prepare comments and recommendations regarding whether such models meet the criteria described in subparagraph (A), and submit such comments and recommendations to the Secretary.” 2015—Subsec. (c). Pub. L. 114–10 added subsec. (c). 2010—Subsec. (a). Pub. L. 111–148 struck out subsec. (a) which related to the Practicing Physicians Advisory Council. 2003—Pub. L. 108–173, § 942(a)(1), inserted “; Council for Technology and Innovation” in section catchline. Subsec. (a). Pub. L. 108–173, § 942(a)(2)–(4), inserted subsec. heading, redesignated existing provisions as par. (1), substituted “in this subsection” for “in this section”, and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively. Subsec. (b). Pub. L. 108–173, § 942(a)(5), added subsec. (b). Former subsec. (b) redesignated par. (2) of subsec. (a). Subsec. (c). Pub. L. 108–173, § 942(a)(4), redesignated subsec. (c) as par. (3) of subsec. (a).
 
 ### Statutory Notes and Related Subsidiaries
 

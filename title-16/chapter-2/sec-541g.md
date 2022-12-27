@@ -7,7 +7,7 @@ section: 541g
 
 # § 541g. Advisory council for scenic-research area; membership; designation of chairman; compensation; consultation by Secretary
 
-- **(a)** *Advisory council; establishment; consultation; members; term; appointment* The Secretary, pursuant to the Federal Advisory Committee Act, shall establish an advisory council for the Area, and shall consult on a periodic and regular basis with such council with respect to matters relating to management of the Area. The members of the advisory council, who shall not exceed eleven in number, shall serve for the individual staggered terms of three years each and shall be appointed by the Secretary as follows—
+- **(a)** *Advisory council; establishment; consultation; members; term; appointment* The Secretary, pursuant to chapter 10 of title 5, shall establish an advisory council for the Area, and shall consult on a periodic and regular basis with such council with respect to matters relating to management of the Area. The members of the advisory council, who shall not exceed eleven in number, shall serve for the individual staggered terms of three years each and shall be appointed by the Secretary as follows—
   - **(1)** a member to represent each county in which a portion of the Area is located, each such appointee to be designated by the respective governing body of the county involved;
   - **(2)** a member appointed to represent the State of Oregon, who shall be designated by the Governor of Oregon; and
   - **(3)** not to exceed eight members appointed by the Secretary from among persons who, individually or through association with national or local organizations, have an interest in the administration of the Area.
@@ -17,15 +17,15 @@ section: 541g
 
 ## Source credit
 
-(Pub. L. 93–535, § 8, Dec. 22, 1974, 88 Stat. 1733.)
+(Pub. L. 93–535, § 8, Dec. 22, 1974, 88 Stat. 1733; Pub. L. 117–286, § 4(a)(98), Dec. 27, 2022, 136 Stat. 4316.)
 
 ## Notes
 
 ### Editorial Notes
 
-### References in Text
+### Amendments
 
-The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+2022—Subsec. (a). Pub. L. 117–286 substituted “chapter 10 of title 5,” for “the Federal Advisory Committee Act,” in introductory provisions.
 
 ### Statutory Notes and Related Subsidiaries
 

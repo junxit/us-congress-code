@@ -10,7 +10,7 @@ section: 460zzz–6
 - **(a)** *Establishment* Not later than 180 days after March 30, 2009, the Secretary shall establish an advisory council, to be known as the “Dominguez-Escalante National Conservation Area Advisory Council”.
 - **(b)** *Duties* The Council shall advise the Secretary with respect to the preparation and implementation of the management plan.
 - **(c)** *Applicable law* The Council shall be subject to—
-  - **(1)** the Federal Advisory Committee Act (5 U.S.C. App.); and
+  - **(1)** chapter 10 of title 5; and
   - **(2)** the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
 - **(d)** *Members* The Council shall include 10 members to be appointed by the Secretary, of whom, to the extent practicable—
   - **(1)** 1 member shall be appointed after considering the recommendations of the Mesa County Commission;
@@ -25,7 +25,7 @@ section: 460zzz–6
 
 ## Source credit
 
-(Pub. L. 111–11, title II, § 2407, Mar. 30, 2009, 123 Stat. 1107.)
+(Pub. L. 111–11, title II, § 2407, Mar. 30, 2009, 123 Stat. 1107; Pub. L. 117–286, § 4(a)(97), Dec. 27, 2022, 136 Stat. 4316.)
 
 ## Notes
 
@@ -33,4 +33,8 @@ section: 460zzz–6
 
 ### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees. The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+
+### Amendments
+
+2022—Subsec. (c)(1). Pub. L. 117–286 substituted “chapter 10 of title 5;” for “the Federal Advisory Committee Act (5 U.S.C. App.);”.

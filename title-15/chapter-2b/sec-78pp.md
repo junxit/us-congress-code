@@ -50,12 +50,12 @@ section: 78pp
     - **(A)** assessing the finding or recommendation of the Committee; and
     - **(B)** disclosing the action, if any, the Commission intends to take with respect to the finding or recommendation.
 - **(h)** *Committee findings* Nothing in this section shall require the Commission to agree to or act upon any finding or recommendation of the Committee.
-- **(i)** *Federal Advisory Committee Act* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Committee and its activities.
+- **(i)** *Chapter 10 of title 5* Chapter 10 of title 5 shall not apply with respect to the Committee and its activities.
 - **(j)** *Authorization of appropriations* There is authorized to be appropriated to the Commission such sums as are necessary to carry out this section.
 
 ## Source credit
 
-(June 6, 1934, ch. 404, title I, § 39, as added Pub. L. 111–203, title IX, § 911, July 21, 2010, 124 Stat. 1822.)
+(June 6, 1934, ch. 404, title I, § 39, as added Pub. L. 111–203, title IX, § 911, July 21, 2010, 124 Stat. 1822; amended Pub. L. 117–286, § 4(a)(64), Dec. 27, 2022, 136 Stat. 4312.)
 
 ## Notes
 
@@ -63,9 +63,9 @@ section: 78pp
 
 ### Editorial Notes
 
-### References in Text
+### Amendments
 
-The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+2022—Subsec. (i). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
 ### Statutory Notes and Related Subsidiaries
 

@@ -22,7 +22,7 @@ section: 300mm–1
   - **(3)** *Meetings* The Advisory Committee shall meet at such frequency as may be required to carry out its duties.
   - **(4)** *Reports* The WTC Program Administrator shall provide for publication of recommendations of the Advisory Committee on the public Web site established for the WTC Program.
   - **(5)** *Duration* Notwithstanding any other provision of law, the Advisory Committee shall continue in operation during the period in which the WTC Program is in operation.
-  - **(6)** *Application of FACA* Except as otherwise specifically provided, the Advisory Committee shall be subject to the Federal Advisory Committee Act.
+  - **(6)** *Application of chapter 10 of title 5* Except as otherwise specifically provided, the Advisory Committee shall be subject to Chapter 11 So in original. Probably should not be capitalized. 10 of title 5.
 - **(b)** *WTC Health Program Steering Committees*
   - **(1)** *Consultation* The WTC Program Administrator shall consult with 2 steering committees (each in this section referred to as a “Steering Committee”) that are established as follows:
     - **(A)** *WTC Responders Steering Committee* One Steering Committee, to be known as the WTC Responders Steering Committee, for the purpose of receiving input from affected stakeholders and facilitating the coordination of monitoring and treatment programs for the enrolled WTC responders under subpart 1 of part B.
@@ -46,12 +46,14 @@ section: 300mm–1
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title XXXIII, § 3302, as added Pub. L. 111–347, title I, § 101, Jan. 2, 2011, 124 Stat. 3627.)
+(July 1, 1944, ch. 373, title XXXIII, § 3302, as added Pub. L. 111–347, title I, § 101, Jan. 2, 2011, 124 Stat. 3627; amended Pub. L. 117–286, § 4(a)(247), Dec. 27, 2022, 136 Stat. 4333.)
 
 ## Notes
 
+1 So in original. Probably should not be capitalized.
+
 ### Editorial Notes
 
-### References in Text
+### Amendments
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+2022—Subsec. (a)(6). Pub. L. 117–286 substituted “chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5.” for “the Federal Advisory Committee Act.” in text.

@@ -11,19 +11,19 @@ section: 410oo–5
 - **(b)** *Management and development issues* The Secretary, or his designee, shall from time to time, but at least semiannually, meet and consult with the Advisory Commission on matters relating to the management and development of the park.
 - **(c)** *Meetings* The Advisory Commission shall meet on a regular basis. Notice of meetings and agenda shall be published in local newspapers which have a distribution which generally covers the area affected by the park. Advisory Commission meetings shall be held at locations and in such a manner as to ensure adequate public involvement.
 - **(d)** *Expenses* Members of the Advisory Commission shall serve without compensation as such, but the Secretary may pay expenses reasonably incurred in carrying out their responsibilities under this subchapter on vouchers signed by the Chairman.
-- **(e)** *Charter* The provisions of section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776), are hereby waived with respect to this Advisory Commission.
+- **(e)** *Charter* The provisions of section 1013(b) of title 5 are hereby waived with respect to this Advisory Commission.
 
 ## Source credit
 
-(Pub. L. 100–479, § 6, Oct. 7, 1988, 102 Stat. 2326.)
+(Pub. L. 100–479, § 6, Oct. 7, 1988, 102 Stat. 2326; Pub. L. 117–286, § 4(a)(80), Dec. 27, 2022, 136 Stat. 4314.)
 
 ## Notes
 
 ### Editorial Notes
 
-### References in Text
+### Amendments
 
-Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14(b) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+2022—Subsec. (e). Pub. L. 117–286 substituted “section 1013(b) of title 5” for “section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776),”.
 
 ### Statutory Notes and Related Subsidiaries
 
