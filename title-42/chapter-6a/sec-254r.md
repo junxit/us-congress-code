@@ -41,12 +41,12 @@ section: 254r
 - **(g)** *Requirement of application* The Secretary may not make a grant under subsection (a) unless an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out such subsection.
 - **(h)** *Noncompliance* The Secretary may not make payments under subsection (a) to a State office of rural health for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State office of rural health has complied with each of the agreements made by the State office of rural health under this section.
 - **(i)** *Authorization of appropriations*
-  - **(1)** *In general* For the purpose of making grants under subsection (a), there are authorized to be appropriated $12,500,000 for each of fiscal years 2018 through 2022.
+  - **(1)** *In general* For the purpose of making grants under subsection (a), there are authorized to be appropriated $12,500,000 for each of fiscal years 2023 through 2027.
   - **(2)** *Availability* Amounts appropriated under paragraph (1) shall remain available until expended.
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title III, § 338J, as added Pub. L. 101–597, title III, § 302, Nov. 16, 1990, 104 Stat. 3032; amended Pub. L. 105–392, title III, § 301, Nov. 13, 1998, 112 Stat. 3585; Pub. L. 115–408, § 2, Dec. 31, 2018, 132 Stat. 5384.)
+(July 1, 1944, ch. 373, title III, § 338J, as added Pub. L. 101–597, title III, § 302, Nov. 16, 1990, 104 Stat. 3032; amended Pub. L. 105–392, title III, § 301, Nov. 13, 1998, 112 Stat. 3585; Pub. L. 115–408, § 2, Dec. 31, 2018, 132 Stat. 5384; Pub. L. 117–356, § 2, Jan. 5, 2023, 136 Stat. 6282.)
 
 ## Notes
 
@@ -58,7 +58,7 @@ A prior section 254r, act July 1, 1944, ch. 373, title III, § 338I, formerly ti
 
 ### Amendments
 
-2018—Pub. L. 115–408 amended section generally. Prior to amendment, section related to grants to States for operation of offices of rural health. 1998—Subsec. (b)(1). Pub. L. 105–392, § 301(1), struck out “in cash” after “contributions” in introductory provisions. Subsec. (j)(1). Pub. L. 105–392, § 301(2), struck out “and” after “1992,” and inserted before period at end “, and such sums as may be necessary for each of the fiscal years 1998 through 2002”. Subsec. (k). Pub. L. 105–392, § 301(3), substituted “$36,000,000” for “$10,000,000”.
+2023—Subsec. (i)(1). Pub. L. 117–356 substituted “fiscal years 2023 through 2027” for “fiscal years 2018 through 2022”. 2018—Pub. L. 115–408 amended section generally. Prior to amendment, section related to grants to States for operation of offices of rural health. 1998—Subsec. (b)(1). Pub. L. 105–392, § 301(1), struck out “in cash” after “contributions” in introductory provisions. Subsec. (j)(1). Pub. L. 105–392, § 301(2), struck out “and” after “1992,” and inserted before period at end “, and such sums as may be necessary for each of the fiscal years 1998 through 2002”. Subsec. (k). Pub. L. 105–392, § 301(3), substituted “$36,000,000” for “$10,000,000”.
 
 ### Statutory Notes and Related Subsidiaries
 

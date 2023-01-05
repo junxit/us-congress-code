@@ -11,6 +11,7 @@ section: 212b
 - **(b)** *Authority to use unique passport identifiers*
   - **(1)** *In general* Except as provided under paragraph (2), the Secretary of State shall not issue a passport to a covered sex offender unless the passport contains a unique identifier, and may revoke a passport previously issued without such an identifier of a covered sex offender.
   - **(2)** *Authority to reissue* Notwithstanding paragraph (1), the Secretary of State may reissue a passport that does not include a unique identifier if an individual described in subsection (a) reapplies for a passport and the Angel Watch Center provides a written determination, through the process developed for that purpose under section 21507 of title 34, to the Secretary of State that the individual is no longer required to register as a covered sex offender.
+  - **(3)** *Clarification with respect to continuing registration* An individual may not be issued or reissued a passport without a unique identifier solely because the individual has moved or otherwise resides outside the United States.
 - **(c)** *Defined terms* In this section—
   - **(1)** the term “covered sex offender” means an individual who—
     - **(A)** is a sex offender, as defined in section 21503(f) of title 34; and
@@ -23,4 +24,12 @@ section: 212b
 
 ## Source credit
 
-(Pub. L. 110–457, title II, § 240, as added Pub. L. 114–119, § 8, Feb. 8, 2016, 130 Stat. 24.)
+(Pub. L. 110–457, title II, § 240, as added Pub. L. 114–119, § 8, Feb. 8, 2016, 130 Stat. 24; amended Pub. L. 117–347, title III, § 323(b), Jan. 5, 2023, 136 Stat. 6207.)
+
+## Notes
+
+### Editorial Notes
+
+### Amendments
+
+2023—Subsec. (b)(3). Pub. L. 117–347 added par. (3).

@@ -56,6 +56,10 @@ Section was enacted as part of the Countering Human Trafficking Act of 2021, and
 
 ### Statutory Notes and Related Subsidiaries
 
+### Forced Labor Requirements: Department of Homeland Security
+
+Pub. L. 117–347, title IV, § 406(b), Jan. 5, 2023, 136 Stat. 6209, provided that: “(1) In general.—Not later than 2 years after the date of enactment of this Act [Jan. 5, 2023], the Secretary of Homeland Security shall establish a team of not less than 10 agents within the Center for Countering Human Trafficking of the Department of Homeland Security to be assigned to exclusively investigate labor trafficking. “(2) Authorization of appropriations.—There are authorized to be appropriated to carry out paragraph (1) $2,000,000 for each of fiscal years 2022 to 2027, to remain available until expended.”
+
 ### Sense of Congress
 
 Pub. L. 117–322, § 2, Dec. 27, 2022, 136 Stat. 4433, provided that: “It is the sense of Congress that— “(1) the victim-centered approach must become universally understood, adopted, and practiced; “(2) criminal justice efforts must increase the focus on, and adeptness at, investigating and prosecuting forced labor cases; “(3) corporations must eradicate forced labor from their supply chains; “(4) the Department of Homeland Security must lead by example—“(A) by ensuring that its government supply chain of contracts and procurement are not tainted by forced labor; and “(B) by leveraging all of its authorities against the importation of goods produced with forced labor; and “(5) human trafficking training, awareness, identification, and screening efforts—“(A) are a necessary first step for prevention, protection, and enforcement; and “(B) should be evidence-based to be most effective.”
