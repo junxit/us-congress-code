@@ -14,7 +14,7 @@ section: 460lll–11
     - **(A)** to provide public recreational opportunities;
     - **(B)** to conserve fish and wildlife and their habitat; and
     - **(C)** to provide for diversity of native and desirable non-native plants, animals, opportunities for hunting and fishing, and environmental education.
-  - **(3)** *Status of unit* The Secretary may administer the Recreation Area as a separate unit of the National Forest System or in conjunction with an existing national forest.
+  - **(3)** *Status of unit* The Secretary shall administer the Recreation Area as a separate unit of the National Forest System.
 - **(c)** *Area included*
   - **(1)** *In general* The Recreation Area shall comprise the federally owned land, water, and interests in the land and water lying between Kentucky Lake and Lake Barkley in the States of Kentucky and Tennessee, as generally depicted on the map entitled “Land Between the Lakes National Recreation Area—January, 1998”.
   - **(2)** *Map* The map described in paragraph (1) shall be available for public inspection in the Office of the Chief of the Forest Service, Washington, D.C.
@@ -24,4 +24,12 @@ section: 460lll–11
 
 ## Source credit
 
-(Pub. L. 105–277, div. A, § 101(e) [title V, § 511], Oct. 21, 1998, 112 Stat. 2681–231, 2681–312.)
+(Pub. L. 105–277, div. A, § 101(e) [title V, § 511], Oct. 21, 1998, 112 Stat. 2681–231, 2681–312; Pub. L. 117–328, div. DD, title II, § 201(b), Dec. 29, 2022, 136 Stat. 5582.)
+
+## Notes
+
+### Editorial Notes
+
+### Amendments
+
+2022—Subsec. (b)(3). Pub. L. 117–328 added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary may administer the Recreation Area as a separate unit of the National Forest System or in conjunction with an existing national forest.”

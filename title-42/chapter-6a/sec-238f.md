@@ -31,6 +31,10 @@ Section was formerly classified to section 300aaa–6 of this title prior to ren
 
 “Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
+### Prohibition
+
+Pub. L. 117–328, div. FF, title I, § 1261, Dec. 29, 2022, 136 Stat. 5681, provided that: “Notwithstanding any provision of this title [see Tables for classification] and the amendments made by this title, no funds made available to carry out this title or any amendment made by this title shall be used to purchase, procure, or distribute pipes or cylindrical objects intended to be used to smoke or inhale illegal scheduled substances.”
+
 ### Buy American Provisions
 
 Pub. L. 103–43, title XX, § 2004, June 10, 1993, 107 Stat. 209, as amended by Pub. L. 105–392, title IV, § 416(a), (b), Nov. 13, 1998, 112 Stat. 3590, provided that: “(a) Sense of Congress Regarding Purchase of American-Made Equipment and Products.—In the case of any equipment or product that may be authorized to be purchased with financial assistance provided pursuant to this Act for any of the fiscal years 1994 through 1996, it is the sense of the Congress that entities receiving such assistance should, in expending the assistance, purchase only American-made equipment and products. “(b) Notice to Recipients of Assistance.—In providing financial assistance pursuant to this Act, the Secretary of Health and Human Services shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) by the Congress.” [Pub. L. 105–392, title IV, § 416(c), Nov. 13, 1998, 112 Stat. 3591, provided that: “This section [amending section 2004 of Pub. L. 103–43, set out above] is deemed to have taken effect immediately after the enactment of Public Law 103–43 [June 10, 1993].” ]

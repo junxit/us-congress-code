@@ -13,11 +13,18 @@ section: 410ccc–1
   - **(2)** Lands and structures owned or acquired by Museum Contents, Inc. as depicted on map CARI, 80,001A, dated May 1994.
   - **(3)** Sites that may be the subject of cooperative agreements with the National Park Service for the purposes of historic preservation and interpretation including, but not limited to, the Melrose Plantation, the Badin-Rouge 11 So in original. Probably should be “Badin-Roque”. site, the Cherokee Plantation, the Beau Fort Plantation, and sites within the Natchitoches National Historical Landmark District: Provided, That such sites may not be added to the historical park unless the Secretary of the Interior (hereinafter referred to as the “Secretary”) determines, based on further research and planning, that such sites meet the applicable criteria for national historical significance, suitability, and feasibility, and notification of the proposed addition has been transmitted to the Committee on Energy and Natural Resources of the United States Senate and the appropriate committees of the House of Representatives.
   - **(4)** Not to exceed 10 acres of land that the Secretary may designate for an interpretive visitor center complex to serve the needs of the historical park and heritage area established in part B of this subchapter.
+  - **(5)** The approximately 46.1 acres of land identified as “Proposed Addition”, as generally depicted on the map entitled “Cane River Creole National Historical Park Proposed Addition—Magnolia Plantation Unit”, numbered 494/176,958, and dated October 2021.
 
 ## Source credit
 
-(Pub. L. 103–449, title III, § 303, Nov. 2, 1994, 108 Stat. 4758.)
+(Pub. L. 103–449, title III, § 303, Nov. 2, 1994, 108 Stat. 4758; Pub. L. 117–328, div. DD, title VI, § 614, Dec. 29, 2022, 136 Stat. 5604.)
 
 ## Notes
 
 1 So in original. Probably should be “Badin-Roque”.
+
+### Editorial Notes
+
+### Amendments
+
+2022—Subsec. (b)(5). Pub. L. 117–328 added par. (5).

@@ -41,7 +41,7 @@ section: 300mm
     - **(D)** *Administrative experience* Information on the administrative performance of the program, including—
       - **(i)** the performance of the program in providing timely evaluation of and treatment to eligible individuals; and
       - **(ii)** a list of the Clinical Centers of Excellence and other providers that are participating in the program.
-    - **(E)** *Scientific reports* A summary of the findings of any new scientific reports or studies on the health effects associated with exposure described in section 300mm–5(1) of this title, including the findings of research conducted under section 300mm–51(a) of this title.
+    - **(E)** *Scientific reports* A summary of the findings of any new scientific reports or studies on the health effects associated with exposure described in section 300mm–5(1) of this title, including the findings of research conducted under subsection (a) or (c) of section 300mm–51 of this title.
     - **(F)** *Advisory Committee recommendations* A list of recommendations by the WTC Scientific/Technical Advisory Committee on additional WTC Program eligibility criteria and on additional WTC-related health conditions and the action of the WTC Program Administrator concerning each such recommendation.
   - **(3)** *Separate clinical programs described* In paragraph (2), each of the following shall be treated as a separate clinical program of the WTC Program:
     - **(A)** *Firefighters and related personnel* The benefits provided for enrolled WTC responders described in section 300mm–21(a)(2)(A) of this title.
@@ -64,7 +64,7 @@ section: 300mm
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title XXXIII, § 3301, as added Pub. L. 111–347, title I, § 101, Jan. 2, 2011, 124 Stat. 3624; amended Pub. L. 114–113, div. O, title III, § 302(b), Dec. 18, 2015, 129 Stat. 2998.)
+(July 1, 1944, ch. 373, title XXXIII, § 3301, as added Pub. L. 111–347, title I, § 101, Jan. 2, 2011, 124 Stat. 3624; amended Pub. L. 114–113, div. O, title III, § 302(b), Dec. 18, 2015, 129 Stat. 2998; Pub. L. 117–328, div. FF, title VII, § 7702(c), Dec. 29, 2022, 136 Stat. 5967.)
 
 ## Notes
 
@@ -72,4 +72,4 @@ section: 300mm
 
 ### Amendments
 
-2015—Subsecs. (i) to (k). Pub. L. 114–113 added subsecs. (i) to (k).
+2022—Subsec. (f)(2)(E). Pub. L. 117–328 substituted “subsection (a) or (c) of section 300mm–51 of this title” for “section 300mm–51(a) of this title”. 2015—Subsecs. (i) to (k). Pub. L. 114–113 added subsecs. (i) to (k).

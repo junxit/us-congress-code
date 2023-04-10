@@ -7,7 +7,7 @@ section: 300hh–10a
 
 # § 300hh–10a. Public Health Emergency Medical Countermeasures Enterprise
 
-- **(a)** *In general* The Secretary shall establish the Public Health Emergency Medical Countermeasures Enterprise (referred to in this section as the “PHEMCE”). The Assistant Secretary for Preparedness and Response shall serve as chair of the PHEMCE.
+- **(a)** *In general* The Secretary shall establish the Public Health Emergency Medical Countermeasures Enterprise (referred to in this section as the “PHEMCE”). The Assistant Secretary for Preparedness and Response and the Director of the Office of Pandemic Preparedness and Response Policy shall serve as co-chairs of the PHEMCE.
 - **(b)** *Members* The PHEMCE shall include each of the following members, or the designee of such members:
   - **(1)** The Assistant Secretary for Preparedness and Response.
   - **(2)** The Director of the Centers for Disease Control and Prevention.
@@ -18,7 +18,8 @@ section: 300hh–10a
   - **(7)** The Secretary of Agriculture.
   - **(8)** The Secretary of Veterans Affairs.
   - **(9)** The Director of National Intelligence.
-  - **(10)** Representatives of any other Federal agency, which may include the Director of the Biomedical Advanced Research and Development Authority, the Director of the Strategic National Stockpile, the Director of the National Institute of Allergy and Infectious Diseases, and the Director of the Office of Public Health Preparedness and Response, as the Secretary determines appropriate.
+  - **(10)** The Director of the Office of Pandemic Preparedness and Response Policy.
+  - **(11)** Representatives of any other Federal agency, which may include the Director of the Biomedical Advanced Research and Development Authority, the Director of the Strategic National Stockpile, the Director of the National Institute of Allergy and Infectious Diseases, and the Director of the Office of Public Health Preparedness and Response, as the Secretary determines appropriate.
 - **(c)** *Functions*
   - **(1)** *In general* The functions of the PHEMCE shall include the following:
     - **(A)** Utilize a process to make recommendations to the Secretary regarding research, advanced research, development, procurement, stockpiling, deployment, distribution, and utilization with respect to countermeasures, as defined in section 247d–6b(c) of this title, including prioritization based on the health security needs of the United States. Such recommendations shall be informed by, when available and practicable, the National Health Security Strategy pursuant to section 300hh–1 of this title, the Strategic National Stockpile needs pursuant to section 247d–6b of this title, and assessments of current national security threats, including chemical, biological, radiological, and nuclear threats, including emerging infectious diseases. In the event that members of the PHEMCE do not agree upon a recommendation, the Secretary shall provide a determination regarding such recommendation.
@@ -29,7 +30,7 @@ section: 300hh–10a
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title XXVIII, § 2811–1, as added Pub. L. 116–22, title IV, § 402(a), June 24, 2019, 133 Stat. 942.)
+(July 1, 1944, ch. 373, title XXVIII, § 2811–1, as added Pub. L. 116–22, title IV, § 402(a), June 24, 2019, 133 Stat. 942; amended Pub. L. 117–328, div. FF, title II, § 2104(k)(1), Dec. 29, 2022, 136 Stat. 5719.)
 
 ## Notes
 
@@ -38,3 +39,7 @@ section: 300hh–10a
 ### Prior Provisions
 
 A prior section 300hh–10a, act July 1, 1944, ch. 373, title XXVIII, § 2811A, as added Pub. L. 113–5, title I, § 103, Mar. 13, 2013, 127 Stat. 168; amended Pub. L. 116–22, title III, § 305(a), June 24, 2019, 133 Stat. 936, which related to the National Advisory Committee on Children and Disasters, was transferred to section 300hh–10b of this title.
+
+### Amendments
+
+2022—Subsec. (a). Pub. L. 117–328, § 2104(k)(1)(A), substituted “and the Director of the Office of Pandemic Preparedness and Response Policy shall serve as co-chairs” for “shall serve as chair”. Subsec. (b)(10), (11). Pub. L. 117–328, § 2104(k)(1)(B), added par. (10) and redesignated former par. (10) as (11).

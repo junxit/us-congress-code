@@ -5,10 +5,10 @@ chapter: 1
 section: 14
 ---
 
-# § 14. Forfeiture for messenger’s neglect of duty
+# § 14. Repealed. Pub. L. 117–328, div. P, title I, § 108(c)(1), Dec. 29, 2022, 136 Stat. 5237]
 
-Every person who, having been appointed, pursuant to section 13 of this title, to deliver the certificates of the votes of the electors to the President of the Senate, and having accepted such appointment, shall neglect to perform the services required from him, shall forfeit the sum of $1,000.
+## Notes
 
-## Source credit
+### removalDescription
 
-(June 25, 1948, ch. 644, 62 Stat. 675.)
+Section, act June 25, 1948, ch. 644, 62 Stat. 675, related to forfeiture for messenger’s neglect of duty.

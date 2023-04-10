@@ -18,7 +18,7 @@ Section 8M, Pub. L. 95–452, § 8M, formerly § 8L, as added Pub. L. 110–409,
 
 ### removalDescription
 
-Section 8N, Pub. L. 95–452, § 8N, as added Pub. L. 114–317, § 6(7), Dec. 16, 2016, 130 Stat. 1604, contained additional provisions with respect to the Department of Energy. See section 421 of this title.
+Section 8N, Pub. L. 95–452, § 8N, as added Pub. L. 114–317, § 6(7), Dec. 16, 2016, 130 Stat. 1604; Pub. L. 117–263, div. E, title LII, § 5272(8), Dec. 23, 2022, 136 Stat. 3241, contained additional provisions with respect to the Department of Energy. See section 421 of this title.
 
 ### removalDescription
 

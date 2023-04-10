@@ -18,8 +18,9 @@ section: 360bbb–8
   - **(3)** the unmet medical need associated with rare diseases;
   - **(4)** the willingness and ability of individuals with a rare disease to participate in clinical trials;
   - **(5)** an assessment of the benefits and risks of therapies to treat rare diseases;
-  - **(6)** the general design of clinical trials for rare disease populations and subpopulations; and
-  - **(7)** the demographics and the clinical description of patient populations.
+  - **(6)** the general design of clinical trials for rare disease populations and subpopulations;
+  - **(7)** the demographics and the clinical description of patient populations; and
+  - **(8)** the science of small population studies.
 - **(c)** *Classification as special government employees* The external experts who are consulted under this section may be considered special government employees, as defined under section 202 of title 18.
 - **(d)** *Protection of confidential information and trade secrets*
   - **(1)** *Rule of construction* Nothing in this section shall be construed to alter the protections offered by laws, regulations, and policies governing disclosure of confidential commercial or trade secret information, and any other information exempt from disclosure pursuant to section 552(b) of title 5 as such provisions would be applied to consultation with individuals and organizations prior to July 9, 2012.
@@ -39,7 +40,7 @@ section: 360bbb–8
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 569, as added Pub. L. 112–144, title IX, § 903, July 9, 2012, 126 Stat. 1088; amended Pub. L. 114–255, div. A, title III, § 3101(a)(2)(O), Dec. 13, 2016, 130 Stat. 1154.)
+(June 25, 1938, ch. 675, § 569, as added Pub. L. 112–144, title IX, § 903, July 9, 2012, 126 Stat. 1088; amended Pub. L. 114–255, div. A, title III, § 3101(a)(2)(O), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 117–328, div. FF, title III, § 3202(e), Dec. 29, 2022, 136 Stat. 5812.)
 
 ## Notes
 
@@ -51,4 +52,4 @@ Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to
 
 ### Amendments
 
-2016—Subsec. (a)(2)(A). Pub. L. 114–255 substituted “subsection (b)” for “subsection (c)” before period in first sentence.
+2022—Subsec. (b)(8). Pub. L. 117–328 added par. (8). 2016—Subsec. (a)(2)(A). Pub. L. 114–255 substituted “subsection (b)” for “subsection (c)” before period in first sentence.

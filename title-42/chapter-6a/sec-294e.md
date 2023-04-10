@@ -24,10 +24,11 @@ section: 294e
     - **(J)** those to meet the costs of projects to plan, develop, and operate or maintain graduate programs in behavioral and mental health practice.
   - **(2)** Planning and implementing projects in preventive and primary care training for podiatric physicians in approved or provisionally approved residency programs that shall provide financial assistance in the form of traineeships to residents who participate in such projects and who plan to specialize in primary care.
   - **(3)** Carrying out demonstration projects in which chiropractors and physicians collaborate to identify and provide effective treatment for spinal and lower-back conditions.
+  - **(4)** Increasing educational opportunities in physical therapy, occupational therapy, respiratory therapy, audiology, and speech-language pathology professions, which may include offering scholarships or stipends and carrying out other activities to improve retention, for individuals from disadvantaged backgrounds or individuals who are underrepresented in such professions.
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title VII, § 755, as added Pub. L. 105–392, title I, § 103, Nov. 13, 1998, 112 Stat. 3548; amended Pub. L. 116–136, div. A, title III, § 3401(8), Mar. 27, 2020, 134 Stat. 386.)
+(July 1, 1944, ch. 373, title VII, § 755, as added Pub. L. 105–392, title I, § 103, Nov. 13, 1998, 112 Stat. 3548; amended Pub. L. 116–136, div. A, title III, § 3401(8), Mar. 27, 2020, 134 Stat. 386; Pub. L. 117–328, div. FF, title II, § 2224, Dec. 29, 2022, 136 Stat. 5749.)
 
 ## Notes
 
@@ -39,4 +40,4 @@ A prior section 294e, act July 1, 1944, ch. 373, title VII, § 767, as added Pub
 
 ### Amendments
 
-2020—Subsec. (b)(1)(A). Pub. L. 116–136 substituted “geriatric populations or for maternal and child health” for “the elderly”.
+2022—Subsec. (b)(4). Pub. L. 117–328 added par. (4). 2020—Subsec. (b)(1)(A). Pub. L. 116–136 substituted “geriatric populations or for maternal and child health” for “the elderly”.

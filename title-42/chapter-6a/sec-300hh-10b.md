@@ -10,20 +10,21 @@ section: 300hh–10b
 - **(a)** *Establishment* The Secretary, in consultation with the Secretary of Homeland Security, shall establish an advisory committee to be known as the “National Advisory Committee on Children and Disasters” (referred to in this section as the “Advisory Committee”).
 - **(b)** *Duties* The Advisory Committee shall—
   - **(1)** provide advice and consultation with respect to the activities carried out pursuant to section 300hh–16 of this title, as applicable and appropriate;
-  - **(2)** evaluate and provide input with respect to the medical, mental and behavioral, and public health needs of children as they relate to preparation for, response to, and recovery from all-hazards emergencies; and
-  - **(3)** provide advice and consultation with respect to State emergency preparedness and response activities and children, including related drills and exercises pursuant to the preparedness goals under section 300hh–1(b) of this title.
+  - **(2)** evaluate and provide input with respect to the medical, mental, behavioral, developmental, and public health needs of children as they relate to preparation for, response to, and recovery from all-hazards emergencies;
+  - **(3)** provide advice and consultation with respect to State emergency preparedness and response activities and children, including related drills and exercises pursuant to the preparedness goals under section 300hh–1(b) of this title; and
+  - **(4)** provide advice and consultation with respect to continuity of care and education for all children and supporting parents and caregivers during all-hazards emergencies.
 - **(c)** *Additional duties* The Advisory Committee may provide advice and recommendations to the Secretary with respect to children and the medical and public health grants and cooperative agreements as applicable to preparedness and response activities authorized under this subchapter and subchapter II.
 - **(d)** *Membership*
   - **(1)** *In general* The Secretary, in consultation with such other Secretaries as may be appropriate, shall appoint not to exceed 25 members to the Advisory Committee. In appointing such members, the Secretary shall ensure that the total membership of the Advisory Committee is an odd number.
   - **(2)** *Required non-Federal members* The Secretary, in consultation with such other heads of Federal agencies as may be appropriate, shall appoint to the Advisory Committee under paragraph (1) at least 13 individuals, including—
     - **(A)** at least 2 non-Federal professionals with expertise in pediatric medical disaster planning, preparedness, response, or recovery;
     - **(B)** at least 2 representatives from State, local, Tribal, or territorial agencies with expertise in pediatric disaster planning, preparedness, response, or recovery;
-    - **(C)** at least 4 members representing health care professionals, which may include members with expertise in pediatric emergency medicine; pediatric trauma, critical care, or surgery; the treatment of pediatric patients affected by chemical, biological, radiological, or nuclear agents, including emerging infectious diseases; pediatric mental or behavioral health related to children affected by a public health emergency; or pediatric primary care; and
-    - **(D)** other members as the Secretary determines appropriate, of whom—
+    - **(C)** at least 4 members representing health care professionals, which may include members with expertise in pediatric emergency medicine; pediatric trauma, critical care, or surgery; the treatment of pediatric patients affected by chemical, biological, radiological, or nuclear agents, including emerging infectious diseases; pediatric mental or behavioral health related to children affected by a public health emergency; or pediatric primary care;
+    - **(D)** at least 4 non-Federal members representing child care settings, State or local educational agencies, individuals with expertise in children with disabilities, and parents; and
+    - **(E)** other members as the Secretary determines appropriate, of whom—
       - **(i)** at least one such member shall represent a children’s hospital;
-      - **(ii)** at least one such member shall be an individual with expertise in schools or child care settings;
-      - **(iii)** at least one such member shall be an individual with expertise in children and youth with special health care needs; and
-      - **(iv)** at least one such member shall be an individual with expertise in the needs of parents or family caregivers, including the parents or caregivers of children with disabilities.
+      - **(ii)** at least one such member shall be an individual with expertise in children and youth with special health care needs; and
+      - **(iii)** at least one such member shall be an individual with expertise in the needs of parents or family caregivers, including the parents or caregivers of children with disabilities.
   - **(3)** *Federal members* The Advisory Committee under paragraph (1) shall include the following Federal members or their designees (who may be nonvoting members, as determined by the Secretary):
     - **(A)** The Assistant Secretary for Preparedness and Response.
     - **(B)** The Director of the Biomedical Advanced Research and Development Authority.
@@ -44,7 +45,7 @@ section: 300hh–10b
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title XXVIII, § 2811A, as added Pub. L. 113–5, title I, § 103, Mar. 13, 2013, 127 Stat. 168; amended Pub. L. 116–22, title III, § 305(a), June 24, 2019, 133 Stat. 936.)
+(July 1, 1944, ch. 373, title XXVIII, § 2811A, as added Pub. L. 113–5, title I, § 103, Mar. 13, 2013, 127 Stat. 168; amended Pub. L. 116–22, title III, § 305(a), June 24, 2019, 133 Stat. 936; Pub. L. 117–328, div. FF, title II, § 2236, Dec. 29, 2022, 136 Stat. 5756.)
 
 ## Notes
 
@@ -56,4 +57,4 @@ Section was formerly classified to section 300hh–10a of this title.
 
 ### Amendments
 
-2019—Subsec. (b)(2). Pub. L. 116–22, § 305(a)(1), inserted “, mental and behavioral,” after “medical”. Subsec. (d)(1). Pub. L. 116–22, § 305(a)(2)(A), substituted “25 members” for “15 members”. Subsec. (d)(2) to (5). Pub. L. 116–22, § 305(a)(2)(B), added pars. (2) to (5) and struck out former par. (2) which related to required members of the Advisory Committee. Subsec. (e). Pub. L. 116–22, § 305(a)(3), inserted at end “At least one meeting per year shall be an in-person meeting.” Subsec. (f). Pub. L. 116–22, § 305(a)(5), added subsec. (f). Former subsec. (f) redesignated (g). Subsec. (g). Pub. L. 116–22, § 305(a)(4), (6), redesignated subsec. (f) as (g) and substituted “2023” for “2018”.
+2022—Subsec. (b)(2). Pub. L. 117–328, § 2236(1)(A)(i), substituted “, behavioral, developmental” for “and behavioral”. Subsec. (b)(4). Pub. L. 117–328, § 2236(1)(A)(ii)–(C), added par. (4). Subsec. (d)(2)(D), (E). Pub. L. 117–328, § 2236(2)(A)–(C), added subpar. (D) and redesignated former subpar. (D) as (E). Subsec. (d)(2)(E)(ii) to (iv). Pub. L. 117–328, § 2236(2)(D), redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read as follows: “at least one such member shall be an individual with expertise in schools or child care settings;”. 2019—Subsec. (b)(2). Pub. L. 116–22, § 305(a)(1), inserted “, mental and behavioral,” after “medical”. Subsec. (d)(1). Pub. L. 116–22, § 305(a)(2)(A), substituted “25 members” for “15 members”. Subsec. (d)(2) to (5). Pub. L. 116–22, § 305(a)(2)(B), added pars. (2) to (5) and struck out former par. (2) which related to required members of the Advisory Committee. Subsec. (e). Pub. L. 116–22, § 305(a)(3), inserted at end “At least one meeting per year shall be an in-person meeting.” Subsec. (f). Pub. L. 116–22, § 305(a)(5), added subsec. (f). Former subsec. (f) redesignated (g). Subsec. (g). Pub. L. 116–22, § 305(a)(4), (6), redesignated subsec. (f) as (g) and substituted “2023” for “2018”.

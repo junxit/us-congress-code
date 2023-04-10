@@ -18,7 +18,22 @@ section: 460lll–26
 - **(b)** *Authorities* For the management, maintenance, operation, and interpretation of the Recreation Area and its facilities, the Secretary may—
   - **(1)** make grants and enter into contracts and cooperative agreements with Federal agencies, governmental units, nonprofit organizations, corporations, and individuals; and
   - **(2)** accept gifts under section 2269 of title 7 notwithstanding that the donor conducts business with any agency of the Department of Agriculture or is regulated by the Secretary of Agriculture.
+- **(c)** *Memoranda of understanding* The Secretary may, for purposes of carrying out this subchapter—
+  - **(1)** enter into memoranda of understanding with State or local government entities, including law enforcement, as appropriate, to clarify jurisdictional matters, such as road management, policing, and other functions that are typically performed by the entity on non-Federal land; and
+  - **(2)** make available on a public website of the Department of Agriculture any memoranda of understanding entered into under paragraph (1).
 
 ## Source credit
 
-(Pub. L. 105–277, div. A, § 101(e) [title V, § 526], Oct. 21, 1998, 112 Stat. 2681–231, 2681–316.)
+(Pub. L. 105–277, div. A, § 101(e) [title V, § 526], Oct. 21, 1998, 112 Stat. 2681–231, 2681–316; Pub. L. 117–328, div. DD, title II, § 201(f), Dec. 29, 2022, 136 Stat. 5583.)
+
+## Notes
+
+### Editorial Notes
+
+### References in Text
+
+This subchapter, referred to in subsec. (c), was in the original “this Act” and was translated as reading “this title”, meaning section 101(e) [title V] of div. A of Pub. L. 105–277, known as The Land Between the Lakes Protection Act of 1998, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460lll of this title and Tables.
+
+### Amendments
+
+2022—Subsec. (c). Pub. L. 117–328 added subsec. (c).

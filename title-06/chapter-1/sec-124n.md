@@ -127,3 +127,9 @@ section: 124n
 ### References in Text
 
 The Presidential Protection Assistance Act of 1976, referred to in subsec. (k)(3)(C)(i)(II), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables. Section 104 of title 14, referred to in subsec. (k)(3)(C)(iv), was redesignated section 528 of title 14 by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 104 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard. This chapter, referred to in subsec. (l)(1)(A), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
+### Statutory Notes and Related Subsidiaries
+
+### Termination Date
+
+Pub. L. 117–328, div. F, title V, § 547, Dec. 29, 2022, 136 Stat. 4758, provided that: “Section 210G(i) of the Homeland Security Act of 2002 (6 U.S.C. 124n(i)) shall be applied by substituting ‘September 30, 2023’ for ‘the date that is 4 years after October 5, 2018’.”

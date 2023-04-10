@@ -10,6 +10,7 @@ section: 410ggg–1
 - **(a)** *In general*
   - **(1)** *General administration* The Secretary of the Interior (in this subchapter referred to as the “Secretary”) shall administer the park in accordance with this subchapter and the provisions of law generally applicable to units of the National Park System, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 through 4),11 See References in Text note below. and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467).1
   - **(2)** *Specific authorities* The Secretary may interpret the story of Rosie the Riveter and the World War II home front, conduct and maintain oral histories that relate to the World War II home front theme, and provide technical assistance in the preservation of historic properties that support this story.
+  - **(3)** *Nystrom Elementary School* Nothing in this subchapter affects the authority of the West Contra Costa Unified School District to administer Nystrom Elementary School.
 - **(b)** *Cooperative agreements*
   - **(1)** *General agreements* The Secretary may enter into cooperative agreements with the owners of the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A, pursuant to which the Secretary may mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions under which the Secretary shall have the right of access at reasonable times to public portions of the property for interpretive and other purposes, and that no changes or alterations shall be made in the property except by mutual agreement.
   - **(2)** *Limited agreements* The Secretary may consult and enter into cooperative agreements with interested persons for interpretation and technical assistance with the preservation of—
@@ -22,6 +23,9 @@ section: 410ggg–1
     - **(G)** the Bay Trail/Esplanade;
     - **(H)** Vincent Park; and
     - **(I)** the vessel S.S. RED OAK VICTORY, and Whirley Cranes associated with shipbuilding in Richmond.
+  - **(3)** *West Contra Costa Unified School District*
+    - **(A)** *In general* The Secretary may enter into cooperative agreements with the West Contra Costa Unified School District and other appropriate public and private agencies, organizations, and institutions to carry out the purposes of this subchapter.
+    - **(B)** *Visitor interpretation* The Secretary shall coordinate visitor interpretation of the Nystrom Elementary School site with the West Contra Costa Unified School District.
 - **(c)** *Education center* The Secretary may establish a World War II Home Front Education Center in the Ford Assembly Building. Such center shall include a program that allows for distance learning and linkages to other representative sites across the country, for the purpose of educating the public as to the significance of the site and the World War II Home Front.
 - **(d)** *Use of Federal funds*
   - **(1)** *Non-Federal matching*
@@ -42,7 +46,7 @@ section: 410ggg–1
 
 ## Source credit
 
-(Pub. L. 106–352, § 3, Oct. 24, 2000, 114 Stat. 1370; Pub. L. 108–352, § 6(2), Oct. 21, 2004, 118 Stat. 1396.)
+(Pub. L. 106–352, § 3, Oct. 24, 2000, 114 Stat. 1370; Pub. L. 108–352, § 6(2), Oct. 21, 2004, 118 Stat. 1396; Pub. L. 117–328, div. DD, title VI, § 612(b), (c), Dec. 29, 2022, 136 Stat. 5603, 5604.)
 
 ## Notes
 
@@ -60,7 +64,7 @@ In subsec. (g)(1), “section 100502 of title 54” substituted for “section 1
 
 ### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–352, § 6(2)(A), substituted “August 25” for “August 35”. Subsec. (b)(1). Pub. L. 108–352, § 6(2)(B), substituted “the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A” for “the World War II Child Development Centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67A”. Subsec. (e)(2). Pub. L. 108–352, § 6(2)(C), substituted “the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A,” for “the World War II day care centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67,”.
+2022—Subsec. (a)(3). Pub. L. 117–328, § 612(b), added par. (3). Subsec. (b)(3). Pub. L. 117–328, § 612(c), added par. (3). 2004—Subsec. (a)(1). Pub. L. 108–352, § 6(2)(A), substituted “August 25” for “August 35”. Subsec. (b)(1). Pub. L. 108–352, § 6(2)(B), substituted “the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A” for “the World War II Child Development Centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67A”. Subsec. (e)(2). Pub. L. 108–352, § 6(2)(C), substituted “the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A,” for “the World War II day care centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67,”.
 
 ### Statutory Notes and Related Subsidiaries
 

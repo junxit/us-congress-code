@@ -83,7 +83,7 @@ section: 392a
 
 ## Source credit
 
-(Added and amended Pub. L. 117–263, div. A, title XV, § 1501(b), Dec. 23, 2022, 136 Stat. 2878.)
+(Added and amended Pub. L. 117–263, div. A, title XV, § 1501(b), Dec. 23, 2022, 136 Stat. 2877.)
 
 ## Notes
 

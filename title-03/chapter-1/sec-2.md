@@ -5,10 +5,10 @@ chapter: 1
 section: 2
 ---
 
-# § 2. Failure to make choice on prescribed day
+# § 2. Repealed. Pub. L. 117–328, div. P, title I, § 102(a), Dec. 29, 2022, 136 Stat. 5233]
 
-Whenever any State has held an election for the purpose of choosing electors, and has failed to make a choice on the day prescribed by law, the electors may be appointed on a subsequent day in such a manner as the legislature of such State may direct.
+## Notes
 
-## Source credit
+### removalDescription
 
-(June 25, 1948, ch. 644, 62 Stat. 672.)
+Section, act June 25, 1948, ch. 644, 62 Stat. 672, related to failure to make choice on prescribed day.

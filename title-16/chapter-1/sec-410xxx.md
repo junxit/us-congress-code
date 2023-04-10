@@ -10,22 +10,29 @@ section: 410xxx
 - **(a)** *Definitions* In this section:
   - **(1)** *Historic District* The term “Historic District” means the Ste. Genevieve Historic District National Historic Landmark, as generally depicted on the Map.
   - **(2)** *Historical Park* The term “Historical Park” means the Ste. Genevieve National Historical Park established by subsection (b).
-  - **(3)** *Map* The term “Map” means the map entitled “Ste. Genevieve National Historical Park Proposed Boundary Addition”, numbered 571/149,942, and dated December 2018.
-  - **(4)** *Special resource study* The term “special resource study” means the study entitled “Ste. Genevieve Final Special Resources Study and Environmental Assessment, Missouri” and dated May 2016.
-  - **(5)** *State* The term “State” means the State of Missouri.
+  - **(3)** *Map* The term “Map” means the map entitled “Ste. Genevieve National Historical Park Proposed Boundary Addition”, numbered 571/177,464, and dated September 2021.
+  - **(4)** *Secretary* The term “Secretary” means the Secretary of the Interior.
+  - **(5)** *Special resource study* The term “special resource study” means the study entitled “Ste. Genevieve Final Special Resources Study and Environmental Assessment, Missouri” and dated May 2016.
+  - **(6)** *State* The term “State” means the State of Missouri.
 - **(b)** *Establishment*
   - **(1)** *In general* Subject to paragraph (2), there is established the Ste. Genevieve National Historical Park in the State as a unit of the National Park System to preserve, protect, and interpret for the benefit of present and future generations the themes of French settlement, vernacular architecture, and community form and farming on the frontier associated with Ste. Genevieve.
   - **(2)** *Conditions for establishment* The Historical Park shall not be established until the date on which the Secretary determines that—
     - **(A)** sufficient land has been acquired for the Historical Park to constitute a manageable unit; and
     - **(B)** the Secretary has entered into a written agreement providing that land owned by the State, the City of Ste. Genevieve, or other entity within the Historic District shall be managed consistent with the purposes of this section.
 - **(c)** *Boundaries* The boundaries of the Historical Park shall be the boundaries generally depicted on the Map.
-- **(d)** *Availability of Map* The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+- **(d)** *Availability of Map*
+  - **(1)** *In general* The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+  - **(2)** *Authority to correct errors* The Secretary may correct any clerical or typographical errors in the Map.
 - **(e)** *Acquisition authority*
   - **(1)** *In general* The Secretary may acquire any land or interest in land located within the boundary of the Historical Park or any nationally significant property identified in the special resource study within the Historic District by—
     - **(A)** donation;
     - **(B)** purchase with donated or appropriated funds; or
     - **(C)** exchange.
   - **(2)** *Boundary revision* On the acquisition of any property within the Historic District under paragraph (1), the Secretary shall revise the boundary of the Historical Park to include the property.
+  - **(3)** *Visitor center* The Secretary—
+    - **(A)** may acquire, by donation, the land (including any improvements to the land) owned by the city of Ste. Genevieve, Missouri, and used as the visitor center for the Historical Park, as generally depicted on the Map as “Proposed Boundary Addition”; and
+    - **(B)** on acquisition of the land described in subparagraph (A), shall revise the boundary of the Historical Park to include the acquired land.
+  - **(4)** *Administrative facilities* The Secretary may acquire, by purchase from a willing seller or by donation, not more than 20 acres of land in the vicinity of the Historical Park for administrative facilities for the Historical Park.
 - **(f)** *Administration*
   - **(1)** *In general* The Secretary shall administer the Historical Park in accordance with—
     - **(A)** this section; and
@@ -52,7 +59,7 @@ section: 410xxx
 
 ## Source credit
 
-(Pub. L. 115–141, div. G, title I, § 121(a)(2) [div. B, title VII, § 7134], Mar. 23, 2018, 132 Stat. 661, 1225A–5; Pub. L. 116–9, title II, § 2109(a), Mar. 12, 2019, 133 Stat. 731.)
+(Pub. L. 115–141, div. G, title I, § 121(a)(2) [div. B, title VII, § 7134], Mar. 23, 2018, 132 Stat. 661, 1225A–5; Pub. L. 116–9, title II, § 2109(a), Mar. 12, 2019, 133 Stat. 731; Pub. L. 117–328, div. DD, title VI, § 617, Dec. 29, 2022, 136 Stat. 5605.)
 
 ## Notes
 
@@ -64,4 +71,4 @@ Section was formerly classified to section 460cccc of this title. Section is bas
 
 ### Amendments
 
-2019—Subsec. (a)(3). Pub. L. 116–9 substituted “ ‘Ste. Genevieve National Historical Park Proposed Boundary Addition’, numbered 571/149,942, and dated December 2018” for “ ‘Ste. Genevieve National Historical Park Proposed Boundary’ ”.
+2022—Subsec. (a)(3). Pub. L. 117–328, § 617(a)(1), substituted “numbered 571/177,464, and dated September 2021” for “numbered 571/149,942, and dated December 2018”. Subsec. (a)(4) to (6). Pub. L. 117–328, § 617(a)(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively. Subsec. (d). Pub. L. 117–328, § 617(b), designated existing provisions as par. (1), inserted heading, and added par. (2). Subsec. (e)(3), (4). Pub. L. 117–328, § 617(c), added pars. (3) and (4). 2019—Subsec. (a)(3). Pub. L. 116–9 substituted “ ‘Ste. Genevieve National Historical Park Proposed Boundary Addition’, numbered 571/149,942, and dated December 2018” for “ ‘Ste. Genevieve National Historical Park Proposed Boundary’ ”.

@@ -9,8 +9,12 @@ section: 430kk
 
 - **(a)** *Establishment, initial boundaries* The Secretary of the Interior shall acquire, by gift, purchase, condemnation, or otherwise, the lands (together with any improvements thereon) comprising the Wilson’s Creek Battlefield site near Springfield, Missouri, and any other lands adjacent to such site which in his opinion are necessary or desirable to carry out the purposes of sections 430kk to 430mm of this title.
 - **(b)** *Expansion of boundaries*
-  - **(1)** The boundaries of the Wilson’s Creek National Battlefield are revised to include lands and interests therein consisting of six parcels totaling 615 acres and identified as parcels “1, 2, 3, 4, 5, and 6” on the map entitled “Wilson’s Creek National Battlefield Proposed Boundary”, numbered 410/80,037 and dated January 27, 2004. The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
-  - **(2)** The Secretary is authorized to acquire the lands referred to in paragraph (1) by donation, by purchase from willing sellers with donated or appropriated funds, or by exchange. The Secretary may acquire by the same methods personal property associated with, and appropriate for, interpretation of the park.
+  - **(1)** *Additional land*
+    - **(A)** *In general* The boundaries of the Wilson’s Creek National Battlefield are revised to include lands and interests therein consisting of six parcels totaling 615 acres and identified as parcels “1, 2, 3, 4, 5, and 6” on the map entitled “Wilson’s Creek National Battlefield Proposed Boundary”, numbered 410/80,037 and dated January 27, 2004.
+    - **(B)** *Newtonia Battlefield addition* The boundary of the Wilson’s Creek National Battlefield is revised to include the approximately 25 acres of land identified as “Proposed Addition” on the map entitled “Wilson’s Creek National Battlefield Proposed Boundary Modification”, numbered 410/177,379, and dated July 2022.
+    - **(C)** *Availability of maps* The maps described in subparagraphs (A) and (B) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+    - **(D)** *Errors* The Secretary of the Interior may correct any clerical or typographical error in a map described in subparagraph (A) or (B).
+  - **(2)** *Method of acquisition* The Secretary of the Interior may acquire the land described in subparagraphs (A) and (B) of paragraph (1) by donation, by purchase from willing sellers with donated or appropriated funds, or by exchange. The Secretary may acquire by the same methods personal property associated with, and appropriate for, interpretation of Wilson’s Creek National Battlefield.
 - **(c)** *Access to private property* Nothing in sections 430kk to 430mm of this title shall be construed to—
   - **(1)** require any private property owner to allow public access (including Federal, State, or local government access) to such private property; or
   - **(2)** modify any provision of Federal, State, or local law with regard to public access to or use of private property.
@@ -21,7 +25,7 @@ section: 430kk
 
 ## Source credit
 
-(Pub. L. 86–434, § 1, Apr. 22, 1960, 74 Stat. 76; Pub. L. 108–394, § 2(a), Oct. 30, 2004, 118 Stat. 2247.)
+(Pub. L. 86–434, § 1, Apr. 22, 1960, 74 Stat. 76; Pub. L. 108–394, § 2(a), Oct. 30, 2004, 118 Stat. 2247; Pub. L. 117–328, div. DD, title VI, § 616, Dec. 29, 2022, 136 Stat. 5604.)
 
 ## Notes
 
@@ -29,7 +33,7 @@ section: 430kk
 
 ### Amendments
 
-2004—Pub. L. 108–394 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (g).
+2022—Subsec. (b)(1). Pub. L. 117–328, § 616(1), inserted par. heading; designated first sentence as subpar. (A) and inserted heading; designated second sentence as subpar. (C), inserted heading, and substituted “The maps described in subparagraphs (A) and (B)” for “The map”; and added subpars. (B) and (D). Subsec. (b)(2). Pub. L. 117–328, § 616(2), inserted heading and substituted “The Secretary of the Interior may acquire the land described in subparagraphs (A) and (B) of paragraph (1)” for “The Secretary is authorized to acquire the lands referred to in paragraph (1)” in first sentence and “Wilson’s Creek National Battlefield” for “the park” in second sentence. 2004—Pub. L. 108–394 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (g).
 
 ### Statutory Notes and Related Subsidiaries
 
