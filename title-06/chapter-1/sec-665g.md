@@ -8,22 +8,15 @@ section: 665g
 # § 665g. State and Local Cybersecurity Grant Program
 
 - **(a)** *Definitions* In this section:
-  - **(1)** *Appropriate committees of Congress* The term “appropriate committees of Congress” means—
-    - **(A)** the Committee on Homeland Security and Governmental Affairs of the Senate; and
-    - **(B)** the Committee on Homeland Security of the House of Representatives.
-  - **(2)** *Cyber threat indicator* The term “cyber threat indicator” has the meaning given the term in section 1501 of this title.
-  - **(3)** *Cybersecurity Plan* The term “Cybersecurity Plan” means a plan submitted by an eligible entity under subsection (e)(1).
-  - **(4)** *Eligible entity* The term “eligible entity” means a—
+  - **(1)** *Cybersecurity Plan* The term “Cybersecurity Plan” means a plan submitted by an eligible entity under subsection (e)(1).
+  - **(2)** *Eligible entity* The term “eligible entity” means a—
     - **(A)** State; or
     - **(B)** Tribal government.
-  - **(5)** *Incident* The term “incident” has the meaning given the term in section 659 of this title.
-  - **(6)** *Information sharing and analysis organization* The term “information sharing and analysis organization” has the meaning given the term in section 671 of this title.
-  - **(7)** *Information system* The term “information system” has the meaning given the term in section 1501 of this title.
-  - **(8)** *Multi-entity group* The term “multi-entity group” means a group of 2 or more eligible entities desiring a grant under this section.
-  - **(9)** *Online service* The term “online service” means any internet-facing service, including a website, email, virtual private network, or custom application.
-  - **(10)** *Rural area* The term “rural area” has the meaning given the term in section 5302 of title 49.
-  - **(11)** *State and Local Cybersecurity Grant Program* The term “State and Local Cybersecurity Grant Program” means the program established under subsection (b).
-  - **(12)** *Tribal government* The term “Tribal government” means the recognized governing body of any Indian or Alaska Native Tribe, band, nation, pueblo, village, community, component band, or component reservation, that is individually identified (including parenthetically) in the most recent list published pursuant to section 5131 of title 25.
+  - **(3)** *Multi-entity group* The term “multi-entity group” means a group of 2 or more eligible entities desiring a grant under this section.
+  - **(4)** *Online service* The term “online service” means any internet-facing service, including a website, email, virtual private network, or custom application.
+  - **(5)** *Rural area* The term “rural area” has the meaning given the term in section 5302 of title 49.
+  - **(6)** *State and Local Cybersecurity Grant Program* The term “State and Local Cybersecurity Grant Program” means the program established under subsection (b).
+  - **(7)** *Tribal government* The term “Tribal government” means the recognized governing body of any Indian or Alaska Native Tribe, band, nation, pueblo, village, community, component band, or component reservation, that is individually identified (including parenthetically) in the most recent list published pursuant to section 5131 of title 25.
 - **(b)** *Establishment*
   - **(1)** *In general* There is established within the Department a program to award grants to eligible entities to address cybersecurity risks and cybersecurity threats to information systems owned or operated by, or on behalf of, State, local, or Tribal governments.
   - **(2)** *Application* An eligible entity desiring a grant under the State and Local Cybersecurity Grant Program shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
@@ -62,7 +55,7 @@ section: 665g
       - **(xiv)** develop and coordinate strategies to address cybersecurity risks and cybersecurity threats in consultation with—
         - **(I)** if the eligible entity is a State, local governments and associations of local governments within the jurisdiction of the eligible entity; and
         - **(II)** as applicable—
-          - **(aa)** eligible entities that neighbor the jurisdiction of the eligible entity or, as appropriate, members of an information sharing and analysis organization; and
+          - **(aa)** eligible entities that neighbor the jurisdiction of the eligible entity or, as appropriate, members of an Information Sharing and Analysis Organization; and
           - **(bb)** countries that neighbor the jurisdiction of the eligible entity;
       - **(xv)** ensure adequate access to, and participation in, the services and programs described in this subparagraph by rural areas within the jurisdiction of the eligible entity; and
       - **(xvi)** distribute funds, items, services, capabilities, or activities to local governments under subsection (n)(2)(A), including the fraction of that distribution the eligible entity plans to distribute to rural areas under subsection (n)(2)(B);
@@ -201,7 +194,7 @@ section: 665g
   - **(2)** the study of risk-based formulas required under subsection (q)(4);
   - **(3)** the development of guidelines required under subsection (m)(2)(B); and
   - **(4)** any modifications described in subsection (q)(2)(D).
-- **(p)** *Notification to Congress* Not later than 3 business days before the date on which the Department announces the award of a grant to an eligible entity under this section, including an announcement to the eligible entity, the Secretary shall provide to the appropriate committees of Congress notice of the announcement.
+- **(p)** *Notification to Congress* Not later than 3 business days before the date on which the Department announces the award of a grant to an eligible entity under this section, including an announcement to the eligible entity, the Secretary shall provide to the appropriate congressional committees notice of the announcement.
 - **(q)** *Reports, study, and review*
   - **(1)** *Annual reports by grant recipients*
     - **(A)** *In general* Not later than 1 year after the date on which an eligible entity receives a grant under this section for the purpose of implementing the Cybersecurity Plan of the eligible entity, including an eligible entity that comprises a multi-entity group that receives a grant for that purpose, and annually thereafter until 1 year after the date on which funds from the grant are expended or returned, the eligible entity shall submit to the Secretary a report that, using the metrics described in the Cybersecurity Plan of the eligible entity, describes the progress of the eligible entity in—
@@ -222,7 +215,7 @@ section: 665g
     - **(A)** *In general* The Secretary, acting through the Director, shall make each report submitted under paragraph (2) publicly available, including by making each report available on the website of the Agency.
     - **(B)** *Redactions* In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under section 552 of title 5 (commonly referred to as the “Freedom of Information Act”).
   - **(4)** *Study of risk-based formulas*
-    - **(A)** *In general* Not later than September 30, 2024, the Secretary, acting through the Director, shall submit to the appropriate committees of Congress a study and legislative recommendations on the potential use of a risk-based formula for apportioning funds under this section, including—
+    - **(A)** *In general* Not later than September 30, 2024, the Secretary, acting through the Director, shall submit to the appropriate congressional committees a study and legislative recommendations on the potential use of a risk-based formula for apportioning funds under this section, including—
       - **(i)** potential components that could be included in a risk-based formula, including the potential impact of those components on support for rural areas under this section;
       - **(ii)** potential sources of data and information necessary for the implementation of a risk-based formula;
       - **(iii)** any obstacles to implementing a risk-based formula, including obstacles that require a legislative solution;
@@ -250,7 +243,7 @@ section: 665g
 
 ## Source credit
 
-(Pub. L. 107–296, title XXII, § 2220A, formerly § 2218, as added Pub. L. 117–58, div. G, title VI, § 70612(a), Nov. 15, 2021, 135 Stat. 1272; renumbered § 2220A and amended Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(viii), Dec. 27, 2021, 135 Stat. 2061.)
+(Pub. L. 107–296, title XXII, § 2220A, formerly § 2218, as added Pub. L. 117–58, div. G, title VI, § 70612(a), Nov. 15, 2021, 135 Stat. 1272; renumbered § 2220A and amended Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(viii), Dec. 27, 2021, 135 Stat. 2061; Pub. L. 117–263, div. G, title LXXI, § 7143(b)(2)(K), Dec. 23, 2022, 136 Stat. 3660.)
 
 ## Notes
 
@@ -264,4 +257,4 @@ The Food and Nutrition Act of 2008, referred to in subsec. (m)(2)(C)(ii), is Pub
 
 ### Amendments
 
-2021—Pub. L. 117–81 reenacted section catchline.
+2022—Subsec. (a). Pub. L. 117–263, § 7143(b)(2)(K)(i), redesignated pars. (3), (4), and (8) to (12) as pars. (1) to (7), respectively, and struck out former pars. (1), (2), and (5) to (7) which defined appropriate committees of Congress, cyber threat indicator, incident, information sharing and analysis organization, and information system, respectively. Subsec. (e)(2)(B)(xiv)(II)(aa). Pub. L. 117–263, § 7143(b)(2)(K)(ii), substituted “Information Sharing and Analysis Organization” for “information sharing and analysis organization”. Subsec. (p). Pub. L. 117–263, § 7143(b)(2)(K)(iii), substituted “appropriate congressional committees” for “appropriate committees of Congress”. Subsec. (q)(4)(A). Pub. L. 117–263, § 7143(b)(2)(K)(iv), which directed amendment of subsec. (q)(4) by substituting “appropriate congressional committees” for “appropriate committees of Congress” “in the matter preceding clause (i)”, was executed by making the substitution in the introductory provisions of subsec. (q)(4)(A), to reflect the probable intent of Congress. 2021—Pub. L. 117–81 reenacted section catchline.

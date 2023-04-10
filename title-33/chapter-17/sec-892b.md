@@ -7,7 +7,7 @@ section: 892b
 
 # § 892b. Quality assurance program
 
-- **(a)** *Definition* For purposes of this section, the term “hydrographic product” means any publicly or commercially available product produced by a non-Federal entity that includes or displays hydrographic data.
+- **(a)** *Definition* For purposes of this section, the term “hydrographic product” means any publicly or commercially available product or service produced or disseminated by a non-Federal entity that includes or displays hydrographic data.
 - **(b)** *Program*
   - **(1)** *In general* The Administrator—
     - **(A)** by not later than 2 years after December 19, 2002, shall, subject to the availability of appropriations, develop and implement a quality assurance program that is equally available to all applicants, under which the Administrator may certify hydrographic products that satisfy the standards promulgated by the Administrator under section 892a(a)(3) of this title;
@@ -27,7 +27,7 @@ section: 892b
 
 ## Source credit
 
-(Pub. L. 105–384, title III, § 304, Nov. 13, 1998, 112 Stat. 3455; Pub. L. 107–372, title I, § 104(a), Dec. 19, 2002, 116 Stat. 3080.)
+(Pub. L. 105–384, title III, § 304, Nov. 13, 1998, 112 Stat. 3455; Pub. L. 107–372, title I, § 104(a), Dec. 19, 2002, 116 Stat. 3080; Pub. L. 117–263, div. J, title CIII, § 10308(c), Dec. 23, 2022, 136 Stat. 3980.)
 
 ## Notes
 
@@ -35,4 +35,4 @@ section: 892b
 
 ### Amendments
 
-2002—Subsec. (b)(1). Pub. L. 107–372 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Administrator may— “(A) develop and implement a quality assurance program that is equally available to all applicants, under which the Administrator may certify hydrographic products that satisfy the standards promulgated by the Administrator under section 892a(a)(3) of this title; “(B) authorize the use of the emblem or any trademark of the Administration on a hydrographic product certified under subparagraph (A); and “(C) charge a fee for such certification and use.”
+2022—Subsec. (a). Pub. L. 117–263 substituted “product or service produced or disseminated” for “product produced”. 2002—Subsec. (b)(1). Pub. L. 107–372 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Administrator may— “(A) develop and implement a quality assurance program that is equally available to all applicants, under which the Administrator may certify hydrographic products that satisfy the standards promulgated by the Administrator under section 892a(a)(3) of this title; “(B) authorize the use of the emblem or any trademark of the Administration on a hydrographic product certified under subparagraph (A); and “(C) charge a fee for such certification and use.”

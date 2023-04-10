@@ -8,7 +8,7 @@ section: 492a
 # § 492a. Annual report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system
 
 - **(a)** *Report Required.—*
-  - **(1)** *In general.—* Not later than 30 days after the submission to Congress of the budget of the President under section 1105(a) of title 31, United States Code, for each of fiscal years 2013 through 2024, the President, in consultation with the Secretary of Defense and the Secretary of Energy, shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a detailed report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
+  - **(1)** *In general.—* Not later than 30 days after the submission to Congress of the budget of the President under section 1105(a) of title 31, United States Code, for each of fiscal years 2013 through 2029, the President, in consultation with the Secretary of Defense and the Secretary of Energy, shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a detailed report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
   - **(2)** *Elements.—* Each report required under paragraph (1) shall include the following:
     - **(A)** A detailed description of the plan to enhance the safety, security, and reliability of the nuclear weapons stockpile of the United States.
     - **(B)** A detailed description of the plan to sustain and modernize the nuclear weapons complex, including improving the safety of facilities, modernizing the infrastructure, and maintaining the key capabilities and competencies of the nuclear weapons workforce, including designers and technicians.
@@ -39,7 +39,7 @@ section: 492a
 
 ## Source credit
 
-(Added and amended Pub. L. 116–92, div. A, title XVI, § 1665(c)(1), Dec. 20, 2019, 133 Stat. 1773; Pub. L. 116–283, div. A, title XVI, § 1633, Jan. 1, 2021, 134 Stat. 4059.)
+(Added and amended Pub. L. 116–92, div. A, title XVI, § 1665(c)(1), Dec. 20, 2019, 133 Stat. 1773; Pub. L. 116–283, div. A, title XVI, § 1633, Jan. 1, 2021, 134 Stat. 4059; Pub. L. 117–263, div. A, title XVI, § 1635, Dec. 23, 2022, 136 Stat. 2939.)
 
 ## Notes
 
@@ -51,4 +51,4 @@ Section, as added and amended by Pub. L. 116–92, is based on Pub. L. 112–81,
 
 ### Amendments
 
-2021—Subsec. (c)(1). Pub. L. 116–283, § 1633(1), substituted “periodically review reports submitted” for “review each report”. Subsec. (c)(2). Pub. L. 116–283, § 1633(2), struck out “not later than 180 days after the date on which such report under subsection (a) is submitted,” before “submit to the congressional defense committees”. 2019—Pub. L. 116–92, § 1665(c)(1)(D), conformed section designation and catchline to the style of this title. Pub. L. 116–92, § 1665(c)(1)(A)–(C), transferred section 1043 of Pub. L. 112–81, as amended, to this chapter and renumbered it as this section. See Codification note above.
+2022—Subsec. (a)(1). Pub. L. 117–263 substituted “2029” for “2024”. 2021—Subsec. (c)(1). Pub. L. 116–283, § 1633(1), substituted “periodically review reports submitted” for “review each report”. Subsec. (c)(2). Pub. L. 116–283, § 1633(2), struck out “not later than 180 days after the date on which such report under subsection (a) is submitted,” before “submit to the congressional defense committees”. 2019—Pub. L. 116–92, § 1665(c)(1)(D), conformed section designation and catchline to the style of this title. Pub. L. 116–92, § 1665(c)(1)(A)–(C), transferred section 1043 of Pub. L. 112–81, as amended, to this chapter and renumbered it as this section. See Codification note above.

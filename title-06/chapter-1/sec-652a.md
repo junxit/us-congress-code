@@ -14,9 +14,8 @@ section: 652a
   - **(2)** *Critical infrastructure* The term “critical infrastructure” has the meaning given that term in section 5195c(e) of title 42.
   - **(3)** *Department* The term “Department” means the Department of Homeland Security.
   - **(4)** *Director* The term “Director” means the Director of the Cybersecurity and Infrastructure Security Agency of the Department.
-  - **(5)** *Information sharing and analysis organization* The term “information sharing and analysis organization” has the meaning given that term in section 671(5) of this title.
-  - **(6)** *Secretary* The term “Secretary” means the Secretary of Homeland Security.
-  - **(7)** *Sector risk management agency* The term “sector risk management agency” has the meaning given the term “Sector-Specific Agency” in section 651(5) of this title.11 So in original. Section 651(5) of this title defines “Sector Risk Management Agency”.
+  - **(5)** *Secretary* The term “Secretary” means the Secretary of Homeland Security.
+  - **(7)** *11 So in original. Probably should be “(6)”. Sector Risk Management Agency* The term “Sector Risk Management Agency” has the meaning given the term in section 650 of this title.
 - **(b)** *Critical infrastructure sector designation*
   - **(1)** *Initial review* Not later than 180 days after January 1, 2021, the Secretary, in consultation with the heads of Sector Risk Management Agencies, shall—
     - **(A)** review the current framework for securing critical infrastructure, as described in section 652(c)(4) of this title and Presidential Policy Directive 21; and
@@ -56,22 +55,24 @@ section: 652a
   - **(2)** *Omitted*
   - **(3)** *References* Any reference to a Sector Specific Agency (including any permutations or conjugations thereof) in any law, regulation, map, document, record, or other paper of the United States shall be deemed to—
     - **(A)** be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector; and
-    - **(B)** have the meaning give 22 So in original. Probably should be “given”. such term in section 651(5) of this title.
+    - **(B)** have the meaning given such term in section 650 of this title.
   - **(4)** *Omitted*
 - **(d)** *Report and auditing* Not later than two years after January 1, 2021 and every four years thereafter for 12 years, the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the effectiveness of Sector Risk Management Agencies in carrying out their responsibilities under section 665d of this title.
 
 ## Source credit
 
-(Pub. L. 116–283, div. H, title XC, § 9002, Jan. 1, 2021, 134 Stat. 4768.)
+(Pub. L. 116–283, div. H, title XC, § 9002, Jan. 1, 2021, 134 Stat. 4768; Pub. L. 117–263, div. G, title LXXI, § 7143(d)(5), Dec. 23, 2022, 136 Stat. 3663.)
 
 ## Notes
 
-1 So in original. Section 651(5) of this title defines “Sector Risk Management Agency”.
-
-2 So in original. Probably should be “given”.
+1 So in original. Probably should be “(6)”.
 
 ### Editorial Notes
 
 ### Codification
 
 Section was enacted as part of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 and not as part of the Homeland Security Act of 2002 which comprises this chapter. Section is comprised of section 9002 of Pub. L. 116–283. Subsec. (c)(1) of section 9002 of Pub. L. 116–283 enacted section 665d of this title. Subsec. (c)(2) of section 9002 of Pub. L. 116–283 amended sections 195f, 321m, 651, 652, and 664 of this title. Subsec. (c)(4) of section 9002 of Pub. L. 116–283 amended the table of contents in section 1(b) of the Homeland Security Act of 2002.
+
+### Amendments
+
+2022—Subsec. (a)(5). Pub. L. 117–263, § 7143(d)(5)(A)(i), (ii), redesignated par. (6) as (5) and struck out former par. (5). Prior to amendment, text of par (5) read as follows: “The term ‘information sharing and analysis organization’ has the meaning given that term in section 671(5) of this title.” Subsec. (a)(6), (7). Pub. L. 117–263, § 7143(d)(5)(A)(ii), (iii), which redesignated par. (7) as (6) and then directed the general amendment of par. (7), was executed by making the redesignation and generally amending par. (6) as redesignated, to reflect the probable intent of Congress. As amended, such par. remained designated as (7). Prior to amendment, text of par. (7) read as follows: “The term ‘sector risk management agency’ has the meaning given the term ‘Sector-Specific Agency’ in section 651(5) of this title.” Subsec. (c)(3)(B). Pub. L. 117–263, § 7143(d)(5)(B), which directed substitution of “given such term in section 650 of this title” for “given such term in section 651(5) of this title”, was executed by making the substitution for “give such term in section 651(5) of this title”, to reflect the probable intent of Congress. Subsec. (d). Pub. L. 117–263, § 7143(d)(5)(C), made technical amendment to reference in original act which appears in text as reference to section 665d of this title.

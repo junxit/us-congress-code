@@ -16,24 +16,22 @@ section: 892a
   - **(6)** provide hydrographic services in uniform, easily accessible formats;
   - **(7)** participate in the development of, and implement for the United States in cooperation with other appropriate Federal agencies, international standards for hydrographic data and hydrographic services; and
   - **(8)** to the greatest extent practicable and cost-effective, fulfill the requirements of paragraphs (1) and (6) through contracts or other agreements with private sector entities.
-- **(b)** *Authorities* To fulfill the data gathering and dissemination duties of the Administration under the Coast and Geodetic Survey Act, promote safe, efficient, and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter, subject to the availability of appropriations, the Administrator—
+- **(b)** *Authorities* To fulfill the data gathering and dissemination duties of the Administration under the Coast and Geodetic Survey Act, promote precision navigation, safe, efficient, and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter, subject to the availability of appropriations, the Administrator—
   - **(1)** may procure, lease, evaluate, test, develop, and operate vessels, equipment, and technologies necessary to ensure safe navigation and maintain operational expertise in hydrographic data acquisition and hydrographic services;
-  - **(2)** shall, subject to the availability of appropriations, design, install, maintain, and operate real-time hydrographic monitoring systems to enhance navigation safety and efficiency; and 11 So in original. The word “and” probably should not appear.
+  - **(2)** shall, subject to the availability of appropriations, design, install, maintain, and operate real-time hydrographic monitoring systems and hydrodynamic forecast models to enhance navigation safety and efficiency and provide foundational information and services required to support coastal resilience planning for coastal transportation and other infrastructure, coastal protection and restoration projects, and related activities;
   - **(3)** where appropriate and to the extent that it does not detract from the promotion of safe and efficient navigation, may acquire hydrographic data and provide hydrographic services to support the conservation and management of coastal and ocean resources;
   - **(4)** where appropriate, may acquire hydrographic data and provide hydrographic services to save and protect life and property and support the resumption of commerce in response to emergencies, natural and man-made disasters, and homeland security and maritime domain awareness needs, including obtaining mission assignments (as defined in section 741 of title 6);
   - **(5)** may create, support, and maintain such joint centers with other Federal agencies and other entities as the Administrator deems appropriate or necessary to carry out the purposes of this subchapter; and
-  - **(6)** notwithstanding the existence of such joint centers, shall award contracts for the acquisition of hydrographic data in accordance with subchapter VI of chapter 10 of title 40.22 See References in Text note below.
+  - **(6)** notwithstanding the existence of such joint centers, shall award contracts for the acquisition of hydrographic data in accordance with subchapter VI of chapter 10 of title 40.11 See References in Text note below.
 - **(c)** *Conservation and management of coastal and ocean resources* Where appropriate and to the extent that it does not detract from the promotion of safe and efficient navigation, the Secretary may use hydrographic data and services to support the conservation and management of coastal and ocean resources.
 
 ## Source credit
 
-(Pub. L. 105–384, title III, § 303, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, § 103, Dec. 19, 2002, 116 Stat. 3079; Pub. L. 110–386, § 3, Oct. 10, 2008, 122 Stat. 4107.)
+(Pub. L. 105–384, title III, § 303, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, § 103, Dec. 19, 2002, 116 Stat. 3079; Pub. L. 110–386, § 3, Oct. 10, 2008, 122 Stat. 4107; Pub. L. 117–263, div. J, title CIII, § 10308(b), Dec. 23, 2022, 136 Stat. 3980.)
 
 ## Notes
 
-1 So in original. The word “and” probably should not appear.
-
-2 See References in Text note below.
+1 See References in Text note below.
 
 ### Editorial Notes
 
@@ -43,7 +41,7 @@ This subchapter, referred to in subsecs. (a) and (b), was in the original “thi
 
 ### Amendments
 
-2008—Subsec. (a). Pub. L. 110–386, § 3(1), substituted “the Coast and Geodetic Survey Act, promote safe, efficient and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter,” for “the Act of 1947,” in introductory provisions. Subsec. (a)(1). Pub. L. 110–386, § 3(2), substituted “data and provide hydrographic services;” for “data;”. Subsec. (b). Pub. L. 110–386, § 3(3), added subsec. (b) and struck out former subsec. (b) which related to actions of Administrator to fulfill data gathering and dissemination duties of the Administration under the Act of 1947. 2002—Subsec. (b)(4). Pub. L. 107–372, § 103(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “may design and install where appropriate Physical Oceanographic Real-Time Systems to enhance navigation safety and efficiency.” Subsec. (c). Pub. L. 107–372, § 103(b), added subsec. (c).
+2022—Subsec. (b). Pub. L. 117–263, § 10308(b)(1), inserted “precision navigation,” after “promote” in introductory provisions. Subsec. (b)(2). Pub. L. 117–263, § 10308(b)(2), inserted “and hydrodynamic forecast models” after “monitoring systems” and “and provide foundational information and services required to support coastal resilience planning for coastal transportation and other infrastructure, coastal protection and restoration projects, and related activities” after “efficiency” and struck out “and” after semicolon at end. 2008—Subsec. (a). Pub. L. 110–386, § 3(1), substituted “the Coast and Geodetic Survey Act, promote safe, efficient and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter,” for “the Act of 1947,” in introductory provisions. Subsec. (a)(1). Pub. L. 110–386, § 3(2), substituted “data and provide hydrographic services;” for “data;”. Subsec. (b). Pub. L. 110–386, § 3(3), added subsec. (b) and struck out former subsec. (b) which related to actions of Administrator to fulfill data gathering and dissemination duties of the Administration under the Act of 1947. 2002—Subsec. (b)(4). Pub. L. 107–372, § 103(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “may design and install where appropriate Physical Oceanographic Real-Time Systems to enhance navigation safety and efficiency.” Subsec. (c). Pub. L. 107–372, § 103(b), added subsec. (c).
 
 ### Statutory Notes and Related Subsidiaries
 

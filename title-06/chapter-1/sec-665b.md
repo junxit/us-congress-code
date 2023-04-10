@@ -27,20 +27,16 @@ section: 665b
     - **(F)** the Office of the Director of National Intelligence.
 - **(d)** *Consultation* In carrying out its responsibilities described in subsection (b), the Office shall regularly consult with appropriate representatives of non-Federal entities, such as—
   - **(1)** State, local, federally-recognized Tribal, and territorial governments;
-  - **(2)** information sharing and analysis organizations, including information sharing and analysis centers;
+  - **(2)** Information Sharing and Analysis Organizations, including information sharing and analysis centers;
   - **(3)** owners and operators of critical information systems;
   - **(4)** private entities; and
   - **(5)** other appropriate representatives or entities, as determined by the Secretary.
 - **(e)** *Interagency agreements* The Secretary and the head of a Federal department or agency referred to in subsection (c) may enter into agreements for the purpose of detailing personnel on a reimbursable or non-reimbursable basis.
-- **(f)** *Definitions* In this section:
-  - **(1)** *Cyber defense operation* The term “cyber defense operation” means defensive activities performed for a cybersecurity purpose.
-  - **(2)** *Cybersecurity purpose* The term “cybersecurity purpose” has the meaning given such term in section 1501 of this title.
-  - **(3)** *Cybersecurity risk; incident* The terms “cybersecurity risk” and “incident” have the meanings given such terms in section 659 of this title.
-  - **(4)** *Information sharing and analysis organization* The term “information sharing and analysis organization” has the meaning given such term in section 671(5) of this title.
+- **(f)** *Definitions* In this section, the term “cyber defense operation” means the defensive activities performed for a cybersecurity purpose.
 
 ## Source credit
 
-(Pub. L. 107–296, title XXII, § 2216, formerly § 2215, as added Pub. L. 116–283, div. A, title XVII, § 1715(a), Jan. 1, 2021, 134 Stat. 4092; renumbered § 2216 and amended Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(iii), Dec. 27, 2021, 135 Stat. 2061.)
+(Pub. L. 107–296, title XXII, § 2216, formerly § 2215, as added Pub. L. 116–283, div. A, title XVII, § 1715(a), Jan. 1, 2021, 134 Stat. 4092; renumbered § 2216 and amended Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(iii), Dec. 27, 2021, 135 Stat. 2061; Pub. L. 117–263, div. G, title LXXI, § 7143(b)(2)(I), Dec. 23, 2022, 136 Stat. 3660.)
 
 ## Notes
 
@@ -52,4 +48,4 @@ A prior section 2216 of Pub. L. 107–296 was renumbered section 2219 and is cla
 
 ### Amendments
 
-2021—Pub. L. 117–81 reenacted section catchline.
+2022—Subsec. (d)(2). Pub. L. 117–263, § 7143(b)(2)(I)(i), substituted “Information Sharing and Analysis Organizations” for “information sharing and analysis organizations”. Subsec. (f). Pub. L. 117–263, § 7143(b)(2)(I)(ii), substituted “section, the term ‘cyber defense operation’ means the defensive activities performed for a cybersecurity purpose.” for “section:” and struck out pars. (1) to (4) which defined cyber defense operation, cybersecurity purpose, cybersecurity risk, incident, and information sharing and analysis organization. 2021—Pub. L. 117–81 reenacted section catchline.
