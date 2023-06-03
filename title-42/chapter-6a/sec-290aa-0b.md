@@ -9,7 +9,7 @@ section: 290aa–0b
 
 - **(a)** *Establishment*
   - **(1)** *In general* The Secretary, or the designee of the Secretary, shall establish a committee to be known as the Interdepartmental Serious Mental Illness Coordinating Committee (in this section referred to as the “Committee”).
-  - **(2)** *Federal Advisory Committee Act* Except as provided in this section, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee.
+  - **(2)** *Federal Advisory Committee Act* Except as provided in this section, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall apply to the Committee.
 - **(b)** *Meetings* The Committee shall meet not fewer than 2 times each year.
 - **(c)** *Responsibilities* Not later than each of 1 year and 5 years after December 29, 2022, the Committee shall submit to Congress and any other relevant Federal department or agency a report including—
   - **(1)** a summary of advances in serious mental illness and serious emotional disturbance research related to the prevention of, diagnosis of, intervention in, and treatment and recovery of serious mental illnesses, serious emotional disturbances, and advances in access to services and support for adults with a serious mental illness or children with a serious emotional disturbance;
@@ -57,6 +57,8 @@ section: 290aa–0b
 (July 1, 1944, ch. 373, title V, § 501C, as added Pub. L. 117–328, div. FF, title I, § 1121(c)(1), Dec. 29, 2022, 136 Stat. 5648.)
 
 ## Notes
+
+1 See References in Text note below.
 
 ### Editorial Notes
 
