@@ -15,7 +15,7 @@ section: 665k
     - **(B)** *Detailees* The Secretary of Education, the Attorney General, and the Secretary of Health and Human Services may detail personnel to the Clearinghouse.
   - **(4)** *Exemptions*
     - **(A)** *Paperwork Reduction Act* Chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”), shall not apply to any rulemaking or information collection required under this section.
-    - **(B)** *Federal Advisory Committee Act* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply for the purposes of carrying out this section.
+    - **(B)** *Federal Advisory Committee Act* The Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply for the purposes of carrying out this section.
 - **(b)** *Clearinghouse contents*
   - **(1)** *Consultation* In identifying the evidence-based practices and recommendations for the Clearinghouse, the Secretary shall—
     - **(A)** consult with appropriate Federal, State, local, Tribal, private sector, and nongovernmental organizations, including civil rights and disability rights organizations; and
@@ -38,7 +38,7 @@ section: 665k
     - **(C)** any evaluations conducted on implementation of the evidence-based practices and recommendations of the Clearinghouse; and
   - **(2)** in coordination with the Secretary of Education, the Secretary of Health and Human Services, and the Attorney General—
     - **(A)** regularly assess and identify Clearinghouse evidence-based practices and recommendations for which there are no resources available through Federal Government programs for implementation; and
-    - **(B)** establish an external advisory board, which shall be comprised of appropriate State, local, Tribal, private sector, and nongovernmental organizations, including organizations representing parents of elementary and secondary school students, representative 11 So in original. Probably should be “representatives”. from civil rights organizations, representatives of disability rights organizations, representatives of educators, representatives of law enforcement, and nonprofit school safety and security organizations, to—
+    - **(B)** establish an external advisory board, which shall be comprised of appropriate State, local, Tribal, private sector, and nongovernmental organizations, including organizations representing parents of elementary and secondary school students, representative 22 So in original. Probably should be “representatives”. from civil rights organizations, representatives of disability rights organizations, representatives of educators, representatives of law enforcement, and nonprofit school safety and security organizations, to—
       - **(i)** provide feedback on the implementation of evidence-based practices and recommendations of the Clearinghouse; and
       - **(ii)** propose additional recommendations for evidence-based practices for inclusion in the Clearinghouse that meet the requirements described in subsection (b)(2)(B).
 - **(e)** *Parental assistance* The Clearinghouse shall produce materials in accessible formats to assist parents and legal guardians of students with identifying relevant Clearinghouse resources related to supporting the implementation of Clearinghouse evidence-based practices and recommendations.
@@ -49,7 +49,9 @@ section: 665k
 
 ## Notes
 
-1 So in original. Probably should be “representatives”.
+1 See References in Text note below.
+
+2 So in original. Probably should be “representatives”.
 
 ### Editorial Notes
 
