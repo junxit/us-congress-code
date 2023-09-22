@@ -11,7 +11,7 @@ section: 290bb–36d
 - **(b)** *Activities of the Secretary* To maintain the Routing Service, the activities of the Assistant Secretary shall include administering—
   - **(1)** a nationwide, telephone number providing year-round access to information that is updated on a regular basis regarding local behavioral health providers and community-based organizations in a manner that is confidential, without requiring individuals to identify themselves, is in languages that include at least English and Spanish, and is at no cost to the individual using the Routing Service; and
   - **(2)** an Internet website to provide a searchable, online treatment services locator of behavioral health treatment providers and community-based organizations, which shall include information on the name, location, contact information, and basic services provided by such providers and organizations.
-- **(c)** *Removing practitioner contact information* In the event that the Internet website described in subsection (b)(2) contains information on any qualified practitioner that is certified to prescribe medication for opioid dependency under section 823(h)(2)(B) 11 See References in Text note below. of title 21, the Assistant Secretary—
+- **(c)** *Removing practitioner contact information* In the event that the Internet website described in subsection (b)(2) contains information on any practitioner who prescribes narcotic drugs in schedule III, IV, or V of section 812 of title 21 for the purpose of maintenance or detoxification treatment, the Assistant Secretary—
   - **(1)** shall provide an opportunity to such practitioner to have the contact information of the practitioner removed from the website at the request of the practitioner; and
   - **(2)** may evaluate other methods to periodically update the information displayed on such website.
 - **(d)** *Rule of construction* Nothing in this section shall be construed to prevent the Assistant Secretary from using any unobligated amounts otherwise made available to the Administration to maintain the Routing Service.
@@ -22,14 +22,8 @@ section: 290bb–36d
 
 ## Notes
 
-1 See References in Text note below.
-
 ### Editorial Notes
-
-### References in Text
-
-Par. (2) of section 823(h) of title 21, referred to in subsec. (c), was repealed by Pub. L. 117–328, div. FF, title I, § 1262(a)(1), Dec. 29, 2022, 136 Stat. 5681.
 
 ### Amendments
 
-2022—Subsec. (c). Pub. L. 117–328, which directed substitution of “information on any practitioner who prescribes narcotic drugs in schedule III, IV, or V of section 812 of title 21 for the purpose of maintenance or detoxification treatment” for “information on any qualified practitioner that is certified to prescribe medication for opioid dependency under section 823(g)(2)(B) of title 21”, could not be executed because of the intervening amendment by Pub. L. 117–215. See Amendment note below. Pub. L. 117–215 substituted “823(h)(2)(B)” for “823(g)(2)(B)” in introductory provisions.
+2022—Subsec. (c). Pub. L. 117–328, which directed substitution of “information on any practitioner who prescribes narcotic drugs in schedule III, IV, or V of section 812 of title 21 for the purpose of maintenance or detoxification treatment” for “information on any qualified practitioner that is certified to prescribe medication for opioid dependency under section 823(g)(2)(B) of title 21”, was executed in introductory provisions by making the substitution for “information on any qualified practitioner that is certified to prescribe medication for opioid dependency under section 823(h)(2)(B) of title 21”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–215. See Amendment note below. Pub. L. 117–215 substituted “823(h)(2)(B)” for “823(g)(2)(B)” in introductory provisions.

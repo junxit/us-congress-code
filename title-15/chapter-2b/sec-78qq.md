@@ -56,13 +56,15 @@ section: 78qq
   - **(2)** each time the Committee submits a finding or recommendation to the Commission, promptly issue a public statement—
     - **(A)** assessing the finding or recommendation of the Committee; and
     - **(B)** disclosing the action, if any, the Commission intends to take with respect to the finding or recommendation.
-- **(h)** *Federal Advisory Committee Act* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Committee and its activities.
+- **(h)** *Federal Advisory Committee Act* The Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply with respect to the Committee and its activities.
 
 ## Source credit
 
 (June 6, 1934, ch. 404, title I, § 40, as added Pub. L. 114–284, § 2(b), Dec. 16, 2016, 130 Stat. 1450.)
 
 ## Notes
+
+1 See References in Text note below.
 
 ### Editorial Notes
 

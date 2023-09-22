@@ -12,7 +12,7 @@ section: 78rr
 
 ## Source credit
 
-(June 6, 1934, ch. 404, title I, § 41, as added Pub. L. 117–263, div. E, title LVIII, § 5821(h), Dec. 23, 2022, 136 Stat. 3426.)
+(June 6, 1934, ch. 404, title I, § 41, as added Pub. L. 117–263, div. E, title LVIII, § 5821(h), Dec. 23, 2022, 136 Stat. 3427.)
 
 ## Notes
 

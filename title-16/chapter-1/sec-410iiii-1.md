@@ -43,7 +43,7 @@ section: 410iiii–1
 
 ## Source credit
 
-(Pub. L. 102–525, title I, § 102, Oct. 26, 1992, 106 Stat. 3438; Pub. L. 117–123, § 3(c), (d), May 12, 2022, 136 Stat. 1197.)
+(Pub. L. 102–525, title I, § 102, Oct. 26, 1992, 106 Stat. 3438; Pub. L. 117–123, § 3(c), (d), May 12, 2022, 136 Stat. 1197, 1198.)
 
 ## Notes
 

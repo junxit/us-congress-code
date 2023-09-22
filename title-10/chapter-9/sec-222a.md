@@ -36,7 +36,7 @@ section: 222a
     - **(B)** *Exception.—* The officer specified under subsection (b)(7) may include in a report submitted under subsection (a) an unfunded priority covered by subparagraph (A)(ii) if the Secretary of Defense—
       - **(i)** determines that the inclusion such unfunded priority reasonably supports the priorities of the Department under the national defense strategy under section 113(g) of this title; and
       - **(ii)** submits to the congressional defense committees written notice of such determination.
-- **(d)** *Prioritization.—* Not later than 10 days after the receipt of the all of the reports referred to in subsection (a), the Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall submit to the congressional defense committees a report that prioritizes each specific unfunded priority across all unfunded priorities submitted by officers specified in (b) according to the risk reduced in executing the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title.
+- **(d)** *Prioritization.—* Not later than 10 days after the receipt of the 11 So in original. all of the reports referred to in subsection (a), the Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall submit to the congressional defense committees a report that prioritizes each specific unfunded priority across all unfunded priorities submitted by officers specified in (b) according to the risk reduced in executing the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title.
 - **(e)** *Definitions.—* In this section:
   - **(1)** The term “unfunded priority”, in the case of a fiscal year, means a program, activity, or mission requirement, including a covered military construction project, that—
     - **(A)** is not funded in the budget of the President for the fiscal year as submitted to Congress pursuant to section 1105 of title 31;
@@ -53,6 +53,8 @@ section: 222a
 (Added Pub. L. 114–328, div. A, title X, § 1064(a)(1), Dec. 23, 2016, 130 Stat. 2408; amended Pub. L. 116–92, div. A, title X, § 1005, title XVII, § 1731(a)(12), Dec. 20, 2019, 133 Stat. 1573, 1813; Pub. L. 116–283, div. A, title IX, § 924(b)(10), title X, §§ 1006, 1081(a)(12), Jan. 1, 2021, 134 Stat. 3823, 3838, 3871; Pub. L. 117–263, div. A, title III, § 384(b), title X, § 1051, Dec. 23, 2022, 136 Stat. 2544, 2775.)
 
 ## Notes
+
+1 So in original.
 
 ### Editorial Notes
 

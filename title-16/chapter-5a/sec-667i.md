@@ -13,7 +13,7 @@ section: 667i
     - **(A)**
       - **(i)** methods and products to effectively detect infectious chronic wasting disease prions in live cervids, cervid excreta, the environment, and inorganic surfaces, and to decontaminate such infectious prions; or
       - **(ii)** testing methods that significantly improve sensitivity and accelerate timelines for test results on non-live cervids;
-    - **(B)** the long-term suppression or eradication of chronic wasting disease; or
+    - **(B)** the long-term suppression or eradication of chronic wasting disease; or 11 So in original.
     - **(C)** determination markers for genetic resistance to chronic wasting disease and strategies for using genetic resistance to combat the spread of the disease;
     - **(D)** sustainable cervid harvest management practices to reduce chronic wasting disease occurrence and to prevent or limit spatial spread of chronic wasting disease; or
     - **(E)** factors contributing to local emergence of chronic wasting disease, increased prevalence of chronic wasting disease, and distribution of chronic wasting disease, including mechanisms of disease transmission and effective barriers to transmission.
@@ -60,6 +60,8 @@ section: 667i
 ## Notes
 
 1 So in original. Probably should be followed by “section”.
+
+1 So in original.
 
 ### Editorial Notes
 

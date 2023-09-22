@@ -49,17 +49,19 @@ section: 460hhhh
 - **(9)** *No buffer zones*
   - **(A)** *In general* Nothing in this section creates a protective perimeter or buffer zone around the Conservation Area.
   - **(B)** *Activities outside Conservation Area* The fact that an activity or use on land outside the Conservation Area can be seen or heard within the Conservation Area shall not preclude the activity or use outside the boundary of the Conservation Area.
-- **(10)** *Military overflights* Nothing in this section restricts or precludes—
+- **(10)** *11 So in original. Two pars. (10) have been enacted. Military overflights* Nothing in this section restricts or precludes—
   - **(A)** low-level overflights of military aircraft over the Conservation Area, including military overflights that can be seen or heard within the Conservation Area;
   - **(B)** flight testing and evaluation; or
   - **(C)** the designation or creation of new units of special use airspace, or the establishment of military flight training routes, over the Conservation Area.
-- **(10)** *Effect on water rights* Nothing in this section constitutes an express or implied reservation of any water rights with respect to the Conservation Area.
+- **(10)** *1 Effect on water rights* Nothing in this section constitutes an express or implied reservation of any water rights with respect to the Conservation Area.
 
 ## Source credit
 
 (Pub. L. 117–263, div. B, title XXIX, § 2903(a), Dec. 23, 2022, 136 Stat. 3034.)
 
 ## Notes
+
+1 So in original. Two pars. (10) have been enacted.
 
 ### Editorial Notes
 

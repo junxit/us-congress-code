@@ -20,7 +20,7 @@ section: 925D
 
 ## Source credit
 
-(Added Pub. L. 117–103, div. W, title XI, § 1103(a), Mar. 15, 2022, 136 Stat. 920.)
+(Added Pub. L. 117–103, div. W, title XI, § 1103(a), Mar. 15, 2022, 136 Stat. 921.)
 
 ## Notes
 

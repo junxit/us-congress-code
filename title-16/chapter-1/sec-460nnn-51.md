@@ -27,7 +27,7 @@ section: 460nnn–51
 - **(d)** *1 Chairperson and procedures* The advisory council shall elect a chairperson and establish such rules and procedures as it deems necessary or desirable.
 - **(e)** *Service without compensation* Members of the advisory council shall serve without pay, but the Secretary shall reimburse members for reasonable expenses incurred in carrying out official duties as a member of the council.
 - **(f)** *Administrative support* The Secretary shall provide the advisory council with necessary administrative support and shall designate an appropriate officer of the Bureau of Land Management to serve as the Secretary’s liaison to the council.
-- **(g)** *State liaison* The Secretary shall appoint one person, nominated by the Governor of Oregon, to serve as the State government liaison to the adv1isory council.
+- **(g)** *State liaison* The Secretary shall appoint one person, nominated by the Governor of Oregon, to serve as the State government liaison to the advisory council.
 - **(h)** *Applicable law* The advisory committee 22 So in original. Probably should be “advisory council”. shall be subject to the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) and chapter 10 of title 5.
 
 ## Source credit

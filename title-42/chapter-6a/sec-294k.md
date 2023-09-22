@@ -42,11 +42,11 @@ section: 294k
     - **(C)** a community mental health center (as defined in section 1395x(ff)(3)(B) of this title);
     - **(D)** a rural health clinic (as defined in section 1395x(aa) of this title);
     - **(E)** a health center operated by the Indian Health Service, an Indian tribe, a tribal organization, or an urban Indian organization (as defined in section 1603 of title 25); or
-    - **(F)** an entity with a demonstrated record of success in providing training for nurse practitioners, physician assistants, health service psychologists counselors, nurses,, 11 So in original.. and social workers, including such entities that serve pediatric populations.
+    - **(F)** an entity with a demonstrated record of success in providing training for nurse practitioners, physician assistants, health service psychologists counselors, nurses,,11 So in original. and social workers, including such entities that serve pediatric populations.
   - **(3)** *Academic units or programs* To be eligible to receive a grant under subsection (a)(3), an entity shall be a school of medicine or osteopathic medicine, a nursing school, a physician assistant training program, a school of pharmacy, a school of social work, an accredited public or nonprofit private hospital, an accredited medical residency program, or a public or private nonprofit entity which the Secretary has determined is capable of carrying out such grant.
 - **(d)** *Priority*
   - **(1)** *In general* In awarding grants under subsection (a)(1) or (a)(2), the Secretary shall give priority to eligible entities that—
-    - **(A)** demonstrate sufficient size, scope, and capacity to undertake the requisite training of an appropriate number of psychiatric residents, fellows, health service psychologists, nurses nurse 22 So in original. practitioners, physician assistants counselors,, 2 or social workers in addiction medicine per year to meet the needs of the area served;
+    - **(A)** demonstrate sufficient size, scope, and capacity to undertake the requisite training of an appropriate number of psychiatric residents, fellows, health service psychologists, nurses nurse 1 practitioners, physician assistants counselors,,1 or social workers in addiction medicine per year to meet the needs of the area served;
     - **(B)** demonstrate experience in training providers to practice team-based care that integrates mental health and substance use disorder prevention and treatment services with primary care in community-based settings, which may include such settings that serve pediatric populations;
     - **(C)** demonstrate experience in using health information technology and, as appropriate, telehealth to support—
       - **(i)** the delivery of mental health and substance use disorder services at the eligible entities described in subsections (c)(1) and (c)(2); and
@@ -67,7 +67,7 @@ section: 294k
     - **(A)** an analysis of the effect of the demonstration program under this section on the quality, quantity, and distribution of mental health and substance use disorder services;
     - **(B)** an analysis of the effect of the demonstration program on the prevalence of untreated mental health and substance use disorders in the surrounding communities of health centers participating in the demonstration; and
     - **(C)** recommendations on whether the demonstration program should be expanded.
-- **(g)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section, and $31,700,000 for each of fiscal years 2023 through 2027.
+- **(g)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section, and 1 $31,700,000 for each of fiscal years 2023 through 2027.
 
 ## Source credit
 
@@ -75,9 +75,7 @@ section: 294k
 
 ## Notes
 
-1 So in original..
-
-2 So in original.
+1 So in original.
 
 ### Editorial Notes
 

@@ -10,7 +10,7 @@ section: 460dddd–2
 - **(a)** *Establishment* Not later than 180 days after March 12, 2019, the Secretary shall establish an advisory council, to be known as the “San Rafael Swell Recreation Area Advisory Council”.
 - **(b)** *Duties* The Council shall advise the Secretary with respect to the preparation and implementation of the Management Plan for the Recreation Area.
 - **(c)** *Applicable law* The Council shall be subject to—
-  - **(1)** the Federal Advisory Committee Act (5 U.S.C. App.); and
+  - **(1)** the Federal Advisory Committee Act (5 U.S.C. App.); 11 See References in Text note below. and
   - **(2)** section 1739 of title 43.
 - **(d)** *Members* The Council shall include 7 members, to be appointed by the Secretary, of whom, to the maximum extent practicable—
   - **(1)** 1 member shall represent the Emery County Commission;
@@ -26,6 +26,8 @@ section: 460dddd–2
 (Pub. L. 116–9, title I, § 1223, Mar. 12, 2019, 133 Stat. 670.)
 
 ## Notes
+
+1 See References in Text note below.
 
 ### Editorial Notes
 
