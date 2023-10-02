@@ -53,7 +53,7 @@ section: 360ff
     - **(B)** the average cost incurred by the Food and Drug Administration in the review of a human drug application that is not subject to priority review in the previous fiscal year.
   - **(3)** *Annual fee setting* The Secretary shall establish, before the beginning of each fiscal year beginning after September 30, 2012, the amount of the priority review user fee for that fiscal year.
   - **(4)** *Payment*
-    - **(A)** *In general* The priority review user fee required by this subsection shall be due upon the notification by a sponsor of the intent of such sponsor to use the voucher, as specified in subsection (b)(4)(A). All other user fees associated with the human drug application shall be due as required by the Secretary or under applicable law.
+    - **(A)** *In general* The priority review user fee required by this subsection shall be due upon the notification by a sponsor of the intent of such sponsor to use the voucher, as specified in subsection (b)(4)(A).22 See References in Text note below. All other user fees associated with the human drug application shall be due as required by the Secretary or under applicable law.
     - **(B)** *Complete application* An application described under subparagraph (A) for which the sponsor requests the use of a priority review voucher shall be considered incomplete if the fee required by this subsection and all other applicable user fees are not paid in accordance with the Secretary’s procedures for paying such fees.
     - **(C)** *No waivers, exemptions, reductions, or refunds* The Secretary may not grant a waiver, exemption, reduction, or refund of any fees due and payable under this section.
   - **(5)** *Offsetting collections* Fees collected pursuant to this subsection for any fiscal year—
@@ -80,7 +80,7 @@ section: 360ff
   - **(2)** *Notification* If, after the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section, a sponsor of an application submitted under section 355(b) of this title or section 351(a) of the Public Health Service Act [42 U.S.C. 262(a)] for a drug uses a priority review voucher under this section for such application, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a document—
     - **(A)** notifying such Committees of the use of such voucher; and
     - **(B)** identifying the drug for which such priority review voucher is used.
-- **(g)** *Eligibility for other programs* Nothing in this section precludes a sponsor who seeks a priority review voucher under this section from participating in any other incentive program, including under this chapter, except that no sponsor of a rare pediatric disease product application may receive more than one priority review voucher issued under any section of this chapter with respect to the drug for which the application is made..22 So in original.
+- **(g)** *Eligibility for other programs* Nothing in this section precludes a sponsor who seeks a priority review voucher under this section from participating in any other incentive program, including under this chapter, except that no sponsor of a rare pediatric disease product application may receive more than one priority review voucher issued under any section of this chapter with respect to the drug for which the application is made..33 So in original.
 - **(h)** *Relation to other provisions* The provisions of this section shall supplement, not supplant, any other provisions of this chapter or the Public Health Service Act [42 U.S.C. 201 et seq.] that encourage the development of drugs for tropical diseases and rare pediatric diseases.
 - **(i)** *GAO study and report*
   - **(1)** *Study*
@@ -101,13 +101,15 @@ section: 360ff
 
 1 So in original. The word “that” probably should not appear.
 
-2 So in original.
+2 See References in Text note below.
+
+3 So in original.
 
 ### Editorial Notes
 
 ### References in Text
 
-Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (a)(1), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title. The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (a)(1), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title. Subsection (b)(4)(A), referred to in subsec. (c)(4)(A), was part of subsec. (b)(4) of this section that was struck out by Pub. L. 114–229, § 2(a)(2)(A), Sept. 30, 2016, 130 Stat. 943, which provision also added a new subsec. (b)(4) in which former subsec. (b)(4)(A) was restated as subsec. (b)(4)(B)(i). The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 ### Amendments
 

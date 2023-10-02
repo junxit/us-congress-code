@@ -51,7 +51,7 @@ section: 179D
     - **(A)** *In general* In the case of energy efficient commercial building property installed on or in property owned by a specified tax-exempt entity, the Secretary shall promulgate regulations or guidance to allow the allocation of the deduction to the person primarily responsible for designing the property in lieu of the owner of such property. Such person shall be treated as the taxpayer for purposes of this section.
     - **(B)** *Specified tax-exempt entity* For purposes of this paragraph, the term “specified tax-exempt entity” means—
       - **(i)** the United States, any State or political subdivision thereof, any possession of the United States, or any agency or instrumentality of any of the foregoing,
-      - **(ii)** an Indian tribal government (as defined in section 30D(g)(9)) or Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(m)), and
+      - **(ii)** an Indian tribal government (as defined in section 30D(g)(9)) or Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(m)),11 So in original. Another closing parenthesis probably should precede the comma. and
       - **(iii)** any organization exempt from tax imposed by this chapter.
   - **(4)** *Notice to owner* Each certification required under this section shall include an explanation to the building owner regarding the energy efficiency features of the building and its projected annual energy costs as provided in the notice under paragraph (2)(B)(iii).
   - **(5)** *Certification*
@@ -102,6 +102,8 @@ section: 179D
 (Added Pub. L. 109–58, title XIII, § 1331(a), Aug. 8, 2005, 119 Stat. 1020; amended Pub. L. 109–432, div. A, title II, § 204, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title III, § 303, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 113–295, div. A, title I, § 158(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, § 190(a), title III, § 341(a), (b), Dec. 18, 2015, 129 Stat. 3075, 3113; Pub. L. 115–123, div. D, title I, § 40413(a), Feb. 9, 2018, 132 Stat. 151; Pub. L. 115–141, div. U, title IV, § 401(a)(54), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 116–94, div. Q, title I, § 131(a), Dec. 20, 2019, 133 Stat. 3232; Pub. L. 116–260, div. EE, title I, § 102(a)–(c), Dec. 27, 2020, 134 Stat. 3039, 3040; Pub. L. 117–169, title I, § 13303(a), (c), Aug. 16, 2022, 136 Stat. 1947, 1952.)
 
 ## Notes
+
+1 So in original. Another closing parenthesis probably should precede the comma.
 
 ### Inflation Adjusted Items for Certain Years
 

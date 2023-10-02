@@ -15,7 +15,7 @@ section: 218d
   - **(2)** *Relief from duties* Break time provided under subsection (a)(1) shall be considered hours worked if the employee is not completely relieved from duty during the entirety of such break.
 - **(c)** *Exemption for small employers* An employer that employs less than 50 employees shall not be subject to the requirements of this section, if such requirements would impose an undue hardship by causing the employer significant difficulty or expense when considered in relation to the size, financial resources, nature, or structure of the employer’s business.
 - **(d)** *Exemption for crewmembers of air carriers*
-  - **(1)** *In general* An employer that is an air carrier shall not be subject to the requirements of this section with respect to an employee of such air carrier who is a crewmember
+  - **(1)** *In general* An employer that is an air carrier shall not be subject to the requirements of this section with respect to an employee of such air carrier who is a crewmember 11 So in original. Probably should be followed by a period.
   - **(2)** *Definitions* In this subsection:
     - **(A)** *Air carrier* The term “air carrier” has the meaning given such term in section 40102 of title 49.
     - **(B)** *Crewmember* The term “crewmember” has the meaning given such term in section 1.1 of title 14, Code of Federal Regulations (or successor regulations).
@@ -58,6 +58,8 @@ section: 218d
 (June 25, 1938, ch. 676, § 18D, as added Pub. L. 117–328, div. KK, § 102(a)(2), Dec. 29, 2022, 136 Stat. 6093.)
 
 ## Notes
+
+1 So in original. Probably should be followed by a period.
 
 ### Editorial Notes
 

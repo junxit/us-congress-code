@@ -17,9 +17,13 @@ In order to carry out the provisions of sections 277 to 277d of this title, the 
 
 1 See Repeal; Savings Provision note below.
 
+### Editorial Notes
+
 ### Amendments
 
 1936—Act May 22, 1936, inserted “paragraph (2) of section 277a”.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Repeal; Savings Provision
 

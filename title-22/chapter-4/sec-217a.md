@@ -15,9 +15,13 @@ A passport shall be valid for a period of ten years from the date of issue, exce
 
 ## Notes
 
+### Editorial Notes
+
 ### Amendments
 
 1982—Pub. L. 97–241 substituted provision that a passport be valid for a period of ten years from issuance and that the Secretary of State could limit the period to less than ten years in an individual case or on a general basis by regulation for provision that a passport be limited to a period of not more than five years, that the Secretary of State could limit the passport to a shorter period, and that a valid passport outstanding as of the effective date of Pub. L. 90–428 be valid for a period of five years from the date of issue, except where such passport was limited to a shorter period by the Secretary. 1968—Pub. L. 90–428 substituted provisions that passport be limited to a period of not more than five years, though the Secretary of State may limit it to a shorter period and provisions as to the length of validity of passports outstanding as of the effective date of Pub. L. 90–428 for provisions that a passport or passport visa be limited to a period of three years, that a passport be renewed pursuant to regulations of the Secretary for a period not to exceed two years, provided that the final date of expiration not be more than five years from the original date of issue, that the Secretary be authorized to limit the validity of a passport, passport visa, or period of renewal of a passport to less than two years, and that the charge for the issue of an original passport be $9.00 and the charge for the renewal be $5.00. 1959—Pub. L. 86–267 substituted “three years” for “two years”, and “five years” for “four years”. 1932—Act May 16, 1932, among other changes, increased payment for renewals from $2 to $5, for issue of original passport from $5 to $9, and restored final expiration date of renewal passport to four years from six-year period. 1930—Act July 1, 1930, among other changes, provided for $2 payment for renewal of passport, $5 payment for issue of an original passport, and changed from four to six years the final expiration date of renewal passport.
+
+### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 1982 Amendment
 

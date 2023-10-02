@@ -9,9 +9,9 @@ section: 45AA
 
 - **(a)** *In general* For purposes of section 38, in the case of any eligible small employer, the military spouse retirement plan eligibility credit determined under this section for any taxable year is an amount equal to the sum of—
   - **(1)** $200 with respect to each military spouse who is an employee of such employer and who participates in an eligible defined contribution plan of such employer at any time during such taxable year, plus
-  - **(2)** so much of the contributions made by such employer (other than an elective deferral (as defined in section 402(g)(3)) to all such plans with respect to such employee during such taxable year as do not exceed $300.
+  - **(2)** so much of the contributions made by such employer (other than an elective deferral (as defined in section 402(g)(3)) 11 So in original. Probably should be followed by another closing parenthesis. to all such plans with respect to such employee during such taxable year as do not exceed $300.
 - **(b)** *Limitation* An individual shall only be taken into account as a military spouse under subsection (a) for the taxable year which includes the date on which such individual began participating in the eligible defined contribution plan of the employer and the 2 succeeding taxable years.
-- **(c)** *Eligible small employer* For purposes of this section, the term “eligible small employer” means an eligible employer (as defined in section 408(p)(2)(C)(i)(I).11 So in original. Another closing parenthesis probably should precede the period.
+- **(c)** *Eligible small employer* For purposes of this section, the term “eligible small employer” means an eligible employer (as defined in section 408(p)(2)(C)(i)(I).22 So in original. Another closing parenthesis probably should precede the period.
 - **(d)** *Military spouse* For purposes of this section—
   - **(1)** *In general* The term “military spouse” means, with respect to any employer, any individual who is married (within the meaning of section 7703 as of the first date that the employee is employed by the employer) to an individual who is a member of the uniformed services (as defined section 101(a)(5) of title 10, United States Code) serving on active duty. For purposes of this section, an employer may rely on an employee’s certification that such employee’s spouse is a member of the uniformed services if such certification provides the name, rank, and service branch of such spouse.
   - **(2)** *Exclusion of highly compensated employees* With respect to any employer, the term “military spouse” shall not include any individual if such individual is a highly compensated employee of such employer (within the meaning of section 414(q)).
@@ -28,4 +28,12 @@ section: 45AA
 
 ## Notes
 
-1 So in original. Another closing parenthesis probably should precede the period.
+1 So in original. Probably should be followed by another closing parenthesis.
+
+2 So in original. Another closing parenthesis probably should precede the period.
+
+### Statutory Notes and Related Subsidiaries
+
+### Effective Date
+
+Section applicable to taxable years beginning after Dec. 29, 2022, see section 112(e) of Pub. L. 117–328, set out as an Effective Date of 2022 Amendment note under section 38 of this title.

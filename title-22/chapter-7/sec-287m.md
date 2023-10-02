@@ -15,6 +15,8 @@ The President is hereby authorized to accept membership for the United States in
 
 ## Notes
 
+### Statutory Notes and Related Subsidiaries
+
 ### Constitution of the United Nations Educational, Scientific, and Cultural Organization
 
 ### the governments of the states parties to this constitution on behalf of their peoples declare

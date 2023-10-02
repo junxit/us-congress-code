@@ -38,7 +38,7 @@ section: 356d
 
 ## Source credit
 
-(June 25, 1938, ch. 675, § 506D, as added Pub. L. 112–144, title X, § 1003, July 9, 2012, 126 Stat. 1103; amended Pub. L. 117–328, div. FF, title III, § 3616(a)(1), (2), Dec. 29, 2022, 136 Stat. 5874.)
+(June 25, 1938, ch. 675, § 506D, as added Pub. L. 112–144, title X, § 1003, July 9, 2012, 126 Stat. 1103; amended Pub. L. 117–328, div. FF, title III, § 3616(a), Dec. 29, 2022, 136 Stat. 5874.)
 
 ## Notes
 

@@ -25,6 +25,8 @@ Section is from the Diplomatic and Consular Service Appropriation Act of Mar. 2,
 
 1996—Pub. L. 104–316 substituted “chiefs of parties” for “chiefs of parties and accounts arising under advances shall be rendered through and by the commissioner on the part of the United States to the General Accounting Office as under advances made to chiefs of parties”. 1972—Pub. L. 92–310 struck out provisions that required chiefs of parties to give bonds. 1966—Pub. L. 89–554 struck out provisions that related to traveling expenses of the commissioner.
 
+### Statutory Notes and Related Subsidiaries
+
 ### Transfer of Functions
 
 “General Accounting Office” substituted in text for “Treasury Department” pursuant to act June 10, 1921, which transferred powers and duties conferred upon Comptroller, six auditors, and certain other officers of the Treasury to General Accounting Office. See section 701 et seq. of Title 31, Money and Finance.

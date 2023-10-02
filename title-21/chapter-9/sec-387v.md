@@ -44,6 +44,8 @@ section: 387v
 
 ## Notes
 
+### Editorial Notes
+
 ### Codification
 
 Section was enacted as part of the Consolidated Appropriations Act, 2022, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.

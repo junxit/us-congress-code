@@ -55,7 +55,7 @@ section: 124n
   - **(3)** vest in the Secretary of Homeland Security any authority of the Attorney General;
   - **(4)** vest in the Attorney General any authority of the Secretary of Homeland Security; or
   - **(5)** provide a new basis of liability for any State, local, territorial, or tribal law enforcement officers who participate in the protection of a mass gathering identified by the Secretary or Attorney General under subsection (k)(3)(C)(iii)(II), act within the scope of their authority, and do not exercise the authority granted to the Secretary and Attorney General by this section.
-- **(i)** *Termination* The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on the date that is 4 years after October 5, 2018.
+- **(i)** *Termination* The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on November 18, 2023.
 - **(j)** *Scope of authority* Nothing in this section shall be construed to provide the Secretary or the Attorney General with additional authorities beyond those described in subsections (a) and (k)(3)(C)(iii).
 - **(k)** *Definitions* In this section:
   - **(1)** The term “appropriate congressional committees” means—
@@ -104,7 +104,7 @@ section: 124n
 
 ## Source credit
 
-(Pub. L. 107–296, title II, § 210G, as added Pub. L. 115–254, div. H, § 1602(a), Oct. 5, 2018, 132 Stat. 3522.)
+(Pub. L. 107–296, title II, § 210G, as added Pub. L. 115–254, div. H, § 1602(a), Oct. 5, 2018, 132 Stat. 3522; Pub. L. 118–15, div. B, title II, § 2221, Sept. 30, 2023, 137 Stat. 86.)
 
 ## Notes
 
@@ -127,6 +127,10 @@ section: 124n
 ### References in Text
 
 The Presidential Protection Assistance Act of 1976, referred to in subsec. (k)(3)(C)(i)(II), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables. Section 104 of title 14, referred to in subsec. (k)(3)(C)(iv), was redesignated section 528 of title 14 by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 104 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard. This chapter, referred to in subsec. (l)(1)(A), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
+### Amendments
+
+2023—Subsec. (i). Pub. L. 118–15 substituted “on November 18, 2023” for “on the date that is 4 years after October 5, 2018”.
 
 ### Statutory Notes and Related Subsidiaries
 
