@@ -70,7 +70,7 @@ section: 290ee–5
     - **(B)** to promote—
       - **(i)** the availability of recovery housing for individuals with a substance use disorder; and
       - **(ii)** the maintenance of recovery housing in accordance with best practices developed under this section.
-  - **(2)** *State promotion plans* Not later than 90 days after receipt of a grant under paragraph (1), and every 2 years thereafter, each State (or political subdivisions thereof,) Indian Tribe, or territory receiving a grant under paragraph (1) shall submit to the Secretary, and publish on a publicly accessible internet website of the State (or political subdivisions thereof), Indian Tribe, or territory—
+  - **(2)** *State promotion plans* Not later than 90 days after receipt of a grant under paragraph (1), and every 2 years thereafter, each State (or political subdivisions thereof,) 11 So in original. The comma probably should follow the closing parenthesis. Indian Tribe, or territory receiving a grant under paragraph (1) shall submit to the Secretary, and publish on a publicly accessible internet website of the State (or political subdivisions thereof), Indian Tribe, or territory—
     - **(A)** the plan of the State (or political subdivisions thereof), Indian Tribe, or territory, with respect to the promotion of recovery housing for individuals with a substance use disorder located within the jurisdiction of such State (or political subdivisions thereof), Indian Tribe, or territory; and
     - **(B)** a description of how such plan is consistent with the best practices developed under this section.
 - **(g)** *Rule of construction* Nothing in this section shall be construed to provide the Secretary with the authority to require States to adhere to minimum standards in the State oversight of recovery housing.
@@ -85,6 +85,8 @@ section: 290ee–5
 (July 1, 1944, ch. 373, title V, § 550, as added Pub. L. 115–271, title VII, § 7031, Oct. 24, 2018, 132 Stat. 4014; amended Pub. L. 117–328, div. FF, title I, §§ 1232, 1233, 1235, 1236, Dec. 29, 2022, 136 Stat. 5674, 5676, 5677.)
 
 ## Notes
+
+1 So in original. The comma probably should follow the closing parenthesis.
 
 ### Editorial Notes
 

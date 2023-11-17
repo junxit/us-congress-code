@@ -31,12 +31,12 @@ section: 300hh–10c
 - **(e)** *Meetings* The Advisory Committee shall meet not less frequently than biannually. At least one meeting per year shall be an in-person meeting.
 - **(f)** *Coordination* The Secretary shall coordinate duties and activities authorized under this section in accordance with section 300hh–10e of this title.
 - **(g)** *Sunset*
-  - **(1)** *In general* The Advisory Committee shall terminate on November 17, 2023.
+  - **(1)** *In general* The Advisory Committee shall terminate on January 19, 2024.
   - **(2)** *Extension of Committee* Not later than October 1, 2022, the Secretary shall submit to Congress a recommendation on whether the Advisory Committee should be extended.
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title XXVIII, § 2811B, as added Pub. L. 116–22, title III, § 305(b), June 24, 2019, 133 Stat. 938; amended Pub. L. 118–15, div. B, title III, § 2333(b), Sept. 30, 2023, 137 Stat. 96.)
+(July 1, 1944, ch. 373, title XXVIII, § 2811B, as added Pub. L. 116–22, title III, § 305(b), June 24, 2019, 133 Stat. 938; amended Pub. L. 118–15, div. B, title III, § 2333(b), Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, § 203(d)(2), Nov. 17, 2023, 137 Stat. 121.)
 
 ## Notes
 
@@ -44,4 +44,4 @@ section: 300hh–10c
 
 ### Amendments
 
-2023—Subsec. (g)(1). Pub. L. 118–15 substituted “November 17, 2023” for “September 30, 2023”.
+2023—Subsec. (g)(1). Pub. L. 118–22 substituted “January 19, 2024” for “November 17, 2023”. Pub. L. 118–15 substituted “November 17, 2023” for “September 30, 2023”.

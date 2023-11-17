@@ -14,7 +14,7 @@ section: 242c
   - **(3)** coordinate and oversee the operation of centers, institutes, and offices within the CDC;
   - **(4)** support, in consultation with the heads of such centers, institutes, and offices, program coordination across such centers, institutes, and offices, including through priority setting reviews and the development of strategic plans, to reduce unnecessary duplication and encourage collaboration between programs;
   - **(5)** oversee the development, implementation, and updating of the strategic plan established pursuant to subsection (c);
-  - **(6)** ensure that appropriate strategic planning, including the use of performance metrics, is conducted by such centers, institutes, and offices to facilitate and improve CDC programs and activities;
+  - **(6)** ensure that appropriate strategic planning, including the use of performance metrics, is conducted by such centers, institutes, and offices to facilitate and improve CDC programs and activities; 11 So in original. Probably should be followed by “and”.
   - **(7)** communicate, including through convening annual meetings, with public and private entities regarding relevant public health programs and activities, and, as applicable, the strategic plan established pursuant to subsection (c).
 - **(c)** *Strategic plan*
   - **(1)** *In general* Not later than 1 year after December 29, 2022, and at least every 4 years thereafter, the Director shall develop and submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives, and post on the website of the CDC, a coordinated strategy to provide strategic direction and facilitate collaboration across the centers, institutes, and offices within the CDC. Such strategy shall be known as the “CDC Strategic Plan”.
@@ -53,6 +53,8 @@ section: 242c
 (July 1, 1944, ch. 373, title III, § 305, as added Pub. L. 117–328, div. FF, title II, § 2101(a), Dec. 29, 2022, 136 Stat. 5706.)
 
 ## Notes
+
+1 So in original. Probably should be followed by “and”.
 
 ### Delayed Effective Date
 

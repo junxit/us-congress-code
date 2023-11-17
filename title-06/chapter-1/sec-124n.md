@@ -55,7 +55,7 @@ section: 124n
   - **(3)** vest in the Secretary of Homeland Security any authority of the Attorney General;
   - **(4)** vest in the Attorney General any authority of the Secretary of Homeland Security; or
   - **(5)** provide a new basis of liability for any State, local, territorial, or tribal law enforcement officers who participate in the protection of a mass gathering identified by the Secretary or Attorney General under subsection (k)(3)(C)(iii)(II), act within the scope of their authority, and do not exercise the authority granted to the Secretary and Attorney General by this section.
-- **(i)** *Termination* The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on November 18, 2023.
+- **(i)** *Termination* The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on February 3, 2024.
 - **(j)** *Scope of authority* Nothing in this section shall be construed to provide the Secretary or the Attorney General with additional authorities beyond those described in subsections (a) and (k)(3)(C)(iii).
 - **(k)** *Definitions* In this section:
   - **(1)** The term “appropriate congressional committees” means—
@@ -104,7 +104,7 @@ section: 124n
 
 ## Source credit
 
-(Pub. L. 107–296, title II, § 210G, as added Pub. L. 115–254, div. H, § 1602(a), Oct. 5, 2018, 132 Stat. 3522; Pub. L. 118–15, div. B, title II, § 2221, Sept. 30, 2023, 137 Stat. 86.)
+(Pub. L. 107–296, title II, § 210G, as added Pub. L. 115–254, div. H, § 1602(a), Oct. 5, 2018, 132 Stat. 3522; amended Pub. L. 118–15, div. B, title II, § 2221, Sept. 30, 2023, 137 Stat. 86; Pub. L. 118–22, div. B, title III, § 601, Nov. 17, 2023, 137 Stat. 123.)
 
 ## Notes
 
@@ -130,10 +130,10 @@ The Presidential Protection Assistance Act of 1976, referred to in subsec. (k)(3
 
 ### Amendments
 
-2023—Subsec. (i). Pub. L. 118–15 substituted “on November 18, 2023” for “on the date that is 4 years after October 5, 2018”.
+2023—Subsec. (i). Pub. L. 118–22 substituted “February 3, 2024” for “November 18, 2023”. Pub. L. 118–15 substituted “on November 18, 2023” for “on the date that is 4 years after October 5, 2018”.
 
 ### Statutory Notes and Related Subsidiaries
 
 ### Termination Date
 
-Pub. L. 117–328, div. F, title V, § 547, Dec. 29, 2022, 136 Stat. 4758, provided that: “Section 210G(i) of the Homeland Security Act of 2002 (6 U.S.C. 124n(i)) shall be applied by substituting ‘September 30, 2023’ for ‘the date that is 4 years after October 5, 2018’.”
+Pub. L. 117–328, div. F, title V, § 547, Dec. 29, 2022, 136 Stat. 4758, provided that: “Section 210G(i) of the Homeland Security Act of 2002 (6 U.S.C. 124n(i)) shall be applied by substituting ‘September 30, 2023’ for ‘the date that is 4 years after the date of enactment of this section [Oct. 5, 2018]’.”
