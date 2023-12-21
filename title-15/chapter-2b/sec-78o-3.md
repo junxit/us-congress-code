@@ -162,10 +162,6 @@ Amendment by Pub. L. 94–29 effective 180 days after June 4, 1975, see section 
 
 Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L. 88–467, set out as a note under section 78c of this title.
 
-### Construction of 1993 Amendment
-
-Amendment by section 106(b)(1) of Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78o–5 of this title. Amendment by section 303(a), (c) of Pub. L. 103–202 not to limit authority of Securities and Exchange Commission, a registered securities association or a national securities exchange under any provision of this chapter, or preclude the Commission or such association or exchange from imposing a remedy or procedure required to be imposed under such amendment, see section 304(b) of Pub. L. 103–202, set out in an Effective Date of 1993 Amendment note under section 78f of this title.
-
 ### Rulemaking
 
 Pub. L. 117–263, div. E, title LVIII, § 5824(b), Dec. 23, 2022, 136 Stat. 3428, provided that: “(1) In general.—Not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [12 U.S.C. 5334(b)(2)], as added by section 5811(a) of this title, each national securities association registered pursuant to section 15A(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3(a)) shall issue rules to adopt the standards required under subsection (n) of section 15A of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3), as added by subsection (a) of this section. “(2) Scaling of regulatory requirements; minimizing disruption.—In issuing the rules required under paragraph (1), a national securities association described in that paragraph—“(A) may scale data reporting requirements in order to reduce any unjustified burden on smaller regulated entities; and “(B) shall seek to minimize disruptive changes to the persons affected by those standards.”
@@ -173,6 +169,10 @@ Pub. L. 117–263, div. E, title LVIII, § 5824(b), Dec. 23, 2022, 136 Stat. 342
 ### Rule of Construction—No New Disclosure Requirements
 
 Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
+
+### Construction of 1993 Amendment
+
+Amendment by section 106(b)(1) of Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78o–5 of this title. Amendment by section 303(a), (c) of Pub. L. 103–202 not to limit authority of Securities and Exchange Commission, a registered securities association or a national securities exchange under any provision of this chapter, or preclude the Commission or such association or exchange from imposing a remedy or procedure required to be imposed under such amendment, see section 304(b) of Pub. L. 103–202, set out in an Effective Date of 1993 Amendment note under section 78f of this title.
 
 ### Executive Documents
 

@@ -62,4 +62,4 @@ A prior section 10 of act June 7, 1939, ch. 190, § 10, was renumbered section 1
 
 ### Advisory Committee Regarding Operation and Modernization of Stockpile
 
-Pub. L. 102–484, div. C, title XXXIII, § 3306, Oct. 23, 1992, 106 Stat. 2652, required the President to appoint, no later than Mar. 15, 1993, an advisory committeeto make recommendations concerning the operation and modernization of the National Defense Stockpile.
+Pub. L. 102–484, div. C, title XXXIII, § 3306, Oct. 23, 1992, 106 Stat. 2652, required the President to appoint, no later than Mar. 15, 1993, an advisory committee to make recommendations concerning the operation and modernization of the National Defense Stockpile.

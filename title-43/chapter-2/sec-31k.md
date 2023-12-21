@@ -56,7 +56,7 @@ section: 31k
 
 ## Source credit
 
-(Pub. L. 116–9, title V, § 5001, Mar. 12, 2019, 133 Stat. 766; Pub. L. 117–263, div. J, title CV, § 10501(a)–(e), Dec. 23, 2022, 136 Stat. 3993,3994.)
+(Pub. L. 116–9, title V, § 5001, Mar. 12, 2019, 133 Stat. 766; Pub. L. 117–263, div. J, title CV, § 10501(a)–(e), Dec. 23, 2022, 136 Stat. 3993, 3994.)
 
 ## Notes
 
