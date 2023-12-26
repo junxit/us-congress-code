@@ -12,7 +12,7 @@ section: 460gggg
   - **(2)** *Secretary* The term “Secretary” means the Secretary of the Interior.
   - **(3)** *Special Management Area* The term “Special Management Area” means the Numu Newe Special Management Area established by subsection (b).
 - **(b)** *Establishment* To protect, conserve, and enhance the unique and nationally important historic, cultural, archaeological, natural, and educational resources of the Numu Newe traditional homeland, subject to valid existing rights, there is established in Churchill and Mineral Counties, Nevada, the Numu Newe Special Management Area, to be administered by the Secretary.
-- **(c)** *Area included* The Special Management Area shall consist of the approximately 217,845 acres of public land in Churchill and Mineral Counties, Nevada, administered by the Bureau of Land Management, as depicted on the map entitled “Churchill County Proposed Fallon Range Training Complex Modernization and Lands Bill” and dated November 30, 2022.
+- **(c)** *Area included* The Special Management Area shall consist of the approximately 209,181 acres of public land in Churchill and Mineral Counties, Nevada, administered by the Bureau of Land Management, as depicted on the map entitled “Churchill County Proposed Fallon Range Training Complex Modernization and Lands Bill” and dated November 30, 2022.
 - **(d)** *Management plan*
   - **(1)** *In general* Not later than 2 years after December 23, 2022, the Secretary shall develop a comprehensive management plan for the long-term management of the Special Management Area.
   - **(2)** *Consultation* In developing and implementing the management plan, the Secretary shall consult with—
@@ -35,7 +35,7 @@ section: 460gggg
 
 ## Source credit
 
-(Pub. L. 117–263, div. B, title XXIX, § 2902, Dec. 23, 2022, 136 Stat. 3033.)
+(Pub. L. 117–263, div. B, title XXIX, § 2902, Dec. 23, 2022, 136 Stat. 3033; Pub. L. 118–31, div. B, title XXVIII, § 2883(a), Dec. 22, 2023, 137 Stat. 782.)
 
 ## Notes
 
@@ -44,3 +44,7 @@ section: 460gggg
 ### References in Text
 
 Section 2981(c)(2) of the Military Land Withdrawals Act of 2013 (as added by section 2901 of this title), referred to in subsec. (d)(3)(B), is section 2981(c)(2) of title XXIX of div. B of Pub. L. 113–66, as added by Pub. L. 117–263, div. B, title XXIX, § 2901, Dec. 23, 2022, 136 Stat. 3016, which is not classified to the Code.
+
+### Amendments
+
+2023—Subsec. (c). Pub. L. 118–31 substituted “209,181 acres” for “217,845 acres”.

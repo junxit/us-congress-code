@@ -13,16 +13,14 @@ section: 133a
   - **(2)** establishing policies on, and supervising, all defense research and engineering, technology development, technology transition, appropriate prototyping activities, experimentation, and developmental testing activities and programs and unifying defense research and engineering efforts across the Department; and
   - **(3)** serving as the principal advisor to the Secretary on all research, engineering, and technology development activities and programs in the Department.
 - **(c)** *Precedence in Department of Defense.—*
-  - **(1)** *Precedence in matters of responsibility.—* With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense.11 See Transfer of Functions note below.
-  - **(2)** *Precedence in other matters.—* With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Chief Management Officer,1 and the Secretaries of the military departments.
+  - **(1)** *Precedence in matters of responsibility.—* With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretaryand the Deputy Secretary of Defense.
+  - **(2)** *Precedence in other matters.—* With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, and the Secretaries of the military departments.
 
 ## Source credit
 
-(Added Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339; amended Pub. L. 115–91, div. A, title IX, § 910(c)(2), Dec. 12, 2017, 131 Stat. 1518; Pub. L. 116–92, div. A, title IX, § 902(2), Dec. 20, 2019, 133 Stat. 1542.)
+(Added Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339; amended Pub. L. 115–91, div. A, title IX, § 910(c)(2), Dec. 12, 2017, 131 Stat. 1518; Pub. L. 116–92, div. A, title IX, § 902(2), Dec. 20, 2019, 133 Stat. 1542; Pub. L. 118–31, div. A, title IX, § 901(a)(1), Dec. 22, 2023, 137 Stat. 354.)
 
 ## Notes
-
-1 See Transfer of Functions note below.
 
 ### Editorial Notes
 
@@ -32,7 +30,7 @@ A prior section 133a, added Pub. L. 99–500, § 101(c) [title X, § 902(a)(1)],
 
 ### Amendments
 
-2019—Subsec. (b)(2). Pub. L. 116–92 substituted “appropriate prototyping activities,” for “prototyping,” and struck out “, including the allocation of resources for defense research and engineering,” after “testing activities and programs”. 2017—Subsec. (c)(1). Pub. L. 115–91, § 910(c)(2)(A), substituted “, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense” for “and the Deputy Secretary of Defense”. Subsec. (c)(2). Pub. L. 115–91, § 910(c)(2)(B), inserted “the Chief Management Officer,” after “the Deputy Secretary,”.
+2023—Subsec. (c)(1). Pub. L. 118–31, § 901(a)(1)(A), substituted “and the Deputy Secretary of Defense” for “, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense”. Subsec. (c)(2). Pub. L. 118–31, § 901(a)(1)(B), struck out “the Chief Management Officer,” after “the Deputy Secretary,”. 2019—Subsec. (b)(2). Pub. L. 116–92 substituted “appropriate prototyping activities,” for “prototyping,” and struck out “, including the allocation of resources for defense research and engineering,” after “testing activities and programs”. 2017—Subsec. (c)(1). Pub. L. 115–91, § 910(c)(2)(A), substituted “, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense” for “and the Deputy Secretary of Defense”. Subsec. (c)(2). Pub. L. 115–91, § 910(c)(2)(B), inserted “the Chief Management Officer,” after “the Deputy Secretary,”.
 
 ### Statutory Notes and Related Subsidiaries
 
@@ -43,10 +41,6 @@ Pub. L. 115–91, div. A, title IX, § 910(c), Dec. 12, 2017, 131 Stat. 1518, pr
 ### Effective Date
 
 Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339, provided that this section is effective on Feb. 1, 2018.
-
-### Transfer of Functions
-
-Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
 
 ### Semiannual Updates on Meetings Held by the Missile Defense Executive Board
 

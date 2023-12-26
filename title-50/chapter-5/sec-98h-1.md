@@ -18,17 +18,16 @@ section: 98h–1
   - **(1)** Adopt by-laws that ensure sufficient oversight, governance, and effectiveness of the National Defense Stockpile program.
   - **(2)** Elect or remove Board members.
   - **(3)** Advise the National Defense Stockpile Manager.
-  - **(4)** Establish performance metrics and conduct an annual performance review of the National Defense Stockpile Manager.
-  - **(5)** Set compensation for the National Defense Stockpile Manager.
-  - **(6)** Review and approve the annual budget of the National Defense Stockpile program and conduct appropriate reviews of annual financial statements.
-  - **(7)** Re-allocate budget resources within the annual budget of the National Defense Stockpile program.
-  - **(8)** Review and approve the Annual Materials and Operations Plan required by section 98h–2(a)(2) of this title, including a review of the projected domestic and foreign economic effects of proposed actions to be taken under the Annual Materials and Operations Plan.
-  - **(9)** Complete and submit the annual Board Report, in accordance with section 98h–2(b)(2) of this title.
-  - **(10)** Recommend to the Secretary of Defense—
+  - **(4)** Establish performance metrics and conduct an annual performance review of the management and operations of the National Defense Stockpile program.
+  - **(5)** Review and approve the annual budget of the National Defense Stockpile program and conduct appropriate reviews of annual financial statements.
+  - **(6)** Re-allocate budget resources within the annual budget of the National Defense Stockpile program.
+  - **(7)** Review and approve the Annual Materials and Operations Plan required by section 98h–2(a) of this title. The report required by section 98h–2(b)(2) of this title shall include the views and recommendations of the Board on the projected domestic and foreign economic effects of all acquisition of materials for and disposals of materials from the stockpile.
+  - **(8)** Complete and submit the annual Board Report, in accordance with section 98h–2(b)(2) of this title.
+  - **(9)** Recommend to the Secretary of Defense—
     - **(A)** a strategy to ensure a secure supply of materials designated as critical to national security; and
     - **(B)** such other strategies as the Board considers appropriate to strengthen the industrial base with respect to materials critical to national security.
 - **(d)** *Board meetings* The Board shall meet as determined necessary by the chairman but not less frequently than once every year to fulfill the duties described in subsection (c).
-- **(e)** *Application of Federal Advisory Committee Act* Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply to the Board.
+- **(e)** *Application of provisions relating to Federal advisory committees* Section 1013(a) of title 5 shall not apply to the Board.
 - **(f)** *Definitions* In this section:
   - **(1)** *Materials critical to national security* The term “materials critical to national security” means materials—
     - **(A)** upon which the production or sustainment of military equipment is dependent; and
@@ -38,17 +37,11 @@ section: 98h–1
 
 ## Source credit
 
-(June 7, 1939, ch. 190, § 10, as added Pub. L. 96–41, § 2(a), July 30, 1979, 93 Stat. 323; amended Pub. L. 102–484, div. C, title XXXIII, § 3314, Oct. 23, 1992, 106 Stat. 2654; Pub. L. 117–263, div. A, title XIV, § 1411(b), Dec. 23, 2022, 136 Stat. 2869.)
+(June 7, 1939, ch. 190, § 10, as added Pub. L. 96–41, § 2(a), July 30, 1979, 93 Stat. 323; amended Pub. L. 102–484, div. C, title XXXIII, § 3314, Oct. 23, 1992, 106 Stat. 2654; Pub. L. 117–263, div. A, title XIV, § 1411(b), Dec. 23, 2022, 136 Stat. 2869; Pub. L. 118–31, div. A, title XIV, § 1411(c), Dec. 22, 2023, 137 Stat. 524.)
 
 ## Notes
 
-1 See References in Text note below.
-
 ### Editorial Notes
-
-### References in Text
-
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 ### Prior Provisions
 
@@ -56,7 +49,7 @@ A prior section 10 of act June 7, 1939, ch. 190, § 10, was renumbered section 1
 
 ### Amendments
 
-2022—Pub. L. 117–263 amended section generally. Prior to amendment, section related to appointment of advisory committees and a Market Impact Committee. 1992—Subsec. (c). Pub. L. 102–484 added subsec. (c).
+2023—Subsec. (c)(4). Pub. L. 118–31, § 1411(c)(1)(A), substituted “of the management and operations of the National Defense Stockpile program” for “of the National Defense Stockpile Manager”. Subsec. (c)(5), (6). Pub. L. 118–31, § 1411(c)(1)(B), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which read as follows: “Set compensation for the National Defense Stockpile Manager.” Subsec. (c)(7). Pub. L. 118–31, § 1411(c)(1)(B), (C), redesignated par. (8) as (7) and substituted “required by section 98h–2(a) of this title. The report required by section 98h–2(b)(2) of this title shall include the views and recommendations of the Board on” for “required by section 98h–2(a)(2) of this title, including a review of” and “all acquisition of materials for and disposals of materials from the stockpile” for “proposed actions to be taken under the Annual Materials and Operations Plan”. Former par. (7) redesignated (6). Subsec. (c)(8) to (10). Pub. L. 118–31, § 1411(c)(1)(B), redesignated pars. (9) and (10) as (8) and (9), respectively. Subsec. (e). Pub. L. 118–31, § 1411(c)(2), amended subsec. (e) generally. Prior to amendment, text read as follows: “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Board.” 2022—Pub. L. 117–263 amended section generally. Prior to amendment, section related to appointment of advisory committees and a Market Impact Committee. 1992—Subsec. (c). Pub. L. 102–484 added subsec. (c).
 
 ### Statutory Notes and Related Subsidiaries
 

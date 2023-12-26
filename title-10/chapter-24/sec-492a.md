@@ -36,10 +36,22 @@ section: 492a
 - **(c)** *Comptroller General Review.—* The Comptroller General of the United States shall—
   - **(1)** periodically review reports submitted under subsection (a) for accuracy and completeness with respect to the matters described in paragraphs (2)(F) and (3) of such subsection; and
   - **(2)** submit to the congressional defense committees a summary of each such review.
+- **(d)** *Independent Assessment by United States Strategic Command.—*
+  - **(1)** *In general.—* Not later than 150 days after the submission to Congress of the budget of the President under section 1105(a) of title 31, for each fiscal year the Commander of United States Strategic Command shall complete an independent assessment of any operational effects of the sufficiency of the execution, as of the date of the assessment, of the acquisition, construction, and recapitalization programs of the Department of Defense and the National Nuclear Security Administration to modernize the nuclear forces of the United States and meet current and future deterrence requirements.
+  - **(2)** *Contents.—* Each assessment required under paragraph (1) shall include an evaluation of the ongoing execution of modernization programs associated with—
+    - **(A)** the nuclear weapons design, production, and sustainment infrastructure;
+    - **(B)** the nuclear weapons stockpile;
+    - **(C)** the delivery systems for nuclear weapons; and
+    - **(D)** the nuclear command, control, and communications system.
+  - **(3)** *Routing and submission.—*
+    - **(A)** *Submission to nuclear weapons council.—* Not later than 15 days after completion of an assessment required by paragraph (1), the Commander of United States Strategic Command shall—
+      - **(i)** submit the assessment to the Chairman of the Nuclear Weapons Council; and
+      - **(ii)** notify the congressional defense committees that the assessment has been submitted to the Chairman of the Nuclear Weapons Council.
+    - **(B)** *Submission to congress.—* Not later than 15 days after the Chairman of the Nuclear Weapons Council receives an assessment required by paragraph (1), the Chairman shall transmit the assessment, without change, to the congressional defense committees.
 
 ## Source credit
 
-(Added and amended Pub. L. 116–92, div. A, title XVI, § 1665(c)(1), Dec. 20, 2019, 133 Stat. 1773; Pub. L. 116–283, div. A, title XVI, § 1633, Jan. 1, 2021, 134 Stat. 4059; Pub. L. 117–263, div. A, title XVI, § 1635, Dec. 23, 2022, 136 Stat. 2939.)
+(Added and amended Pub. L. 116–92, div. A, title XVI, § 1665(c)(1), Dec. 20, 2019, 133 Stat. 1773; Pub. L. 116–283, div. A, title XVI, § 1633, Jan. 1, 2021, 134 Stat. 4059; Pub. L. 117–263, div. A, title XVI, § 1635, Dec. 23, 2022, 136 Stat. 2939; Pub. L. 118–31, div. A, title XVI, § 1633, Dec. 22, 2023, 137 Stat. 592.)
 
 ## Notes
 
@@ -51,4 +63,4 @@ Section, as added and amended by Pub. L. 116–92, is based on Pub. L. 112–81,
 
 ### Amendments
 
-2022—Subsec. (a)(1). Pub. L. 117–263 substituted “2029” for “2024”. 2021—Subsec. (c)(1). Pub. L. 116–283, § 1633(1), substituted “periodically review reports submitted” for “review each report”. Subsec. (c)(2). Pub. L. 116–283, § 1633(2), struck out “not later than 180 days after the date on which such report under subsection (a) is submitted,” before “submit to the congressional defense committees”. 2019—Pub. L. 116–92, § 1665(c)(1)(D), conformed section designation and catchline to the style of this title. Pub. L. 116–92, § 1665(c)(1)(A)–(C), transferred section 1043 of Pub. L. 112–81, as amended, to this chapter and renumbered it as this section. See Codification note above.
+2023—Subsec. (d). Pub. L. 118–31 added subsec. (d). 2022—Subsec. (a)(1). Pub. L. 117–263 substituted “2029” for “2024”. 2021—Subsec. (c)(1). Pub. L. 116–283, § 1633(1), substituted “periodically review reports submitted” for “review each report”. Subsec. (c)(2). Pub. L. 116–283, § 1633(2), struck out “not later than 180 days after the date on which such report under subsection (a) is submitted,” before “submit to the congressional defense committees”. 2019—Pub. L. 116–92, § 1665(c)(1)(D), conformed section designation and catchline to the style of this title. Pub. L. 116–92, § 1665(c)(1)(A)–(C), transferred section 1043 of Pub. L. 112–81, as amended, to this chapter and renumbered it as this section. See Codification note above.

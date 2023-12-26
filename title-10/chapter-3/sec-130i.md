@@ -45,8 +45,8 @@ section: 130i
   - **(1)** vest in the Secretary of Defense any authority of the Secretary of Transportation or the Administrator of the Federal Aviation Administration under title 49; and
   - **(2)** vest in the Secretary of Transportation or the Administrator of the Federal Aviation Administration any authority of the Secretary of Defense under this title.
 - **(i)** *Partial Termination.—*
-  - **(1)** Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C) shall terminate on December 31, 2023.
-  - **(2)** The President may extend by 180 days the termination date specified in paragraph (1) if before November 15, 2023, the President certifies to Congress that such extension is in the national security interests of the United States.
+  - **(1)** Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C) shall terminate on December 31, 2026.
+  - **(2)** The President may extend by 180 days the termination date specified in paragraph (1) if before November 15, 2026, the President certifies to Congress that such extension is in the national security interests of the United States.
 - **(j)** *Definitions.—* In this section:
   - **(1)** The term “appropriate congressional committees” means—
     - **(A)** the congressional defense committees;
@@ -72,7 +72,7 @@ section: 130i
 
 ## Source credit
 
-(Added Pub. L. 114–328, div. A, title XVI, § 1697(a), Dec. 23, 2016, 130 Stat. 2639; amended Pub. L. 115–91, div. A, title XVI, § 1692, Dec. 12, 2017, 131 Stat. 1788; Pub. L. 116–92, div. A, title XVI, § 1694, title XVII, § 1731(a)(6), Dec. 20, 2019, 133 Stat. 1791, 1812; Pub. L. 116–283, div. A, title X, § 1081(a)(8), title XVIII, § 1845(c)(4), Jan. 1, 2021, 134 Stat. 3871, 4247.)
+(Added Pub. L. 114–328, div. A, title XVI, § 1697(a), Dec. 23, 2016, 130 Stat. 2639; amended Pub. L. 115–91, div. A, title XVI, § 1692, Dec. 12, 2017, 131 Stat. 1788; Pub. L. 116–92, div. A, title XVI, § 1694, title XVII, § 1731(a)(6), Dec. 20, 2019, 133 Stat. 1791, 1812; Pub. L. 116–283, div. A, title X, § 1081(a)(8), title XVIII, § 1845(c)(4), Jan. 1, 2021, 134 Stat. 3871, 4247; Pub. L. 118–31, div. A, title XVI, § 1681, Dec. 22, 2023, 137 Stat. 611.)
 
 ## Notes
 
@@ -86,7 +86,7 @@ The Presidential Protection Assistance Act of 1976, referred to in subsec. (j)(3
 
 ### Amendments
 
-2021—Subsec. (i)(1). Pub. L. 116–283, § 1081(a)(8)(A), substituted “of subsection (j)(3)(C) shall” for “of subsection (j)(3)(C) shall”, resulting in no change in text. See 2019 Amendment notes and Coordination of Amendments by Pub. L. 116–92 note below. Subsec. (j)(3)(C)(ix). Pub. L. 116–283, § 1845(c)(4), substituted “sections 4173(i)” for “section 196(i)”. Subsec. (j)(6). Pub. L. 116–283, § 1081(a)(8)(B), inserted a period at end. 2019—Subsec. (i). Pub. L. 116–92, § 1694(a), substituted “2023” for “2020” in two places. Subsec. (i)(1). Pub. L. 116–92, § 1731(a)(6)(A), inserted “(C)” after “subsection (j)(3)”. Pub. L. 116–92, § 1694(b)(1), which directed substitution of “of subsection (j)(3)(C)” for “of subsection (j)(3)”, resulted in no change in text because of prior execution of amendment by Pub. L. 116–92, § 1731(a)(6)(A). See Amendment note above and Coordination of Amendments by Pub. L. 116–92 note below. Subsec. (j)(6). Pub. L. 116–92, § 1731(a)(6)(B), substituted “44802” for “40101”. Pub. L. 116–92, § 1694(b)(2), substituted “in section 44801 of title 49” for “in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 44802 note).” 2017—Pub. L. 115–91 amended section generally. Prior to amendment, section related to protection of certain facilities and assets from unmanned aircraft and consisted of provisions relating to authority of Secretary of Defense, authorized actions, forfeiture, regulations, and definitions.
+2023—Subsec. (i). Pub. L. 118–31 substituted “2026” for “2023” in pars. (1) and (2). 2021—Subsec. (i)(1). Pub. L. 116–283, § 1081(a)(8)(A), substituted “of subsection (j)(3)(C) shall” for “of subsection (j)(3)(C) shall”, resulting in no change in text. See 2019 Amendment notes and Coordination of Amendments by Pub. L. 116–92 note below. Subsec. (j)(3)(C)(ix). Pub. L. 116–283, § 1845(c)(4), substituted “sections 4173(i)” for “section 196(i)”. Subsec. (j)(6). Pub. L. 116–283, § 1081(a)(8)(B), inserted a period at end. 2019—Subsec. (i). Pub. L. 116–92, § 1694(a), substituted “2023” for “2020” in two places. Subsec. (i)(1). Pub. L. 116–92, § 1731(a)(6)(A), inserted “(C)” after “subsection (j)(3)”. Pub. L. 116–92, § 1694(b)(1), which directed substitution of “of subsection (j)(3)(C)” for “of subsection (j)(3)”, resulted in no change in text because of prior execution of amendment by Pub. L. 116–92, § 1731(a)(6)(A). See Amendment note above and Coordination of Amendments by Pub. L. 116–92 note below. Subsec. (j)(6). Pub. L. 116–92, § 1731(a)(6)(B), substituted “44802” for “40101”. Pub. L. 116–92, § 1694(b)(2), substituted “in section 44801 of title 49” for “in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 44802 note).” 2017—Pub. L. 115–91 amended section generally. Prior to amendment, section related to protection of certain facilities and assets from unmanned aircraft and consisted of provisions relating to authority of Secretary of Defense, authorized actions, forfeiture, regulations, and definitions.
 
 ### Statutory Notes and Related Subsidiaries
 

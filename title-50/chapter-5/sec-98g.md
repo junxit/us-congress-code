@@ -8,11 +8,8 @@ section: 98g
 # § 98g. Materials development and research
 
 - **(a)** *Development, mining, preparation, treatment, and utilization of ores and other mineral substances*
-  - **(1)** The President shall make scientific, technologic, and economic investigations concerning the development, mining, preparation, treatment, and utilization of ores and other mineral substances that (A) are found in the United States, or in its territories or possessions, (B) are essential to the national defense, industrial, and essential civilian needs of the United States, and (C) are found in known domestic sources in inadequate quantities or grades.
-  - **(2)** Such investigations shall be carried out in order to—
-    - **(A)** determine and develop new domestic sources of supply of such ores and mineral substances;
-    - **(B)** devise new methods for the treatment and utilization of lower grade reserves of such ores and mineral substances; and
-    - **(C)** develop substitutes for such essential ores and mineral products.
+  - **(1)** The President shall make scientific, technologic, and economic investigations concerning the development, mining, preparation, treatment, and utilization of ores and other mineral substances that (A) are found in the United States, its territories or possessions, or in a reliable source 11 So in original. Probably should be followed by a comma. (B) are essential to the national defense, industrial, and essential civilian needs of the United States, and (C) are found in known domestic sources in inadequate quantities or grades.
+  - **(2)** Such investigations shall be carried out in order to develop new sources of strategic and critical materials, develop substitutes, or conserve domestic sources and reliable sources of supply for such strategic and critical materials.
   - **(3)** Investigations under paragraph (1) may be carried out on public lands and, with the consent of the owner, on privately owned lands for the purpose of exploring and determining the extent and quality of deposits of such minerals, the most suitable methods of mining and beneficiating such minerals, and the cost at which the minerals or metals may be produced.
 - **(b)** *Development of sources of supplies of agricultural materials; use of agricultural commodities for manufacture of materials* The President shall make scientific, technologic, and economic investigations of the feasibility of developing domestic sources of supplies of any agricultural material or for using agricultural commodities for the manufacture of any material determined pursuant to section 98b(a) of this title to be a strategic and critical material or substitutes therefor.
 - **(c)** *Development of sources of supply of other materials; development or use of alternative methods for refining or processing materials in stockpile* The President shall make scientific, technologic, and economic investigations concerning the feasibility of—
@@ -24,9 +21,11 @@ section: 98g
 
 ## Source credit
 
-(June 7, 1939, ch. 190, § 8, as added Pub. L. 96–41, § 2(a), July 30, 1979, 93 Stat. 322; amended Pub. L. 101–189, div. C, title XXXIII, § 3311, Nov. 29, 1989, 103 Stat. 1686.)
+(June 7, 1939, ch. 190, § 8, as added Pub. L. 96–41, § 2(a), July 30, 1979, 93 Stat. 322; amended Pub. L. 101–189, div. C, title XXXIII, § 3311, Nov. 29, 1989, 103 Stat. 1686; Pub. L. 118–31, div. A, title XIV, § 1411(e)(2)(B), Dec. 22, 2023, 137 Stat. 527.)
 
 ## Notes
+
+1 So in original. Probably should be followed by a comma.
 
 ### Editorial Notes
 
@@ -36,7 +35,7 @@ A prior section 98g, act June 7, 1939, ch. 190, § 8, as added July 23, 1946, ch
 
 ### Amendments
 
-1989—Subsecs. (c), (d). Pub. L. 101–189 added subsecs. (c) and (d).
+2023—Subsec. (a)(1). Pub. L. 118–31, § 1411(e)(2)(B)(i), substituted “its territories or possessions, or in a reliable source” for “or in its territories or possessions,”. Subsec. (a)(2). Pub. L. 118–31, § 1411(e)(2)(B)(ii), substituted “in order to develop new sources of strategic and critical materials, develop substitutes, or conserve domestic sources and reliable sources of supply for such strategic and critical materials.” for “in order to— “(A) determine and develop new domestic sources of supply of such ores and mineral substances; “(B) devise new methods for the treatment and utilization of lower grade reserves of such ores and mineral substances; and “(C) develop substitutes for such essential ores and mineral products.” 1989—Subsecs. (c), (d). Pub. L. 101–189 added subsecs. (c) and (d).
 
 ### Executive Documents
 

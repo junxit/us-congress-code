@@ -12,7 +12,7 @@ section: 240d
 - **(c)** *Monitoring Audits.—* The Inspector General shall monitor the conduct of all audits by independent external auditors under subsection (a).
 - **(d)** *Reports on Audits.—*
   - **(1)** *In general.—* The Inspector General shall require the independent external auditors conducting audits under subsection (a) to submit a report on their audits each year to—
-    - **(A)** the Under Secretary of Defense (Comptroller) as the Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31 and the Chief Management Officer of the Department of Defense; 11 See Transfer of Functions note below.
+    - **(A)** the Under Secretary of Defense (Comptroller) as the Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31;
     - **(B)** the Controller of the Office of Federal Financial Management in the Office of Management and Budget;
     - **(C)** the head of each component audited; and
     - **(D)** the appropriate committees of Congress.
@@ -25,11 +25,9 @@ section: 240d
 
 ## Source credit
 
-(Added and amended Pub. L. 115–91, div. A, title X, § 1002(e)(1)–(3), Dec. 12, 2017, 131 Stat. 1541, § 254; renumbered § 240d, Pub. L. 115–232, div. A, title X, § 1002(a)(1)(A), Aug. 13, 2018, 132 Stat. 1945.)
+(Added and amended Pub. L. 115–91, div. A, title X, § 1002(e)(1)–(3), Dec. 12, 2017, 131 Stat. 1541, § 254; renumbered § 240d, Pub. L. 115–232, div. A, title X, § 1002(a)(1)(A), Aug. 13, 2018, 132 Stat. 1945; Pub. L. 118–31, div. A, title IX, § 901(d), Dec. 22, 2023, 137 Stat. 354.)
 
 ## Notes
-
-1 See Transfer of Functions note below.
 
 ### Editorial Notes
 
@@ -39,7 +37,7 @@ Text of section, as added by Pub. L. 115–91, is based on text of section 1005 
 
 ### Amendments
 
-2018—Pub. L. 115–232 renumbered section 254 of this title as this section. 2017—Subsec. (a). Pub. L. 115–91, § 1002(e)(2)(B), struck out “, United States Code,” after “title 31”. Subsec. (d)(1)(A). Pub. L. 115–91, § 1002(e)(3)(A)(i), inserted “and the Chief Management Officer of the Department of Defense” before semicolon. Pub. L. 115–91, § 1002(e)(2)(A), struck out “, United States Code” after “title 31”. Subsec. (d)(1)(C), (D). Pub. L. 115–91, § 1002(e)(3)(A)(ii)–(iv), added subpar. (C) and redesignated former subpar. (C) as (D). Subsec. (e)(1). Pub. L. 115–91, § 1002(e)(3)(B), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “shall be implemented in a manner that is consistent with the requirements of section 1008 of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 10 U.S.C. 113 note);”. Subsec. (e)(2). Pub. L. 115–91, § 1002(e)(3)(B)(ii), redesignated par. (3) as (2). Former par. (2) redesignated (1). Pub. L. 115–91, § 1002(e)(2)(B), struck out “, United States Code,” after “title 31”. Subsec. (e)(3). Pub. L. 115–91, § 1002(e)(3)(B)(ii), redesignated par. (3) as (2). Pub. L. 115–91, § 1002(e)(2)(A), struck out “, United States Code” after “title 31”.
+2023—Subsec. (d)(1)(A). Pub. L. 118–31 struck out “and the Chief Management Officer of the Department of Defense” after “chapter 9 of title 31”. 2018—Pub. L. 115–232 renumbered section 254 of this title as this section. 2017—Subsec. (a). Pub. L. 115–91, § 1002(e)(2)(B), struck out “, United States Code,” after “title 31”. Subsec. (d)(1)(A). Pub. L. 115–91, § 1002(e)(3)(A)(i), inserted “and the Chief Management Officer of the Department of Defense” before semicolon. Pub. L. 115–91, § 1002(e)(2)(A), struck out “, United States Code” after “title 31”. Subsec. (d)(1)(C), (D). Pub. L. 115–91, § 1002(e)(3)(A)(ii)–(iv), added subpar. (C) and redesignated former subpar. (C) as (D). Subsec. (e)(1). Pub. L. 115–91, § 1002(e)(3)(B), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “shall be implemented in a manner that is consistent with the requirements of section 1008 of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 10 U.S.C. 113 note);”. Subsec. (e)(2). Pub. L. 115–91, § 1002(e)(3)(B)(ii), redesignated par. (3) as (2). Former par. (2) redesignated (1). Pub. L. 115–91, § 1002(e)(2)(B), struck out “, United States Code,” after “title 31”. Subsec. (e)(3). Pub. L. 115–91, § 1002(e)(3)(B)(ii), redesignated par. (3) as (2). Pub. L. 115–91, § 1002(e)(2)(A), struck out “, United States Code” after “title 31”.
 
 ### Statutory Notes and Related Subsidiaries
 
@@ -47,9 +45,9 @@ Text of section, as added by Pub. L. 115–91, is based on text of section 1005 
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### Transfer of Functions
+### Audit Requirement for Department of Defense Components
 
-Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
+Pub. L. 118–31, div. A, title X, § 1004, Dec. 22, 2023, 137 Stat. 379, provided that: “(a) In General.—During fiscal year 2024, and during each of the nine fiscal years thereafter, each component of the Department of Defense shall be subject to an independent audit. Any such component that fails to be subject to such an audit during any fiscal year shall have 1.5 percent of unobligated amounts available for the component be cancelled and returned to the general fund of the Treasury for deficit reduction, except as provided in subsection (b). “(b) Exceptions.—The following accounts are excluded from any reductions:“(1) Military personnel, reserve personnel, and National Guard personnel accounts of the Department of Defense. “(2) The Defense Health Program account of the Department of Defense.”
 
 ### Transparency of Accounting Firms Used To Support Department of Defense Audit
 

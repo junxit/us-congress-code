@@ -25,6 +25,10 @@ section: 222a
       - **(ii)** Program Element (PE) number for applicable research, development, test, and evaluation accounts.
       - **(iii)** Sub-activity group (SAG) for applicable operation and maintenance accounts.
     - **(D)** A detailed assessment of each specific risk that would be reduced in executing the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title if such priority is funded (whether in whole or in part).
+    - **(E)** The requirement to be addressed by the unfunded priority.
+    - **(F)** The reason why funding for the priority was not included in the budget of the President.
+    - **(G)** A description of any funding provided for the requirement for the current and preceding fiscal year.
+    - **(H)** An assessment of the effect that providing funding for the priority would have on the future-years defense plan.
   - **(2)** *Prioritization of priorities.—* Each report shall present the unfunded priorities covered by such report as follows:
     - **(A)** In overall order of urgency of priority according to the amount of risk reduced.
     - **(B)** In overall order of urgency of priority among unfunded priorities (other than covered military construction projects).
@@ -50,7 +54,7 @@ section: 222a
 
 ## Source credit
 
-(Added Pub. L. 114–328, div. A, title X, § 1064(a)(1), Dec. 23, 2016, 130 Stat. 2408; amended Pub. L. 116–92, div. A, title X, § 1005, title XVII, § 1731(a)(12), Dec. 20, 2019, 133 Stat. 1573, 1813; Pub. L. 116–283, div. A, title IX, § 924(b)(10), title X, §§ 1006, 1081(a)(12), Jan. 1, 2021, 134 Stat. 3823, 3838, 3871; Pub. L. 117–263, div. A, title III, § 384(b), title X, § 1051, Dec. 23, 2022, 136 Stat. 2544, 2775.)
+(Added Pub. L. 114–328, div. A, title X, § 1064(a)(1), Dec. 23, 2016, 130 Stat. 2408; amended Pub. L. 116–92, div. A, title X, § 1005, title XVII, § 1731(a)(12), Dec. 20, 2019, 133 Stat. 1573, 1813; Pub. L. 116–283, div. A, title IX, § 924(b)(10), title X, §§ 1006, 1081(a)(12), Jan. 1, 2021, 134 Stat. 3823, 3838, 3871; Pub. L. 117–263, div. A, title III, § 384(b), title X, § 1051, Dec. 23, 2022, 136 Stat. 2544, 2775; Pub. L. 118–31, div. A, title X, § 1003, Dec. 22, 2023, 137 Stat. 379.)
 
 ## Notes
 
@@ -60,7 +64,7 @@ section: 222a
 
 ### Amendments
 
-2022—Subsec. (c)(1)(A). Pub. L. 117–263, § 1051(1)(A)(i), substituted “outlined in the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title to be advanced” for “to be achieved”. Subsec. (c)(1)(D). Pub. L. 117–263, § 1051(1)(A)(ii), added subpar. (D). Subsec. (c)(2)(A). Pub. L. 117–263, § 1051(1)(B), inserted “according to the amount of risk reduced” after “priority”. Subsec. (c)(3). Pub. L. 117–263, § 384(b), substituted “subsection (b)(7)” for “subsection (b)(6)” in introductory provisions of subpars. (A) and (B). Subsecs. (d), (e). Pub. L. 117–263, § 1051(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e). 2021—Subsec. (b)(5), (6). Pub. L. 116–283, § 924(b)(10), added par. (5) and redesignated former par. (5) as (6). Subsec. (b)(7). Pub. L. 116–283, § 1006(1), added par. (7). Subsec. (c)(3). Pub. L. 116–283, § 1006(2), added par. (3). Subsec. (d)(1)(C)(i). Pub. L. 116–283, § 1081(a)(12), inserted “had” before “been available”. 2019—Subsec. (c)(2). Pub. L. 116–92, § 1005(b), amended par. (2) generally. Prior to amendment, text read as follows: “Each report shall present the unfunded priorities covered by such report in order of urgency of priority.” Subsec. (d). Pub. L. 116–92, § 1005(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) defined the term “unfunded priority”. Subsec. (d)(3)(A). Pub. L. 116–92, § 1731(a)(12), inserted “had” before “been” prior to the general amendment of subsec. (d). See Amendment note above and Coordination of Amendments by Pub. L. 116–92 note below.
+2023—Subsec. (c)(1)(E) to (H). Pub. L. 118–31 added subpars. (E) to (H). 2022—Subsec. (c)(1)(A). Pub. L. 117–263, § 1051(1)(A)(i), substituted “outlined in the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title to be advanced” for “to be achieved”. Subsec. (c)(1)(D). Pub. L. 117–263, § 1051(1)(A)(ii), added subpar. (D). Subsec. (c)(2)(A). Pub. L. 117–263, § 1051(1)(B), inserted “according to the amount of risk reduced” after “priority”. Subsec. (c)(3). Pub. L. 117–263, § 384(b), substituted “subsection (b)(7)” for “subsection (b)(6)” in introductory provisions of subpars. (A) and (B). Subsecs. (d), (e). Pub. L. 117–263, § 1051(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e). 2021—Subsec. (b)(5), (6). Pub. L. 116–283, § 924(b)(10), added par. (5) and redesignated former par. (5) as (6). Subsec. (b)(7). Pub. L. 116–283, § 1006(1), added par. (7). Subsec. (c)(3). Pub. L. 116–283, § 1006(2), added par. (3). Subsec. (d)(1)(C)(i). Pub. L. 116–283, § 1081(a)(12), inserted “had” before “been available”. 2019—Subsec. (c)(2). Pub. L. 116–92, § 1005(b), amended par. (2) generally. Prior to amendment, text read as follows: “Each report shall present the unfunded priorities covered by such report in order of urgency of priority.” Subsec. (d). Pub. L. 116–92, § 1005(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) defined the term “unfunded priority”. Subsec. (d)(3)(A). Pub. L. 116–92, § 1731(a)(12), inserted “had” before “been” prior to the general amendment of subsec. (d). See Amendment note above and Coordination of Amendments by Pub. L. 116–92 note below.
 
 ### Statutory Notes and Related Subsidiaries
 

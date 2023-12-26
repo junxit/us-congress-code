@@ -51,12 +51,12 @@ section: 402b
 - **(k)** *Definitions.—* In this section:
   - **(1)** *Gross household income.—* The term “gross household income”, with respect to a member of the armed forces, includes—
     - **(A)** all household income, derived from any source; minus
-    - **(B)** in the case of a member whom the Secretary concerned determines resides in an area with a high cost of living, any portion of the basic allowance for housing under section 403 of this title that the Secretary concerned elects to exclude.
+    - **(B)** in the case of a member whom the Secretary concerned determines resides in an area with a high cost of living or that otherwise has a demonstrated need, any portion of the basic allowance for housing under section 403 of this title that the Secretary concerned elects to exclude.
   - **(2)** *Household.—* The term “household” means a member of the armed forces and any dependents of the member enrolled in the Defense Enrollment Eligibility Reporting System, regardless of the location of those dependents.
 
 ## Source credit
 
-(Added Pub. L. 117–81, div. A, title VI, § 601(a), Dec. 27, 2021, 135 Stat. 1761; amended Pub. L. 117–263, div. A, title VI, § 611(a), Dec. 23, 2022, 136 Stat. 2622; Pub. L. 117–328, div. O, title II, § 201(a), Dec. 29, 2022, 136 Stat. 5226.)
+(Added Pub. L. 117–81, div. A, title VI, § 601(a), Dec. 27, 2021, 135 Stat. 1761; amended Pub. L. 117–263, div. A, title VI, § 611(a), Dec. 23, 2022, 136 Stat. 2622; Pub. L. 117–328, div. O, title II, § 201(a), Dec. 29, 2022, 136 Stat. 5226; Pub. L. 118–31, div. A, title VI, § 621(a), Dec. 22, 2023, 137 Stat. 293.)
 
 ## Notes
 
@@ -68,7 +68,7 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 ### Amendments
 
-2022—Pub. L. 117–328, § 201(a)(1), made technical amendment to directory language of Pub. L. 117–263, § 611(a). See Amendment notes below. Subsec. (b)(2). Pub. L. 117–263, § 611(a)(1), as amended by Pub. L. 117–328, § 201(a)(2), designated existing provisions as subpar. (A), substituted “150 percent” for “130 percent” and “; or” for “; and”, and added subpar. (B). Subsec. (c)(1)(A). Pub. L. 117–263, § 611(a)(2), as amended by Pub. L. 117–328, § 201(a)(3), substituted “150 percent (or, in the case of a member described in subsection (b)(2)(B), 200 percent)” for “130 percent”.
+2023—Subsec. (k)(1)(B). Pub. L. 118–31 inserted “or that otherwise has a demonstrated need” after “high cost of living”. 2022—Pub. L. 117–328, § 201(a)(1), made technical amendment to directory language of Pub. L. 117–263, § 611(a). See Amendment notes below. Subsec. (b)(2). Pub. L. 117–263, § 611(a)(1), as amended by Pub. L. 117–328, § 201(a)(2), designated existing provisions as subpar. (A), substituted “150 percent” for “130 percent” and “; or” for “; and”, and added subpar. (B). Subsec. (c)(1)(A). Pub. L. 117–263, § 611(a)(2), as amended by Pub. L. 117–328, § 201(a)(3), substituted “150 percent (or, in the case of a member described in subsection (b)(2)(B), 200 percent)” for “130 percent”.
 
 ### Statutory Notes and Related Subsidiaries
 
@@ -78,4 +78,4 @@ Pub. L. 117–328, div. O, title II, § 201(b), Dec. 29, 2022, 136 Stat. 5227, p
 
 ### Implementation
 
-Pub. L. 117–263, div. A, title VI, § 611(b), Dec. 23, 2022, 136 Stat. 2622, provided that: “Not later than January 1, 2024, the Secretary concerned (as defined in section 101 of title 37, United States Code) shall modify the calculation of the basic needs allowance under section 402b of title 37, United States Code, to implement the amendments made by subsection (a) [amending this section].”
+Pub. L. 118–31, div. A, title VI, § 621(b), Dec. 22, 2023, 137 Stat. 293, provided that: “The Secretary of Defense shall revise the guidance issued with respect to implementation of the basic needs allowance under section 402b of title 37, United States Code, to reflect the amendment made by subsection (a) [amending this section].” Pub. L. 117–263, div. A, title VI, § 611(b), Dec. 23, 2022, 136 Stat. 2622, provided that: “Not later than January 1, 2024, the Secretary concerned (as defined in section 101 of title 37, United States Code) shall modify the calculation of the basic needs allowance under section 402b of title 37, United States Code, to implement the amendments made by subsection (a) [amending this section].”

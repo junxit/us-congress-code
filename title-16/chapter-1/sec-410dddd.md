@@ -9,7 +9,7 @@ section: 410dddd
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Map* The term “Map” means the map entitled “White Sands National Park Proposed Boundary Revision & Transfer of Lands Between National Park Service & Department of the Army”, numbered 142/136,271, and dated February 14, 2017.
-  - **(2)** *Military munitions* The term “military munitions” has the meaning given the term in section 101(e) of title 10.
+  - **(2)** *Military munitions* The term “military munitions” has the meaning given the term in section 101(e) 11 See References in Text note below. of title 10.
   - **(3)** *Missile range* The term “missile range” means the White Sands Missile Range, New Mexico, administered by the Secretary of the Army.
   - **(4)** *Monument* The term “Monument” means the White Sands National Monument, New Mexico, established by Presidential Proclamation No. 2025 (54 U.S.C. 320301 note), dated January 18, 1933, and administered by the Secretary of the Interior.
   - **(5)** *Munitions debris* The term “munitions debris” has the meaning given the term in volume 8 of the Department of Defense Manual Number 6055.09-M entitled “DoD Ammunitions and Explosives Safety Standards” and dated February 29, 2008 (as in effect on December 20, 2019).
@@ -90,11 +90,13 @@ section: 410dddd
 
 ## Notes
 
+1 See References in Text note below.
+
 ### Editorial Notes
 
 ### References in Text
 
-Presidential Proclamation No. 2025, referred to in subsec. (a)(4), is Proc. No. 2025, Jan. 18, 1933, 47 Stat. 2551, which is listed in a table of National Monuments Established Under Presidential Proclamation set out under section 320301 of Title 54, National Park Service and Related Programs. The Clean Air Act, referred to in subsec. (b)(7)(E), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables. The Native American Graves Protection and Repatriation Act, referred to in subsec. (c)(3)(C)(i)(II)(aa), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 25 and Tables. The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (c)(3)(E)(iii)(I), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+Section 101(e) of title 10, referred to in subsec. (a)(2), was redesignated section 101(f) of title 10, and a new subsec. 101(e) of title 10 was added, by Pub. L. 118–31, div. A, title XVII, § 1713(a), Dec. 22, 2023, 137 Stat. 625. Presidential Proclamation No. 2025, referred to in subsec. (a)(4), is Proc. No. 2025, Jan. 18, 1933, 47 Stat. 2551, which is listed in a table of National Monuments Established Under Presidential Proclamation set out under section 320301 of Title 54, National Park Service and Related Programs. The Clean Air Act, referred to in subsec. (b)(7)(E), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables. The Native American Graves Protection and Repatriation Act, referred to in subsec. (c)(3)(C)(i)(II)(aa), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 25 and Tables. The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (c)(3)(E)(iii)(I), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 ### Codification
 
