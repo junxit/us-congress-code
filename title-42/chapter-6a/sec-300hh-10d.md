@@ -32,12 +32,12 @@ section: 300hh–10d
 - **(e)** *Disability defined* For purposes of this section, the term “disability” has the meaning given such term in section 12102 of this title.
 - **(f)** *Coordination* The Secretary shall coordinate duties and activities authorized under this section in accordance with section 300hh–10e of this title.
 - **(g)** *Sunset*
-  - **(1)** *In general* The Advisory Committee shall terminate on January 19, 2024.
+  - **(1)** *In general* The Advisory Committee shall terminate on March 8, 2024.
   - **(2)** *Recommendation* Not later than October 1, 2022, the Secretary shall submit to Congress a recommendation on whether the Advisory Committee should be extended.
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title XXVIII, § 2811C, as added Pub. L. 116–22, title III, § 305(c), June 24, 2019, 133 Stat. 939; amended Pub. L. 118–15, div. B, title III, § 2333(c), Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, § 203(d)(3), Nov. 17, 2023, 137 Stat. 121.)
+(July 1, 1944, ch. 373, title XXVIII, § 2811C, as added Pub. L. 116–22, title III, § 305(c), June 24, 2019, 133 Stat. 939; amended Pub. L. 118–15, div. B, title III, § 2333(c), Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, § 203(d)(3), Nov. 17, 2023, 137 Stat. 121; Pub. L. 118–35, div. B, title I, § 103(d)(3), Jan. 19, 2024, 138 Stat. 5.)
 
 ## Notes
 
@@ -45,4 +45,4 @@ section: 300hh–10d
 
 ### Amendments
 
-2023—Subsec. (g)(1). Pub. L. 118–22 substituted “January 19, 2024” for “November 17, 2023”. Pub. L. 118–15 substituted “November 17, 2023” for “September 30, 2023”.
+2024—Subsec. (g)(1). Pub. L. 118–35 substituted “March 8, 2024” for “January 19, 2024”. 2023—Subsec. (g)(1). Pub. L. 118–22 substituted “January 19, 2024” for “November 17, 2023”. Pub. L. 118–15 substituted “November 17, 2023” for “September 30, 2023”.
