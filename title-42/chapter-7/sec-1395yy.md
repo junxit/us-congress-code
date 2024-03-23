@@ -214,10 +214,6 @@ section: 1395yy
 
 1 So in original. Probably should be preceded by “subsection”.
 
-### Applicability of Amendment
-
-Amendment of section by section 4121(a)(4) of Pub. L. 117–328 applicable with respect to services furnished on or after Jan. 1, 2024. See 2022 Amendment note below.
-
 ### Editorial Notes
 
 ### References in Text

@@ -15,7 +15,7 @@ For the purpose of preserving in their natural state the outstanding scenic feat
 
 ## Notes
 
-### Statutory Notes and Related Subsidiaries
+### Editorial Notes
 
 ### Amendments
 

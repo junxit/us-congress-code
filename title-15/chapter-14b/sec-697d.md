@@ -33,7 +33,7 @@ section: 697d
 
 ### Amendments
 
-2020—Subsecs. (e), (f). Pub. L. 116–260, § 328(b)(2), added subsec. (e) and struck out former subsec. (e) which related to express loan authority of a local development company designated as an accredited lender, and subsec. (f), which defined terms “accredited lender certified company”, “covered loan”, and “qualified State or local development company” in this section. Pub. L. 116–260, § 328(b)(1), added subsecs. (e) and (f) and struck out former subsec. (e) which defined “qualified State or local development company” for purposes of this section.
+2020—Subsecs. (e), (f). Pub. L. 116–260, § 328(b)(2), added subsec. (e) and struck out former subsec. (e) which related to express loan authority of a local development company designated as an accredited lender, and subsec. (f) which defined terms “accredited lender certified company”, “covered loan”, and “qualified State or local development company” in this section. Pub. L. 116–260, § 328(b)(1), added subsecs. (e) and (f) and struck out former subsec. (e) which defined “qualified State or local development company” for purposes of this section.
 
 ### Statutory Notes and Related Subsidiaries
 

@@ -43,13 +43,14 @@ section: 38
   - **(29)** the carbon dioxide sequestration credit determined under section 45Q(a),
   - **(30)** the portion of the new clean vehicle credit to which section 30D(c)(1) applies,
   - **(31)** the small employer health insurance credit determined under section 45R,
-  - **(32)** in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a), plus
-  - **(33)** in the case of an eligible employer (as defined in section 45T(c)), the retirement auto-enrollment credit determined under section 45T(a).
-  - **(35)** 11 See Amendment of Subsection (b) note below. the sustainable aviation fuel credit determined under section 40B,
+  - **(32)** in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a),
+  - **(33)** in the case of an eligible employer (as defined in section 45T(c)), the retirement auto-enrollment credit determined under section 45T(a), plus
+  - **(34)** the zero-emission nuclear power production credit determined under section 45U(a).
+  - **(35)** the sustainable aviation fuel credit determined under section 40B,
   - **(36)** the clean hydrogen production credit determined under section 45V(a),
   - **(37)** the qualified commercial clean vehicle credit determined under section 45W, plus
   - **(38)** the advanced manufacturing production credit determined under section 45X(a).
-  - **(41)** 1 in the case of an eligible small employer (as defined in section 45AA(c)), the military spouse retirement plan eligibility credit determined under section 45AA(a).
+  - **(41)** 11 See Amendment of Subsection (b) note below. in the case of an eligible small employer (as defined in section 45AA(c)), the military spouse retirement plan eligibility credit determined under section 45AA(a).
 - **(c)** *Limitation based on amount of tax*
   - **(1)** *In general* The credit allowed under subsection (a) for any taxable year shall not exceed the excess (if any) of the taxpayer’s net income tax over the greater of—
     - **(A)** the tentative minimum tax for the taxable year, or
@@ -112,7 +113,7 @@ section: 38
 
 ### Amendment of Subsection (b)
 
-Pub. L. 117–169, title I, § 13105(b)(1), (c), Aug. 16, 2022, 136 Stat. 1931, provided that, applicable to electricity produced and sold after Dec. 31, 2023, in taxable years beginning after such date, subsection (b) of this section is amended by striking “plus” at the end of paragraph (32), striking the period at the end of paragraph (33) and inserting “, plus”, and adding at the end the following new paragraph: (34) the zero-emission nuclear power production credit determined under section 45U(a). See 2022 Amendment note below. Pub. L. 117–169, title I, § 13701(b)(1), (c), Aug. 16, 2022, 136 Stat. 1990, provided that, applicable to facilities placed in service after Dec. 31, 2024, subsection (b) of this section is amended by striking “plus” at the end of paragraph (37), striking the period at the end of paragraph (38) and inserting “, plus”, and adding at the end the following new paragraph: (39) the clean electricity production credit determined under section 45Y(a). See 2022 Amendment note below. Pub. L. 117–169, title I, § 13704(b)(3), (c), Aug. 16, 2022, 136 Stat. 2002, 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (b) of this section is amended by striking “plus” at the end of paragraph (38), striking the period at the end of paragraph (39) and inserting “, plus”, and adding at the end the following new paragraph: (40) the clean fuel production credit determined under section 45Z(a). See 2022 Amendment note below.
+Pub. L. 117–169, title I, § 13701(b)(1), (c), Aug. 16, 2022, 136 Stat. 1990, provided that, applicable to facilities placed in service after Dec. 31, 2024, subsection (b) of this section is amended by striking “plus” at the end of paragraph (37), striking the period at the end of paragraph (38) and inserting “, plus”, and adding at the end the following new paragraph: (39) the clean electricity production credit determined under section 45Y(a). See 2022 Amendment note below. Pub. L. 117–169, title I, § 13704(b)(3), (c), Aug. 16, 2022, 136 Stat. 2002, 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (b) of this section is amended by striking “plus” at the end of paragraph (38), striking the period at the end of paragraph (39) and inserting “, plus”, and adding at the end the following new paragraph: (40) the clean fuel production credit determined under section 45Z(a). See 2022 Amendment note below.
 
 ### Editorial Notes
 

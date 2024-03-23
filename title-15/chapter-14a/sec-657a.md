@@ -165,7 +165,7 @@ section: 657a
 
 ### References in Text
 
-Section 636(m)(11) of this title, referred to in subsec. (a), no longer defines the term “economically distressed areas”. See 1994 Amendment note for subsec. (m)(11)(D) under section 636 of this title.
+Section 636(m)(11) of this title, referred to in subsec. (a), no longer defines the term “economically distressed areas”. See 1994 Amendment note for subsec. (m)(11)(D) under section 636 of this title. The Community Economic Development Act of 1981, referred to in subsec. (b)(2)(E)(i), is subchapter A (§§ 611–633) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 489. Part 1 of subchapter A of the Act is classified generally to part A (§ 9805 et seq.) of subchapter I of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables. The Puerto Rico Oversight, Management, and Economic Stability Act, referred to in subsec. (b)(3)(A)(ii)(II), is Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to chapter 20 (§ 2101 et seq.) of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 48 and Tables.
 
 ### Codification
 

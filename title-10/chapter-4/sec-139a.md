@@ -47,7 +47,7 @@ section: 139a
     - **(C)** a review of defense program projections completed in the fiscal year preceding submission of the report and a description of such projections planned for the fiscal year that begins after submission of the report.
   - **(2)** *Form.—* Each report required by paragraph (1) shall be submitted in classified form, but shall include an unclassified summary.
   - **(3)** *Briefings.—* Not later than 15 days after the submission of each report required by paragraph (1), the Director of Cost Assessment and Program Evaluation shall provide to the congressional defense committees a briefing on the contents of the report.
-- **(h)** *Quarterly Briefings.—* Beginning not later than 30 days after the date of the enactment of this subsection, and on a quarterly basis thereafter, the Director of Cost Assessment and Program Evaluation shall provide to the congressional defense committees a briefing on the activities carried out by Director during the preceding quarter an 22 So in original. any ongoing activities of the Director as of the date of briefing.
+- **(h)** *Quarterly Briefings.—* Beginning not later than 30 days after the date of the enactment of this subsection, and on a quarterly basis thereafter, the Director of Cost Assessment and Program Evaluation shall provide to the congressional defense committees a briefing on the activities carried out by Director 22 So in original. Probably should be preceded by “the”. during the preceding quarter an 33 So in original. any ongoing activities of the Director as of the date of briefing.
 
 ## Source credit
 
@@ -57,7 +57,9 @@ section: 139a
 
 1 See References in Text note below.
 
-2 So in original.
+2 So in original. Probably should be preceded by “the”.
+
+3 So in original.
 
 ### Editorial Notes
 

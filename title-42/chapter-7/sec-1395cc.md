@@ -220,10 +220,6 @@ section: 1395cc
 
 6 So in original. Probably should be a comma.
 
-### Applicability of Amendment
-
-Amendment of section by section 4124(b)(4)(B) of Pub. L. 117–328 applicable with respect to items and services furnished on or after Jan. 1, 2024. See 2022 Amendment note below.
-
 ### Editorial Notes
 
 ### References in Text

@@ -43,7 +43,8 @@ section: 25E
   - **(4)** *Motor vehicle; capacity* The terms “motor vehicle” and “capacity” have the meaning given such terms in paragraphs (2) and (4) of section 30D(d), respectively.
 - **(d)** *VIN number requirement* No credit shall be allowed under subsection (a) with respect to any vehicle unless the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year.
 - **(e)** *Application of certain rules* For purposes of this section, rules similar to the rules of section 30D(f) (without regard to paragraph (10) or (11) thereof) shall apply for purposes of this section.
-- **(f)** *Termination* No credit shall be allowed under this section with respect to any vehicle acquired after December 31, 2032.
+- **(f)** *Transfer of credit* Rules similar to the rules of section 30D(g) shall apply.
+- **(g)** *Termination* No credit shall be allowed under this section with respect to any vehicle acquired after December 31, 2032.
 
 ## Source credit
 
@@ -51,11 +52,11 @@ section: 25E
 
 ## Notes
 
-### Amendment of Section
-
-Pub. L. 117–169, title I, § 13402(b), (e)(2), Aug. 16, 2022, 136 Stat. 1963, 1964, provided that, applicable to vehicles acquired after Dec. 31, 2023, this section is amended by redesignating subsection (f) as subsection (g) and adding the following new subsection (f): (f) Transfer of credit Rules similar to the rules of section 30D(g) shall apply. See 2022 Amendment note below.
-
 ### Editorial Notes
+
+### References in Text
+
+The date of the enactment of this section, referred to in subsec. (c)(2)(C), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
 
 ### Amendments
 
