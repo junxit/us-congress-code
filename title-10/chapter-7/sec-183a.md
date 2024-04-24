@@ -69,7 +69,7 @@ section: 183a
     - **(B)** does not include—
       - **(i)** any structure constructed before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, including any such structure which is upgraded, repaired, or otherwise modified after such date of enactment as long as such upgrade, repair, or modification has not increased the height of such structure; or
       - **(ii)** any project in support of or required by an intercontinental ballistic missile launch facility or control center, or any other such project that has been approved by the Secretary of Defense or the Secretary of Defense’s designee for use on the same military installation at which such facility or control center is located.
-  - **(3)** The term “intercontinental ballistic missile launch facility or control center” means such facilities or control centers located at the Francis E. Warren Air Force Base; the Malmstrom Air Force Base, and the Minot Air Force Base, and their respective missile fields.
+  - **(3)** The term “intercontinental ballistic missile launch facility or control center” means such facilities or control centers located at the Francis E. Warren Air Force Base; 11 So in original. The semicolon probably should be a comma. the Malmstrom Air Force Base, and the Minot Air Force Base, and their respective missile fields.
   - **(4)** The term “energy project” means a project that provides for the generation or transmission of electrical energy.
   - **(5)** The term “governor”, with respect to a State, means the chief executive officer of the State.
   - **(6)** The term “landowner” means a person that owns a fee interest in real property on which a proposed energy project or antenna structure project is planned to be located.
@@ -87,6 +87,8 @@ section: 183a
 (Added Pub. L. 115–91, div. A, title III, § 311(a), Dec. 12, 2017, 131 Stat. 1343; amended Pub. L. 116–92, div. A, title III, §§ 311, 312, 371, Dec. 20, 2019, 133 Stat. 1303, 1329; Pub. L. 116–283, div. A, title III, § 311, Jan. 1, 2021, 134 Stat. 3513; Pub. L. 117–81, div. A, title III, § 371(b), Dec. 27, 2021, 135 Stat. 1663; Pub. L. 118–31, div. A, title III, §§ 361, 362, Dec. 22, 2023, 137 Stat. 231.)
 
 ## Notes
+
+1 So in original. The semicolon probably should be a comma.
 
 ### Editorial Notes
 
