@@ -69,7 +69,7 @@ section: 30D
 - **(f)** *Special rules*
   - **(1)** *Basis reduction* For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (c)).
   - **(2)** *No double benefit* The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle (determined without regard to subsection (c)).
-  - **(3)** *Repealed. Pub. L. 117–169, title I, § 13401(g)(2)(B)(i), Aug. 16, 2022, 136 Stat. 1960*
+  - **(3)** *Repealed. Pub. L. 117–169, title I, § 13401(g)(2)(B)(i), Aug. 16, 2022, 136 Stat. 1960]*
   - **(4)** *Property used outside United States not qualified* No credit shall be allowable under subsection (a) with respect to any property referred to in section 50(b)(1).
   - **(5)** *Recapture* The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit.
   - **(6)** *Election not to take credit* No credit shall be allowed under subsection (a) for any vehicle if the taxpayer elects to not have this section apply to such vehicle.
