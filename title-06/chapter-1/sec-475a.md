@@ -52,7 +52,7 @@ section: 475a
 
 ## Source credit
 
-(Pub. L. 107–296, title VIII, § 890D, as added Pub. L. 117–263, div. G, title LXXI, § 7115(a), Dec. 23, 2022, 136 Stat. 3633.)
+(Pub. L. 107–296, title VIII, § 890D, as added Pub. L. 117–263, div. G, title LXXI, § 7115(a), Dec. 23, 2022, 136 Stat. 3634.)
 
 ## Notes
 

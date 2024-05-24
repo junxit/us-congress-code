@@ -28,7 +28,7 @@ Based on title 13, U.S.C., 1952 ed., §§ 111, 122, 203, 252, and section 1442 o
 
 ### References in Text
 
-Title VII of the Classification Act of 1949, as amended, referred to in subsec. (a), is title VII of act Oct. 28, 1949, ch. 872, 63 Stat. 967, as amended, which was classified to sections 1121 to 1123 of former Title 5, Executive Departments and Government Officers and Employees, and was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as sections 5335 and 5336 of Title 5, Government Organization and Employees. Section 4 of the Travel Expense Act of 1949, as amended (5 U.S.C. 837), referred to in subsec. (d), was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as section 5704 of Title 5.
+Title VII of the Classification Act of 1949, as amended, referred to in subsec. (a), is title VII of act Oct. 28, 1949, ch. 872, 63 Stat. 967, which was classified to sections 1121 to 1123 of former Title 5, Executive Departments and Government Officers and Employees, and was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as sections 5335 and 5336 of Title 5, Government Organization and Employees. Section 4 of the Travel Expense Act of 1949, as amended (5 U.S.C. 837), referred to in subsec. (d), was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as section 5704 of Title 5.
 
 ### Amendments
 

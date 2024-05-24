@@ -145,4 +145,4 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 
 ### Effective Date
 
-Pub. L. 117–169, title I, § 13702(c), Aug. 16, 2022, 136 Stat. 1997, provided that: “The amendments made by this section [enacting this section and amending sections 46, 49 and 50 of this title] shall apply to property placed in service after December 31, 2024.”
+Pub. L. 117–169, title I, § 13702(c), Aug. 16, 2022, 136 Stat. 1997, provided that: “The amendments made by this section [enacting this section and amending sections 46, 49, and 50 of this title] shall apply to property placed in service after December 31, 2024.”

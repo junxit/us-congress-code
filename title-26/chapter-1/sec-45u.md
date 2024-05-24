@@ -45,7 +45,7 @@ section: 45U
 
 ## Source credit
 
-(Added and amended Pub. L. 117–169, title I, §§ 13105, 13204(b)(2), Aug. 16, 2022, 136 Stat. 1929, 1940.)
+(Added and amended Pub. L. 117–169, title I, §§ 13105(a), 13204(b)(2), Aug. 16, 2022, 136 Stat. 1929, 1940.)
 
 ## Notes
 
