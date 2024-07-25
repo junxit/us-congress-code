@@ -5,64 +5,43 @@ chapter: 28
 section: 1087pp
 ---
 
-# § 1087pp. Family contribution for independent students without dependents other than a spouse
+# § 1087pp. Student aid index for independent students without dependents other than a spouse
 
-- **(a)** *Computation of expected family contribution* For each independent student without dependents other than a spouse, the expected family contribution is determined by—
-  - **(1)** adding—
-    - **(A)** the family’s contribution from available income (determined in accordance with subsection (b)); and
-    - **(B)** the family’s contribution from assets (determined in accordance with subsection (c));
-  - **(2)** dividing the sum resulting under paragraph (1) by the number of students who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter is requested; and
-  - **(3)** for periods of enrollment of less than 9 months, for purposes other than subpart 2 of part A—
-    - **(A)** dividing the quotient resulting under paragraph (2) by 9; and
-    - **(B)** multiplying the result by the number of months in the period of enrollment;
-- **(b)** *Family’s contribution from available income*
-  - **(1)** *In general* The family’s contribution from income is determined by—
+- **(a)** *Computation of student aid index*
+  - **(1)** *In general* For each independent student without dependents other than a spouse, the student aid index is equal to (except as provided in paragraph (2)) the sum of—
+    - **(A)** the family’s available income (determined in accordance with subsection (b)); and
+    - **(B)** the family’s available assets (determined in accordance with subsection (c)).
+  - **(2)** *Exception* If the sum determined under paragraph (1) with respect to an independent student without dependents other than a spouse is less than − $1,500, the student aid index for the independent student shall be − $1,500.
+- **(b)** *Family’s available income*
+  - **(1)** *In general* The family’s available income is determined by—
     - **(A)** deducting from total income (as defined in section 1087vv of this title)—
       - **(i)** Federal income taxes;
-      - **(ii)** an allowance for State and other taxes, determined in accordance with paragraph (2);
-      - **(iii)** an allowance for social security taxes, determined in accordance with paragraph (3);
-      - **(iv)** an income protection allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—
-        - **(I)** for single or separated students, or married students where both are enrolled pursuant to subsection (a)(2)—
-          - **(aa)** for academic year 2009–2010, $7,000;
-          - **(bb)** for academic year 2010–2011, $7,780;
-          - **(cc)** for academic year 2011–2012, $8,550; and
-          - **(dd)** for academic year 2012–2013, $9,330; and
-        - **(II)** for married students where 1 is enrolled pursuant to subsection (a)(2)—
-          - **(aa)** for academic year 2009–2010, $11,220;
-          - **(bb)** for academic year 2010–2011, $12,460;
-          - **(cc)** for academic year 2011–2012, $13,710; and
-          - **(dd)** for academic year 2012–2013, $14,960;
-      - **(v)** in the case where a spouse is present, an employment expense allowance, as determined in accordance with paragraph (4); and
-      - **(vi)** the amount of any tax credit taken under section 25A of title 26; and
-    - **(B)** assessing such available income in accordance with paragraph (5).
-  - **(2)** *Allowance for State and other taxes* The allowance for State and other taxes is equal to an amount determined by multiplying total income (as defined in section 1087vv of this title) by a percentage determined according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title): Percentages for Computation of State and Other Tax Allowance If the students’ State or territory ofresidence is—The percentage is— Alaska, American Samoa, Florida, Guam, Nevada, South Dakota, Tennessee, Texas, Trust Territory, Virgin Islands, Washington, Wyoming0 Connecticut, Louisiana, Puerto Rico1 Arizona, New Hampshire, New Mexico, North Dakota2 Alabama, Colorado, Illinois, Indiana, Kansas, Mississippi, Missouri, Montana, Nebraska, New Jersey, Oklahoma3 Arkansas, Georgia, Iowa, Kentucky, Maine, Pennsylvania, Utah, Vermont, Virginia, West Virginia, Canada, Mexico4 California, Idaho, Massachusetts, North Carolina, Ohio, Rhode Island, South Carolina5 Hawaii, Maryland, Michigan, Wisconsin6 Delaware, District of Columbia, Minnesota, Oregon7 New York8 Other4
-  - **(3)** *Allowance for social security taxes* The allowance for social security taxes is equal to the amount earned by the student (and spouse, if appropriate), multiplied by the social security withholding rate appropriate to the tax year preceding the award year, up to the maximum statutory social security tax withholding amount for that same tax year.
-  - **(4)** *Employment expenses allowance* The employment expense allowance is determined as follows (or using a successor provision prescribed by the Secretary under section 1087rr of this title):
-    - **(A)** If the student is married and the student’s spouse is employed in the year for which income is reported, such allowance is equal to the lesser of $2,500 or 35 percent of the earned income of the student or spouse with the lesser earned income.
-    - **(B)** If a student is not married, the employment expense allowance is zero.
-  - **(5)** *Assessment of available income* The family’s available income (determined in accordance with paragraph (1)(A) of this subsection) is assessed at 50 percent.
-- **(c)** *Family contribution from assets*
-  - **(1)** *In general* The family’s contribution from assets is equal to—
-    - **(A)** the family’s net worth (determined in accordance with paragraph (2)); minus
-    - **(B)** the asset protection allowance (determined in accordance with paragraph (3)); multiplied by
-    - **(C)** the asset conversion rate (determined in accordance with paragraph (4));
-  - **(2)** *Family’s net worth* The family’s net worth is calculated by adding—
-    - **(A)** the current balance of checking and savings accounts and cash on hand;
-    - **(B)** the net value of investments and real estate, excluding the net value in the principal place of residence; and
-    - **(C)** the adjusted net worth of a business or farm, computed on the basis of the net worth of such business or farm (hereafter referred to as “NW”), determined in accordance with the following table (or a successor table prescribed by the Secretary under section 1087rr of this title), except as provided under section 1087vv(f) of this title: Adjusted Net Worth of a Business or Farm If the net worth of a business or farm is—Then the adjusted net worth is— Less than $1$0 $1–$75,00040 percent of NW $75,001–$225,000$30,000 plus 50 percent of NW over $75,000 $225,001–$375,000$105,000 plus 60 percent of NW over $225,000 $375,001 or more$195,000 plus 100 percent of NW over $375,000
-  - **(3)** *Asset protection allowance* The asset protection allowance is calculated according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title): Asset Protection Allowances for Families and Students If the age of the student is—And the student is marriedsingle then the allowance is— 25 or less $ 0 $0 26 2,200 1,600 27 4,300 3,200 28 6,500 4,700 29 8,600 6,300 3010,800 7,900 3113,000 9,500 3215,10011,100 3317,30012,600 3419,40014,200 3521,60015,800 3623,80017,400 3725,90019,000 3828,10020,500 3930,20022,100 4032,40023,700 4133,30024,100 4234,10024,700 4335,00025,200 4435,70025,800 4536,60026,300 4637,60026,900 4738,80027,600 4839,80028,200 4940,80028,800 5041,80029,500 5143,20030,200 5244,30031,100 5345,70031,800 5447,10032,600 5548,30033,400 5649,80034,400 5751,30035,200 5852,90036,200 5954,80037,200 6056,50038,100 6158,50039,200 6260,30040,300 6362,40041,500 6464,60042,800 65 or more66,80044,000
-  - **(4)** *Asset conversion rate* The asset conversion rate is 20 percent.
-- **(d)** *Computations in case of separation, divorce, or death* In the case of a student who is divorced or separated, or whose spouse has died, the spouse’s income and assets shall not be considered in determining the family’s contribution from income or assets.
+      - **(ii)** an allowance for payroll taxes, determined in accordance with paragraph (2);
+      - **(iii)** an income protection allowance that is equal to—
+        - **(I)** in the case of a single independent student without dependents, $14,630, as adjusted pursuant to section 1078rr(b) of this title; and
+        - **(II)** in the case of a married independent student without dependents, $23,460, as adjusted pursuant to section 1078rr(b) of this title; and
+      - **(iv)** in the case of a married independent student, an employment expense allowance, as determined in accordance with paragraph (3); and
+    - **(B)** multiplying the amount determined under subparagraph (A) by 50 percent.
+  - **(2)** *Allowance for payroll taxes* The allowance for payroll taxes is equal to the sum of—
+    - **(A)** the total amount earned by the student (and spouse, if appropriate), multiplied by the rate of tax under section 3101(b) of title 26; and
+    - **(B)** the amount earned by the student (and spouse, if appropriate) that does not exceed such contribution and benefit base (twice such contribution and benefit base, in the case of a joint return) for the year of the earnings, multiplied by the rate of tax applicable to such earnings under section 3101(a) of title 26.
+  - **(3)** *Employment expense allowance* The employment expense allowance is equal to the following:
+    - **(A)** If the student is married, such allowance is equal to the lesser of $4,000 or 35 percent of the couple’s combined earned income (as adjusted by the Secretary pursuant to section 1087rr(g) of this title).
+    - **(B)** If the student is not married, the employment expense allowance is zero.
+- **(c)** *Family’s available assets*
+  - **(1)** *In general*
+    - **(A)** *Determination* Except as provided in subparagraph (B), the family’s available assets are equal to—
+      - **(i)** the difference between the family’s assets (as defined in section 1087vv(f) of this title) and the asset protection allowance (determined in accordance with paragraph (2)); multiplied by
+      - **(ii)** 20 percent.
+    - **(B)** *Not less than zero* The family’s available assets under this subsection shall not be less than zero.
+  - **(2)** *Asset protection allowance* The asset protection allowance is calculated based on the following table (as revised by the Secretary pursuant to section 1087rr(d) of this title): Asset Protection Allowances for Families and Students If the age of the student is—And the student is marriedsingle then the allowance is— 25 or less $ 0 $0 26 $400 $100 27 $700 $300 28 $1,100 $400 29 $1,500 $600 30 $1,800 $700 31 $2,200 $800 32 $2,600 $1,000 33 $2,900 $1,100 34 $3,300 $1,300 35 $3,700 $1,400 36 $4,000 $1,500 37 $4,400 $1,700 38 $4,800 $1,800 39 $5,100 $2,000 40 $5,500 $2,100 41 $5,600 $2,200 42 $5,700 $2,200 43 $5,900 $2,300 44 $6,000 $2,300 45 $6,200 $2,400 46 $6,300 $2,400 47 $6,500 $2,500 48 $6,600 $2,500 49 $6,800 $2,600 50 $7,000 $2,700 51 $7,100 $2,700 52 $7,300 $2,800 53 $7,500 $2,900 54 $7,700 $2,900 55 $7,900 $3,000 56 $8,100 $3,100 57 $8,400 $3,100 58 $8,600 $3,200 59 $8,800 $3,300 60 $9,100 $3,400 61 $9,300 $3,500 62 $9,600 $3,600 63 $9,900 $3,700 64$10,200 $3,800 65 or more$10,500 $3,900.
+- **(d)** *Computations in case of separation, divorce, or death* In the case of a student who is divorced or separated, or whose spouse has died, the spouse’s income and assets shall not be considered in determining the family’s available income or assets.
 
 ## Source credit
 
 (Pub. L. 89–329, title IV, § 476, as added Pub. L. 99–498, title IV, § 406(a), Oct. 17, 1986, 100 Stat. 1463; amended Pub. L. 100–50, § 14(1), (3), (4), (13)–(17), June 3, 1987, 101 Stat. 349, 351; Pub. L. 102–325, title IV, § 471(a), July 23, 1992, 106 Stat. 594; Pub. L. 103–208, § 2(g)(6), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, § 609(h), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, § 474, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, § 8017(b)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, § 601(b), Sept. 27, 2007, 121 Stat. 801; Pub. L. 116–260, div. FF, title VII, § 702(e), Dec. 27, 2020, 134 Stat. 3145.)
 
 ## Notes
-
-### Amendment of Section
-
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(e), Dec. 27, 2020, 134 Stat. 3137, 3145; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows: § 1087pp. Student aid index for independent students without dependents other than a spouse (a) Computation of student aid index (1) In general For each independent student without dependents other than a spouse, the student aid index is equal to (except as provided in paragraph (2)) the sum of— (A) the family’s available income (determined in accordance with subsection (b)); and (B) the family’s available assets (determined in accordance with subsection (c)). (2) Exception If the sum determined under paragraph (1) with respect to an independent student without dependents other than a spouse is less than − $1,500, the student aid index for the independent student shall be − $1,500. (b) Family’s available income (1) In general The family’s available income is determined by— (A) deducting from total income (as defined in section 1087vv of this title)— (i) Federal income taxes; (ii) an allowance for payroll taxes, determined in accordance with paragraph (2); (iii) an income protection allowance that is equal to— (I) in the case of a single independent student without dependents, $14,630, as adjusted pursuant to section 1078rr(b) of this title; and (II) in the case of a married independent student without dependents, $23,460, as adjusted pursuant to section 1078rr(b) of this title; and (iv) in the case of a married independent student, an employment expense allowance, as determined in accordance with paragraph (3); and (B) multiplying the amount determined under subparagraph (A) by 50 percent. (2) Allowance for payroll taxes The allowance for payroll taxes is equal to the sum of— (A) the total amount earned by the student (and spouse, if appropriate), multiplied by the rate of tax under section 3101(b) of title 26; and (B) the amount earned by the student (and spouse, if appropriate) that does not exceed such contribution and benefit base (twice such contribution and benefit base, in the case of a joint return) for the year of the earnings, multiplied by the rate of tax applicable to such earnings under section 3101(a) of title 26. (3) Employment expense allowance The employment expense allowance is equal to the following: (A) If the student is married, such allowance is equal to the lesser of $4,000 or 35 percent of the couple’s combined earned income (as adjusted by the Secretary pursuant to section 1087rr(g) of this title). (B) If the student is not married, the employment expense allowance is zero. (c) Family’s available assets (1) In general (A) Determination Except as provided in subparagraph (B), the family’s available assets are equal to— (i) the difference between the family’s assets (as defined in section 1087vv(f) of this title) and the asset protection allowance (determined in accordance with paragraph (2)); multiplied by (ii) 20 percent. (B) Not less than zero The family’s available assets under this subsection shall not be less than zero. (2) Asset protection allowance The asset protection allowance is calculated based on the following table (as revised by the Secretary pursuant to section 1087rr(d) of this title): Asset Protection Allowances for Families and Students If the age of the student is—And the student is marriedsingle then the allowance is— 25 or less $ 0 $0 26 $400 $100 27 $700 $300 28 $1,100 $400 29 $1,500 $600 30 $1,800 $700 31 $2,200 $800 32 $2,600 $1,000 33 $2,900 $1,100 34 $3,300 $1,300 35 $3,700 $1,400 36 $4,000 $1,500 37 $4,400 $1,700 38 $4,800 $1,800 39 $5,100 $2,000 40 $5,500 $2,100 41 $5,600 $2,200 42 $5,700 $2,200 43 $5,900 $2,300 44 $6,000 $2,300 45 $6,200 $2,400 46 $6,300 $2,400 47 $6,500 $2,500 48 $6,600 $2,500 49 $6,800 $2,600 50 $7,000 $2,700 51 $7,100 $2,700 52 $7,300 $2,800 53 $7,500 $2,900 54 $7,700 $2,900 55 $7,900 $3,000 56 $8,100 $3,100 57 $8,400 $3,100 58 $8,600 $3,200 59 $8,800 $3,300 60 $9,100 $3,400 61 $9,300 $3,500 62 $9,600 $3,600 63 $9,900 $3,700 64$10,200 $3,800 65 or more$10,500 $3,900. (d) Computations in case of separation, divorce, or death In the case of a student who is divorced or separated, or whose spouse has died, the spouse’s income and assets shall not be considered in determining the family’s available income or assets. See 2020 Amendment note below.
 
 ### Editorial Notes
 
