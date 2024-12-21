@@ -55,7 +55,7 @@ section: 124n
   - **(3)** vest in the Secretary of Homeland Security any authority of the Attorney General;
   - **(4)** vest in the Attorney General any authority of the Secretary of Homeland Security; or
   - **(5)** provide a new basis of liability for any State, local, territorial, or tribal law enforcement officers who participate in the protection of a mass gathering identified by the Secretary or Attorney General under subsection (k)(3)(C)(iii)(II), act within the scope of their authority, and do not exercise the authority granted to the Secretary and Attorney General by this section.
-- **(i)** *Termination* The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on December 20, 2024.
+- **(i)** *Termination* The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on March 14, 2025.
 - **(j)** *Scope of authority* Nothing in this section shall be construed to provide the Secretary or the Attorney General with additional authorities beyond those described in subsections (a) and (k)(3)(C)(iii).
 - **(k)** *Definitions* In this section:
   - **(1)** The term “appropriate congressional committees” means—
@@ -104,7 +104,7 @@ section: 124n
 
 ## Source credit
 
-(Pub. L. 107–296, title II, § 210G, as added Pub. L. 115–254, div. H, § 1602(a), Oct. 5, 2018, 132 Stat. 3522; amended Pub. L. 118–15, div. B, title II, § 2221, Sept. 30, 2023, 137 Stat. 86; Pub. L. 118–22, div. B, title III, § 601, Nov. 17, 2023, 137 Stat. 123; Pub. L. 118–35, div. B, title III, § 301, Jan. 19, 2024, 138 Stat. 7; Pub. L. 118–41, title III, § 301, Mar. 8, 2024, 138 Stat. 24; Pub. L. 118–63, title XI, § 1112, May 16, 2024, 138 Stat. 1419; Pub. L. 118–83, div. B, title I, § 101, Sept. 26, 2024, 138 Stat. 1534.)
+(Pub. L. 107–296, title II, § 210G, as added Pub. L. 115–254, div. H, § 1602(a), Oct. 5, 2018, 132 Stat. 3522; amended Pub. L. 118–15, div. B, title II, § 2221, Sept. 30, 2023, 137 Stat. 86; Pub. L. 118–22, div. B, title III, § 601, Nov. 17, 2023, 137 Stat. 123; Pub. L. 118–35, div. B, title III, § 301, Jan. 19, 2024, 138 Stat. 7; Pub. L. 118–41, title III, § 301, Mar. 8, 2024, 138 Stat. 24; Pub. L. 118–63, title XI, § 1112, May 16, 2024, 138 Stat. 1419; Pub. L. 118–83, div. B, title I, § 101, Sept. 26, 2024, 138 Stat. 1534; Pub. L. 118–158, div. E, § 5102, Dec. 21, 2024, 138 Stat. 1771.)
 
 ## Notes
 
@@ -130,7 +130,7 @@ The Presidential Protection Assistance Act of 1976, referred to in subsec. (k)(3
 
 ### Amendments
 
-2024—Subsec. (i). Pub. L. 118–83 substituted “December 20, 2024” for “October 1, 2024”. Pub. L. 118–63 substituted “October 1, 2024” for “May 11, 2024”. Pub. L. 118–41 substituted “May 11, 2024” for “March 9, 2024”. Pub. L. 118–35 substituted “March 9, 2024” for “February 3, 2024”. 2023—Subsec. (i). Pub. L. 118–22 substituted “February 3, 2024” for “November 18, 2023”. Pub. L. 118–15 substituted “on November 18, 2023” for “on the date that is 4 years after October 5, 2018”.
+2024—Subsec. (i). Pub. L. 118–158 substituted “March 14, 2025” for “December 20, 2024”. Pub. L. 118–83 substituted “December 20, 2024” for “October 1, 2024”. Pub. L. 118–63 substituted “October 1, 2024” for “May 11, 2024”. Pub. L. 118–41 substituted “May 11, 2024” for “March 9, 2024”. Pub. L. 118–35 substituted “March 9, 2024” for “February 3, 2024”. 2023—Subsec. (i). Pub. L. 118–22 substituted “February 3, 2024” for “November 18, 2023”. Pub. L. 118–15 substituted “on November 18, 2023” for “on the date that is 4 years after October 5, 2018”.
 
 ### Statutory Notes and Related Subsidiaries
 

@@ -36,7 +36,7 @@ section: 247d–7f
   - **(6)** *Authority to obtain information* Consideration by the Attorney General for granting or renewing an exemption submitted under this section shall be considered an antitrust investigation for purposes of the Antitrust Civil Process Act (15 U.S.C. 1311 et seq.).
   - **(7)** *Limitation on parties* The use of any information acquired under an agreement for which an exemption has been granted under paragraph (4), for any purpose other than specified in the exemption, shall be subject to the antitrust laws and any other applicable laws.
   - **(8)** *Report* Not later than one year after the date of enactment of this Act 11 See References in Text note below. and biannually thereafter, the Attorney General and the Chairman shall report to Congress on the use of the exemption from the antitrust laws provided by this subsection.
-- **(b)** *Sunset* The applicability of this section shall expire after December 31, 2024.
+- **(b)** *Sunset* The applicability of this section shall expire after March 31, 2025.
 - **(c)** *Definitions* In this section:
   - **(1)** *Antitrust laws* The term “antitrust laws”—
     - **(A)** has the meaning given such term in subsection (a) of section 12 of title 15, except that such term includes section 45 of title 15 to the extent such section 45 of title 15 applies to unfair methods of competition; and
@@ -59,7 +59,7 @@ section: 247d–7f
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title III, § 319L–1, formerly Pub. L. 109–417, title IV, § 405, Dec. 19, 2006, 120 Stat. 2875, as amended Pub. L. 113–5, § 402(e)(1), Mar. 13, 2013, 127 Stat. 195; renumbered § 319L–1 of act July 1, 1944, and amended Pub. L. 116–22, title VII, § 701(e)(1), June 24, 2019, 133 Stat. 961; Pub. L. 118–22, div. B, title II, § 203(c), Nov. 17, 2023, 137 Stat. 120; Pub. L. 118–35, div. B, title I, § 103(c), Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, § 103(c), Mar. 9, 2024, 138 Stat. 398.)
+(July 1, 1944, ch. 373, title III, § 319L–1, formerly Pub. L. 109–417, title IV, § 405, Dec. 19, 2006, 120 Stat. 2875, as amended Pub. L. 113–5, § 402(e)(1), Mar. 13, 2013, 127 Stat. 195; renumbered § 319L–1 of act July 1, 1944, and amended Pub. L. 116–22, title VII, § 701(e)(1), June 24, 2019, 133 Stat. 961; Pub. L. 118–22, div. B, title II, § 203(c), Nov. 17, 2023, 137 Stat. 120; Pub. L. 118–35, div. B, title I, § 103(c), Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, § 103(c), Mar. 9, 2024, 138 Stat. 398; Pub. L. 118–158, div. C, title I, § 3103(c), Dec. 21, 2024, 138 Stat. 1763.)
 
 ## Notes
 
@@ -81,7 +81,7 @@ A prior section 247d–7f, act July 1, 1944, ch. 373, title III, § 319M, as add
 
 ### Amendments
 
-2024—Subsec. (b). Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”. Pub. L. 118–35 substituted “March 8, 2024” for “January 19, 2024”. 2023—Subsec. (b). Pub. L. 118–22 substituted “after January 19, 2024” for “at the end of the 17-year period that begins on the date of enactment of this Act”. 2019—Subsec. (a)(1)(A). Pub. L. 116–22, § 701(e)(1)(A), substituted “The Secretary, in coordination” for “The Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’), in coordination” and made technical amendments to references in original act which appear in text as references to sections 247d–6b, 247d–6a, and 247d–6d of this title. Subsec. (b). Pub. L. 116–22, § 701(e)(1)(B), substituted “17-year” for “12-year”. 2013—Subsec. (b). Pub. L. 113–5 substituted “12-year” for “6-year”.
+2024—Subsec. (b). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”. Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”. Pub. L. 118–35 substituted “March 8, 2024” for “January 19, 2024”. 2023—Subsec. (b). Pub. L. 118–22 substituted “after January 19, 2024” for “at the end of the 17-year period that begins on the date of enactment of this Act”. 2019—Subsec. (a)(1)(A). Pub. L. 116–22, § 701(e)(1)(A), substituted “The Secretary, in coordination” for “The Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’), in coordination” and made technical amendments to references in original act which appear in text as references to sections 247d–6b, 247d–6a, and 247d–6d of this title. Subsec. (b). Pub. L. 116–22, § 701(e)(1)(B), substituted “17-year” for “12-year”. 2013—Subsec. (b). Pub. L. 113–5 substituted “12-year” for “6-year”.
 
 ### Statutory Notes and Related Subsidiaries
 
