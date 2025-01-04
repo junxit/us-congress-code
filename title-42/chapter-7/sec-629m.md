@@ -27,6 +27,10 @@ section: 629m
 
 1 So in original.
 
+### Renumbering of Section
+
+Pub. L. 118–258, title I, §§ 106(f)(1), 117, Jan. 4, 2025, 138 Stat. 2952, 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, this section is renumbered section 443 of act Aug. 14, 1935.
+
 ### Editorial Notes
 
 ### Prior Provisions

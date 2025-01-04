@@ -22,9 +22,13 @@ section: 629d
 
 ## Source credit
 
-(Aug. 14, 1935, ch. 531, title IV, § 434, as added Pub. L. 103–66, title XIII, § 13711(a)(2), Aug. 10, 1993, 107 Stat. 653; amended Pub. L. 107–133, title I, § 104, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§ 3(f)(1), 4(a)(3), 5(b)(3)(B), Sept. 28, 2006, 120 Stat. 1236, 1237, 1243.)
+(Aug. 14, 1935, ch. 531, title IV, § 434, as added Pub. L. 103–66, title XIII, § 13711(a)(2), Aug. 10, 1993, 107 Stat. 653; amended Pub. L. 107–133, title I, § 104, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§ 3(f)(1), 4(a)(3), 5(b)(3)(B), Sept. 28, 2006, 120 Stat. 1236, 1237, 1243; Pub. L. 118–258, title I, § 115(b)(2)(C), Jan. 4, 2025, 138 Stat. 2969.)
 
 ## Notes
+
+### Amendment of Subsection (a)(2)(A)
+
+Pub. L. 118–258, title I, §§ 115, 117, Jan. 4, 2025, 138 Stat. 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, subsection (a)(2)(A) of this section is amended by striking “629f(b)(4)(B)” and inserting “629f(b)(3)(B)”. See 2025 Amendment note below.
 
 ### Editorial Notes
 
@@ -34,9 +38,13 @@ A prior section 434 of act Aug. 14, 1935, was classified to section 634 of this 
 
 ### Amendments
 
-2006—Subsec. (a). Pub. L. 109–288, § 4(a)(3), substituted “the sum of—” for “the lesser of—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows: “(1) 75 percent of the total expenditures by the State for activities under the plan during the fiscal year or the immediately succeeding fiscal year; or “(2) the allotment of the State under section 629c of this title for the fiscal year.” Pub. L. 109–288, § 3(f)(1)(A), inserted “, subject to subsection (d),” after “shall” in introductory provisions. Subsec. (c). Pub. L. 109–288, § 5(b)(3)(B), in heading inserted “or tribal consortia” after “tribes” and in text inserted “or tribal consortium” after “to which an Indian tribe” and “or in the case of a payment to a tribal consortium, such tribal organizations of, or entity established by, the Indian tribes that are part of the consortium as the consortium shall designate” after “of the Indian tribe”. Subsec. (d). Pub. L. 109–288, § 3(f)(1)(B), added subsec. (d). 2002—Subsec. (a). Pub. L. 107–133, § 104(a), struck out par. (1) designation and heading after subsec. heading, substituted “Each State that has a plan approved under section 629b of this title shall be entitled to payment of the lesser of—” for “Except as provided in paragraph (2) of this subsection, each State which has a plan approved under this subpart shall be entitled to payment of the lesser of—”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and realigned their margins, and struck out former par. (2) which related to a special rule for fiscal year 1994. Subsec. (b)(1). Pub. L. 107–133, § 104(b)(1), struck out “paragraph (1) or (2)(B) of” after “amount paid under” and substituted “under the State plan under section 629b of this title” for “described in this subpart”. Subsec. (b)(2). Pub. L. 107–133, § 104(b)(2), substituted “subsection (a)” for “subsection (a)(1)”.
+2025—Subsec. (a)(2)(A). Pub. L. 118–258 substituted “629f(b)(3)(B) of this title” for “629f(b)(4)(B) of this title”. 2006—Subsec. (a). Pub. L. 109–288, § 4(a)(3), substituted “the sum of—” for “the lesser of—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows: “(1) 75 percent of the total expenditures by the State for activities under the plan during the fiscal year or the immediately succeeding fiscal year; or “(2) the allotment of the State under section 629c of this title for the fiscal year.” Pub. L. 109–288, § 3(f)(1)(A), inserted “, subject to subsection (d),” after “shall” in introductory provisions. Subsec. (c). Pub. L. 109–288, § 5(b)(3)(B), in heading inserted “or tribal consortia” after “tribes” and in text inserted “or tribal consortium” after “to which an Indian tribe” and “or in the case of a payment to a tribal consortium, such tribal organizations of, or entity established by, the Indian tribes that are part of the consortium as the consortium shall designate” after “of the Indian tribe”. Subsec. (d). Pub. L. 109–288, § 3(f)(1)(B), added subsec. (d). 2002—Subsec. (a). Pub. L. 107–133, § 104(a), struck out par. (1) designation and heading after subsec. heading, substituted “Each State that has a plan approved under section 629b of this title shall be entitled to payment of the lesser of—” for “Except as provided in paragraph (2) of this subsection, each State which has a plan approved under this subpart shall be entitled to payment of the lesser of—”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and realigned their margins, and struck out former par. (2) which related to a special rule for fiscal year 1994. Subsec. (b)(1). Pub. L. 107–133, § 104(b)(1), struck out “paragraph (1) or (2)(B) of” after “amount paid under” and substituted “under the State plan under section 629b of this title” for “described in this subpart”. Subsec. (b)(2). Pub. L. 107–133, § 104(b)(2), substituted “subsection (a)” for “subsection (a)(1)”.
 
 ### Statutory Notes and Related Subsidiaries
+
+### Effective Date of 2025 Amendment
+
+Amendment by Pub. L. 118–258 effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, see section 117 of Pub. L. 118–258, set out as a note under section 622 of this title.
 
 ### Effective Date of 2006 Amendment
 
