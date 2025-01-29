@@ -10,7 +10,7 @@ section: 492b
 - **(a)** *In General.—* On or about May 1 and November 1 of each year, the officials specified in subsection (b) shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on matters relating to nuclear weapons policies, operations, technology development, and other similar topics as requested by such committees.
 - **(b)** *Officials Specified.—* The officials specified in this subsection are the following:
   - **(1)** The Assistant Secretary of Defense for Acquisition.
-  - **(2)** The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs.
+  - **(2)** The Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs.
   - **(3)** The Assistant Secretary of Defense for Space Policy.
   - **(4)** The Deputy Administrator for Defense Programs of the National Nuclear Security Administration.
   - **(5)** The Director for Strategy, Plans, and Policy of the Joint Staff.
@@ -20,7 +20,7 @@ section: 492b
 
 ## Source credit
 
-(Added Pub. L. 117–263, div. A, title XVI, § 1631, Dec. 23, 2022, 136 Stat. 2934.)
+(Added Pub. L. 117–263, div. A, title XVI, § 1631, Dec. 23, 2022, 136 Stat. 2934; amended Pub. L. 118–159, div. A, title XVI, § 1621(d)(2), Dec. 23, 2024, 138 Stat. 2171.)
 
 ## Notes
 
@@ -29,3 +29,7 @@ section: 492b
 ### Codification
 
 As enacted by Pub. L. 117–263, “SEC.” preceding section designation and catchline text were editorially conformed to the style used in this title.
+
+### Amendments
+
+2024—Subsec. (b)(2). Pub. L. 118–159 substituted “Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs” for “Nuclear, Chemical, and Biological Defense Programs”.

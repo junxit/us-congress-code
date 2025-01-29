@@ -36,7 +36,7 @@ section: 391b
 - **(e)** *Additional Responsibilities of Head of Office of Primary Responsibility.—* In addition to providing policy, direction, and oversight as specified in subsection (a)(2), the head of the office of primary responsibility for the Program designated under such subsection shall be responsible—
   - **(1)** for overseeing and providing direction on any covered statutory requirement that is ongoing, recurrent (including on an annual basis), or unfulfilled, including by—
     - **(A)** reviewing any materials required to be submitted to Congress under the covered statutory requirement prior to such submission; and
-    - **(B)** ensuring such submissions occur by the applicable deadline under the covered statutory requirement: 11 So in original. The colon probably should be a semicolon. and
+    - **(B)** ensuring such submissions occur by the applicable deadline under the covered statutory requirement; and
   - **(2)** recording and monitoring the remediation of identified vulnerabilities in constituent systems, infrastructure, kill chains, and processes of the missions specified in subsection (d)(1).
 - **(f)** *Responsibilities of Program Manager.—* The program manager selected pursuant to subsection (c)(1) shall be responsible for the following:
   - **(1)** Conducting end-to-end vulnerability assessments of the constituent systems, infrastructure, kill chains, and processes of the missions specified in subsection (d)(1).
@@ -73,14 +73,16 @@ section: 391b
 
 ## Source credit
 
-(Added Pub. L. 118–31, div. A, title XV, § 1502(a)(1), Dec. 22, 2023, 137 Stat. 533.)
+(Added Pub. L. 118–31, div. A, title XV, § 1502(a)(1), Dec. 22, 2023, 137 Stat. 533; amended Pub. L. 118–159, div. A, title XVII, § 1701(a)(7), Dec. 23, 2024, 138 Stat. 2203.)
 
 ## Notes
-
-1 So in original. The colon probably should be a semicolon.
 
 ### Editorial Notes
 
 ### References in Text
 
 Section 1647 of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsecs. (b)(10), (f)(5)(A), (h)(1), and (j)(3)(A), is section 1647 of Pub. L. 114–92, which is set out as a note under section 2224 of this title. Section 1559 of the National Defense Authorization Act for Fiscal Year 2023, referred to in subsecs. (h)(4) and (j)(3)(D), is section 1559 of Pub. L. 117–263, which is set out as a note under section 2224 of this title.
+
+### Amendments
+
+2024—Subsec. (e)(1)(B). Pub. L. 118–159 substituted semicolon for colon after “requirement”.
