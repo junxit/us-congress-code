@@ -31,12 +31,12 @@ section: 300hh–10c
 - **(e)** *Meetings* The Advisory Committee shall meet not less frequently than biannually. At least one meeting per year shall be an in-person meeting.
 - **(f)** *Coordination* The Secretary shall coordinate duties and activities authorized under this section in accordance with section 300hh–10e of this title.
 - **(g)** *Sunset*
-  - **(1)** *In general* The Advisory Committee shall terminate on March 31, 2025.
+  - **(1)** *In general* The Advisory Committee shall terminate on September 30, 2025.
   - **(2)** *Extension of Committee* Not later than October 1, 2022, the Secretary shall submit to Congress a recommendation on whether the Advisory Committee should be extended.
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title XXVIII, § 2811B, as added Pub. L. 116–22, title III, § 305(b), June 24, 2019, 133 Stat. 938; amended Pub. L. 118–15, div. B, title III, § 2333(b), Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, § 203(d)(2), Nov. 17, 2023, 137 Stat. 121; Pub. L. 118–35, div. B, title I, § 103(d)(2), Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, § 103(d)(2), Mar. 9, 2024, 138 Stat. 398; Pub. L. 118–158, div. C, title I, § 3103(d)(2), Dec. 21, 2024, 138 Stat. 1764.)
+(July 1, 1944, ch. 373, title XXVIII, § 2811B, as added Pub. L. 116–22, title III, § 305(b), June 24, 2019, 133 Stat. 938; amended Pub. L. 118–15, div. B, title III, § 2333(b), Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, § 203(d)(2), Nov. 17, 2023, 137 Stat. 121; Pub. L. 118–35, div. B, title I, § 103(d)(2), Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, § 103(d)(2), Mar. 9, 2024, 138 Stat. 398; Pub. L. 118–158, div. C, title I, § 3103(d)(2), Dec. 21, 2024, 138 Stat. 1764; Pub. L. 119–4, div. B, title I, § 2103(d)(2), Mar. 15, 2025, 139 Stat. 41.)
 
 ## Notes
 
@@ -44,4 +44,4 @@ section: 300hh–10c
 
 ### Amendments
 
-2024—Subsec. (g)(1). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”. Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”. Pub. L. 118–35 substituted “March 8, 2024” for “January 19, 2024”. 2023—Subsec. (g)(1). Pub. L. 118–22 substituted “January 19, 2024” for “November 17, 2023”. Pub. L. 118–15 substituted “November 17, 2023” for “September 30, 2023”.
+2025—Subsec. (g)(1). Pub. L. 119–4 substituted “September 30, 2025” for “March 31, 2025”. 2024—Subsec. (g)(1). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”. Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”. Pub. L. 118–35 substituted “March 8, 2024” for “January 19, 2024”. 2023—Subsec. (g)(1). Pub. L. 118–22 substituted “January 19, 2024” for “November 17, 2023”. Pub. L. 118–15 substituted “November 17, 2023” for “September 30, 2023”.

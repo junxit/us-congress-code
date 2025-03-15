@@ -41,4 +41,4 @@ The Federal Trade Commission Act, referred to in subsec. (b)(1), is act Sept. 26
 
 ### Termination Date
 
-Section to terminate Dec. 20, 2024, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
+Section to terminate Mar. 14, 2025, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.

@@ -21,7 +21,7 @@ section: 628d
 
 ## Source credit
 
-(Pub. L. 118–258, title I, § 107(a)(2)(B), Jan. 4, 2025, 138 Stat. 2954.)
+(Aug. 14, 1935, ch. 531, title IV, § 429B, as added Pub. L. 118–258, title I, § 107(a)(2)(B), Jan. 4, 2025, 138 Stat. 2954.)
 
 ## Notes
 
