@@ -5,7 +5,7 @@ chapter: 21
 section: 430c
 ---
 
-# § 430c. Senior intelligence oversight official
+# § 430c. Senior intelligence oversight official 11 So in original. Appears in text capitalized as “Senior Intelligence Oversight Official”
 
 - **(a)** *Establishment.—* The Secretary of Defense, or a designee of the Secretary determined by regulations prescribed by the Secretary, shall designate a civilian employee of the Department of Defense in the Senior Executive Service to serve as the Senior Intelligence Oversight Official.
 - **(b)** *Responsibilities.—* The Senior Intelligence Oversight Official shall conduct independent oversight of all intelligence, counterintelligence, and intelligence-related activities of the Department of Defense and shall have such other related responsibilities as may be determined by the Secretary.
@@ -18,6 +18,8 @@ section: 430c
 (Added Pub. L. 118–159, div. A, title IX, § 921(a), Dec. 23, 2024, 138 Stat. 2036.)
 
 ## Notes
+
+1 So in original. Appears in text capitalized as “Senior Intelligence Oversight Official”.
 
 ### Statutory Notes and Related Subsidiaries
 
