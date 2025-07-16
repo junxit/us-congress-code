@@ -21,10 +21,6 @@ section: 364e
 
 ## Notes
 
-### Delayed Effective Date of Subsection (a)
-
-For delayed effective date of subsection (a) of this section, see Effective Date of 2022 Amendment note below.
-
 ### Statutory Notes and Related Subsidiaries
 
 ### Effective Date of 2022 Amendment

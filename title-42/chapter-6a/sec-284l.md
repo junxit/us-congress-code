@@ -41,7 +41,7 @@ section: 284l
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title IV, § 409H, formerly § 409D, as added Pub. L. 106–505, title II, § 204(b), Nov. 13, 2000, 114 Stat. 2327; renumbered § 409H, Pub. L. 107–109, § 3(2), Jan. 4, 2002, 115 Stat. 1408; Pub. L. 109–482, title I, § 103(b)(13), Jan. 15, 2007, 120 Stat. 3687.)
+(July 1, 1944, ch. 373, title IV, § 409H, formerly § 409D, as added Pub. L. 106–505, title II, § 204(b), Nov. 13, 2000, 114 Stat. 2327; renumbered § 409H, Pub. L. 107–109, § 3(2), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 109–482, title I, § 103(b)(13), Jan. 15, 2007, 120 Stat. 3687.)
 
 ## Notes
 
