@@ -58,7 +58,7 @@ section: 657b
 - **(h)** *Boots to Business Program*
   - **(1)** *Covered individual defined* In this subsection, the term “covered individual” means—
     - **(A)** an individual who is participating in the Transition Assistance Program established under section 1144 of title 10, subject to an availability determination by the Secretary of the military department concerned;
-    - **(B)** a servicemember in the National Guard or Reserves not on active duty.
+    - **(B)** a servicemember in the National Guard or Reserves not on active duty.11 So in original. The period probably should be a semicolon.
     - **(C)** an individual who—
       - **(i)** served on active duty in any branch of the Armed Forces, including the National Guard or Reserves; and
       - **(ii)** was discharged or released from such service under conditions other than dishonorable; or
@@ -113,6 +113,8 @@ section: 657b
 (Pub. L. 85–536, § 2[32], as added Pub. L. 106–50, title II, § 201(b)(2), Aug. 17, 1999, 113 Stat. 235; amended Pub. L. 108–447, div. K, title I, § 145, Dec. 8, 2004, 118 Stat. 3455; Pub. L. 110–186, title I, §§ 102, 104, Feb. 14, 2008, 122 Stat. 624, 625; Pub. L. 115–416, § 2, Jan. 3, 2019, 132 Stat. 5436; Pub. L. 118–159, div. A, title VIII, § 873(a), Dec. 23, 2024, 138 Stat. 2008.)
 
 ## Notes
+
+1 So in original. The period probably should be a semicolon.
 
 ### Editorial Notes
 

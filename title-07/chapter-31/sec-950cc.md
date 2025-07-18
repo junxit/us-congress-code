@@ -7,7 +7,7 @@ section: 950cc
 
 # § 950cc. Public notice, assessments, and reporting requirements
 
-- **(a)** *Notice requirements* The Secretary shall promptly make available to the public, 11 So in original. The comma probably should not appear. a fully searchable database on the website of the Rural Utilities Service that contains information on all retail broadband projects provided assistance or for which assistance is sought that are administered by the Secretary, including, at a minimum—
+- **(a)** *Notice requirements* The Secretary shall promptly make available to the public,11 So in original. The comma probably should not appear. a fully searchable database on the website of the Rural Utilities Service that contains information on all retail broadband projects provided assistance or for which assistance is sought that are administered by the Secretary, including, at a minimum—
   - **(1)** notice of each application for assistance describing the application, including—
     - **(A)** the identity of the applicant;
     - **(B)** a description of each application, including—
