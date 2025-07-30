@@ -9,12 +9,13 @@ section: 390d
 
 - **(a)** *In general* Subject to subsections (b), (c), and (d), there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996 through 2023 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter. Funds appropriated pursuant to the preceding sentence shall be available until expended.
 - **(b)** *Allowable administrative costs* Not more than 3 percent of the funds made available for any project for an agricultural research facility shall be available for administration of the project.
-- **(c)** *Maximum amount* Not more than 25 percent of the funds made available pursuant to subsection (a) for any fiscal year shall be used for any single agricultural research facility project.
+- **(c)** *Maximum amount* Not more than 25 percent of the funds made available pursuant to subsections (a) and (e) for any fiscal year shall be used for any single agricultural research facility project.
 - **(d)** *Project limitation* An entity eligible to receive funds under this subchapter may receive funds for only one project at a time.
+- **(e)** *Mandatory funding* Subject to subsections (b), (c), and (d), of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out the competitive grant program under section 390b of this title $125,000,000 for fiscal year 2026 and each fiscal year thereafter.
 
 ## Source credit
 
-(Pub. L. 88–74, § 6, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 105–185, title III, § 301(d), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, § 7135, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, § 7405, May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, § 4(a), title VII, § 7405, June 18, 2008, 122 Stat. 1664, 2008; Pub. L. 113–79, title VII, § 7403, Feb. 7, 2014, 128 Stat. 895; Pub. L. 115–334, title VII, § 7503(d), Dec. 20, 2018, 132 Stat. 4821.)
+(Pub. L. 88–74, § 6, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 105–185, title III, § 301(d), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, § 7135, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, § 7405, May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, § 4(a), title VII, § 7405, June 18, 2008, 122 Stat. 1664, 2008; Pub. L. 113–79, title VII, § 7403, Feb. 7, 2014, 128 Stat. 895; Pub. L. 115–334, title VII, § 7503(d), Dec. 20, 2018, 132 Stat. 4821; Pub. L. 119–21, title I, § 10604(f), July 4, 2025, 139 Stat. 109.)
 
 ## Notes
 
@@ -30,7 +31,7 @@ A prior section 390d, Pub. L. 88–74, § 5, July 22, 1963, 77 Stat. 91; Pub. L.
 
 ### Amendments
 
-2018—Subsec. (a). Pub. L. 115–334, § 7503(d)(1), substituted “subsections (b), (c), and (d),” for “subsection (b),” and “2023” for “2018” and inserted at end “Funds appropriated pursuant to the preceding sentence shall be available until expended.” Subsecs. (c), (d). Pub. L. 115–334, § 7503(d)(2), added subsecs. (c) and (d). 2014—Subsec. (a). Pub. L. 113–79 substituted “2018” for “2012”. 2008—Subsec. (a). Pub. L. 110–246, § 7405, substituted “2012” for “2007”. 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”. 1998—Subsec. (a). Pub. L. 105–185 substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
+2025—Subsec. (c). Pub. L. 119–21, § 10604(f)(1), substituted “subsections (a) and (e)” for “subsection (a)”. Subsec. (e). Pub. L. 119–21, § 10604(f)(2), added subsec. (e). 2018—Subsec. (a). Pub. L. 115–334, § 7503(d)(1), substituted “subsections (b), (c), and (d),” for “subsection (b),” and “2023” for “2018” and inserted at end “Funds appropriated pursuant to the preceding sentence shall be available until expended.” Subsecs. (c), (d). Pub. L. 115–334, § 7503(d)(2), added subsecs. (c) and (d). 2014—Subsec. (a). Pub. L. 113–79 substituted “2018” for “2012”. 2008—Subsec. (a). Pub. L. 110–246, § 7405, substituted “2012” for “2007”. 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”. 1998—Subsec. (a). Pub. L. 105–185 substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
 
 ### Statutory Notes and Related Subsidiaries
 

@@ -40,7 +40,7 @@ section: 45V
   - **(3)** *Qualified clean hydrogen production facility* The term “qualified clean hydrogen production facility” means a facility—
     - **(A)** owned by the taxpayer,
     - **(B)** which produces qualified clean hydrogen, and
-    - **(C)** the construction of which begins before January 1, 2033.
+    - **(C)** the construction of which begins before January 1, 2028.
 - **(d)** *Special rules*
   - **(1)** *Treatment of facilities owned by more than 1 taxpayer* Rules similar to the rules section 45(e)(3) shall apply for purposes of this section.
   - **(2)** *Coordination with credit for carbon oxide sequestration* No credit shall be allowed under this section with respect to any qualified clean hydrogen produced at a facility which includes carbon capture equipment for which a credit is allowed to any taxpayer under section 45Q for the taxable year or any prior taxable year.
@@ -68,7 +68,7 @@ section: 45V
 
 ## Source credit
 
-(Added and amended Pub. L. 117–169, title I, § 13204(a)(1)–(3), Aug. 16, 2022, 136 Stat. 1936, 1938, 1939.)
+(Added and amended Pub. L. 117–169, title I, § 13204(a)(1)–(3), Aug. 16, 2022, 136 Stat. 1936, 1938, 1939; Pub. L. 119–21, title VII, § 70511, July 4, 2025, 139 Stat. 252.)
 
 ## Notes
 
@@ -80,7 +80,7 @@ The date of enactment of this section, referred to in subsecs. (c)(1)(A) and (f)
 
 ### Amendments
 
-2022—Subsec. (d)(3). Pub. L. 117–169, § 13204(a)(2), added par. (3). Subsec. (d)(4). Pub. L. 117–169, § 13204(a)(3), added par. (4).
+2025—Subsec. (c)(3)(C). Pub. L. 119–21 substituted “January 1, 2028” for “January 1, 2033”. 2022—Subsec. (d)(3). Pub. L. 117–169, § 13204(a)(2), added par. (3). Subsec. (d)(4). Pub. L. 117–169, § 13204(a)(3), added par. (4).
 
 ### Statutory Notes and Related Subsidiaries
 

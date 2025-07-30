@@ -27,7 +27,7 @@ section: 286q
 
 ### Amendment of Subsection (b)
 
-Pub. L. 118–47, div. F, title VII, § 7071(b), Mar. 23, 2024, 138 Stat. 851, provided that, effective on the date that is 10 years after Mar. 23, 2024, paragraphs (3) to (5) of subsec. (b) of this section, as added by section 7071(a) of title VII of div. F of Pub. L. 118–47, are repealed. See 2024 Amendment note below.
+Pub. L. 118–47, div. F, title VII, § 7071(b), Mar. 23, 2024, 138 Stat. 851, provided that, effective on the date that is 10 years after Mar. 23, 2024, paragraphs (3) to (5) of subsection (b) of this section, as added by section 7071(a) of title VII of div. F of Pub. L. 118–47, are repealed. See 2024 Amendment note below.
 
 ### Editorial Notes
 
@@ -41,7 +41,7 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 
 ### Amendments
 
-2024—Subsec. (b)(3) to (5). Pub. L. 118–47, § 7071(b), struck out pars. (3) to (5). Pub. L. 118–47, § 7071(a), added pars. (3) to (5). 1983—Pub. L. 98–181 designated existing provisions as subsec. (a) and added subsec. (b). 1976—Pub. L. 94–564 substituted “article XVIII” for “article XXIV”. 1970—Pub. L. 91–599 inserted “in each basic period” after “vote to allocate” and substituted “allocations to the United States in that period exceed an amount equal to the United States quota in the Fund as authorized under the Bretton Woods Agreements Act” for “net cumulative allocations to the United States exceed an amount equal to the United States quota in the Fund as heretofore authorized under the Bretton Woods Agreements Act of 1945, as amended”.
+2024—Subsec. (b)(3) to (5). Pub. L. 118–47, § 7071(b), struck out pars. (3) to (5) which established a prohibition on certain transactions involving perpetrators of genocide and state sponsors of terrorism without congressional authorization and set out conditions under which the President could waive such prohibition. Pub. L. 118–47, § 7071(a), added pars. (3) to (5). 1983—Pub. L. 98–181 designated existing provisions as subsec. (a) and added subsec. (b). 1976—Pub. L. 94–564 substituted “article XVIII” for “article XXIV”. 1970—Pub. L. 91–599 inserted “in each basic period” after “vote to allocate” and substituted “allocations to the United States in that period exceed an amount equal to the United States quota in the Fund as authorized under the Bretton Woods Agreements Act” for “net cumulative allocations to the United States exceed an amount equal to the United States quota in the Fund as heretofore authorized under the Bretton Woods Agreements Act of 1945, as amended”.
 
 ### Statutory Notes and Related Subsidiaries
 
@@ -51,7 +51,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 ### Effective Date of 2024 Amendment
 
-Pub. L. 118–47, div. F, title VII, § 7071(b), Mar. 23, 2024, 138 Stat. 851, provided that, effective on the date that is 10 years after Mar. 23, 2024, pars. (3) to (5) of subsec. (b) of this section, as added by section 7071(a) of title VII of div. F of Pub. L. 118–47, are repealed.
+Pub. L. 118–47, div. F, title VII, § 7071(b), Mar. 23, 2024, 138 Stat. 851, provided that the amendment made by section 7071(b) is effective on the date that is 10 years after Mar. 23, 2024.
 
 ### Effective Date of 1976 Amendment
 

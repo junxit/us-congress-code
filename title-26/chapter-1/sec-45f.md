@@ -8,9 +8,13 @@ section: 45F
 # § 45F. Employer-provided child care credit
 
 - **(a)** *In general* For purposes of section 38, the employer-provided child care credit determined under this section for the taxable year is an amount equal to the sum of—
-  - **(1)** 25 percent of the qualified child care expenditures, and
+  - **(1)** 40 percent (50 percent in the case of an eligible small business) of the qualified child care expenditures, and
   - **(2)** 10 percent of the qualified child care resource and referral expenditures,
-- **(b)** *Dollar limitation* The credit allowable under subsection (a) for any taxable year shall not exceed $150,000.
+- **(b)** *Dollar limitation*
+  - **(1)** *In general* The credit allowable under subsection (a) for any taxable year shall not exceed $500,000 ($600,000 in the case of an eligible small business).
+  - **(2)** *Inflation adjustment* In the case of any taxable year beginning after 2026, the $500,000 and $600,000 amounts in paragraph (1) shall each be increased by an amount equal to—
+    - **(A)** such dollar amount, multiplied by
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2025” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 - **(c)** *Definitions* For purposes of this section—
   - **(1)** *Qualified child care expenditure*
     - **(A)** *In general* The term “qualified child care expenditure” means any amount paid or incurred—
@@ -19,7 +23,7 @@ section: 45F
         - **(II)** with respect to which a deduction for depreciation (or amortization in lieu of depreciation) is allowable, and
         - **(III)** which does not constitute part of the principal residence (within the meaning of section 121) of the taxpayer or any employee of the taxpayer,
       - **(ii)** for the operating costs of a qualified child care facility of the taxpayer, including costs related to the training of employees, to scholarship programs, and to the providing of increased compensation to employees with higher levels of child care training, or
-      - **(iii)** under a contract with a qualified child care facility to provide child care services to employees of the taxpayer.
+      - **(iii)** under a contract with a qualified child care facility to provide child care services to employees of the taxpayer, or under a contract with an intermediate entity that contracts with one or more qualified child care facilities to provide such child care services.
     - **(B)** *Fair market value* The term “qualified child care expenditures” shall not include expenses in excess of the fair market value of such care.
   - **(2)** *Qualified child care facility*
     - **(A)** *In general* The term “qualified child care facility” means a facility—
@@ -29,9 +33,13 @@ section: 45F
       - **(i)** enrollment in the facility is open to employees of the taxpayer during the taxable year,
       - **(ii)** if the facility is the principal trade or business of the taxpayer, at least 30 percent of the enrollees of such facility are dependents of employees of the taxpayer, and
       - **(iii)** the use of such facility (or the eligibility to use such facility) does not discriminate in favor of employees of the taxpayer who are highly compensated employees (within the meaning of section 414(q)).
+    - **(C)** *Treatment of jointly owned or operated child care facility* A facility shall not fail to be treated as a qualified child care facility of the taxpayer merely because such facility is jointly owned or operated by the taxpayer and other persons.
   - **(3)** *Qualified child care resource and referral expenditure*
     - **(A)** *In general* The term “qualified child care resource and referral expenditure” means any amount paid or incurred under a contract to provide child care resource and referral services to an employee of the taxpayer.
     - **(B)** *Nondiscrimination* The services shall not be treated as qualified unless the provision of such services (or the eligibility to use such services) does not discriminate in favor of employees of the taxpayer who are highly compensated employees (within the meaning of section 414(q)).
+  - **(4)** *Eligible small business* The term “eligible small business” means a business that meets the gross receipts test of section 448(c), determined—
+    - **(A)** by substituting “5-taxable-year” for “3-taxable-year” in paragraph (1) thereof, and
+    - **(B)** by substituting “5-year” for “3-year” in paragraph (3)(A) thereof.
 - **(d)** *Recapture of acquisition and construction credit*
   - **(1)** *In general* If, as of the close of any taxable year, there is a recapture event with respect to any qualified child care facility of the taxpayer, then the tax of the taxpayer under this chapter for such taxable year shall be increased by an amount equal to the product of—
     - **(A)** the applicable recapture percentage, and
@@ -57,10 +65,11 @@ section: 45F
     - **(A)** *In general* If a credit is determined under this section with respect to any property by reason of expenditures described in subsection (c)(1)(A), the basis of such property shall be reduced by the amount of the credit so determined.
     - **(B)** *Certain dispositions* If, during any taxable year, there is a recapture amount determined with respect to any property the basis of which was reduced under subparagraph (A), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term “recapture amount” means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection (d).
   - **(2)** *Other deductions and credits* No deduction or credit shall be allowed under any other provision of this chapter with respect to the amount of the credit determined under this section.
+- **(g)** *Regulations and guidance* The Secretary shall issue such regulations or other guidance as may be necessary to carry out the purposes of this section, including guidance to carry out the purposes of paragraphs (1)(A)(iii) and (2)(C) of subsection (c).
 
 ## Source credit
 
-(Added Pub. L. 107–16, title II, § 205(a), June 7, 2001, 115 Stat. 50; amended Pub. L. 107–147, title IV, § 411(d)(1), Mar. 9, 2002, 116 Stat. 46.)
+(Added Pub. L. 107–16, title II, § 205(a), June 7, 2001, 115 Stat. 50; amended Pub. L. 107–147, title IV, § 411(d)(1), Mar. 9, 2002, 116 Stat. 46; Pub. L. 119–21, title VII, § 70401(a)–(f), July 4, 2025, 139 Stat. 212, 213.)
 
 ## Notes
 
@@ -68,9 +77,13 @@ section: 45F
 
 ### Amendments
 
-2002—Subsec. (d)(4)(B). Pub. L. 107–147 substituted “this chapter or for purposes of section 55” for “subpart A, B, or D of this part”.
+2025—Subsec. (a)(1). Pub. L. 119–21, § 70401(a), substituted “40 percent (50 percent in the case of an eligible small business)” for “25 percent”. Subsec. (b). Pub. L. 119–21, § 70401(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “The credit allowable under subsection (a) for any taxable year shall not exceed $150,000.” Subsec. (c)(1)(A)(iii). Pub. L. 119–21, § 70401(d), inserted “, or under a contract with an intermediate entity that contracts with one or more qualified child care facilities to provide such child care services” before period at end. Subsec. (c)(2)(C). Pub. L. 119–21, § 70401(e), added subpar. (C). Subsec. (c)(4). Pub. L. 119–21, § 70401(c), added par. (4). Subsec. (g). Pub. L. 119–21, § 70401(f), added subsec. (g). 2002—Subsec. (d)(4)(B). Pub. L. 107–147 substituted “this chapter or for purposes of section 55” for “subpart A, B, or D of this part”.
 
 ### Statutory Notes and Related Subsidiaries
+
+### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, § 70401(g), July 4, 2025, 139 Stat. 213, provided that: “The amendments made by this section [amending this section] shall apply to amounts paid or incurred after December 31, 2025.”
 
 ### Effective Date of 2002 Amendment
 

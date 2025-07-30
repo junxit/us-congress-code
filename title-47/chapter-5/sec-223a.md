@@ -44,11 +44,11 @@ section: 223a
 
 ### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (b)(2)(A), (B), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables. This Act, referred to in subsec. (b)(2)(C), is Pub. L. 119—112, May 19, 2025, 139 Stat. 55, which enacted this section, amended section 223 of this title, and enacted provisions set out as notes under this section and sections 223 and 609 of this title. For complete classification of this Act to the Code, see Short Title of 2025 Amendment note set out under section 609 of this title.
+The Federal Trade Commission Act, referred to in subsec. (b)(2)(A), (B), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables. This Act, referred to in subsec. (b)(2)(C), is Pub. L. 119—12, May 19, 2025, 139 Stat. 55, which enacted this section, amended section 223 of this title, and enacted provisions set out as notes under this section and sections 223 and 609 of this title. For complete classification of this Act to the Code, see Short Title of 2025 Amendment note set out under section 609 of this title.
 
 ### Codification
 
-Section was enacted as part of the “Tools to Address Known Exploitation by Immobilizing Technological Deepfakes on Websites and Networks Act”, also known as the “TAKE IT DOWN Act”, and not as part of the Communications Act of 1934 which comprises this chapter.
+Section was enacted as part of the Tools to Address Known Exploitation by Immobilizing Technological Deepfakes on Websites and Networks Act, also known as the TAKE IT DOWN Act, and not as part of the Communications Act of 1934 which comprises this chapter.
 
 ### Statutory Notes and Related Subsidiaries
 

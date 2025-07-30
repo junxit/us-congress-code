@@ -7,7 +7,7 @@ section: 199A
 
 # § 199A. Qualified business income
 
-- **(a)** *Allowance of deduction* In the case of a taxpayer other than a corporation, there shall be allowed as a deduction for any taxable year an amount equal to the lesser of—
+- **(a)** *Allowance of deduction* In the case of a taxpayer other than a corporation, except as provided in subsection (i), there shall be allowed as a deduction for any taxable year an amount equal to the lesser of—
   - **(1)** the combined qualified business income amount of the taxpayer, or
   - **(2)** an amount equal to 20 percent of the excess (if any) of—
     - **(A)** the taxable income of the taxpayer for the taxable year, over
@@ -25,11 +25,11 @@ section: 199A
     - **(A)** *Exception from limit* In the case of any taxpayer whose taxable income for the taxable year does not exceed the threshold amount, paragraph (2) shall be applied without regard to subparagraph (B).
     - **(B)** *Phase-in of limit for certain taxpayers*
       - **(i)** *In general* If—
-        - **(I)** the taxable income of a taxpayer for any taxable year exceeds the threshold amount, but does not exceed the sum of the threshold amount plus $50,000 ($100,000 in the case of a joint return), and
+        - **(I)** the taxable income of a taxpayer for any taxable year exceeds the threshold amount, but does not exceed the sum of the threshold amount plus $75,000 ($150,000 in the case of a joint return), and
         - **(II)** the amount determined under paragraph (2)(B) (determined without regard to this subparagraph) with respect to any qualified trade or business carried on by the taxpayer is less than the amount determined under paragraph (2)(A) with respect such trade or business,
       - **(ii)** *Amount of reduction* The amount determined under this subparagraph is the amount which bears the same ratio to the excess amount as—
         - **(I)** the amount by which the taxpayer’s taxable income for the taxable year exceeds the threshold amount, bears to
-        - **(II)** $50,000 ($100,000 in the case of a joint return).
+        - **(II)** $75,000 ($150,000 in the case of a joint return).
       - **(iii)** *Excess amount* For purposes of clause (ii), the excess amount is the excess of—
         - **(I)** the amount determined under paragraph (2)(A) (determined without regard to this paragraph), over
         - **(II)** the amount determined under paragraph (2)(B) (determined without regard to this paragraph).
@@ -66,8 +66,9 @@ section: 199A
       - **(vii)** Any item of deduction or loss properly allocable to an amount described in any of the preceding clauses.
   - **(4)** *Treatment of reasonable compensation and guaranteed payments* Qualified business income shall not include—
     - **(A)** reasonable compensation paid to the taxpayer by any qualified trade or business of the taxpayer for services rendered with respect to the trade or business,
-    - **(B)** any guaranteed payment described in section 707(c) paid to a partner for services rendered with respect to the trade or business, and
-    - **(C)** to the extent provided in regulations, any payment described in section 707(a) to a partner for services rendered with respect to the trade or business.
+    - **(B)** any guaranteed payment described in section 707(c) paid to a partner for services rendered with respect to the trade or business,
+    - **(C)** to the extent provided in regulations, any payment described in section 707(a) to a partner for services rendered with respect to the trade or business, and
+    - **(D)** any amount with respect to which a deduction is allowable to the taxpayer under section 224(a) for the taxable year.
 - **(d)** *Qualified trade or business* For purposes of this section—
   - **(1)** *In general* The term “qualified trade or business” means any trade or business other than—
     - **(A)** a specified service trade or business, or
@@ -76,14 +77,14 @@ section: 199A
     - **(A)** which is described in section 1202(e)(3)(A) (applied without regard to the words “engineering, architecture,”) or which would be so described if the term “employees or owners” were substituted for “employees” therein, or
     - **(B)** which involves the performance of services that consist of investing and investment management, trading, or dealing in securities (as defined in section 475(c)(2)), partnership interests, or commodities (as defined in section 475(e)(2)).
   - **(3)** *Exception for specified service businesses based on taxpayer’s income*
-    - **(A)** *In general* If, for any taxable year, the taxable income of any taxpayer is less than the sum of the threshold amount plus $50,000 ($100,000 in the case of a joint return), then—
+    - **(A)** *In general* If, for any taxable year, the taxable income of any taxpayer is less than the sum of the threshold amount plus $75,000 ($150,000 in the case of a joint return), then—
       - **(i)** any specified service trade or business of the taxpayer shall not fail to be treated as a qualified trade or business due to paragraph (1)(A), but
       - **(ii)** only the applicable percentage of qualified items of income, gain, deduction, or loss, and the W–2 wages and the unadjusted basis immediately after acquisition of qualified property, of the taxpayer allocable to such specified service trade or business shall be taken into account in computing the qualified business income, W–2 wages, and the unadjusted basis immediately after acquisition of qualified property of the taxpayer for the taxable year for purposes of applying this section.
     - **(B)** *Applicable percentage* For purposes of subparagraph (A), the term “applicable percentage” means, with respect to any taxable year, 100 percent reduced (not below zero) by the percentage equal to the ratio of—
       - **(i)** the taxable income of the taxpayer for the taxable year in excess of the threshold amount, bears to
-      - **(ii)** $50,000 ($100,000 in the case of a joint return).
+      - **(ii)** $75,000 ($150,000 in the case of a joint return).
 - **(e)** *Other definitions* For purposes of this section—
-  - **(1)** *Taxable income* Except as otherwise provided in subsection (g)(2)(B), taxable income shall be computed without regard to any deduction allowable under this section.
+  - **(1)** *Taxable income* Except as otherwise provided in subsection (g)(2)(B), taxable income shall be computed without regard to section 68 and without regard to any deduction allowable under this section.
   - **(2)** *Threshold amount*
     - **(A)** *In general* The term “threshold amount” means $157,500 (200 percent of such amount in the case of a joint return).
     - **(B)** *Inflation adjustment* In the case of any taxable year beginning after 2018, the dollar amount in subparagraph (A) shall be increased by an amount equal to—
@@ -123,7 +124,7 @@ section: 199A
     - **(A)** *In general* In the case of any eligible taxpayer who receives a qualified payment from a specified agricultural or horticultural cooperative, there shall be allowed as a deduction for the taxable year in which such payment is received an amount equal to the portion of the deduction allowed under paragraph (1) to such cooperative which is—
       - **(i)** allowed with respect to the portion of the qualified production activities income to which such payment is attributable, and
       - **(ii)** identified by such cooperative in a written notice mailed to such taxpayer during the payment period described in section 1382(d).
-    - **(B)** *Limitation based on taxable income* The deduction allowed to any taxpayer under this paragraph shall not exceed the taxable income of the taxpayer determined without regard to the deduction allowed under this paragraph and after taking into account any deduction allowed to the taxpayer under subsection (a) for the taxable year.
+    - **(B)** *Limitation based on taxable income* The deduction allowed to any taxpayer under this paragraph shall not exceed the taxable income of the taxpayer determined without regard to section 68 or the deduction allowed under this paragraph and after taking into account any deduction allowed to the taxpayer under subsection (a) for the taxable year.
     - **(C)** *Cooperative denied deduction for portion of qualified payments* The taxable income of a specified agricultural or horticultural cooperative shall not be reduced under section 1382 by reason of that portion of any qualified payment as does not exceed the deduction allowable under subparagraph (A) with respect to such payment.
     - **(D)** *Eligible taxpayer* For purposes of this paragraph, the term “eligible taxpayer” means—
       - **(i)** a taxpayer other than a corporation, or
@@ -173,11 +174,20 @@ section: 199A
 - **(h)** *Anti-abuse rules* The Secretary shall—
   - **(1)** apply rules similar to the rules under section 179(d)(2) in order to prevent the manipulation of the depreciable period of qualified property using transactions between related parties, and
   - **(2)** prescribe rules for determining the unadjusted basis immediately after acquisition of qualified property acquired in like-kind exchanges or involuntary conversions.
-- **(i)** *Termination* This section shall not apply to taxable years beginning after December 31, 2025.
+- **(i)** *Minimum deduction for active qualified business income*
+  - **(1)** *In general* In the case of an applicable taxpayer for any taxable year, the deduction allowed under subsection (a) for the taxable year shall be equal to the greater of—
+    - **(A)** the amount of such deduction determined without regard to this subsection, or
+    - **(B)** $400.
+  - **(2)** *Applicable taxpayer* For purposes of this subsection—
+    - **(A)** *In general* The term “applicable taxpayer” means, with respect to any taxable year, a taxpayer whose aggregate qualified business income with respect to all active qualified trades or businesses of the taxpayer for such taxable year is at least $1,000.
+    - **(B)** *Active qualified trade or business* The term “active qualified trade or business” means, with respect to any taxpayer for any taxable year, any qualified trade or business of the taxpayer in which the taxpayer materially participates (within the meaning of section 469(h)).
+  - **(3)** *Inflation adjustment* In the case of any taxable year beginning after 2026, the $400 amount in paragraph (1)(B) and the $1,000 amount in paragraph (2)(A) shall each be increased by an amount equal to —
+    - **(A)** such dollar amount, multiplied by
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2025” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 
 ## Source credit
 
-(Added Pub. L. 115–97, title I, § 11011(a), Dec. 22, 2017, 131 Stat. 2063; amended Pub. L. 115–141, div. T, § 101(a)(1), (2)(A), (C), (b), Mar. 23, 2018, 132 Stat. 1151, 1155.)
+(Added Pub. L. 115–97, title I, § 11011(a), Dec. 22, 2017, 131 Stat. 2063; amended Pub. L. 115–141, div. T, § 101(a)(1), (2)(A), (C), (b), Mar. 23, 2018, 132 Stat. 1151, 1155; Pub. L. 119–21, title VII, §§ 70105(a), (b), 70111(b), 70201(d), July 4, 2025, 139 Stat. 161, 165, 171.)
 
 ## Notes
 
@@ -197,9 +207,13 @@ Section 199(d)(1)(B)(i) (as in effect on December 1, 2017), referred to in subse
 
 ### Amendments
 
-2018—Subsec. (a). Pub. L. 115–141, § 101(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) provided equation for allowed deduction for any taxable year, which included special deduction for qualified cooperative dividends. Subsec. (b)(7). Pub. L. 115–141, § 101(b)(3), added par. (7). Subsec. (c)(1). Pub. L. 115–141, § 101(b)(2)(A), struck out “, qualified cooperative dividends,” after “qualified REIT dividends”. Subsec. (c)(3)(B). Pub. L. 115–141, § 101(b)(2)(B)(i)(I), struck out “investment” before “items” in introductory provisions. Subsec. (c)(3)(B)(ii). Pub. L. 115–141, § 101(b)(2)(B)(i)(II), inserted at end “Any amount described in section 1385(a)(1) shall not be treated as described in this clause.” Subsec. (e)(1). Pub. L. 115–141, § 101(a)(2)(C), substituted “Except as otherwise provided in subsection (g)(2)(B), taxable income” for “Taxable income”. Pub. L. 115–141, § 101(a)(2)(A), substituted “any deduction” for “the deduction”. Subsec. (e)(4), (5). Pub. L. 115–141, § 101(b)(2)(B)(ii), redesignated par. (5) as (4) and struck out former par. (4) which defined “qualified cooperative dividend”. Subsec. (g). Pub. L. 115–141, § 101(a)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to deduction allowed to specified agricultural or horticultural cooperatives.
+2025—Subsec. (a). Pub. L. 119–21, § 70105(b)(2), inserted “except as provided in subsection (i),” before “there” in introductory provisions. Subsec. (b)(3)(B). Pub. L. 119–21, § 70105(a)(1), substituted “$75,000 ($150,000 in the case of a joint return)” for “$50,000 ($100,000 in the case of a joint return)” in two places. Subsec. (c)(4)(D). Pub. L. 119–21, § 70201(d), added subpar. (D). Subsec. (d)(3). Pub. L. 119–21, § 70105(a)(2), substituted “$75,000 ($150,000 in the case of a joint return)” for “$50,000 ($100,000 in the case of a joint return)” in two places. Subsec. (e)(1). Pub. L. 119–21, § 70111(b)(1), inserted “without regard to section 68 and” after “shall be computed”. Subsec. (g)(2)(B). Pub. L. 119–21, § 70111(b)(2), inserted “section 68 or” after “without regard to”. Subsec. (i). Pub. L. 119–21, § 70105(b)(1), amended subsec. (i) generally. Prior to amendment, text read as follows: “This section shall not apply to taxable years beginning after December 31, 2025.” 2018—Subsec. (a). Pub. L. 115–141, § 101(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) provided equation for allowed deduction for any taxable year, which included special deduction for qualified cooperative dividends. Subsec. (b)(7). Pub. L. 115–141, § 101(b)(3), added par. (7). Subsec. (c)(1). Pub. L. 115–141, § 101(b)(2)(A), struck out “, qualified cooperative dividends,” after “qualified REIT dividends”. Subsec. (c)(3)(B). Pub. L. 115–141, § 101(b)(2)(B)(i)(I), struck out “investment” before “items” in introductory provisions. Subsec. (c)(3)(B)(ii). Pub. L. 115–141, § 101(b)(2)(B)(i)(II), inserted at end “Any amount described in section 1385(a)(1) shall not be treated as described in this clause.” Subsec. (e)(1). Pub. L. 115–141, § 101(a)(2)(C), substituted “Except as otherwise provided in subsection (g)(2)(B), taxable income” for “Taxable income”. Pub. L. 115–141, § 101(a)(2)(A), substituted “any deduction” for “the deduction”. Subsec. (e)(4), (5). Pub. L. 115–141, § 101(b)(2)(B)(ii), redesignated par. (5) as (4) and struck out former par. (4) which defined “qualified cooperative dividend”. Subsec. (g). Pub. L. 115–141, § 101(a)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to deduction allowed to specified agricultural or horticultural cooperatives.
 
 ### Statutory Notes and Related Subsidiaries
+
+### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, § 70105(c), July 4, 2025, 139 Stat. 162, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2025.” Amendment by section 70111(b) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2025, see section 70111(c) of Pub. L. 119–21, set out as a note under section 68 of this title. Amendment by section 70201(d) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2024, see section 70201(j) of Pub. L. 119–21, set out as a note under section 45B of this title.
 
 ### Effective Date of 2018 Amendment
 

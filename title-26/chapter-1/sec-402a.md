@@ -146,6 +146,10 @@ section: 402A
 
 1 See References in Text note below.
 
+### Inflation Adjusted Items for Certain Years
+
+For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.
+
 ### Editorial Notes
 
 ### References in Text

@@ -56,10 +56,6 @@ section: 242c
 
 1 So in original. Probably should be followed by “and”.
 
-### Delayed Effective Date
-
-For delayed effective date of first sentence of subection (a) of this section, see Effective Date note below.
-
 ### Editorial Notes
 
 ### References in Text

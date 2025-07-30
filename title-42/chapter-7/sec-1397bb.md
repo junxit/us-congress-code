@@ -32,7 +32,7 @@ section: 1397bb
     - **(A)** through both intake and followup screening, that only targeted low-income children are furnished child health assistance under the State child health plan;
     - **(B)** that children found through the screening to be eligible for medical assistance under the State medicaid plan under subchapter XIX are enrolled for such assistance under such plan;
     - **(C)** that the insurance provided under the State child health plan does not substitute for coverage under group health plans;
-    - **(D)** the provision of child health assistance to targeted low-income children in the State who are Indians (as defined in section 1603(c) 11 See References in Text note below. of title 25); and
+    - **(D)** the provision of child health assistance to targeted low-income children in the State who are Indians (as defined in section 1603(c) 22 See References in Text note below. of title 25); and
     - **(E)** coordination with other public and private programs providing creditable coverage for low-income children.
   - **(4)** *Reduction of administrative barriers to enrollment*
     - **(A)** *In general* Subject to subparagraph (B), the plan shall include a description of the procedures used to reduce administrative barriers to the enrollment of children and pregnant women who are eligible for medical assistance under subchapter XIX or for child health assistance or health benefits coverage under this subchapter. Such procedures shall be established and revised as often as the State determines appropriate to take into account the most recent information available to the State identifying such barriers.
@@ -51,15 +51,15 @@ section: 1397bb
 
 ## Source credit
 
-(Aug. 14, 1935, ch. 531, title XXI, § 2102, as added Pub. L. 105–33, title IV, § 4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, § 111(b)(2), title II, §§ 201(b)(2)(B)(i), 212, title III, § 302(a), title V, § 501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86; Pub. L. 111–148, title II, § 2101(d)(1), Mar. 23, 2010, 124 Stat. 287; Pub. L. 111–152, title I, § 1004(b)(2)(A), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 114–198, title VII, § 706(b)(2), July 22, 2016, 130 Stat. 754; Pub. L. 115–271, title V, § 5022(c), Oct. 24, 2018, 132 Stat. 3964; Pub. L. 117–328, div. FF, title V, § 5121(c)(1), Dec. 29, 2022, 136 Stat. 5942; Pub. L. 118–42, div. G, title I, § 205(b)(1), Mar. 9, 2024, 138 Stat. 406.)
+(Aug. 14, 1935, ch. 531, title XXI, § 2102, as added Pub. L. 105–33, title IV, § 4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, § 111(b)(2), title II, §§ 201(b)(2)(B)(i), 212, title III, § 302(a), title V, § 501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86; Pub. L. 111–148, title II, § 2101(d)(1), Mar. 23, 2010, 124 Stat. 287; Pub. L. 111–152, title I, § 1004(b)(2)(A), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 114–198, title VII, § 706(b)(2), July 22, 2016, 130 Stat. 754; Pub. L. 115–271, title V, § 5022(c), Oct. 24, 2018, 132 Stat. 3964; Pub. L. 117–328, div. FF, title V, § 5121(c)(1), Dec. 29, 2022, 136 Stat. 5942; Pub. L. 118–42, div. G, title I, § 205(b)(1), Mar. 9, 2024, 138 Stat. 406; Pub. L. 119–21, title VII, § 71112(c), July 4, 2025, 139 Stat. 299.)
 
 ## Notes
 
-1 See References in Text note below.
+2 See References in Text note below.
 
-### Applicability of Amendment
+### Amendment of Subsection (b)(1)(B)
 
-Amendment of section by section 205(b)(1) of title I of div. G of Pub. L. 118–42 applicable beginning Jan. 1, 2026. See 2024 Amendment notes below.
+Pub. L. 119–21, title VII, § 71112(b), (d), July 4, 2025, 139 Stat. 299, provided that, applicable to medical assistance, child health assistance, and pregnancy-related assistance with respect to individuals whose eligibility for such assistance is based on an application made on or after the first day of the first quarter that begins after Dec. 31, 2026, subsection (b)(1)(B) of this section is amended— (1) in clause (iv), by striking “and” at the end; (2) in clause (v), by striking the period and inserting “; and”; and (3) by adding at the end the following new clause: “(vi) shall, in the case that the State elects to provide child health or pregnancy-related assistance to an individual for any period prior to the month in which the individual made application for such assistance (or application was made on behalf of the individual), provide that such assistance is not made available to such individual for items and services included under the State child health plan (or waiver of such plan) that are furnished before the second month preceding the month in which such individual made application (or application was made on behalf of such individual) for assistance.” See 2025 Amendment note below. Amendment of section by section 205(b)(1) of title I of div. G of Pub. L. 118–42 applicable beginning Jan. 1, 2026. See 2024 Amendment notes below.
 
 ### Editorial Notes
 
@@ -69,9 +69,13 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(1)(B)(v), is class
 
 ### Amendments
 
-2024—Subsec. (d)(1)(A). Pub. L. 118–42, § 205(b)(1)(B)–(D), inserted “or targeted low-income pregnant woman” after “targeted low-income child”, “or pregnant woman” after “because the child”, and “or pregnant woman” after “during the period the child”. Pub. L. 118–42, § 205(b)(1)(A), which directed insertion of “or pregnancy-related” after “child health”, was executed by making the insertion before “assistance under the State child health plan” to reflect the probable intent of Congress. 2022—Subsec. (d). Pub. L. 117–328 added subsec. (d). 2018—Subsec. (a)(7)(B). Pub. L. 115–271 substituted “paragraphs (5) and (6) of section 1397cc(c)” for “section 1397cc(c)(5)”. 2016—Subsec. (a)(7)(C). Pub. L. 114–198 added subpar. (C). 2010—Subsec. (b)(1)(B)(v). Pub. L. 111–152 substituted “modified adjusted gross income” for “modified gross income”. Pub. L. 111–148 added cl. (v). 2009—Subsec. (a)(7)(B). Pub. L. 111–3, § 501(a)(2), inserted “and services described in section 1397cc(c)(5) of this title” after “emergency services”. Subsec. (b)(1)(B)(iii), (iv). Pub. L. 111–3, §§ 111(b)(2), 501(b)(2), added cls. (iii) and (iv). Subsec. (b)(4), (5). Pub. L. 111–3, § 212, added par. (4) and redesignated former par. (4) as (5). Subsec. (c)(1). Pub. L. 111–3, § 201(b)(2)(B)(i), inserted “(through community health workers and others)” after “Outreach”. Subsec. (c)(3). Pub. L. 111–3, § 302(a), added par. (3).
+2025—Subsec. (b)(1)(B)(vi). Pub. L. 119–21 added cl. (vi). 2024—Subsec. (d)(1)(A). Pub. L. 118–42, § 205(b)(1)(B)–(D), inserted “or targeted low-income pregnant woman” after “targeted low-income child”, “or pregnant woman” after “because the child”, and “or pregnant woman” after “during the period the child”. Pub. L. 118–42, § 205(b)(1)(A), which directed insertion of “or pregnancy-related” after “child health”, was executed by making the insertion before “assistance under the State child health plan” to reflect the probable intent of Congress. 2022—Subsec. (d). Pub. L. 117–328 added subsec. (d). 2018—Subsec. (a)(7)(B). Pub. L. 115–271 substituted “paragraphs (5) and (6) of section 1397cc(c)” for “section 1397cc(c)(5)”. 2016—Subsec. (a)(7)(C). Pub. L. 114–198 added subpar. (C). 2010—Subsec. (b)(1)(B)(v). Pub. L. 111–152 substituted “modified adjusted gross income” for “modified gross income”. Pub. L. 111–148 added cl. (v). 2009—Subsec. (a)(7)(B). Pub. L. 111–3, § 501(a)(2), inserted “and services described in section 1397cc(c)(5) of this title” after “emergency services”. Subsec. (b)(1)(B)(iii), (iv). Pub. L. 111–3, §§ 111(b)(2), 501(b)(2), added cls. (iii) and (iv). Subsec. (b)(4), (5). Pub. L. 111–3, § 212, added par. (4) and redesignated former par. (4) as (5). Subsec. (c)(1). Pub. L. 111–3, § 201(b)(2)(B)(i), inserted “(through community health workers and others)” after “Outreach”. Subsec. (c)(3). Pub. L. 111–3, § 302(a), added par. (3).
 
 ### Statutory Notes and Related Subsidiaries
+
+### Effective Date of 2025 Amendment
+
+Amendment by Pub. L. 119–21 applicable to medical assistance, child health assistance, and pregnancy-related assistance with respect to individuals whose eligibility for such assistance is based on an application made on or after the first day of the first quarter that begins after Dec. 31, 2026, see section 71112(d) of Pub. L. 119–21, set out as a note under section 1396a of this title.
 
 ### Effective Date of 2024 Amendment
 

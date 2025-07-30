@@ -32,13 +32,19 @@ section: 45W
   - **(3)** *No double benefit* No credit shall be allowed under this section with respect to any vehicle for which a credit was allowed under section 30D.
 - **(e)** *VIN number requirement* No credit shall be determined under subsection (a) with respect to any vehicle unless the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year.
 - **(f)** *Regulations and guidance* The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this section, including regulations or other guidance relating to determination of the incremental cost of any qualified commercial clean vehicle.
-- **(g)** *Termination* No credit shall be determined under this section with respect to any vehicle acquired after December 31, 2032.
+- **(g)** *Termination* No credit shall be determined under this section with respect to any vehicle acquired after September 30, 2025.
 
 ## Source credit
 
-(Added Pub. L. 117–169, title I, § 13403(a), Aug. 16, 2022, 136 Stat. 1964.)
+(Added Pub. L. 117–169, title I, § 13403(a), Aug. 16, 2022, 136 Stat. 1964; Pub. L. 119–21, title VII, § 70503, July 4, 2025, 139 Stat. 251.)
 
 ## Notes
+
+### Editorial Notes
+
+### Amendments
+
+2025—Subsec. (g). Pub. L. 119–21 substituted “September 30, 2025” for “December 31, 2032”.
 
 ### Statutory Notes and Related Subsidiaries
 

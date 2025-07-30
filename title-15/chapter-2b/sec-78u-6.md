@@ -53,9 +53,7 @@ section: 78u–6
 - **(f)** *Appeals* Any determination made under this section, including whether, to whom, or in what amount to make awards, shall be in the discretion of the Commission. Any such determination, except the determination of the amount of an award if the award was made in accordance with subsection (b), may be appealed to the appropriate court of appeals of the United States not more than 30 days after the determination is issued by the Commission. The court shall review the determination made by the Commission in accordance with section 706 of title 5.
 - **(g)** *Investor Protection Fund*
   - **(1)** *Fund established* There is established in the Treasury of the United States a fund to be known as the “Securities and Exchange Commission Investor Protection Fund”.
-  - **(2)** *Use of Fund* The Fund shall be available to the Commission, without further appropriation or fiscal year limitation, for—
-    - **(A)** paying awards to whistleblowers as provided in subsection (b); and
-    - **(B)** funding the activities of the Inspector General of the Commission under section 78d(i) of this title.
+- **(a)** *Use of Fund 11 So in original. Probably should be “(2)”.* The Fund shall be available to the Commission, without further appropriation or fiscal year limitation, for paying awards to whistleblowers as provided in subsection (b).
   - **(3)** *Deposits and credits*
     - **(A)** *In general* There shall be deposited into or credited to the Fund an amount equal to—
       - **(i)** any monetary sanction collected by the Commission in any judicial or administrative action brought by the Commission under the securities laws that is not added to a disgorgement fund or other fund under section 308 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246) or otherwise distributed to victims of a violation of the securities laws, or the rules and regulations thereunder, underlying such action, unless the balance of the Fund at the time the monetary sanction is collected exceeds $300,000,000;
@@ -122,15 +120,21 @@ section: 78u–6
 
 ## Source credit
 
-(June 6, 1934, ch. 404, title I, § 21F, as added Pub. L. 111–203, title IX, § 922(a), July 21, 2010, 124 Stat. 1841.)
+(June 6, 1934, ch. 404, title I, § 21F, as added Pub. L. 111–203, title IX, § 922(a), July 21, 2010, 124 Stat. 1841; amended Pub. L. 119–21, title III, § 30003(b), July 4, 2025, 139 Stat. 126.)
 
 ## Notes
+
+1 So in original. Probably should be “(2)”.
 
 ### Editorial Notes
 
 ### References in Text
 
 The Sarbanes-Oxley Act of 2002, referred to in subsec. (h)(1)(A)(iii), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables. This chapter, referred to in subsec. (h)(1)(A)(iii), was in the original “the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)”. This chapter, referred to in subsec. (h)(2)(D)(i), was in the original “this Act”. See References in Text note set out under section 78a of this title.
+
+### Amendments
+
+2025—Subsec. (g)(2). Pub. L. 119–21, which directed that subsec. (g)(2) of this section be “amended to read as follows:” with a designation and heading of “(a) Use of Fund”, was executed to par. (2) of subsec. (g) as directed, to reflect the probable intent of Congress. Prior to amendment, text read as follows: “The Fund shall be available to the Commission, without further appropriation or fiscal year limitation, for— “(A) paying awards to whistleblowers as provided in subsection (b); and “(B) funding the activities of the Inspector General of the Commission under section 78d(i) of this title.”
 
 ### Statutory Notes and Related Subsidiaries
 

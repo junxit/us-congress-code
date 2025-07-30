@@ -11,7 +11,7 @@ section: 9
   - **(1)** use the information furnished under the provisions of this title for any purpose other than the statistical purposes for which it is supplied; or
   - **(2)** make any publication whereby the data furnished by any particular establishment or individual under this title can be identified; or
   - **(3)** permit anyone other than the sworn officers and employees of the Department or bureau or agency thereof to examine the individual reports.
-- **(b)** The provisions of subsection (a) of this section relating to the confidential treatment of data for particular individuals and establishments, shall not apply to the censuses of governments provided for by subchapter III of chapter 5 of this title, nor to interim current data provided for by subchapter IV of chapter 5 of this title as to the subjects covered by censuses of governments, with respect to any information obtained therefor that is compiled from, or customarily provided in, public rec­ords.
+- **(b)** The provisions of subsection (a) of this section relating to the confidential treatment of data for particular individuals and establishments, shall not apply to the censuses of governments provided for by subchapter III of chapter 5 of this title, nor to interim current data provided for by subchapter IV of chapter 5 of this title as to the subjects covered by censuses of governments, with respect to any information obtained therefor that is compiled from, or customarily provided in, public records.
 
 ## Source credit
 

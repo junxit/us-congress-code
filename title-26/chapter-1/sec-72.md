@@ -378,6 +378,10 @@ section: 72
       - **(iii)** *Documentation* For purposes of this subparagraph, an employee shall not be considered to be a terminally ill individual unless such employee furnishes sufficient evidence to the plan administrator in such form and manner as the Secretary may require.
       - **(iv)** *Amount distributed may be repaid* Rules similar to the rules of subparagraph (H)(v) shall apply with respect to an individual who receives a distribution to which clause (i) applies.
     - **(M)** *Distributions from retirement plans in connection with federally declared disasters* Any qualified disaster recovery distribution.
+    - **(N)** *Qualified long-term care distributions*
+      - **(i)** *In general* Any qualified long-term care distribution to which section 401(a)(39) applies.
+      - **(ii)** *Exception* If, with respect to the plan, the individual covered by the long-term care coverage to which such distribution relates is the spouse of the employee, clause (i) shall apply only if the employee and the employee’s spouse file a joint return.
+      - **(iii)** *Exemption of distributions from trustee to trustee transfer and withholding rules* For purposes of sections 401(a)(31), 402(f), and 3405, any qualified long-term care distribution described in clause (i) shall not be treated as an eligible rollover distribution.
   - **(3)** *Limitations*
     - **(A)** *Certain exceptions not to apply to individual retirement plans* Subparagraphs (A)(v) and (C) of paragraph (2) shall not apply to distributions from an individual retirement plan.
     - **(B)** *Periodic payments under qualified plans must begin after separation* Paragraph (2)(A)(iv) shall not apply to any amount paid from a trust described in section 401(a) which is exempt from tax under section 501(a) or from a contract described in section 72(e)(5)(D)(ii) unless the series of payments begins after the employee separates from service.
@@ -411,7 +415,7 @@ section: 72
     - **(D)** *First-time homebuyer; other definitions* For purposes of this paragraph—
       - **(i)** *First-time homebuyer* The term “first-time homebuyer” means any individual if—
         - **(I)** such individual (and if married, such individual’s spouse) had no present ownership interest in a principal residence during the 2-year period ending on the date of acquisition of the principal residence to which this paragraph applies, and
-        - **(II)** subsection (h) or (k) of section 1034 55 See References in Text note below. (as in effect on the day before the date of the enactment of this paragraph) did not suspend the running of any period of time specified in section 1034 5 (as so in effect) with respect to such individual on the day before the date the distribution is applied pursuant to subparagraph (A).
+        - **(II)** subsection (h) or (k) of section 1034 44 See References in Text note below. (as in effect on the day before the date of the enactment of this paragraph) did not suspend the running of any period of time specified in section 1034 4 (as so in effect) with respect to such individual on the day before the date the distribution is applied pursuant to subparagraph (A).
       - **(ii)** *Principal residence* The term “principal residence” has the same meaning as when used in section 121.
       - **(iii)** *Date of acquisition* The term “date of acquisition” means the date—
         - **(I)** on which a binding contract to acquire the principal residence to which subparagraph (A) applies is entered into, or
@@ -516,11 +520,11 @@ section: 72
 
 3 So in original. Probably should refer to section 8336a.
 
-5 See References in Text note below.
+4 See References in Text note below.
 
-### Amendment of Subsection (t)(2)
+### Inflation Adjusted Items for Certain Years
 
-Pub. L. 117–328, div. T, title III, § 334(c), (e), Dec. 29, 2022, 136 Stat. 5370, 5372, provided that, applicable to distributions made after the date which is 3 years after Dec. 29, 2022, subsection (t)(2) of this section is amended by adding at the end the following new subparagraph: “(N) Qualified long-term care distributions “(i) In general “Any qualified long-term care distribution to which section 401(a)(39) applies. “(ii) Exception “If, with respect to the plan, the individual covered by the long-term care coverage to which such distribution relates is the spouse of the employee, clause (i) shall apply only if the employee and the employee’s spouse file a joint return. “(iii) Exemption of distributions from trustee to trustee transfer and withholding rules “For purposes of sections 401(a)(31), 402(f), and 3405, any qualified long-term care distribution described in clause (i) shall not be treated as an eligible rollover distribution.”. See 2022 Amendment note below.
+For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.
 
 ### Editorial Notes
 
