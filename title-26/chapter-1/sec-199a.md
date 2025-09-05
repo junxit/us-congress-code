@@ -181,7 +181,7 @@ section: 199A
   - **(2)** *Applicable taxpayer* For purposes of this subsection—
     - **(A)** *In general* The term “applicable taxpayer” means, with respect to any taxable year, a taxpayer whose aggregate qualified business income with respect to all active qualified trades or businesses of the taxpayer for such taxable year is at least $1,000.
     - **(B)** *Active qualified trade or business* The term “active qualified trade or business” means, with respect to any taxpayer for any taxable year, any qualified trade or business of the taxpayer in which the taxpayer materially participates (within the meaning of section 469(h)).
-  - **(3)** *Inflation adjustment* In the case of any taxable year beginning after 2026, the $400 amount in paragraph (1)(B) and the $1,000 amount in paragraph (2)(A) shall each be increased by an amount equal to —
+  - **(3)** *Inflation adjustment* In the case of any taxable year beginning after 2026, the $400 amount in paragraph (1)(B) and the $1,000 amount in paragraph (2)(A) shall each be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
     - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2025” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 

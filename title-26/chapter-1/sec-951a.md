@@ -11,7 +11,7 @@ section: 951A
 - **(b)** *Net CFC tested income* For purposes of this section—
   - **(1)** *In general* The term “net CFC tested income” means, with respect to any United States shareholder for any taxable year of such United States shareholder, the excess (if any) of—
     - **(A)** the aggregate of such shareholder’s pro rata share of the tested income of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of such United States shareholder, over
-    - **(B)** the aggregate of such shareholder’s pro rata share of the tested loss of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of such United States shareholder .
+    - **(B)** the aggregate of such shareholder’s pro rata share of the tested loss of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of such United States shareholder.
   - **(2)** *Tested income; tested loss* For purposes of this section—
     - **(A)** *Tested income* The term “tested income” means, with respect to any controlled foreign corporation for any taxable year of such controlled foreign corporation, the excess (if any) of—
       - **(i)** the gross income of such corporation determined without regard to—

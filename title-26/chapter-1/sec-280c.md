@@ -67,11 +67,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 ### Effective Date of 2025 Amendment
 
-Amendment by section 70302(b)(2)(B) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2024, subject to election for retroactive application by certain small businesses and election to deduct certain unamortized amounts paid or incurred in taxable years beginning before Jan. 1, 2025, see section 70302(e), (f) of Pub. L. 119–21, set out as an Effective Date note under section 174A of this title.
-
-### Effective Date of 2025 Amendment
-
-Amendment by section 70304(b) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2025, see section 70304(c) of Pub. L. 119–21, set out as a note under section 45S of this title.
+Amendment by section 70302(b)(2)(B) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2024, subject to election for retroactive application by certain small businesses and election to deduct certain unamortized amounts paid or incurred in taxable years beginning before Jan. 1, 2025, see section 70302(e), (f) of Pub. L. 119–21, set out as an Effective Date note under section 174A of this title. Amendment by section 70304(b) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2025, see section 70304(c) of Pub. L. 119–21, set out as a note under section 45S of this title.
 
 ### Effective Date of 2017 Amendment
 
