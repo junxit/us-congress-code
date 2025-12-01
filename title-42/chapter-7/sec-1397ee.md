@@ -223,8 +223,8 @@ section: 1397ee
         - **(IV)** any other factors that the Administrator determines appropriate.
     - **(D)** *Rural health facility defined* For the purposes of subparagraph (C)(ii), the term “rural health facility” means the following:
       - **(i)** A subsection (d) hospital (as defined in paragraph (1)(B) of section 1395ww(d) of this title) that—
-        - **(I)** is located in a rural area (as defined in paragraph (2)(D) of such section 11 So in original. Probably should be “subsection”.);
-        - **(II)** is treated as being located in a rural area pursuant to paragraph (8)(E) of such section 1; or
+        - **(I)** is located in a rural area (as defined in paragraph (2)(D) of such section 66 So in original. Probably should be “subsection”.);
+        - **(II)** is treated as being located in a rural area pursuant to paragraph (8)(E) of such section 6; or
         - **(III)** is located in a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725)).
       - **(ii)** A critical access hospital (as defined in section 1395x(mm)(1) of this title).
       - **(iii)** A sole community hospital (as defined in section 1395ww(d)(5)(D)(iii) of this title).
@@ -278,7 +278,7 @@ section: 1397ee
 
 5 So in original. The word “the” probably should not appear.
 
-1 So in original. Probably should be “subsection”.
+6 So in original. Probably should be “subsection”.
 
 ### Editorial Notes
 

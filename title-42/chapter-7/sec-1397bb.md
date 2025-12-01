@@ -32,7 +32,7 @@ section: 1397bb
     - **(A)** through both intake and followup screening, that only targeted low-income children are furnished child health assistance under the State child health plan;
     - **(B)** that children found through the screening to be eligible for medical assistance under the State medicaid plan under subchapter XIX are enrolled for such assistance under such plan;
     - **(C)** that the insurance provided under the State child health plan does not substitute for coverage under group health plans;
-    - **(D)** the provision of child health assistance to targeted low-income children in the State who are Indians (as defined in section 1603(c) 22 See References in Text note below. of title 25); and
+    - **(D)** the provision of child health assistance to targeted low-income children in the State who are Indians (as defined in section 1603(c) 11 See References in Text note below. of title 25); and
     - **(E)** coordination with other public and private programs providing creditable coverage for low-income children.
   - **(4)** *Reduction of administrative barriers to enrollment*
     - **(A)** *In general* Subject to subparagraph (B), the plan shall include a description of the procedures used to reduce administrative barriers to the enrollment of children and pregnant women who are eligible for medical assistance under subchapter XIX or for child health assistance or health benefits coverage under this subchapter. Such procedures shall be established and revised as often as the State determines appropriate to take into account the most recent information available to the State identifying such barriers.
@@ -55,11 +55,15 @@ section: 1397bb
 
 ## Notes
 
-2 See References in Text note below.
+1 See References in Text note below.
 
 ### Amendment of Subsection (b)(1)(B)
 
-Pub. L. 119–21, title VII, § 71112(b), (d), July 4, 2025, 139 Stat. 299, provided that, applicable to medical assistance, child health assistance, and pregnancy-related assistance with respect to individuals whose eligibility for such assistance is based on an application made on or after the first day of the first quarter that begins after Dec. 31, 2026, subsection (b)(1)(B) of this section is amended— (1) in clause (iv), by striking “and” at the end; (2) in clause (v), by striking the period and inserting “; and”; and (3) by adding at the end the following new clause: “(vi) shall, in the case that the State elects to provide child health or pregnancy-related assistance to an individual for any period prior to the month in which the individual made application for such assistance (or application was made on behalf of the individual), provide that such assistance is not made available to such individual for items and services included under the State child health plan (or waiver of such plan) that are furnished before the second month preceding the month in which such individual made application (or application was made on behalf of such individual) for assistance.” See 2025 Amendment note below. Amendment of section by section 205(b)(1) of title I of div. G of Pub. L. 118–42 applicable beginning Jan. 1, 2026. See 2024 Amendment notes below.
+Pub. L. 119–21, title VII, § 71112(c), (d), July 4, 2025, 139 Stat. 299, provided that, applicable to medical assistance, child health assistance, and pregnancy-related assistance with respect to individuals whose eligibility for such assistance is based on an application made on or after the first day of the first quarter that begins after Dec. 31, 2026, subsection (b)(1)(B) of this section is amended— (1) in clause (iv), by striking “and” at the end; (2) in clause (v), by striking the period and inserting “; and”; and (3) by adding at the end the following new clause: “(vi) shall, in the case that the State elects to provide child health or pregnancy-related assistance to an individual for any period prior to the month in which the individual made application for such assistance (or application was made on behalf of the individual), provide that such assistance is not made available to such individual for items and services included under the State child health plan (or waiver of such plan) that are furnished before the second month preceding the month in which such individual made application (or application was made on behalf of such individual) for assistance.” See 2025 Amendment note below.
+
+### Applicability of Amendment
+
+Amendment of section by section 205(b)(1) of title I of div. G of Pub. L. 118–42 applicable beginning Jan. 1, 2026. See 2024 Amendment notes below.
 
 ### Editorial Notes
 
