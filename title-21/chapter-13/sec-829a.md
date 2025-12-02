@@ -9,7 +9,9 @@ section: 829a
 
 - **(a)** *In general* Notwithstanding section 802(10) of this title, a pharmacy may deliver a controlled substance to a practitioner in accordance with a prescription that meets the requirements of this subchapter and the regulations issued by the Attorney General under this subchapter, for the purpose of administering the controlled substance by the practitioner if—
   - **(1)** the controlled substance is delivered by the pharmacy to the prescribing practitioner or the practitioner administering the controlled substance, as applicable, at the location listed on the practitioner’s certificate of registration issued under this subchapter;
-  - **(2)** the controlled substance is a narcotic drug in schedule III, IV, or V to be administered for the purpose of maintenance or detoxification treatment and is to be administered by injection or implantation;
+  - **(2)** the controlled substance is a drug in schedule III, IV, or V to be administered—
+    - **(A)** by injection or implantation for the purpose of maintenance or detoxification treatment; or
+    - **(B)** subject to a risk evaluation and mitigation strategy pursuant to section 355–1 of this title that includes elements to assure safe use of the drug described in subsection (f)(3)(E) of such section, including a requirement for post-administration monitoring by a health care provider;
   - **(3)** the pharmacy and the practitioner are authorized to conduct the activities specified in this section under the law of the State in which such activities take place;
   - **(4)** the prescription is not issued to supply any practitioner with a stock of controlled substances for the purpose of general dispensing to patients;
   - **(5)** except as provided in subsection (b), the controlled substance is to be administered only to the patient named on the prescription not later than 45 days after the date of receipt of the controlled substance by the practitioner; and
@@ -23,7 +25,7 @@ section: 829a
 
 ## Source credit
 
-(Pub. L. 91–513, title II, § 309A, as added Pub. L. 115–271, title III, § 3204(a), Oct. 24, 2018, 132 Stat. 3945; amended Pub. L. 117–215, title I, § 103(b)(1)(E), Dec. 2, 2022, 136 Stat. 2263; Pub. L. 117–328, div. FF, title I, §§ 1262(b)(2), 1264, Dec. 29, 2022, 136 Stat. 5682, 5685; Pub. L. 119–26, § 4(2)(B)(iii), July 16, 2025, 139 Stat. 416.)
+(Pub. L. 91–513, title II, § 309A, as added Pub. L. 115–271, title III, § 3204(a), Oct. 24, 2018, 132 Stat. 3945; amended Pub. L. 117–215, title I, § 103(b)(1)(E), Dec. 2, 2022, 136 Stat. 2263; Pub. L. 117–328, div. FF, title I, §§ 1262(b)(2), 1264, Dec. 29, 2022, 136 Stat. 5682, 5685; Pub. L. 119–26, § 4(2)(B)(iii), July 16, 2025, 139 Stat. 416; Pub. L. 119–44, title IV, § 401, Dec. 1, 2025, 139 Stat. 689.)
 
 ## Notes
 
@@ -35,7 +37,7 @@ Schedules III, IV, and V, referred to in subsec. (a)(2), are set out in section 
 
 ### Amendments
 
-2025—Subsec. (a)(2). Pub. L. 119–26, § 4(2)(B)(iii), amended Pub. L. 117–328, § 1262(b)(2). See 2022 Amendment note below. 2022—Subsec. (a)(2). Pub. L. 117–328, § 1262(b)(2), as amended by Pub. L. 119–26, § 4(2)(B)(iii), substituted “the controlled substance is a narcotic drug in schedule III, IV, or V to be administered for the purpose of maintenance or detoxification treatment and is to be administered by injection or implantation;” for “the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under section 823(g)(2) and—” “(A) the practitioner who issued the prescription is a qualifying practitioner authorized under, and acting within the scope of that section; and “(B) the controlled substance is to be administered by injection or implantation;”. Pub. L. 117–215 substituted “823(h)(2)” for “823(g)(2)” in introductory provisions. Subsec. (a)(5). Pub. L. 117–328, § 1264, substituted “45 days” for “14 days”.
+2025—Subsec. (a)(2). Pub. L. 119–44, § 401, added par. (2) and struck out former par. (2) which read as follows: “the controlled substance is a narcotic drug in schedule III, IV, or V to be administered for the purpose of maintenance or detoxification treatment and is to be administered by injection or implantation;”. Pub. L. 119–26, § 4(2)(B)(iii), amended Pub. L. 117–328, § 1262(b)(2). See 2022 Amendment note below. 2022—Subsec. (a)(2). Pub. L. 117–328, § 1262(b)(2), as amended by Pub. L. 119–26, § 4(2)(B)(iii), substituted “the controlled substance is a narcotic drug in schedule III, IV, or V to be administered for the purpose of maintenance or detoxification treatment and is to be administered by injection or implantation;” for “the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under section 823(g)(2) and—” “(A) the practitioner who issued the prescription is a qualifying practitioner authorized under, and acting within the scope of that section; and “(B) the controlled substance is to be administered by injection or implantation;”. Pub. L. 117–215 substituted “823(h)(2)” for “823(g)(2)” in introductory provisions. Subsec. (a)(5). Pub. L. 117–328, § 1264, substituted “45 days” for “14 days”.
 
 ### Statutory Notes and Related Subsidiaries
 

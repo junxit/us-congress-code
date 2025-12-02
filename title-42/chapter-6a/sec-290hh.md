@@ -40,4 +40,4 @@ section: 290hh
 
 ### Codification
 
-Another section 581 of act July 1, 1944, is classified to section 290kk of this title.
+Another section 581 of act July 1, 1944, was renumbered section 596 and is classified to section 290kk of this title.

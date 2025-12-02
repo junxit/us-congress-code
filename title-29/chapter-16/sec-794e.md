@@ -49,7 +49,7 @@ section: 794e
 - **(l)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $17,650,000 for fiscal year 2015, $19,013,000 for fiscal year 2016, $19,408,000 for fiscal year 2017, $19,838,000 for fiscal year 2018, $20,305,000 for fiscal year 2019, and $20,735,000 for fiscal year 2020.
 - **(m)** *Definitions* As used in this section:
   - **(1)** *Eligible system* The term “eligible system” means a protection and advocacy system that is established under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [42 U.S.C. 15041 et seq.] and that meets the requirements of subsection (f).
-  - **(2)** *American Indian consortium* The term “American Indian consortium” means a consortium established as described in section 142 2 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042).
+  - **(2)** *American Indian consortium* The term “American Indian consortium” means a consortium established as described in section 142 1 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042).
 
 ## Source credit
 

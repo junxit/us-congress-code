@@ -12,7 +12,7 @@ section: 629d
     - **(A)** 75 percent of the total expenditures by the State for activities under the plan during the fiscal year or the immediately succeeding fiscal year; or
     - **(B)** the allotment of the State under subsection (a), (b), or (c) of section 629c of this title, whichever is applicable, for the fiscal year; and
   - **(2)** the lesser of—
-    - **(A)** 75 percent of the total expenditures by the State in accordance with section 629f(b)(4)(B) of this title during the fiscal year or the immediately succeeding fiscal year; or
+    - **(A)** 75 percent of the total expenditures by the State in accordance with section 629f(b)(3)(B) of this title during the fiscal year or the immediately succeeding fiscal year; or
     - **(B)** the allotment of the State under section 629c(e) of this title for the fiscal year.
 - **(b)** *Prohibitions*
   - **(1)** *No use of other Federal funds for State match* Each State receiving an amount paid under subsection (a) may not expend any Federal funds to meet the costs of services under the State plan under section 629b of this title not covered by the amount so paid.
@@ -25,10 +25,6 @@ section: 629d
 (Aug. 14, 1935, ch. 531, title IV, § 434, as added Pub. L. 103–66, title XIII, § 13711(a)(2), Aug. 10, 1993, 107 Stat. 653; amended Pub. L. 107–133, title I, § 104, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§ 3(f)(1), 4(a)(3), 5(b)(3)(B), Sept. 28, 2006, 120 Stat. 1236, 1237, 1243; Pub. L. 118–258, title I, § 115(b)(2)(C), Jan. 4, 2025, 138 Stat. 2969.)
 
 ## Notes
-
-### Amendment of Subsection (a)(2)(A)
-
-Pub. L. 118–258, title I, §§ 115(b)(2)(C), 117, Jan. 4, 2025, 138 Stat. 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, subsection (a)(2)(A) of this section is amended by striking “629f(b)(4)(B)” and inserting “629f(b)(3)(B)”. See 2025 Amendment note below.
 
 ### Editorial Notes
 

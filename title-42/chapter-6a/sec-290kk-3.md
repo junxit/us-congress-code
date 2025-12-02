@@ -14,4 +14,4 @@ section: 290kk–3
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title V, § 584, as added Pub. L. 106–554, § 1(a)(7) [title I, § 144], Dec. 21, 2000, 114 Stat. 2763, 2763A–622.)
+(July 1, 1944, ch. 373, title V, § 596C, formerly § 584, as added Pub. L. 106–554, § 1(a)(7) [title I, § 144], Dec. 21, 2000, 114 Stat. 2763, 2763A–622; renumbered § 596C, Pub. L. 119–44, title I, § 107(a)(2), Dec. 1, 2025, 139 Stat. 674.)

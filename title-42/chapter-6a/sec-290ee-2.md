@@ -30,11 +30,11 @@ section: 290ee–2
       - **(iii)** the resources available to help support individuals in recovery; and
       - **(iv)** related medical outcomes of substance use disorders, the potential of acquiring an infection commonly associated with illicit drug use, and neonatal abstinence syndrome among infants exposed to opioids during pregnancy.
 - **(e)** *Special consideration* In carrying out this section, the Secretary shall give special consideration to the unique needs of rural areas, including areas with an age-adjusted rate of drug overdose deaths that is above the national average and areas with a shortage of prevention and treatment services.
-- **(f)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2019 through 2023.
+- **(f)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $17,000,000 for each of fiscal years 2026 through 2030.
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title V, § 547, as added Pub. L. 114–198, title III, § 302, July 22, 2016, 130 Stat. 719; amended Pub. L. 115–271, title VII, § 7151, Oct. 24, 2018, 132 Stat. 4057.)
+(July 1, 1944, ch. 373, title V, § 547, as added Pub. L. 114–198, title III, § 302, July 22, 2016, 130 Stat. 719; amended Pub. L. 115–271, title VII, § 7151, Oct. 24, 2018, 132 Stat. 4057; Pub. L. 119–44, title III, § 301, Dec. 1, 2025, 139 Stat. 684.)
 
 ## Notes
 
@@ -46,4 +46,4 @@ A prior section 290ee–2, act July 1, 1944, ch. 373, title V, § 547, formerly 
 
 ### Amendments
 
-2018—Pub. L. 115–271 amended section generally. Prior to amendment, section authorized the Secretary to award grants to recovery community organizations to enable such organizations to develop, expand, and enhance recovery services, set the Federal share of program costs at no more than 50 percent, and appropriated $1,000,000 for each of fiscal years 2017 through 2021.
+2025—Subsec. (f). Pub. L. 119–44 substituted “$17,000,000 for each of fiscal years 2026 through 2030” for “$5,000,000 for each of fiscal years 2019 through 2023”. 2018—Pub. L. 115–271 amended section generally. Prior to amendment, section authorized the Secretary to award grants to recovery community organizations to enable such organizations to develop, expand, and enhance recovery services, set the Federal share of program costs at no more than 50 percent, and appropriated $1,000,000 for each of fiscal years 2017 through 2021.

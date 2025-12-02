@@ -19,12 +19,4 @@ section: 290kk
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title V, § 581, as added Pub. L. 106–554, § 1(a)(7) [title I, § 144], Dec. 21, 2000, 114 Stat. 2763, 2763A–619.)
-
-## Notes
-
-### Editorial Notes
-
-### Codification
-
-Another section 581 of act July 1, 1944, is classified to section 290hh of this title.
+(July 1, 1944, ch. 373, title V, § 596, formerly § 581, as added Pub. L. 106–554, § 1(a)(7) [title I, § 144], Dec. 21, 2000, 114 Stat. 2763, 2763A–619; renumbered § 596, Pub. L. 119–44, title I, § 107(a)(2), Dec. 1, 2025, 139 Stat. 674.)

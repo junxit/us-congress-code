@@ -14,8 +14,8 @@ section: 290ee–7
 - **(c)** *Minimum number of Centers* The Secretary shall allocate the amounts made available under subsection (j) such that not fewer than 10 grants may be awarded. Not more than one grant shall be made to entities in a single State for any one period.
 - **(d)** *Application*
   - **(1)** *Eligible entity* An entity is eligible for a grant under this section if the entity offers treatment and other services for individuals with a substance use disorder.
-  - **(2)** *Submission of application* In order to be eligible for a grant under subsection (a), an entity shall submit an application to the Secretary at such time and in such manner as the Secretary may require. Such application shall include—
-    - **(A)** evidence that such entity carries out, or is capable of coordinating with other entities to carry out, the activities described in subsection (g); and
+  - **(2)** *Submission of application* In order to be eligible for a grant under subsection (a), an entity shall submit an application to the Secretary at such time, in such manner, and containing such information and assurances, including relevant documentation, as the Secretary may require. Such application shall include—
+    - **(A)** evidence that such entity carries out, or has the demonstrated capability to carry out, through referral or contractual arrangements, the activities described in subsection (g); and
     - **(B)** such other information as the Secretary may require.
 - **(e)** *Priority* In awarding grants under subsection (a), the Secretary shall give priority to eligible entities—
   - **(1)** located in a State with an age-adjusted rate of drug overdose deaths that is above the national overdose mortality rate, as determined by the Director of the Centers for Disease Control and Prevention; or
@@ -44,17 +44,19 @@ section: 290ee–7
     - **(A)** training and supervising outreach staff, as appropriate, to work with State and local health departments, health care providers, the Indian Health Service, State and local educational agencies, schools funded by the Indian Bureau of Education, institutions of higher education, State and local workforce development boards, State and local community action agencies, public safety officials, first responders, Indian Tribes, child welfare agencies, as appropriate, and other community partners and the public, including patients, to identify and respond to community needs;
     - **(B)** ensuring that the entities described in subparagraph (A) are aware of the services of the Center; and
     - **(C)** disseminating and making publicly available, including through the internet, evidence-based resources that educate professionals and the public on opioid use disorder and other substance use disorders, including co-occurring substance use and mental disorders.
-- **(h)** *Data reporting and program oversight* With respect to a grant awarded under subsection (a), not later than 90 days after the end of the first year of the grant period, and annually thereafter for the duration of the grant period (including the duration of any renewal period for such grant), the entity shall submit data, as appropriate, to the Secretary regarding—
-  - **(1)** the programs and activities funded by the grant;
-  - **(2)** health outcomes of the population of individuals with a substance use disorder who received services from the Center, evaluated by an independent program evaluator through the use of outcomes measures, as determined by the Secretary;
-  - **(3)** the retention rate of program participants; and
-  - **(4)** any other information that the Secretary may require for the purpose of—ensuring 11 So in original. that the Center is complying with all the requirements of the grant, including providing the full continuum of services described in subsection (g)(1)(B).
+- **(h)** *Data reporting and program oversight*
+  - **(1)** *In general* With respect to a grant awarded under subsection (a), not later than 90 days after the end of the first year of the grant period, and annually thereafter for the duration of the grant period (including the duration of any renewal period for such grant), the entity shall submit data, as appropriate, to the Secretary regarding—
+    - **(A)** the programs and activities funded by the grant;
+    - **(B)** health outcomes of the population of individuals with a substance use disorder who received services from the Center, evaluated by an independent program evaluator through the use of outcomes measures, as determined by the Secretary;
+    - **(C)** the retention rate of program participants; and
+    - **(D)** any other information that the Secretary may require for the purpose of—ensuring 11 So in original. that the Center is complying with all the requirements of the grant, including providing the full continuum of services described in subsection (g)(1)(B).
+  - **(2)** *Additional reporting for certain eligible entities* An entity carrying out activities described in subsection (g) through referral or contractual arrangements shall include in the submissions required under paragraph (1) information related to the status of such referrals or contractual arrangements, including an assessment of whether such referrals or contractual arrangements are supporting the ability of such entity to carry out such activities.
 - **(i)** *Privacy* The provisions of this section, including with respect to data reporting and program oversight, shall be subject to all applicable Federal and State privacy laws.
-- **(j)** *Authorization of appropriations* There is authorized to be appropriated $10,000,000 for each of fiscal years 2019 through 2023 for purposes of carrying out this section.
+- **(j)** *Authorization of appropriations* There is authorized to be appropriated $10,000,000 for each of fiscal years 2026 through 2030 for purposes of carrying out this section.
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title V, § 552, as added Pub. L. 115–271, title VII, § 7121(a), Oct. 24, 2018, 132 Stat. 4043.)
+(July 1, 1944, ch. 373, title V, § 552, as added Pub. L. 115–271, title VII, § 7121(a), Oct. 24, 2018, 132 Stat. 4043; amended Pub. L. 119–44, title III, § 303, Dec. 1, 2025, 139 Stat. 685.)
 
 ## Notes
 
@@ -65,3 +67,7 @@ section: 290ee–7
 ### References in Text
 
 Section 2 of the Expanding Capacity for Health Outcomes Act, referred to in subsec. (f), is section 2 of Pub. L. 114–270, Dec. 14, 2016, 130 Stat. 1395, which is not classified to the Code. The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(1)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+
+### Amendments
+
+2025—Subsec. (d)(2). Pub. L. 119–44, § 303(1)(A), substituted “, in such manner, and containing such information and assurances, including relevant documentation,” for “and in such manner” in introductory provisions. Subsec. (d)(2)(A). Pub. L. 119–44, § 303(1)(B), substituted “has the demonstrated capability to carry out, through referral or contractual arrangements” for “is capable of coordinating with other entities to carry out”. Subsec. (h). Pub. L. 119–44, § 303(2), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned margins, and added par. (2). Subsec. (j). Pub. L. 119–44, § 303(3), substituted “2026 through 2030” for “2019 through 2023”.
