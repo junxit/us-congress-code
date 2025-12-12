@@ -53,7 +53,7 @@ section: 78u–6
 - **(f)** *Appeals* Any determination made under this section, including whether, to whom, or in what amount to make awards, shall be in the discretion of the Commission. Any such determination, except the determination of the amount of an award if the award was made in accordance with subsection (b), may be appealed to the appropriate court of appeals of the United States not more than 30 days after the determination is issued by the Commission. The court shall review the determination made by the Commission in accordance with section 706 of title 5.
 - **(g)** *Investor Protection Fund*
   - **(1)** *Fund established* There is established in the Treasury of the United States a fund to be known as the “Securities and Exchange Commission Investor Protection Fund”.
-- **(a)** *Use of Fund 11 So in original. Probably should be “(2)”.* The Fund shall be available to the Commission, without further appropriation or fiscal year limitation, for paying awards to whistleblowers as provided in subsection (b).
+- **(a)** *Use of Fund 11 So in original. Probably should be designated “(2)”.* The Fund shall be available to the Commission, without further appropriation or fiscal year limitation, for paying awards to whistleblowers as provided in subsection (b).
   - **(3)** *Deposits and credits*
     - **(A)** *In general* There shall be deposited into or credited to the Fund an amount equal to—
       - **(i)** any monetary sanction collected by the Commission in any judicial or administrative action brought by the Commission under the securities laws that is not added to a disgorgement fund or other fund under section 308 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246) or otherwise distributed to victims of a violation of the securities laws, or the rules and regulations thereunder, underlying such action, unless the balance of the Fund at the time the monetary sanction is collected exceeds $300,000,000;
@@ -124,7 +124,7 @@ section: 78u–6
 
 ## Notes
 
-1 So in original. Probably should be “(2)”.
+1 So in original. Probably should be designated “(2)”.
 
 ### Editorial Notes
 
