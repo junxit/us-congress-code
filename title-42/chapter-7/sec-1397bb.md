@@ -61,10 +61,6 @@ section: 1397bb
 
 Pub. L. 119–21, title VII, § 71112(c), (d), July 4, 2025, 139 Stat. 299, provided that, applicable to medical assistance, child health assistance, and pregnancy-related assistance with respect to individuals whose eligibility for such assistance is based on an application made on or after the first day of the first quarter that begins after Dec. 31, 2026, subsection (b)(1)(B) of this section is amended— (1) in clause (iv), by striking “and” at the end; (2) in clause (v), by striking the period and inserting “; and”; and (3) by adding at the end the following new clause: “(vi) shall, in the case that the State elects to provide child health or pregnancy-related assistance to an individual for any period prior to the month in which the individual made application for such assistance (or application was made on behalf of the individual), provide that such assistance is not made available to such individual for items and services included under the State child health plan (or waiver of such plan) that are furnished before the second month preceding the month in which such individual made application (or application was made on behalf of such individual) for assistance.” See 2025 Amendment note below.
 
-### Applicability of Amendment
-
-Amendment of section by section 205(b)(1) of title I of div. G of Pub. L. 118–42 applicable beginning Jan. 1, 2026. See 2024 Amendment notes below.
-
 ### Editorial Notes
 
 ### References in Text
