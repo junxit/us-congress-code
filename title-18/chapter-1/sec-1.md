@@ -19,6 +19,10 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+### Short Title of 2026 Amendment
+
+Pub. L. 119–73, § 1, Jan. 23, 2026, 139 Stat. 2003, provided that: “This Act [enacting sections 28 and 3771A of this title, amending section 7102 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under section 28 of this title and section 10110 of Title 34, Crime Control and Law Enforcement] may be cited as the ‘Trafficking Survivors Relief Act’.”
+
 ### Short Title of 2024 Amendment
 
 Pub. L. 118–78, § 1, July 30, 2024, 138 Stat. 1512, provided that: “This Act [enacting section 1352 of this title and amending section 201 of this title] may be cited as the ‘Foreign Extortion Prevention Technical Corrections Act’.” Pub. L. 118–77, § 1, July 30, 2024, 138 Stat. 1510, provided that: “This Act [amending section 3663A of this title] may be cited as the ‘Victims’ Voices Outside and Inside the Courtroom Effectiveness Act’ or the ‘Victims’ VOICES Act’.” Pub. L. 118–59, § 1, May 7, 2024, 138 Stat. 1014, provided that: “This Act [amending sections 2258A and 2258B of this title and enacting provisions set out as notes under sections 2258A and 2258B of this title] may be cited as the ‘Revising Existing Procedures On Reporting via Technology Act’ or the ‘REPORT Act’.” Pub. L. 118–42, div. G, title III, § 302(a), Mar. 9, 2024, 138 Stat. 451, provided that: “This section [enacting provisions set out as a note under section 3551 of this title] may be cited as the ‘United States Parole Commission Additional Extension Act of 2024’.”
