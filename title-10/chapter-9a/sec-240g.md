@@ -13,14 +13,12 @@ section: 240g
   - **(3)** dependencies both between the various defense business systems and between the introduction, replacement, update, modification, and retirement of such systems;
   - **(4)** the amount spent by the Department on operating and maintaining financial management systems during the preceding five fiscal years; and
   - **(5)** the amount spent by the Department on acquiring or developing new financial management systems during such five fiscal years.
-- **(b)** *Report and Briefing Requirements.—*
-  - **(1)** *Annual report.—* Not later than June 30, 2020, and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees an updated report on the Defense Business Systems Audit Remediation Plan under subsection (a).
-  - **(2)** *Semiannual briefings.—* Not later than January 31 and June 30 each year, the Secretary shall provide to the congressional defense committees a briefing on the status of the Defense Business Systems Audit Remediation Plan. Such briefing shall include a description of any updates to the defense business systems roadmap referred to in subsection (a).
+- **(b)** *Annual Report.—* On the same date as the date of the submission of the audited financial statements of the Department of Defense required pursuant to section 240a of this title each year, the Secretary of Defense shall submit to the congressional defense committees an updated annual report on the Defense Business Systems Audit Remediation Plan under subsection (a).
 - **(c)** *Defense Business System.—* In this section, the term “defense business system” has the meaning given such term in section 2222(i)(1)(A) of this title.
 
 ## Source credit
 
-(Added Pub. L. 116–92, div. A, title X, § 1002(a), Dec. 20, 2019, 133 Stat. 1570; amended Pub. L. 116–283, div. A, title X, § 1005(a), Jan. 1, 2021, 134 Stat. 3837; Pub. L. 117–81, div. A, title X, § 1081(a)(8), Dec. 27, 2021, 135 Stat. 1920.)
+(Added Pub. L. 116–92, div. A, title X, § 1002(a), Dec. 20, 2019, 133 Stat. 1570; amended Pub. L. 116–283, div. A, title X, § 1005(a), Jan. 1, 2021, 134 Stat. 3837; Pub. L. 117–81, div. A, title X, § 1081(a)(8), Dec. 27, 2021, 135 Stat. 1920; Pub. L. 119–60, div. A, title X, § 1003, Dec. 18, 2025, 139 Stat. 1028.)
 
 ## Notes
 
@@ -28,4 +26,4 @@ section: 240g
 
 ### Amendments
 
-2021—Subsec. (a)(3). Pub. L. 117–81 substituted a semicolon for “; and” at end. Subsec. (a)(4), (5). Pub. L. 116–283 added pars. (4) and (5).
+2025—Subsec. (b). Pub. L. 119–60 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to annual reports and semiannual briefings on the Defense Business Systems Audit Remediation Plan. 2021—Subsec. (a)(3). Pub. L. 117–81 substituted a semicolon for “; and” at end. Subsec. (a)(4), (5). Pub. L. 116–283 added pars. (4) and (5).

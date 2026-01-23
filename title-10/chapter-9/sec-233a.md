@@ -19,8 +19,16 @@ section: 233a
     - **(E)** the expected disposition of the weapon system after divestment, re-prioritization or retirement; and
     - **(F)** identification of the system or systems that are expected to satisfy the military requirements that were fulfilled by the weapon system once the divestment, re-prioritization, or retirement of that weapon system is completed.
 - **(c)** *Relationship to Other Reports.—* The Secretary of Defense shall ensure that the report required under subsection (a) is deconflicted with the report required under section 222e of this title.
-- **(d)** *Major Weapon System Defined.—* In this section, the term “major weapon system” has the meaning given that term in section 3455(f) of this title.
+- **(d)** *Major Weapon System Defined.—* In this section, the term “major weapon system” has the meaning given that term in section 101(a) of this title.
 
 ## Source credit
 
-(Added Pub. L. 118–31, div. A, title I, § 151, Dec. 22, 2023, 137 Stat. 179.)
+(Added Pub. L. 118–31, div. A, title I, § 151, Dec. 22, 2023, 137 Stat. 179; amended Pub. L. 119–60, div. A, title VIII, § 811(c)(2)(B), Dec. 18, 2025, 139 Stat. 950.)
+
+## Notes
+
+### Editorial Notes
+
+### Amendments
+
+2025—Subsec. (d). Pub. L. 119–60 substituted “section 101(a)” for “section 3455(f)”.

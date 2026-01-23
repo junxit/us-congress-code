@@ -10,7 +10,7 @@ section: 824a
 - **(a)** *Detail of Special Trial Counsel.—* Each Secretary concerned shall promulgate regulations for the detail of commissioned officers to serve as special trial counsel.
 - **(b)** *Qualifications.—* A special trial counsel shall be a commissioned officer who—
   - **(1)**
-    - **(A)** is a member of the bar of a Federal court or a member of the bar of the highest court of a State; and
+    - **(A)** is a judge advocate who is qualified under section 806(a)(1) of this title (article 6(a)(1)); and
     - **(B)** is certified to be qualified, by reason of education, training, experience, and temperament, for duty as a special trial counsel by—
       - **(i)** the Judge Advocate General of the armed force of which the officer is a member; or
       - **(ii)** in the case of the Marine Corps, the Staff Judge Advocate to the Commandant of the Marine Corps; and
@@ -48,7 +48,7 @@ section: 824a
 
 ## Source credit
 
-(Added Pub. L. 117–81, div. A, title V, § 531(a), Dec. 27, 2021, 135 Stat. 1692; amended Pub. L. 117–263, div. A, title V, § 542(a), Dec. 23, 2022, 136 Stat. 2581; Pub. L. 118–31, div. A, title V, § 531(c)(1), Dec. 22, 2023, 137 Stat. 258; Pub. L. 118–159, div. A, title V, § 562, Dec. 23, 2024, 138 Stat. 1903.)
+(Added Pub. L. 117–81, div. A, title V, § 531(a), Dec. 27, 2021, 135 Stat. 1692; amended Pub. L. 117–263, div. A, title V, § 542(a), Dec. 23, 2022, 136 Stat. 2581; Pub. L. 118–31, div. A, title V, § 531(c)(1), Dec. 22, 2023, 137 Stat. 258; Pub. L. 118–159, div. A, title V, § 562, Dec. 23, 2024, 138 Stat. 1903; Pub. L. 119–60, div. A, title V, § 561(b)(2), Dec. 18, 2025, 139 Stat. 882.)
 
 ## Notes
 
@@ -56,7 +56,7 @@ section: 824a
 
 ### Amendments
 
-2024—Subsec. (d)(1)(A). Pub. L. 118–159, § 562(1), substituted “section 919a (article 119a), section 920 (article 120), section 920a (article 120a),” for “section 920 (article 120),”. Subsec. (d)(2), (3). Pub. L. 118–159, § 562(2), (3), added par. (2) and redesignated former par. (2) as (3). Subsec. (d)(3)(A). Pub. L. 118–159, § 562(4)(A), inserted “or (2)” after “paragraph (1)”. Subsec. (d)(3)(B). Pub. L. 118–159, § 562(4)(B), substituted “subsection (c)(2)(A) or paragraph (1) or (2) of this subsection” for “paragraph (1)”. 2023—Subsec. (d). Pub. L. 118–31 added subsec. (d). 2022—Subsec. (c)(3). Pub. L. 117–263, § 542(a)(1), substituted “Subject to paragraph (5)” for “Subject to paragraph (4)” in introductory provisions. Subsec. (c)(3)(D). Pub. L. 117–263, § 542(a)(2), substituted “an authorized rehearing” for “an ordered rehearing”.
+2025—Subsec. (b)(1)(A). Pub. L. 119–60 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “is a member of the bar of a Federal court or a member of the bar of the highest court of a State; and”. 2024—Subsec. (d)(1)(A). Pub. L. 118–159, § 562(1), substituted “section 919a (article 119a), section 920 (article 120), section 920a (article 120a),” for “section 920 (article 120),”. Subsec. (d)(2), (3). Pub. L. 118–159, § 562(2), (3), added par. (2) and redesignated former par. (2) as (3). Subsec. (d)(3)(A). Pub. L. 118–159, § 562(4)(A), inserted “or (2)” after “paragraph (1)”. Subsec. (d)(3)(B). Pub. L. 118–159, § 562(4)(B), substituted “subsection (c)(2)(A) or paragraph (1) or (2) of this subsection” for “paragraph (1)”. 2023—Subsec. (d). Pub. L. 118–31 added subsec. (d). 2022—Subsec. (c)(3). Pub. L. 117–263, § 542(a)(1), substituted “Subject to paragraph (5)” for “Subject to paragraph (4)” in introductory provisions. Subsec. (c)(3)(D). Pub. L. 117–263, § 542(a)(2), substituted “an authorized rehearing” for “an ordered rehearing”.
 
 ### Statutory Notes and Related Subsidiaries
 

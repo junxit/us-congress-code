@@ -23,6 +23,10 @@ This chapter, referred to in text, was in the original “This Act” meaning th
 
 ### Statutory Notes and Related Subsidiaries
 
+### Short Title of 2025 Amendment
+
+Pub. L. 119–60, div. H, title LXXXI, § 8103(a), Dec. 18, 2025, 139 Stat. 1838, provided that: “This section [amending section 78p of this title and enacting provisions set out as notes under section 78p of this title] may be cited as the ‘Holding Foreign Insiders Accountable Act’.”
+
 ### Short Title 2022 Amendment
 
 Pub. L. 117–263, div. E, title LVIII, § 5801, Dec. 23, 2022, 136 Stat. 3421, provided that: “This title [enacting sections 77z–4 and 78rr of this title and sections 14a, 253, 1772e, 1772f, 1831cc, 1831dd, 4527, 4528, 5334, 5335, 5498, and 5499 of Title 12, Banks and Banking, amending sections 77g, 78d, 78m, 78n, 78o–3, 78o–4, 78o–7, 80a–8, 80a–29, and 80b–4 of this title and sections 1467a, 1844, 5361, and 5468 of Title 12, enacting provisions set out as notes under sections 77g, 78o–3, 78o–4, and 78rr of this title and sections 14a, 253, 1772e, 1831cc, 4527, 5334, 5335, and 5498 of Title 12, and amending provisions set out as a note under section 5491 of Title 12] may be cited as the ‘Financial Data Transparency Act of 2022’.”

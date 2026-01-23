@@ -26,15 +26,20 @@ section: 98h–5
     - **(A)** are determined to be in shortfall in the most recent report on stockpile requirements submitted under subsection (a); and
     - **(B)** the acquisition or disposal of which is included in the Annual Materials and Operations Plan for the operation of the stockpile during the next fiscal year submitted under section 98h–2(b) of this title.
   - **(2)** Each briefing required by paragraph (1) shall include—
-    - **(A)** a description of each material described in that paragraph, including the objective to be achieved if funding is provided, in whole or in part, for the acquisition of the material to remedy the shortfall;
-    - **(B)** an estimate of additional amounts required to provide such funding, if any; and
-    - **(C)** an assessment of the supply chain for each such material, including any assessment of any relevant risk in any such supply chain.
+    - **(A)** a list of the materials described in that paragraph, and a description of each such material, including the objective to be achieved if funding is provided, in whole or in part, for the acquisition of the material to remedy the shortfall;
+    - **(B)** an estimate of additional amounts required to provide such funding, if any;
+    - **(C)** an assessment of the supply chain for each such material, including any assessment of any relevant risk in any such supply chain;
+    - **(D)** a list of such materials that are the highest priority to be acquired for the stockpile in the near term;
+    - **(E)** verification that the National Defense Stockpile Manager manages and evaluates the stockpile using the most complete and accurate data provided by the military departments (as defined under section 101(a) of title 10), including a one-time description of the risks resulting from the inability of the armed services to provide the National Defense Stockpile Manager comprehensive data for all of its required strategic and critical materials; and
+    - **(F)** the amounts appropriated by Congress to the stockpile for both the current fiscal year and the previous fiscal year; 11 So in original. The semicolon probably should be a period.
 
 ## Source credit
 
-(June 7, 1939, ch. 190, § 14, as added Pub. L. 100–180, div. C, title II, § 3202(c), Dec. 4, 1987, 101 Stat. 1246; amended Pub. L. 102–190, div. C, title XXXIII, § 3313(b)(1), (2), Dec. 5, 1991, 105 Stat. 1585; Pub. L. 103–160, div. C, title XXXIII, § 3314, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 104–201, div. C, title XXXIII, § 3311(a), Sept. 23, 1996, 110 Stat. 2856; Pub. L. 117–263, div. A, title XIV, § 1413, Dec. 23, 2022, 136 Stat. 2872.)
+(June 7, 1939, ch. 190, § 14, as added Pub. L. 100–180, div. C, title II, § 3202(c), Dec. 4, 1987, 101 Stat. 1246; amended Pub. L. 102–190, div. C, title XXXIII, § 3313(b)(1), (2), Dec. 5, 1991, 105 Stat. 1585; Pub. L. 103–160, div. C, title XXXIII, § 3314, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 104–201, div. C, title XXXIII, § 3311(a), Sept. 23, 1996, 110 Stat. 2856; Pub. L. 117–263, div. A, title XIV, § 1413, Dec. 23, 2022, 136 Stat. 2872; Pub. L. 119–60, div. A, title XIV, § 1411(a), Dec. 18, 2025, 139 Stat. 1134.)
 
 ## Notes
+
+1 So in original. The semicolon probably should be a period.
 
 ### Editorial Notes
 
@@ -44,7 +49,7 @@ The congressional defense committees, referred to in subsec. (f)(1), are not def
 
 ### Amendments
 
-2022—Subsec. (f). Pub. L. 117–263 added subsec. (f). 1996—Subsecs. (b) to (e). Pub. L. 104–201 added subsecs. (b) to (d), redesignated former subsec. (c) as (e), and struck out former subsec. (b) which related to national emergency planning assumptions set forth in reports required under this section. 1993—Subsec. (b). Pub. L. 103–160 struck out before period at end of first sentence “, based upon total mobilization of the economy of the United States for a sustained conventional global war for a period of not less than three years” and inserted after first sentence “Before October 1, 1994, such assumptions shall be based upon the total mobilization of the economy of the United States for a sustained conventional global war for a period of not less than three years. On and after October 1, 1994, such assumptions shall be based on an assumed national emergency involving military conflict that necessitates an expansion of the Armed Forces together with a significant mobilization of the economy of the United States.” 1991—Pub. L. 102–190, § 3313(b)(2), substituted “Biennial” for “Annual” in section catchline. Subsec. (a). Pub. L. 102–190, § 3313(b)(1), in introductory provisions, substituted “Not later than January 15 of every other year, the Secretary” for “The Secretary” and “a report” for “an annual report” and struck out “shall be submitted with the annual report submitted under section 98h–2(b) of this title and” before “shall include”.
+2025—Subsec. (f)(2)(A). Pub. L. 119–60, § 1411(a)(1), substituted “a list of the materials” for “a description of each material” and inserted “and a description of each such material,” after “paragraph,”. Subsec. (f)(2)(D) to (F). Pub. L. 119–60, § 1411(a)(2)–(4), added subpars. (D) to (F). 2022—Subsec. (f). Pub. L. 117–263 added subsec. (f). 1996—Subsecs. (b) to (e). Pub. L. 104–201 added subsecs. (b) to (d), redesignated former subsec. (c) as (e), and struck out former subsec. (b) which related to national emergency planning assumptions set forth in reports required under this section. 1993—Subsec. (b). Pub. L. 103–160 struck out before period at end of first sentence “, based upon total mobilization of the economy of the United States for a sustained conventional global war for a period of not less than three years” and inserted after first sentence “Before October 1, 1994, such assumptions shall be based upon the total mobilization of the economy of the United States for a sustained conventional global war for a period of not less than three years. On and after October 1, 1994, such assumptions shall be based on an assumed national emergency involving military conflict that necessitates an expansion of the Armed Forces together with a significant mobilization of the economy of the United States.” 1991—Pub. L. 102–190, § 3313(b)(2), substituted “Biennial” for “Annual” in section catchline. Subsec. (a). Pub. L. 102–190, § 3313(b)(1), in introductory provisions, substituted “Not later than January 15 of every other year, the Secretary” for “The Secretary” and “a report” for “an annual report” and struck out “shall be submitted with the annual report submitted under section 98h–2(b) of this title and” before “shall include”.
 
 ### Statutory Notes and Related Subsidiaries
 

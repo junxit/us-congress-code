@@ -23,7 +23,7 @@ section: 710a
 
 ## Source credit
 
-(Added Pub. L. 118–31, div. A, title VI, § 601(a)(1), Dec. 22, 2023, 137 Stat. 288; renumbered 710a and amended Pub. L. 118–159, div. A, title VI, § 603(a), (b), Dec. 23, 2024, 138 Stat. 1931.)
+(Added Pub. L. 118–31, div. A, title VI, § 601(a)(1), Dec. 22, 2023, 137 Stat. 288, § 711; renumbered 710a and amended Pub. L. 118–159, div. A, title VI, § 603(a), (b), Dec. 23, 2024, 138 Stat. 1931; Pub. L. 119–60, div. A, title XVII, § 1701(a)(10), (11), Dec. 18, 2025, 139 Stat. 1208.)
 
 ## Notes
 
@@ -31,7 +31,7 @@ section: 710a
 
 ### Amendments
 
-2024—Pub. L. 118–159 renumbered section 711 of this title relating to parental leave for members of certain reserve components of the armed forces as this section. Subsec. (a)(2). Pub. L. 118–159, § 603(b)(1)(A), substituted “paragraph (1)” for “subparagraph (A)” wherever appearing. Subsec. (a)(2)(B). Pub. L. 118–159, § 603(b)(1)(B), substituted “subparagraph (A)” for “clause (i)” and a period for “.;” at end. Subsec. (b). Pub. L. 118–159, § 603(a), struck out “is a member of the Army, Navy, Marine Corps, Air Force, or Space Force who” after “described in this subsection” in introductory provisions.
+2025—Pub. L. 119–60, § 1701(a)(10), made amendment identical to that made by Pub. L. 118–159, § 603(b)(2). See 2024 Amendment note below. Subsec. (a)(2)(A). Pub. L. 119–60, § 1701(a)(11)(A), made amendment identical to that made by Pub. L. 118–159, § 603(b)(1)(A). See 2024 Amendment note below. Subsec. (a)(2)(B). Pub. L. 119–60, § 1701(a)(11)(B), made amendments identical to that made by Pub. L. 118–159, § 603(b)(1)(A), (B). See 2024 Amendment note below. 2024—Pub. L. 118–159, § 603(b)(2), renumbered section 711 of this title relating to parental leave for members of certain reserve components of the armed forces as this section. Subsec. (a)(2). Pub. L. 118–159, § 603(b)(1)(A), substituted “paragraph (1)” for “subparagraph (A)” wherever appearing. Subsec. (a)(2)(B). Pub. L. 118–159, § 603(b)(1)(B), substituted “subparagraph (A)” for “clause (i)” and a period for “.;” at end. Subsec. (b). Pub. L. 118–159, § 603(a), struck out “is a member of the Army, Navy, Marine Corps, Air Force, or Space Force who” after “described in this subsection” in introductory provisions.
 
 ### Statutory Notes and Related Subsidiaries
 

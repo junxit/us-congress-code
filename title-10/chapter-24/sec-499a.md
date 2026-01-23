@@ -18,11 +18,11 @@ section: 499a
 - **(d)** *Contract Requirements.—* The Secretary and the Administrator shall ensure that any relevant contract relating to a program or project of the nuclear security enterprise and nuclear forces that is entered into after December 11, 2017, appropriately includes—
   - **(1)** requirements and standards for data collection; and
   - **(2)** requirements for reporting on cost, programmatic, and technical data using procedures, standards, and formats approved by the Director of Cost Assessment and Program Evaluation and the Director for Cost Estimating and Program Evaluation.
-- **(e)** *Nuclear Security Enterprise Defined.—* In this section, the term “nuclear security enterprise” has the meaning given that term in section 4002 of the Atomic Energy Defense Act (50 U.S.C. 2501).
+- **(e)** *Nuclear Security Enterprise Defined.—* In this section, the term “nuclear security enterprise” has the meaning given that term in section 6101.
 
 ## Source credit
 
-(Added Pub. L. 115–91, div. A, title XVI, § 1652(a), Dec. 12, 2017, 131 Stat. 1757; amended Pub. L. 115–232, div. A, title X, § 1081(a)(7), Aug. 13, 2018, 132 Stat. 1983.)
+(Added Pub. L. 115–91, div. A, title XVI, § 1652(a), Dec. 12, 2017, 131 Stat. 1757; amended Pub. L. 115–232, div. A, title X, § 1081(a)(7), Aug. 13, 2018, 132 Stat. 1983; Pub. L. 119–60, div. C, title XXXI, § 3111(c)(1)(B), Dec. 18, 2025, 139 Stat. 1460.)
 
 ## Notes
 
@@ -30,4 +30,4 @@ section: 499a
 
 ### Amendments
 
-2018—Subsec. (d). Pub. L. 115–232 substituted “after December 11, 2017,” for “on or after the date of the enactment of this section” in introductory provisions.
+2025—Subsec. (e). Pub. L. 119–60 substituted “section 6101” for “section 4002 of the Atomic Energy Defense Act (50 U.S.C. 2501)”. 2018—Subsec. (d). Pub. L. 115–232 substituted “after December 11, 2017,” for “on or after the date of the enactment of this section” in introductory provisions.

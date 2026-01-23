@@ -28,11 +28,11 @@ section: 222d
   - **(10)** A list of each contract for a munition with a priority rating of “critical to national defense” (commonly referred to as a “DO-rated order”) or a priority rating of “highest national defense urgency” (commonly referred to as a “DX-rated order”) in the Defense Priorities and Allocation System pursuant to part 700 of title 15, Code of Federal Regulations (or any successor regulation).
   - **(11)** A prioritized list of munitions judged to have high value for export for which additional investments would be necessary to enable export, including a description of such investments required.
   - **(12)** A list of munitions subject to the requirements of chapter 2 of the Arms Export Control Act (22 U.S.C. 2761 et seq.) relating to foreign military sales that are anticipated to be exported based on developments in the conflict in Ukraine.
-- **(c)** *Munition Defined.—* In this section, the term “munition” has the meaning given by the Under Secretary of Defense for Acquisition.
+- **(c)** *Munition Defined.—* In this section, the term “munition” has the meaning given that term by the Under Secretary of Defense for Acquisition and Sustainment.
 
 ## Source credit
 
-(Added Pub. L. 117–263, div. A, title XVII, § 1701(d)(1), Dec. 23, 2022, 136 Stat. 2965.)
+(Added Pub. L. 117–263, div. A, title XVII, § 1701(d)(1), Dec. 23, 2022, 136 Stat. 2965; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(6), Dec. 18, 2025, 139 Stat. 1208.)
 
 ## Notes
 
@@ -41,3 +41,7 @@ section: 222d
 ### References in Text
 
 The Arms Export Control Act, referred to in subsec. (b)(12), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320. Chapter 2 of the Act is classified generally to subchapter II (§ 2761 et seq.) of chapter 39 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+
+### Amendments
+
+2025—Subsec. (c). Pub. L. 119–60 inserted “that term” after “meaning given” and “and Sustainment” after “Under Secretary of Defense for Acquisition”.

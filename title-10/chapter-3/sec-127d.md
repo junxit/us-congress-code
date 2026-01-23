@@ -80,3 +80,9 @@ section: 127d
 ### Prior Provisions
 
 A prior section 127d was renumbered section 331 of this title.
+
+### Statutory Notes and Related Subsidiaries
+
+### Irregular Warfare Exercise Laboratory
+
+Pub. L. 119–60, div. A, title X, § 1094, Dec. 18, 2025, 139 Stat. 1066, provided that: “(a) In General.—The Secretary of Defense may establish and maintain an Irregular Warfare Exercise Laboratory to—“(1) support the training, experimentation, preparation, and validation of the United States Armed Forces to conduct full-spectrum irregular warfare activities; and “(2) enable activities to build the capacity and interoperability of the national security forces of friendly foreign countries. “(b) Authorities.—In carrying out the activities authorized under subsection (a), the Secretary may use the authorities under chapter 16 of title 10, United States Code, or other applicable statutory authorities available to the Secretary of Defense. “(c) National Security Forces Defined.—In this section, the term ‘national security forces’ has the meaning given that term in section 301 of title 10, United States Code.”

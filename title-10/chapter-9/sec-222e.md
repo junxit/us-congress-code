@@ -23,13 +23,3 @@ section: 222e
 ## Source credit
 
 (Added Pub. L. 118–31, div. A, title X, § 1002, Dec. 22, 2023, 137 Stat. 378.)
-
-## Notes
-
-1 Another section 222e is set out after this section. See Codification note below.
-
-### Editorial Notes
-
-### Codification
-
-Pub. L. 118–31, div. A, title X, § 1002, Dec. 22, 2023, 137 Stat. 378, provided that this chapter was amended by inserting this section “after section 222d”. Another section 222e, which is set out after this section, had been added and inserted “after section 222d” by Pub. L. 118–31, div. A, title II, § 211, Dec. 22, 2023, 137 Stat. 182.
