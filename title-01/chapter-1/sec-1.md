@@ -39,6 +39,14 @@ Pub. L. 107–207, § 1, Aug. 5, 2002, 116 Stat. 926, provided that: “This Act
 
 Pub. L. 104–199, § 1, Sept. 21, 1996, 110 Stat. 2419, provided that: “This Act [enacting section 7 of this title and section 1738C of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Defense of Marriage Act’.”
 
+### References in Pub. L. 119–75
+
+Pub. L. 119–75, § 3, Feb. 3, 2026, 140 Stat. 174, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Consolidated Appropriations Act, 2026, see Tables for classification] shall be treated as referring only to the provisions of that division.”
+
+### References in Pub. L. 119–74
+
+Pub. L. 119–74, § 3, Jan. 23, 2026, 140 Stat. 5, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Commerce, Justice, Science; Energy and Water Development; and Interior and Environment Appropriations Act, 2026, see Tables for classification] shall be treated as referring only to the provisions of that division.”
+
 ### References in Pub. L. 119–60
 
 Pub. L. 119–60, § 3(1), Dec. 18, 2025, 139 Stat. 748, provided that: “In this Act [National Defense Authorization Act for Fiscal Year 2026, see Tables for classification]: “(1) In divisions A through D, the term ‘this Act’ refers to divisions A through D.”

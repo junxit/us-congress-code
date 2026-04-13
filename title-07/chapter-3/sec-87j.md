@@ -11,13 +11,15 @@ section: 87j
 - **(b)** *Chapter 10 of title 5 as governing* The advisory committee shall be governed by the provisions of chapter 10 of title 5.
 - **(c)** *Clerical assistance and staff personnel* The Secretary shall provide the advisory committee with necessary clerical assistance and staff personnel.
 - **(d)** *Compensation and travel expenses* Members of the advisory committee shall serve without compensation, if not otherwise officers or employees of the United States, except that members shall, while away from their homes or regular places of business in the performance of services under this chapter, be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of title 5.
-- **(e)** *Expiration of Secretary’s authority* The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2025.
+- **(e)** *Expiration of Secretary’s authority* The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2025.11 See United States Grain Standards Act Extension note below.
 
 ## Source credit
 
 (Aug. 11, 1916, ch. 313, pt. B, § 21, as added Pub. L. 100–518, § 2(5), Oct. 24, 1988, 102 Stat. 2586; amended Pub. L. 103–156, §§ 13(b)(1), 14(c), Nov. 24, 1993, 107 Stat. 1529, 1530; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, § 109, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 109–83, § 1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, § 301(g), Sept. 30, 2015, 129 Stat. 520; Pub. L. 116–216, § 7, Dec. 11, 2020, 134 Stat. 1050; Pub. L. 117–286, § 4(a)(20), Dec. 27, 2022, 136 Stat. 4307.)
 
 ## Notes
+
+1 See United States Grain Standards Act Extension note below.
 
 ### Editorial Notes
 
@@ -38,3 +40,7 @@ Amendment by Pub. L. 106–472 effective as if enacted Sept. 30, 2000, see secti
 ### Effective and Termination Dates
 
 That part of section 2 of Pub. L. 100–518 which provided that section was effective for period Oct. 1, 1988, through Sept. 30, 1993, inclusive, was repealed, effective Sept. 30, 1993, by Pub. L. 103–156, §§ 13(a), 16(b), Nov. 24, 1993, 107 Stat. 1529, 1530.
+
+### United States Grain Standards Act Extension
+
+Subsec. (e) of this section to be applied by substituting “September 30, 2026” for “September 30, 2025”, see section 5001 of div. I of Pub. L. 119–75, set out as a note under section 79 of this title.

@@ -16,9 +16,15 @@ section: 950f
   - **(5)**
     - **(A)** For purposes of sections 203, 205, 207, 208, and 209 of title 18, the term “special Government employee” shall include a judge of the Court appointed under paragraph (3).
     - **(B)** A person appointed as a judge of the Court under paragraph (3) shall be considered to be an officer or employee of the United States with respect to such person’s status as a judge, but only during periods in which such person is performing the duties of such a judge. Any provision of law that prohibits or limits the political or business activities of an employee of the United States shall only apply to such a judge during such periods.
-  - **(6)** The term of an appellate military judge assigned to the Court under paragraph (2) or appointed to the Court under paragraph (3) shall expire on the earlier of the date on which—
-    - **(A)** the judge leaves active duty; or
-    - **(B)** the judge is reassigned to other duties in accordance with section 949b(b)(4) of this title.
+  - **(6)**
+    - **(A)** The term of an appellate military judge assigned or appointed to the Court under this subsection shall expire on the earlier of the date on which—
+      - **(i)** the judge leaves active duty; or
+      - **(ii)** the judge is reassigned to other duties in accordance with section 949b(b)(4) of this title.
+    - **(B)** The term of a civilian judge of the Court appointed under paragraph (3) shall expire on the date that is 10 years after the date on which the judge was appointed.
+  - **(7)** Judges of the Court may be removed from office by the President (in the case of a judge appointed under paragraph (3)) or the Secretary of Defense (in the case of an appellate military judge assigned under paragraph (2)) upon notice and hearing, for—
+    - **(A)** neglect of duty;
+    - **(B)** misconduct; or
+    - **(C)** mental or physical disability.
 - **(c)** *Cases To Be Reviewed.—* The Court shall, in accordance with procedures prescribed under regulations of the Secretary, review the record in each case that is referred to the Court by the convening authority under section 950c of this title with respect to any matter properly raised by the accused.
 - **(d)** *Standard and Scope of Review.—* In a case reviewed by the Court under this section, the Court may act only with respect to the findings and sentence as approved by the convening authority. The Court may affirm only such findings of guilty, and the sentence or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved. In considering the record, the Court may weigh the evidence, judge the credibility of witnesses, and determine controverted questions of fact, recognizing that the military commission saw and heard the witnesses.
 - **(e)** *Rehearings.—* If the Court sets aside the findings or sentence, the Court may, except where the setting aside is based on lack of sufficient evidence in the record to support the findings, order a rehearing. If the Court sets aside the findings or sentence and does not order a rehearing, the Court shall order that the charges be dismissed.
@@ -28,10 +34,6 @@ section: 950f
 (Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2603; amended Pub. L. 112–81, div. A, title X, § 1034(c), Dec. 31, 2011, 125 Stat. 1573; Pub. L. 115–91, div. A, title X, § 1082, Dec. 12, 2017, 131 Stat. 1602; Pub. L. 115–232, div. A, title V, § 541(a), Aug. 13, 2018, 132 Stat. 1761; Pub. L. 118–159, div. A, title V, § 567(a), Dec. 23, 2024, 138 Stat. 1905.)
 
 ## Notes
-
-### Amendment of Subsection (b)
-
-Pub. L. 118–159, div. A, title V, § 567, Dec. 23, 2024, 138 Stat. 1905, provided that, effective 180 days after Dec. 23, 2024, and applicable with respect to any civilian judge of the United States Court of Military Commission Review who will have served as such a judge for a period of 10 or more years as of 180 days after Dec. 23, 2024, subsection (b) of this section is amended as follows: (1) in paragraph (6)— (A) by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and indenting appropriately; (B) by striking “The term of an appellate military judge assigned to the Court under paragraph (2) or appointed to the Court under paragraph (3)” and inserting the following: “(A) The term of an appellate military judge assigned or appointed to the Court under this subsection”; and (C) by adding at the end the following new subparagraph: “(B) The term of a civilian judge of the Court appointed under paragraph (3) shall expire on the date that is 10 years after the date on which the judge was appointed.”; and (2) by adding at the end the following new paragraph: “(7) Judges of the Court may be removed from office by the President (in the case of a judge appointed under paragraph (3)) or the Secretary of Defense (in the case of an appellate military judge assigned under paragraph (2)) upon notice and hearing, for— “(A) neglect of duty; “(B) misconduct; or “(C) mental or physical disability.” See 2024 Amendment notes below.
 
 ### Editorial Notes
 

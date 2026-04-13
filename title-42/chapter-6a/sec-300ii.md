@@ -28,14 +28,14 @@ In this subchapter:
     - **(i)** an ability to work with other State and community-based agencies;
     - **(ii)** an understanding of respite care and family caregiver issues across all age groups, disabilities, and chronic conditions; and
     - **(iii)** the capacity to ensure meaningful involvement of family members, family caregivers, and care recipients.
-- **(5)** *Family caregiver* The term “family caregiver” means an unpaid family member, a foster parent, or another unpaid adult, who provides in-home monitoring, management, supervision, or treatment of a child or adult with a special need.
+- **(5)** *Family caregiver* The term “family caregiver” means an unpaid family member, a foster parent, or another unpaid individual, who provides in-home monitoring, management, supervision, or treatment of a child or adult with a special need.
 - **(6)** *Lifespan respite care* The term “lifespan respite care” means a coordinated system of accessible, community-based respite care services for family caregivers of children or adults with special needs.
 - **(7)** *Respite care* The term “respite care” means planned or emergency care provided to a child or adult with a special need in order to provide temporary relief to the family caregiver of that child or adult.
 - **(8)** *State* The term “State” means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 ## Source credit
 
-(July 1, 1944, ch. 373, title XXIX, § 2901, as added Pub. L. 109–442, § 2, Dec. 21, 2006, 120 Stat. 3291.)
+(July 1, 1944, ch. 373, title XXIX, § 2901, as added Pub. L. 109–442, § 2, Dec. 21, 2006, 120 Stat. 3291; amended Pub. L. 119–75, div. J, title V, § 6506(a), Feb. 3, 2026, 140 Stat. 693.)
 
 ## Notes
 
@@ -44,3 +44,7 @@ In this subchapter:
 ### References in Text
 
 The Older Americans Act of 1965, referred to in par. (4)(A), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables. The Social Security Act, referred to in par. (4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+### Amendments
+
+2026—Par. (5). Pub. L. 119–75 substituted “unpaid individual” for “unpaid adult”.

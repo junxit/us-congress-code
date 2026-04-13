@@ -40,7 +40,7 @@ section: 294s
 
 ### Codification
 
-Another section 764 of act July 1, 1944, is classified to section 294t of this title.
+Another section 764 of act July 1, 1944, was renumbered section 764A and is classified to section 294t of this title.
 
 ### Prior Provisions
 

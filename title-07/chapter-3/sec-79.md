@@ -80,7 +80,7 @@ section: 79
   - **(2)** Each designated official agency and each State agency to which authority has been delegated under subsection (e) of this section shall pay to the Secretary fees in such amount as the Secretary determines fair and reasonable and as will cover the estimated costs incurred by the Secretary relating to supervision of official agency personnel and supervision by the Secretary of the Secretary’s field office personnel, except costs incurred under paragraph (3) of subsection (g) of this section and sections 85, 86, and 87c of this title. The fees shall be payable after the services are performed at such times as specified by the Secretary and shall be deposited in the fund created in paragraph (1) of this subsection. Failure to pay the fee within thirty days after it is due shall result in automatic termination of the delegation or designation, which shall be reinstated upon payment, within such period as specified by the Secretary, of the fee currently due plus interest and any further expenses incurred by the Secretary because of such termination. The interest rate on overdue fees shall be as prescribed by the Secretary, but not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturity, plus an additional charge of not to exceed 1 per centum per annum as determined by the Secretary and adjusted to the nearest one-eighth of 1 per centum.
   - **(3)** Any sums collected or received by the Secretary under this chapter and deposited to the fund created in paragraph (1) of this subsection and any late payment penalties collected by the Secretary and credited to such fund may be invested by the Secretary in insured or fully collateralized, interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. The interest earned on such sums and any late payment penalties collected by the Secretary shall be credited to the fund and shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
   - **(4)** *Adjustment of fees.—* In order to maintain an operating reserve of not less than 3 and not more than 6 months, the Secretary shall adjust the fees described in paragraphs (1) and (2) not less frequently than annually.
-  - **(5)** The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2025. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
+  - **(5)** The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2025.22 See United States Grain Standards Act Extension note below. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
 
 ## Source credit
 
@@ -89,6 +89,8 @@ section: 79
 ## Notes
 
 1 So in original. Probably should be “the Secretary’s”.
+
+2 See United States Grain Standards Act Extension note below.
 
 ### Editorial Notes
 
@@ -133,6 +135,10 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 ### Effective Date of 1968 Amendment
 
 For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90–487, set out as a note under section 78 of this title.
+
+### United States Grain Standards Act Extension
+
+Pub. L. 119–75, div. I, § 5001, Feb. 3, 2026, 140 Stat. 629, provided that: “Sections 7(j)(5), 7A(l)(4), and 21(e) of the United States Grain Standards Act (7 U.S.C. 79(j)(5), 79a(l)(4), 87j(e)) shall be applied by substituting ‘September 30, 2026’ for ‘September 30, 2025’ each place it appears.”
 
 ### Investigations and Studies of Grain Inspection and Weighing in Interior of United States; Completion of Studies and Submission of Reports by May 20, 1979, and Nov. 20, 1979, Respectively
 

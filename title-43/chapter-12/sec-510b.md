@@ -79,3 +79,9 @@ section: 510b
 ### Amendments
 
 2020—Subsec. (d). Pub. L. 116–260 added subsec. (d).
+
+### Statutory Notes and Related Subsidiaries
+
+### Repayment into the Aging Infrastructure Account
+
+Pub. L. 119–74, div. B, title II, § 208, Jan. 23, 2026, 140 Stat. 74, provided that: “In this fiscal year and each fiscal year thereafter, notwithstanding the Act of May 9, 1938, (43 U.S.C. 392a), all monies received by the United States in connection with the repayment or reimbursement of costs for all projects, including power, financed in whole or in part with money from the Aging Infrastructure Account created pursuant to section 9603(d) of the Omnibus Public Land Management Act of 2009 (43 U.S.C. 510b(d)) shall be repaid and deposited to that account.”
