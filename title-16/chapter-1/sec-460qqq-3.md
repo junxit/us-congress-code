@@ -39,10 +39,21 @@ section: 460qqq–3
 - **(g)** *No buffer zones*
   - **(1)** *In general* The establishment of the Conservation Area shall not create an express or implied protective perimeter or buffer zone around the Conservation Area.
   - **(2)** *Private land* If the use of, or conduct of an activity on, private land that shares a boundary with the Conservation Area is consistent with applicable law, nothing in this subchapter concerning the establishment of the Conservation Area shall prohibit or limit the use or conduct of the activity.
+- **(h)** *Horizon lateral pipeline right-of-way*
+  - **(1)** *In general* Notwithstanding sections 202 and 503 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712, 1763) and subject to valid existing rights and paragraph (3), the Secretary of the Interior, acting through the Director of the Bureau of Land Management (referred to in this subsection as the “Secretary”), shall, not later than 1 year after May 19, 2026, grant to the Southern Nevada Water Authority (referred to in this subsection as the “Authority”), not subject to the payment of rents or other charges, the temporary and permanent water pipeline infrastructure, and outside the boundaries of the Conservation Area, powerline, facility, and access road rights-of-way depicted on the map for the purposes of—
+    - **(A)** performing geotechnical investigations within the rights-of-way; and
+    - **(B)** constructing and operating water transmission and related facilities.
+  - **(2)** *Excavation and disposal*
+    - **(A)** *In general* The Authority may, without consideration, excavate and use or dispose of sand, gravel, minerals, or other materials from the tunneling of the water pipeline necessary to fulfill the purpose of the rights-of-way granted under paragraph (1).
+    - **(B)** *Memorandum of understanding* Not later than 30 days after the date on which the rights-of-way are granted under paragraph (1), the Secretary and the Authority shall enter into a memorandum of understanding identifying Federal land on which the Authority may dispose of materials under subparagraph (A) to further the interests of the Bureau of Land Management.
+  - **(3)** *Requirements* A right-of-way issued under this subsection shall be subject to the following requirements:
+    - **(A)** The Secretary may include reasonable terms and conditions, consistent with section 505 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1765), as are necessary to protect Conservation Area resources.
+    - **(B)** Construction of the water pipeline shall not permanently adversely affect conservation area surface resources.
+    - **(C)** The right-of-way shall not be located through or under any area designated as wilderness.
 
 ## Source credit
 
-(Pub. L. 107–282, title VI, § 605, Nov. 6, 2002, 116 Stat. 2010.)
+(Pub. L. 107–282, title VI, § 605, Nov. 6, 2002, 116 Stat. 2010; Pub. L. 119–91, § 3(b), May 19, 2026, 140 Stat. 822.)
 
 ## Notes
 
@@ -53,3 +64,7 @@ section: 460qqq–3
 ### References in Text
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(2)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables. This Act, referred to in subsec. (a)(2)(B), is Pub. L. 107–282, Nov. 6, 2002, 116 Stat. 1994, known as the Clark County Conservation of Public Land and Natural Resources Act of 2002. For complete classification of this Act to the Code, see Short Title note set out under section 460qqq of this title and Tables. Section 208, referred to in subsec. (b)(2)(B)(i)(II), is section 208 of Pub. L. 107–282, Nov. 6, 2002, 116 Stat. 2005, which is not classified to the Code.
+
+### Amendments
+
+2026—Subsec. (h). Pub. L. 119–91 added subsec. (h).
