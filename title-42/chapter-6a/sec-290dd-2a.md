@@ -25,4 +25,4 @@ section: 290dd–2a
 
 ### References in Text
 
-Section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016, referred to in subsec. (b)(2), is section 6021 of Pub. L. 114–255, div. B, title VI, Dec. 13, 2016, 130 Stat. 1215, which is set out as a note under section 290aa of this title.
+Section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016, referred to in subsec. (b)(2), is section 6021 of Pub. L. 114–255, which is set out as a note under section 290aa of this title.

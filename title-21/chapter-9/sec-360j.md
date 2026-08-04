@@ -189,7 +189,7 @@ section: 360j
   - **(1)** All contact lenses shall be deemed to be devices under section 321(h) of this title.
   - **(2)** Paragraph (1) shall not be construed as bearing on or being relevant to the question of whether any product other than a contact lens is a device as defined by section 321(h) of this title or a drug as defined by section 321(g) of this title.
 - **(o)** *Regulation of medical and certain decisions support software*
-  - **(1)** The term device, 11 So in original. Probably should be “The term ‘device’,”. as defined in section 321(h) of this title, shall not include a software function that is intended—
+  - **(1)** The term device,11 So in original. Probably should be “The term ‘device’,”. as defined in section 321(h) of this title, shall not include a software function that is intended—
     - **(A)** for administrative support of a health care facility, including the processing and maintenance of financial records, claims or billing information, appointment schedules, business analytics, information about patient populations, admissions, practice and inventory management, analysis of historical claims data to predict future utilization or cost-effectiveness, determination of health benefit eligibility, population health management, and laboratory workflow;
     - **(B)** for maintaining or encouraging a healthy lifestyle and is unrelated to the diagnosis, cure, mitigation, prevention, or treatment of a disease or condition;
     - **(C)** to serve as electronic patient records, including patient-provided information, to the extent that such records are intended to transfer, store, convert formats, or display the equivalent of a paper medical chart, so long as—

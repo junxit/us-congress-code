@@ -121,7 +121,7 @@ section: 410lll
 
 ## Source credit
 
-(Pub. L. 111–11, title VII, § 7001, Mar. 30, 2009, 123 Stat. 1183;(Pub. L. 113–291, div. B, title XXX, § 3037(a), Dec. 19, 2014, 128 Stat. 3782; Pub. L. 114–289, title VI, § 601(i), Dec. 16, 2016, 130 Stat. 1491.)
+(Pub. L. 111–11, title VII, § 7001, Mar. 30, 2009, 123 Stat. 1183; Pub. L. 113–291, div. B, title XXX, § 3037(a), Dec. 19, 2014, 128 Stat. 3782; Pub. L. 114–289, title VI, § 601(i), Dec. 16, 2016, 130 Stat. 1491.)
 
 ## Notes
 
